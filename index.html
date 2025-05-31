@@ -3,89 +3,207 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>韓語學習網 - 首頁</title>
+    <title>LMT韓語學習區 - 首頁</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/style.css">
-    <style>
-        /* Custom styles for index page, can be moved to style.css */
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css"> <style>
         body {
-            font-family: 'Inter', sans-serif;
-            background-color: #111827; /* Tailwind gray-900 */
-            color: #D1D5DB; /* Tailwind gray-300 */
+            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
+            background-color: #121826; /* Darker base */
+            color: #E0E7FF; /* Softer light text */
         }
         .hero-section {
-            background: linear-gradient(rgba(17, 24, 39, 0.8), rgba(17, 24, 39, 0.8)), url('https://placehold.co/1920x1080/1F2937/E0E0E0?text=韓語學習背景');
+            background: linear-gradient(rgba(18, 24, 38, 0.85), rgba(18, 24, 38, 0.85)), url('https://placehold.co/1920x1080/1F2937/374151?text=學習背景圖'); /* Placeholder, replace with a real image */
             background-size: cover;
             background-position: center;
+        }
+        .feature-card {
+            background-color: #1F2937; /* Tailwind gray-800 */
+            border: 1px solid #374151; /* Tailwind gray-700 */
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .feature-card:hover {
+            transform: translateY(-5px) scale(1.02);
+            box-shadow: 0 10px 25px rgba(79, 70, 229, 0.3); /* Indigo shadow on hover */
+        }
+        .feature-icon svg {
+            width: 3.5rem; /* w-14 */
+            height: 3.5rem; /* h-14 */
+            margin: 0 auto 1rem; /* mx-auto mb-4 */
+            color: #818CF8; /* Tailwind indigo-400 */
+        }
+        .btn-primary {
+            @apply bg-indigo-600 hover:bg-indigo-500 text-white font-semibold py-3 px-8 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
+        }
+        .btn-secondary {
+            @apply bg-sky-500 hover:bg-sky-400 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
+        }
+        /* Custom scrollbar (consistent with grammar page) */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #1F2937;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #4A5568;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #718096;
         }
     </style>
 </head>
 <body class="antialiased">
-    <header class="bg-gray-800 shadow-md sticky top-0 z-50">
-        <nav class="container mx-auto px-6 py-3">
-            <div class="flex items-center justify-between">
-                <div class="text-white font-bold text-xl">
-                    <a href="./index.html">韓語學習網</a>
+    <header class="bg-gray-900 text-white shadow-lg sticky top-0 z-50">
+        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <a href="./index.html" class="text-2xl font-bold text-sky-400 hover:text-sky-300 transition-colors">LMT韓語學習區</a>
                 </div>
-                <div class="flex space-x-4">
-                    <a href="./index.html" class="text-white bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">首頁</a>
-                    <a href="./grammar/index.html" class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">文法教學</a>
-                    <a href="#" class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">單字學習 (待建)</a>
-                    <a href="#" class="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">歌曲教學 (待建)</a>
+                <div class="hidden md:flex space-x-4">
+                    <a href="./index.html" class="nav-link active">首頁</a>
+                    <a href="./grammar/index.html" class="nav-link">文法教學</a>
+                    <a href="#" class="nav-link text-gray-500 cursor-not-allowed">單字學習</a>
+                    <a href="#" class="nav-link text-gray-500 cursor-not-allowed">歌曲教學</a>
                 </div>
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-menu" class="md:hidden hidden pb-3">
+                <a href="./index.html" class="mobile-nav-link block active">首頁</a>
+                <a href="./grammar/index.html" class="mobile-nav-link block">文法教學</a>
+                <a href="#" class="mobile-nav-link block text-gray-500 cursor-not-allowed">單字學習</a>
+                <a href="#" class="mobile-nav-link block text-gray-500 cursor-not-allowed">歌曲教學</a>
             </div>
         </nav>
     </header>
 
     <section class="hero-section text-white py-20 md:py-32">
         <div class="container mx-auto px-6 text-center">
-            <h1 class="text-4xl md:text-6xl font-bold mb-6">開始您的韓語學習之旅</h1>
-            <p class="text-lg md:text-xl mb-8 text-gray-300">探索豐富的文法、單字和歌曲教學資源。</p>
-            <a href="./grammar/index.html" class="bg-teal-500 hover:bg-teal-600 text-white font-bold py-3 px-8 rounded-lg text-lg transition duration-300">
-                學習文法
+            <h1 class="text-4xl md:text-6xl font-bold mb-6 leading-tight">
+                <span class="block">探索韓語的奧秘</span>
+                <span class="block text-indigo-400 text-3xl md:text-5xl mt-2">從 LMT韓語學習區開始</span>
+            </h1>
+            <p class="text-lg md:text-xl mb-10 text-gray-300 max-w-2xl mx-auto">
+                無論您是初學者還是希望精進，這裡都有為您準備的清晰文法、實用單字與動聽歌曲教學。
+            </p>
+            <a href="./grammar/index.html" class="btn-primary text-lg">
+                開始學習文法
             </a>
         </div>
     </section>
 
-    <section class="py-16 bg-gray-900">
-        <div class="container mx-auto px-6">
-            <h2 class="text-3xl font-bold text-center text-blue-300 mb-12">網站特色</h2>
-            <div class="grid md:grid-cols-3 gap-8 text-center">
-                <div class="bg-gray-800 p-8 rounded-lg shadow-xl border border-gray-700">
-                    <div class="text-teal-400 mb-4">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto">
+    <section class="py-16 bg-gray-950"> <div class="container mx-auto px-6">
+            <h2 class="text-3xl md:text-4xl font-bold text-center text-indigo-300 mb-16">學習核心模組</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+                <a href="./grammar/index.html" class="block feature-card p-8 rounded-xl shadow-2xl">
+                    <div class="feature-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
                           <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 0 0 6 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 0 1 6 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 0 1 6-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0 0 18 18a8.967 8.967 0 0 0-6-2.292m0 0V21M12 6.042A8.967 8.967 0 0 1 18 3.75m0 14.25V6.042" />
                         </svg>
                     </div>
-                    <h3 class="text-xl font-semibold text-gray-100 mb-2">詳細文法解析</h3>
-                    <p class="text-gray-400">深入淺出的文法說明，搭配實用例句與記憶技巧。</p>
-                </div>
-                <div class="bg-gray-800 p-8 rounded-lg shadow-xl border border-gray-700">
-                    <div class="text-teal-400 mb-4">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto">
-                           <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 12h16.5m-16.5 3.75h16.5M3.75 19.5h16.5M5.625 4.5h12.75a1.875 1.875 0 0 1 0 3.75H5.625a1.875 1.875 0 0 1 0-3.75Z" />
+                    <h3 class="text-2xl font-semibold text-sky-300 mb-3">文法教學</h3>
+                    <p class="text-gray-400 leading-relaxed">系統化解析韓語文法，搭配豐富例句與記憶技巧，打下堅實基礎。</p>
+                </a>
+                <div class="feature-card p-8 rounded-xl shadow-2xl opacity-60 cursor-not-allowed">
+                     <div class="feature-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                           <path stroke-linecap="round" stroke-linejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10" />
                         </svg>
                     </div>
-                    <h3 class="text-xl font-semibold text-gray-100 mb-2">互動單字卡 (待建)</h3>
-                    <p class="text-gray-400">透過有趣的單字卡片，有效提升詞彙量。</p>
+                    <h3 class="text-2xl font-semibold text-sky-300 mb-3">單字學習</h3>
+                    <p class="text-gray-400 leading-relaxed">（即將推出）透過主題分類與互動卡片，高效擴充您的韓語詞彙量。</p>
                 </div>
-                <div class="bg-gray-800 p-8 rounded-lg shadow-xl border border-gray-700">
-                    <div class="text-teal-400 mb-4">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-16 h-16 mx-auto">
-                          <path stroke-linecap="round" stroke-linejoin="round" d="m9 9 10.5-3m0 6.553v3.75a2.25 2.25 0 0 1-1.632 2.163l-1.32.377a1.803 1.803 0 1 1-.99-3.467l2.31-.66a2.25 2.25 0 0 0 1.632-2.163Zm0 0V2.25L9 5.25v10.303m0 0v3.75a2.25 2.25 0 0 1-1.632 2.163l-1.32.377a1.803 1.803 0 0 1-.99-3.467l2.31-.66A2.25 2.25 0 0 0 9 15.553Z" />
+                <div class="feature-card p-8 rounded-xl shadow-2xl opacity-60 cursor-not-allowed">
+                    <div class="feature-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M9 9l10.5-3m0 6.553v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66a2.25 2.25 0 001.632-2.163zm0 0V2.25L9 5.25v10.303m0 0v3.75a2.25 2.25 0 01-1.632 2.163l-1.32.377a1.803 1.803 0 01-.99-3.467l2.31-.66A2.25 2.25 0 009 15.553z" />
                         </svg>
                     </div>
-                    <h3 class="text-xl font-semibold text-gray-100 mb-2">韓樂歌詞學韓語 (待建)</h3>
-                    <p class="text-gray-400">從喜愛的K-POP歌曲中學習道地韓語表達。</p>
+                    <h3 class="text-2xl font-semibold text-sky-300 mb-3">歌曲教學</h3>
+                    <p class="text-gray-400 leading-relaxed">（即將推出）從流行 K-POP 到經典歌曲，邊唱邊學，感受韓語韻律之美。</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <footer class="bg-gray-800 text-gray-400 text-center py-6">
-        <p>&copy; 2025 韓語學習網. All rights reserved.</p>
+    <section class="py-16 bg-gray-900">
+        <div class="container mx-auto px-6 text-center">
+            <h2 class="text-3xl font-bold text-indigo-300 mb-6">準備好開始了嗎？</h2>
+            <p class="text-lg text-gray-400 mb-8 max-w-xl mx-auto">
+                立即深入探索詳細的文法解析，為您的韓語學習之旅奠定堅實的基礎。
+            </p>
+            <a href="./grammar/index.html" class="btn-secondary text-lg">
+                查看文法指南
+            </a>
+        </div>
+    </section>
+
+    <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-0 border-t border-gray-700"> <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
+        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
     </footer>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Mobile menu toggle
+            const menuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+            if(menuButton && mobileMenu) {
+                menuButton.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                });
+            }
+
+            // Footer current year
+            const yearSpan = document.getElementById('current-year');
+            if (yearSpan) {
+                yearSpan.textContent = new Date().getFullYear();
+            }
+        });
+    </script>
+    <script src="./js/main.js"></script>
 </body>
 </html>
+```
+
+**主要變更與特色：**
+
+* **Hero Section：**
+    * 更具吸引力的標題和副標題。
+    * 使用了 `placehold.co` 的圖片作為背景圖的佔位符，您可以替換成您喜歡的真實圖片。
+    * 主要的行動呼籲按鈕連結到文法教學頁面。
+* **Features Section：**
+    * 以卡片形式展示「文法教學」、「單字學習」和「歌曲教學」。
+    * 「單字學習」和「歌曲教學」目前標示為「即將推出」，並降低了透明度，移除了點擊連結。
+    * 為每個特色卡片添加了 SVG 圖示，增加視覺吸引力。
+    * 卡片有懸停效果。
+* **Call to Action Section (選用)：** 在頁尾前增加了一個額外的行動呼籲區塊，再次引導使用者。
+* **樣式調整：**
+    * 使用了更深色的背景 (`bg-gray-950`) 來區分區塊。
+    * 調整了標題和按鈕的顏色，使其更符合「高級感」。
+    * 按鈕有更精緻的懸停效果。
+* **JavaScript：**
+    * 行動選單的開關邏輯。
+    * 自動更新頁尾的年份。
+    * 引入了 `js/main.js` (您需要確保 `js/main.js` 中的導覽列高亮邏輯能夠正確處理首頁的 `active` 狀態)。
+
+**請注意 `js/main.js` 中的導覽列高亮邏輯：**
+您需要確保 `js/main.js` 中處理導覽列 `active` 狀態的程式碼能夠正確識別 `index.html` 是目前頁面。我先前提供的 `js/main.js` 版本應該已經考慮到了這一點，它會比較 `link.pathname` 和 `window.location.pathname`。
+
+您可以將這段 HTML 儲存為您專案根目錄下的 `index.html`，然後用 Live Server 預覽。
+
+接下來，我們可以：
+1.  微調首頁的樣式或內容。
+2.  開始建構「單字教學」或「歌曲教學」的頁面架構。
+3.  或者，如果您對目前的文法頁面和首頁感到滿意，可以準備將這些更新推送到 GitHub。
+
+您希望接下來進行哪一
