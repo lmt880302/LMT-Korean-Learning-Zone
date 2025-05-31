@@ -1,45 +1,110 @@
-document.addEventListener('DOMContentLoaded', function() {
-    // 選取所有分類標題元素
-    const categoryTitles = document.querySelectorAll('.category-title');
+<script>
+    // 獲取所有文法項目
+    const grammarItems = document.querySelectorAll('.grammar-item');
+    const searchInput = document.querySelector('.search-box input');
+    const categoryCards = document.querySelectorAll('.category-card');
+    const searchResultsInfo = document.createElement('div'); // 建立一個用於顯示搜尋結果資訊的元素
+    searchResultsInfo.id = 'search-results-info';
+    searchInput.parentNode.insertBefore(searchResultsInfo, searchInput.nextSibling); // 插入到搜尋框下方
 
-    // 為每個分類標題添加點擊事件監聽器
-    categoryTitles.forEach(title => {
-        // 預設將所有內容區塊收起來，並給標題添加 'collapsed' 樣式
-        const content = title.nextElementSibling; // 獲取標題後緊鄰的兄弟元素 (即 .category-content)
-        if (content && content.classList.contains('category-content')) {
-            content.style.maxHeight = null; // 清除內聯樣式，讓 CSS 控制
-            content.classList.remove('open'); // 確保初始是關閉狀態
-            title.classList.add('collapsed'); // 箭頭初始指向左邊 (收合)
+    // 語音播放功能 (使用 Web Speech API - SpeechSynthesis)
+    function speakKorean(text) {
+        if ('speechSynthesis' in window) {
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'ko-KR'; // 設定韓語
+            utterance.rate = 0.9; // 稍微放慢語速，讓發音更清晰
+            utterance.pitch = 1; // 語調
+            speechSynthesis.speak(utterance);
+        } else {
+            alert('您的瀏覽器不支援語音播放功能。請嘗試使用 Chrome 或 Edge 瀏覽器。');
+        }
+    }
+
+    // 初始化：將所有文法內容包裹在 .grammar-content 裡，並預設隱藏
+    grammarItems.forEach(item => {
+        // 將 .explanation, .example, .vocabulary, .mnemonic 包裹起來
+        const contentDiv = document.createElement('div');
+        contentDiv.classList.add('grammar-content');
+
+        // 將子元素移動到 contentDiv 中
+        const children = Array.from(item.children); // 獲取所有子元素
+        let foundTitle = false;
+        children.forEach(child => {
+            if (child.classList.contains('grammar-title')) {
+                foundTitle = true; // 找到標題，從此開始將後續元素移入 contentDiv
+            } else if (foundTitle) {
+                contentDiv.appendChild(child);
+            }
+        });
+        item.appendChild(contentDiv); // 將 contentDiv 加回 grammar-item
+
+        // 添加點擊標題展開/收合功能
+        const title = item.querySelector('.grammar-title');
+        if (title) {
+            title.addEventListener('click', () => {
+                item.classList.toggle('active'); // 切換 'active' class
+            });
         }
 
-        title.addEventListener('click', function() {
-            // 切換 'collapsed' class 來改變箭頭方向
-            this.classList.toggle('collapsed');
-
-            // 找到該標題對應的內容區塊
-            const contentToToggle = this.nextElementSibling;
-
-            if (contentToToggle && contentToToggle.classList.contains('category-content')) {
-                // 切換 'open' class 來觸發 CSS 的展開/收合動畫
-                contentToToggle.classList.toggle('open');
-
-                // 如果內容區塊是展開的，則設定 max-height
-                // 如果是收合的，則將 max-height 設為 null (或 0)，讓 CSS transition 生效
-                if (contentToToggle.classList.contains('open')) {
-                    // 確保動畫從 0 開始，並在展開後設為內容的實際高度，或一個足夠大的值
-                    // 這裡我們直接依賴 CSS 中的 max-height: 5000px;
-                } else {
-                    // 收合時，依賴 CSS 的 max-height: 0;
-                }
-            }
+        // 為韓文例句和單字添加語音播放圖示
+        item.querySelectorAll('.example .korean, .vocab-item').forEach(el => {
+            const audioIcon = document.createElement('span');
+            audioIcon.classList.add('audio-icon');
+            audioIcon.innerHTML = '&#128266;'; // 喇叭圖示 &#128266;
+            audioIcon.title = '點擊播放韓語';
+            audioIcon.addEventListener('click', (event) => {
+                event.stopPropagation(); // 阻止事件冒泡到 .grammar-title
+                speakKorean(el.textContent.trim());
+            });
+            el.appendChild(audioIcon);
         });
     });
 
-    // (可選) 預設展開第一個分類
-    const firstTitle = document.querySelector('.category-title');
-    const firstContent = document.querySelector('.category-content');
-    if (firstTitle && firstContent) {
-        firstTitle.classList.remove('collapsed'); // 移除收合樣式，箭頭向下
-        firstContent.classList.add('open'); // 打開內容
-    }
-});
+
+    // 搜尋功能
+    searchInput.addEventListener('input', (event) => {
+        const searchTerm = event.target.value.toLowerCase().trim();
+        let matchCount = 0;
+        let visibleCategories = 0;
+
+        categoryCards.forEach(categoryCard => {
+            let categoryMatchCount = 0;
+            const grammarItemsInCategory = categoryCard.querySelectorAll('.grammar-item');
+            const categoryTitle = categoryCard.querySelector('.category-title');
+
+            grammarItemsInCategory.forEach(item => {
+                const textContent = item.textContent.toLowerCase();
+                if (searchTerm === '' || textContent.includes(searchTerm)) {
+                    item.style.display = 'block'; // 顯示匹配的文法項目
+                    item.classList.add('active'); // 展開匹配的項目
+                    categoryMatchCount++;
+                } else {
+                    item.style.display = 'none'; // 隱藏不匹配的文法項目
+                    item.classList.remove('active'); // 收合不匹配的項目
+                }
+            });
+
+            // 如果該類別下有任何匹配的文法項目，就顯示該類別卡片
+            if (categoryMatchCount > 0) {
+                categoryCard.style.display = 'block';
+                visibleCategories++;
+                matchCount += categoryMatchCount;
+            } else {
+                categoryCard.style.display = 'none';
+            }
+        });
+
+        // 顯示搜尋結果資訊
+        if (searchTerm === '') {
+            searchResultsInfo.textContent = ''; // 沒有搜尋詞時清空
+            // 當搜尋框清空時，所有項目預設為收合
+            grammarItems.forEach(item => {
+                item.style.display = 'block'; // 確保所有項目都顯示
+                item.classList.remove('active'); // 收合
+            });
+            categoryCards.forEach(card => card.style.display = 'block'); // 顯示所有類別
+        } else {
+            searchResultsInfo.textContent = `找到 ${matchCount} 個相關文法點。`;
+        }
+    });
+</script>
