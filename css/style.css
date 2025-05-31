@@ -1,0 +1,45 @@
+/* Global styles and Tailwind CSS customizations */
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #111827; /* Tailwind gray-900, fallback if JS is slow */
+    color: #D1D5DB; /* Tailwind gray-300, fallback */
+}
+
+/* You can add more specific custom styles here if needed */
+/* For example, if you want a very specific style for a component */
+/* that is hard to achieve with Tailwind utility classes alone. */
+
+/* Example of a custom class that could be used in HTML */
+.custom-highlight {
+    color: #6EE7B7; /* A custom highlight color (Tailwind emerald-300) */
+    font-weight: bold;
+}
+
+/* Enhancing the premium feel with focus states */
+a:focus, button:focus, input:focus, select:focus, textarea:focus {
+    outline: 2px solid #5EEAD4; /* Tailwind teal-300 */
+    outline-offset: 2px;
+    box-shadow: 0 0 0 4px rgba(45, 212, 191, 0.3); /* Soft glow effect */
+}
+
+/* Custom scrollbar styles (already included in grammar/index.html <style> tag for immediate effect,
+   but can be centralized here if preferred and if all pages need it) */
+/*
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #1F2937;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: #374151;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #4B5563;
+}
+*/
