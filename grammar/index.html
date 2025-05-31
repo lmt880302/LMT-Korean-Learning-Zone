@@ -110,7 +110,7 @@
 
     <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-12 border-t border-gray-700">
         <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
-        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
+        <p class="text-sm">LMT-Korean-Learning-Zone</p>
     </footer>
 
     <script>
@@ -443,65 +443,3 @@
 </body>
 </html>
 ```
-
-**2. `css/style.css` (全域樣式)**
-
-這個檔案保持不變，因為它定義了全域和共用的樣式。
-
-
-```css
-/* css/style.css */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Global styles */
-body {
-    /* Font family is set in HTML for Noto Sans KR preference, Tailwind will use its default sans stack */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    /* Base background and text colors are set in HTML's <style> for higher specificity,
-       but can be defined here as well for consistency across other pages. */
-}
-
-/* Navigation link styling */
-.nav-link {
-    @apply px-3 py-2 rounded-md text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white transition-colors;
-}
-.nav-link.active { /* This class will be added by JS */
-    @apply bg-sky-600 text-white;
-}
-
-.mobile-nav-link {
-    @apply px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:bg-gray-700 hover:text-white transition-colors;
-}
-.mobile-nav-link.active { /* This class will be added by JS */
-     @apply bg-sky-600 text-white;
-}
-
-
-/* General Card Styling (if needed beyond grammar-card) */
-.content-card {
-    @apply bg-gray-800 border border-gray-700 rounded-lg shadow-md p-6;
-}
-
-/* Headings and Text */
-h1, h2, h3, h4, h5, h6 {
-    @apply text-gray-100; /* Ensure headings are light in dark mode */
-}
-
-/* For better Korean character rendering if Noto Sans KR is available */
-[lang="ko"] {
-    font-synthesis: none; /* Prevents browsers from synthesizing bold/italic for Korean if font doesn't support it natively well */
-    font-kerning: normal;
-}
-
-/* Primary Button Style (Example for future use) */
-.btn-primary {
-    @apply bg-indigo-600 hover:bg-indigo-500 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
-}
-
-/* Secondary Button Style (Example for future use) */
-.btn-secondary {
-    @apply bg-sky-500 hover:bg-sky-400 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
-}

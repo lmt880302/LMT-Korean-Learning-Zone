@@ -62,11 +62,12 @@
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
-                    <a href="./index.html" class="text-2xl font-bold text-sky-400 hover:text-sky-300 transition-colors">LMT韓語學習區</a>
+                    <a href="./index.html" class="text-2xl font-bold text-sky-400 hover:text-sky-300 transition-colors">LMT Korean Learning Zone</a>
                 </div>
                 <div class="hidden md:flex space-x-4">
                     <a href="./index.html" class="nav-link active">首頁</a>
                     <a href="./grammar/index.html" class="nav-link">文法教學</a>
+                    <a href="./vocabulary/index.html" class="nav-link">文法教學</a>
                     <a href="#" class="nav-link text-gray-500 cursor-not-allowed">單字學習</a>
                     <a href="#" class="nav-link text-gray-500 cursor-not-allowed">歌曲教學</a>
                 </div>
@@ -121,7 +122,7 @@
                         </svg>
                     </div>
                     <h3 class="text-2xl font-semibold text-sky-300 mb-3">單字學習</h3>
-                    <p class="text-gray-400 leading-relaxed">（即將推出）透過主題分類與互動卡片，高效擴充您的韓語詞彙量。</p>
+                    <p class="text-gray-400 leading-relaxed">透過主題分類與互動卡片，高效擴充您的韓語詞彙量。</p>
                 </div>
                 <div class="feature-card p-8 rounded-xl shadow-2xl opacity-60 cursor-not-allowed">
                     <div class="feature-icon">
@@ -149,7 +150,7 @@
     </section>
 
     <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-0 border-t border-gray-700"> <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
-        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
+        <p class="text-sm">LMT-Korean-Learning-Zone</p>
     </footer>
 
     <script>
@@ -173,37 +174,3 @@
     <script src="./js/main.js"></script>
 </body>
 </html>
-```
-
-**主要變更與特色：**
-
-* **Hero Section：**
-    * 更具吸引力的標題和副標題。
-    * 使用了 `placehold.co` 的圖片作為背景圖的佔位符，您可以替換成您喜歡的真實圖片。
-    * 主要的行動呼籲按鈕連結到文法教學頁面。
-* **Features Section：**
-    * 以卡片形式展示「文法教學」、「單字學習」和「歌曲教學」。
-    * 「單字學習」和「歌曲教學」目前標示為「即將推出」，並降低了透明度，移除了點擊連結。
-    * 為每個特色卡片添加了 SVG 圖示，增加視覺吸引力。
-    * 卡片有懸停效果。
-* **Call to Action Section (選用)：** 在頁尾前增加了一個額外的行動呼籲區塊，再次引導使用者。
-* **樣式調整：**
-    * 使用了更深色的背景 (`bg-gray-950`) 來區分區塊。
-    * 調整了標題和按鈕的顏色，使其更符合「高級感」。
-    * 按鈕有更精緻的懸停效果。
-* **JavaScript：**
-    * 行動選單的開關邏輯。
-    * 自動更新頁尾的年份。
-    * 引入了 `js/main.js` (您需要確保 `js/main.js` 中的導覽列高亮邏輯能夠正確處理首頁的 `active` 狀態)。
-
-**請注意 `js/main.js` 中的導覽列高亮邏輯：**
-您需要確保 `js/main.js` 中處理導覽列 `active` 狀態的程式碼能夠正確識別 `index.html` 是目前頁面。我先前提供的 `js/main.js` 版本應該已經考慮到了這一點，它會比較 `link.pathname` 和 `window.location.pathname`。
-
-您可以將這段 HTML 儲存為您專案根目錄下的 `index.html`，然後用 Live Server 預覽。
-
-接下來，我們可以：
-1.  微調首頁的樣式或內容。
-2.  開始建構「單字教學」或「歌曲教學」的頁面架構。
-3.  或者，如果您對目前的文法頁面和首頁感到滿意，可以準備將這些更新推送到 GitHub。
-
-您希望接下來進行哪一

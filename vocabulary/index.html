@@ -123,11 +123,11 @@
 
     <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-12 border-t border-gray-700">
         <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
-        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
+        <p class="text-sm">LMT-Korean-Learning-Zone</p>
     </footer>
 
     <script>
-        const vocabularyData = [
+        var vocabularyData = [ // Changed const to var
             {
                 category: "1. 基礎打招呼語",
                 type: "greetings", // Special type for different rendering
@@ -368,34 +368,34 @@
         ];
 
         document.addEventListener('DOMContentLoaded', function() {
-            const vocabContainer = document.getElementById('vocabulary-container');
+            var vocabContainer = document.getElementById('vocabulary-container'); // Changed const to var
             if (!vocabContainer) {
                 console.error('單字容器 (vocabulary-container) 未找到!');
                 return;
             }
 
-            vocabularyData.forEach(categoryData => {
-                const categoryCard = document.createElement('div');
+            vocabularyData.forEach(function(categoryData) { // Changed to function expression
+                var categoryCard = document.createElement('div'); // Changed const to var
                 categoryCard.className = 'vocab-category-card rounded-xl shadow-xl p-6 md:p-8';
 
-                const categoryTitleEl = document.createElement('h2');
+                var categoryTitleEl = document.createElement('h2'); // Changed const to var
                 categoryTitleEl.className = 'text-2xl md:text-3xl font-bold category-title';
                 categoryTitleEl.textContent = categoryData.category;
                 categoryCard.appendChild(categoryTitleEl);
 
-                const itemsContainer = document.createElement('div');
+                var itemsContainer = document.createElement('div'); // Changed const to var
                 if (categoryData.type === "greetings") {
                     itemsContainer.className = 'grid grid-cols-1 sm:grid-cols-2 gap-x-4';
-                    categoryData.items.forEach(item => {
-                        const div = document.createElement('div');
+                    categoryData.items.forEach(function(item) { // Changed to function expression
+                        var div = document.createElement('div'); // Changed const to var
                         div.className = 'greeting-item flex items-baseline';
                         div.innerHTML = `<span class="greeting-ko text-lg">${sanitizeHTML(item.ko)}</span> <span class="greeting-zh">${sanitizeHTML(item.zh)}</span>`;
                         itemsContainer.appendChild(div);
                     });
                 } else if (categoryData.type === "detailed") {
                     itemsContainer.className = 'space-y-4'; // Each item will be a block
-                    categoryData.items.forEach(item => {
-                        const itemDiv = document.createElement('div');
+                    categoryData.items.forEach(function(item) { // Changed to function expression
+                        var itemDiv = document.createElement('div'); // Changed const to var
                         itemDiv.className = 'vocab-item';
                         itemDiv.innerHTML = `
                             <div class="flex items-baseline mb-1">
@@ -414,16 +414,16 @@
                 vocabContainer.appendChild(categoryCard);
             });
 
-            const yearSpan = document.getElementById('current-year');
+            var yearSpan = document.getElementById('current-year'); // Changed const to var
             if (yearSpan) {
                 yearSpan.textContent = new Date().getFullYear();
             }
 
             // Mobile menu toggle
-            const menuButton = document.getElementById('mobile-menu-button');
-            const mobileMenu = document.getElementById('mobile-menu');
+            var menuButton = document.getElementById('mobile-menu-button'); // Changed const to var
+            var mobileMenu = document.getElementById('mobile-menu'); // Changed const to var
             if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', () => {
+                menuButton.addEventListener('click', function() { // Changed to function expression
                     mobileMenu.classList.toggle('hidden');
                 });
             }
@@ -431,7 +431,7 @@
 
         function sanitizeHTML(str) {
             if (typeof str !== 'string') return '';
-            const temp = document.createElement('div');
+            var temp = document.createElement('div'); // Changed const to var
             temp.textContent = str;
             return temp.innerHTML;
         }
@@ -439,29 +439,3 @@
     <script src="../js/main.js"></script>
 </body>
 </html>
-```
-
-**主要變更與特色：**
-
-* **`vocabulary/index.html`：**
-    * **單字資料結構 (`vocabularyData`)**：我將您提供的單字轉換為 JavaScript 陣列。特別為「基礎打招呼語」增加了一個 `type: "greetings"`，以便與其他包含例句的單字類別（標記為 `type: "detailed"`）採用不同的顯示方式。
-    * **排版改善**：
-        * **基礎打招呼語**：以更簡潔的列表形式呈現，韓文和中文並列。
-        * **包含例句的單字**：每個單字條目都會清晰地展示韓文單字、中文意思、韓文例句及中文翻譯。韓文單字會比較突出，例句和翻譯則緊隨其後。
-        * 每個單字類別會顯示在一個獨立的卡片 (`.vocab-category-card`) 中。
-    * **樣式**：
-        * 延續深色主題和高級感，使用了與文法頁面類似的顏色配置和卡片陰影效果。
-        * 韓文內容會優先使用 'Noto Sans KR' 字體。
-        * 針對單字、中文意思、例句等元素定義了不同的樣式，以增強可讀性。
-    * **響應式設計**：卡片和內容會根據螢幕大小自動調整佈局。
-    * **路徑**：確保了 CSS 和 JS 檔案的相對路徑 (`../css/style.css` 和 `../js/main.js`) 對於在 `vocabulary` 資料夾下的 `index.html` 是正確的。
-* **`css/style.css` 和 `js/main.js`**：這兩個檔案的內容與先前提供的版本基本一致，因為它們包含了全站通用的樣式和功能。`js/main.js` 中的導覽列高亮邏輯會需要您在該檔案中手動調整，以確保它能正確識別 `vocabulary/index.html` 為當前活動頁面。
-
-**請您：**
-
-1.  **檢查 `vocabularyData`**：仔細核對 `vocabulary/index.html` 中 `<script>` 區塊內的 `vocabularyData` 陣列，確保所有單字、中文意思、例句和分類都與您提供的一致。
-2.  **路徑確認**：再次確認所有檔案間的連結路徑，特別是從 `vocabulary/index.html` 連回首頁 `../index.html`，以及引用 CSS/JS 時的 `../`。
-3.  **`js/main.js` 調整**：您可能需要稍微修改 `js/main.js` 中高亮導覽列連結的邏輯，使其能夠正確地將 `vocabulary/index.html` 標記為 `active`。目前的邏輯是基於檔名，應該可以正常運作，但如果遇到問題可以再調整。
-4.  **預覽與測試**：使用 Live Server 打開 `vocabulary/index.html`，檢查所有單字是否都正確顯示，排版是否符合您的期望，尤其是在不同螢幕尺寸下的表現。
-
-完成這些步驟後，您的單字教學頁面應該就能呈現出您想要的精緻效果了。接下來，我們可以繼續完善其他部分，或是將目前的成果推送到 GitH
