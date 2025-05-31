@@ -1,141 +1,82 @@
-/* 基本重設與全域設定 */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; /* 讓 padding 和 border 不會增加元素總寬高 */
-}
-
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Noto Sans TC', sans-serif; /* 優先使用系統 UI 字體，然後是 Noto Sans TC (思源黑體) */
-    background-color: #1e1e1e; /* 深色背景 */
-    color: #e0e0e0; /* 淺色文字 */
-    line-height: 1.7; /* 增加行高，方便閱讀 */
-    padding: 20px;
-}
-
-header {
-    text-align: center;
-    margin-bottom: 30px;
-    padding-bottom: 20px;
-    border-bottom: 2px solid #444;
-}
-
-header h1 {
-    color: #61dafb; /* 亮一點的藍色作為標題點綴 */
-    font-size: 2.5em; /* em 是相對單位，相對於父元素的字體大小 */
-}
-
-main {
-    max-width: 800px; /* 限制主要內容的最大寬度，在大螢幕上更易讀 */
-    margin: 0 auto; /* 水平居中 */
-}
-
-.grammar-category {
-    background-color: #2a2a2a; /* 分類區塊的背景色，比 body 稍亮 */
-    margin-bottom: 25px;
-    border-radius: 8px; /* 圓角 */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* 輕微陰影增加立體感 */
-    overflow: hidden; /* 確保子元素不會超出圓角範圍 */
-}
-
-.category-title {
-    background-color: #333;
-    color: #61dafb;
-    padding: 15px 20px;
-    cursor: pointer; /* 滑鼠移上去時顯示手指圖示，提示可點擊 */
-    font-size: 1.6em;
-    display: flex; /* 使用 flexbox 來對齊標題和箭頭 */
-    justify-content: space-between; /* 讓標題和箭頭分別在兩側 */
-    align-items: center; /* 垂直居中 */
-    transition: background-color 0.3s ease; /* 平滑過渡效果 */
-}
-
-.category-title:hover {
-    background-color: #404040; /* 滑鼠懸停時的背景色 */
-}
-
-/* 互動箭頭圖示 */
-.category-title::after {
-    content: '▼'; /* 預設是向下箭頭 (展開狀態) */
-    font-size: 0.8em;
-    transition: transform 0.3s ease;
-}
-
-.category-title.collapsed::after {
-    transform: rotate(-90deg); /* 收合狀態時，箭頭向左旋轉 */
-}
-
-
-.category-content {
-    padding: 0 20px; /* 內容區域的左右內邊距 */
-    max-height: 0; /* 預設高度為0，使其隱藏 */
-    overflow: hidden; /* 隱藏超出高度的內容 */
-    transition: max-height 0.5s ease-out, padding 0.5s ease-out; /* 平滑的展開/收合動畫 */
-}
-
-.category-content.open {
-    max-height: 5000px; /* 設定一個足夠大的高度讓內容能完全顯示 (根據內容調整) */
-    padding: 15px 20px; /* 展開時的上下內邊距 */
-}
-
-.sub-category-title {
-    color: #90caf9; /* 子分類標題顏色 */
-    font-size: 1.3em;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    padding-bottom: 5px;
-    border-bottom: 1px solid #444;
-}
+/* ... 你現有的 CSS 規則 ... */
 
 .grammar-item {
-    margin-bottom: 15px;
-    padding: 10px;
-    border-left: 3px solid #61dafb; /* 左側的強調線 */
-    background-color: #252525; /* 條目背景色，比分類區塊稍暗 */
-    border-radius: 4px;
+    margin-bottom: 20px; /* 稍微增加條目間距 */
+    padding: 15px;      /* 稍微增加條目內邊距 */
+    border-left: 4px solid #61dafb;
+    background-color: #2c2c2c; /* 比 .grammar-category 稍暗一點，比之前的 #252525 稍亮 */
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.grammar-item:hover {
+    background-color: #353535; /* 滑鼠懸停時更明顯一點 */
 }
 
 .grammar-item .term {
     font-weight: bold;
-    color: #82e0aa; /* 韓文術語使用不同的顏色 */
-    margin-bottom: 5px;
-    font-size: 1.1em;
+    color: #82e0aa; 
+    margin-bottom: 8px; /* 增加術語和說明之間的間距 */
+    font-size: 1.15em;  /* 稍微調大術語字體 */
 }
 
+/* 新增：說明/描述樣式 */
+.grammar-item .description {
+    font-size: 1em;
+    color: #d0d0d0; /* 比之前的 #c0c0c0 稍亮 */
+    margin-bottom: 12px; /* 增加說明和詳細資訊之間的間距 */
+    line-height: 1.6;
+}
+
+/* 新增：詳細資訊區塊 (例句、常用單字、記憶法 的容器) */
+.grammar-item .details {
+    margin-top: 10px;
+    padding-left: 10px;
+    border-left: 2px solid #4a4a4a; /* 給詳細資訊區塊一個淡淡的左邊框 */
+}
+
+/* 新增：詳細資訊的通用樣式 (例句、常用單字、記憶法) */
+.grammar-item .details p {
+    font-size: 0.95em;
+    color: #b0b0b0; /* 詳細資訊的文字顏色 */
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.grammar-item .details p:last-child {
+    margin-bottom: 0; /* 移除最後一個詳細資訊的底部外邊距 */
+}
+
+/* 新增：標籤樣式 (例句：, 常用單字：, 記憶法：) */
+.grammar-item .details .label {
+    font-weight: bold;
+    color: #90caf9; /* 標籤使用不同的顏色，使其突出 */
+    margin-right: 5px;
+}
+
+/* 調整 .explanation class (如果之前有，現在統一用 .description) */
+/* 如果你之前有 .explanation 樣式，可以刪除或註釋掉，因為我們現在用 .description */
+/*
 .grammar-item .explanation {
     font-size: 1em;
-    color: #c0c0c0; /* 解釋文字顏色稍淺 */
+    color: #c0c0c0; 
 }
+*/
 
-footer {
-    text-align: center;
-    margin-top: 40px;
-    padding-top: 20px;
-    border-top: 1px solid #444;
-    font-size: 0.9em;
-    color: #888;
-}
 
-/* 手機版適應 (響應式設計) */
+/* 手機版適應 (響應式設計) - 也可以檢查一下這裡是否有需要微調 */
 @media (max-width: 600px) {
-    body {
-        padding: 10px;
+    /* ... 你現有的手機版樣式 ... */
+    .grammar-item {
+        padding: 12px;
     }
-
-    header h1 {
-        font-size: 2em;
-    }
-
-    .category-title {
-        font-size: 1.3em;
-        padding: 12px 15px;
-    }
-
     .grammar-item .term {
-        font-size: 1em;
+        font-size: 1.1em;
     }
-
-    .grammar-item .explanation {
+    .grammar-item .description {
         font-size: 0.95em;
+    }
+    .grammar-item .details p {
+        font-size: 0.9em;
     }
 }
