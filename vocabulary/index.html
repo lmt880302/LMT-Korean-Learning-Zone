@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>韓語單字學習 - LMT韓語學習區</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        body {
+            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
+            background-color: #121826; /* Darker base */
+            color: #E0E7FF; /* Softer light text */
+        }
+        .vocab-category-card {
+            background-color: #1F2937; /* Tailwind gray-800 */
+            border: 1px solid #374151; /* Tailwind gray-700 */
+            transition: box-shadow 0.3s ease;
+        }
+        .vocab-category-card:hover {
+            box-shadow: 0 8px 25px rgba(30, 58, 138, 0.3); /* Blue shadow for depth */
+        }
+        .category-title {
+            color: #A5B4FC; /* Tailwind indigo-300 */
+            border-bottom: 2px solid #4F46E5; /* Tailwind indigo-600 */
+            padding-bottom: 0.75rem;
+            margin-bottom: 1.5rem; /* Space below title */
+        }
+        .vocab-item {
+            border-bottom: 1px solid #374151; /* Separator for vocab items */
+            padding-bottom: 1rem;
+            margin-bottom: 1rem;
+        }
+        .vocab-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        .korean-word {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-weight: 700; /* Bold */
+            color: #7DD3FC; /* Tailwind sky-300 */
+            font-size: 1.25rem; /* text-xl */
+        }
+        .chinese-meaning {
+            color: #A5B4FC; /* Tailwind indigo-300 */
+            font-size: 0.9rem; /* Smaller */
+            margin-left: 0.5rem;
+        }
+        .example-sentence, .translation {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 0.95rem; /* Slightly smaller than word */
+            color: #CBD5E1; /* Tailwind slate-300 */
+            line-height: 1.6;
+        }
+        .example-label {
+            font-weight: 500;
+            color: #93C5FD; /* Tailwind blue-300 */
+        }
+        .greeting-item {
+            padding: 0.5rem 0;
+            border-bottom: 1px dashed #374151;
+        }
+        .greeting-item:last-child {
+            border-bottom: none;
+        }
+        .greeting-ko {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-weight: 500;
+            color: #CBD5E1; /* Tailwind lime-300 for greetings */
+        }
+        .greeting-zh {
+            color: #A78BFA; /* Tailwind violet-400 */
+            font-size: 0.85rem;
+            margin-left: 0.5rem;
+        }
+
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #1F2937; }
+        ::-webkit-scrollbar-thumb { background: #4A5568; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #718096; }
+    </style>
+</head>
+<body class="antialiased">
+    <header class="bg-gray-900 text-white shadow-lg sticky top-0 z-50">
+        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <a href="../index.html" class="text-2xl font-bold text-sky-400 hover:text-sky-300 transition-colors">LMT韓語學習區</a>
+                </div>
+                <div class="hidden md:flex space-x-4">
+                    <a href="../index.html" class="nav-link">首頁</a>
+                    <a href="../grammar/index.html" class="nav-link">文法教學</a>
+                    <a href="./index.html" class="nav-link active">單字學習</a>
+                    <a href="#" class="nav-link text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                </div>
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-menu" class="md:hidden hidden pb-3">
+                <a href="../index.html" class="mobile-nav-link block">首頁</a>
+                <a href="../grammar/index.html" class="mobile-nav-link block">文法教學</a>
+                <a href="./index.html" class="mobile-nav-link block active">單字學習</a>
+                <a href="#" class="mobile-nav-link block text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
+        <h1 class="text-4xl font-bold text-center mb-12 text-indigo-300">韓語核心單字</h1>
+        <div id="vocabulary-container" class="space-y-10">
+            </div>
+    </main>
+
+    <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-12 border-t border-gray-700">
+        <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
+        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
+    </footer>
+
+    <script>
+        const vocabularyData = [
+            {
+                category: "1. 基礎打招呼語",
+                type: "greetings", // Special type for different rendering
+                items: [
+                    { ko: "안녕하세요", zh: "你好" },
+                    { ko: "감사합니다", zh: "謝謝" },
+                    { ko: "죄송합니다", zh: "對不起" },
+                    { ko: "네", zh: "是" },
+                    { ko: "아니요", zh: "不是" },
+                    { ko: "안녕히 가세요", zh: "再見 (對方離開時)" },
+                    { ko: "안녕히 계세요", zh: "再見 (自己離開時)" },
+                    { ko: "처음 뵙겠습니다", zh: "初次見面" }
+                ]
+            },
+            {
+                category: "2. 家庭成員",
+                type: "detailed",
+                items: [
+                    { korean: "가족", chinese: "家人", exampleKo: "가족이 많아요.", exampleZh: "家人很多。" },
+                    { korean: "아버지", chinese: "爸爸", exampleKo: "아버지가 오셨어요.", exampleZh: "爸爸來了。" },
+                    { korean: "어머니", chinese: "媽媽", exampleKo: "어머니가 요리하세요.", exampleZh: "媽媽在做菜。" },
+                    { korean: "형", chinese: "哥哥 (男生叫)", exampleKo: "형이 있어요.", exampleZh: "我有哥哥。" },
+                    { korean: "누나", chinese: "姐姐 (男生叫)", exampleKo: "누나가 왔어요.", exampleZh: "姐姐來了。" },
+                    { korean: "오빠", chinese: "哥哥 (女生叫)", exampleKo: "오빠가 좋아요.", exampleZh: "我喜歡哥哥。" },
+                    { korean: "언니", chinese: "姐姐 (女生叫)", exampleKo: "언니가 예뻐요.", exampleZh: "姐姐很漂亮。" },
+                    { korean: "남동생", chinese: "弟弟", exampleKo: "남동생이 있어요.", exampleZh: "我有弟弟。" },
+                    { korean: "여동생", chinese: "妹妹", exampleKo: "여동생이 귀여워요.", exampleZh: "妹妹很可愛。" }
+                ]
+            },
+            {
+                category: "3. 食物與飲料",
+                type: "detailed",
+                items: [
+                    { korean: "밥", chinese: "飯", exampleKo: "밥 먹었어요.", exampleZh: "我吃了飯。" },
+                    { korean: "국", chinese: "湯", exampleKo: "국이 맛있어요.", exampleZh: "湯很好喝。" },
+                    { korean: "김치", chinese: "泡菜", exampleKo: "김치를 좋아해요.", exampleZh: "我喜歡泡菜。" },
+                    { korean: "물", chinese: "水", exampleKo: "물 마셔요.", exampleZh: "我喝水。" },
+                    { korean: "커피", chinese: "咖啡", exampleKo: "커피 마셔요.", exampleZh: "我喝咖啡。" },
+                    { korean: "빵", chinese: "麵包", exampleKo: "빵 먹어요.", exampleZh: "我吃麵包。" },
+                    { korean: "과일", chinese: "水果", exampleKo: "과일이 싱싱해요.", exampleZh: "水果很新鮮。" },
+                    { korean: "생선", chinese: "魚", exampleKo: "생선을 먹어요.", exampleZh: "我吃魚。" },
+                    { korean: "고기", chinese: "肉", exampleKo: "고기 구워요.", exampleZh: "我烤肉。" }
+                ]
+            },
+            {
+                category: "4. 購物",
+                type: "detailed",
+                items: [
+                    { korean: "가게", chinese: "商店", exampleKo: "가게에 가요.", exampleZh: "我去商店。" },
+                    { korean: "돈", chinese: "錢", exampleKo: "돈이 있어요.", exampleZh: "我有錢。" },
+                    { korean: "값", chinese: "價格", exampleKo: "값이 비싸요.", exampleZh: "價格很貴。" },
+                    { korean: "카드", chinese: "卡", exampleKo: "카드 써요.", exampleZh: "我用卡。" },
+                    { korean: "영수증", chinese: "收據", exampleKo: "영수증 받아요.", exampleZh: "我拿收據。" },
+                    { korean: "옷", chinese: "衣服", exampleKo: "옷 입어요.", exampleZh: "我穿衣服。" },
+                    { korean: "신발", chinese: "鞋子", exampleKo: "신발 신어요.", exampleZh: "我穿鞋子。" }
+                ]
+            },
+            {
+                category: "5. 交通",
+                type: "detailed",
+                items: [
+                    { korean: "버스", chinese: "公車", exampleKo: "버스 탔어요.", exampleZh: "我坐公車。" },
+                    { korean: "지하철", chinese: "地鐵", exampleKo: "지하철 타요.", exampleZh: "我坐地鐵。" },
+                    { korean: "택시", chinese: "計程車", exampleKo: "택시 불러요.", exampleZh: "我叫計程車。" },
+                    { korean: "비행기", chinese: "飛機", exampleKo: "비행기 타요.", exampleZh: "我坐飛機。" },
+                    { korean: "길", chinese: "路", exampleKo: "길 찾아요.", exampleZh: "我找路。" }
+                ]
+            },
+            {
+                category: "6. 時間與日期",
+                type: "detailed",
+                items: [
+                    { korean: "시간", chinese: "時間", exampleKo: "시간이 없어요.", exampleZh: "沒時間。" },
+                    { korean: "분", chinese: "分鐘", exampleKo: "10분 기다려요.", exampleZh: "等10分鐘。" },
+                    { korean: "날짜", chinese: "日期", exampleKo: "날짜 맞아요?", exampleZh: "日期對嗎？" },
+                    { korean: "오늘", chinese: "今天", exampleKo: "오늘 날씨 좋아요.", exampleZh: "今天天氣好。" },
+                    { korean: "내일", chinese: "明天", exampleKo: "내일 만나요.", exampleZh: "明天見。" },
+                    { korean: "어제", chinese: "昨天", exampleKo: "어제 비 왔어요.", exampleZh: "昨天下雨。" },
+                    { korean: "주", chinese: "週", exampleKo: "한 주 지났어요.", exampleZh: "過了一週。" },
+                    { korean: "달", chinese: "月", exampleKo: "두 달 됐어요.", exampleZh: "過了兩個月。" },
+                    { korean: "년", chinese: "年", exampleKo: "1년 살았어요.", exampleZh: "住了一年。" }
+                ]
+            },
+            {
+                category: "7. 數字",
+                type: "detailed",
+                items: [
+                    { korean: "하나", chinese: "1", exampleKo: "하나 주세요.", exampleZh: "請給我一個。" },
+                    { korean: "둘", chinese: "2", exampleKo: "둘 있어요.", exampleZh: "有兩個。" },
+                    { korean: "셋", chinese: "3", exampleKo: "셋이 왔어요.", exampleZh: "來了三個。" },
+                    { korean: "넷", chinese: "4", exampleKo: "넷 샀어요.", exampleZh: "買了四個。" },
+                    { korean: "다섯", chinese: "5", exampleKo: "다섯 시에요.", exampleZh: "五點。" }
+                ]
+            },
+            {
+                category: "8. 顏色",
+                type: "detailed",
+                items: [
+                    { korean: "빨간색", chinese: "紅色", exampleKo: "빨간색 좋아해요.", exampleZh: "我喜歡紅色。" },
+                    { korean: "파란색", chinese: "藍色", exampleKo: "파란색 가방이에요.", exampleZh: "是藍色包包。" },
+                    { korean: "노란색", chinese: "黃色", exampleKo: "노란색 꽃이에요.", exampleZh: "是黃色花。" },
+                    { korean: "초록색", chinese: "綠色", exampleKo: "초록색 잔디예요.", exampleZh: "是綠色草地。" },
+                    { korean: "검정색", chinese: "黑色", exampleKo: "검정색 신발이에요.", exampleZh: "是黑色鞋子。" }
+                ]
+            },
+            {
+                category: "9. 場所",
+                type: "detailed",
+                items: [
+                    { korean: "학교", chinese: "學校", exampleKo: "학교에 가요.", exampleZh: "我去學校。" },
+                    { korean: "병원", chinese: "醫院", exampleKo: "병원에 가요.", exampleZh: "我去醫院。" },
+                    { korean: "은행", chinese: "銀行", exampleKo: "은행에 가요.", exampleZh: "我去銀行。" },
+                    { korean: "식당", chinese: "餐廳", exampleKo: "식당에서 먹어요.", exampleZh: "我在餐廳吃。" },
+                    { korean: "공원", chinese: "公園", exampleKo: "공원에 가요.", exampleZh: "我去公園。" }
+                ]
+            },
+            {
+                category: "10. 天氣",
+                type: "detailed",
+                items: [
+                    { korean: "날씨", chinese: "天氣", exampleKo: "날씨 좋아요.", exampleZh: "天氣好。" },
+                    { korean: "비", chinese: "雨", exampleKo: "비 와요.", exampleZh: "下雨了。" },
+                    { korean: "눈", chinese: "雪", exampleKo: "눈 내려요.", exampleZh: "下雪了。" },
+                    { korean: "바람", chinese: "風", exampleKo: "바람 불어요.", exampleZh: "颳風了。" },
+                    { korean: "더워요", chinese: "熱", exampleKo: "더워요.", exampleZh: "很熱。" }
+                ]
+            },
+            {
+                category: "11. 身體部位",
+                type: "detailed",
+                items: [
+                    { korean: "머리", chinese: "頭", exampleKo: "머리 아파요.", exampleZh: "頭痛。" },
+                    { korean: "눈", chinese: "眼睛", exampleKo: "눈 피곤해요.", exampleZh: "眼睛累。" },
+                    { korean: "코", chinese: "鼻子", exampleKo: "코 막혔어요.", exampleZh: "鼻子塞住。" },
+                    { korean: "입", chinese: "嘴巴", exampleKo: "입 마르다.", exampleZh: "嘴巴乾。" },
+                    { korean: "손", chinese: "手", exampleKo: "손 씻어요.", exampleZh: "我洗手。" }
+                ]
+            },
+            {
+                category: "12. 衣物",
+                type: "detailed",
+                items: [
+                    { korean: "옷", chinese: "衣服", exampleKo: "옷 입어요.", exampleZh: "我穿衣服。" },
+                    { korean: "바지", chinese: "褲子", exampleKo: "바지 입어요.", exampleZh: "我穿褲子。" },
+                    { korean: "신발", chinese: "鞋子", exampleKo: "신발 신어요.", exampleZh: "我穿鞋子。" },
+                    { korean: "모자", chinese: "帽子", exampleKo: "모자 써요.", exampleZh: "我戴帽子。" },
+                    { korean: "가방", chinese: "包包", exampleKo: "가방 메요.", exampleZh: "我背包包。" }
+                ]
+            },
+            {
+                category: "13. 動物",
+                type: "detailed",
+                items: [
+                    { korean: "고양이", chinese: "貓", exampleKo: "고양이 봤어요.", exampleZh: "我看到貓。" },
+                    { korean: "강아지", chinese: "小狗", exampleKo: "강아지 귀여워요.", exampleZh: "小狗可愛。" },
+                    { korean: "새", chinese: "鳥", exampleKo: "새 날아가요.", exampleZh: "鳥飛走了。" },
+                    { korean: "물고기", chinese: "魚", exampleKo: "물고기 헤엄쳐요.", exampleZh: "魚在游泳。" },
+                    { korean: "토끼", chinese: "兔子", exampleKo: "토끼 점프해요.", exampleZh: "兔子在跳。" }
+                ]
+            },
+            {
+                category: "14. 職業",
+                type: "detailed",
+                items: [
+                    { korean: "의사", chinese: "醫生", exampleKo: "의사가 왔어요.", exampleZh: "醫生來了。" },
+                    { korean: "선생님", chinese: "老師", exampleKo: "선생님이 계세요.", exampleZh: "有老師。" },
+                    { korean: "학생", chinese: "學生", exampleKo: "학생이 많아요.", exampleZh: "學生很多。" },
+                    { korean: "요리사", chinese: "廚師", exampleKo: "요리사가 있어요.", exampleZh: "有廚師。" },
+                    { korean: "경찰", chinese: "警察", exampleKo: "경찰이 도와줘요.", exampleZh: "警察幫忙。" }
+                ]
+            },
+            {
+                category: "15. 休閒活動",
+                type: "detailed",
+                items: [
+                    { korean: "음악", chinese: "音樂", exampleKo: "음악 들어요.", exampleZh: "我聽音樂。" },
+                    { korean: "영화", chinese: "電影", exampleKo: "영화 봐요.", exampleZh: "我看電影。" },
+                    { korean: "운동", chinese: "運動", exampleKo: "운동 해요.", exampleZh: "我做運動。" },
+                    { korean: "여행", chinese: "旅行", exampleKo: "여행 가요.", exampleZh: "我去旅行。" },
+                    { korean: "독서", chinese: "閱讀", exampleKo: "독서 해요.", exampleZh: "我閱讀。" }
+                ]
+            },
+            {
+                category: "16. 情緒與感覺",
+                type: "detailed",
+                items: [
+                    { korean: "기쁨", chinese: "高興", exampleKo: "기쁨 느껴요.", exampleZh: "感到高興。" },
+                    { korean: "슬픔", chinese: "悲傷", exampleKo: "슬픔 느껴요.", exampleZh: "感到悲傷。" },
+                    { korean: "화", chinese: "生氣", exampleKo: "화 나요.", exampleZh: "生氣了。" },
+                    { korean: "걱정", chinese: "擔心", exampleKo: "걱정 돼요.", exampleZh: "擔心了。" },
+                    { korean: "피곤", chinese: "疲勞", exampleKo: "피곤해요.", exampleZh: "很累。" }
+                ]
+            },
+            {
+                category: "17. 家電與日常用品",
+                type: "detailed",
+                items: [
+                    { korean: "텔레비전", chinese: "電視", exampleKo: "텔레비전 봐요.", exampleZh: "我看電視。" },
+                    { korean: "냉장고", chinese: "冰箱", exampleKo: "냉장고 있어요.", exampleZh: "有冰箱。" },
+                    { korean: "세탁기", chinese: "洗衣機", exampleKo: "세탁기 써요.", exampleZh: "我用洗衣機。" },
+                    { korean: "전자레인지", chinese: "微波爐", exampleKo: "전자레인지 써요.", exampleZh: "我用微波爐。" },
+                    { korean: "휴대폰", chinese: "手機", exampleKo: "휴대폰 써요.", exampleZh: "我用手機。" }
+                ]
+            },
+            {
+                category: "18. 學習用品",
+                type: "detailed",
+                items: [
+                    { korean: "책", chinese: "書", exampleKo: "책 읽어요.", exampleZh: "我讀書。" },
+                    { korean: "연필", chinese: "鉛筆", exampleKo: "연필 써요.", exampleZh: "我用鉛筆。" },
+                    { korean: "공책", chinese: "筆記本", exampleKo: "공책 써요.", exampleZh: "我用筆記本。" },
+                    { korean: "지우개", chinese: "橡皮擦", exampleKo: "지우개 써요.", exampleZh: "我用橡皮擦。" },
+                    { korean: "가위", chinese: "剪刀", exampleKo: "가위 써요.", exampleZh: "我用剪刀。" }
+                ]
+            },
+            {
+                category: "19. 蔬果與食材",
+                type: "detailed",
+                items: [
+                    { korean: "사과", chinese: "蘋果", exampleKo: "사과 먹어요.", exampleZh: "我吃蘋果。" },
+                    { korean: "바나나", chinese: "香蕉", exampleKo: "바나나 좋아해요.", exampleZh: "我喜歡香蕉。" },
+                    { korean: "오이", chinese: "黃瓜", exampleKo: "오이 먹어요.", exampleZh: "我吃黃瓜。" },
+                    { korean: "당근", chinese: "紅蘿蔔", exampleKo: "당근 요리해요.", exampleZh: "我做紅蘿蔔。" },
+                    { korean: "양파", chinese: "洋蔥", exampleKo: "양파 써요.", exampleZh: "我用洋蔥。" }
+                ]
+            },
+            {
+                category: "20. 飲料與甜點",
+                type: "detailed",
+                items: [
+                    { korean: "차", chinese: "茶", exampleKo: "차 마셔요.", exampleZh: "我喝茶。" },
+                    { korean: "주스", chinese: "果汁", exampleKo: "주스 마셔요.", exampleZh: "我喝果汁。" },
+                    { korean: "맥주", chinese: "啤酒", exampleKo: "맥주 마셔요.", exampleZh: "我喝啤酒。" },
+                    { korean: "아이스크림", chinese: "冰淇淋", exampleKo: "아이스크림 먹어요.", exampleZh: "我吃冰淇淋。" },
+                    { korean: "케이크", chinese: "蛋糕", exampleKo: "케이크 먹어요.", exampleZh: "我吃蛋糕。" }
+                ]
+            }
+        ];
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const vocabContainer = document.getElementById('vocabulary-container');
+            if (!vocabContainer) {
+                console.error('單字容器 (vocabulary-container) 未找到!');
+                return;
+            }
+
+            vocabularyData.forEach(categoryData => {
+                const categoryCard = document.createElement('div');
+                categoryCard.className = 'vocab-category-card rounded-xl shadow-xl p-6 md:p-8';
+
+                const categoryTitleEl = document.createElement('h2');
+                categoryTitleEl.className = 'text-2xl md:text-3xl font-bold category-title';
+                categoryTitleEl.textContent = categoryData.category;
+                categoryCard.appendChild(categoryTitleEl);
+
+                const itemsContainer = document.createElement('div');
+                if (categoryData.type === "greetings") {
+                    itemsContainer.className = 'grid grid-cols-1 sm:grid-cols-2 gap-x-4';
+                    categoryData.items.forEach(item => {
+                        const div = document.createElement('div');
+                        div.className = 'greeting-item flex items-baseline';
+                        div.innerHTML = `<span class="greeting-ko text-lg">${sanitizeHTML(item.ko)}</span> <span class="greeting-zh">${sanitizeHTML(item.zh)}</span>`;
+                        itemsContainer.appendChild(div);
+                    });
+                } else if (categoryData.type === "detailed") {
+                    itemsContainer.className = 'space-y-4'; // Each item will be a block
+                    categoryData.items.forEach(item => {
+                        const itemDiv = document.createElement('div');
+                        itemDiv.className = 'vocab-item';
+                        itemDiv.innerHTML = `
+                            <div class="flex items-baseline mb-1">
+                                <h3 class="korean-word">${sanitizeHTML(item.korean)}</h3>
+                                <span class="chinese-meaning">(${sanitizeHTML(item.chinese)})</span>
+                            </div>
+                            <div class="ml-2 space-y-1">
+                                <p class="example-sentence"><strong class="example-label">例句：</strong> <span lang="ko">${sanitizeHTML(item.exampleKo)}</span></p>
+                                <p class="translation"><strong class="example-label">翻譯：</strong> ${sanitizeHTML(item.exampleZh)}</p>
+                            </div>
+                        `;
+                        itemsContainer.appendChild(itemDiv);
+                    });
+                }
+                categoryCard.appendChild(itemsContainer);
+                vocabContainer.appendChild(categoryCard);
+            });
+
+            const yearSpan = document.getElementById('current-year');
+            if (yearSpan) {
+                yearSpan.textContent = new Date().getFullYear();
+            }
+
+            // Mobile menu toggle
+            const menuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
+            if(menuButton && mobileMenu) {
+                menuButton.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                });
+            }
+        });
+
+        function sanitizeHTML(str) {
+            if (typeof str !== 'string') return '';
+            const temp = document.createElement('div');
+            temp.textContent = str;
+            return temp.innerHTML;
+        }
+    </script>
+    <script src="../js/main.js"></script>
+</body>
+</html>
+```
+
+**主要變更與特色：**
+
+* **`vocabulary/index.html`：**
+    * **單字資料結構 (`vocabularyData`)**：我將您提供的單字轉換為 JavaScript 陣列。特別為「基礎打招呼語」增加了一個 `type: "greetings"`，以便與其他包含例句的單字類別（標記為 `type: "detailed"`）採用不同的顯示方式。
+    * **排版改善**：
+        * **基礎打招呼語**：以更簡潔的列表形式呈現，韓文和中文並列。
+        * **包含例句的單字**：每個單字條目都會清晰地展示韓文單字、中文意思、韓文例句及中文翻譯。韓文單字會比較突出，例句和翻譯則緊隨其後。
+        * 每個單字類別會顯示在一個獨立的卡片 (`.vocab-category-card`) 中。
+    * **樣式**：
+        * 延續深色主題和高級感，使用了與文法頁面類似的顏色配置和卡片陰影效果。
+        * 韓文內容會優先使用 'Noto Sans KR' 字體。
+        * 針對單字、中文意思、例句等元素定義了不同的樣式，以增強可讀性。
+    * **響應式設計**：卡片和內容會根據螢幕大小自動調整佈局。
+    * **路徑**：確保了 CSS 和 JS 檔案的相對路徑 (`../css/style.css` 和 `../js/main.js`) 對於在 `vocabulary` 資料夾下的 `index.html` 是正確的。
+* **`css/style.css` 和 `js/main.js`**：這兩個檔案的內容與先前提供的版本基本一致，因為它們包含了全站通用的樣式和功能。`js/main.js` 中的導覽列高亮邏輯會需要您在該檔案中手動調整，以確保它能正確識別 `vocabulary/index.html` 為當前活動頁面。
+
+**請您：**
+
+1.  **檢查 `vocabularyData`**：仔細核對 `vocabulary/index.html` 中 `<script>` 區塊內的 `vocabularyData` 陣列，確保所有單字、中文意思、例句和分類都與您提供的一致。
+2.  **路徑確認**：再次確認所有檔案間的連結路徑，特別是從 `vocabulary/index.html` 連回首頁 `../index.html`，以及引用 CSS/JS 時的 `../`。
+3.  **`js/main.js` 調整**：您可能需要稍微修改 `js/main.js` 中高亮導覽列連結的邏輯，使其能夠正確地將 `vocabulary/index.html` 標記為 `active`。目前的邏輯是基於檔名，應該可以正常運作，但如果遇到問題可以再調整。
+4.  **預覽與測試**：使用 Live Server 打開 `vocabulary/index.html`，檢查所有單字是否都正確顯示，排版是否符合您的期望，尤其是在不同螢幕尺寸下的表現。
+
+完成這些步驟後，您的單字教學頁面應該就能呈現出您想要的精緻效果了。接下來，我們可以繼續完善其他部分，或是將目前的成果推送到 GitH
