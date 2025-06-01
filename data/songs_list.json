@@ -1,14 +1,101 @@
 [
   {
-    "id": "geuge-mworago",
+    "id": "acourve-geuge-mworago",
     "title": "그게 뭐라고 (What_Was_That)",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/geuge-mworago.json"
-  },
+    "artist": "Acourve",
+    "lyricsFile": "../data/lyrics/acourve-geuge-mworago.json"
+  },  
   {
-    "id": "chupda",
+    "id": "acourve-chwihangime",
+    "title": "취한김에",
+    "artist": "Acourve",
+    "lyricsFile": "../data/lyrics/acourve-chwihangime.json"
+  },  
+  {
+    "id": "acourve-maeumeul-beneun-nat",
+    "title": "마음을 베는 낫",
+    "artist": "Acourve",
+    "lyricsFile": "../data/lyrics/acourve-maeumeul-beneun-nat.json"
+  },
+  
+  {
+    "id": "epikhigh-chupda",
     "title": "춥다 (It's Cold)",
-    "artist": "에픽하이 (Epik High) (feat. 이하이 (Lee Hi))",
-    "lyricsFile": "../data/lyrics/chupda.json"
+    "artist": "Epik High (feat. 이하이 (Lee Hi))",
+    "lyricsFile": "../data/lyrics/epikhigh-chupda.json"
+  },  
+  {
+    "id": "epikhigh-nae-maeum-deullinayo",
+    "title": "내 마음 들리나요 (Can You Hear My Heart)",
+    "artist": "Epik High (feat. 이하이 (Lee Hi))",
+    "lyricsFile": "../data/lyrics/epikhigh-nae-maeum-deullinayo.json"
+  },  
+  {
+    "id": "girlsday-something",
+    "title": "Something",
+    "artist": "Girl's Day",
+    "lyricsFile": "../data/lyrics/girlsday-something.json"
+  },  
+  {
+    "id": "girlsday-come-slowly",
+    "title": "Come slowly",
+    "artist": "Girl's Day",
+    "lyricsFile": "../data/lyrics/girlsday-come-slowly.json"
+  },  
+  {
+    "id": "girlsday-bogosipeo",
+    "title": "보고싶어 (I Miss You)",
+    "artist": "Girl's Day",
+    "lyricsFile": "../data/lyrics/girlsday-bogosipeo.json"
+  },  
+  {
+    "id": "girlsday-thirsty",
+    "title": "Thirsty",
+    "artist": "Girl's Day",
+    "lyricsFile": "../data/lyrics/girlsday-thirsty.json"
+  },  
+  {
+    "id": "girlsday-gidaehae",
+    "title": "기대해",
+    "artist": "Girl's Day",
+    "lyricsFile": "../data/lyrics/girlsday-gidaehae.json"
+  },  
+  {
+    "id": "girlsday-if-you-give-me-your-heart",
+    "title": "내게 네 마음을 준다면(If you give me your heart)",
+    "artist": "Girl's Day (Cover)",
+    "lyricsFile": "../data/lyrics/girlsday-if-you-give-me-your-heart.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
   }
+  
+  
 ]

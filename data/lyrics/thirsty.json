@@ -1,0 +1,685 @@
+{
+  "id": "thirsty",
+  "title": "Thirsty",
+  "artist": "Girl's Day",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "굳게 닫혀버린",
+      "translation": "緊緊地關閉了的",
+      "analysis": [
+        { "point": "굳게", "explanation": "굳다 (堅硬，牢固) 的副詞形 (-게)" },
+        { "point": "닫혀버린", "explanation": "닫히다 (被關上 - 닫다 的被動態) 的詞幹 + -어 버리다 (補助動詞，表示動作徹底完成或帶有遺憾語氣) 的過去定語形態 (-ㄴ/은)" }
+      ]
+    },
+    {
+      "korean": "한때 달콤한 말을",
+      "translation": "曾經甜蜜的話語",
+      "analysis": [
+        { "point": "한때", "explanation": "名詞/副詞，一度，曾經" },
+        { "point": "달콤한 말을", "explanation": "달콤하다 (甜蜜) 的定語形態 (-ㄴ/은) + 말 (話) + -을 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "가득 머금었던",
+      "translation": "曾滿含著的",
+      "analysis": [
+        { "point": "가득", "explanation": "副詞，滿滿地" },
+        { "point": "머금었던", "explanation": "머금다 (含著， 머금고 있다 的過去時態) 的過去定語形態 (-었던/았던)" }
+      ]
+    },
+    {
+      "korean": "너의 입술이 말라가",
+      "translation": "你的嘴唇漸漸乾涸",
+      "analysis": [
+        { "point": "너의 입술이", "explanation": "너의 (你的) + 입술 (嘴唇) + -이 (主格助詞)" },
+        { "point": "말라가", "explanation": "마르다 (乾燥) 的詞幹 + -아/어 가다 (補助動詞，表示動作逐漸進行) 的非格式體 (-아요/어요 的省略)" }
+      ]
+    },
+    {
+      "korean": "꼭 다른 사람 같은 걸",
+      "translation": "簡直像變了個人似的",
+      "analysis": [
+        { "point": "꼭", "explanation": "副詞，一定，簡直" },
+        { "point": "다른 사람 같은 걸", "explanation": "다르다 (不同) 的定語形態 + 사람 (人) + 같다 (像...一樣) 的定語形態 + 것 (事情/東西) + -을 (受格助詞，此處為口語化的感嘆用法 -(으)ㄴ/는 걸)" }
+      ]
+    },
+    {
+      "korean": "뭔가 조금 외로워",
+      "translation": "總覺得 有點寂寞",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무엇인가 (某事/什麼) 的縮略" },
+        { "point": "조금", "explanation": "副詞，一點" },
+        { "point": "외로워", "explanation": "외롭다 (寂寞) 的非格式體 (-어요)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "언제부터인가",
+      "translation": "不知從何時起",
+      "analysis": [
+        { "point": "언제부터인가", "explanation": "언제 (何時) + -부터 (從...) + -인가 (不確定的疑問後綴，是否...)" }
+      ]
+    },
+    {
+      "korean": "말린 장미 색깔의",
+      "translation": "乾燥玫瑰色的",
+      "analysis": [
+        { "point": "말린 장미 색깔의", "explanation": "말리다 (使乾燥 - 마르다 的使動態) 的過去定語形態 (-ㄴ/은) + 장미 (玫瑰) + 색깔 (顏色) + -의 (的)" }
+      ]
+    },
+    {
+      "korean": "짙은 그림자가",
+      "translation": "濃厚的影子",
+      "analysis": [
+        { "point": "짙은 그림자가", "explanation": "짙다 (濃厚) 的定語形態 (-은) + 그림자 (影子) + -가 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "우리 둘 사이를 비추면",
+      "translation": "照耀在我們兩人之間時",
+      "analysis": [
+        { "point": "우리 둘 사이를", "explanation": "우리 (我們) + 둘 (二) + 사이 (之間) + -를 (受格助詞)" },
+        { "point": "비추면", "explanation": "비추다 (照耀) 的詞幹 + -(으)면 (連接詞尾，如果...的時候)" }
+      ]
+    },
+    {
+      "korean": "둘 사이 예쁜 기억이, ay",
+      "translation": "兩人之間美好的記憶, ay",
+      "analysis": [
+        { "point": "둘 사이 예쁜 기억이", "explanation": "둘 (二) + 사이 (之間) + 예쁘다 (漂亮) 的定語形態 (-ㄴ/은) + 기억 (記憶) + -이 (主格助詞)" },
+        { "point": "ay", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "먼 과거 같은 이 느낌",
+      "translation": "像遙遠過去般的這種感覺",
+      "analysis": [
+        { "point": "먼 과거 같은", "explanation": "멀다 (遠) 的定語形態 (-ㄴ/은) + 과거 (過去) + 같다 (像...一樣) 的定語形態 (-은)" },
+        { "point": "이 느낌", "explanation": "이 (這) + 느낌 (感覺)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 1",
+      "korean": "우린 서로를 꺾었었나 봐",
+      "translation": "我們看來曾互相傷害過吧",
+      "analysis": [
+        { "point": "우린", "explanation": "우리 (我們) + -는 (主題助詞) 的縮略" },
+        { "point": "서로를", "explanation": "서로 (互相) + -를 (受格助詞)" },
+        { "point": "꺾었었나 봐", "explanation": "꺾다 (折斷，傷害) 的過去完成式詞幹 꺾었었- + -나 보다 (推測語尾，看來好像...)" }
+      ]
+    },
+    {
+      "korean": "너무 좋아서 미쳤었나 봐",
+      "translation": "因為太喜歡而瘋了吧",
+      "analysis": [
+        { "point": "너무 좋아서", "explanation": "너무 (太) + 좋다 (好) 的詞幹 + -아서 (連接詞尾，因為)" },
+        { "point": "미쳤었나 봐", "explanation": "미치다 (瘋狂) 的過去完成式詞幹 미쳤었- + -나 보다" }
+      ]
+    },
+    {
+      "korean": "정말 모든 건 한때야",
+      "translation": "真的所有事都只是一時啊",
+      "analysis": [
+        { "point": "정말 모든 건", "explanation": "真的 + 모든 (所有) + 것 (事情) + -은 (主題助詞) 的縮略" },
+        { "point": "한때야", "explanation": "한때 (一時) + -이다 (是) 的非格式體 (-야)" }
+      ]
+    },
+    {
+      "korean": "난 그게 너무 슬픈 걸",
+      "translation": "我對那點感到非常悲傷",
+      "analysis": [
+        { "point": "난 그게", "explanation": "我 + 그것이 (那個是) 的縮略" },
+        { "point": "너무 슬픈 걸", "explanation": "太 + 슬프다 (悲傷) 的定語形態 (-ㄴ/은) + 것 (事情) + -을 (口語感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다시 한 번 더 날 바라봐 난 thirsty",
+      "translation": "再看我一次吧 我口渴了 (渴望著)",
+      "analysis": [
+        { "point": "다시 한 번 더", "explanation": "再次 一次 更" },
+        { "point": "날 바라봐", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 바라보다 (凝視) 的非格式體命令形" },
+        { "point": "난 thirsty", "explanation": "我 + thirsty (英文：口渴的，引申為渴望的)" }
+      ]
+    },
+    {
+      "korean": "내게 아찔하게 쏟아지던 눈빛",
+      "translation": "曾向我令人暈眩般傾瀉的眼神",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略" },
+        { "point": "아찔하게", "explanation": "아찔하다 (暈眩，驚險) 的副詞形 (-게)" },
+        { "point": "쏟아지던", "explanation": "쏟아지다 (傾瀉) 的詞幹 + -던 (過去回想定語形態)，修飾 눈빛" },
+        { "point": "눈빛", "explanation": "名詞，眼神" }
+      ]
+    },
+    {
+      "korean": "왜 넌 생기 없이 말라가는 건데",
+      "translation": "為何你毫無生氣地漸漸乾涸呢",
+      "analysis": [
+        { "point": "왜 넌", "explanation": "왜 (為何) + 너 (你) + -는 (主題助詞) 的縮略" },
+        { "point": "생기 없이", "explanation": "생기 (生氣，活力) + 없이 (沒有地)" },
+        { "point": "말라가는 건데", "explanation": "마르다 (乾燥) + -아/어 가다 (逐漸進行) + -는 것 (名詞化) + -이다 (是) + -(으)ㄴ데 (表示疑問或背景)" }
+      ]
+    },
+    {
+      "korean": "벽에 걸린 꽃잎같이 dry",
+      "translation": "像掛在牆上的花瓣般 乾燥",
+      "analysis": [
+        { "point": "벽에 걸린", "explanation": "벽 (牆壁) + -에 (在) + 걸리다 (被掛上 - 걸다 的被動態) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "꽃잎같이", "explanation": "꽃잎 (花瓣) + -같이 (像...一樣)" },
+        { "point": "dry", "explanation": "英文：乾燥的" }
+      ]
+    },
+    {
+      "korean": "한 번 더 날 만져봐 난 thirsty",
+      "translation": "再觸摸我一次吧 我渴望著",
+      "analysis": [
+        { "point": "한 번 더 날 만져봐", "explanation": "一次 更 + 我 + 만지다 (觸摸) + -아/어 보다 (試著做...)" },
+        { "point": "난 thirsty", "explanation": "我 + thirsty" }
+      ]
+    },
+    {
+      "korean": "날 다정하게 쓰다듬던 손길",
+      "translation": "曾溫柔地撫摸我的手길",
+      "analysis": [
+        { "point": "날 다정하게", "explanation": "我 + 다정하다 (溫柔多情) 的副詞形 (-게)" },
+        { "point": "쓰다듬던", "explanation": "쓰다듬다 (撫摸) 的詞幹 + -던 (過去回想)，修飾 손길" },
+        { "point": "손길", "explanation": "名詞，手길 (指觸摸的感覺或動作)" }
+      ]
+    },
+    {
+      "korean": "메말라버린 맘이 바스러진 꿈이",
+      "translation": "乾涸了的心 破碎了的夢",
+      "analysis": [
+        { "point": "메말라버린 맘이", "explanation": "메마르다 (乾涸) + -아/어 버리다 (徹底完成) 的過去定語形態 + 맘 (心) + -이 (主格助詞)" },
+        { "point": "바스러진 꿈이", "explanation": "바스러지다 (破碎，粉碎) 的過去定語形態 (-ㄴ/은) + 꿈 (夢) + -이 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "벽에 걸린 꽃잎같이 dry",
+      "translation": "像掛在牆上的花瓣般 乾燥",
+      "analysis": [
+        { "point": "벽에 걸린 꽃잎같이 dry", "explanation": "同上" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "(I got you so thirsty)",
+      "translation": "(我讓你如此渴望)",
+      "analysis": [
+        { "point": "(I got you so thirsty)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "돌아갈 수 없어",
+      "translation": "無法回去",
+      "analysis": [
+        { "point": "돌아갈 수 없어", "explanation": "돌아가다 (回去) 的詞幹 + -(으)ㄹ 수 없다 (不能) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "아무리 노력해도",
+      "translation": "無論怎麼努力",
+      "analysis": [
+        { "point": "아무리", "explanation": "副詞，無論如何，再怎麼" },
+        { "point": "노력해도", "explanation": "노력하다 (努力) 的詞幹 + -아/어도 (即使...也)" }
+      ]
+    },
+    {
+      "korean": "시든 걸 피우는 건",
+      "translation": "讓枯萎的再次綻放這件事",
+      "analysis": [
+        { "point": "시든 걸", "explanation": "시들다 (枯萎) 的過去定語形態 (-ㄴ/은) + 것 (東西) + -을 (受格助詞)" },
+        { "point": "피우는 건", "explanation": "피우다 (使開花) 的定語形態 (-는) + 것 (事情) + -은 (主題助詞)" }
+      ]
+    },
+    {
+      "korean": "신만의 영역일 테니까 yeah, yeah",
+      "translation": "因為那是只屬於神的領域 yeah, yeah",
+      "analysis": [
+        { "point": "신만의 영역일 테니까", "explanation": "신 (神) + -만 (只) + -의 (的) + 영역 (領域) + -이다 (是) + -(으)ㄹ 테니까 (連接詞尾，表示推測的原因或理由)" },
+        { "point": "yeah, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "다 다 다 끝났어",
+      "translation": "全 全 全都結束了",
+      "analysis": [
+        { "point": "다 다 다", "explanation": "副詞，全都 (重複表示強調)" },
+        { "point": "끝났어", "explanation": "끝나다 (結束) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "넌 초심을 잃었어",
+      "translation": "你失去了初心",
+      "analysis": [
+        { "point": "넌 초심을", "explanation": "你 + 초심 (初心) + -을 (受格助詞)" },
+        { "point": "잃었어", "explanation": "잃다 (失去) 的過去式非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2",
+      "korean": "전부 잠깐의 꿈이었나 봐 (hey, yeah)",
+      "translation": "看來全部都只是一場短暫的夢 (hey, yeah)",
+      "analysis": [
+        { "point": "전부", "explanation": "副詞，全部" },
+        { "point": "잠깐의 꿈이었나 봐", "explanation": "잠깐 (暫時) + -의 (的) + 꿈 (夢) + -이다 (是) 的過去式詞幹이었- + -나 보다" },
+        { "point": "hey, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "잠시 미쳐서 착각했나 봐 (nah)",
+      "translation": "看來是暫時瘋了產生了錯覺 (nah)",
+      "analysis": [
+        { "point": "잠시 미쳐서", "explanation": "暫時 + 미치다 (瘋狂) + -어서 (因為)" },
+        { "point": "착각했나 봐", "explanation": "착각하다 (錯覺) 的過去式詞幹 착각했- + -나 보다" },
+        { "point": "nah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "왜 늘 모든 건 변할까",
+      "translation": "為何所有事物總是會改變呢",
+      "analysis": [
+        { "point": "왜 늘", "explanation": "為何 總是" },
+        { "point": "모든 건 변할까", "explanation": "所有事物 + 변하다 (改變) + -(으)ㄹ까 (疑問終結詞尾，表推測或疑問)" }
+      ]
+    },
+    {
+      "korean": "난 그게 너무 아픈 걸",
+      "translation": "我對那點感到非常心痛",
+      "analysis": [
+        { "point": "난 그게", "explanation": "我 + 那個是" },
+        { "point": "너무 아픈 걸", "explanation": "太 + 아프다 (痛) 的定語形態 + 것 + -을 (口語感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다시 한 번 더 날 바라봐 난 thirsty",
+      "translation": "再看我一次吧 我口渴了 (渴望著)",
+      "analysis": [
+        { "point": "다시 한 번 더", "explanation": "再次 一次 更" },
+        { "point": "날 바라봐", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 바라보다 (凝視) 的非格式體命令形" },
+        { "point": "난 thirsty", "explanation": "我 + thirsty (英文：口渴的，引申為渴望的)" }
+      ]
+    },
+    {
+      "korean": "내게 아찔하게 쏟아지던 눈빛",
+      "translation": "曾向我令人暈眩般傾瀉的眼神",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略" },
+        { "point": "아찔하게", "explanation": "아찔하다 (暈眩，驚險) 的副詞形 (-게)" },
+        { "point": "쏟아지던", "explanation": "쏟아지다 (傾瀉) 的詞幹 + -던 (過去回想定語形態)，修飾 눈빛" },
+        { "point": "눈빛", "explanation": "名詞，眼神" }
+      ]
+    },
+    {
+      "korean": "왜 넌 생기 없이 말라가는 건데",
+      "translation": "為何你毫無生氣地漸漸乾涸呢",
+      "analysis": [
+        { "point": "왜 넌", "explanation": "왜 (為何) + 너 (你) + -는 (主題助詞) 的縮略" },
+        { "point": "생기 없이", "explanation": "생기 (生氣，活力) + 없이 (沒有地)" },
+        { "point": "말라가는 건데", "explanation": "마르다 (乾燥) + -아/어 가다 (逐漸進行) + -는 것 (名詞化) + -이다 (是) + -(으)ㄴ데 (表示疑問或背景)" }
+      ]
+    },
+    {
+      "korean": "벽에 걸린 꽃잎같이 dry",
+      "translation": "像掛在牆上的花瓣般 乾燥",
+      "analysis": [
+        { "point": "벽에 걸린", "explanation": "벽 (牆壁) + -에 (在) + 걸리다 (被掛上 - 걸다 的被動態) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "꽃잎같이", "explanation": "꽃잎 (花瓣) + -같이 (像...一樣)" },
+        { "point": "dry", "explanation": "英文：乾燥的" }
+      ]
+    },
+    {
+      "korean": "한 번 더 날 만져봐 난 thirsty (ay, ay, ay)",
+      "translation": "再觸摸我一次吧 我渴望著 (ay, ay, ay)",
+      "analysis": [
+        { "point": "한 번 더 날 만져봐", "explanation": "一次 更 + 我 + 만지다 (觸摸) + -아/어 보다 (試著做...)" },
+        { "point": "난 thirsty", "explanation": "我 + thirsty" },
+        { "point": "ay, ay, ay", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "날 다정하게 쓰다듬던 손길",
+      "translation": "曾溫柔地撫摸我的手길",
+      "analysis": [
+        { "point": "날 다정하게", "explanation": "我 + 다정하다 (溫柔多情) 的副詞形 (-게)" },
+        { "point": "쓰다듬던", "explanation": "쓰다듬다 (撫摸) 的詞幹 + -던 (過去回想)，修飾 손길" },
+        { "point": "손길", "explanation": "名詞，手길 (指觸摸的感覺或動作)" }
+      ]
+    },
+    {
+      "korean": "메말라버린 맘이 바스러진 꿈이",
+      "translation": "乾涸了的心 破碎了的夢",
+      "analysis": [
+        { "point": "메말라버린 맘이", "explanation": "메마르다 (乾涸) + -아/어 버리다 (徹底完成) 的過去定語形態 + 맘 (心) + -이 (主格助詞)" },
+        { "point": "바스러진 꿈이", "explanation": "바스러지다 (破碎，粉碎) 的過去定語形態 (-ㄴ/은) + 꿈 (夢) + -이 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "벽에 걸린 꽃잎같이 dry",
+      "translation": "像掛在牆上的花瓣般 乾燥",
+      "analysis": [
+        { "point": "벽에 걸린 꽃잎같이 dry", "explanation": "同上" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "(I got you so thirsty)",
+      "translation": "(我讓你如此渴望)",
+      "analysis": [
+        { "point": "(I got you so thirsty)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Uh, 향기 없이 말라 가는 꽃잎처럼",
+      "translation": "Uh, 像沒有香氣漸漸乾枯的花瓣一樣",
+      "analysis": [
+        { "point": "Uh", "explanation": "感嘆詞" },
+        { "point": "향기 없이", "explanation": "향기 (香氣) + 없이 (沒有地)" },
+        { "point": "말라 가는", "explanation": "마르다 (乾燥) + -아/어 가다 (逐漸進行) 的定語形態 (-는)" },
+        { "point": "꽃잎처럼", "explanation": "꽃잎 (花瓣) + -처럼 (像...一樣)" }
+      ]
+    },
+    {
+      "korean": "추억이 시들어가",
+      "translation": "回憶漸漸枯萎",
+      "analysis": [
+        { "point": "추억이", "explanation": "추억 (回憶) + -이 (主格助詞)" },
+        { "point": "시들어가", "explanation": "시들다 (枯萎) + -어 가다 (逐漸進行) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "딱딱해진 니 마음 태양처럼",
+      "translation": "你變得僵硬的心 像太陽一樣",
+      "analysis": [
+        { "point": "딱딱해진", "explanation": "딱딱해지다 (變僵硬 - 딱딱하다 (僵硬) + -어지다 (變得...)) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "니 마음", "explanation": "니 (你的 - 너의 口語) + 마음 (心)" },
+        { "point": "태양처럼", "explanation": "태양 (太陽) + -처럼" }
+      ]
+    },
+    {
+      "korean": "뜨거웠던 우리 둘 사인데",
+      "translation": "曾經火熱的我們兩人之間",
+      "analysis": [
+        { "point": "뜨거웠던", "explanation": "뜨겁다 (熱，火熱) 的過去定語形態 (-었던/았던)" },
+        { "point": "우리 둘 사인데", "explanation": "我們 兩人 之間 + -이다 (是) + -(으)ㄴ데 (背景/轉折)" }
+      ]
+    },
+    {
+      "korean": "부서진 조각 맞춰봐도 넌 far away",
+      "translation": "即使試著拼湊破碎的碎片 你也已遠去",
+      "analysis": [
+        { "point": "부서진 조각", "explanation": "부서지다 (破碎) 的過去定語形態 (-ㄴ/은) + 조각 (碎片)" },
+        { "point": "맞춰봐도", "explanation": "맞추다 (拼湊，對準) + -어 보다 (試著) + -아/어도 (即使)" },
+        { "point": "넌 far away", "explanation": "你 + far away (英文：遙遠)" }
+      ]
+    },
+    {
+      "korean": "(Oh yeah!)",
+      "translation": "(Oh yeah!)",
+      "analysis": [
+        { "point": "(Oh yeah!)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다시 한 번 더 날 바라봐 난 thirsty (Oh, yeah)",
+      "translation": "再看我一次吧 我口渴了 (渴望著) (Oh, yeah)",
+      "analysis": [
+        { "point": "다시 한 번 더 날 바라봐 난 thirsty", "explanation": "同 Chorus 第一次出現" },
+        { "point": "Oh, yeah", "explanation": "英文歌詞 (Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "내게 아찔하게 쏟아지던 눈빛 (Oh, yeah)",
+      "translation": "曾向我令人暈眩般傾瀉的眼神 (Oh, yeah)",
+      "analysis": [
+        { "point": "내게 아찔하게 쏟아지던 눈빛", "explanation": "同 Chorus 第一次出現" },
+        { "point": "Oh, yeah", "explanation": "英文歌詞 (Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "왜 넌 생기 없이 말라가는 건데",
+      "translation": "為何你毫無生氣地漸漸乾涸呢",
+      "analysis": [
+        { "point": "왜 넌 생기 없이 말라가는 건데", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "벽에 걸린 꽃잎같이 dry",
+      "translation": "像掛在牆上的花瓣般 乾燥",
+      "analysis": [
+        { "point": "벽에 걸린 꽃잎같이 dry", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "한 번 더 날 만져봐 난 thirsty (I got you thirsty, bae)",
+      "translation": "再觸摸我一次吧 我渴望著 (我讓你渴望，寶貝)",
+      "analysis": [
+        { "point": "한 번 더 날 만져봐 난 thirsty", "explanation": "同 Chorus 第一次出現" },
+        { "point": "I got you thirsty, bae", "explanation": "英文歌詞 (Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "날 다정하게 쓰다듬던 손길",
+      "translation": "曾溫柔地撫摸我的手길",
+      "analysis": [
+        { "point": "날 다정하게 쓰다듬던 손길", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "메말라버린 맘이 바스러진 꿈이",
+      "translation": "乾涸了的心 破碎了的夢",
+      "analysis": [
+        { "point": "메말라버린 맘이 바스러진 꿈이", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "벽에 걸린 꽃잎같이 dry (Oh, whoa, whoa)",
+      "translation": "像掛在牆上的花瓣般 乾燥 (Oh, whoa, whoa)",
+      "analysis": [
+        { "point": "벽에 걸린 꽃잎같이 dry", "explanation": "同 Chorus 第一次出現" },
+        { "point": "Oh, whoa, whoa", "explanation": "英文歌詞 (Ad-lib)" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "(I got you so thirsty)",
+      "translation": "(我讓你如此渴望)",
+      "analysis": [
+        { "point": "(I got you so thirsty)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Dry, dry (I got you so thirsty, baby)",
+      "translation": "乾燥，乾燥 (我讓你如此渴望，寶貝)",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" },
+        { "point": "I got you so thirsty, baby", "explanation": "英文歌詞 (Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "Dry, dry",
+      "translation": "乾燥，乾燥",
+      "analysis": [
+        { "point": "Dry, dry", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "(I got you so thirsty)",
+      "translation": "(我讓你如此渴望)",
+      "analysis": [
+        { "point": "(I got you so thirsty)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "No, whoa",
+      "translation": "No, whoa",
+      "analysis": [
+        { "point": "No, whoa", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I got you so, I got you so thirsty, baby (Oh, yeah, yeah)",
+      "translation": "我讓你如此，我讓你如此渴望，寶貝 (Oh, yeah, yeah)",
+      "analysis": [
+        { "point": "I got you so, I got you so thirsty, baby", "explanation": "英文歌詞" },
+        { "point": "Oh, yeah, yeah", "explanation": "英文歌詞 (Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "(I got you so thirsty)",
+      "translation": "(我讓你如此渴望)",
+      "analysis": [
+        { "point": "(I got you so thirsty)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Ooh, yeah",
+      "translation": "Ooh, yeah",
+      "analysis": [
+        { "point": "Ooh, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I got you so thirsty",
+      "translation": "我讓你如此渴望",
+      "analysis": [
+        { "point": "I got you so thirsty", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "굳다", "chinese": "堅硬/牢固", "pos": "形容詞" },
+    { "korean": "닫히다", "chinese": "被關上", "pos": "動詞 (被動)" },
+    { "korean": "한때", "chinese": "一度/曾經", "pos": "名詞/副詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜", "pos": "形容詞" },
+    { "korean": "머금다", "chinese": "含著", "pos": "動詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "마르다", "chinese": "乾燥/乾涸", "pos": "動詞/形容詞" },
+    { "korean": "외롭다", "chinese": "寂寞", "pos": "形容詞" },
+    { "korean": "말리다", "chinese": "使乾燥/晾乾", "pos": "動詞 (使動)" },
+    { "korean": "장미", "chinese": "玫瑰", "pos": "名詞" },
+    { "korean": "색깔", "chinese": "顏色", "pos": "名詞" },
+    { "korean": "짙다", "chinese": "濃厚/深(色)", "pos": "形容詞" },
+    { "korean": "그림자", "chinese": "影子", "pos": "名詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "과거", "chinese": "過去", "pos": "名詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "서로", "chinese": "互相", "pos": "副詞/代名詞" },
+    { "korean": "꺾다", "chinese": "折斷/挫傷/傷害", "pos": "動詞" },
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "슬프다", "chinese": "悲傷", "pos": "形容詞" },
+    { "korean": "바라보다", "chinese": "凝視/ 바라보다", "pos": "動詞" },
+    { "korean": "아찔하다", "chinese": "暈眩/驚險", "pos": "形容詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉/湧出", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "생기", "chinese": "生氣/活力", "pos": "名詞" },
+    { "korean": "벽", "chinese": "牆壁", "pos": "名詞" },
+    { "korean": "걸리다", "chinese": "被掛上/ 걸리다", "pos": "動詞 (被動)" },
+    { "korean": "꽃잎", "chinese": "花瓣", "pos": "名詞" },
+    { "korean": "만지다", "chinese": "觸摸", "pos": "動詞" },
+    { "korean": "다정하다", "chinese": "溫柔多情", "pos": "形容詞" },
+    { "korean": "쓰다듬다", "chinese": "撫摸", "pos": "動詞" },
+    { "korean": "손길", "chinese": "手길/觸摸", "pos": "名詞" },
+    { "korean": "메마르다", "chinese": "乾涸/枯竭", "pos": "形容詞" },
+    { "korean": "바스러지다", "chinese": "破碎/粉碎", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "노력하다", "chinese": "努力", "pos": "動詞" },
+    { "korean": "시들다", "chinese": "枯萎", "pos": "動詞" },
+    { "korean": "피우다", "chinese": "使開花/ 피우다", "pos": "動詞 (使動)" },
+    { "korean": "신", "chinese": "神", "pos": "名詞" },
+    { "korean": "영역", "chinese": "領域", "pos": "名詞" },
+    { "korean": "끝나다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "초심", "chinese": "初心", "pos": "名詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "잠깐", "chinese": "暫時/一會兒", "pos": "副詞/名詞" },
+    { "korean": "착각하다", "chinese": "錯覺", "pos": "動詞" },
+    { "korean": "변하다", "chinese": "改變/變化", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛/心痛", "pos": "形容詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "딱딱해지다", "chinese": "變僵硬", "pos": "動詞" },
+    { "korean": "태양", "chinese": "太陽", "pos": "名詞" },
+    { "korean": "뜨겁다", "chinese": "熱/火熱", "pos": "形容詞" },
+    { "korean": "부서지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "조각", "chinese": "碎片", "pos": "名詞" },
+    { "korean": "맞추다", "chinese": "拼湊/對準", "pos": "動詞" }
+  ]
+}

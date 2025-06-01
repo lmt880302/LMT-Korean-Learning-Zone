@@ -1,0 +1,211 @@
+{
+  "id": "acourve-maeumeul-beneun-nat",
+  "title": "마음을 베는 낫",
+  "artist": "Acourve",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "잊는 건 참 어려운 일인 걸",
+      "translation": "遺忘真是件困難的事啊",
+      "analysis": [
+        { "point": "잊는 건", "explanation": "잊다 (忘記) 的定語形態 (-는) + 것 (事情/東西) + -은 (主題助詞)" },
+        { "point": "참", "explanation": "副詞，真的，非常" },
+        { "point": "어려운 일인 걸", "explanation": "어렵다 (困難) 的定語形態 (-ㄴ/은) + 일 (事情) + -이다 (是) + -(으)ㄴ/는 걸 (終結詞尾，表示感嘆或強調事實)" }
+      ]
+    },
+    {
+      "korean": "그 기억도 그 마음까지도",
+      "translation": "那記憶也好 那份心意也好",
+      "analysis": [
+        { "point": "그 기억도", "explanation": "그 (那) + 기억 (記憶) + -도 (也，連)" },
+        { "point": "그 마음까지도", "explanation": "那 + 마음 (心意) + -까지 (助詞，連...都，甚至) + -도 (也，此處 -도 強調)" }
+      ]
+    },
+    {
+      "korean": "내게서 허락되지 않았던",
+      "translation": "未曾被我允許的",
+      "analysis": [
+        { "point": "내게서", "explanation": "나에게서 (從我這裡/對我而言) 的縮略" },
+        { "point": "허락되지 않았던", "explanation": "허락되다 (被允許 - 허락하다 的被動態) 的詞幹 + -지 않다 (否定補助動詞) 的過去定語形態 (-았던/었던)" }
+      ]
+    },
+    {
+      "korean": "널 지우는 일인 걸",
+      "translation": "是抹去你的這件事啊",
+      "analysis": [
+        { "point": "널 지우는 일인 걸", "explanation": "너 (你) + -를 (受格助詞) 的縮略 + 지우다 (抹去) 的定語形態 (-는) + 일 (事情) + -이다 (是) + -(으)ㄴ/는 걸" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "슬픈 건 잠시뿐일 거라던",
+      "translation": "曾說悲傷只是一時的",
+      "analysis": [
+        { "point": "슬픈 건", "explanation": "슬프다 (悲傷) 的定語形態 (-ㄴ/은) + 것 (事情) + -은 (主題助詞)" },
+        { "point": "잠시뿐일 거라던", "explanation": "잠시 (暫時) + -뿐이다 (只是...) + -(으)ㄹ 것이다 (將會是...) 的引用形態 (-라고 하던)" }
+      ]
+    },
+    {
+      "korean": "그 위로도 그 모든 말들도",
+      "translation": "那安慰也好 那所有話語也好",
+      "analysis": [
+        { "point": "그 위로도", "explanation": "那 + 위로 (安慰) + -도 (也)" },
+        { "point": "그 모든 말들도", "explanation": "那 + 모든 (所有) + 말 (話) + -들 (複數後綴) + -도 (也)" }
+      ]
+    },
+    {
+      "korean": "내게는 들리지가 않는 걸",
+      "translation": "我卻聽不見啊",
+      "analysis": [
+        { "point": "내게는", "explanation": "對我而言(強調)" },
+        { "point": "들리지가 않는 걸", "explanation": "들리다 (被聽到) + -지 않다 (不) 的定語形態 (-는) + 것 (事情) + -을 (口語感嘆)" }
+      ]
+    },
+    {
+      "korean": "이미 널 기다리고 있는 걸",
+      "translation": "已經在等著你了啊",
+      "analysis": [
+        { "point": "이미", "explanation": "副詞，已經" },
+        { "point": "널 기다리고 있는 걸", "explanation": "你(受格) + 기다리다 (等待) + -고 있다 (正在進行) + -(으)ㄴ/는 걸" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 마음을 베어버린 말들로",
+      "translation": "因那些割裂我心的話語",
+      "analysis": [
+        { "point": "내 마음을", "explanation": "我的 心(受格)" },
+        { "point": "베어버린", "explanation": "베다 (割，砍) + -어 버리다 (徹底完成) 的過去定語形態" },
+        { "point": "말들로", "explanation": "話 + -들 (複數) + -(으)로 (原因/工具助詞)" }
+      ]
+    },
+    {
+      "korean": "이미 내 맘은 무너지지만",
+      "translation": "我的心早已崩塌，但是",
+      "analysis": [
+        { "point": "이미 내 맘은", "explanation": "已經 我的 心(主題)" },
+        { "point": "무너지지만", "explanation": "무너지다 (崩塌) 的詞幹 + -지만 (連接詞尾，但是)" }
+      ]
+    },
+    {
+      "korean": "흩날리는 저 추억 사이로",
+      "translation": "在那紛飛的記憶之間",
+      "analysis": [
+        { "point": "흩날리는", "explanation": "흩날리다 (紛飛，飄揚) 的定語形態 (-는)" },
+        { "point": "저 추억 사이로", "explanation": "저 (那) + 추억 (回憶) + 사이 (之間) + -(으)로 (方向)" }
+      ]
+    },
+    {
+      "korean": "그대가 있는 것 같아요",
+      "translation": "好像有你在",
+      "analysis": [
+        { "point": "그대가", "explanation": "你(主格)" },
+        { "point": "있는 것 같아요", "explanation": "있다 (有/在) + -는 것 같다 (好像...的樣子)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3 (Chorus Reprise)",
+      "korean": "잊는 건 참 어려운 일인 걸",
+      "translation": "遺忘真是件困難的事啊",
+      "analysis": [
+        { "point": "잊는 건 참 어려운 일인 걸", "explanation": "同 Verse 1 第一句" }
+      ]
+    },
+    {
+      "korean": "그 기억도 그 마음까지도",
+      "translation": "那記憶也好 那份心意也好",
+      "analysis": [
+        { "point": "그 기억도 그 마음까지도", "explanation": "同 Verse 1 第二句" }
+      ]
+    },
+    {
+      "korean": "내게서 허락되지 않았던",
+      "translation": "未曾被我允許的",
+      "analysis": [
+        { "point": "내게서 허락되지 않았던", "explanation": "同 Verse 1 第三句" }
+      ]
+    },
+    {
+      "korean": "널 지우는 일인 걸",
+      "translation": "是抹去你的這件事啊",
+      "analysis": [
+        { "point": "널 지우는 일인 걸", "explanation": "同 Verse 1 第四句" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "잊는 건 참 어려운 일인 걸",
+      "translation": "遺忘真是件困難的事啊",
+      "analysis": [
+        { "point": "잊는 건 참 어려운 일인 걸", "explanation": "同 Verse 1 第一句" }
+      ]
+    },
+    {
+      "korean": "그 기억도(그 기억도)",
+      "translation": "那記憶也好 (那記憶也好)",
+      "analysis": [
+        { "point": "그 기억도", "explanation": "那 記憶 也" }
+      ]
+    },
+    {
+      "korean": "그 마음까지도",
+      "translation": "那份心意也好",
+      "analysis": [
+        { "point": "그 마음까지도", "explanation": "同 Verse 1 第二句" }
+      ]
+    },
+    {
+      "korean": "내게서 허락되지 않았던",
+      "translation": "未曾被我允許的",
+      "analysis": [
+        { "point": "내게서 허락되지 않았던", "explanation": "同 Verse 1 第三句" }
+      ]
+    },
+    {
+      "korean": "널 지우는 일인 걸",
+      "translation": "是抹去你的這件事啊",
+      "analysis": [
+        { "point": "널 지우는 일인 걸", "explanation": "同 Verse 1 第四句" }
+      ]
+    },
+    {
+      "korean": "내게서 허락되지 않았던",
+      "translation": "未曾被我允許的",
+      "analysis": [
+        { "point": "내게서 허락되지 않았던", "explanation": "同 Verse 1 第三句" }
+      ]
+    },
+    {
+      "korean": "널 지우는 일인 걸",
+      "translation": "是抹去你的這件事啊",
+      "analysis": [
+        { "point": "널 지우는 일인 걸", "explanation": "同 Verse 1 第四句" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "어렵다", "chinese": "困難", "pos": "形容詞" },
+    { "korean": "일", "chinese": "事情", "pos": "名詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "마음", "chinese": "心/心意", "pos": "名詞" },
+    { "korean": "까지", "chinese": "連...都/甚至", "pos": "助詞" },
+    { "korean": "허락되다", "chinese": "被允許", "pos": "動詞 (被動)" },
+    { "korean": "지우다", "chinese": "抹去/擦掉", "pos": "動詞" },
+    { "korean": "슬프다", "chinese": "悲傷", "pos": "形容詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "뿐이다", "chinese": "只是...", "pos": "補助形容詞/慣用型" },
+    { "korean": "위로", "chinese": "安慰", "pos": "名詞" },
+    { "korean": "말", "chinese": "話語", "pos": "名詞" },
+    { "korean": "들리다", "chinese": "被聽到", "pos": "動詞 (被動)" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "베다", "chinese": "割/砍", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "(作為補助動詞)徹底完成", "pos": "補助動詞" },
+    { "korean": "무너지다", "chinese": "崩塌/倒塌", "pos": "動詞" },
+    { "korean": "흩날리다", "chinese": "紛飛/飄揚", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像...一樣", "pos": "形容詞" }
+  ]
+}

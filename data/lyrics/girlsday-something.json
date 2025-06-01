@@ -1,0 +1,319 @@
+{
+  "id": "girlsday-something",
+  "title": "Something",
+  "artist": "Girl's Day",
+  "lines": [
+    {
+      "sectionTitle": "Intro (Sojin)",
+      "korean": "Hey, what you doing over there?",
+      "translation": "嘿，你在那裡做什麼？",
+      "analysis": [
+        { "point": "Hey, what you doing over there?", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Don't be shy, come on over here",
+      "translation": "別害羞，過來這裡",
+      "analysis": [
+        { "point": "Don't be shy, come on over here", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내 눈을 자꾸 피하지 말고",
+      "translation": "不要總是避開我的眼神",
+      "analysis": [
+        { "point": "내 눈을", "explanation": "내 (我的 - 나의 的縮略) + 눈 (眼睛) + -을 (受格助詞)" },
+        { "point": "자꾸", "explanation": "副詞，總是，頻繁地" },
+        { "point": "피하지 말고", "explanation": "피하다 (躲避) 的詞幹 + -지 말다 (終結詞尾，表示禁止「不要做...」) + -고 (連接詞尾，表示並列或動作先後)" }
+      ]
+    },
+    {
+      "korean": "나와 눈을 맞춰 baby",
+      "translation": "和我對視 baby",
+      "analysis": [
+        { "point": "나와", "explanation": "나 (我) + -와 (助詞，和，與)" },
+        { "point": "눈을 맞춰", "explanation": "눈 (眼睛) + -을 (受格助詞) + 맞추다 (對上，使一致) 的非格式體尊敬階 (-어요 的省略形)" },
+        { "point": "baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (Minah)",
+      "korean": "분명히 느껴져 평소와 다른 너의 눈빛",
+      "translation": "明確地感覺到 和平時不同的你的眼神",
+      "analysis": [
+        { "point": "분명히", "explanation": "副詞，分明地，明確地" },
+        { "point": "느껴져", "explanation": "느껴지다 (被感覺到 - 느끼다 的被動態) 的非格式體尊敬階 (-어요 的省略形)" },
+        { "point": "평소와", "explanation": "평소 (平時) + -와 (助詞，和，與)" },
+        { "point": "다른", "explanation": "다르다 (不同) 的定語形態 (-ㄴ/은)，修飾 너의 눈빛" },
+        { "point": "너의 눈빛", "explanation": "너 (你) + -의 (所有格助詞，的) + 눈빛 (眼神)" }
+      ]
+    },
+    {
+      "korean": "나를 보는 손짓 미묘한 네 분위기",
+      "translation": "看著我的手勢 微妙的你的氛圍",
+      "analysis": [
+        { "point": "나를 보는 손짓", "explanation": "나 (我) + -를 (受格助詞) + 보다 (看) 的定語形態 (-는) + 손짓 (手勢)" },
+        { "point": "미묘한", "explanation": "미묘하다 (微妙) 的定語形態 (-ㄴ/은)，修飾 네 분위기" },
+        { "point": "네 분위기", "explanation": "네 (你的 - 너의 的縮略) + 분위기 (氛圍)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus (Hyeri & Sojin)",
+      "korean": "뭔가 있는 것 같은 이상한 기분",
+      "translation": "好像有什麼似的 奇怪的感覺",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무엇인가 (什麼東西/某事) 的縮略" },
+        { "point": "있는 것 같은", "explanation": "있다 (有) 的定語形態 (-는) + 것 (名詞，事情/東西) + 같다 (像...一樣) 的定語形態 (-은)" },
+        { "point": "이상한 기분", "explanation": "이상하다 (奇怪) 的定語形態 (-ㄴ/은) + 기분 (名詞，心情/感覺)" }
+      ]
+    },
+    {
+      "korean": "아닌 척 해봐도 (다 알 것 같아)",
+      "translation": "就算試著裝作不是 (好像全都知道)",
+      "analysis": [
+        { "point": "아닌 척 해봐도", "explanation": "아니다 (不是) 的定語形態 (-ㄴ) + 척하다 (假裝) 的詞幹 + -아/어 보다 (試著做...) + -아/어도 (連接詞尾，即使...也)" },
+        { "point": "다 알 것 같아", "explanation": "다 (副詞，全都) + 알다 (知道) 的詞幹 + -(으)ㄹ 것 같다 (推測語尾，好像會...) 的非格式體尊敬階 (-아요 的省略形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (All)",
+      "korean": "Something about you, yeah",
+      "translation": "關於你的某件事, yeah",
+      "analysis": [
+        { "point": "Something about you, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나만 애타게 하고 너는 아닌 척",
+      "translation": "只有我焦急不已 你卻裝作不是",
+      "analysis": [
+        { "point": "나만", "explanation": "나 (我) + -만 (助詞，只有)" },
+        { "point": "애타게 하고", "explanation": "애타다 (焦急，焦慮) 的副詞形 (-게) + 하다 (使...) + -고 (連接詞尾)" },
+        { "point": "너는 아닌 척", "explanation": "너 (你) + -는 (主題助詞) + 아니다 (不是) 的定語形態 (-ㄴ) + 척 (依存名詞，假裝)" }
+      ]
+    },
+    {
+      "korean": "Maybe I'm in love with you, yeah",
+      "translation": "也許我愛上你了, yeah",
+      "analysis": [
+        { "point": "Maybe I'm in love with you, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "애만 태우게 하고 (Oh oh oh)",
+      "translation": "只讓我焦急 (Oh oh oh)",
+      "analysis": [
+        { "point": "애만 태우게 하고", "explanation": "애 (名詞，心/內心，常用於表達焦慮等情緒) + -만 (只) + 태우다 (使燃燒/使焦急 - 타다 的使動態) 的副詞形 (-게) + 하다 (使...) + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Yura - Rap)",
+      "korean": "Hey Mr. DJ, play that song",
+      "translation": "嘿 DJ先生，播放那首歌",
+      "analysis": [
+        { "point": "Hey Mr. DJ, play that song", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나만 들리게 조금 더 크게",
+      "translation": "只讓我聽見 再大聲一點",
+      "analysis": [
+        { "point": "나만 들리게", "explanation": "나 (我) + -만 (只) + 들리다 (被聽到 - 듣다 的被動態) 的副詞形 (-게)" },
+        { "point": "조금 더 크게", "explanation": "조금 (副詞，一點) + 더 (副詞，更) + 크다 (大) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "지금 이 느낌이 뭔지",
+      "translation": "現在這種感覺是什麼",
+      "analysis": [
+        { "point": "지금 이 느낌이 뭔지", "explanation": "지금 (現在) + 이 (這) + 느낌 (感覺) + -이 (主格助詞) + 무엇인지 (是什麼 - 무엇이다 的疑問形，口語中常縮略)" }
+      ]
+    },
+    {
+      "korean": "나만 알고 싶으니 (Let's dance)",
+      "translation": "因為我只想自己知道 (Let's dance)",
+      "analysis": [
+        { "point": "나만 알고 싶으니", "explanation": "나 (我) + -만 (只) + 알다 (知道) 的詞幹 + -고 싶다 (補助動詞，想做...) + -(으)니 (連接詞尾，因為)" },
+        { "point": "Let's dance", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3 (Sojin)",
+      "korean": "솔직히 말할게 네 눈빛 변한 이유를",
+      "translation": "坦白說吧 你眼神改變的理由",
+      "analysis": [
+        { "point": "솔직히 말할게", "explanation": "솔직히 (副詞，坦白地) + 말하다 (說) 的詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)" },
+        { "point": "네 눈빛 변한 이유를", "explanation": "네 (你的) + 눈빛 (眼神) + 변하다 (改變) 的過去定語形態 (-ㄴ/은) + 이유 (理由) + -를 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "다 알면서 모른 척 했어 왠지",
+      "translation": "全都知道卻裝作不知道 不知為何",
+      "analysis": [
+        { "point": "다 알면서", "explanation": "다 (全都) + 알다 (知道) 的詞幹 + -(으)면서 (連接詞尾，表示同時或雖然...卻...)" },
+        { "point": "모른 척 했어", "explanation": "모르다 (不知道) 的定語形態 (-ㄴ) + 척하다 (假裝) 的過去式非格式體 (-했어요 的省略)" },
+        { "point": "왠지", "explanation": "왜인지 (為什麼) 的縮略，副詞，不知為何" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus (Minah & Hyeri)",
+      "korean": "뭔가 있는 것 같은 이상한 기분",
+      "translation": "好像有什麼似的 奇怪的感覺",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무엇인가 (什麼東西/某事) 的縮略" },
+        { "point": "있는 것 같은", "explanation": "있다 (有) 的定語形態 (-는) + 것 (名詞，事情/東西) + 같다 (像...一樣) 的定語形態 (-은)" },
+        { "point": "이상한 기분", "explanation": "이상하다 (奇怪) 的定語形態 (-ㄴ/은) + 기분 (名詞，心情/感覺)" }
+      ]
+    },
+    {
+      "korean": "아닌 척 해봐도 (다 알 것 같아)",
+      "translation": "就算試著裝作不是 (好像全都知道)",
+      "analysis": [
+        { "point": "아닌 척 해봐도", "explanation": "아니다 (不是) 的定語形態 (-ㄴ) + 척하다 (假裝) 的詞幹 + -아/어 보다 (試著做...) + -아/어도 (連接詞尾，即使...也)" },
+        { "point": "다 알 것 같아", "explanation": "다 (副詞，全都) + 알다 (知道) 的詞幹 + -(으)ㄹ 것 같다 (推測語尾，好像會...) 的非格式體尊敬階 (-아요 的省略形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (All)",
+      "korean": "Something about you, yeah",
+      "translation": "關於你的某件事, yeah",
+      "analysis": [
+        { "point": "Something about you, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나만 애타게 하고 너는 아닌 척",
+      "translation": "只有我焦急不已 你卻裝作不是",
+      "analysis": [
+        { "point": "나만", "explanation": "나 (我) + -만 (助詞，只有)" },
+        { "point": "애타게 하고", "explanation": "애타다 (焦急，焦慮) 的副詞形 (-게) + 하다 (使...) + -고 (連接詞尾)" },
+        { "point": "너는 아닌 척", "explanation": "너 (你) + -는 (主題助詞) + 아니다 (不是) 的定語形態 (-ㄴ) + 척 (依存名詞，假裝)" }
+      ]
+    },
+    {
+      "korean": "Maybe I'm in love with you, yeah",
+      "translation": "也許我愛上你了, yeah",
+      "analysis": [
+        { "point": "Maybe I'm in love with you, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "애만 태우게 하고 (Oh oh oh)",
+      "translation": "只讓我焦急 (Oh oh oh)",
+      "analysis": [
+        { "point": "애만 태우게 하고", "explanation": "애 (名詞，心/內心，常用於表達焦慮等情緒) + -만 (只) + 태우다 (使燃燒/使焦急 - 타다 的使動態) 的副詞形 (-게) + 하다 (使...) + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge (Minah & Sojin)",
+      "korean": "이렇게 바보같이 나 혼자",
+      "translation": "這樣像傻瓜一樣 我獨自",
+      "analysis": [
+        { "point": "이렇게", "explanation": "이렇다 (這樣) 的副詞形 (-게)" },
+        { "point": "바보같이", "explanation": "바보 (名詞，傻瓜) + -같이 (助詞，像...一樣)" },
+        { "point": "나 혼자", "explanation": "나 (我) + 혼자 (副詞/名詞，獨自)" }
+      ]
+    },
+    {
+      "korean": "고민만 하고 있는 걸",
+      "translation": "只是在苦惱著",
+      "analysis": [
+        { "point": "고민만 하고 있는 걸", "explanation": "고민 (名詞，苦惱) + -만 (只) + 하다 (做) 的詞幹 + -고 있다 (正在進行) + -(으)ㄴ/는 걸 (終結詞尾，表示強調事實或感嘆)" }
+      ]
+    },
+    {
+      "korean": "아닌 척 더 이상 못하겠어",
+      "translation": "再也無法假裝不是了",
+      "analysis": [
+        { "point": "아닌 척", "explanation": "아니다 (不是) 的定語形態 (-ㄴ) + 척 (依存名詞，假裝)" },
+        { "point": "더 이상", "explanation": "副詞片語，再也，更以上" },
+        { "point": "못하겠어", "explanation": "못 (副詞，不能) + 하다 (做) 的詞幹 + -겠- (意志或推測詞尾) + -어 (非格式體終結詞尾，此處為半語)" }
+      ]
+    },
+    {
+      "korean": "Stop! Now listen to me boy (Hey)",
+      "translation": "停止！現在聽我說男孩 (嘿)",
+      "analysis": [
+        { "point": "Stop! Now listen to me boy (Hey)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (All)",
+      "korean": "Something about you, yeah",
+      "translation": "關於你的某件事, yeah",
+      "analysis": [
+        { "point": "Something about you, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "너도 나와 같다고 내게 말해줘",
+      "translation": "告訴我你和我一樣",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (助詞，也)" },
+        { "point": "나와 같다고", "explanation": "나 (我) + -와 (和) + 같다 (一樣) 的詞幹 + -고 (間接引用連接詞尾)" },
+        { "point": "내게 말해줘", "explanation": "나에게 (對我) 的縮略 + 말하다 (說) 的詞幹 + -아/어 주다 (補助動詞，為...做...) 的命令形 (-아/어 줘)" }
+      ]
+    },
+    {
+      "korean": "Maybe I'm in love with you, yeah",
+      "translation": "也許我愛上你了, yeah",
+      "analysis": [
+        { "point": "Maybe I'm in love with you, yeah", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "애만 태우게 하고 (No more)",
+      "translation": "只讓我焦急 (No more)",
+      "analysis": [
+        { "point": "애만 태우게 하고", "explanation": "애 (名詞，心/內心，常用於表達焦慮等情緒) + -만 (只) + 태우다 (使燃燒/使焦急 - 타다 的使動態) 的副詞形 (-게) + 하다 (使...) + -고 (連接詞尾)" },
+        { "point": "No more", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro (Sojin & Minah)",
+      "korean": "Is it true? (Uh-huh) Is it true? (Uh-huh)",
+      "translation": "是真的嗎？ (嗯哼) 是真的嗎？ (嗯哼)",
+      "analysis": [
+        { "point": "Is it true? (Uh-huh) Is it true? (Uh-huh)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Is it true? Oh something",
+      "translation": "是真的嗎？Oh something",
+      "analysis": [
+        { "point": "Is it true? Oh something", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "總是/頻繁地", "pos": "副詞" },
+    { "korean": "맞추다", "chinese": "對上/使一致", "pos": "動詞" },
+    { "korean": "분명히", "chinese": "分明地/明確地", "pos": "副詞" },
+    { "korean": "느껴지다", "chinese": "被感覺到", "pos": "動詞 (被動)" },
+    { "korean": "평소", "chinese": "平時", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "손짓", "chinese": "手勢", "pos": "名詞" },
+    { "korean": "미묘하다", "chinese": "微妙", "pos": "形容詞" },
+    { "korean": "분위기", "chinese": "氛圍", "pos": "名詞" },
+    { "korean": "뭔가", "chinese": "某事/什麼東西", "pos": "代名詞/副詞" },
+    { "korean": "이상하다", "chinese": "奇怪", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "心情/感覺", "pos": "名詞" },
+    { "korean": "척하다", "chinese": "假裝", "pos": "動詞" },
+    { "korean": "애타다", "chinese": "焦急/焦慮", "pos": "動詞/形容詞" },
+    { "korean": "태우다", "chinese": "使燃燒/使焦急", "pos": "動詞 (使動)" },
+    { "korean": "들리다", "chinese": "被聽到", "pos": "動詞 (被動)" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "솔직히", "chinese": "坦白地", "pos": "副詞" },
+    { "korean": "변하다", "chinese": "改變/變化", "pos": "動詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞/名詞" },
+    { "korean": "고민", "chinese": "苦惱", "pos": "名詞" },
+    { "korean": "더 이상", "chinese": "再也/更以上", "pos": "副詞片語" },
+    { "korean": "같다", "chinese": "一樣/如同", "pos": "形容詞" },
+    { "korean": "말하다", "chinese": "說話", "pos": "動詞" }
+  ]
+}

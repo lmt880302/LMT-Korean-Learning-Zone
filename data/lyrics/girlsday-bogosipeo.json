@@ -1,0 +1,643 @@
+{
+  "id": "girlsday-bogosipeo",
+  "title": "보고싶어 (I Miss You)",
+  "artist": "Girl's Day",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Don’t tell me why",
+      "translation": "不要告訴我為什麼",
+      "analysis": [
+        { "point": "Don’t tell me why", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "두 눈을 감으면 네가 보이는데",
+      "translation": "閉上雙眼就能看見你，但是",
+      "analysis": [
+        { "point": "두 눈을", "explanation": "두 (數詞，二) + 눈 (眼睛) + -을 (受格助詞)" },
+        { "point": "감으면", "explanation": "감다 (閉眼) 的詞幹 + -(으)면 (連接詞尾，如果...的時候)" },
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)" },
+        { "point": "보이는데", "explanation": "보이다 (被看見 - 보다 的被動態) 的詞幹 + -(으)ㄴ/는데 (連接詞尾，表示背景、轉折或提示)" }
+      ]
+    },
+    {
+      "korean": "Don’t tell me boy",
+      "translation": "不要告訴我 男孩",
+      "analysis": [
+        { "point": "Don’t tell me boy", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "넌 웃고 있는데 우리 웃고 있는데",
+      "translation": "你正在笑著 我們也曾笑著，但是",
+      "analysis": [
+        { "point": "넌", "explanation": "너 (你) + -는 (主題助詞) 的縮略" },
+        { "point": "웃고 있는데", "explanation": "웃다 (笑) 的詞幹 + -고 있다 (正在進行式) + -(으)ㄴ/는데" },
+        { "point": "우리", "explanation": "代名詞，我們" }
+      ]
+    },
+    {
+      "korean": "Don’t tell me why",
+      "translation": "不要告訴我為什麼",
+      "analysis": [
+        { "point": "Don’t tell me why", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "두 눈을 떠보면 난 울고 있는걸",
+      "translation": "睜開雙眼卻發現我正在哭泣",
+      "analysis": [
+        { "point": "두 눈을 떠보면", "explanation": "두 눈을 뜨다 (睜開雙眼) + -아/어 보다 (試著做...) + -(으)면 (如果...的時候)" },
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略" },
+        { "point": "울고 있는걸", "explanation": "울다 (哭) 的詞幹 + -고 있다 (正在進行式) + -(으)ㄴ/는걸 (終結詞尾，表示發現或輕微驚訝)" }
+      ]
+    },
+    {
+      "korean": "Don’t tell me boy",
+      "translation": "不要告訴我 男孩",
+      "analysis": [
+        { "point": "Don’t tell me boy", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "우리 함께였는데",
+      "translation": "我們曾經在一起，但是",
+      "analysis": [
+        { "point": "우리 함께였는데", "explanation": "우리 (我們) + 함께 (一起) + -이다 (是) 的過去式詞幹 -이었- + -(으)ㄴ/는데" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "아침에 일어나 tv를 켜고",
+      "translation": "早上起床 打開電視",
+      "analysis": [
+        { "point": "아침에", "explanation": "아침 (早上) + -에 (時間/場所助詞)" },
+        { "point": "일어나", "explanation": "일어나다 (起床) 的非格式體連接形 (-아/어)" },
+        { "point": "tv를 켜고", "explanation": "tv + -를 (受格助詞) + 켜다 (打開電器) + -고 (連接詞尾，然後)" }
+      ]
+    },
+    {
+      "korean": "샤워를 하고 옷을 갈아입고서",
+      "translation": "洗完澡 換好衣服之後",
+      "analysis": [
+        { "point": "샤워를 하고", "explanation": "샤워 (淋浴) + -를 + 하다 (做) + -고" },
+        { "point": "옷을 갈아입고서", "explanation": "옷 (衣服) + -을 + 갈아입다 (換衣服) + -고서 (連接詞尾，做完...之後)" }
+      ]
+    },
+    {
+      "korean": "나갈 준비를 해",
+      "translation": "準備出門",
+      "analysis": [
+        { "point": "나갈 준비를 해", "explanation": "나가다 (出去) 的將來時定語形 (-ㄹ/을) + 준비 (準備) + -를 + 하다 (做) 的非格式體 (-아/어)" }
+      ]
+    },
+    {
+      "korean": "오늘도 어제와 똑같은데",
+      "translation": "今天也和昨天一樣，但是",
+      "analysis": [
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)" },
+        { "point": "어제와", "explanation": "어제 (昨天) + -와 (和)" },
+        { "point": "똑같은데", "explanation": "똑같다 (一模一樣) 的詞幹 + -(으)ㄴ/는데" }
+      ]
+    },
+    {
+      "korean": "한 가지도 변한 게 없는데",
+      "translation": "連一件事都沒有改變，但是",
+      "analysis": [
+        { "point": "한 가지도", "explanation": "한 (一) + 가지 (種類，事情) + -도 (也，連)" },
+        { "point": "변한 게 없는데", "explanation": "변하다 (改變) 的過去定語形態 (-ㄴ/은) + 것 (事情) + -이 (主格助詞) 的縮略為 게 + 없다 (沒有) + -(으)ㄴ/는데" }
+      ]
+    },
+    {
+      "korean": "왜 난",
+      "translation": "為何我",
+      "analysis": [
+        { "point": "왜", "explanation": "副詞，為何" },
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "문득 울리는 전화길 보다가",
+      "translation": "看著突然響起的電話時",
+      "analysis": [
+        { "point": "문득", "explanation": "副詞，突然，猛然" },
+        { "point": "울리는 전화길", "explanation": "울리다 (響起 - 울다 (哭/響) 的使動或被動) 的定語形態 (-는) + 전화기 (電話) + -를 (受格助詞) 的口語縮略" },
+        { "point": "보다가", "explanation": "보다 (看) 的詞幹 + -다가 (連接詞尾，表示動作進行中轉換到另一動作)" }
+      ]
+    },
+    {
+      "korean": "나도 몰래 눈물이 흘러내리고",
+      "translation": "我也情不自禁地流下眼淚",
+      "analysis": [
+        { "point": "나도 몰래", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) 的副詞形 (-게) 的慣用表達，不知不覺地，情不自禁地" },
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)" },
+        { "point": "흘러내리고", "explanation": "흘러내리다 (流下來) 的詞幹 + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "너는 왜 또 이렇게",
+      "translation": "你為何又這樣",
+      "analysis": [
+        { "point": "너는 왜 또", "explanation": "너 (你) + -는 (主題助詞) + 왜 (為何) + 또 (又，再)" },
+        { "point": "이렇게", "explanation": "이렇다 (這樣) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "넌 아무렇지 않게",
+      "translation": "你若無其事地",
+      "analysis": [
+        { "point": "넌 아무렇지 않게", "explanation": "너 (你) + -는 (主題助詞) 的縮略 + 아무렇지도 않다 (毫不在乎，若無其事) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "내 맘을 또 흔들어놔",
+      "translation": "又動搖了我的心",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + -을 (受格助詞)" },
+        { "point": "또 흔들어놔", "explanation": "又 + 흔들다 (搖動) + -어 놓다 (補助動詞，表示動作完成並保持狀態，或帶有放任不管的語氣)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사실은 너무 보고 싶어",
+      "translation": "其實非常想你",
+      "analysis": [
+        { "point": "사실은", "explanation": "사실 (事實) + -은 (主題助詞)" },
+        { "point": "너무 보고 싶어", "explanation": "너무 (副詞，太，非常) + 보다 (看) + -고 싶다 (想做...，用於表達想念)" }
+      ]
+    },
+    {
+      "korean": "보고 싶어 네가",
+      "translation": "想你啊 你",
+      "analysis": [
+        { "point": "보고 싶어", "explanation": "同上" },
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞，此處強調想念的對象是你)" }
+      ]
+    },
+    {
+      "korean": "네 어깨 기대 울고 싶어",
+      "translation": "想靠在你的肩膀哭泣",
+      "analysis": [
+        { "point": "네 어깨 기대", "explanation": "네 (你的) + 어깨 (肩膀) + 기대다 (依靠) 的連接形 (-어/아)" },
+        { "point": "울고 싶어", "explanation": "울다 (哭) + -고 싶다 (想做...)" }
+      ]
+    },
+    {
+      "korean": "울고 싶어 내가",
+      "translation": "想哭啊 我",
+      "analysis": [
+        { "point": "울고 싶어", "explanation": "同上" },
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞，強調想哭的是我)" }
+      ]
+    },
+    {
+      "korean": "참아보려 애써 웃잖아",
+      "translation": "努力忍住才笑出來的不是嗎",
+      "analysis": [
+        { "point": "참아보려", "explanation": "참다 (忍耐) + -아/어 보다 (試著做...) + -(으)려고 (意圖連接詞尾)" },
+        { "point": "애써 웃잖아", "explanation": "애쓰다 (努力) 的連接形 (-어/아) + 웃다 (笑) + -잖아 (終結詞尾，表示提醒或確認)" }
+      ]
+    },
+    {
+      "korean": "아직도 흔들리고 있잖아",
+      "translation": "到現在還在動搖不是嗎",
+      "analysis": [
+        { "point": "아직도", "explanation": "副詞，仍然，還" },
+        { "point": "흔들리고 있잖아", "explanation": "흔들리다 (被搖動，動搖) + -고 있다 (正在進行) + -잖아" }
+      ]
+    },
+    {
+      "korean": "제발 잘해 주지 마",
+      "translation": "拜託 不要對我好",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託，千萬" },
+        { "point": "잘해 주지 마", "explanation": "잘하다 (做得好/對...好) + -아/어 주다 (為(我)做...) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "더는 내게 잘해 주지 마",
+      "translation": "不要再對我好了",
+      "analysis": [
+        { "point": "더는", "explanation": "더 이상은 (再也不) 的縮略" },
+        { "point": "내게 잘해 주지 마", "explanation": "나에게 (對我) + 잘해 주지 마" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Rap - Yura/Sojin)",
+      "korean": "잘해주지 마 가슴이 아프잖아",
+      "translation": "不要對我好 心會痛不是嗎",
+      "analysis": [
+        { "point": "잘해주지 마", "explanation": "同上" },
+        { "point": "가슴이 아프잖아", "explanation": "가슴 (心/胸口) + -이 (主格助詞) + 아프다 (痛) + -잖아" }
+      ]
+    },
+    {
+      "korean": "눈에 뛰지 마 자꾸 네가 맴돌잖아",
+      "translation": "不要出現在我眼前 你總是縈繞不去不是嗎",
+      "analysis": [
+        { "point": "눈에 뛰지 마", "explanation": "눈에 띄다 (顯眼，被看見) + -지 마" },
+        { "point": "자꾸", "explanation": "副詞，總是，頻繁地" },
+        { "point": "네가 맴돌잖아", "explanation": "너 (你) + -가 (主格助詞) + 맴돌다 (縈繞，徘徊) + -잖아" }
+      ]
+    },
+    {
+      "korean": "난 의외로 약해",
+      "translation": "我出乎意料地脆弱",
+      "analysis": [
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略" },
+        { "point": "의외로", "explanation": "副詞，出乎意料地" },
+        { "point": "약해", "explanation": "약하다 (脆弱) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "그래서 너밖에 못 그려",
+      "translation": "所以除了你 我什麼也描繪不出 (無法不想你)",
+      "analysis": [
+        { "point": "그래서", "explanation": "副詞，所以" },
+        { "point": "너밖에 못 그려", "explanation": "너 (你) + -밖에 (助詞，除了...之外沒有，後常接否定) + 못 (副詞，不能) + 그리다 (畫/思念)" }
+      ]
+    },
+    {
+      "korean": "그림을 지우다 다시 널 그려",
+      "translation": "擦掉畫作又再次畫下你",
+      "analysis": [
+        { "point": "그림을 지우다", "explanation": "그림 (畫) + -을 (受格助詞) + 지우다 (擦掉)" },
+        { "point": "다시 널 그려", "explanation": "再次 + 너 (你) + -를 (受格助詞) 的縮略 + 그리다 (畫) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "또 너무 달콤해",
+      "translation": "又太過甜蜜",
+      "analysis": [
+        { "point": "또 너무", "explanation": "又 太過" },
+        { "point": "달콤해", "explanation": "달콤하다 (甜蜜) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "[YR/SJ] 그래서 미치게 해",
+      "translation": "所以讓我瘋狂",
+      "analysis": [
+        { "point": "그래서 미치게 해", "explanation": "所以 + 미치다 (瘋狂) 的副詞形 (-게) + 하다 (使...)" }
+      ]
+    },
+    {
+      "korean": "또 너무 달콤해",
+      "translation": "又太過甜蜜",
+      "analysis": [
+        { "point": "또 너무 달콤해", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "[YR/SJ] 그래서 미치게 해",
+      "translation": "所以讓我瘋狂",
+      "analysis": [
+        { "point": "그래서 미치게 해", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "넌 나를 아프게",
+      "translation": "你讓我心痛",
+      "analysis": [
+        { "point": "넌 나를", "explanation": "你 我(受格)" },
+        { "point": "아프게", "explanation": "아프다 (痛) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "그래서 더욱 미치게 해",
+      "translation": "所以更加讓我瘋狂",
+      "analysis": [
+        { "point": "그래서 더욱", "explanation": "所以 更加" },
+        { "point": "미치게 해", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "[YR/SJ] 잘해주지 마",
+      "translation": "不要對我好",
+      "analysis": [
+        { "point": "잘해주지 마", "explanation": "同 Chorus" }
+      ]
+    },
+    {
+      "korean": "내게 널 보여주지 마",
+      "translation": "不要向我展現你",
+      "analysis": [
+        { "point": "내게 널", "explanation": "對我 你(受格)" },
+        { "point": "보여주지 마", "explanation": "보여주다 (展現給(人看)) + -지 마" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "문득 울리는 전화길 보다가",
+      "translation": "看著突然響起的電話時",
+      "analysis": [
+        { "point": "문득", "explanation": "副詞，突然，猛然" },
+        { "point": "울리는 전화길", "explanation": "울리다 (響起 - 울다 (哭/響) 的使動或被動) 的定語形態 (-는) + 전화기 (電話) + -를 (受格助詞) 的口語縮略" },
+        { "point": "보다가", "explanation": "보다 (看) 的詞幹 + -다가 (連接詞尾，表示動作進行中轉換到另一動作)" }
+      ]
+    },
+    {
+      "korean": "나도 몰래 눈물이 흘러내리고",
+      "translation": "我也情不自禁地流下眼淚",
+      "analysis": [
+        { "point": "나도 몰래", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) 的副詞形 (-게) 的慣用表達，不知不覺地，情不自禁地" },
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)" },
+        { "point": "흘러내리고", "explanation": "흘러내리다 (流下來) 的詞幹 + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "너는 왜 또 이렇게",
+      "translation": "你為何又這樣",
+      "analysis": [
+        { "point": "너는 왜 또", "explanation": "너 (你) + -는 (主題助詞) + 왜 (為何) + 또 (又，再)" },
+        { "point": "이렇게", "explanation": "이렇다 (這樣) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "넌 아무렇지 않게",
+      "translation": "你若無其事地",
+      "analysis": [
+        { "point": "넌 아무렇지 않게", "explanation": "너 (你) + -는 (主題助詞) 的縮略 + 아무렇지도 않다 (毫不在乎，若無其事) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "내 맘을 또 흔들어놔",
+      "translation": "又動搖了我的心",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + -을 (受格助詞)" },
+        { "point": "또 흔들어놔", "explanation": "又 + 흔들다 (搖動) + -어 놓다 (補助動詞，表示動作完成並保持狀態，或帶有放任不管的語氣)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사실은 너무 보고 싶어",
+      "translation": "其實非常想你",
+      "analysis": [
+        { "point": "사실은", "explanation": "사실 (事實) + -은 (主題助詞)" },
+        { "point": "너무 보고 싶어", "explanation": "너무 (副詞，太，非常) + 보다 (看) + -고 싶다 (想做...，用於表達想念)" }
+      ]
+    },
+    {
+      "korean": "보고 싶어 네가",
+      "translation": "想你啊 你",
+      "analysis": [
+        { "point": "보고 싶어", "explanation": "同上" },
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞，此處強調想念的對象是你)" }
+      ]
+    },
+    {
+      "korean": "네 어깨 기대 울고 싶어",
+      "translation": "想靠在你的肩膀哭泣",
+      "analysis": [
+        { "point": "네 어깨 기대", "explanation": "네 (你的) + 어깨 (肩膀) + 기대다 (依靠) 的連接形 (-어/아)" },
+        { "point": "울고 싶어", "explanation": "울다 (哭) + -고 싶다 (想做...)" }
+      ]
+    },
+    {
+      "korean": "울고 싶어 내가",
+      "translation": "想哭啊 我",
+      "analysis": [
+        { "point": "울고 싶어", "explanation": "同上" },
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞，強調想哭的是我)" }
+      ]
+    },
+    {
+      "korean": "참아보려 애써 웃잖아",
+      "translation": "努力忍住才笑出來的不是嗎",
+      "analysis": [
+        { "point": "참아보려", "explanation": "참다 (忍耐) + -아/어 보다 (試著做...) + -(으)려고 (意圖連接詞尾)" },
+        { "point": "애써 웃잖아", "explanation": "애쓰다 (努力) 的連接形 (-어/아) + 웃다 (笑) + -잖아 (終結詞尾，表示提醒或確認)" }
+      ]
+    },
+    {
+      "korean": "아직도 흔들리고 있잖아",
+      "translation": "到現在還在動搖不是嗎",
+      "analysis": [
+        { "point": "아직도", "explanation": "副詞，仍然，還" },
+        { "point": "흔들리고 있잖아", "explanation": "흔들리다 (被搖動，動搖) + -고 있다 (正在進行) + -잖아" }
+      ]
+    },
+    {
+      "korean": "제발 잘해 주지 마",
+      "translation": "拜託 不要對我好",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託，千萬" },
+        { "point": "잘해 주지 마", "explanation": "잘하다 (做得好/對...好) + -아/어 주다 (為(我)做...) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "더는 내게 잘해 주지 마",
+      "translation": "不要再對我好了",
+      "analysis": [
+        { "point": "더는", "explanation": "더 이상은 (再也不) 的縮略" },
+        { "point": "내게 잘해 주지 마", "explanation": "나에게 (對我) + 잘해 주지 마" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Don’t tell me why",
+      "translation": "不要告訴我為什麼",
+      "analysis": [
+        { "point": "Don’t tell me why", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "잘해주지 마 가슴이 아프잖아",
+      "translation": "不要對我好 心會痛不是嗎",
+      "analysis": [
+        { "point": "잘해주지 마", "explanation": "同 Chorus" },
+        { "point": "가슴이 아프잖아", "explanation": "同 Verse 2 (Rap)" }
+      ]
+    },
+    {
+      "korean": "Don’t tell me boy",
+      "translation": "不要告訴我 男孩",
+      "analysis": [
+        { "point": "Don’t tell me boy", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "잘해주지 마",
+      "translation": "不要對我好",
+      "analysis": [
+        { "point": "잘해주지 마", "explanation": "同 Chorus" }
+      ]
+    },
+    {
+      "korean": "이렇게 내 가슴에서",
+      "translation": "這樣從我心中",
+      "analysis": [
+        { "point": "이렇게", "explanation": "這樣地" },
+        { "point": "내 가슴에서", "explanation": "我的 心中 + -에서 (從...)" }
+      ]
+    },
+    {
+      "korean": "지우려 하지만",
+      "translation": "雖然想擦去",
+      "analysis": [
+        { "point": "지우려 하지만", "explanation": "지우다 (擦去) + -(으)려고 하다 (想要做...) + -지만 (連接詞尾，但是)" }
+      ]
+    },
+    {
+      "korean": "그게 마음처럼",
+      "translation": "那不像心裡想的那樣",
+      "analysis": [
+        { "point": "그게", "explanation": "그것이 (那個是) 的縮略" },
+        { "point": "마음처럼", "explanation": "마음 (心/想法) + -처럼 (像...一樣)" }
+      ]
+    },
+    {
+      "korean": "안 되는걸 어떻게",
+      "translation": "不行啊 怎麼辦",
+      "analysis": [
+        { "point": "안 되는걸", "explanation": "안 되다 (不行) + -(으)ㄴ/는걸 (終結詞尾，表示感嘆或無奈)" },
+        { "point": "어떻게", "explanation": "副詞，怎麼辦，如何" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사실은 너무 보고 싶어",
+      "translation": "其實非常想你",
+      "analysis": [
+        { "point": "사실은", "explanation": "사실 (事實) + -은 (主題助詞)" },
+        { "point": "너무 보고 싶어", "explanation": "너무 (副詞，太，非常) + 보다 (看) + -고 싶다 (想做...，用於表達想念)" }
+      ]
+    },
+    {
+      "korean": "보고 싶어 네가",
+      "translation": "想你啊 你",
+      "analysis": [
+        { "point": "보고 싶어", "explanation": "同上" },
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞，此處強調想念的對象是你)" }
+      ]
+    },
+    {
+      "korean": "네 어깨 기대 울고 싶어",
+      "translation": "想靠在你的肩膀哭泣",
+      "analysis": [
+        { "point": "네 어깨 기대", "explanation": "네 (你的) + 어깨 (肩膀) + 기대다 (依靠) 的連接形 (-어/아)" },
+        { "point": "울고 싶어", "explanation": "울다 (哭) + -고 싶다 (想做...)" }
+      ]
+    },
+    {
+      "korean": "울고 싶어 내가",
+      "translation": "想哭啊 我",
+      "analysis": [
+        { "point": "울고 싶어", "explanation": "同上" },
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞，強調想哭的是我)" }
+      ]
+    },
+    {
+      "korean": "참아보려 애써 웃잖아",
+      "translation": "努力忍住才笑出來的不是嗎",
+      "analysis": [
+        { "point": "참아보려", "explanation": "참다 (忍耐) + -아/어 보다 (試著做...) + -(으)려고 (意圖連接詞尾)" },
+        { "point": "애써 웃잖아", "explanation": "애쓰다 (努力) 的連接形 (-어/아) + 웃다 (笑) + -잖아 (終結詞尾，表示提醒或確認)" }
+      ]
+    },
+    {
+      "korean": "아직도 흔들리고 있잖아",
+      "translation": "到現在還在動搖不是嗎",
+      "analysis": [
+        { "point": "아직도", "explanation": "副詞，仍然，還" },
+        { "point": "흔들리고 있잖아", "explanation": "흔들리다 (被搖動，動搖) + -고 있다 (正在進行) + -잖아" }
+      ]
+    },
+    {
+      "korean": "제발 잘해 주지 마",
+      "translation": "拜託 不要對我好",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託，千萬" },
+        { "point": "잘해 주지 마", "explanation": "잘하다 (做得好/對...好) + -아/어 주다 (為(我)做...) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "더는 내게 잘해 주지 마",
+      "translation": "不要再對我好了",
+      "analysis": [
+        { "point": "더는", "explanation": "더 이상은 (再也不) 的縮略" },
+        { "point": "내게 잘해 주지 마", "explanation": "나에게 (對我) + 잘해 주지 마" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "오늘도 어제와 똑같은데",
+      "translation": "今天也和昨天一樣，但是",
+      "analysis": [
+        { "point": "오늘도 어제와 똑같은데", "explanation": "同 Verse 1" }
+      ]
+    },
+    {
+      "korean": "한 가지도 변한 게 없는데",
+      "translation": "連一件事都沒有改變，但是",
+      "analysis": [
+        { "point": "한 가지도 변한 게 없는데", "explanation": "同 Verse 1" }
+      ]
+    },
+    {
+      "korean": "왜 난",
+      "translation": "為何我",
+      "analysis": [
+        { "point": "왜 난", "explanation": "同 Verse 1" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉(眼)", "pos": "動詞" },
+    { "korean": "보이다", "chinese": "被看見/顯現", "pos": "動詞 (被動)" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "뜨다", "chinese": "睜(眼)", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "아침", "chinese": "早上", "pos": "名詞" },
+    { "korean": "일어나다", "chinese": "起床", "pos": "動詞" },
+    { "korean": "켜다", "chinese": "打開(電器)", "pos": "動詞" },
+    { "korean": "샤워", "chinese": "淋浴", "pos": "名詞" },
+    { "korean": "옷", "chinese": "衣服", "pos": "名詞" },
+    { "korean": "갈아입다", "chinese": "換衣服", "pos": "動詞" },
+    { "korean": "나가다", "chinese": "出去", "pos": "動詞" },
+    { "korean": "준비", "chinese": "準備", "pos": "名詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "어제", "chinese": "昨天", "pos": "名詞" },
+    { "korean": "똑같다", "chinese": "一模一樣", "pos": "形容詞" },
+    { "korean": "가지", "chinese": "種類/事情", "pos": "名詞/依存名詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "문득", "chinese": "突然", "pos": "副詞" },
+    { "korean": "울리다", "chinese": "響起/(使)哭", "pos": "動詞" },
+    { "korean": "전화기", "chinese": "電話", "pos": "名詞" },
+    { "korean": "몰래", "chinese": "偷偷地/不知不覺地", "pos": "副詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "흘러내리다", "chinese": "流下來", "pos": "動詞" },
+    { "korean": "아무렇지 않다", "chinese": "若無其事/毫不在乎", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "흔들다", "chinese": "搖動/動搖", "pos": "動詞" },
+    { "korean": "놓다", "chinese": "(作為補助動詞)表示動作完成並保持狀態", "pos": "補助動詞" },
+    { "korean": "사실", "chinese": "事實", "pos": "名詞" },
+    { "korean": "보고 싶다", "chinese": "想念/想看", "pos": "動詞片語" },
+    { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" },
+    { "korean": "참다", "chinese": "忍耐/忍住", "pos": "動詞" },
+    { "korean": "애쓰다", "chinese": "努力", "pos": "動詞" },
+    { "korean": "흔들리다", "chinese": "被搖動/動搖", "pos": "動詞 (被動)" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "잘하다", "chinese": "做得好/對...好", "pos": "動詞" },
+    { "korean": "주다", "chinese": "(作為補助動詞)為(某人)做...", "pos": "補助動詞" },
+    { "korean": "가슴", "chinese": "心/胸口", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "눈에 띄다", "chinese": "顯眼/被看見", "pos": "動詞片語" },
+    { "korean": "자꾸", "chinese": "總是/頻繁地", "pos": "副詞" },
+    { "korean": "맴돌다", "chinese": "縈繞/徘徊", "pos": "動詞" },
+    { "korean": "의외로", "chinese": "出乎意料地", "pos": "副詞" },
+    { "korean": "약하다", "chinese": "脆弱/弱", "pos": "形容詞" },
+    { "korean": "그리다", "chinese": "畫/思念", "pos": "動詞" },
+    { "korean": "그림", "chinese": "畫", "pos": "名詞" },
+    { "korean": "지우다", "chinese": "擦掉/刪除", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜", "pos": "形容詞" },
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "더욱", "chinese": "更加", "pos": "副詞" },
+    { "korean": "보여주다", "chinese": "展現給(人看)", "pos": "動詞" },
+    { "korean": "어떻게", "chinese": "怎麼辦/如何", "pos": "副詞" }
+  ]
+}

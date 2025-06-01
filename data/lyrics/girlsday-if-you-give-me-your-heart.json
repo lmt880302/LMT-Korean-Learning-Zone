@@ -1,0 +1,287 @@
+{
+  "id": "girlsday--if-you-give-me-your-heart",
+  "title": "내게 네 마음을 준다면(If you give me your heart)",
+  "artist": "Girl's Day(Cover)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "내게 전해줘 그대의 사랑이",
+      "translation": "傳達給我吧 你的愛",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (對我/給我) 的縮略形" },
+        { "point": "전해줘", "explanation": "전하다 (傳達) 的詞幹 + -아/어 주다 (為(我)做...) 的命令形 (-아/어 줘)" },
+        { "point": "그대의 사랑이", "explanation": "그대 (你，較書面/詩意) + -의 (的) + 사랑 (愛) + -이 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "마음속 깊이 느낄 수 있도록",
+      "translation": "好讓心底深處能感覺到",
+      "analysis": [
+        { "point": "마음속 깊이", "explanation": "마음 (心) + 속 (裡面) + 깊이 (副詞，深深地)" },
+        { "point": "느낄 수 있도록", "explanation": "느끼다 (感覺) 的詞幹 + -(으)ㄹ 수 있다 (能夠) + -도록 (連接詞尾，表目的或程度，以至於.../為了讓...)" }
+      ]
+    },
+    {
+      "korean": "홀로 견딜수만 없는 그대 마음을",
+      "translation": "你那獨自無法承受的心",
+      "analysis": [
+        { "point": "홀로", "explanation": "副詞，獨自" },
+        { "point": "견딜수만 없는", "explanation": "견디다 (承受，忍耐) 의詞幹 + -(으)ㄹ 수 없다 (不能) + -만 (只，僅) + 定語形態 (-는)" },
+        { "point": "그대 마음을", "explanation": "그대 (你) + 마음 (心) + -을 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "난 알고 있어요",
+      "translation": "我知道的",
+      "analysis": [
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略" },
+        { "point": "알고 있어요", "explanation": "알다 (知道) 的詞幹 + -고 있다 (正在進行式，也常用於表示狀態的持續) 的非格式體尊敬階" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "내게 말해줘 날 사랑한다고",
+      "translation": "告訴我吧 說你愛我",
+      "analysis": [
+        { "point": "내게 말해줘", "explanation": "對我 + 말하다 (說) + -아/어 줘 (命令形)" },
+        { "point": "날 사랑한다고", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 사랑하다 (愛) + -고 (間接引用陳述句)" }
+      ]
+    },
+    {
+      "korean": "돌아서면 난 없을지도 몰라",
+      "translation": "若轉身 我或許就不在了",
+      "analysis": [
+        { "point": "돌아서면", "explanation": "돌아서다 (轉身) 的詞幹 + -(으)면 (如果...的話)" },
+        { "point": "난 없을지도 몰라", "explanation": "我 + 없다 (沒有，不在) + -(으)ㄹ지도 모르다 (慣用型，也許會.../說不定會...)" }
+      ]
+    },
+    {
+      "korean": "이제 더 이상 난 기다릴 순 없어요",
+      "translation": "現在我再也無法等待了",
+      "analysis": [
+        { "point": "이제 더 이상", "explanation": "이제 (現在) + 더 이상 (再也，更以上)" },
+        { "point": "난 기다릴 순 없어요", "explanation": "我 + 기다리다 (等待) + -(으)ㄹ 수 없다 (不能) 的非格式體尊敬階" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "홀로이 서있는 그대는",
+      "translation": "獨自站立著的你",
+      "analysis": [
+        { "point": "홀로이", "explanation": "홀로 (獨自) 的強調形或詩意表達" },
+        { "point": "서있는", "explanation": "서다 (站立) + -어 있다 (動作狀態持續) 的定語形態 (-는)" },
+        { "point": "그대는", "explanation": "你 + -는 (主題助詞)" }
+      ]
+    },
+    {
+      "korean": "그저 눈물만 보이고 있네요",
+      "translation": "只是流著眼淚呢",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是，僅僅" },
+        { "point": "눈물만", "explanation": "눈물 (眼淚) + -만 (只)" },
+        { "point": "보이고 있네요", "explanation": "보이다 (被看見/展現) + -고 있다 (正在) + -네요 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "왠지 난 슬퍼져요",
+      "translation": "不知怎地 我悲傷了起來",
+      "analysis": [
+        { "point": "왠지", "explanation": "왜인지 (不知為何) 的縮略" },
+        { "point": "난 슬퍼져요", "explanation": "我 + 슬퍼지다 (變得悲傷 - 슬프다 (悲傷) + -어지다 (變得...)) 的非格式體尊敬階" }
+      ]
+    },
+    {
+      "korean": "이제 난 견딜 수 없어요",
+      "translation": "現在我無法承受了",
+      "analysis": [
+        { "point": "이제 난 견딜 수 없어요", "explanation": "現在 我 + 견디다 (承受) + -(으)ㄹ 수 없다 (不能) 的非格式體尊敬階" }
+      ]
+    },
+    {
+      "korean": "그대도 누군갈 원하잖아요",
+      "translation": "你也在渴望著某個人不是嗎",
+      "analysis": [
+        { "point": "그대도", "explanation": "你 + -도 (也)" },
+        { "point": "누군갈", "explanation": "누군가 (某個人) + -를 (受格助詞) 的縮略" },
+        { "point": "원하잖아요", "explanation": "원하다 (渴望，想要) 的詞幹 + -잖아요 (終結詞尾，表示提醒對方已知事實或加強語氣「不是嗎」)" }
+      ]
+    },
+    {
+      "korean": "이 마음 느끼나요",
+      "translation": "感覺到這份心意嗎",
+      "analysis": [
+        { "point": "이 마음", "explanation": "這 心意" },
+        { "point": "느끼나요", "explanation": "느끼다 (感覺) + -나요 (非格式體疑問終結，語氣較柔和)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내게 전해줘 그대의 사랑이",
+      "translation": "傳達給我吧 你的愛",
+      "analysis": [
+        { "point": "내게 전해줘 그대의 사랑이", "explanation": "同 Verse 1 第一句" }
+      ]
+    },
+    {
+      "korean": "마음속 깊이 느낄 수 있도록",
+      "translation": "好讓心底深處能感覺到",
+      "analysis": [
+        { "point": "마음속 깊이 느낄 수 있도록", "explanation": "同 Verse 1 第二句" }
+      ]
+    },
+    {
+      "korean": "홀로 견딜수만 없는 그대 마음을",
+      "translation": "你那獨自無法承受的心",
+      "analysis": [
+        { "point": "홀로 견딜수만 없는 그대 마음을", "explanation": "同 Verse 1 第三句" }
+      ]
+    },
+    {
+      "korean": "난 알고 있어요",
+      "translation": "我知道的",
+      "analysis": [
+        { "point": "난 알고 있어요", "explanation": "同 Verse 1 第四句" }
+      ]
+    },
+    {
+      "korean": "내게 말해줘 날 사랑한다고",
+      "translation": "告訴我吧 說你愛我",
+      "analysis": [
+        { "point": "내게 말해줘 날 사랑한다고", "explanation": "同 Verse 2 第一句" }
+      ]
+    },
+    {
+      "korean": "돌아서면 난 없을지도 몰라",
+      "translation": "若轉身 我或許就不在了",
+      "analysis": [
+        { "point": "돌아서면 난 없을지도 몰라", "explanation": "同 Verse 2 第二句" }
+      ]
+    },
+    {
+      "korean": "이제 더 이상 난 기다릴 순 없어요",
+      "translation": "現在我再也無法等待了",
+      "analysis": [
+        { "point": "이제 더 이상 난 기다릴 순 없어요", "explanation": "同 Verse 2 第三句" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "이 세상 끝까지 나도 가리",
+      "translation": "我也會走到這世界的盡頭",
+      "analysis": [
+        { "point": "이 세상 끝까지", "explanation": "這 世界 盡頭 + -까지 (到...)" },
+        { "point": "나도 가리", "explanation": "我 + -도 (也) + 가다 (去) + -(으)리 (古語/詩意終結詞尾，表意志或推測)" }
+      ]
+    },
+    {
+      "korean": "그대가 있다면",
+      "translation": "若有你在的話",
+      "analysis": [
+        { "point": "그대가 있다면", "explanation": "你 + -가 (主格助詞) + 있다 (有，在) + -(으)면 (如果)" }
+      ]
+    },
+    {
+      "korean": "아직은 힘겹지만",
+      "translation": "雖然現在還很吃力",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還，仍然) + -은 (主題助詞)" },
+        { "point": "힘겹지만", "explanation": "힘겹다 (吃力，艱難) 的詞幹 + -지만 (連接詞尾，但是)" }
+      ]
+    },
+    {
+      "korean": "이 마음만은 변함 없으니",
+      "translation": "唯有這份心意不會改變",
+      "analysis": [
+        { "point": "이 마음만은", "explanation": "這 心意 + -만 (只) + -은 (主題助詞)" },
+        { "point": "변함 없으니", "explanation": "변함 (變化 - 변하다 的名詞形) + 없다 (沒有) + -(으)니 (連接詞尾，因為/既然)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내게 전해줘 그대의 사랑이",
+      "translation": "傳達給我吧 你的愛",
+      "analysis": [
+        { "point": "내게 전해줘 그대의 사랑이", "explanation": "同 Verse 1 第一句" }
+      ]
+    },
+    {
+      "korean": "마음속 깊이 느낄 수 있도록",
+      "translation": "好讓心底深處能感覺到",
+      "analysis": [
+        { "point": "마음속 깊이 느낄 수 있도록", "explanation": "同 Verse 1 第二句" }
+      ]
+    },
+    {
+      "korean": "홀로 견딜수만 없는 그대 마음을",
+      "translation": "你那獨自無法承受的心",
+      "analysis": [
+        { "point": "홀로 견딜수만 없는 그대 마음을", "explanation": "同 Verse 1 第三句" }
+      ]
+    },
+    {
+      "korean": "난 알고 있어요",
+      "translation": "我知道的",
+      "analysis": [
+        { "point": "난 알고 있어요", "explanation": "同 Verse 1 第四句" }
+      ]
+    },
+    {
+      "korean": "내게 말해줘 날 사랑한다고",
+      "translation": "告訴我吧 說你愛我",
+      "analysis": [
+        { "point": "내게 말해줘 날 사랑한다고", "explanation": "同 Verse 2 第一句" }
+      ]
+    },
+    {
+      "korean": "돌아서면 난 없을지도 몰라",
+      "translation": "若轉身 我或許就不在了",
+      "analysis": [
+        { "point": "돌아서면 난 없을지도 몰라", "explanation": "同 Verse 2 第二句" }
+      ]
+    },
+    {
+      "korean": "이제 더 이상 난 기다릴 순 없어요",
+      "translation": "現在我再也無法等待了",
+      "analysis": [
+        { "point": "이제 더 이상 난 기다릴 순 없어요", "explanation": "同 Verse 2 第三句" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "이제 더 이상 난 기다릴 순 없어요",
+      "translation": "現在我再也無法等待了",
+      "analysis": [
+        { "point": "이제 더 이상 난 기다릴 순 없어요", "explanation": "同 Verse 2 第三句" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "전하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "그대", "chinese": "你 (書面/詩意)", "pos": "代名詞" },
+    { "korean": "사랑", "chinese": "愛/愛情", "pos": "名詞" },
+    { "korean": "마음속", "chinese": "心中/心底", "pos": "名詞" },
+    { "korean": "깊이", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "느끼다", "chinese": "感覺", "pos": "動詞" },
+    { "korean": "홀로", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "견디다", "chinese": "承受/忍耐", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "말하다", "chinese": "說話", "pos": "動詞" },
+    { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "없다", "chinese": "沒有/不在", "pos": "形容詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "서있다", "chinese": "站著", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是/僅僅", "pos": "副詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "보이다", "chinese": "被看見/展現", "pos": "動詞" },
+    { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "슬퍼지다", "chinese": "變得悲傷", "pos": "動詞" },
+    { "korean": "누군가", "chinese": "某個人", "pos": "代名詞" },
+    { "korean": "원하다", "chinese": "渴望/想要", "pos": "動詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "끝", "chinese": "盡頭/結束", "pos": "名詞" },
+    { "korean": "가다", "chinese": "去/走", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還/仍然", "pos": "副詞" },
+    { "korean": "힘겹다", "chinese": "吃力/艱難", "pos": "形容詞" },
+    { "korean": "변함", "chinese": "變化", "pos": "名詞" }
+  ]
+}
