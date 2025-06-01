@@ -8,47 +8,108 @@ body {
     font-family: 'Roboto', 'Noto Sans KR', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #0F172A; /* slate-900 - Deeper dark base */
-    color: #E2E8F0; /* slate-200 - Softer light text */
-    transition: background-color 0.3s ease, color 0.3s ease; /* For potential theme toggle */
+    background-color: #0F172A; /* slate-900 */
+    color: #E2E8F0; /* slate-200 */
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 /* Headings - Consistent baseline */
 h1, h2, h3, h4, h5, h6 {
-    @apply text-slate-100 font-sans; /* Ensure headings are light and use primary font stack */
+    @apply text-slate-100 font-sans;
 }
 
-/* General Link Styling (non-button links) */
+/* General Link Styling (non-button links) - Kept from previous version */
 a {
     @apply text-sky-400 hover:text-sky-300 transition-colors duration-200 ease-in-out;
 }
-a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card) { /* Exclude button-like links */
-    @apply relative; /* For pseudo-element underline */
+a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card):not(.site-title-link) {
+    @apply relative;
 }
-a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card)::after {
+a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card):not(.site-title-link)::after {
     @apply content-[''] absolute bottom-0 left-0 w-0 h-px bg-sky-400 transition-all duration-300 ease-out;
 }
-a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card):hover::after {
+a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card):not(.site-title-link):hover::after {
     @apply w-full;
 }
 
-
-/* Navigation link styling - Refined from individual HTML pages */
-.nav-link {
-    @apply px-3 py-2 rounded-md text-sm font-medium text-slate-300 hover:bg-slate-700 hover:text-white transition-colors duration-150;
+/* --- Enhanced Navigation Bar Styling --- */
+header.site-header { /* Add class="site-header" to your <header> elements */
+    @apply bg-slate-900/80 text-white shadow-lg sticky top-0 z-50 backdrop-blur-md; /* Added backdrop-blur and slight transparency */
+    transition: background-color 0.3s ease-in-out;
 }
-.nav-link.active { /* This class will be added by JS */
-    @apply bg-sky-600 text-white shadow-md;
+/* Optional: Change header background on scroll */
+/* body.scrolled header.site-header { @apply bg-slate-900; } */
+
+.site-title-link { /* For the "LMT韓語學習區" link */
+    @apply text-2xl font-bold text-sky-400 transition-all duration-300 ease-in-out;
+}
+.site-title-link:hover {
+    @apply text-sky-300 tracking-wide; /* Slight letter spacing on hover */
+}
+
+/* Navigation link styling - Refined for a more premium feel */
+.nav-link {
+    @apply relative px-3 py-2 rounded-md text-sm font-medium text-slate-300 transition-all duration-200 ease-in-out;
+    overflow: hidden; /* For pseudo-element effects */
+}
+.nav-link::before { /* Subtle underline effect on hover/active */
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background-color: #38BDF8; /* sky-400 */
+    transition: width 0.3s ease-in-out;
+}
+.nav-link:hover::before,
+.nav-link.active::before {
+    width: 60%; /* Adjust width of underline */
+}
+.nav-link:hover {
+    @apply text-white bg-slate-700/50; /* Slightly transparent hover background */
+}
+.nav-link.active { 
+    @apply text-white font-semibold; /* Removed bg-sky-600, using underline instead */
+    /* box-shadow: 0 0 10px rgba(56, 189, 248, 0.5); Optional glow */
 }
 
 .mobile-nav-link {
-    @apply block px-3 py-2 rounded-md text-base font-medium text-slate-300 hover:bg-slate-700 hover:text-white transition-colors duration-150;
+    @apply block px-4 py-3 rounded-lg text-base font-medium text-slate-200 hover:bg-slate-700 hover:text-white transition-colors duration-150;
+    /* Increased padding for better touch targets */
 }
-.mobile-nav-link.active { /* This class will be added by JS */
+.mobile-nav-link.active { 
      @apply bg-sky-600 text-white;
 }
 
-/* Enhanced Card Styling Base (can be extended by specific card styles) */
+/* Mobile Menu Toggle Button Enhancement */
+#mobile-menu-button {
+    @apply p-2 rounded-md transition-colors duration-150;
+}
+#mobile-menu-button:hover {
+    @apply bg-slate-700;
+}
+#mobile-menu-button svg {
+    transition: transform 0.3s ease-in-out;
+}
+/* Example: Animate hamburger to X (requires more complex SVG or JS to swap icons) */
+/* #mobile-menu-button.is-active svg { transform: rotate(90deg); } */
+
+/* Mobile Menu Container Animation (Example - requires JS to toggle 'open' class) */
+#mobile-menu {
+    @apply bg-slate-800 shadow-xl rounded-b-lg overflow-hidden;
+    /* transition: max-height 0.4s ease-in-out, opacity 0.3s ease-in-out; */
+    /* max-height: 0; */
+    /* opacity: 0; */
+}
+/* #mobile-menu.open { */
+    /* max-height: 500px; /* Adjust as needed */
+    /* opacity: 1; */
+/* } */
+
+
+/* Enhanced Card Styling Base (Kept from previous version) */
 .enhanced-card {
     @apply bg-slate-800 border border-slate-700 rounded-xl shadow-lg;
     transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), 
@@ -58,22 +119,15 @@ a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not
 .enhanced-card:hover {
     @apply transform -translate-y-1 scale-[1.015] shadow-2xl shadow-blue-500/20 border-slate-600;
 }
-
-/* Specific Card Types - Apply .enhanced-card and then specific overrides if needed */
-/* Example: If .feature-card, .grammar-card, .vocab-category-card, .song-card can share this base */
 .feature-card, .grammar-card, .vocab-category-card, .song-card, .lyrics-line-block {
-    @apply enhanced-card; /* Apply the base enhancement */
-    /* Specific paddings or other properties are usually defined in inline styles or more specific classes */
+    @apply enhanced-card; 
 }
-/* Override for flashcard as it has its own complex styling */
 .flashcard { 
-    /* Flashcard has its own perspective and transform, so enhanced-card hover might conflict. */
     /* Keep its existing specific styling. */
 }
 
-
-/* Button Styling Enhancements */
-.btn { /* Base class for all buttons for consistency if desired */
+/* Button Styling Enhancements (Kept from previous version) */
+.btn { 
     @apply font-semibold rounded-lg shadow-md transition-all duration-200 ease-in-out transform;
 }
 .btn:hover {
@@ -82,19 +136,18 @@ a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not
 .btn:active {
     @apply scale-95 shadow-inner;
 }
-
 .btn-primary { 
     @apply btn bg-indigo-600 hover:bg-indigo-500 text-white py-3 px-8;
 }
 .btn-secondary { 
-    @apply btn bg-teal-600 hover:bg-teal-500 text-white py-2 px-6 text-sm; /* Adjusted size */
+    @apply btn bg-teal-600 hover:bg-teal-500 text-white py-2 px-6 text-sm;
 }
 .btn-feature { 
-    @apply btn mt-auto bg-sky-600 hover:bg-sky-500 text-white font-medium py-2.5 px-5 text-sm; /* Adjusted padding & size */
+    @apply btn mt-auto bg-sky-600 hover:bg-sky-500 text-white font-medium py-2.5 px-5 text-sm;
 }
-.control-btn { /* Flashcard controls */
-    @apply btn bg-blue-500 hover:bg-blue-600 text-white py-2.5 px-4 text-xs sm:text-sm; /* Adjusted for flashcard context */
-    max-width: 130px; /* Ensure buttons don't get too wide */
+.control-btn { 
+    @apply btn bg-blue-500 hover:bg-blue-600 text-white py-2.5 px-4 text-xs sm:text-sm;
+    max-width: 130px; 
 }
 .control-btn.mark-btn.marked { 
     @apply bg-amber-500 hover:bg-amber-600 shadow-amber-500/30;
@@ -106,48 +159,19 @@ a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not
     @apply bg-slate-600 opacity-70 scale-100 shadow-none cursor-not-allowed;
 }
 
-
-/* Custom scrollbar (already good, kept for consistency) */
+/* Custom scrollbar (Kept from previous version) */
 ::-webkit-scrollbar { width: 8px; height: 8px; }
-::-webkit-scrollbar-track { background: #1E293B; } /* slate-800 */
-::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; } /* slate-600 */
-::-webkit-scrollbar-thumb:hover { background: #64748B; } /* slate-500 */
+::-webkit-scrollbar-track { background: #1E293B; } 
+::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; } 
+::-webkit-scrollbar-thumb:hover { background: #64748B; } 
 
-/* For better Korean character rendering if Noto Sans KR is available */
 [lang="ko"] {
     font-synthesis: none; 
     font-kerning: normal;
 }
-
-/* Utility for subtle text shadow - can apply via Tailwind if needed */
 .text-shadow-subtle {
     text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
 }
 .text-shadow-medium {
     text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.4);
 }
-
-/* Specific Hero Title adjustments (if moving from inline) */
-/* .hero-title from index.html can remain inline or be partially moved here */
-/* For example: */
-/*
-.hero-title {
-    @apply font-black text-slate-100; 
-    font-family: 'Roboto', sans-serif; 
-    text-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5); 
-    letter-spacing: 0.02em; 
-    line-height: 1.15;
-}
-.hero-subtitle {
-    @apply font-light text-slate-300;
-    font-family: 'Roboto', sans-serif;
-    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
-    letter-spacing: 0.05em; 
-}
-.hero-korean-tagline {
-    @apply font-normal text-indigo-300;
-    font-family: 'Noto Sans KR', sans-serif;
-    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
-    letter-spacing: 0.05em;
-}
-*/
