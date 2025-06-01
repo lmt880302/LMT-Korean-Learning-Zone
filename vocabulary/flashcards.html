@@ -158,13 +158,14 @@
             font-size: 1.35rem; 
             color: #A5B4FC; 
             font-weight: 500;
-            margin-bottom: 1rem;
+            margin-bottom: 0.5rem; 
         }
         .example-flashcard {
             font-size: 0.9rem; 
             color: #CBD5E1; 
             line-height: 1.65;
             width: 90%; 
+            margin-top: 0.5rem; 
         }
         .example-flashcard .highlight-word { 
             color: #67E8F9; 
@@ -234,7 +235,7 @@
                     <a href="../index.html" class="nav-link">首頁</a>
                     <a href="../grammar/index.html" class="nav-link">文法教學</a>
                     <a href="./index.html" class="nav-link active">單字學習</a> 
-                    <a href="#" class="nav-link text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                    <a href="../songs/index.html" class="nav-link">歌曲教學</a>
                 </div>
                 <div class="md:hidden">
                     <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
@@ -248,7 +249,7 @@
                 <a href="../index.html" class="mobile-nav-link block">首頁</a>
                 <a href="../grammar/index.html" class="mobile-nav-link block">文法教學</a>
                 <a href="./index.html" class="mobile-nav-link block active">單字學習</a>
-                <a href="#" class="mobile-nav-link block text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                <a href="../songs/index.html" class="mobile-nav-link block">歌曲教學</a>
             </div>
         </nav>
     </header>
@@ -295,7 +296,6 @@
     </footer>
 
     <script>
-        // Global variable to hold vocabulary data loaded from JSON
         var vocabularyDataGlobal = []; 
 
         var flashcards = []; 
@@ -533,8 +533,6 @@
         }
 
         document.addEventListener('DOMContentLoaded', function() {
-            // Construct the URL for fetching vocabulary.json
-            // This assumes flashcards.html is in 'vocabulary' and 'data' is a sibling to 'vocabulary'
             var jsonFileUrl = new URL('../data/vocabulary.json', window.location.href).href;
 
             fetch(jsonFileUrl) 
@@ -549,7 +547,7 @@
                 })
                 .catch(function(error) {
                     console.error('無法載入單字資料:', error);
-                    if(flashcardFrontEl) flashcardFrontEl.innerHTML = '<p class="text-xl text-red-400">單字資料載入失敗，請檢查路徑或檔案。</p>';
+                    if(flashcardFrontEl) flashcardFrontEl.innerHTML = '<p class="text-xl text-red-400 text-center">單字資料載入失敗，請檢查路徑或檔案。</p>';
                     if(prevBtn) updateNavButtons(); 
                     if(progressTextEl) updateProgress();
                 });
@@ -569,6 +567,12 @@
             if (unfamiliarToggleEl) {
                 unfamiliarToggleEl.addEventListener('change', function(event) {
                     isUnfamiliarModeActive = event.target.checked;
+                    if (categorySelectEl) {
+                        categorySelectEl.disabled = isUnfamiliarModeActive;
+                        if (isUnfamiliarModeActive) {
+                            categorySelectEl.value = "all"; 
+                        }
+                    }
                     filterAndShuffleCards();
                 });
             }

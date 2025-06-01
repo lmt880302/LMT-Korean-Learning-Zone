@@ -70,10 +70,10 @@
         .part-of-speech {
             font-family: 'Roboto', sans-serif;
             font-size: 0.8rem;
-            color: #94A3B8; /* Tailwind slate-400 */
-            background-color: #334155; /* Tailwind slate-700 */
+            color: #94A3B8; 
+            background-color: #334155; 
             padding: 0.125rem 0.375rem;
-            border-radius: 0.25rem; /* rounded-sm */
+            border-radius: 0.25rem; 
             font-weight: 500;
         }
         .chinese-meaning {
@@ -197,7 +197,7 @@
                     <a href="../index.html" class="nav-link">首頁</a>
                     <a href="../grammar/index.html" class="nav-link">文法教學</a>
                     <a href="./index.html" class="nav-link active">單字學習</a>
-                    <a href="#" class="nav-link text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                    <a href="../songs/index.html" class="nav-link">歌曲教學</a> 
                 </div>
                 <div class="md:hidden">
                     <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
@@ -211,7 +211,7 @@
                 <a href="../index.html" class="mobile-nav-link block">首頁</a>
                 <a href="../grammar/index.html" class="mobile-nav-link block">文法教學</a>
                 <a href="./index.html" class="mobile-nav-link block active">單字學習</a>
-                <a href="#" class="mobile-nav-link block text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                <a href="../songs/index.html" class="mobile-nav-link block">歌曲教學</a> 
             </div>
         </nav>
     </header>
@@ -246,7 +246,6 @@
     </footer>
 
     <script>
-        // Global variable to hold vocabulary data loaded from JSON
         var vocabularyDataGlobal = [];
 
         function sanitizeHTML(str) {
@@ -278,11 +277,9 @@
                 return;
             }
             
-            vocabContainer.innerHTML = ''; // Clear previous content or loading message
+            vocabContainer.innerHTML = ''; 
 
-            // Populate unit selector
-            // Clear existing options except the first one before populating
-            while (unitSelect.options.length > 1) {
+            while (unitSelect.options.length > 1) { 
                 unitSelect.remove(1);
             }
             dataToRender.forEach(function(categoryData) {
@@ -291,7 +288,6 @@
                 option.textContent = categoryData.category;
                 unitSelect.appendChild(option);
 
-                // Create category card (section)
                 var categoryCard = document.createElement('div');
                 categoryCard.id = categoryData.id; 
                 categoryCard.className = 'vocab-category-card p-6 md:p-8';
@@ -347,7 +343,6 @@
                 vocabContainer.appendChild(categoryCard);
             });
 
-             // Add event listener to the selector
             unitSelect.addEventListener('change', function() {
                 var selectedUnitId = this.value;
                 if (selectedUnitId) {
@@ -369,9 +364,8 @@
             });
         }
 
-
         document.addEventListener('DOMContentLoaded', function() {
-            var vocabContainer = document.getElementById('vocabulary-container'); // Get container for error messages
+            var vocabContainer = document.getElementById('vocabulary-container'); 
             var jsonFileUrl = new URL('../data/vocabulary.json', window.location.href).href;
 
             fetch(jsonFileUrl) 
@@ -382,17 +376,16 @@
                     return response.json();
                 })
                 .then(function(loadedData) {
-                    vocabularyDataGlobal = loadedData; // Store fetched data globally
-                    renderVocabulary(vocabularyDataGlobal); // Call rendering function
+                    vocabularyDataGlobal = loadedData; 
+                    renderVocabulary(vocabularyDataGlobal); 
                 })
                 .catch(function(error) {
                     console.error('無法載入單字資料:', error);
-                    if(vocabContainer) { // Check if container exists before modifying
+                    if(vocabContainer) { 
                         vocabContainer.innerHTML = '<p class="text-xl text-red-400 text-center">單字資料載入失敗，請檢查路徑或檔案。</p>';
                     }
                 });
             
-            // General page setup (menu, year) - independent of fetched data
             var yearSpan = document.getElementById('current-year');
             if (yearSpan) {
                 yearSpan.textContent = new Date().getFullYear();

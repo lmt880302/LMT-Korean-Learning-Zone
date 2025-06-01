@@ -1,8 +1,14 @@
 [
   {
     "id": "geuge-mworago",
-    "title": "그게 뭐라고 (那算什麼)",
-    "artist": "Acourve (어쿠루브)", 
+    "title": "그게 뭐라고 (What_Was_That)",
+    "artist": "Acourve (어쿠루브)",
     "lyricsFile": "../data/lyrics/geuge-mworago.json"
+  },
+  {
+    "id": "chupda",
+    "title": "춥다 (It's Cold)",
+    "artist": "에픽하이 (Epik High) (feat. 이하이 (Lee Hi))",
+    "lyricsFile": "../data/lyrics/chupda.json"
   }
 ]

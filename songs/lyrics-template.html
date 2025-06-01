@@ -16,56 +16,59 @@
             color: #E2E8F0; 
         }
         .song-header {
-            border-bottom: 1px solid #334155; /* slate-700 */
-            padding-bottom: 1.5rem; /* mb-6 */
+            border-bottom: 1px solid #334155; 
+            padding-bottom: 1.5rem; 
+            margin-bottom: 2rem; /* Space before lyrics start */
         }
-        .lyrics-section-title { /* Style for section titles like Chorus, Verse */
-            margin-top: 2rem;
-            margin-bottom: 1rem;
-            font-size: 1.25rem; /* text-xl */
-            font-weight: 600; /* semibold */
-            color: #A5B4FC; /* indigo-300 */
+        .lyrics-section-title { 
+            margin-top: 2.5rem; /* More space for section titles */
+            margin-bottom: 1.25rem; /* mb-5 */
+            font-size: 1.125rem; /* text-lg */
+            font-weight: 700; /* bold */
+            color: #A5B4FC; 
             padding-bottom: 0.5rem;
-            border-bottom: 1px solid #475569; /* slate-600 */
+            border-bottom: 1px solid #475569; 
+            text-transform: uppercase; /* Optional: make section titles uppercase */
+            letter-spacing: 0.05em;
         }
         .lyrics-line-block {
             background-color: #1E293B; 
             border-radius: 0.5rem; 
-            padding: 1rem 1.25rem; /* Adjusted padding */
-            margin-bottom: 1rem; /* Reduced margin */
-            border-left: 4px solid #3B82F6; 
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+            padding: 1rem 1.25rem; 
+            margin-bottom: 0.75rem; /* Reduced margin for tighter packing */
+            border-left: 3px solid #3B82F6; 
+            box-shadow: 0 1px 3px rgba(0,0,0,0.15);
         }
         .korean-lyric {
             font-family: 'Noto Sans KR', sans-serif;
-            font-size: 1.25rem; /* text-xl, slightly reduced */
+            font-size: 1.125rem; /* text-lg, slightly smaller for compactness */
             font-weight: 500;
-            color: #A5F3FC; 
+            color: #E0E7FF; /* Brighter for lyrics */
             margin-bottom: 0.25rem; 
-            line-height: 1.6; /* Adjusted line height */
+            line-height: 1.6; 
         }
         .translation-lyric {
-            font-size: 0.95rem; /* Slightly reduced */
-            color: #CBD5E1; 
-            margin-bottom: 0.75rem; /* Reduced margin */
+            font-size: 0.875rem; /* text-sm */
+            color: #94A3B8; /* slate-400, more subtle */
+            margin-bottom: 0.75rem; 
             line-height: 1.6;
-            font-style: italic;
+            font-style: normal; /* Removed italic for better readability in compact layout */
         }
         .analysis-toggle {
-            display: inline-flex; /* Use flex for icon alignment */
+            display: inline-flex; 
             align-items: center;
             background-color: #334155; 
             color: #94A3B8; 
-            padding: 0.25rem 0.75rem; /* Adjusted padding */
+            padding: 0.25rem 0.625rem; /* Smaller padding */
             border-radius: 0.375rem;
-            font-size: 0.75rem; /* text-xs */
+            font-size: 0.75rem; 
             cursor: pointer;
             transition: background-color 0.2s ease, color 0.2s ease;
             margin-top: 0.5rem;
             border: 1px solid #475569;
         }
-        .analysis-toggle svg { /* Style for the chevron icon */
-            width: 0.75rem; /* h-3 w-3 */
+        .analysis-toggle svg { 
+            width: 0.75rem; 
             height: 0.75rem;
             margin-left: 0.25rem;
             transition: transform 0.2s ease-in-out;
@@ -78,24 +81,24 @@
             color: #E2E8F0;
         }
         .analysis-content {
-            margin-top: 0.75rem; 
+            margin-top: 0.625rem; /* Reduced margin */
             padding-left: 1rem; 
             border-left: 2px dashed #475569;
-            font-size: 0.875rem; 
+            font-size: 0.8rem; /* Smaller font for analysis */
             color: #CBD5E1;
-            background-color: rgba(41, 53, 72, 0.2); /* Slightly more subtle bg */
-            padding: 0.625rem; /* p-2.5 */
+            background-color: rgba(41, 53, 72, 0.15); /* More subtle bg */
+            padding: 0.625rem; 
             border-radius: 0.375rem;
         }
         .analysis-point {
-            margin-bottom: 0.5rem; 
+            margin-bottom: 0.375rem; /* Reduced margin */
         }
         .analysis-point strong {
             color: #818CF8; 
             font-weight: 500;
         }
         .key-vocab-section {
-            margin-top: 2.5rem;
+            margin-top: 3rem; /* More space before key vocab */
             padding: 1.5rem;
             background-color: #1E293B;
             border-radius: 0.5rem;
@@ -105,12 +108,13 @@
             color: #67E8F9; 
             font-size: 1.5rem; 
             font-weight: 600; 
-            margin-bottom: 1rem;
+            margin-bottom: 1.25rem; /* Increased margin */
             padding-bottom: 0.5rem;
             border-bottom: 1px solid #475569;
         }
         .key-vocab-item {
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.625rem; /* mb-2.5 */
+            padding: 0.25rem 0;
         }
         .key-vocab-ko {
             font-weight: 500;
@@ -120,7 +124,6 @@
             color: #CBD5E1;
             font-size: 0.9rem;
         }
-        /* Overall notes section removed */
 
         ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #1E293B; }
@@ -199,7 +202,6 @@
             lyricsSection.id = 'lyrics-section';
             
             songData.lines.forEach(function(line, index) {
-                // Check for and render section title
                 if (line.sectionTitle) {
                     var sectionTitleEl = document.createElement('h2');
                     sectionTitleEl.className = 'lyrics-section-title';
@@ -215,7 +217,6 @@
                 if (line.analysis && line.analysis.length > 0) {
                     analysisHTML = `<div id="${analysisContentId}" class="analysis-content hidden space-y-1">`; 
                     line.analysis.forEach(function(point) {
-                        // Ensure full explanation for each point
                         analysisHTML += `<div class="analysis-point"><strong>${sanitizeHTML(point.point)}:</strong> ${sanitizeHTML(point.explanation)}</div>`;
                     });
                     analysisHTML += '</div>';
@@ -225,12 +226,12 @@
                     <p class="korean-lyric" lang="ko">${sanitizeHTML(line.korean)}</p>
                     <p class="translation-lyric">${sanitizeHTML(line.translation)}</p>
                     ${analysisHTML ? `<button class="analysis-toggle" aria-expanded="false" aria-controls="${analysisContentId}">
-                                        查看解析 
-                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="inline-block">
+                                        解析 
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="inline-block" style="width:0.625rem; height:0.625rem; transition: transform 0.2s ease-in-out;">
                                           <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
                                         </svg>
                                      </button>` : ''}
-                    ${analysisHTML} 
+                    ${analysisHTML}
                 `;
                 lyricsSection.appendChild(lineBlock);
             });
@@ -245,19 +246,16 @@
                 container.innerHTML += vocabHTML;
             }
 
-            // Add event listeners for analysis toggles
             document.querySelectorAll('.analysis-toggle').forEach(function(button) {
                 button.addEventListener('click', function() {
                     var targetId = this.getAttribute('aria-controls');
                     var content = document.getElementById(targetId); 
+                    var icon = this.querySelector('svg');
                     if (content && content.classList.contains('analysis-content')) {
                         var isHidden = content.classList.toggle('hidden');
                         this.setAttribute('aria-expanded', !isHidden);
-                        var icon = this.querySelector('svg');
-                        this.innerHTML = `${isHidden ? '查看解析' : '隱藏解析'} 
-                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="inline-block" style="width:0.75rem; height:0.75rem; transition: transform 0.2s ease-in-out; transform: ${isHidden ? 'rotate(0deg)' : 'rotate(180deg)'};">
-                                           <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
-                                         </svg>`;
+                        this.childNodes[0].nodeValue = isHidden ? '查看解析 ' : '隱藏解析 '; // Update text node
+                        if(icon) icon.style.transform = isHidden ? 'rotate(0deg)' : 'rotate(180deg)';
                     }
                 });
             });

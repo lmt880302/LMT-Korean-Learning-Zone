@@ -107,7 +107,7 @@
                     <a href="../index.html" class="nav-link">首頁</a>
                     <a href="./index.html" class="nav-link active">文法教學</a>
                     <a href="../vocabulary/index.html" class="nav-link">單字學習</a>
-                    <a href="#" class="nav-link text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                    <a href="../songs/index.html" class="nav-link">歌曲教學</a>
                 </div>
                 <div class="md:hidden">
                     <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
@@ -121,7 +121,7 @@
                 <a href="../index.html" class="mobile-nav-link block">首頁</a>
                 <a href="./index.html" class="mobile-nav-link block active">文法教學</a>
                 <a href="../vocabulary/index.html" class="mobile-nav-link block">單字學習</a>
-                <a href="#" class="mobile-nav-link block text-gray-500 cursor-not-allowed" aria-disabled="true">歌曲教學</a>
+                <a href="../songs/index.html" class="mobile-nav-link block">歌曲教學</a> {/* Updated Link */}
             </div>
         </nav>
     </header>
@@ -157,14 +157,12 @@
             return temp.innerHTML;
         }
         
-        function formatKoreanTextForGrammar(text) { // Renamed to avoid conflict if used elsewhere
+        function formatKoreanTextForGrammar(text) { 
             if (typeof text !== 'string') return '';
-            // This regex tries to wrap Korean text, including those within parentheses.
-            // It might need refinement based on the exact structure of your 'words' and 'example' fields.
             return text.replace(/([\u3131-\uD79D]+(?:[\s\(\)、，。：]\s*[\u3131-\uD79D]+)*|[（(][\u3131-\uD79D\s（）、，。：]+[）)])/g, '<span lang="ko">$1</span>');
         }
 
-        function createGrammarRuleCard(rule) { // Renamed to avoid conflict
+        function createGrammarRuleCard(rule) { 
             var card = document.createElement('div');
             card.className = 'grammar-card rounded-xl shadow-lg p-6 flex flex-col';
 
@@ -190,10 +188,9 @@
                 return;
             }
             
-            grammarContainer.innerHTML = ''; // Clear previous content or loading message
+            grammarContainer.innerHTML = ''; 
 
-            // Populate unit selector
-            while (unitSelect.options.length > 1) { // Clear existing options except the first one
+            while (unitSelect.options.length > 1) { 
                 unitSelect.remove(1);
             }
             dataToRender.forEach(function(categoryItem) {
@@ -202,7 +199,6 @@
                 option.textContent = categoryItem.category;
                 unitSelect.appendChild(option);
 
-                // Create category section
                 var categorySection = document.createElement('section');
                 categorySection.id = categoryItem.id; 
                 categorySection.className = 'mb-16';
@@ -225,12 +221,12 @@
                     categoryItem.subcategories.forEach(function(subcategory) {
                         if (subcategory.name) {
                             var subCategoryTitleElement = document.createElement('h3');
-                            if(subcategory.id) subCategoryTitleElement.id = subcategory.id; // Assign ID if present
+                            if(subcategory.id) subCategoryTitleElement.id = subcategory.id; 
                             subCategoryTitleElement.className = 'subcategory-heading col-span-full';
                             subCategoryTitleElement.textContent = subcategory.name;
                             rulesGrid.appendChild(subCategoryTitleElement);
                         }
-                        if (subcategory.rules) { // Check if subcategory has rules
+                        if (subcategory.rules) { 
                             subcategory.rules.forEach(function(rule) {
                                 rulesGrid.appendChild(createGrammarRuleCard(rule));
                             });
@@ -241,7 +237,6 @@
                 grammarContainer.appendChild(categorySection);
             });
 
-            // Add event listener to the selector
             unitSelect.addEventListener('change', function() {
                 var selectedUnitId = this.value;
                 if (selectedUnitId) {
@@ -265,7 +260,6 @@
 
         document.addEventListener('DOMContentLoaded', function() {
             var grammarContainer = document.getElementById('grammar-container');
-            // Construct URL for grammar.json relative to grammar/index.html
             var jsonFileUrl = new URL('../data/grammar.json', window.location.href).href;
 
             fetch(jsonFileUrl) 

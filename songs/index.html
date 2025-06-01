@@ -16,26 +16,32 @@
             color: #E2E8F0; 
         }
         .song-card {
-            background-color: #1E293B; /* slate-800 */
-            border-radius: 0.75rem; /* rounded-xl */
-            padding: 1.5rem; /* p-6 */
+            background-color: #1E293B;
+            border-radius: 0.75rem; 
+            padding: 1.5rem; 
             transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
             border: 1px solid #334155; 
+            display: flex; /* For vertical alignment if content height varies */
+            flex-direction: column;
+            justify-content: space-between; /* Pushes content to top and bottom */
         }
         .song-card:hover {
             transform: translateY(-4px);
-            background-color: #293548; /* Slightly lighter on hover */
+            background-color: #293548; 
             box-shadow: 0 8px 20px rgba(59, 130, 246, 0.25);
         }
         .song-title {
-            font-size: 1.25rem; /* text-xl */
-            font-weight: 600; /* semibold */
-            color: #7DD3FC; /* sky-300 */
-            margin-bottom: 0.25rem; /* mb-1 */
+            font-size: 1.25rem; 
+            font-weight: 600; 
+            color: #7DD3FC; 
+            margin-bottom: 0.25rem; 
         }
         .song-artist {
-            font-size: 0.875rem; /* text-sm */
-            color: #94A3B8; /* slate-400 */
+            font-size: 0.875rem; 
+            color: #94A3B8; 
+        }
+        .view-lyrics-btn {
+            @apply mt-4 inline-block bg-sky-600 hover:bg-sky-500 text-white font-medium py-2 px-4 rounded-md text-sm transition-colors duration-300 text-center;
         }
 
         ::-webkit-scrollbar { width: 8px; height: 8px; }
@@ -109,13 +115,20 @@
             }
 
             songs.forEach(function(song) {
+                // Card content is simpler now, no album art or difficulty
                 var cardHTML = `
-                    <a href="./lyrics-template.html?songId=${sanitizeHTML(song.id)}" class="song-card block group">
-                        <div> 
+                    <div class="song-card">
+                        <div>
                             <h3 class="song-title">${sanitizeHTML(song.title)}</h3>
                             <p class="song-artist">${sanitizeHTML(song.artist)}</p>
                         </div>
-                    </a>
+                        <a href="./lyrics-template.html?songId=${sanitizeHTML(song.id)}" class="view-lyrics-btn">
+                            學習歌詞
+                            <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                            </svg>
+                        </a>
+                    </div>
                 `;
                 container.innerHTML += cardHTML;
             });
