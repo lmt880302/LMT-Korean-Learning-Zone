@@ -1,27 +1,44 @@
 # Korean Learning Website
 
-這是我建立的韓文學習網站，包含文法、單字與歌曲等學習資源，並使用 JSON 資料驅動的方式實作互動內容。
-
 ## 📁 專案結構
 
 ```
-/korean-learning-website
-├── index.html           # 首頁（已完成，含閃卡入口）
+/LMT-KOREAN-LEARNING-ZONE
 ├── css/
-│   └── style.css        # CSS 樣式（已建立基礎）
+│   └── style.css                  # CSS 樣式
+├── data/
+│   ├── lyrics/                    # 歌詞 JSON 檔案
+│   │   ├── acourve-chwihangime.json
+│   │   ├── acourve-geuge-mworago.json
+│   │   ├── acourve-maeumeul-beneun-nat.json
+│   │   ├── another-song.json
+│   │   ├── epikhigh-chupda.json
+│   │   ├── epikhigh-nae-maeum-deullinayo.json
+│   │   ├── girlsday-bogosipeo.json
+│   │   ├── girlsday-come-slowly.json
+│   │   ├── girlsday-gidaehae.json
+│   │   ├── girlsday-if-you-give-me-your-heart.json
+│   │   ├── girlsday-something.json
+│   │   ├── girlsday-thirsty.json
+│   ├── grammar.json               # 文法資料
+│   ├── songs_list.json            # 歌曲列表
+│   └── vocabulary.json            # 單字資料
+├── grammar/
+│   ├── grammar.html               # 文法頁面
+│   └── index.html                 # 文法主頁
+├── img/                           # 圖片資源
 ├── js/
-│   └── main.js          # JavaScript 程式（已建立基礎）
-├── images/              # 圖片資源（待充實）
-├── data/                # 存放 JSON 資料
-│   ├── vocabulary.json  # 單字資料（已建立並使用）
-│   └── grammar.json     # 文法資料（已建立並使用）
-├── grammar/             # 文法教學頁面
-│   └── index.html       # 文法主頁（從 JSON 載入，已完成）
-├── vocabulary/          # 單字教學頁面
-│   ├── index.html       # 單字主頁（從 JSON 載入，已完成）
-│   └── flashcards.html  # 單字閃卡頁（從 JSON 載入，已完成）
-├── songs/               # 歌曲教學頁面
-│   └── index.html       # 歌曲主頁（尚未開始）
-└── README.md            # 專案說明（本檔案）
+│   └── main.js                    # JavaScript
+├── LMT-Korean-Learning-Zone/      # 可能為子模組或資料夾
+├── songs/
+│   ├── index.html                 # 歌曲主頁
+│   └── lyrics-template.html       # 歌詞模板頁
+├── vocabulary/
+│   ├── flashcards.html            # 單字閃卡頁
+│   └── index.html                 # 單字主頁
+├── .gitmodules                    # Git 子模組設定
+├── index.html                     # 首頁
+├── README.md                      # 專案說明
+└── test/                          # 測試資料夾
 ```
 
