@@ -33,7 +33,7 @@
             border-bottom: 2px solid #4F46E5;
             padding-bottom: 0.75rem;
             margin-bottom: 2rem;
-            scroll-margin-top: 80px; /* Offset for sticky header */
+            scroll-margin-top: 120px; /* Adjusted for sticky header + selector */
         }
         .subcategory-heading {
             color: #6EE7B7;
@@ -43,7 +43,7 @@
             font-weight: 600;
             padding-bottom: 0.5rem;
             border-bottom: 1px dashed #374151;
-             scroll-margin-top: 80px; /* Offset for sticky header */
+            scroll-margin-top: 120px; /* Adjusted for sticky header + selector */
         }
         ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #1F2937; }
@@ -53,41 +53,45 @@
         .detail-label { font-weight: 500; color: #93C5FD; }
         .example-text, .vocab-text, .memory-text { line-height: 1.65; }
 
-        /* Styles for unit selector */
         .unit-selector-container {
-            background-color: #1F2937; /* Tailwind gray-800 */
+            background-color: rgba(31, 41, 55, 0.85); /* Tailwind gray-800 with opacity */
             padding: 1rem 1.5rem;
-            border-radius: 0.75rem; /* rounded-xl */
-            margin-bottom: 2.5rem; /* mb-10 */
+            border-radius: 0.75rem; 
+            margin-bottom: 2.5rem; 
             box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            position: sticky; 
+            top: 70px; /* Height of the header */
+            z-index: 40; 
+            backdrop-filter: blur(8px); 
+            -webkit-backdrop-filter: blur(8px); 
         }
         .unit-selector-label {
-            color: #A5B4FC; /* Tailwind indigo-300 */
-            margin-right: 0.75rem; /* mr-3 */
+            color: #A5B4FC; 
+            margin-right: 0.75rem; 
             font-weight: 500;
         }
         .unit-selector {
-            background-color: #374151; /* Tailwind gray-700 */
-            color: #E0E7FF; /* Tailwind gray-200 */
-            border: 1px solid #4B5563; /* Tailwind gray-600 */
-            border-radius: 0.5rem; /* rounded-lg */
-            padding: 0.5rem 2.5rem 0.5rem 0.75rem; /* py-2 pr-10 pl-3 */
-            appearance: none; /* Remove default arrow */
+            background-color: #374151; 
+            color: #E0E7FF; 
+            border: 1px solid #4B5563; 
+            border-radius: 0.5rem; 
+            padding: 0.5rem 2.5rem 0.5rem 0.75rem; 
+            appearance: none; 
             background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%239CA3AF' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
             background-repeat: no-repeat;
             background-position: right 0.5rem center;
             background-size: 1.5em 1.5em;
-            width: 100%; /* Full width on mobile */
+            width: 100%; 
         }
-        @media (min-width: 640px) { /* sm breakpoint */
+        @media (min-width: 640px) { 
             .unit-selector {
-                width: auto; /* Auto width on larger screens */
-                min-width: 250px; /* Minimum width */
+                width: auto; 
+                min-width: 250px; 
             }
         }
         .unit-selector:focus {
             outline: none;
-            border-color: #6366F1; /* Tailwind indigo-500 */
+            border-color: #6366F1; 
             box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
         }
     </style>
@@ -129,24 +133,23 @@
             <label for="grammar-unit-select" class="unit-selector-label text-lg">選擇單元：</label>
             <select id="grammar-unit-select" class="unit-selector text-base">
                 <option value="">— 請選擇文法分類 —</option>
-                </select>
+            </select>
         </div>
 
-        <div id="grammar-container" class="space-y-12">
+        <div id="grammar-container" class="space-y-12 mt-6">
             </div>
     </main>
 
     <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-12 border-t border-gray-700">
         <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
-        <p class="text-sm">LMT-Korean-Learning-Zone</p>
+        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
     </footer>
 
     <script>
-        // 更新後的文法資料 (例句已改為口語敬語)
         var grammarData = [
             {
                 category: "一、基本助詞 (Basic Particles)",
-                id: "cat-basic-particles", // Added ID for navigation
+                id: "cat-basic-particles",
                 rules: [
                     { rule: "N-은/는", description: "表示主題或對比。", example: "저는 학생이에요. (我是學生。)", words: "저 (我)、학생 (學生)", memory: "「은/는」像中文「是」或「至於」，用來強調主題。" },
                     { rule: "N-이/가", description: "表示主語。", example: "비가 와요. (下雨了。)", words: "비 (雨)、사람 (人)", memory: "「이/가」像「誰做了什麼」的主詞。" },
@@ -273,7 +276,11 @@
                 rules: [
                     { rule: "N-때문에 / V/A-기 때문에", description: "因為... (強調原因)。", example: "비 때문에 집에 있어요. (因為下雨，所以待在家裡。)", words: "비 (雨)、집 (家)、공부 (學習)", memory: "「때문에」=「因為（強調）」。" },
                     { rule: "N-덕분에 / V/A-(으)ㄴ/는 덕분에", description: "多虧了... (用於正面結果)。", example: "선생님 덕분에 성공했어요. (多虧老師，我成功了。)", words: "선생님 (老師)、성공 (成功)、도움 (幫助)", memory: "「덕분에」=「多虧」。" },
-                    { rule: "(前已列) A/V-(으)니까, A/V-아/어/여서, V-느라고, V-는 바람에", description: "各種原因與理由表達 (已於前文說明)。", example: "비가 오니까 집에 있어요. (因為下雨，所以待在家裡。)", words: "비 (雨)、집 (家)、공부 (學習)", memory: "多樣化原因表達，依情境使用。" }
+                    // Restored grammar points
+                    { rule: "V/A-(으)니까", description: "因為...所以... (主觀理由，或用於命令句、共動句前)。", example: "배고프니까 밥을 먹어요. (因為餓了，所以吃飯吧。)", words: "배고프다 (餓)、밥 (飯)", memory: "「(으)니까」像「因為...所以...（主觀）」。" },
+                    { rule: "V/A-아/어/여서", description: "因為...所以... (客觀理由，時間順序的「然後」)。", example: "비가 와서 집에 있어요. (因為下雨，所以待在家裡。)", words: "비 (雨)、집 (家)", memory: "「아/어/여서」像「因為...所以...（客觀）」或「然後」。" },
+                    { rule: "V-느라고", description: "因為 (忙於做某事而產生後項結果，多為負面)。", example: "공부하느라고 잠을 못 잤어요. (因為忙著讀書所以沒睡覺。)", words: "공부 (學習)、잠 (覺)", memory: "「느라고」像「因為忙著...所以...」。" },
+                    { rule: "V-는 바람에", description: "因為...所以... (多用於產生了意料之外的消極結果)。", example: "비가 오는 바람에 집에 있어요. (因為下雨所以待在家裡。)", words: "비 (雨)、집 (家)", memory: "「는 바람에」像「因為...所以...（結果不好）」。" }
                 ]
             },
             {
@@ -282,7 +289,10 @@
                 rules: [
                     { rule: "V-(으)려고 하다", description: "打算做...。", example: "도서관에 가려고 해요. (我打算去圖書館。)", words: "가다 (去)、공부 (學習)、하다 (做)", memory: "「(으)려고 하다」=「打算做...」。" },
                     { rule: "V-(으)ㄹ게요", description: "（第一人稱）我會... (意志、約定)。", example: "제가 할게요. (我會做的。)", words: "하다 (做)、주다 (給)、가다 (去)", memory: "「(으)ㄹ게요」=「我會...（約定）」。" },
-                    { rule: "(前已列) V-(으)러 가다/오다, V-기 위해서, V-고자 하다", description: "目的性表達 (已於前文說明)。", example: "밥 먹으러 식당에 가요. (去餐廳吃飯。)", words: "밥 (飯)、식당 (餐廳)、가다 (去)", memory: "目的性表達，依情境使用。" }
+                    // Restored grammar points
+                    { rule: "V-(으)러", description: "為了 (表目的，後常接 가다/오다 等移動動詞)。", example: "밥 먹으러 식당에 가요. (為了吃飯去餐廳。)", words: "밥 (飯)、식당 (餐廳)", memory: "「(으)러」像「為了...去/來」。" },
+                    { rule: "V-기 위해서 / N-을/를 위해서", description: "為了...。", example: "공부하기 위해서 도서관에 가요. (為了讀書去圖書館。)", words: "공부 (學習)、도서관 (圖書館)", memory: "「기 위해서」像「為了...」。" },
+                    { rule: "V-고자 하다", description: "想要，試圖 (書面語)。", example: "공부하고자 해요. (想要讀書。)", words: "공부 (學習)、하다 (做)", memory: "「고자 하다」像「想要...」。" }
                 ]
             },
             {
@@ -290,8 +300,9 @@
                 id: "cat-condition-assumption",
                 rules: [
                     { rule: "V-기만 하면 되다", description: "只要做...就可以。", example: "열심히 하기만 하면 돼요. (只要努力就可以。)", words: "열심히 (努力)、하다 (做)、가다 (去)", memory: "「기만 하면 되다」=「只要...就可以」。" },
-                    { rule: "(前已列) A/V-(으)면", description: "如果...的話 (已於前文說明)。", example: "비가 오면 집에 있어요. (如果下雨，就待在家裡。)", words: "비 (雨)、집 (家)、가다 (去)", memory: "「(으)면」=「如果...的話」。" },
-                    { rule: "A/V-거든", description: "如果...的話 (口語，後多接命令或共動)。", example: "배고프거든 밥 먹어요. (如果餓了，就去吃飯。)", words: "배고프다 (餓)、먹다 (吃)、가다 (去)", memory: "「거든」=「如果...的話（口語）」。" }
+                    { rule: "A/V-거든", description: "如果...的話 (口語，後多接命令或共動)。", example: "배고프거든 밥 먹어요. (如果餓了，就去吃飯。)", words: "배고프다 (餓)、먹다 (吃)、가다 (去)", memory: "「거든」=「如果...的話（口語）」。" },
+                    // Restored grammar point
+                    { rule: "V/A-(으)면", description: "如果...的話。", example: "비가 오면 집에 있어요. (如果下雨的話，就待在家裡。)", words: "비 (雨)、집 (家)", memory: "「(으)면」像「如果...的話」。" }
                 ]
             },
             {
@@ -351,7 +362,7 @@
                         ]
                     },
                     {
-                         name: "", // No specific sub-subcategory name, direct rule
+                         name: "", 
                          id: "subcat-quotation-misc",
                          rules: [
                             { rule: "V-다시피", description: "如同...一樣，正如所...。", example: "네가 아는 대로 하세요. (請照你知道的做。)", words: "알다 (知道)、보다 (看)", memory: "「다시피」=「如同...一樣」。" }
@@ -408,17 +419,14 @@
                 return;
             }
 
-            // Populate unit selector and render grammar data
             grammarData.forEach(function(categoryItem) {
-                // Add option to selector
                 var option = document.createElement('option');
-                option.value = categoryItem.id; // Use the ID for the value
+                option.value = categoryItem.id; 
                 option.textContent = categoryItem.category;
                 unitSelect.appendChild(option);
 
-                // Create category section
                 var categorySection = document.createElement('section');
-                categorySection.id = categoryItem.id; // Set ID for navigation target
+                categorySection.id = categoryItem.id; 
                 categorySection.className = 'mb-16';
 
                 var categoryTitle = document.createElement('h2');
@@ -439,8 +447,6 @@
                     categoryItem.subcategories.forEach(function(subcategory) {
                         if (subcategory.name) {
                             var subCategoryTitleElement = document.createElement('h3');
-                            // Assign an ID to subcategory titles if direct navigation to them is needed
-                            // For now, they are part of the main category section scroll
                             if(subcategory.id) subCategoryTitleElement.id = subcategory.id;
                             subCategoryTitleElement.className = 'subcategory-heading col-span-full';
                             subCategoryTitleElement.textContent = subcategory.name;
@@ -455,15 +461,21 @@
                 grammarContainer.appendChild(categorySection);
             });
 
-            // Add event listener to the selector
             unitSelect.addEventListener('change', function() {
                 var selectedUnitId = this.value;
                 if (selectedUnitId) {
                     var targetElement = document.getElementById(selectedUnitId);
                     if (targetElement) {
-                        targetElement.scrollIntoView({
-                            behavior: 'smooth',
-                            block: 'start' // Aligns the top of the target element to the top of the scrollable ancestor
+                        var headerHeight = document.querySelector('header')?.offsetHeight || 0;
+                        var selectorHeight = document.querySelector('.unit-selector-container')?.offsetHeight || 0;
+                        var offset = headerHeight + selectorHeight + 20; 
+
+                        var elementPosition = targetElement.getBoundingClientRect().top;
+                        var offsetPosition = elementPosition + window.pageYOffset - offset;
+                        
+                        window.scrollTo({
+                            top: offsetPosition,
+                            behavior: 'smooth'
                         });
                     }
                 }

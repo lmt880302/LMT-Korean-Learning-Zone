@@ -7,87 +7,173 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
     <style>
         body {
             font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #121826; /* Darker base */
-            color: #E0E7FF; /* Softer light text */
+            background-color: #0F172A; /* Tailwind slate-900 */
+            color: #E2E8F0; /* Tailwind slate-200 */
         }
         .vocab-category-card {
-            background-color: #1F2937; /* Tailwind gray-800 */
-            border: 1px solid #374151; /* Tailwind gray-700 */
-            transition: box-shadow 0.3s ease;
+            background-color: #1E293B; /* Tailwind slate-800 */
+            border: 1px solid #334155; /* Tailwind slate-700 */
+            transition: box-shadow 0.3s ease, transform 0.3s ease;
+            scroll-margin-top: 140px; 
+            border-radius: 0.75rem; /* rounded-xl */
         }
         .vocab-category-card:hover {
-            box-shadow: 0 8px 25px rgba(30, 58, 138, 0.3); /* Blue shadow for depth */
+            box-shadow: 0 10px 30px rgba(59, 130, 246, 0.25); /* Adjusted shadow */
+            transform: translateY(-2px);
         }
         .category-title {
-            color: #A5B4FC; /* Tailwind indigo-300 */
-            border-bottom: 2px solid #4F46E5; /* Tailwind indigo-600 */
+            color: #93C5FD; 
+            border-bottom: 2px solid #3B82F6; 
             padding-bottom: 0.75rem;
-            margin-bottom: 1.5rem; /* Space below title */
+            margin-bottom: 2rem; 
+            font-weight: 700;
         }
-        .vocab-item {
-            border-bottom: 1px solid #374151; /* Separator for vocab items */
-            padding-bottom: 1rem;
+        /* Styling for individual vocabulary items */
+        .vocab-item-container {
+            background-color: #293548; 
+            border-radius: 0.5rem; 
+            padding: 1.25rem; 
             margin-bottom: 1rem;
+            transition: background-color 0.2s ease, transform 0.2s ease;
+            border-left: 4px solid transparent; 
         }
-        .vocab-item:last-child {
-            border-bottom: none;
+        .vocab-item-container:hover {
+            background-color: #36455c;
+            transform: translateX(3px);
+            border-left-color: #3B82F6; 
+        }
+        .vocab-item-container:last-child {
             margin-bottom: 0;
-            padding-bottom: 0;
+        }
+        .korean-word-block { 
+            display: flex;
+            flex-direction: column; 
+            margin-bottom: 0.75rem; 
         }
         .korean-word {
             font-family: 'Noto Sans KR', sans-serif;
-            font-weight: 700; /* Bold */
-            color: #7DD3FC; /* Tailwind sky-300 */
-            font-size: 1.25rem; /* text-xl */
+            font-weight: 700; 
+            color: #67E8F9; 
+            font-size: 1.5rem; 
+            line-height: 1.3;
         }
         .chinese-meaning {
-            color: #A5B4FC; /* Tailwind indigo-300 */
-            font-size: 0.9rem; /* Smaller */
-            margin-left: 0.5rem;
+            color: #A5B4FC; 
+            font-size: 0.95rem; 
+            font-weight: 500;
+            margin-top: 0.125rem; 
+        }
+        .example-block {
+            margin-top: 0.5rem; 
+            padding-left: 0.75rem; 
+            border-left: 2px solid #475569; 
         }
         .example-sentence, .translation {
             font-family: 'Noto Sans KR', sans-serif;
-            font-size: 0.95rem; /* Slightly smaller than word */
-            color: #CBD5E1; /* Tailwind slate-300 */
-            line-height: 1.6;
+            font-size: 0.95rem; 
+            color: #CBD5E1; 
+            line-height: 1.7;
+            margin-bottom: 0.25rem; 
         }
         .example-label {
             font-weight: 500;
-            color: #93C5FD; /* Tailwind blue-300 */
+            color: #818CF8; 
+        }
+        .highlight-word { 
+            color: #67E8F9; 
+            font-weight: 700;
+        }
+
+        /* Greetings List Styling */
+        .greeting-list {
+            display: grid;
+            grid-template-columns: 1fr; 
+            gap: 0.75rem; 
+        }
+        @media (min-width: 640px) { 
+            .greeting-list {
+                grid-template-columns: repeat(2, 1fr); 
+            }
         }
         .greeting-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px dashed #374151;
+            padding: 0.75rem; 
+            background-color: #293548;
+            border-radius: 0.375rem; 
+            transition: background-color 0.2s ease;
         }
-        .greeting-item:last-child {
-            border-bottom: none;
+        .greeting-item:hover {
+            background-color: #36455c;
         }
         .greeting-ko {
             font-family: 'Noto Sans KR', sans-serif;
             font-weight: 500;
-            color: #CBD5E1; /* Tailwind lime-300 for greetings */
+            color: #86EFAC; /* Kept green for greetings as it was not explicitly asked to change from previous */
+            font-size: 1.15rem; 
+            display: block; 
+            margin-bottom: 0.125rem;
         }
         .greeting-zh {
-            color: #A78BFA; /* Tailwind violet-400 */
-            font-size: 0.85rem;
-            margin-left: 0.5rem;
+            color: #D1D5DB; 
+            font-size: 0.875rem; 
         }
 
-        /* Custom scrollbar */
+        /* Unit Selector Styles */
+        .unit-selector-container {
+            background-color: rgba(30, 41, 59, 0.9); 
+            padding: 1rem 1.5rem;
+            border-radius: 0.75rem;
+            margin-bottom: 2.5rem;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            position: sticky; 
+            top: 70px; 
+            z-index: 40; 
+            backdrop-filter: blur(10px); 
+            -webkit-backdrop-filter: blur(10px); 
+        }
+        .unit-selector-label {
+            color: #A5B4FC;
+            margin-right: 0.75rem;
+            font-weight: 500;
+        }
+        .unit-selector {
+            background-color: #334155; 
+            color: #E0E7FF;
+            border: 1px solid #475569; 
+            border-radius: 0.5rem;
+            padding: 0.6rem 2.5rem 0.6rem 0.75rem; 
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%239CA3AF' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 0.5rem center;
+            background-size: 1.5em 1.5em;
+            width: 100%;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+        @media (min-width: 640px) { 
+            .unit-selector {
+                width: auto;
+                min-width: 280px; 
+            }
+        }
+        .unit-selector:focus {
+            outline: none;
+            border-color: #6366F1;
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.4);
+        }
+
         ::-webkit-scrollbar { width: 8px; height: 8px; }
-        ::-webkit-scrollbar-track { background: #1F2937; }
-        ::-webkit-scrollbar-thumb { background: #4A5568; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #718096; }
+        ::-webkit-scrollbar-track { background: #1E293B; }
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #64748B; }
     </style>
 </head>
 <body class="antialiased">
-    <header class="bg-gray-900 text-white shadow-lg sticky top-0 z-50">
-        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+    <header class="bg-slate-900 text-white shadow-lg sticky top-0 z-50"> <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
                     <a href="../index.html" class="text-2xl font-bold text-sky-400 hover:text-sky-300 transition-colors">LMT韓語學習區</a>
@@ -116,295 +202,561 @@
     </header>
 
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
-        <h1 class="text-4xl font-bold text-center mb-12 text-indigo-300">韓語核心單字</h1>
-        <div id="vocabulary-container" class="space-y-10">
-            </div>
+        <h1 class="text-4xl font-bold text-center mb-8 text-indigo-300">韓語核心單字</h1>
+
+        <div class="unit-selector-container flex items-center justify-center sm:justify-start">
+            <label for="vocab-unit-select" class="unit-selector-label text-lg">選擇單元：</label>
+            <select id="vocab-unit-select" class="unit-selector text-base">
+                <option value="">— 請選擇單字分類 —</option>
+            </select>
+        </div>
+
+        <div id="vocabulary-container" class="space-y-10 mt-6">
+        </div>
     </main>
 
-    <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-12 border-t border-gray-700">
-        <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
-        <p class="text-sm">LMT-Korean-Learning-Zone</p>
+    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700"> <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
+        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
     </footer>
 
     <script>
-        var vocabularyData = [ // Changed const to var
+        var vocabularyData = [
             {
+                id: "vocab-cat-greetings",
                 category: "1. 基礎打招呼語",
-                type: "greetings", // Special type for different rendering
+                type: "greetings",
                 items: [
-                    { ko: "안녕하세요", zh: "你好" },
-                    { ko: "감사합니다", zh: "謝謝" },
-                    { ko: "죄송합니다", zh: "對不起" },
-                    { ko: "네", zh: "是" },
-                    { ko: "아니요", zh: "不是" },
-                    { ko: "안녕히 가세요", zh: "再見 (對方離開時)" },
-                    { ko: "안녕히 계세요", zh: "再見 (自己離開時)" },
-                    { ko: "처음 뵙겠습니다", zh: "初次見面" }
+                    { ko: "안녕하세요", zh: "你好 / 您好" },
+                    { ko: "감사합니다", zh: "謝謝 (正式)" },
+                    { ko: "고맙습니다", zh: "謝謝 (常用)" },
+                    { ko: "죄송합니다", zh: "對不起 (正式)" },
+                    { ko: "미안합니다", zh: "對不起 (常用)" },
+                    { ko: "네", zh: "是 / 好的" },
+                    { ko: "아니요", zh: "不是 / 不用" },
+                    { ko: "여보세요", zh: "喂 (打電話時)" },
+                    { ko: "안녕히 가세요", zh: "再見 (對離開者)" },
+                    { ko: "안녕히 계세요", zh: "再見 (自己離開)" },
+                    { ko: "처음 뵙겠습니다", zh: "初次見面" },
+                    { ko: "만나서 반갑습니다", zh: "很高興見到你" },
+                    { ko: "잘 부탁드립니다", zh: "請多指教" },
+                    { ko: "수고하셨습니다", zh: "辛苦了" },
+                    { ko: "실례합니다", zh: "打擾一下" },
+                    { ko: "괜찮아요", zh: "沒關係" },
+                    { ko: "어서 오세요", zh: "歡迎光臨" },
+                    { ko: "잘 자요", zh: "晚安 (非敬語，對平輩或晚輩)" },
+                    { ko: "안녕히 주무세요", zh: "晚安 (敬語)" },
+                    { ko: "좋은 아침이에요", zh: "早安" }
                 ]
             },
             {
+                id: "vocab-cat-family",
                 category: "2. 家庭成員",
                 type: "detailed",
                 items: [
-                    { korean: "가족", chinese: "家人", exampleKo: "가족이 많아요.", exampleZh: "家人很多。" },
-                    { korean: "아버지", chinese: "爸爸", exampleKo: "아버지가 오셨어요.", exampleZh: "爸爸來了。" },
-                    { korean: "어머니", chinese: "媽媽", exampleKo: "어머니가 요리하세요.", exampleZh: "媽媽在做菜。" },
-                    { korean: "형", chinese: "哥哥 (男生叫)", exampleKo: "형이 있어요.", exampleZh: "我有哥哥。" },
-                    { korean: "누나", chinese: "姐姐 (男生叫)", exampleKo: "누나가 왔어요.", exampleZh: "姐姐來了。" },
-                    { korean: "오빠", chinese: "哥哥 (女生叫)", exampleKo: "오빠가 좋아요.", exampleZh: "我喜歡哥哥。" },
-                    { korean: "언니", chinese: "姐姐 (女生叫)", exampleKo: "언니가 예뻐요.", exampleZh: "姐姐很漂亮。" },
-                    { korean: "남동생", chinese: "弟弟", exampleKo: "남동생이 있어요.", exampleZh: "我有弟弟。" },
-                    { korean: "여동생", chinese: "妹妹", exampleKo: "여동생이 귀여워요.", exampleZh: "妹妹很可愛。" }
+                    { korean: "가족", chinese: "家人", exampleKo: "우리 <span class='highlight-word'>가족</span>은 모두 건강해요.", exampleZh: "我們家人都很健康。" },
+                    { korean: "부모님", chinese: "父母", exampleKo: "<span class='highlight-word'>부모님</span>께 전화드렸어요.", exampleZh: "給父母打了電話。" },
+                    { korean: "아버지", chinese: "爸爸", exampleKo: "<span class='highlight-word'>아버지</span>는 회사에 가셨어요.", exampleZh: "爸爸去公司了。" },
+                    { korean: "아빠", chinese: "爸爸 (口語)", exampleKo: "<span class='highlight-word'>아빠</span>, 같이 놀아요!", exampleZh: "爸爸，一起玩吧！" },
+                    { korean: "어머니", chinese: "媽媽", exampleKo: "<span class='highlight-word'>어머니</span>의 음식은 최고예요.", exampleZh: "媽媽的菜最棒了。" },
+                    { korean: "엄마", chinese: "媽媽 (口語)", exampleKo: "<span class='highlight-word'>엄마</span>, 사랑해요.", exampleZh: "媽媽，我愛你。" },
+                    { korean: "할아버지", chinese: "爺爺/外公", exampleKo: "<span class='highlight-word'>할아버지</span>는 연세가 많으세요.", exampleZh: "爺爺年紀大了。" },
+                    { korean: "할머니", chinese: "奶奶/外婆", exampleKo: "<span class='highlight-word'>할머니</span>가 맛있는 것을 주셨어요.", exampleZh: "奶奶給了好吃的。" },
+                    { korean: "형", chinese: "哥哥 (男叫)", exampleKo: "우리 <span class='highlight-word'>형</span>은 대학생이에요.", exampleZh: "我哥哥是大學生。" },
+                    { korean: "누나", chinese: "姐姐 (男叫)", exampleKo: "<span class='highlight-word'>누나</span>가 숙제를 도와줬어요.", exampleZh: "姐姐幫我做作業了。" },
+                    { korean: "오빠", chinese: "哥哥 (女叫)", exampleKo: "<span class='highlight-word'>오빠</span>는 운동을 잘해요.", exampleZh: "哥哥很會運動。" },
+                    { korean: "언니", chinese: "姐姐 (女叫)", exampleKo: "<span class='highlight-word'>언니</span>랑 영화 봤어요.", exampleZh: "和姐姐看電影了。" },
+                    { korean: "남동생", chinese: "弟弟", exampleKo: "제 <span class='highlight-word'>남동생</span>은 아직 어려요.", exampleZh: "我的弟弟還小。" },
+                    { korean: "여동생", chinese: "妹妹", exampleKo: "<span class='highlight-word'>여동생</span>은 노래를 좋아해요.", exampleZh: "妹妹喜歡唱歌。" },
+                    { korean: "아들", chinese: "兒子", exampleKo: "<span class='highlight-word'>아들</span>이 학교에서 돌아왔어요.", exampleZh: "兒子從學校回來了。" },
+                    { korean: "딸", chinese: "女兒", exampleKo: "우리 <span class='highlight-word'>딸</span>은 정말 똑똑해요.", exampleZh: "我女兒真的很聰明。" },
+                    { korean: "남편", chinese: "丈夫", exampleKo: "제 <span class='highlight-word'>남편</span>은 요리를 잘해요.", exampleZh: "我丈夫很會做菜。" },
+                    { korean: "아내", chinese: "妻子", exampleKo: "<span class='highlight-word'>아내</span>와 함께 여행을 갔어요.", exampleZh: "和妻子一起去旅行了。" },
+                    { korean: "아이", chinese: "孩子", exampleKo: "<span class='highlight-word'>아이</span>들이 놀이터에서 놀고 있어요.", exampleZh: "孩子們在遊樂場玩。" },
+                    { korean: "친척", chinese: "親戚", exampleKo: "명절에 <span class='highlight-word'>친척</span>들을 만나요.", exampleZh: "節日和親戚們見面。" }
                 ]
             },
             {
+                id: "vocab-cat-food-drinks",
                 category: "3. 食物與飲料",
                 type: "detailed",
                 items: [
-                    { korean: "밥", chinese: "飯", exampleKo: "밥 먹었어요.", exampleZh: "我吃了飯。" },
-                    { korean: "국", chinese: "湯", exampleKo: "국이 맛있어요.", exampleZh: "湯很好喝。" },
-                    { korean: "김치", chinese: "泡菜", exampleKo: "김치를 좋아해요.", exampleZh: "我喜歡泡菜。" },
-                    { korean: "물", chinese: "水", exampleKo: "물 마셔요.", exampleZh: "我喝水。" },
-                    { korean: "커피", chinese: "咖啡", exampleKo: "커피 마셔요.", exampleZh: "我喝咖啡。" },
-                    { korean: "빵", chinese: "麵包", exampleKo: "빵 먹어요.", exampleZh: "我吃麵包。" },
-                    { korean: "과일", chinese: "水果", exampleKo: "과일이 싱싱해요.", exampleZh: "水果很新鮮。" },
-                    { korean: "생선", chinese: "魚", exampleKo: "생선을 먹어요.", exampleZh: "我吃魚。" },
-                    { korean: "고기", chinese: "肉", exampleKo: "고기 구워요.", exampleZh: "我烤肉。" }
+                    { korean: "음식", chinese: "食物", exampleKo: "한국 <span class='highlight-word'>음식</span>을 좋아해요?", exampleZh: "喜歡韓國食物嗎？" },
+                    { korean: "밥", chinese: "飯", exampleKo: "아침 <span class='highlight-word'>밥</span> 먹었어요?", exampleZh: "吃早餐了嗎？" },
+                    { korean: "국", chinese: "湯", exampleKo: "된장<span class='highlight-word'>국</span>이 맛있어요.", exampleZh: "大醬湯很好喝。" },
+                    { korean: "반찬", chinese: "小菜", exampleKo: "여러 가지 <span class='highlight-word'>반찬</span>이 나왔어요.", exampleZh: "上了很多種小菜。" },
+                    { korean: "김치", chinese: "泡菜", exampleKo: "<span class='highlight-word'>김치</span>찌개를 끓였어요.", exampleZh: "煮了泡菜鍋。" },
+                    { korean: "물", chinese: "水", exampleKo: "시원한 <span class='highlight-word'>물</span> 마시고 싶어요.", exampleZh: "想喝冰涼的水。" },
+                    { korean: "음료수", chinese: "飲料", exampleKo: "어떤 <span class='highlight-word'>음료수</span> 드릴까요?", exampleZh: "要給您什麼飲料呢？" },
+                    { korean: "주스", chinese: "果汁", exampleKo: "사과 <span class='highlight-word'>주스</span> 한 잔 주세요.", exampleZh: "請給我一杯蘋果汁。" },
+                    { korean: "우유", chinese: "牛奶", exampleKo: "아이들은 <span class='highlight-word'>우유</span>를 많이 마셔야 해요.", exampleZh: "孩子們要多喝牛奶。" },
+                    { korean: "차", chinese: "茶", exampleKo: "녹<span class='highlight-word'>차</span>나 홍<span class='highlight-word'>차</span> 어떠세요?", exampleZh: "綠茶或紅茶怎麼樣？" },
+                    { korean: "커피", chinese: "咖啡", exampleKo: "아이스 아메리카노 한 잔이요.", exampleZh: "一杯冰美式咖啡。" }, // Example for 커피
+                    { korean: "빵", chinese: "麵包", exampleKo: "아침으로 <span class='highlight-word'>빵</span>과 우유를 먹어요.", exampleZh: "早餐吃麵包和牛奶。" },
+                    { korean: "과일", chinese: "水果", exampleKo: "신선한 <span class='highlight-word'>과일</span>은 비타민이 많아요.", exampleZh: "新鮮水果富含維他命。" },
+                    { korean: "생선", chinese: "魚", exampleKo: "<span class='highlight-word'>생선</span>구이를 좋아해요.", exampleZh: "喜歡烤魚。" },
+                    { korean: "고기", chinese: "肉", exampleKo: "소<span class='highlight-word'>고기</span>, 돼지<span class='highlight-word'>고기</span>, 닭<span class='highlight-word'>고기</span> 다 좋아요.", exampleZh: "牛肉、豬肉、雞肉都喜歡。" },
+                    { korean: "채소", chinese: "蔬菜", exampleKo: "신선한 <span class='highlight-word'>채소</span> 샐러드예요.", exampleZh: "是新鮮的蔬菜沙拉。" },
+                    { korean: "라면", chinese: "泡麵", exampleKo: "밤에 <span class='highlight-word'>라면</span> 먹으면 맛있어요.", exampleZh: "晚上吃泡麵很好吃。" },
+                    { korean: "비빔밥", chinese: "韓式拌飯", exampleKo: "전주 <span class='highlight-word'>비빔밥</span>이 유명해요.", exampleZh: "全州拌飯很有名。" },
+                    { korean: "불고기", chinese: "韓式烤肉", exampleKo: "<span class='highlight-word'>불고기</span>는 달콤하고 맛있어요.", exampleZh: "韓式烤肉又甜又好吃。" },
+                    { korean: "떡볶이", chinese: "辣炒年糕", exampleKo: "매운 <span class='highlight-word'>떡볶이</span>를 잘 먹어요?", exampleZh: "你敢吃辣炒年糕嗎？" },
+                    { korean: "아이스크림", chinese: "冰淇淋", exampleKo: "여름에는 <span class='highlight-word'>아이스크림</span>이 최고예요.", exampleZh: "夏天冰淇淋最棒了。" },
+                    { korean: "과자", chinese: "零食", exampleKo: "영화 볼 때 <span class='highlight-word'>과자</span>를 먹어요.", exampleZh: "看電影時吃零食。" },
+                    { korean: "술", chinese: "酒", exampleKo: "어른들은 <span class='highlight-word'>술</span>을 마실 수 있어요.", exampleZh: "大人可以喝酒。" },
+                    { korean: "맥주", chinese: "啤酒", exampleKo: "치킨과 <span class='highlight-word'>맥주</span>는 환상의 조합이에요.", exampleZh: "炸雞和啤酒是夢幻組合。" },
+                    { korean: "소주", chinese: "燒酒", exampleKo: "한국 사람들은 <span class='highlight-word'>소주</span>를 즐겨 마셔요.", exampleZh: "韓國人常喝燒酒。" }
                 ]
             },
             {
+                id: "vocab-cat-shopping",
                 category: "4. 購物",
                 type: "detailed",
                 items: [
-                    { korean: "가게", chinese: "商店", exampleKo: "가게에 가요.", exampleZh: "我去商店。" },
-                    { korean: "돈", chinese: "錢", exampleKo: "돈이 있어요.", exampleZh: "我有錢。" },
-                    { korean: "값", chinese: "價格", exampleKo: "값이 비싸요.", exampleZh: "價格很貴。" },
-                    { korean: "카드", chinese: "卡", exampleKo: "카드 써요.", exampleZh: "我用卡。" },
-                    { korean: "영수증", chinese: "收據", exampleKo: "영수증 받아요.", exampleZh: "我拿收據。" },
-                    { korean: "옷", chinese: "衣服", exampleKo: "옷 입어요.", exampleZh: "我穿衣服。" },
-                    { korean: "신발", chinese: "鞋子", exampleKo: "신발 신어요.", exampleZh: "我穿鞋子。" }
+                    { korean: "쇼핑", chinese: "購物", exampleKo: "주말에 <span class='highlight-word'>쇼핑</span>하러 갈 거예요.", exampleZh: "週末要去購物。" },
+                    { korean: "가게", chinese: "商店", exampleKo: "동네에 작은 <span class='highlight-word'>가게</span>가 많아요.", exampleZh: "社區裡有很多小商店。" },
+                    { korean: "시장", chinese: "市場", exampleKo: "재래<span class='highlight-word'>시장</span>에는 없는 게 없어요.", exampleZh: "傳統市場什麼都有。" },
+                    { korean: "백화점", chinese: "百貨公司", exampleKo: "<span class='highlight-word'>백화점</span>은 물건이 다양해요.", exampleZh: "百貨公司的商品很多樣。" },
+                    { korean: "마트", chinese: "超市/賣場", exampleKo: "집 근처 <span class='highlight-word'>마트</span>에서 장을 봐요.", exampleZh: "在家附近的超市買東西。" },
+                    { korean: "돈", chinese: "錢", exampleKo: "<span class='highlight-word'>돈</span>을 아껴 써야 해요.", exampleZh: "要節省用錢。" },
+                    { korean: "현금", chinese: "現金", exampleKo: "<span class='highlight-word'>현금</span>이 없으면 카드를 쓰세요.", exampleZh: "沒現金就用卡吧。" },
+                    { korean: "값", chinese: "價格", exampleKo: "이 물건 <span class='highlight-word'>값</span>이 얼마예요?", exampleZh: "這東西價格多少？" },
+                    { korean: "가격", chinese: "價格", exampleKo: "<span class='highlight-word'>가격</span> 비교를 해보세요.", exampleZh: "比較一下價格看看。" },
+                    { korean: "카드", chinese: "卡片", exampleKo: "신용<span class='highlight-word'>카드</span>로 계산할 수 있어요?", exampleZh: "可以用信用卡結帳嗎？" },
+                    { korean: "영수증", chinese: "收據", exampleKo: "<span class='highlight-word'>영수증</span>은 버리지 마세요.", exampleZh: "收據請不要丟掉。" },
+                    { korean: "할인", chinese: "折扣", exampleKo: "학생 <span class='highlight-word'>할인</span>이 되나요?", exampleZh: "有學生折扣嗎？" },
+                    { korean: "세일", chinese: "特價/打折", exampleKo: "지금 여름 <span class='highlight-word'>세일</span> 기간이에요.", exampleZh: "現在是夏季特價期間。" },
+                    { korean: "계산하다", chinese: "結帳", exampleKo: "<span class='highlight-word'>계산</span>은 저쪽에서 하세요.", exampleZh: "請在那邊結帳。" },
+                    { korean: "사다", chinese: "買", exampleKo: "선물을 <span class='highlight-word'>사러</span> 왔어요.", exampleZh: "來買禮物了。" },
+                    { korean: "팔다", chinese: "賣", exampleKo: "이 가게는 뭘 <span class='highlight-word'>팔아</span>요?", exampleZh: "這家店賣什麼？" },
+                    { korean: "환불", chinese: "退款", exampleKo: "<span class='highlight-word'>환불</span> 규정을 확인하세요.", exampleZh: "請確認退款規定。" },
+                    { korean: "교환", chinese: "換貨", exampleKo: "다른 색으로 <span class='highlight-word'>교환</span>하고 싶어요.", exampleZh: "我想換別的顏色。" },
+                    { korean: "옷", chinese: "衣服", exampleKo: "겨울 <span class='highlight-word'>옷</span>을 정리해야 해요.", exampleZh: "該整理冬衣了。" },
+                    { korean: "신발", chinese: "鞋子", exampleKo: "새 <span class='highlight-word'>신발</span>을 신으니 기분이 좋아요.", exampleZh: "穿上新鞋心情很好。" },
+                    { korean: "가방", chinese: "包包", exampleKo: "이 <span class='highlight-word'>가방</span>은 아주 가벼워요.", exampleZh: "這個包包很輕。" },
+                    { korean: "선물", chinese: "禮物", exampleKo: "생일 <span class='highlight-word'>선물</span>로 뭘 받고 싶어요?", exampleZh: "生日禮物想收到什麼？" }
                 ]
             },
-            {
-                category: "5. 交通",
-                type: "detailed",
-                items: [
-                    { korean: "버스", chinese: "公車", exampleKo: "버스 탔어요.", exampleZh: "我坐公車。" },
-                    { korean: "지하철", chinese: "地鐵", exampleKo: "지하철 타요.", exampleZh: "我坐地鐵。" },
-                    { korean: "택시", chinese: "計程車", exampleKo: "택시 불러요.", exampleZh: "我叫計程車。" },
-                    { korean: "비행기", chinese: "飛機", exampleKo: "비행기 타요.", exampleZh: "我坐飛機。" },
-                    { korean: "길", chinese: "路", exampleKo: "길 찾아요.", exampleZh: "我找路。" }
+            { 
+                id: "vocab-cat-transportation", 
+                category: "5. 交通", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "교통", chinese: "交通", exampleKo: "서울은 <span class='highlight-word'>교통</span>이 복잡해요.", exampleZh: "首爾交通很複雜。" },
+                    { korean: "버스", chinese: "公車", exampleKo: "마을 <span class='highlight-word'>버스</span>를 타요.", exampleZh: "搭社區公車。" }, 
+                    { korean: "지하철", chinese: "地鐵", exampleKo: "<span class='highlight-word'>지하철</span> 노선도를 확인하세요.", exampleZh: "請確認地鐵路線圖。" }, 
+                    { korean: "택시", chinese: "計程車", exampleKo: "급할 때는 <span class='highlight-word'>택시</span>를 타요.", exampleZh: "趕時間時搭計程車。" },
+                    { korean: "기차", chinese: "火車", exampleKo: "<span class='highlight-word'>기차</span>표를 예매했어요.", exampleZh: "預購了火車票。" },
+                    { korean: "비행기", chinese: "飛機", exampleKo: "<span class='highlight-word'>비행기</span> 시간이 언제예요?", exampleZh: "飛機時間是什麼時候？" }, 
+                    { korean: "자전거", chinese: "腳踏車", exampleKo: "날씨가 좋아서 <span class='highlight-word'>자전거</span>를 탔어요.", exampleZh: "天氣好所以騎了腳踏車。" },
+                    { korean: "오토바이", chinese: "摩托車", exampleKo: "<span class='highlight-word'>오토바이</span>는 헬멧을 꼭 써야 해요.", exampleZh: "騎摩托車一定要戴安全帽。" },
+                    { korean: "배", chinese: "船", exampleKo: "섬에 가려면 <span class='highlight-word'>배</span>를 타야 해요.", exampleZh: "要去島上得搭船。" },
+                    { korean: "공항", chinese: "機場", exampleKo: "출발 두 시간 전에 <span class='highlight-word'>공항</span>에 도착해야 해요.", exampleZh: "起飛前兩小時要到機場。" },
+                    { korean: "정류장", chinese: "公車站", exampleKo: "버스 <span class='highlight-word'>정류장</span>이 어디예요?", exampleZh: "公車站牌在哪裡？" }, 
+                    { korean: "지하철역", chinese: "地鐵站", exampleKo: "2호선 <span class='highlight-word'>지하철역</span>으로 가주세요.", exampleZh: "請到2號線地鐵站。" }, 
+                    { korean: "길", chinese: "路", exampleKo: "이 <span class='highlight-word'>길</span>로 가면 돼요?", exampleZh: "走這條路可以嗎？" }, 
+                    { korean: "도로", chinese: "道路", exampleKo: "출퇴근 시간에는 <span class='highlight-word'>도로</span>가 많이 막혀요.", exampleZh: "上下班時間路上很塞車。" },
+                    { korean: "신호등", chinese: "紅綠燈", exampleKo: "빨간불일 때는 <span class='highlight-word'>신호등</span>을 기다려야 해요.", exampleZh: "紅燈時要等紅綠燈。" }, 
+                    { korean: "횡단보도", chinese: "斑馬線", exampleKo: "<span class='highlight-word'>횡단보도</span>에서는 좌우를 잘 살피세요.", exampleZh: "在斑馬線要看好左右。" } 
+                ] 
+            },
+            { 
+                id: "vocab-cat-time-date", 
+                category: "6. 時間與日期", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "시간", chinese: "時間", exampleKo: "<span class='highlight-word'>시간</span>이 금방 가네요.", exampleZh: "時間過得真快。" },
+                    { korean: "분", chinese: "分鐘", exampleKo: "약속 <span class='highlight-word'>시간</span>까지 10<span class='highlight-word'>분</span> 남았어요.", exampleZh: "離約定時間還有10分鐘。" }, 
+                    { korean: "초", chinese: "秒", exampleKo: "1<span class='highlight-word'>분</span>은 60<span class='highlight-word'>초</span>예요.", exampleZh: "1分鐘是60秒。" }, 
+                    { korean: "날짜", chinese: "日期", exampleKo: "중요한 <span class='highlight-word'>날짜</span>는 달력에 표시해요.", exampleZh: "重要的日期標在月曆上。" }, 
+                    { korean: "오늘", chinese: "今天", exampleKo: "<span class='highlight-word'>오늘</span>은 제 생일이에요.", exampleZh: "今天是我生日。" },
+                    { korean: "내일", chinese: "明天", exampleKo: "<span class='highlight-word'>내일</span> 뭐 할 거예요?", exampleZh: "明天要做什麼？" },
+                    { korean: "어제", chinese: "昨天", exampleKo: "<span class='highlight-word'>어제</span>는 정말 바빴어요.", exampleZh: "昨天真的很忙。" },
+                    { korean: "모레", chinese: "後天", exampleKo: "<span class='highlight-word'>모레</span>부터 휴가예요.", exampleZh: "後天開始休假。" }, 
+                    { korean: "그저께", chinese: "前天", exampleKo: "<span class='highlight-word'>그저께</span> 친구를 우연히 만났어요.", exampleZh: "前天偶然遇見了朋友。" }, 
+                    { korean: "주", chinese: "週", exampleKo: "일 <span class='highlight-word'>주</span>일에 한 번 운동해요.", exampleZh: "一週運動一次。" },
+                    { korean: "달", chinese: "月", exampleKo: "이번 <span class='highlight-word'>달</span> 말에 시험이 있어요.", exampleZh: "這個月底有考試。" }, 
+                    { korean: "년", chinese: "年", exampleKo: "새<span class='highlight-word'>해</span> 복 많이 받으세요.", exampleZh: "新年快樂。(새해 - 新年)" }, 
+                    { korean: "아침", chinese: "早上", exampleKo: "<span class='highlight-word'>아침</span> 일찍 일어났어요.", exampleZh: "一大早就起床了。" },
+                    { korean: "점심", chinese: "中午/午餐", exampleKo: "<span class='highlight-word'>점심</span> 식사는 하셨어요?", exampleZh: "吃過午餐了嗎？" }, 
+                    { korean: "저녁", chinese: "晚上/晚餐", exampleKo: "오늘 <span class='highlight-word'>저녁</span> 메뉴는 뭐예요?", exampleZh: "今天晚餐菜單是什麼？" },
+                    { korean: "밤", chinese: "夜晚", exampleKo: "고요한 <span class='highlight-word'>밤</span>이에요.", exampleZh: "是個寧靜的夜晚。" },
+                    { korean: "지금", chinese: "現在", exampleKo: "<span class='highlight-word'>지금</span> 바로 출발해야 해요.", exampleZh: "現在必須馬上出發。" }, 
+                    { korean: "요일", chinese: "星期", exampleKo: "무슨 <span class='highlight-word'>요일</span>에 시간이 괜찮으세요?", exampleZh: "星期幾有空呢？" }, 
+                    { korean: "주말", chinese: "週末", exampleKo: "<span class='highlight-word'>주말</span> 계획은 세웠어요?", exampleZh: "週末計畫訂好了嗎？" },
+                    { korean: "평일", chinese: "平日", exampleKo: "<span class='highlight-word'>평일</span>에는 보통 바빠요.", exampleZh: "平日通常很忙。" },
+                    { korean: "오전", chinese: "上午", exampleKo: "<span class='highlight-word'>오전</span>에는 회의가 있어요.", exampleZh: "上午有會議。" },
+                    { korean: "오후", chinese: "下午", exampleKo: "<span class='highlight-word'>오후</span>에 커피 한 잔 해요.", exampleZh: "下午喝杯咖啡吧。" },
+                    { korean: "새벽", chinese: "凌晨", exampleKo: "<span class='highlight-word'>새벽</span> 공기가 상쾌해요.", exampleZh: "凌晨的空氣很清新。" }
+                ] 
+            },
+            { 
+                id: "vocab-cat-numbers", 
+                category: "7. 數字", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "하나", chinese: "一 (固有)", exampleKo: "사과 <span class='highlight-word'>하나</span>만 더 주세요.", exampleZh: "請再給我一個蘋果。" }, 
+                    { korean: "둘", chinese: "二 (固有)", exampleKo: "커피 <span class='highlight-word'>두</span> 잔이요. (둘 -> 두 before counter)", exampleZh: "兩杯咖啡。" },
+                    { korean: "셋", chinese: "三 (固有)", exampleKo: "아이 <span class='highlight-word'>세</span> 명이 놀고 있어요. (셋 -> 세)", exampleZh: "三個孩子在玩。" },
+                    { korean: "넷", chinese: "四 (固有)", exampleKo: "<span class='highlight-word'>네</span> 시에 만나요. (넷 -> 네)", exampleZh: "四點見面吧。" }, 
+                    { korean: "다섯", chinese: "五 (固有)", exampleKo: "손가락이 <span class='highlight-word'>다섯</span> 개예요.", exampleZh: "有五根手指頭。" }, 
+                    { korean: "여섯", chinese: "六 (固有)", exampleKo: "<span class='highlight-word'>여섯</span> 살짜리 아이예요.", exampleZh: "是六歲的孩子。" }, 
+                    { korean: "일곱", chinese: "七 (固有)", exampleKo: "무지개는 <span class='highlight-word'>일곱</span> 색깔이에요.", exampleZh: "彩虹是七種顏色。" },
+                    { korean: "여덟", chinese: "八 (固有)", exampleKo: "<span class='highlight-word'>여덟</span> 시에 영화가 시작해요.", exampleZh: "電影八點開始。" }, 
+                    { korean: "아홉", chinese: "九 (固有)", exampleKo: "<span class='highlight-word'>아홉</span> 명의 친구들이 왔어요.", exampleZh: "來了九位朋友。" }, 
+                    { korean: "열", chinese: "十 (固有)", exampleKo: "<span class='highlight-word'>열</span> 번이나 말했어요.", exampleZh: "說了十遍了。" },
+                    { korean: "스물", chinese: "二十 (固有)", exampleKo: "저는 <span class='highlight-word'>스무</span> 살이에요. (스물 -> 스무)", exampleZh: "我二十歲。" },
+                    { korean: "서른", chinese: "三十 (固有)", exampleKo: "<span class='highlight-word'>서른</span> 개의 계란이 있어요.", exampleZh: "有三十顆雞蛋。" },
+                    { korean: "일", chinese: "一 (漢字)", exampleKo: "<span class='highlight-word'>일</span> 번 출구로 나가세요.", exampleZh: "請從一號出口出去。" },
+                    { korean: "이", chinese: "二 (漢字)", exampleKo: "<span class='highlight-word'>이</span>층에 살아요.", exampleZh: "住在二樓。" },
+                    { korean: "삼", chinese: "三 (漢字)", exampleKo: "<span class='highlight-word'>삼</span>각형 모양이에요.", exampleZh: "是三角形模樣。" },
+                    { korean: "십", chinese: "十 (漢字)", exampleKo: "<span class='highlight-word'>십</span> 년 전 일이에요.", exampleZh: "是十年前的事了。" },
+                    { korean: "백", chinese: "百 (漢字)", exampleKo: "<span class='highlight-word'>백</span>화점은 <span class='highlight-word'>백</span> 가지 물건이 있다는 뜻이에요.", exampleZh: "百貨公司的意思是有一百種商品。" },
+                    { korean: "천", chinese: "千 (漢字)", exampleKo: "하늘에 별이 <span class='highlight-word'>천</span> 개나 있어요.", exampleZh: "天上有上千顆星星。" },
+                    { korean: "만", chinese: "萬 (漢字)", exampleKo: "이 차는 <span class='highlight-word'>만</span> 달러예요.", exampleZh: "這輛車一萬美元。" },
+                    { korean: "영", chinese: "零 (漢字)", exampleKo: "온도가 <span class='highlight-word'>영</span>도예요.", exampleZh: "溫度是零度。" },
+                    { korean: "공", chinese: "零 (固有，常用於電話號碼)", exampleKo: "전화번호는 <span class='highlight-word'>공</span>일<span class='highlight-word'>공</span>에 일이삼사 오육칠팔이에요.", exampleZh: "電話號碼是010-1234-5678。" }
+                ]},
+            { 
+                id: "vocab-cat-colors", 
+                category: "8. 顏色", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "색깔", chinese: "顏色", exampleKo: "무슨 <span class='highlight-word'>색깔</span>을 좋아해요?", exampleZh: "喜歡什麼顏色？" },
+                    { korean: "빨간색", chinese: "紅色", exampleKo: "신호등이 <span class='highlight-word'>빨간색</span>이면 멈춰야 해요.", exampleZh: "紅燈時要停下來。" }, 
+                    { korean: "파란색", chinese: "藍色", exampleKo: "맑은 날 하늘은 <span class='highlight-word'>파란색</span>이에요.", exampleZh: "晴朗的天空是藍色的。" }, 
+                    { korean: "노란색", chinese: "黃色", exampleKo: "개나리는 <span class='highlight-word'>노란색</span> 꽃이에요.", exampleZh: "迎春花是黃色的花。" },
+                    { korean: "초록색", chinese: "綠色", exampleKo: "숲은 온통 <span class='highlight-word'>초록색</span>이에요.", exampleZh: "森林裡一片翠綠。" },
+                    { korean: "검정색", chinese: "黑色", exampleKo: "밤하늘은 <span class='highlight-word'>검정색</span>이에요.", exampleZh: "夜空是黑色的。" },
+                    { korean: "하얀색", chinese: "白色", exampleKo: "웨딩드레스는 보통 <span class='highlight-word'>하얀색</span>이에요.", exampleZh: "婚紗通常是白色的。" }, 
+                    { korean: "분홍색", chinese: "粉紅色", exampleKo: "벚꽃은 <span class='highlight-word'>분홍색</span>이에요.", exampleZh: "櫻花是粉紅色的。" },
+                    { korean: "보라색", chinese: "紫色", exampleKo: "<span class='highlight-word'>보라색</span>은 신비로운 느낌을 줘요.", exampleZh: "紫色給人神秘的感覺。" },
+                    { korean: "주황색", chinese: "橘色", exampleKo: "오렌지는 <span class='highlight-word'>주황색</span>이에요.", exampleZh: "柳丁是橘色的。" },
+                    { korean: "갈색", chinese: "棕色", exampleKo: "곰은 <span class='highlight-word'>갈색</span>이에요.", exampleZh: "熊是棕色的。" }, 
+                    { korean: "회색", chinese: "灰色", exampleKo: "비 오는 날 하늘은 <span class='highlight-word'>회색</span>이에요.", exampleZh: "下雨天的天空是灰色的。" },
+                    { korean: "금색", chinese: "金色", exampleKo: "올림픽 <span class='highlight-word'>금</span>메달은 <span class='highlight-word'>금색</span>이에요.", exampleZh: "奧運金牌是金色的。" },
+                    { korean: "은색", chinese: "銀色", exampleKo: "반짝이는 <span class='highlight-word'>은색</span> 액세서리예요.", exampleZh: "是閃亮的銀色飾品。" }
                 ]
             },
-            {
-                category: "6. 時間與日期",
-                type: "detailed",
-                items: [
-                    { korean: "시간", chinese: "時間", exampleKo: "시간이 없어요.", exampleZh: "沒時間。" },
-                    { korean: "분", chinese: "分鐘", exampleKo: "10분 기다려요.", exampleZh: "等10分鐘。" },
-                    { korean: "날짜", chinese: "日期", exampleKo: "날짜 맞아요?", exampleZh: "日期對嗎？" },
-                    { korean: "오늘", chinese: "今天", exampleKo: "오늘 날씨 좋아요.", exampleZh: "今天天氣好。" },
-                    { korean: "내일", chinese: "明天", exampleKo: "내일 만나요.", exampleZh: "明天見。" },
-                    { korean: "어제", chinese: "昨天", exampleKo: "어제 비 왔어요.", exampleZh: "昨天下雨。" },
-                    { korean: "주", chinese: "週", exampleKo: "한 주 지났어요.", exampleZh: "過了一週。" },
-                    { korean: "달", chinese: "月", exampleKo: "두 달 됐어요.", exampleZh: "過了兩個月。" },
-                    { korean: "년", chinese: "年", exampleKo: "1년 살았어요.", exampleZh: "住了一年。" }
-                ]
+            { 
+                id: "vocab-cat-places", 
+                category: "9. 場所", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "장소", chinese: "場所/地方", exampleKo: "약속 <span class='highlight-word'>장소</span>가 어디예요?", exampleZh: "約定地點在哪裡？" },
+                    { korean: "학교", chinese: "學校", exampleKo: "매일 <span class='highlight-word'>학교</span>에 걸어 가요.", exampleZh: "每天走路上學。" }, 
+                    { korean: "병원", chinese: "醫院", exampleKo: "아프면 <span class='highlight-word'>병원</span>에 가야 해요.", exampleZh: "生病了要去醫院。" }, 
+                    { korean: "은행", chinese: "銀行", exampleKo: "<span class='highlight-word'>은행</span>에서 통장을 만들었어요.", exampleZh: "在銀行辦了存摺。" }, 
+                    { korean: "식당", chinese: "餐廳", exampleKo: "새로 생긴 <span class='highlight-word'>식당</span>에 가봤어요?", exampleZh: "去過新開的餐廳嗎？" }, 
+                    { korean: "공원", chinese: "公園", exampleKo: "주말에 <span class='highlight-word'>공원</span>에서 운동해요.", exampleZh: "週末在公園運動。" }, 
+                    { korean: "집", chinese: "家", exampleKo: "일 끝나고 바로 <span class='highlight-word'>집</span>에 갈 거예요.", exampleZh: "下班後要直接回家。" }, 
+                    { korean: "회사", chinese: "公司", exampleKo: "우리 <span class='highlight-word'>회사</span>는 강남에 있어요.", exampleZh: "我們公司在江南。" },
+                    { korean: "도서관", chinese: "圖書館", exampleKo: "<span class='highlight-word'>도서관</span>에서 책을 빌렸어요.", exampleZh: "在圖書館借了書。" },
+                    { korean: "영화관", chinese: "電影院", exampleKo: "새 영화를 보러 <span class='highlight-word'>영화관</span>에 갔어요.", exampleZh: "去看新電影所以去了電影院。" },
+                    { korean: "우체국", chinese: "郵局", exampleKo: "<span class='highlight-word'>우체국</span>에서 소포를 보냈어요.", exampleZh: "在郵局寄了包裹。" },
+                    { korean: "약국", chinese: "藥局", exampleKo: "감기약을 사러 <span class='highlight-word'>약국</span>에 갔어요.", exampleZh: "去藥局買感冒藥了。" },
+                    { korean: "공항", chinese: "機場", exampleKo: "비행기를 타러 <span class='highlight-word'>공항</span>에 가요.", exampleZh: "去機場搭飛機。" },
+                    { korean: "호텔", chinese: "飯店", exampleKo: "여행 가서 <span class='highlight-word'>호텔</span>에 묵었어요.", exampleZh: "去旅行時住了飯店。" },
+                    { korean: "가게", chinese: "商店", exampleKo: "편의점은 24시간 여는 <span class='highlight-word'>가게</span>예요.", exampleZh: "便利商店是24小時營業的商店。" }
+                ] 
             },
-            {
-                category: "7. 數字",
-                type: "detailed",
-                items: [
-                    { korean: "하나", chinese: "1", exampleKo: "하나 주세요.", exampleZh: "請給我一個。" },
-                    { korean: "둘", chinese: "2", exampleKo: "둘 있어요.", exampleZh: "有兩個。" },
-                    { korean: "셋", chinese: "3", exampleKo: "셋이 왔어요.", exampleZh: "來了三個。" },
-                    { korean: "넷", chinese: "4", exampleKo: "넷 샀어요.", exampleZh: "買了四個。" },
-                    { korean: "다섯", chinese: "5", exampleKo: "다섯 시에요.", exampleZh: "五點。" }
-                ]
+            { 
+                id: "vocab-cat-weather", 
+                category: "10. 天氣", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "날씨", chinese: "天氣", exampleKo: "오늘 <span class='highlight-word'>날씨</span>가 정말 좋네요!", exampleZh: "今天天氣真好啊！" }, 
+                    { korean: "비", chinese: "雨", exampleKo: "갑자기 <span class='highlight-word'>비</span>가 내리기 시작했어요.", exampleZh: "突然開始下雨了。" }, 
+                    { korean: "눈", chinese: "雪", exampleKo: "첫<span class='highlight-word'>눈</span>이 올 때 뭐 하고 싶어요?", exampleZh: "下初雪時想做什麼？" }, 
+                    { korean: "바람", chinese: "風", exampleKo: "오늘은 <span class='highlight-word'>바람</span>이 많이 불어요.", exampleZh: "今天風很大。" }, 
+                    { korean: "덥다", chinese: "熱 (形容詞)", exampleKo: "여름에는 날씨가 <span class='highlight-word'>더워요</span>.", exampleZh: "夏天天氣很熱。" }, 
+                    { korean: "춥다", chinese: "冷 (形容詞)", exampleKo: "겨울에는 너무 <span class='highlight-word'>추워요</span>.", exampleZh: "冬天太冷了。" }, 
+                    { korean: "맑다", chinese: "晴朗 (形容詞)", exampleKo: "내일은 하늘이 <span class='highlight-word'>맑을</span> 거예요.", exampleZh: "明天天空會很晴朗。" },
+                    { korean: "흐리다", chinese: "陰天 (形容詞)", exampleKo: "오늘은 날씨가 좀 <span class='highlight-word'>흐려요</span>.", exampleZh: "今天天氣有點陰。" },
+                    { korean: "따뜻하다", chinese: "溫暖 (形容詞)", exampleKo: "봄에는 날씨가 <span class='highlight-word'>따뜻해요</span>.", exampleZh: "春天天氣很溫暖。" },
+                    { korean: "시원하다", chinese: "涼爽 (形容詞)", exampleKo: "가을 바람이 <span class='highlight-word'>시원해요</span>.", exampleZh: "秋風很涼爽。" },
+                    { korean: "구름", chinese: "雲", exampleKo: "하늘에 <span class='highlight-word'>구름</span>이 많이 꼈어요.", exampleZh: "天空中烏雲密布。" },
+                    { korean: "안개", chinese: "霧", exampleKo: "아침에 <span class='highlight-word'>안개</span>가 짙게 꼈어요.", exampleZh: "早上起了濃霧。" },
+                    { korean: "천둥", chinese: "雷聲", exampleKo: "<span class='highlight-word'>천둥</span> 소리에 잠이 깼어요.", exampleZh: "被雷聲吵醒了。" },
+                    { korean: "번개", chinese: "閃電", exampleKo: "<span class='highlight-word'>번개</span>가 치는 것을 봤어요.", exampleZh: "看到了閃電。" }
+                ] 
             },
-            {
-                category: "8. 顏色",
-                type: "detailed",
-                items: [
-                    { korean: "빨간색", chinese: "紅色", exampleKo: "빨간색 좋아해요.", exampleZh: "我喜歡紅色。" },
-                    { korean: "파란색", chinese: "藍色", exampleKo: "파란색 가방이에요.", exampleZh: "是藍色包包。" },
-                    { korean: "노란색", chinese: "黃色", exampleKo: "노란색 꽃이에요.", exampleZh: "是黃色花。" },
-                    { korean: "초록색", chinese: "綠色", exampleKo: "초록색 잔디예요.", exampleZh: "是綠色草地。" },
-                    { korean: "검정색", chinese: "黑色", exampleKo: "검정색 신발이에요.", exampleZh: "是黑色鞋子。" }
-                ]
+            { 
+                id: "vocab-cat-bodyparts", 
+                category: "11. 身體部位", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "몸", chinese: "身體", exampleKo: "운동을 하면 <span class='highlight-word'>몸</span>이 건강해져요.", exampleZh: "運動的話身體會變健康。" },
+                    { korean: "머리", chinese: "頭/頭髮", exampleKo: "<span class='highlight-word'>머리</span>가 아파서 약을 먹었어요.", exampleZh: "頭痛所以吃了藥。" }, 
+                    { korean: "얼굴", chinese: "臉", exampleKo: "아침에 일어나서 <span class='highlight-word'>얼굴</span>을 씻어요.", exampleZh: "早上起床洗臉。" },
+                    { korean: "눈", chinese: "眼睛", exampleKo: "컴퓨터를 오래 보면 <span class='highlight-word'>눈</span>이 피곤해요.", exampleZh: "看電腦太久眼睛會疲勞。" }, 
+                    { korean: "코", chinese: "鼻子", exampleKo: "감기에 걸려서 <span class='highlight-word'>코</span>가 막혔어요.", exampleZh: "感冒了所以鼻子塞住了。" }, 
+                    { korean: "입", chinese: "嘴巴", exampleKo: "맛있는 음식을 보면 <span class='highlight-word'>입</span>에 침이 고여요.", exampleZh: "看到好吃的食物就會流口水。" }, 
+                    { korean: "귀", chinese: "耳朵", exampleKo: "음악을 너무 크게 듣지 마세요. <span class='highlight-word'>귀</span>에 안 좋아요.", exampleZh: "音樂不要聽太大聲，對耳朵不好。" },
+                    { korean: "목", chinese: "脖子/喉嚨", exampleKo: "노래를 많이 불렀더니 <span class='highlight-word'>목</span>이 아파요.", exampleZh: "歌唱太多所以喉嚨痛。" },
+                    { korean: "어깨", chinese: "肩膀", exampleKo: "무거운 가방을 메었더니 <span class='highlight-word'>어깨</span>가 아파요.", exampleZh: "背了重包包所以肩膀痛。" },
+                    { korean: "팔", chinese: "手臂", exampleKo: "운동해서 <span class='highlight-word'>팔</span> 근육이 생겼어요.", exampleZh: "運動練出了手臂肌肉。" },
+                    { korean: "손", chinese: "手", exampleKo: "밥 먹기 전에 <span class='highlight-word'>손</span>을 꼭 씻으세요.", exampleZh: "吃飯前一定要洗手。" }, 
+                    { korean: "다리", chinese: "腿/橋", exampleKo: "오래 걸어서 <span class='highlight-word'>다리</span>가 아파요.", exampleZh: "走太久所以腿痛。" },
+                    { korean: "발", chinese: "腳", exampleKo: "새 신발을 신었더니 <span class='highlight-word'>발</span>이 불편해요.", exampleZh: "穿了新鞋所以腳不舒服。" }, 
+                    { korean: "배", chinese: "肚子/船/梨", exampleKo: "점심을 많이 먹어서 <span class='highlight-word'>배</span>가 불러요.", exampleZh: "午餐吃太多所以肚子飽。" },
+                    { korean: "허리", chinese: "腰", exampleKo: "오래 앉아 있었더니 <span class='highlight-word'>허리</span>가 뻐근해요.", exampleZh: "坐太久所以腰痠。" }
+                ] 
             },
-            {
-                category: "9. 場所",
-                type: "detailed",
-                items: [
-                    { korean: "학교", chinese: "學校", exampleKo: "학교에 가요.", exampleZh: "我去學校。" },
-                    { korean: "병원", chinese: "醫院", exampleKo: "병원에 가요.", exampleZh: "我去醫院。" },
-                    { korean: "은행", chinese: "銀行", exampleKo: "은행에 가요.", exampleZh: "我去銀行。" },
-                    { korean: "식당", chinese: "餐廳", exampleKo: "식당에서 먹어요.", exampleZh: "我在餐廳吃。" },
-                    { korean: "공원", chinese: "公園", exampleKo: "공원에 가요.", exampleZh: "我去公園。" }
-                ]
+            { 
+                id: "vocab-cat-clothes", 
+                category: "12. 衣物", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "옷", chinese: "衣服", exampleKo: "날씨가 추우니까 따뜻한 <span class='highlight-word'>옷</span>을 입으세요.", exampleZh: "天氣冷，請穿暖和的衣服。" }, 
+                    { korean: "바지", chinese: "褲子", exampleKo: "청<span class='highlight-word'>바지</span>를 자주 입어요.", exampleZh: "常穿牛仔褲。" }, 
+                    { korean: "치마", chinese: "裙子", exampleKo: "예쁜 <span class='highlight-word'>치마</span>를 선물 받았어요.", exampleZh: "收到了漂亮的裙子當禮物。" },
+                    { korean: "셔츠", chinese: "襯衫", exampleKo: "면접 볼 때 하얀색 <span class='highlight-word'>셔츠</span>를 입었어요.", exampleZh: "面試時穿了白色襯衫。" },
+                    { korean: "티셔츠", chinese: "T恤", exampleKo: "여름에는 <span class='highlight-word'>티셔츠</span>를 즐겨 입어요.", exampleZh: "夏天常穿T恤。" },
+                    { korean: "스웨터", chinese: "毛衣", exampleKo: "겨울에는 따뜻한 <span class='highlight-word'>스웨터</span>가 필요해요.", exampleZh: "冬天需要暖和的毛衣。" },
+                    { korean: "재킷", chinese: "夾克", exampleKo: "봄가을에는 가벼운 <span class='highlight-word'>재킷</span>을 입어요.", exampleZh: "春秋穿輕便的夾克。" },
+                    { korean: "코트", chinese: "大衣", exampleKo: "추운 날에는 두꺼운 <span class='highlight-word'>코트</span>를 입어야 해요.", exampleZh: "冷天要穿厚大衣。" },
+                    { korean: "신발", chinese: "鞋子", exampleKo: "편한 <span class='highlight-word'>신발</span>을 신는 것이 좋아요.", exampleZh: "穿舒服的鞋子比較好。" }, 
+                    { korean: "운동화", chinese: "運動鞋", exampleKo: "운동할 때는 <span class='highlight-word'>운동화</span>를 신어요.", exampleZh: "運動時穿運動鞋。" },
+                    { korean: "구두", chinese: "皮鞋", exampleKo: "정장에는 <span class='highlight-word'>구두</span>를 신어야 해요.", exampleZh: "西裝要搭配皮鞋。" },
+                    { korean: "모자", chinese: "帽子", exampleKo: "햇볕이 강할 때는 <span class='highlight-word'>모자</span>를 쓰세요.", exampleZh: "陽光強烈時請戴帽子。" }, 
+                    { korean: "가방", chinese: "包包", exampleKo: "책을 <span class='highlight-word'>가방</span>에 넣었어요.", exampleZh: "把書放進包包了。" }, 
+                    { korean: "양말", chinese: "襪子", exampleKo: "<span class='highlight-word'>양말</span>을 안 신으면 발이 시려워요.", exampleZh: "不穿襪子腳會冷。" },
+                    { korean: "장갑", chinese: "手套", exampleKo: "겨울에는 <span class='highlight-word'>장갑</span>을 껴요.", exampleZh: "冬天戴手套。" },
+                    { korean: "목도리", chinese: "圍巾", exampleKo: "추울 때는 <span class='highlight-word'>목도리</span>를 하세요.", exampleZh: "冷的時候請圍圍巾。" }
+                ] 
             },
-            {
-                category: "10. 天氣",
-                type: "detailed",
-                items: [
-                    { korean: "날씨", chinese: "天氣", exampleKo: "날씨 좋아요.", exampleZh: "天氣好。" },
-                    { korean: "비", chinese: "雨", exampleKo: "비 와요.", exampleZh: "下雨了。" },
-                    { korean: "눈", chinese: "雪", exampleKo: "눈 내려요.", exampleZh: "下雪了。" },
-                    { korean: "바람", chinese: "風", exampleKo: "바람 불어요.", exampleZh: "颳風了。" },
-                    { korean: "더워요", chinese: "熱", exampleKo: "더워요.", exampleZh: "很熱。" }
-                ]
+            { 
+                id: "vocab-cat-animals", 
+                category: "13. 動物", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "동물", chinese: "動物", exampleKo: "어떤 <span class='highlight-word'>동물</span>을 가장 좋아해요?", exampleZh: "最喜歡什麼動物？" },
+                    { korean: "고양이", chinese: "貓", exampleKo: "길에서 귀여운 <span class='highlight-word'>고양이</span>를 봤어요.", exampleZh: "在路上看到了可愛的貓。" }, 
+                    { korean: "강아지", chinese: "小狗", exampleKo: "우리 집 <span class='highlight-word'>강아지</span>는 정말 똑똑해요.", exampleZh: "我家小狗真的很聰明。" }, 
+                    { korean: "개", chinese: "狗", exampleKo: "큰 <span class='highlight-word'>개</span>를 무서워하는 사람도 있어요.", exampleZh: "也有人怕大狗。" },
+                    { korean: "새", chinese: "鳥", exampleKo: "아침에 <span class='highlight-word'>새</span>소리가 들려요.", exampleZh: "早上聽得到鳥叫聲。" }, 
+                    { korean: "물고기", chinese: "魚", exampleKo: "어항 속에 예쁜 <span class='highlight-word'>물고기</span>가 많아요.", exampleZh: "魚缸裡有很多漂亮的魚。" }, 
+                    { korean: "토끼", chinese: "兔子", exampleKo: "<span class='highlight-word'>토끼</span>는 풀을 좋아해요.", exampleZh: "兔子喜歡吃草。" }, 
+                    { korean: "호랑이", chinese: "老虎", exampleKo: "<span class='highlight-word'>호랑이</span>는 용감한 동물이에요.", exampleZh: "老虎是勇敢的動物。" }, 
+                    { korean: "코끼리", chinese: "大象", exampleKo: "<span class='highlight-word'>코끼리</span>는 코가 아주 길어요.", exampleZh: "大象的鼻子很長。" },
+                    { korean: "사자", chinese: "獅子", exampleKo: "<span class='highlight-word'>사자</span>는 동물의 왕이라고 불려요.", exampleZh: "獅子被稱為動物之王。" },
+                    { korean: "곰", chinese: "熊", exampleKo: "겨울잠을 자는 <span class='highlight-word'>곰</span>도 있어요.", exampleZh: "也有冬眠的熊。" },
+                    { korean: "원숭이", chinese: "猴子", exampleKo: "<span class='highlight-word'>원숭이</span>는 나무를 잘 타요.", exampleZh: "猴子很會爬樹。" },
+                    { korean: "뱀", chinese: "蛇", exampleKo: "<span class='highlight-word'>뱀</span>을 보면 무서워요.", exampleZh: "看到蛇會害怕。" },
+                    { korean: "말", chinese: "馬", exampleKo: "제주도에서 <span class='highlight-word'>말</span>을 타봤어요.", exampleZh: "在濟州島騎過馬。" },
+                    { korean: "양", chinese: "羊", exampleKo: "귀여운 아기 <span class='highlight-word'>양</span>이에요.", exampleZh: "是可愛的小羊。" }
+                ] 
             },
-            {
-                category: "11. 身體部位",
-                type: "detailed",
-                items: [
-                    { korean: "머리", chinese: "頭", exampleKo: "머리 아파요.", exampleZh: "頭痛。" },
-                    { korean: "눈", chinese: "眼睛", exampleKo: "눈 피곤해요.", exampleZh: "眼睛累。" },
-                    { korean: "코", chinese: "鼻子", exampleKo: "코 막혔어요.", exampleZh: "鼻子塞住。" },
-                    { korean: "입", chinese: "嘴巴", exampleKo: "입 마르다.", exampleZh: "嘴巴乾。" },
-                    { korean: "손", chinese: "手", exampleKo: "손 씻어요.", exampleZh: "我洗手。" }
-                ]
+            { 
+                id: "vocab-cat-occupations", 
+                category: "14. 職業", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "직업", chinese: "職業", exampleKo: "당신의 <span class='highlight-word'>직업</span>은 무엇이에요?", exampleZh: "你的職業是什麼？" },
+                    { korean: "의사", chinese: "醫生", exampleKo: "아프면 <span class='highlight-word'>의사</span> 선생님을 찾아가세요.", exampleZh: "生病了就去看醫生。" }, 
+                    { korean: "선생님", chinese: "老師", exampleKo: "학교에는 많은 <span class='highlight-word'>선생님</span>들이 계세요.", exampleZh: "學校裡有很多老師。" }, 
+                    { korean: "학생", chinese: "學生", exampleKo: "저는 한국어를 배우는 <span class='highlight-word'>학생</span>이에요.", exampleZh: "我是學韓文的學生。" }, 
+                    { korean: "요리사", chinese: "廚師", exampleKo: "그 <span class='highlight-word'>요리사</span>는 음식을 정말 잘 만들어요.", exampleZh: "那位廚師非常會做菜。" }, 
+                    { korean: "경찰", chinese: "警察", exampleKo: "<span class='highlight-word'>경찰</span> 아저씨가 길을 알려줬어요.", exampleZh: "警察先生指了路。" }, 
+                    { korean: "가수", chinese: "歌手", exampleKo: "제가 좋아하는 <span class='highlight-word'>가수</span>의 콘서트에 갔어요.", exampleZh: "去了我喜歡的歌手的演唱會。" }, 
+                    { korean: "배우", chinese: "演員", exampleKo: "그 <span class='highlight-word'>배우</span>는 연기를 정말 잘해요.", exampleZh: "那位演員演技真好。" },
+                    { korean: "회사원", chinese: "公司職員", exampleKo: "대부분의 사람들은 <span class='highlight-word'>회사원</span>이에요.", exampleZh: "大部分的人是公司職員。" },
+                    { korean: "간호사", chinese: "護士", exampleKo: "<span class='highlight-word'>간호사</span>는 병원에서 환자를 돌봐요.", exampleZh: "護士在醫院照顧病人。" },
+                    { korean: "소방관", chinese: "消防員", exampleKo: "<span class='highlight-word'>소방관</span>은 불을 끄는 사람이에요.", exampleZh: "消防員是滅火的人。" },
+                    { korean: "운전기사", chinese: "司機", exampleKo: "버스 <span class='highlight-word'>운전기사</span> 아저씨, 감사합니다.", exampleZh: "公車司機先生，謝謝您。" },
+                    { korean: "미용사", chinese: "美容師/美髮師", exampleKo: "<span class='highlight-word'>미용사</span>가 머리를 예쁘게 잘라줬어요.", exampleZh: "美髮師把頭髮剪得很漂亮。" },
+                    { korean: "운동선수", chinese: "運動選手", exampleKo: "올림픽에 출전하는 <span class='highlight-word'>운동선수</span>예요.", exampleZh: "是參加奧運的運動選手。" }
+                ] 
             },
-            {
-                category: "12. 衣物",
-                type: "detailed",
-                items: [
-                    { korean: "옷", chinese: "衣服", exampleKo: "옷 입어요.", exampleZh: "我穿衣服。" },
-                    { korean: "바지", chinese: "褲子", exampleKo: "바지 입어요.", exampleZh: "我穿褲子。" },
-                    { korean: "신발", chinese: "鞋子", exampleKo: "신발 신어요.", exampleZh: "我穿鞋子。" },
-                    { korean: "모자", chinese: "帽子", exampleKo: "모자 써요.", exampleZh: "我戴帽子。" },
-                    { korean: "가방", chinese: "包包", exampleKo: "가방 메요.", exampleZh: "我背包包。" }
-                ]
+            { 
+                id: "vocab-cat-leisure", 
+                category: "15. 休閒活動", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "취미", chinese: "興趣/愛好", exampleKo: "당신의 <span class='highlight-word'>취미</span>는 뭐예요?", exampleZh: "你的興趣是什麼？" },
+                    { korean: "음악", chinese: "音樂", exampleKo: "조용한 <span class='highlight-word'>음악</span>을 듣는 것을 좋아해요.", exampleZh: "喜歡聽安靜的音樂。" }, 
+                    { korean: "영화", chinese: "電影", exampleKo: "주말에 친구와 <span class='highlight-word'>영화</span>를 볼 거예요.", exampleZh: "週末要和朋友看電影。" }, 
+                    { korean: "운동", chinese: "運動", exampleKo: "건강을 위해서 매일 <span class='highlight-word'>운동</span>을 해요.", exampleZh: "為了健康每天都運動。" }, 
+                    { korean: "여행", chinese: "旅行", exampleKo: "방학 때 <span class='highlight-word'>여행</span>을 갈 계획이에요.", exampleZh: "計畫放假時去旅行。" }, 
+                    { korean: "독서", chinese: "閱讀", exampleKo: "잠자기 전에 <span class='highlight-word'>독서</span>하는 습관이 있어요.", exampleZh: "有睡前閱讀的習慣。" }, 
+                    { korean: "게임", chinese: "遊戲", exampleKo: "친구들과 같이 온라인 <span class='highlight-word'>게임</span>을 해요.", exampleZh: "和朋友們一起玩線上遊戲。" }, 
+                    { korean: "산책", chinese: "散步", exampleKo: "저녁 먹고 <span class='highlight-word'>산책</span>하는 것을 좋아해요.", exampleZh: "喜歡吃完晚餐後散步。" },
+                    { korean: "사진 찍기", chinese: "拍照", exampleKo: "풍경 <span class='highlight-word'>사진 찍기</span>가 취미예요.", exampleZh: "興趣是拍風景照。" },
+                    { korean: "요리", chinese: "料理/烹飪", exampleKo: "새로운 <span class='highlight-word'>요리</span>를 배우고 싶어요.", exampleZh: "想學新的料理。" },
+                    { korean: "그림 그리기", chinese: "畫畫", exampleKo: "어렸을 때부터 <span class='highlight-word'>그림 그리기</span>를 좋아했어요.", exampleZh: "從小就喜歡畫畫。" },
+                    { korean: "노래 부르기", chinese: "唱歌", exampleKo: "스트레스 받을 때 <span class='highlight-word'>노래 부르기</span>가 좋아요.", exampleZh: "壓力大時唱歌很好。" },
+                    { korean: "춤추기", chinese: "跳舞", exampleKo: "음악에 맞춰 <span class='highlight-word'>춤추기</span>는 즐거워요.", exampleZh: "配合音樂跳舞很開心。" }
+                ] 
             },
-            {
-                category: "13. 動物",
-                type: "detailed",
-                items: [
-                    { korean: "고양이", chinese: "貓", exampleKo: "고양이 봤어요.", exampleZh: "我看到貓。" },
-                    { korean: "강아지", chinese: "小狗", exampleKo: "강아지 귀여워요.", exampleZh: "小狗可愛。" },
-                    { korean: "새", chinese: "鳥", exampleKo: "새 날아가요.", exampleZh: "鳥飛走了。" },
-                    { korean: "물고기", chinese: "魚", exampleKo: "물고기 헤엄쳐요.", exampleZh: "魚在游泳。" },
-                    { korean: "토끼", chinese: "兔子", exampleKo: "토끼 점프해요.", exampleZh: "兔子在跳。" }
-                ]
+            { 
+                id: "vocab-cat-emotions", 
+                category: "16. 情緒與感覺", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "감정", chinese: "感情/情緒", exampleKo: "사람은 다양한 <span class='highlight-word'>감정</span>을 느껴요.", exampleZh: "人會感受到多樣的情緒。" },
+                    { korean: "기쁨", chinese: "高興/喜悅", exampleKo: "시험에 합격해서 큰 <span class='highlight-word'>기쁨</span>을 느꼈어요.", exampleZh: "考試及格了，感到非常高興。" }, 
+                    { korean: "슬픔", chinese: "悲傷", exampleKo: "이별은 큰 <span class='highlight-word'>슬픔</span>을 가져와요.", exampleZh: "離別帶來巨大的悲傷。" }, 
+                    { korean: "화", chinese: "生氣/憤怒", exampleKo: "거짓말을 들어서 <span class='highlight-word'>화</span>가 났어요.", exampleZh: "聽到謊話所以生氣了。" }, 
+                    { korean: "걱정", chinese: "擔心", exampleKo: "시험 결과 때문에 <span class='highlight-word'>걱정</span>이 많아요.", exampleZh: "因為考試結果很擔心。" }, 
+                    { korean: "피곤", chinese: "疲勞", exampleKo: "일을 많이 해서 <span class='highlight-word'>피곤</span>해요.", exampleZh: "工作很多所以很疲勞。" }, 
+                    { korean: "행복", chinese: "幸福", exampleKo: "가족과 함께 있을 때 가장 <span class='highlight-word'>행복</span>해요.", exampleZh: "和家人在一起時最幸福。" }, 
+                    { korean: "무서움", chinese: "害怕/恐懼", exampleKo: "어두운 곳에 혼자 있으면 <span class='highlight-word'>무서움</span>을 느껴요.", exampleZh: "一個人在暗處會感到害怕。" },
+                    { korean: "놀람", chinese: "驚訝", exampleKo: "갑작스러운 소식에 <span class='highlight-word'>놀람</span>을 금치 못했어요.", exampleZh: "對突如其來的消息驚訝不已。" },
+                    { korean: "외로움", chinese: "孤獨/寂寞", exampleKo: "혼자 있을 때 가끔 <span class='highlight-word'>외로움</span>을 느껴요.", exampleZh: "一個人的時候偶爾會感到孤獨。" },
+                    { korean: "즐거움", chinese: "快樂/愉悅", exampleKo: "친구들과의 수다는 큰 <span class='highlight-word'>즐거움</span>이에요.", exampleZh: "和朋友們聊天非常快樂。" },
+                    { korean: "답답함", chinese: "鬱悶/憋悶", exampleKo: "일이 잘 안 풀려서 <span class='highlight-word'>답답함</span>을 느껴요.", exampleZh: "事情不順利所以感到鬱悶。" }
+                ] 
             },
-            {
-                category: "14. 職業",
-                type: "detailed",
-                items: [
-                    { korean: "의사", chinese: "醫生", exampleKo: "의사가 왔어요.", exampleZh: "醫生來了。" },
-                    { korean: "선생님", chinese: "老師", exampleKo: "선생님이 계세요.", exampleZh: "有老師。" },
-                    { korean: "학생", chinese: "學生", exampleKo: "학생이 많아요.", exampleZh: "學生很多。" },
-                    { korean: "요리사", chinese: "廚師", exampleKo: "요리사가 있어요.", exampleZh: "有廚師。" },
-                    { korean: "경찰", chinese: "警察", exampleKo: "경찰이 도와줘요.", exampleZh: "警察幫忙。" }
-                ]
+            { 
+                id: "vocab-cat-appliances", 
+                category: "17. 家電與日常用品", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "가전제품", chinese: "家電產品", exampleKo: "새로 이사해서 <span class='highlight-word'>가전제품</span>을 샀어요.", exampleZh: "新搬家所以買了家電產品。" },
+                    { korean: "텔레비전", chinese: "電視", exampleKo: "저녁에는 주로 <span class='highlight-word'>텔레비전</span>을 봐요.", exampleZh: "晚上主要看電視。" }, 
+                    { korean: "냉장고", chinese: "冰箱", exampleKo: "<span class='highlight-word'>냉장고</span>에 맛있는 음식이 가득해요.", exampleZh: "冰箱裡裝滿了美味的食物。" }, 
+                    { korean: "세탁기", chinese: "洗衣機", exampleKo: "더러워진 옷을 <span class='highlight-word'>세탁기</span>에 넣었어요.", exampleZh: "把髒衣服放進洗衣機了。" }, 
+                    { korean: "전자레인지", chinese: "微波爐", exampleKo: "남은 음식을 <span class='highlight-word'>전자레인지</span>에 데워 먹어요.", exampleZh: "把剩菜用微波爐熱來吃。" }, 
+                    { korean: "휴대폰", chinese: "手機", exampleKo: "요즘 사람들은 <span class='highlight-word'>휴대폰</span> 없이 못 살아요.", exampleZh: "最近的人們沒有手機活不下去。" }, 
+                    { korean: "컴퓨터", chinese: "電腦", exampleKo: "업무는 주로 <span class='highlight-word'>컴퓨터</span>로 해요.", exampleZh: "業務主要用電腦處理。" }, 
+                    { korean: "에어컨", chinese: "冷氣", exampleKo: "여름에는 <span class='highlight-word'>에어컨</span>이 필수예요.", exampleZh: "夏天冷氣是必需品。" },
+                    { korean: "선풍기", chinese: "電風扇", exampleKo: "<span class='highlight-word'>선풍기</span> 바람이 시원해요.", exampleZh: "電風扇的風很涼爽。" },
+                    { korean: "밥솥", chinese: "電鍋", exampleKo: "전기 <span class='highlight-word'>밥솥</span>으로 밥을 해요.", exampleZh: "用電鍋煮飯。" },
+                    { korean: "청소기", chinese: "吸塵器", exampleKo: "방을 <span class='highlight-word'>청소기</span>로 청소했어요.", exampleZh: "用吸塵器打掃了房間。" },
+                    { korean: "드라이기", chinese: "吹風機", exampleKo: "머리 감고 <span class='highlight-word'>드라이기</span>로 말려요.", exampleZh: "洗完頭用吹風機吹乾。" },
+                    { korean: "가스레인지", chinese: "瓦斯爐", exampleKo: "<span class='highlight-word'>가스레인지</span>로 요리해요.", exampleZh: "用瓦斯爐做菜。" },
+                    { korean: "칫솔", chinese: "牙刷", exampleKo: "매일 <span class='highlight-word'>칫솔</span>로 이를 닦아요.", exampleZh: "每天用牙刷刷牙。" },
+                    { korean: "치약", chinese: "牙膏", exampleKo: "<span class='highlight-word'>치약</span>을 짜서 칫솔에 묻혀요.", exampleZh: "擠牙膏到牙刷上。" },
+                    { korean: "비누", chinese: "肥皂", exampleKo: "<span class='highlight-word'>비누</span>로 손을 깨끗이 씻어요.", exampleZh: "用肥皂把手洗乾淨。" },
+                    { korean: "수건", chinese: "毛巾", exampleKo: "샤워하고 <span class='highlight-word'>수건</span>으로 몸을 닦아요.", exampleZh: "洗完澡用毛巾擦身體。" }
+                ] 
             },
-            {
-                category: "15. 休閒活動",
-                type: "detailed",
-                items: [
-                    { korean: "음악", chinese: "音樂", exampleKo: "음악 들어요.", exampleZh: "我聽音樂。" },
-                    { korean: "영화", chinese: "電影", exampleKo: "영화 봐요.", exampleZh: "我看電影。" },
-                    { korean: "운동", chinese: "運動", exampleKo: "운동 해요.", exampleZh: "我做運動。" },
-                    { korean: "여행", chinese: "旅行", exampleKo: "여행 가요.", exampleZh: "我去旅行。" },
-                    { korean: "독서", chinese: "閱讀", exampleKo: "독서 해요.", exampleZh: "我閱讀。" }
-                ]
+            { 
+                id: "vocab-cat-study-supplies", 
+                category: "18. 學習用品", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "학용품", chinese: "學習用品", exampleKo: "새 학기가 되어서 <span class='highlight-word'>학용품</span>을 샀어요.", exampleZh: "新學期到了所以買了學習用品。" },
+                    { korean: "책", chinese: "書", exampleKo: "도서관에서 재미있는 <span class='highlight-word'>책</span>을 빌렸어요.", exampleZh: "在圖書館借了有趣的書。" }, 
+                    { korean: "연필", chinese: "鉛筆", exampleKo: "<span class='highlight-word'>연필</span>로 그림을 그렸어요.", exampleZh: "用鉛筆畫了圖。" }, 
+                    { korean: "공책", chinese: "筆記本", exampleKo: "수업 내용을 <span class='highlight-word'>공책</span>에 정리해요.", exampleZh: "把上課內容整理在筆記本上。" }, 
+                    { korean: "지우개", chinese: "橡皮擦", exampleKo: "틀린 글씨를 <span class='highlight-word'>지우개</span>로 지웠어요.", exampleZh: "用橡皮擦擦掉了錯字。" }, 
+                    { korean: "가위", chinese: "剪刀", exampleKo: "<span class='highlight-word'>가위</span>로 색종이를 오렸어요.", exampleZh: "用剪刀剪了色紙。" }, 
+                    { korean: "풀", chinese: "膠水", exampleKo: "종이를 <span class='highlight-word'>풀</span>로 붙였어요.", exampleZh: "用膠水把紙黏起來了。" }, 
+                    { korean: "필통", chinese: "鉛筆盒", exampleKo: "<span class='highlight-word'>필통</span> 안에 여러 가지 펜이 있어요.", exampleZh: "鉛筆盒裡有很多種筆。" },
+                    { korean: "자", chinese: "尺", exampleKo: "선을 그을 때는 <span class='highlight-word'>자</span>를 사용해요.", exampleZh: "畫線時使用尺。" },
+                    { korean: "볼펜", chinese: "原子筆", exampleKo: "파란색 <span class='highlight-word'>볼펜</span>으로 썼어요.", exampleZh: "用藍色原子筆寫的。" },
+                    { korean: "색연필", chinese: "彩色鉛筆", exampleKo: "<span class='highlight-word'>색연필</span>로 예쁘게 색칠해요.", exampleZh: "用彩色鉛筆漂亮地塗色。" },
+                    { korean: "노트북", chinese: "筆記型電腦", exampleKo: "과제를 하려고 <span class='highlight-word'>노트북</span>을 켰어요.", exampleZh: "為了做作業開了筆記型電腦。" }
+                ] 
             },
-            {
-                category: "16. 情緒與感覺",
-                type: "detailed",
-                items: [
-                    { korean: "기쁨", chinese: "高興", exampleKo: "기쁨 느껴요.", exampleZh: "感到高興。" },
-                    { korean: "슬픔", chinese: "悲傷", exampleKo: "슬픔 느껴요.", exampleZh: "感到悲傷。" },
-                    { korean: "화", chinese: "生氣", exampleKo: "화 나요.", exampleZh: "生氣了。" },
-                    { korean: "걱정", chinese: "擔心", exampleKo: "걱정 돼요.", exampleZh: "擔心了。" },
-                    { korean: "피곤", chinese: "疲勞", exampleKo: "피곤해요.", exampleZh: "很累。" }
-                ]
+            { 
+                id: "vocab-cat-produce-ingredients", 
+                category: "19. 蔬果與食材", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "채소", chinese: "蔬菜", exampleKo: "건강을 위해 <span class='highlight-word'>채소</span>를 많이 드세요.", exampleZh: "為了健康請多吃蔬菜。" },
+                    { korean: "과일", chinese: "水果", exampleKo: "제철 <span class='highlight-word'>과일</span>이 가장 맛있어요.", exampleZh: "當季水果最好吃。" },
+                    { korean: "사과", chinese: "蘋果", exampleKo: "아침에 <span class='highlight-word'>사과</span> 하나는 건강에 좋아요.", exampleZh: "早上一個蘋果有益健康。" }, 
+                    { korean: "바나나", chinese: "香蕉", exampleKo: "운동 후에 <span class='highlight-word'>바나나</span>를 먹으면 좋아요.", exampleZh: "運動後吃香蕉很好。" }, 
+                    { korean: "오이", chinese: "黃瓜", exampleKo: "시원한 <span class='highlight-word'>오이</span>무침을 만들었어요.", exampleZh: "做了涼拌小黃瓜。" }, 
+                    { korean: "당근", chinese: "紅蘿蔔", exampleKo: "<span class='highlight-word'>당근</span>은 눈 건강에 좋은 채소예요.", exampleZh: "紅蘿蔔是對眼睛好的蔬菜。" }, 
+                    { korean: "양파", chinese: "洋蔥", exampleKo: "볶음 요리에는 <span class='highlight-word'>양파</span>가 꼭 들어가요.", exampleZh: "炒菜裡一定要放洋蔥。" }, 
+                    { korean: "감자", chinese: "馬鈴薯", exampleKo: "<span class='highlight-word'>감자</span>튀김을 좋아해요.", exampleZh: "喜歡炸馬鈴薯條。" }, 
+                    { korean: "토마토", chinese: "番茄", exampleKo: "<span class='highlight-word'>토마토</span>는 과일일까요, 채소일까요?", exampleZh: "番茄是水果還是蔬菜呢？" },
+                    { korean: "딸기", chinese: "草莓", exampleKo: "봄에는 맛있는 <span class='highlight-word'>딸기</span>가 많이 나와요.", exampleZh: "春天會出很多好吃的草莓。" },
+                    { korean: "포도", chinese: "葡萄", exampleKo: "달콤한 <span class='highlight-word'>포도</span>를 한 송이 샀어요.", exampleZh: "買了一串甜葡萄。" },
+                    { korean: "수박", chinese: "西瓜", exampleKo: "여름에는 시원한 <span class='highlight-word'>수박</span>이 최고예요.", exampleZh: "夏天冰涼的西瓜最棒了。" },
+                    { korean: "마늘", chinese: "大蒜", exampleKo: "한국 요리에는 <span class='highlight-word'>마늘</span>이 많이 들어가요.", exampleZh: "韓國料理裡放很多大蒜。" },
+                    { korean: "생강", chinese: "薑", exampleKo: "감기에는 <span class='highlight-word'>생강</span>차가 좋아요.", exampleZh: "感冒喝薑茶很好。" },
+                    { korean: "고추", chinese: "辣椒", exampleKo: "매운 <span class='highlight-word'>고추</span>를 잘 못 먹어요.", exampleZh: "不太敢吃辣的辣椒。" }
+                ] 
             },
-            {
-                category: "17. 家電與日常用品",
-                type: "detailed",
-                items: [
-                    { korean: "텔레비전", chinese: "電視", exampleKo: "텔레비전 봐요.", exampleZh: "我看電視。" },
-                    { korean: "냉장고", chinese: "冰箱", exampleKo: "냉장고 있어요.", exampleZh: "有冰箱。" },
-                    { korean: "세탁기", chinese: "洗衣機", exampleKo: "세탁기 써요.", exampleZh: "我用洗衣機。" },
-                    { korean: "전자레인지", chinese: "微波爐", exampleKo: "전자레인지 써요.", exampleZh: "我用微波爐。" },
-                    { korean: "휴대폰", chinese: "手機", exampleKo: "휴대폰 써요.", exampleZh: "我用手機。" }
-                ]
-            },
-            {
-                category: "18. 學習用品",
-                type: "detailed",
-                items: [
-                    { korean: "책", chinese: "書", exampleKo: "책 읽어요.", exampleZh: "我讀書。" },
-                    { korean: "연필", chinese: "鉛筆", exampleKo: "연필 써요.", exampleZh: "我用鉛筆。" },
-                    { korean: "공책", chinese: "筆記本", exampleKo: "공책 써요.", exampleZh: "我用筆記本。" },
-                    { korean: "지우개", chinese: "橡皮擦", exampleKo: "지우개 써요.", exampleZh: "我用橡皮擦。" },
-                    { korean: "가위", chinese: "剪刀", exampleKo: "가위 써요.", exampleZh: "我用剪刀。" }
-                ]
-            },
-            {
-                category: "19. 蔬果與食材",
-                type: "detailed",
-                items: [
-                    { korean: "사과", chinese: "蘋果", exampleKo: "사과 먹어요.", exampleZh: "我吃蘋果。" },
-                    { korean: "바나나", chinese: "香蕉", exampleKo: "바나나 좋아해요.", exampleZh: "我喜歡香蕉。" },
-                    { korean: "오이", chinese: "黃瓜", exampleKo: "오이 먹어요.", exampleZh: "我吃黃瓜。" },
-                    { korean: "당근", chinese: "紅蘿蔔", exampleKo: "당근 요리해요.", exampleZh: "我做紅蘿蔔。" },
-                    { korean: "양파", chinese: "洋蔥", exampleKo: "양파 써요.", exampleZh: "我用洋蔥。" }
-                ]
-            },
-            {
-                category: "20. 飲料與甜點",
-                type: "detailed",
-                items: [
-                    { korean: "차", chinese: "茶", exampleKo: "차 마셔요.", exampleZh: "我喝茶。" },
-                    { korean: "주스", chinese: "果汁", exampleKo: "주스 마셔요.", exampleZh: "我喝果汁。" },
-                    { korean: "맥주", chinese: "啤酒", exampleKo: "맥주 마셔요.", exampleZh: "我喝啤酒。" },
-                    { korean: "아이스크림", chinese: "冰淇淋", exampleKo: "아이스크림 먹어요.", exampleZh: "我吃冰淇淋。" },
-                    { korean: "케이크", chinese: "蛋糕", exampleKo: "케이크 먹어요.", exampleZh: "我吃蛋糕。" }
-                ]
+            { 
+                id: "vocab-cat-drinks-desserts", 
+                category: "20. 飲料與甜點", 
+                type: "detailed", 
+                items: [ 
+                    { korean: "음료", chinese: "飲料", exampleKo: "식사 후에 어떤 <span class='highlight-word'>음료</span>를 드릴까요?", exampleZh: "餐後要給您什麼飲料呢？" },
+                    { korean: "디저트", chinese: "甜點", exampleKo: "밥보다 <span class='highlight-word'>디저트</span> 배는 따로 있어요.", exampleZh: "裝甜點的胃是另外的。" },
+                    { korean: "차", chinese: "茶", exampleKo: "따뜻한 유자<span class='highlight-word'>차</span> 한 잔 주세요.", exampleZh: "請給我一杯熱柚子茶。" }, 
+                    { korean: "주스", chinese: "果汁", exampleKo: "아침마다 신선한 <span class='highlight-word'>주스</span>를 마셔요.", exampleZh: "每天早上都喝新鮮果汁。" }, 
+                    { korean: "맥주", chinese: "啤酒", exampleKo: "퇴근 후에 시원한 <span class='highlight-word'>맥주</span> 한 잔이 생각나요.", exampleZh: "下班後會想喝一杯冰涼的啤酒。" }, 
+                    { korean: "아이스크림", chinese: "冰淇淋", exampleKo: "가장 좋아하는 <span class='highlight-word'>아이스크림</span> 맛은 뭐예요?", exampleZh: "最喜歡的冰淇淋口味是什麼？" }, 
+                    { korean: "케이크", chinese: "蛋糕", exampleKo: "생일에는 예쁜 <span class='highlight-word'>케이크</span>가 빠질 수 없죠.", exampleZh: "生日少不了漂亮的蛋糕。" }, 
+                    { korean: "사탕", chinese: "糖果", exampleKo: "아이에게 <span class='highlight-word'>사탕</span>을 너무 많이 주지 마세요.", exampleZh: "不要給孩子太多糖果。" }, 
+                    { korean: "초콜릿", chinese: "巧克力", exampleKo: "다크 <span class='highlight-word'>초콜릿</span>을 좋아해요.", exampleZh: "喜歡黑巧克力。" },
+                    { korean: "커피", chinese: "咖啡", exampleKo: "오후에 <span class='highlight-word'>커피</span> 한 잔 마시면 잠이 깨요.", exampleZh: "下午喝杯咖啡就能醒腦。" },
+                    { korean: "우유", chinese: "牛奶", exampleKo: "자기 전에 따뜻한 <span class='highlight-word'>우유</span> 한 잔 좋아요.", exampleZh: "睡前一杯溫牛奶很好。" },
+                    { korean: "탄산음료", chinese: "碳酸飲料", exampleKo: "<span class='highlight-word'>탄산음료</span>를 너무 많이 마시면 안 좋아요.", exampleZh: "喝太多碳酸飲料不好。" },
+                    { korean: "쿠키", chinese: "餅乾 (西式)", exampleKo: "직접 만든 <span class='highlight-word'>쿠키</span>예요. 드셔보세요.", exampleZh: "是親手做的餅乾，嚐嚐看吧。" },
+                    { korean: "도넛", chinese: "甜甜圈", exampleKo: "아침으로 <span class='highlight-word'>도넛</span>과 커피를 먹었어요.", exampleZh: "早餐吃了甜甜圈和咖啡。" }
+                ] 
             }
         ];
 
         document.addEventListener('DOMContentLoaded', function() {
-            var vocabContainer = document.getElementById('vocabulary-container'); // Changed const to var
-            if (!vocabContainer) {
-                console.error('單字容器 (vocabulary-container) 未找到!');
+            var vocabContainer = document.getElementById('vocabulary-container');
+            var unitSelect = document.getElementById('vocab-unit-select'); 
+
+            if (!vocabContainer || !unitSelect) {
+                console.error('單字容器或單元選擇器未找到!');
                 return;
             }
 
-            vocabularyData.forEach(function(categoryData) { // Changed to function expression
-                var categoryCard = document.createElement('div'); // Changed const to var
-                categoryCard.className = 'vocab-category-card rounded-xl shadow-xl p-6 md:p-8';
+            vocabularyData.forEach(function(categoryData) {
+                var option = document.createElement('option');
+                option.value = categoryData.id; 
+                option.textContent = categoryData.category;
+                unitSelect.appendChild(option);
 
-                var categoryTitleEl = document.createElement('h2'); // Changed const to var
+                var categoryCard = document.createElement('div');
+                categoryCard.id = categoryData.id; 
+                categoryCard.className = 'vocab-category-card p-6 md:p-8';
+
+                var categoryTitleEl = document.createElement('h2');
                 categoryTitleEl.className = 'text-2xl md:text-3xl font-bold category-title';
                 categoryTitleEl.textContent = categoryData.category;
                 categoryCard.appendChild(categoryTitleEl);
 
-                var itemsContainer = document.createElement('div'); // Changed const to var
+                var itemsContainer = document.createElement('div');
                 if (categoryData.type === "greetings") {
-                    itemsContainer.className = 'grid grid-cols-1 sm:grid-cols-2 gap-x-4';
-                    categoryData.items.forEach(function(item) { // Changed to function expression
-                        var div = document.createElement('div'); // Changed const to var
-                        div.className = 'greeting-item flex items-baseline';
-                        div.innerHTML = `<span class="greeting-ko text-lg">${sanitizeHTML(item.ko)}</span> <span class="greeting-zh">${sanitizeHTML(item.zh)}</span>`;
+                    itemsContainer.className = 'greeting-list'; 
+                    categoryData.items.forEach(function(item) {
+                        var div = document.createElement('div');
+                        div.className = 'greeting-item'; 
+                        div.innerHTML = `
+                            <span class="greeting-ko">${sanitizeHTML(item.ko)}</span>
+                            <span class="greeting-zh">${sanitizeHTML(item.zh)}</span>`;
                         itemsContainer.appendChild(div);
                     });
                 } else if (categoryData.type === "detailed") {
-                    itemsContainer.className = 'space-y-4'; // Each item will be a block
-                    categoryData.items.forEach(function(item) { // Changed to function expression
-                        var itemDiv = document.createElement('div'); // Changed const to var
-                        itemDiv.className = 'vocab-item';
+                    itemsContainer.className = 'grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4'; 
+                    categoryData.items.forEach(function(item) {
+                        var itemDiv = document.createElement('div');
+                        itemDiv.className = 'vocab-item-container'; 
+                        
+                        // Attempt to highlight the Korean word in the example sentence.
+                        // This is a simple replacement and might need refinement for complex cases (e.g., particles attached).
+                        var exampleKoHighlighted = item.exampleKo;
+                        if (item.korean && item.exampleKo) {
+                             // Create a regex that is safe for user input and matches whole word if possible
+                            var keywordRegex = new RegExp('(\\b' + item.korean.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b)', 'g');
+                            if (!keywordRegex.test(item.exampleKo)) { // If whole word match fails, try partial
+                                keywordRegex = new RegExp('(' + item.korean.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'g');
+                            }
+                            exampleKoHighlighted = item.exampleKo.replace(keywordRegex, `<span class='highlight-word'>$1</span>`);
+                        }
+
+
                         itemDiv.innerHTML = `
-                            <div class="flex items-baseline mb-1">
+                            <div class="korean-word-block">
                                 <h3 class="korean-word">${sanitizeHTML(item.korean)}</h3>
-                                <span class="chinese-meaning">(${sanitizeHTML(item.chinese)})</span>
+                                <span class="chinese-meaning">${sanitizeHTML(item.chinese)}</span>
                             </div>
-                            <div class="ml-2 space-y-1">
-                                <p class="example-sentence"><strong class="example-label">例句：</strong> <span lang="ko">${sanitizeHTML(item.exampleKo)}</span></p>
-                                <p class="translation"><strong class="example-label">翻譯：</strong> ${sanitizeHTML(item.exampleZh)}</p>
+                            <div class="example-block">
+                                <p class="example-sentence"><strong class="example-label">例：</strong> <span lang="ko">${exampleKoHighlighted}</span></p>
+                                <p class="translation"><strong class="example-label">譯：</strong> ${sanitizeHTML(item.exampleZh)}</p>
                             </div>
                         `;
                         itemsContainer.appendChild(itemDiv);
@@ -414,16 +766,35 @@
                 vocabContainer.appendChild(categoryCard);
             });
 
-            var yearSpan = document.getElementById('current-year'); // Changed const to var
+            unitSelect.addEventListener('change', function() {
+                var selectedUnitId = this.value;
+                if (selectedUnitId) {
+                    var targetElement = document.getElementById(selectedUnitId);
+                    if (targetElement) {
+                        var headerHeight = document.querySelector('header')?.offsetHeight || 0;
+                        var selectorHeight = document.querySelector('.unit-selector-container')?.offsetHeight || 0;
+                        var offset = headerHeight + selectorHeight + 20; 
+
+                        var elementPosition = targetElement.getBoundingClientRect().top;
+                        var offsetPosition = elementPosition + window.pageYOffset - offset;
+                        
+                        window.scrollTo({
+                            top: offsetPosition,
+                            behavior: 'smooth'
+                        });
+                    }
+                }
+            });
+
+            var yearSpan = document.getElementById('current-year');
             if (yearSpan) {
                 yearSpan.textContent = new Date().getFullYear();
             }
 
-            // Mobile menu toggle
-            var menuButton = document.getElementById('mobile-menu-button'); // Changed const to var
-            var mobileMenu = document.getElementById('mobile-menu'); // Changed const to var
+            var menuButton = document.getElementById('mobile-menu-button');
+            var mobileMenu = document.getElementById('mobile-menu');
             if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', function() { // Changed to function expression
+                menuButton.addEventListener('click', function() {
                     mobileMenu.classList.toggle('hidden');
                 });
             }
@@ -431,7 +802,7 @@
 
         function sanitizeHTML(str) {
             if (typeof str !== 'string') return '';
-            var temp = document.createElement('div'); // Changed const to var
+            var temp = document.createElement('div');
             temp.textContent = str;
             return temp.innerHTML;
         }
