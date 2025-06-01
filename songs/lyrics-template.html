@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>歌曲學習 - LMT韓語學習區</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        body {
+            font-family: 'Roboto', 'Noto Sans KR', sans-serif;
+            background-color: #0F172A; 
+            color: #E2E8F0; 
+        }
+        .song-header {
+            border-bottom: 1px solid #334155; /* slate-700 */
+            padding-bottom: 1.5rem; /* mb-6 */
+        }
+        .lyrics-section-title { /* Style for section titles like Chorus, Verse */
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-size: 1.25rem; /* text-xl */
+            font-weight: 600; /* semibold */
+            color: #A5B4FC; /* indigo-300 */
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #475569; /* slate-600 */
+        }
+        .lyrics-line-block {
+            background-color: #1E293B; 
+            border-radius: 0.5rem; 
+            padding: 1rem 1.25rem; /* Adjusted padding */
+            margin-bottom: 1rem; /* Reduced margin */
+            border-left: 4px solid #3B82F6; 
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+        }
+        .korean-lyric {
+            font-family: 'Noto Sans KR', sans-serif;
+            font-size: 1.25rem; /* text-xl, slightly reduced */
+            font-weight: 500;
+            color: #A5F3FC; 
+            margin-bottom: 0.25rem; 
+            line-height: 1.6; /* Adjusted line height */
+        }
+        .translation-lyric {
+            font-size: 0.95rem; /* Slightly reduced */
+            color: #CBD5E1; 
+            margin-bottom: 0.75rem; /* Reduced margin */
+            line-height: 1.6;
+            font-style: italic;
+        }
+        .analysis-toggle {
+            display: inline-flex; /* Use flex for icon alignment */
+            align-items: center;
+            background-color: #334155; 
+            color: #94A3B8; 
+            padding: 0.25rem 0.75rem; /* Adjusted padding */
+            border-radius: 0.375rem;
+            font-size: 0.75rem; /* text-xs */
+            cursor: pointer;
+            transition: background-color 0.2s ease, color 0.2s ease;
+            margin-top: 0.5rem;
+            border: 1px solid #475569;
+        }
+        .analysis-toggle svg { /* Style for the chevron icon */
+            width: 0.75rem; /* h-3 w-3 */
+            height: 0.75rem;
+            margin-left: 0.25rem;
+            transition: transform 0.2s ease-in-out;
+        }
+        .analysis-toggle[aria-expanded="true"] svg {
+            transform: rotate(180deg);
+        }
+        .analysis-toggle:hover {
+            background-color: #475569; 
+            color: #E2E8F0;
+        }
+        .analysis-content {
+            margin-top: 0.75rem; 
+            padding-left: 1rem; 
+            border-left: 2px dashed #475569;
+            font-size: 0.875rem; 
+            color: #CBD5E1;
+            background-color: rgba(41, 53, 72, 0.2); /* Slightly more subtle bg */
+            padding: 0.625rem; /* p-2.5 */
+            border-radius: 0.375rem;
+        }
+        .analysis-point {
+            margin-bottom: 0.5rem; 
+        }
+        .analysis-point strong {
+            color: #818CF8; 
+            font-weight: 500;
+        }
+        .key-vocab-section {
+            margin-top: 2.5rem;
+            padding: 1.5rem;
+            background-color: #1E293B;
+            border-radius: 0.5rem;
+            border: 1px solid #334155;
+        }
+         .key-vocab-title {
+            color: #67E8F9; 
+            font-size: 1.5rem; 
+            font-weight: 600; 
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid #475569;
+        }
+        .key-vocab-item {
+            margin-bottom: 0.5rem;
+        }
+        .key-vocab-ko {
+            font-weight: 500;
+            color: #A5F3FC; 
+        }
+        .key-vocab-details {
+            color: #CBD5E1;
+            font-size: 0.9rem;
+        }
+        /* Overall notes section removed */
+
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: #1E293B; }
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #64748B; }
+    </style>
+</head>
+<body class="antialiased">
+    <header class="bg-slate-900 text-white shadow-lg sticky top-0 z-50">
+        <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center">
+                    <a href="../index.html" class="text-2xl font-bold text-sky-400 hover:text-sky-300 transition-colors">LMT韓語學習區</a>
+                </div>
+                <div class="hidden md:flex space-x-4">
+                    <a href="../index.html" class="nav-link">首頁</a>
+                    <a href="../grammar/index.html" class="nav-link">文法教學</a>
+                    <a href="../vocabulary/index.html" class="nav-link">單字學習</a>
+                    <a href="./index.html" class="nav-link active">歌曲教學</a> 
+                </div>
+                <div class="md:hidden">
+                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div id="mobile-menu" class="md:hidden hidden pb-3">
+                <a href="../index.html" class="mobile-nav-link block">首頁</a>
+                <a href="../grammar/index.html" class="mobile-nav-link block">文法教學</a>
+                <a href="../vocabulary/index.html" class="mobile-nav-link block">單字學習</a>
+                <a href="./index.html" class="mobile-nav-link block active">歌曲教學</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
+        <div id="song-details-container">
+            <p class="text-center text-gray-400">正在載入歌曲資訊...</p>
+        </div>
+    </main>
+
+    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
+        <p>© <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
+        <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
+    </footer>
+
+    <script>
+        function sanitizeHTML(str) {
+            if (typeof str !== 'string') return '';
+            var temp = document.createElement('div');
+            temp.textContent = str;
+            return temp.innerHTML;
+        }
+
+        function renderSongDetails(songData) {
+            var container = document.getElementById('song-details-container');
+            if (!container) {
+                console.error("Song details container not found!");
+                return;
+            }
+            container.innerHTML = ''; 
+
+            document.title = sanitizeHTML(songData.title) + " - 歌曲學習 - LMT韓語學習區"; 
+
+            var songInfoHTML = `
+                <div class="text-center mb-8 song-header">
+                    <h1 class="text-4xl md:text-5xl font-bold text-indigo-300 mb-2">${sanitizeHTML(songData.title)}</h1>
+                    <p class="text-xl text-slate-400">${sanitizeHTML(songData.artist)}</p>
+                </div>
+            `;
+            container.innerHTML += songInfoHTML;
+
+            var lyricsSection = document.createElement('section');
+            lyricsSection.id = 'lyrics-section';
+            
+            songData.lines.forEach(function(line, index) {
+                // Check for and render section title
+                if (line.sectionTitle) {
+                    var sectionTitleEl = document.createElement('h2');
+                    sectionTitleEl.className = 'lyrics-section-title';
+                    sectionTitleEl.textContent = sanitizeHTML(line.sectionTitle);
+                    lyricsSection.appendChild(sectionTitleEl);
+                }
+
+                var lineBlock = document.createElement('div');
+                lineBlock.className = 'lyrics-line-block';
+
+                var analysisHTML = '';
+                var analysisContentId = `analysis-content-${index}`;
+                if (line.analysis && line.analysis.length > 0) {
+                    analysisHTML = `<div id="${analysisContentId}" class="analysis-content hidden space-y-1">`; 
+                    line.analysis.forEach(function(point) {
+                        // Ensure full explanation for each point
+                        analysisHTML += `<div class="analysis-point"><strong>${sanitizeHTML(point.point)}:</strong> ${sanitizeHTML(point.explanation)}</div>`;
+                    });
+                    analysisHTML += '</div>';
+                }
+
+                lineBlock.innerHTML = `
+                    <p class="korean-lyric" lang="ko">${sanitizeHTML(line.korean)}</p>
+                    <p class="translation-lyric">${sanitizeHTML(line.translation)}</p>
+                    ${analysisHTML ? `<button class="analysis-toggle" aria-expanded="false" aria-controls="${analysisContentId}">
+                                        查看解析 
+                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="inline-block">
+                                          <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                                        </svg>
+                                     </button>` : ''}
+                    ${analysisHTML} 
+                `;
+                lyricsSection.appendChild(lineBlock);
+            });
+            container.appendChild(lyricsSection);
+            
+            if (songData.keyVocabulary && songData.keyVocabulary.length > 0) {
+                var vocabHTML = '<div class="key-vocab-section"><h3 class="key-vocab-title">核心單字</h3><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-2">';
+                songData.keyVocabulary.forEach(function(vocab) {
+                    vocabHTML += `<div class="key-vocab-item"><strong class="key-vocab-ko" lang="ko">${sanitizeHTML(vocab.korean)}:</strong> <span class="key-vocab-details">${sanitizeHTML(vocab.chinese)} (${sanitizeHTML(vocab.pos)})</span></div>`;
+                });
+                vocabHTML += '</div></div>';
+                container.innerHTML += vocabHTML;
+            }
+
+            // Add event listeners for analysis toggles
+            document.querySelectorAll('.analysis-toggle').forEach(function(button) {
+                button.addEventListener('click', function() {
+                    var targetId = this.getAttribute('aria-controls');
+                    var content = document.getElementById(targetId); 
+                    if (content && content.classList.contains('analysis-content')) {
+                        var isHidden = content.classList.toggle('hidden');
+                        this.setAttribute('aria-expanded', !isHidden);
+                        var icon = this.querySelector('svg');
+                        this.innerHTML = `${isHidden ? '查看解析' : '隱藏解析'} 
+                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor" class="inline-block" style="width:0.75rem; height:0.75rem; transition: transform 0.2s ease-in-out; transform: ${isHidden ? 'rotate(0deg)' : 'rotate(180deg)'};">
+                                           <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                                         </svg>`;
+                    }
+                });
+            });
+        }
+
+
+        document.addEventListener('DOMContentLoaded', function() {
+            var songDetailsContainer = document.getElementById('song-details-container');
+            var params = new URLSearchParams(window.location.search);
+            var songId = params.get('songId');
+
+            if (!songId) {
+                if(songDetailsContainer) songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">錯誤：未指定歌曲 ID。請由歌曲列表頁進入。</p>';
+                return;
+            }
+            
+            var jsonFileUrl = '';
+            try {
+                jsonFileUrl = new URL('../data/lyrics/' + sanitizeHTML(songId) + '.json', window.location.href).href;
+            } catch(e) {
+                console.error("Error creating URL for lyrics JSON:", e);
+                 if(songDetailsContainer) songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">無法解析歌曲資料檔案路徑。</p>';
+                return;
+            }
+
+            fetch(jsonFileUrl)
+                .then(function(response) {
+                    if (!response.ok) {
+                        throw new Error('HTTP error ' + response.status + ' while fetching ' + jsonFileUrl + '. 檔案可能不存在或路徑錯誤。');
+                    }
+                    return response.json();
+                })
+                .then(function(songData) {
+                    renderSongDetails(songData);
+                })
+                .catch(function(error) {
+                    console.error('無法載入歌曲資料:', error);
+                    if(songDetailsContainer) {
+                         songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">歌曲資料載入失敗，請確認歌曲ID或對應的JSON檔案 ('+ sanitizeHTML(songId) +'.json) 是否存在於 data/lyrics/ 資料夾且格式正確。</p>';
+                    }
+                });
+
+            var yearSpan = document.getElementById('current-year');
+            if (yearSpan) {
+                yearSpan.textContent = new Date().getFullYear();
+            }
+
+            var menuButton = document.getElementById('mobile-menu-button');
+            var mobileMenu = document.getElementById('mobile-menu');
+            if(menuButton && mobileMenu) {
+                menuButton.addEventListener('click', function() {
+                    mobileMenu.classList.toggle('hidden');
+                });
+            }
+        });
+    </script>
+    <script src="../js/main.js"></script>
+</body>
+</html>
