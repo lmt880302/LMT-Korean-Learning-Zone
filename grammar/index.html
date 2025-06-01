@@ -7,63 +7,63 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
     <style>
         body {
             font-family: 'Roboto', 'Noto Sans KR', sans-serif;
-            background-color: #121826;
-            color: #E0E7FF;
+            background-color: #0F172A; /* Changed to match vocabulary page for consistency */
+            color: #E2E8F0;
         }
         .grammar-card {
-            background-color: #1F2937;
-            border: 1px solid #374151;
+            background-color: #1E293B; /* Changed to match vocabulary page */
+            border: 1px solid #334155; /* Changed to match vocabulary page */
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         .grammar-card:hover {
             transform: translateY(-5px);
-            box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+            box-shadow: 0 10px 20px rgba(59, 130, 246, 0.25); /* Adjusted shadow to match vocabulary */
         }
         .grammar-rule-title {
-            color: #7DD3FC;
+            color: #67E8F9; /* Changed to match vocabulary page */
             font-weight: 700;
         }
         .category-heading {
-            color: #A5B4FC;
-            border-bottom: 2px solid #4F46E5;
+            color: #93C5FD; /* Changed to match vocabulary page */
+            border-bottom: 2px solid #3B82F6; /* Changed to match vocabulary page */
             padding-bottom: 0.75rem;
             margin-bottom: 2rem;
-            scroll-margin-top: 120px; /* Adjusted for sticky header + selector */
+            scroll-margin-top: 140px; /* Adjusted for sticky header + selector */
         }
         .subcategory-heading {
-            color: #6EE7B7;
+            color: #86EFAC; /* Changed to match vocabulary page greeting-ko for sub-headers */
             margin-top: 2rem;
             margin-bottom: 1.5rem;
             font-size: 1.5em;
             font-weight: 600;
             padding-bottom: 0.5rem;
-            border-bottom: 1px dashed #374151;
-            scroll-margin-top: 120px; /* Adjusted for sticky header + selector */
+            border-bottom: 1px dashed #334155; /* Changed to match vocabulary page */
+            scroll-margin-top: 140px; 
         }
         ::-webkit-scrollbar { width: 8px; height: 8px; }
-        ::-webkit-scrollbar-track { background: #1F2937; }
-        ::-webkit-scrollbar-thumb { background: #4A5568; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #718096; }
+        ::-webkit-scrollbar-track { background: #1E293B; } /* Changed to match vocabulary page */
+        ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; } /* Changed to match vocabulary page */
+        ::-webkit-scrollbar-thumb:hover { background: #64748B; } /* Changed to match vocabulary page */
         [lang="ko"] { font-family: 'Noto Sans KR', sans-serif; }
-        .detail-label { font-weight: 500; color: #93C5FD; }
-        .example-text, .vocab-text, .memory-text { line-height: 1.65; }
+        .detail-label { font-weight: 500; color: #818CF8; } /* Changed to match vocabulary page */
+        .example-text, .vocab-text, .memory-text { line-height: 1.65; color: #CBD5E1; } /* Changed to match vocabulary page */
 
         .unit-selector-container {
-            background-color: rgba(31, 41, 55, 0.85); /* Tailwind gray-800 with opacity */
+            background-color: rgba(30, 41, 59, 0.9); 
             padding: 1rem 1.5rem;
             border-radius: 0.75rem; 
             margin-bottom: 2.5rem; 
-            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
             position: sticky; 
-            top: 70px; /* Height of the header */
+            top: 70px; 
             z-index: 40; 
-            backdrop-filter: blur(8px); 
-            -webkit-backdrop-filter: blur(8px); 
+            backdrop-filter: blur(10px); 
+            -webkit-backdrop-filter: blur(10px); 
         }
         .unit-selector-label {
             color: #A5B4FC; 
@@ -71,11 +71,11 @@
             font-weight: 500;
         }
         .unit-selector {
-            background-color: #374151; 
+            background-color: #334155; 
             color: #E0E7FF; 
-            border: 1px solid #4B5563; 
+            border: 1px solid #475569; 
             border-radius: 0.5rem; 
-            padding: 0.5rem 2.5rem 0.5rem 0.75rem; 
+            padding: 0.6rem 2.5rem 0.6rem 0.75rem; 
             appearance: none; 
             background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3E%3Cpath stroke='%239CA3AF' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3E%3C/svg%3E");
             background-repeat: no-repeat;
@@ -86,18 +86,18 @@
         @media (min-width: 640px) { 
             .unit-selector {
                 width: auto; 
-                min-width: 250px; 
+                min-width: 280px; 
             }
         }
         .unit-selector:focus {
             outline: none;
             border-color: #6366F1; 
-            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.4);
         }
     </style>
 </head>
 <body class="antialiased">
-    <header class="bg-gray-900 text-white shadow-lg sticky top-0 z-50">
+    <header class="bg-slate-900 text-white shadow-lg sticky top-0 z-50">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
@@ -137,294 +137,72 @@
         </div>
 
         <div id="grammar-container" class="space-y-12 mt-6">
-            </div>
+            <p class="text-center text-gray-400">正在載入文法資料...</p>
+        </div>
     </main>
 
-    <footer class="bg-gray-900 text-gray-400 text-center py-8 mt-12 border-t border-gray-700">
+    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
         <p>&copy; <span id="current-year"></span> LMT韓語學習區. All Rights Reserved.</p>
         <p class="text-sm">致力於提供簡潔易懂的韓語學習資源。</p>
     </footer>
 
     <script>
-        var grammarData = [
-            {
-                category: "一、基本助詞 (Basic Particles)",
-                id: "cat-basic-particles",
-                rules: [
-                    { rule: "N-은/는", description: "表示主題或對比。", example: "저는 학생이에요. (我是學生。)", words: "저 (我)、학생 (學生)", memory: "「은/는」像中文「是」或「至於」，用來強調主題。" },
-                    { rule: "N-이/가", description: "表示主語。", example: "비가 와요. (下雨了。)", words: "비 (雨)、사람 (人)", memory: "「이/가」像「誰做了什麼」的主詞。" },
-                    { rule: "N-을/를", description: "表示賓語。", example: "책을 읽어요. (看書。)", words: "책 (書)、물 (水)", memory: "「을/를」像「把」或「對」後面的東西。" },
-                    { rule: "N-에", description: "表示場所、時間、方向、原因等。", example: "학교에 가요. (去學校。)", words: "학교 (學校)、집 (家)", memory: "「에」像「在」、「到」，用在時間、地點。" },
-                    { rule: "N-에서", description: "表示動作發生的場所、出發點。", example: "집에서 공부해요. (在家裡學習。)", words: "집 (家)、식당 (餐廳)", memory: "「에서」像「在...地方做...」。" },
-                    { rule: "N-에게/한테", description: "表示動作的對象 (通常是人或動物)。", example: "친구에게 편지를 써요. (寫信給朋友。)", words: "친구 (朋友)、엄마 (媽媽)", memory: "「에게/한테」像「給...」或「對...」。" },
-                    { rule: "N-께", description: "에게/한테的敬語。", example: "선생님께 인사해요. (向老師問好。)", words: "선생님 (老師)、부모님 (父母)", memory: "對長輩、上司用「께」。" },
-                    { rule: "N-(으)로", description: "表示方向、手段、材料、資格、原因等。", example: "버스로 학교에 가요. (搭公車去學校。)", words: "버스 (公車)、지하철 (地鐵)", memory: "「(으)로」像「用...」、「往...」。" },
-                    { rule: "N-와/과", description: "表示「和」、「與」 (多用於書面或正式場合)。", example: "사과와 바나나를 먹어요. (吃蘋果和香蕉。)", words: "사과 (蘋果)、바나나 (香蕉)", memory: "「와/과」像中文的「和」。" },
-                    { rule: "N-(이)랑/하고", description: "表示「和」、「與」 (多用於口語)。", example: "친구랑 놀아요. (跟朋友玩。)", words: "친구 (朋友)、동생 (弟弟/妹妹)", memory: "「(이)랑/하고」像中文口語的「跟...」。" },
-                    { rule: "N-의", description: "表示所有格「的」。", example: "제 책이에요. (是我的書。)", words: "나 (我)、책 (書)", memory: "「의」就是中文的「的」。" },
-                    { rule: "N-도", description: "表示「也」、「還」。", example: "저도 가요. (我也去。)", words: "저 (我)、너 (你)", memory: "「도」就是中文的「也」。" },
-                    { rule: "N-만", description: "表示「只」、「僅」。", example: "물만 마셔요. (只喝水。)", words: "물 (水)、밥 (飯)", memory: "「만」就是中文的「只」。" },
-                    { rule: "N-부터", description: "表示「從...開始」 (時間、順序)。", example: "아침부터 공부해요. (從早上開始學習。)", words: "아침 (早上)、점심 (中午)", memory: "「부터」像中文的「從...開始」。" },
-                    { rule: "N-까지", description: "表示「到...為止」 (時間、場所)。", example: "학교까지 걸어가요. (走路到學校。)", words: "학교 (學校)、집 (家)", memory: "「까지」像中文的「到...為止」。" },
-                    { rule: "N-(이)나", description: "表示「或者」 (選擇)，或者表示比預期多、強調數量。", example: "사과나 바나나를 먹어요. (吃蘋果或香蕉。)", words: "사과 (蘋果)、바나나 (香蕉)", memory: "「(이)나」像中文的「或者」、「竟然有...」。" }
-                ]
-            },
-            {
-                category: "二、連接詞尾 (Connective Endings)",
-                id: "cat-connective-endings",
-                rules: [
-                    { rule: "V/A-고", description: "然後，並且 (單純連接)。", example: "밥 먹고 공부해요. (吃完飯然後學習。)", words: "밥 (飯)、공부 (學習)", memory: "「고」像中文的「然後」。" },
-                    { rule: "V-고 나서", description: "做完...之後。", example: "밥 먹고 나서 산책해요. (吃完飯之後散步。)", words: "밥 (飯)、산책 (散步)", memory: "「고 나서」像「做完...之後」。" },
-                    { rule: "V/A-(으)나", description: "然而，但是 (書面語)。", example: "비가 오나 나가요. (雖然下雨，但我還是出去。)", words: "비 (雨)、나가다 (出去)", memory: "「(으)나」像中文的「但是」。" },
-                    { rule: "V/A-지만", description: "雖然...但是...。", example: "비가 오지만 나가요. (雖然下雨，但我還是出去。)", words: "비 (雨)、나가다 (出去)", memory: "「지만」像中文的「雖然...但是...」。" },
-                    { rule: "V/A-(으)ㄴ/는데", description: "... 그런데/그래서 (提示背景、轉折、原因)。", example: "비가 오는데 우산이 없어요. (下雨了，但是我沒有雨傘。)", words: "비 (雨)、우산 (雨傘)", memory: "「(으)ㄴ/는데」像中文的「...然後」、「...不過」。" },
-                    { rule: "V-느라고", description: "因為 (忙於做某事而產生後項結果，多為負面)。", example: "공부하느라고 잠을 못 잤어요. (因為忙著讀書所以沒睡覺。)", words: "공부 (學習)、잠 (覺)", memory: "「느라고」像「因為忙著...所以...」。" },
-                    { rule: "V-는 바람에", description: "因為...所以... (多用於產生了意料之外的消極結果)。", example: "비가 오는 바람에 집에 있어요. (因為下雨所以待在家裡。)", words: "비 (雨)、집 (家)", memory: "「는 바람에」像「因為...所以...（結果不好）」。" },
-                    { rule: "V-다 보면", description: "如果持續做...的話，就會發現...。", example: "공부하다 보면 실력이 늘어요. (如果一直讀書，實力就會進步。)", words: "공부 (學習)、실력 (實力)", memory: "「다 보면」像「如果一直...就會...」。" },
-                    { rule: "V/A-(으)ㄹ수록", description: "越...越...。", example: "공부할수록 재미있어요. (越讀書越有趣。)", words: "공부 (學習)、재미있다 (有趣)", memory: "「(으)ㄹ수록」像中文的「越...越...」。" },
-                    { rule: "V/A-(으)니까", description: "因為...所以... (主觀理由，或用於命令句、共動句前)。", example: "배고프니까 밥을 먹어요. (因為餓了，所以吃飯吧。)", words: "배고프다 (餓)、밥 (飯)", memory: "「(으)니까」像「因為...所以...（主觀）」。" },
-                    { rule: "V/A-아/어/여서", description: "因為...所以... (客觀理由，時間順序的「然後」)。", example: "비가 와서 집에 있어요. (因為下雨，所以待在家裡。)", words: "비 (雨)、집 (家)", memory: "「아/어/여서」像「因為...所以...（客觀）」或「然後」。" },
-                    { rule: "V/A-(으)면", description: "如果...的話。", example: "비가 오면 집에 있어요. (如果下雨的話，就待在家裡。)", words: "비 (雨)、집 (家)", memory: "「(으)면」像「如果...的話」。" },
-                    { rule: "V/A-더라도", description: "即使...也...。", example: "비가 오더라도 나가요. (即使下雨也出去。)", words: "비 (雨)、나가다 (出去)", memory: "「더라도」像「即使...也...」。" },
-                    { rule: "V/A-거나", description: "或者。", example: "책을 읽거나 영화를 봐요. (看書或者看電影。)", words: "책 (書)、영화 (電影)", memory: "「거나」像中文的「或者」。" },
-                    { rule: "V-(으)려고", description: "為了要...，打算要...。", example: "공부하려고 도서관에 가요. (為了讀書去圖書館。)", words: "공부 (學習)、도서관 (圖書館)", memory: "「(으)려고」像「為了要...」。" },
-                    { rule: "V-(으)러", description: "為了 (表目的，後常接 가다/오다 等移動動詞)。", example: "밥 먹으러 식당에 가요. (為了吃飯去餐廳。)", words: "밥 (飯)、식당 (餐廳)", memory: "「(으)러」像「為了...去/來」。" },
-                    { rule: "V-기 위해서 / N-을/를 위해서", description: "為了...。", example: "공부하기 위해서 도서관에 가요. (為了讀書去圖書館。)", words: "공부 (學習)、도서관 (圖書館)", memory: "「기 위해서」像「為了...」。" },
-                    { rule: "V-고자 하다", description: "想要，試圖 (書面語)。", example: "공부하고자 해요. (想要讀書。)", words: "공부 (學習)、하다 (做)", memory: "「고자 하다」像「想要...」。" },
-                    { rule: "V-도록", description: "以便能...，到...程度。", example: "잘 보도록 가까이 와요. (為了看清楚走近一點。)", words: "보다 (看)、가까이 (近)", memory: "「도록」像「以便...」。" },
-                    { rule: "V-(으)면서", description: "一邊...一邊...。", example: "음악을 들으면서 공부해요. (一邊聽音樂一邊讀書。)", words: "음악 (音樂)、공부 (學習)", memory: "「(으)면서」像「一邊...一邊...」。" },
-                    { rule: "V-아/어/여야", description: "必須...才能... (連接後續子句的條件)。", example: "공부해야 성공해요. (必須讀書才能成功。)", words: "공부 (學習)、성공 (成功)", memory: "「아/어/여야」像「必須...才能...」。" },
-                    { rule: "N-(이)든지 N-(이)든지", description: "無論是...還是...都...。", example: "사과든지 바나나든지 다 좋아요. (無論是蘋果還是香蕉都很好。)", words: "사과 (蘋果)、바나나 (香蕉)", memory: "「(이)든지」像「無論是...還是...」。" },
-                    { rule: "A/V-든지 A/V-든지", description: "無論(做)A還是(做)B都...。", example: "먹든지 말든지 상관없어요. (無論吃還是不吃都沒關係。)", words: "먹다 (吃)、말다 (不做)", memory: "同上，動詞、形容詞皆可用。" }
-                ]
-            },
-            {
-                category: "三、終結詞尾 (Sentence Closing Endings)",
-                id: "cat-sentence-closing-endings",
-                subcategories: [
-                    {
-                        name: "陳述句 (Declarative)",
-                        id: "subcat-declarative",
-                        rules: [
-                            { rule: "A/V-(스)ㅂ니다", description: "格式體尊敬，表示「是/做...」。", example: "저는 학생이에요. (我是學生。)", words: "저 (我)、학생 (學生)", memory: "「ㅂ니다」像「報告」語氣，正式場合用。" },
-                            { rule: "A/V-아/어/여요", description: "非格式體尊敬，表示「是/做...」。", example: "저는 학생이에요. (我是學生。)", words: "저 (我)、학생 (學生)", memory: "「요」結尾，日常禮貌用。" },
-                            { rule: "N-이다 / N-이/가 아니다", description: "是/不是 N。", example: "이것은 책이에요. (這是書。) / 이것은 책이 아니에요. (這不是書。)", words: "책 (書)、사람 (人)", memory: "「이다」=「是」，「아니다」=「不是」。" },
-                            { rule: "N-이에요/예요", description: "非格式體尊敬，是 N。", example: "이건 책이에요. (這是書。)", words: "책 (書)、사과 (蘋果)", memory: "「이에요/예요」=「是（禮貌）」。" },
-                            { rule: "A/V-거든요", description: "用於說明對方可能不知道的理由或事實。", example: "비가 오거든요. (因為下雨啊。)", words: "비 (雨)、가다 (去)", memory: "「거든요」像「因為啊」，解釋用。" },
-                            { rule: "A/V-네요", description: "表示感嘆或發現。", example: "예쁘네요. (好漂亮啊。)", words: "예쁘다 (漂亮)、좋다 (好)", memory: "「네요」像「啊」，驚嘆用。" },
-                            { rule: "V-는걸요", description: "帶有輕微辯解或與對方預期不符的語氣。", example: "나도 가는걸요. (我也要去呢。)", words: "가다 (去)、먹다 (吃)", memory: "「는걸요」像「呢」，辯解用。" },
-                            { rule: "A-답니다 / V-는답니다 / N-(이)랍니다", description: "告知消息，較親切。", example: "좋대요. (聽說很好。) / 간대요. (聽說要去。)", words: "좋다 (好)、가다 (去)", memory: "「답니다/랍니다」像「聽說」。" },
-                            { rule: "A/V-잖아요", description: "不是...嗎? (提醒對方已知事實)。", example: "너도 좋잖아요. (你不是也喜歡嗎？)", words: "좋다 (好)、알다 (知道)", memory: "「잖아요」像「不是...嗎」。" }
-                        ]
-                    },
-                    {
-                        name: "疑問句 (Interrogative)",
-                        id: "subcat-interrogative",
-                        rules: [
-                             { rule: "A/V-(스)ㅂ니까?", description: "格式體尊敬，...嗎?。", example: "매일 운동을 해요? (你每天運動嗎？)", words: "운동 (運動)、가다 (去)", memory: "「ㅂ니까」=正式疑問。" },
-                             { rule: "A/V-(으)ㄹ까요?", description: "推測或詢問意見，會...嗎?/要不要...?。", example: "갈까요? (要一起去嗎？)", words: "가다 (去)、먹다 (吃)", memory: "「(으)ㄹ까요」像「要不要...」。" },
-                             { rule: "V-나요? / A-(으)ㄴ가요?", description: "比 아/어요 更柔和，...嗎?。", example: "가나요? (去嗎？) / 좋은가요? (好嗎？)", words: "가다 (去)、좋다 (好)", memory: "「나요/가요」=柔和問法。" },
-                             { rule: "A/V-지요? / -죠?", description: "確認已知事實或徵求同意，...吧?。", example: "가죠? (去吧？) / 좋지요? (好吧？)", words: "가다 (去)、좋다 (好)", memory: "「지요/죠」=「吧」，確認用。" }
-                        ]
-                    },
-                    {
-                        name: "命令句 (Imperative)",
-                        id: "subcat-imperative",
-                        rules: [
-                            { rule: "V-(으)십시오", description: "格式體尊敬，請...。", example: "가세요. (請去。)", words: "가다 (去)、먹다 (吃)", memory: "「십시오」=正式命令。" },
-                            { rule: "V-(으)세요", description: "非格式體尊敬，請...。", example: "가세요. (請去。)", words: "가다 (去)、먹다 (吃)", memory: "「세요」=日常禮貌命令。" },
-                            { rule: "V-지 마세요 / V-지 마십시오", description: "請不要...。", example: "가지 마세요. (請不要去。)", words: "가다 (去)、먹다 (吃)", memory: "「지 마세요」=「請不要」。" },
-                            { rule: "V-아/어/여라 (반말)", description: "非格式體，對下，...吧。", example: "가세요. (去吧。)", words: "가다 (去)、먹다 (吃)", memory: "「아/어/여라」=對下或親密。" }
-                        ]
-                    },
-                    {
-                        name: "共動句 (Propositive/Let's...)",
-                        id: "subcat-propositive",
-                        rules: [
-                            { rule: "V-(으)ㅂ시다", description: "格式體尊敬，一起...吧。", example: "같이 가요. (一起去吧。)", words: "가다 (去)、먹다 (吃)", memory: "「ㅂ시다」=正式邀請。" },
-                            { rule: "V-아/어/여요 (같이)", description: "非格式體尊敬，(一起)...吧 (語氣上揚)。", example: "같이 가요. (一起去吧。)", words: "가다 (去)、먹다 (吃)", memory: "「가요」=禮貌邀請。" },
-                            { rule: "V-자 (반말)", description: "非格式體，對下或平輩，...吧。", example: "같이 가요. (一起去吧。)", words: "가다 (去)、먹다 (吃)", memory: "「자」=親密或對下邀請。" }
-                        ]
-                    }
-                ]
-            },
-            {
-                category: "四、時態與相 (Tense & Aspect)",
-                id: "cat-tense-aspect",
-                rules: [
-                    { rule: "A/V-았/었/였어요", description: "過去式。", example: "어제 밥을 먹었어요. (昨天吃了飯。)", words: "먹다 (吃)、가다 (去)", memory: "「았/었/였어요」=「了」。" },
-                    { rule: "V-고 있다", description: "正在... (進行式)。", example: "밥을 먹고 있어요. (正在吃飯。)", words: "먹다 (吃)、가다 (去)", memory: "「고 있다」=「正在」。" },
-                    { rule: "A/V-(으)ㄹ 것이다 / 거예요", description: "將會... (未來式，表推測或意志)。", example: "내일 갈 거예요. (明天會去。)", words: "가다 (去)、먹다 (吃)", memory: "「(으)ㄹ 거예요」=「會...」。" },
-                    { rule: "V-(으)ㄴ 적이 있다/없다", description: "有/沒有...過的經驗。", example: "먹은 적이 있어요. (有吃過。)", words: "먹다 (吃)、가다 (去)", memory: "「적이 있다/없다」=「有/沒有...過」。" },
-                    { rule: "V-곤 하다", description: "常常做... (習慣性動作)。", example: "밥을 먹곤 해요. (常吃飯。)", words: "먹다 (吃)、가다 (去)", memory: "「곤 하다」=「常常」。" },
-                    { rule: "V-아/어/여 놓다/두다", description: "事先做好某動作並保持其狀態。", example: "밥을 먹어 놓아요. (先吃好飯。)", words: "먹다 (吃)、가다 (去)", memory: "「놓다/두다」=「先...好」。" }
-                ]
-            },
-            {
-                category: "五、能力、可能性與許可 (Ability, Possibility & Permission)",
-                id: "cat-ability-permission",
-                rules: [
-                    { rule: "V-(으)ㄹ 수 있다/없다", description: "能/不能... (表示能力或可能性)。", example: "한국어를 할 수 있어요. (我會說韓語。)", words: "할 수 있다 (能做)、모르다 (不知道)、가다 (去)", memory: "「(으)ㄹ 수 있다」=「能/可以」，「없다」=「不能」。" },
-                    { rule: "V-(으)ㄹ 줄 알다/모르다", description: "知道/不知道如何...，會/不會...。", example: "수영할 줄 알아요? (你會游泳嗎？)", words: "수영 (游泳)、요리 (料理)、알다 (知道)", memory: "「줄 알다」=「會/知道如何」，「모르다」=「不會/不知道」。" },
-                    { rule: "A/V-아/어/여도 되다/좋다/괜찮다", description: "可以...，做...也沒關係 (表示許可或無妨)。", example: "먹어도 돼요. (可以吃。)", words: "먹다 (吃)、하다 (做)、가다 (去)", memory: "「아/어/여도 되다」=「可以/沒關係」。" },
-                    { rule: "A/V-(으)면 안 되다", description: "不可以... (表示禁止)。", example: "여기서 담배 피우면 안 돼요. (這裡不能抽菸。)", words: "담배 (菸)、피우다 (抽)、가다 (去)", memory: "「(으)면 안 되다」=「不可以」。" }
-                ]
-            },
-            {
-                category: "六、原因與理由 (Cause & Reason)",
-                id: "cat-cause-reason",
-                rules: [
-                    { rule: "N-때문에 / V/A-기 때문에", description: "因為... (強調原因)。", example: "비 때문에 집에 있어요. (因為下雨，所以待在家裡。)", words: "비 (雨)、집 (家)、공부 (學習)", memory: "「때문에」=「因為（強調）」。" },
-                    { rule: "N-덕분에 / V/A-(으)ㄴ/는 덕분에", description: "多虧了... (用於正面結果)。", example: "선생님 덕분에 성공했어요. (多虧老師，我成功了。)", words: "선생님 (老師)、성공 (成功)、도움 (幫助)", memory: "「덕분에」=「多虧」。" },
-                    // Restored grammar points
-                    { rule: "V/A-(으)니까", description: "因為...所以... (主觀理由，或用於命令句、共動句前)。", example: "배고프니까 밥을 먹어요. (因為餓了，所以吃飯吧。)", words: "배고프다 (餓)、밥 (飯)", memory: "「(으)니까」像「因為...所以...（主觀）」。" },
-                    { rule: "V/A-아/어/여서", description: "因為...所以... (客觀理由，時間順序的「然後」)。", example: "비가 와서 집에 있어요. (因為下雨，所以待在家裡。)", words: "비 (雨)、집 (家)", memory: "「아/어/여서」像「因為...所以...（客觀）」或「然後」。" },
-                    { rule: "V-느라고", description: "因為 (忙於做某事而產生後項結果，多為負面)。", example: "공부하느라고 잠을 못 잤어요. (因為忙著讀書所以沒睡覺。)", words: "공부 (學習)、잠 (覺)", memory: "「느라고」像「因為忙著...所以...」。" },
-                    { rule: "V-는 바람에", description: "因為...所以... (多用於產生了意料之外的消極結果)。", example: "비가 오는 바람에 집에 있어요. (因為下雨所以待在家裡。)", words: "비 (雨)、집 (家)", memory: "「는 바람에」像「因為...所以...（結果不好）」。" }
-                ]
-            },
-            {
-                category: "七、目的與意圖 (Purpose & Intention)",
-                id: "cat-purpose-intention",
-                rules: [
-                    { rule: "V-(으)려고 하다", description: "打算做...。", example: "도서관에 가려고 해요. (我打算去圖書館。)", words: "가다 (去)、공부 (學習)、하다 (做)", memory: "「(으)려고 하다」=「打算做...」。" },
-                    { rule: "V-(으)ㄹ게요", description: "（第一人稱）我會... (意志、約定)。", example: "제가 할게요. (我會做的。)", words: "하다 (做)、주다 (給)、가다 (去)", memory: "「(으)ㄹ게요」=「我會...（約定）」。" },
-                    // Restored grammar points
-                    { rule: "V-(으)러", description: "為了 (表目的，後常接 가다/오다 等移動動詞)。", example: "밥 먹으러 식당에 가요. (為了吃飯去餐廳。)", words: "밥 (飯)、식당 (餐廳)", memory: "「(으)러」像「為了...去/來」。" },
-                    { rule: "V-기 위해서 / N-을/를 위해서", description: "為了...。", example: "공부하기 위해서 도서관에 가요. (為了讀書去圖書館。)", words: "공부 (學習)、도서관 (圖書館)", memory: "「기 위해서」像「為了...」。" },
-                    { rule: "V-고자 하다", description: "想要，試圖 (書面語)。", example: "공부하고자 해요. (想要讀書。)", words: "공부 (學習)、하다 (做)", memory: "「고자 하다」像「想要...」。" }
-                ]
-            },
-            {
-                category: "八、條件與假設 (Condition & Assumption)",
-                id: "cat-condition-assumption",
-                rules: [
-                    { rule: "V-기만 하면 되다", description: "只要做...就可以。", example: "열심히 하기만 하면 돼요. (只要努力就可以。)", words: "열심히 (努力)、하다 (做)、가다 (去)", memory: "「기만 하면 되다」=「只要...就可以」。" },
-                    { rule: "A/V-거든", description: "如果...的話 (口語，後多接命令或共動)。", example: "배고프거든 밥 먹어요. (如果餓了，就去吃飯。)", words: "배고프다 (餓)、먹다 (吃)、가다 (去)", memory: "「거든」=「如果...的話（口語）」。" },
-                    // Restored grammar point
-                    { rule: "V/A-(으)면", description: "如果...的話。", example: "비가 오면 집에 있어요. (如果下雨的話，就待在家裡。)", words: "비 (雨)、집 (家)", memory: "「(으)면」像「如果...的話」。" }
-                ]
-            },
-            {
-                category: "九、推測與猜測 (Supposition & Guessing)",
-                id: "cat-supposition-guessing",
-                rules: [
-                    { rule: "A/V-(으)ㄹ 것 같다", description: "好像要...。 (未來推測)", example: "비가 올 것 같아요. (好像要下雨了。)", words: "비 (雨)、가다 (去)、오다 (來)", memory: "「(으)ㄹ 것 같다」=「好像要...」。" },
-                    { rule: "V-는 것 같다", description: "好像正在...。 (現在動作推測)", example: "지금 공부하는 것 같아요. (好像正在讀書。)", words: "공부 (學習)、먹다 (吃)、가다 (去)", memory: "「는 것 같다」=「好像正在...」。" },
-                    { rule: "A-(으)ㄴ 것 같다 / V-(으)ㄴ 것 같다", description: "好像...了。 (過去或狀態推測)", example: "배가 고픈 것 같아요. (好像餓了。)", words: "배고프다 (餓)、먹다 (吃)、가다 (去)", memory: "「(으)ㄴ 것 같다」=「好像...了」。" },
-                    { rule: "A/V-(으)ㄹ 모양이다", description: "看起來像要...的樣子。", example: "비가 올 모양이에요. (看起來要下雨了。)", words: "비 (雨)、가다 (去)、오다 (來)", memory: "「(으)ㄹ 모양이다」=「看起來像要...」。" },
-                    { rule: "A/V-는가 보다 / -(으)ㄴ가 보다", description: "看來是...，好像是...。", example: "배고픈가 봐요. (看來是餓了。)", words: "배고프다 (餓)、먹다 (吃)、가다 (去)", memory: "「는가/ㄴ가 보다」=「看來是...」。" },
-                    { rule: "A/V-(으)ㄴ/는 듯하다", description: "彷彿...，好像...。", example: "비가 오는 듯해요. (彷彿要下雨了。)", words: "비 (雨)、가다 (去)、오다 (來)", memory: "「(으)ㄴ/는 듯하다」=「彷彿...」。" },
-                    { rule: "A/V-(으)ㄹ 텐데", description: "應該會...吧 (推測，常帶有期待或可惜的語氣)。", example: "비가 올 텐데요. (應該會下雨吧。)", words: "비 (雨)、가다 (去)、오다 (來)", memory: "「(으)ㄹ 텐데」=「應該會...吧」。" },
-                    { rule: "A/V-(으)ㄹ 리가 있다/없다", description: "有/沒有可能會...。", example: "그럴 리가 없어요. (不可能會那樣。)", words: "그렇다 (那樣)、없다 (沒有)、가다 (去)", memory: "「(으)ㄹ 리가 있다/없다」=「有/沒有可能會...」。" }
-                ]
-            },
-            {
-                category: "十、義務、必要與忠告 (Obligation, Necessity & Advice)",
-                id: "cat-obligation-advice",
-                rules: [
-                    { rule: "V-아/어/여야 하다/되다", description: "必須...，應該...。", example: "공부해야 해요. (必須讀書。)", words: "공부 (學習)、가다 (去)、하다 (做)", memory: "「아/어/여야 하다/되다」=「必須...」。" },
-                    { rule: "V-지 않으면 안 되다", description: "不...不行 (即必須...）。", example: "공부하지 않으면 안 돼요. (不讀書不行。)", words: "공부 (學習)、가다 (去)、하다 (做)", memory: "「지 않으면 안 되다」=「不...不行」。" },
-                    { rule: "V-(으)ㄹ 필요가 있다/없다", description: "有/沒有必要...。", example: "이거 살 필요가 있어요? (有必要買這個嗎？)", words: "사다 (買)、공부 (學習)、가다 (去)", memory: "「(으)ㄹ 필요가 있다/없다」=「有/沒有必要...」。" },
-                    { rule: "V-(으)면 좋겠다", description: "要是...就好了 (願望，也可作為委婉建議)。", example: "비가 오면 좋겠어요. (要是下雨就好了。)", words: "비 (雨)、가다 (去)、좋다 (好)", memory: "「(으)면 좋겠다」=「要是...就好了」。" }
-                ]
-            },
-            {
-                category: "十一、狀態描述與變化 (Describing States & Changes)",
-                id: "cat-states-changes",
-                rules: [
-                    { rule: "V-게 되다", description: "變成...，變得... (狀態變化)。", example: "그는 이제야 그 말의 뜻을 알게 되었어요. (他現在終於知道那句話的意思了。)", words: "알다 (知道)、되다 (變成)", memory: "「게 되다」=「變成...」，強調狀態變化。" },
-                    { rule: "A-아/어/여지다", description: "（形容詞）變得...。", example: "단 것을 많이 먹으면 뚱뚱해져요. (如果吃很多甜食，會變胖。)", words: "뚱뚱하다 (胖)、커지다 (變大)", memory: "「아/어/여지다」=「變得...」，形容詞變動詞。" },
-                    { rule: "V-아/어/여 있다", description: "...著 (動作完成後的狀態持續)。", example: "문이 열려 있어요. (門開著。)", words: "열다 (開)、앉다 (坐)", memory: "「아/어/여 있다」=「...著」，強調狀態持續。" },
-                    { rule: "A-아/어/여 보이다", description: "看起來... (外觀給人的感覺)。", example: "피곤해 보여요. (你看起來很累。)", words: "피곤하다 (累)、예쁘다 (漂亮)", memory: "「아/어/여 보이다」=「看起來...」，強調外觀。" },
-                    { rule: "N-에 있다/없다", description: "在/不在 N。", example: "오빠가 집에 없어요. (哥哥不在家。)", words: "집 (家)、학교 (學校)", memory: "「에 있다/없다」=「在/不在...」，表示存在。" }
-                ]
-            },
-            {
-                category: "十二、引用 (Quotation)",
-                id: "cat-quotation",
-                subcategories: [
-                    {
-                        name: "間接引用：",
-                        id: "subcat-indirect-quotation",
-                        rules: [
-                            { rule: "陳述句：-(ㄴ/는)다고 하다 (A/V-다고 하다, N-(이)라고 하다)", description: "聽說...，某人說...。", example: "친구가 내일 온다고 해요. (朋友說明天會來。)", words: "오다 (來)、말하다 (說)", memory: "「다고 하다」=「聽說/某人說...」。" },
-                            { rule: "疑問句：-(으)냐고 하다/묻다", description: "問 (某人) 說...。", example: "뭐라고 했냐고 했어요. (我問他說什麼。)", words: "묻다 (問)、하다 (做)", memory: "「냐고 하다」=「問...說」。" },
-                            { rule: "命令句：-(으)라고 하다", description: "叫 (某人) 做...。", example: "빨리 가라고 했어요. (我叫他快點去。)", words: "가다 (去)、말하다 (說)", memory: "「라고 하다」=「叫...做」。" },
-                            { rule: "共動句：-자고 하다", description: "叫 (某人) 一起做...。", example: "밥 먹자고 했어요. (我說一起吃飯吧。)", words: "먹다 (吃)、가다 (去)", memory: "「자고 하다」=「叫...一起做」。" }
-                        ]
-                    },
-                    {
-                        name: "口語縮略形式：",
-                        id: "subcat-colloquial-abbreviation",
-                        rules: [
-                            { rule: "A/V-대요 (다고 해요), -(으)냬요 (냐고 해요), -(으)래요 (라고 해요), -쟤요 (자고 해요)", description: "上述引用的口語縮略。", example: "친구가 내일 온대요. (聽說朋友明天來。)", words: "오다 (來)、먹다 (吃)", memory: "「대요/래요/냬요/쟤요」=「聽說/問/叫/一起...」的口語縮略。" }
-                        ]
-                    },
-                    {
-                         name: "", 
-                         id: "subcat-quotation-misc",
-                         rules: [
-                            { rule: "V-다시피", description: "如同...一樣，正如所...。", example: "네가 아는 대로 하세요. (請照你知道的做。)", words: "알다 (知道)、보다 (看)", memory: "「다시피」=「如同...一樣」。" }
-                         ]
-                    }
-                ]
-            },
-            {
-                category: "十三、慣用表現與補助動詞 (Idiomatic Expressions & Auxiliary Verbs)",
-                id: "cat-idiomatic-auxiliary",
-                rules: [
-                    { rule: "V-고 싶다 / V-고 싶어하다", description: "想做... (第一人稱 / 第三人稱)。", example: "영화를 보고 싶어요. (我想看電影。)", words: "보다 (看)、먹다 (吃)", memory: "「고 싶다」=「想做...」。" },
-                    { rule: "V-아/어/여 보다", description: "試著做...。", example: "김치를 먹어 보세요. (請嚐嚐泡菜。)", words: "먹다 (吃)、해보다 (嘗試)", memory: "「아/어/여 보다」=「試著...」。" },
-                    { rule: "A/V-는 척하다 / -(으)ㄴ 척하다", description: "假裝...。", example: "모르는 척했어요. (我假裝不知道。)", words: "모르다 (不知道)、자다 (睡覺)", memory: "「척하다」=「假裝...」。" },
-                    { rule: "V-아/어/여 주다/드리다 (敬語)", description: "為 (別人) 做...。", example: "도와 주세요. (請幫我。)", words: "도와주다 (幫忙)、사주다 (買給)", memory: "「주다/드리다」=「為...做」。" },
-                    { rule: "N-처럼 / V-듯이", description: "像...一樣。", example: "그는 형처럼 똑똑해요. (他像哥哥一樣聰明。)", words: "형 (哥哥)、똑똑하다 (聰明)", memory: "「처럼/듯이」=「像...一樣」。" },
-                    { rule: "V-나 마나", description: "做不做都一樣，做了也白做。", example: "가나 마나 비가 올 거예요. (去不去都一樣，反正會下雨。)", words: "가다 (去)、비 (雨)", memory: "「나 마나」=「做不做都一樣」。" },
-                    { rule: "V-(으)ㄹ 만하다", description: "值得做...。", example: "이 영화는 볼 만해요. (這部電影值得看。)", words: "보다 (看)、먹다 (吃)", memory: "「(으)ㄹ 만하다」=「值得...」。" },
-                    { rule: "V-아/어/여 죽겠다", description: "...得要死 (誇張用法)。", example: "배고파 죽겠어요. (我餓得要死。)", words: "배고프다 (餓)、피곤하다 (累)", memory: "「죽겠다」=「...得要死」。" },
-                    { rule: "V-어하다", description: "（用於部分形容詞後，表示第三人稱的情感或反應，如: 예뻐하다, 무서워하다）。", example: "그는 예뻐해요. (他喜歡漂亮的人。)", words: "예쁘다 (漂亮)、무섭다 (害怕)", memory: "「어하다」=「第三人稱情感」。" },
-                    { rule: "V-(으)ㄹ 자신이 있다/없다", description: "有/沒有信心做...。", example: "할 자신이 있어요. (我有信心做。)", words: "하다 (做)、자신 (信心)", memory: "「자신이 있다/없다」=「有/沒有信心...」。" },
-                    { rule: "N-(으)로 하다", description: "決定選擇...。", example: "이걸로 할게요. (我選這個。)", words: "이것 (這個)、그것 (那個)", memory: "「(으)로 하다」=「選...」。" },
-                    { rule: "될 수 있는 대로", description: "盡可能地。", example: "될 수 있는 대로 빨리 오세요. (請盡快來。)", words: "되다 (可以)、빨리 (快)", memory: "「될 수 있는 대로」=「盡可能地」。" }
-                ]
-            },
-            {
-                category: "十四、比較與程度 (Comparison & Degree)",
-                id: "cat-comparison-degree",
-                rules: [
-                    { rule: "N-보다 (더)", description: "比 N (更)...。", example: "저는 언니보다 예뻐요. (我比姐姐漂亮。)", words: "언니 (姐姐)、예쁘다 (漂亮)", memory: "「보다」=「比...」。" },
-                    { rule: "N-만큼", description: "如同 N 一般...，達到 N 的程度。", example: "동생이 형만큼 키가 커요. (弟弟跟哥哥一樣高。)", words: "형 (哥哥)、키 (身高)", memory: "「만큼」=「像...一樣」。" },
-                    { rule: "N-만 못하다", description: "不如 N。", example: "이 옷은 저 옷만 못해요. (這件衣服不如那件。)", words: "옷 (衣服)、잘하다 (做得好)", memory: "「만 못하다」=「不如...」。" },
-                    { rule: "N-에 비해서", description: "與 N 相比...。", example: "한국에 비해서 일본이 더 비싸요. (與韓國相比，日本更貴。)", words: "한국 (韓國)、일본 (日本)", memory: "「에 비해서」=「與...相比」。" }
-                ]
-            },
-            {
-                category: "十五、其他特殊句型 (Other Special Patterns)",
-                id: "cat-other-special-patterns",
-                rules: [
-                    { rule: "V-(이)라니요? / N-(이)라니요?", description: "竟然是...嗎？ (表示驚訝、不敢相信)。", example: "네가 그랬다니요? (你竟然那樣做？)", words: "그렇다 (那樣)、하다 (做)", memory: "「라니요」=「竟然是...嗎？」。" },
-                    { rule: "N-에 의하면", description: "根據 N...。", example: "일기예보에 의하면 비가 온대요. (根據天氣預報，會下雨。)", words: "일기예보 (天氣預報)、비 (雨)", memory: "「에 의하면」=「根據...」。" },
-                    { rule: "N-을/를 통해서", description: "通過 N...。", example: "여행을 통해 스트레스를 해소할 수 있어요. (通過旅行可以緩解壓力。)", words: "여행 (旅行)、스트레스 (壓力)", memory: "「을/를 통해」=「通過...」。" },
-                    { rule: "N-(으)로서", description: "作為... (資格、身份)。", example: "학생으로서 공부해야 해요. (作為學生應該讀書。)", words: "학생 (學生)、선생님 (老師)", memory: "「(으)로서」=「作為...」。" }
-                ]
-            }
-        ];
+        // Global variable to hold grammar data loaded from JSON
+        var grammarDataGlobal = [];
 
-        document.addEventListener('DOMContentLoaded', function() {
+        function sanitizeHTML(str) {
+            if (typeof str !== 'string') return '';
+            var temp = document.createElement('div');
+            temp.textContent = str;
+            return temp.innerHTML;
+        }
+        
+        function formatKoreanTextForGrammar(text) { // Renamed to avoid conflict if used elsewhere
+            if (typeof text !== 'string') return '';
+            // This regex tries to wrap Korean text, including those within parentheses.
+            // It might need refinement based on the exact structure of your 'words' and 'example' fields.
+            return text.replace(/([\u3131-\uD79D]+(?:[\s\(\)、，。：]\s*[\u3131-\uD79D]+)*|[（(][\u3131-\uD79D\s（）、，。：]+[）)])/g, '<span lang="ko">$1</span>');
+        }
+
+        function createGrammarRuleCard(rule) { // Renamed to avoid conflict
+            var card = document.createElement('div');
+            card.className = 'grammar-card rounded-xl shadow-lg p-6 flex flex-col';
+
+            card.innerHTML = `
+                <h4 class="text-xl grammar-rule-title mb-3 pb-2 border-b border-gray-700">${sanitizeHTML(rule.rule)}</h4>
+                <div class="space-y-3 text-gray-300 flex-grow text-sm sm:text-base">
+                    <p><strong class="detail-label">說明：</strong>${sanitizeHTML(rule.description)}</p>
+                    <p class="example-text"><strong class="detail-label">例句：</strong>${formatKoreanTextForGrammar(sanitizeHTML(rule.example))}</p>
+                    <p class="vocab-text"><strong class="detail-label">常用單字：</strong>${formatKoreanTextForGrammar(sanitizeHTML(rule.words))}</p>
+                    <p class="memory-text"><strong class="detail-label">記憶法：</strong>${sanitizeHTML(rule.memory)}</p>
+                </div>
+            `;
+            return card;
+        }
+
+        function renderGrammar(dataToRender) {
             var grammarContainer = document.getElementById('grammar-container');
             var unitSelect = document.getElementById('grammar-unit-select');
 
             if (!grammarContainer || !unitSelect) {
-                console.error('文法容器或單元選擇器未找到!');
+                console.error('文法容器或單元選擇器未找到 (renderGrammar)!');
+                if(grammarContainer) grammarContainer.innerHTML = '<p class="text-red-400 text-center">頁面元件載入錯誤。</p>';
                 return;
             }
+            
+            grammarContainer.innerHTML = ''; // Clear previous content or loading message
 
-            grammarData.forEach(function(categoryItem) {
+            // Populate unit selector
+            while (unitSelect.options.length > 1) { // Clear existing options except the first one
+                unitSelect.remove(1);
+            }
+            dataToRender.forEach(function(categoryItem) {
                 var option = document.createElement('option');
                 option.value = categoryItem.id; 
                 option.textContent = categoryItem.category;
                 unitSelect.appendChild(option);
 
+                // Create category section
                 var categorySection = document.createElement('section');
                 categorySection.id = categoryItem.id; 
                 categorySection.className = 'mb-16';
@@ -439,7 +217,7 @@
 
                 if (categoryItem.rules) {
                     categoryItem.rules.forEach(function(rule) {
-                        rulesGrid.appendChild(createRuleCard(rule));
+                        rulesGrid.appendChild(createGrammarRuleCard(rule));
                     });
                 }
 
@@ -447,20 +225,23 @@
                     categoryItem.subcategories.forEach(function(subcategory) {
                         if (subcategory.name) {
                             var subCategoryTitleElement = document.createElement('h3');
-                            if(subcategory.id) subCategoryTitleElement.id = subcategory.id;
+                            if(subcategory.id) subCategoryTitleElement.id = subcategory.id; // Assign ID if present
                             subCategoryTitleElement.className = 'subcategory-heading col-span-full';
                             subCategoryTitleElement.textContent = subcategory.name;
                             rulesGrid.appendChild(subCategoryTitleElement);
                         }
-                        subcategory.rules.forEach(function(rule) {
-                            rulesGrid.appendChild(createRuleCard(rule));
-                        });
+                        if (subcategory.rules) { // Check if subcategory has rules
+                            subcategory.rules.forEach(function(rule) {
+                                rulesGrid.appendChild(createGrammarRuleCard(rule));
+                            });
+                        }
                     });
                 }
                 categorySection.appendChild(rulesGrid);
                 grammarContainer.appendChild(categorySection);
             });
 
+            // Add event listener to the selector
             unitSelect.addEventListener('change', function() {
                 var selectedUnitId = this.value;
                 if (selectedUnitId) {
@@ -480,7 +261,31 @@
                     }
                 }
             });
+        }
 
+        document.addEventListener('DOMContentLoaded', function() {
+            var grammarContainer = document.getElementById('grammar-container');
+            // Construct URL for grammar.json relative to grammar/index.html
+            var jsonFileUrl = new URL('../data/grammar.json', window.location.href).href;
+
+            fetch(jsonFileUrl) 
+                .then(function(response) {
+                    if (!response.ok) {
+                        throw new Error('HTTP error ' + response.status + ' while fetching ' + jsonFileUrl);
+                    }
+                    return response.json();
+                })
+                .then(function(loadedData) {
+                    grammarDataGlobal = loadedData; 
+                    renderGrammar(grammarDataGlobal); 
+                })
+                .catch(function(error) {
+                    console.error('無法載入文法資料:', error);
+                    if(grammarContainer) {
+                        grammarContainer.innerHTML = '<p class="text-xl text-red-400 text-center">文法資料載入失敗，請檢查路徑或檔案。</p>';
+                    }
+                });
+            
             var yearSpan = document.getElementById('current-year');
             if (yearSpan) {
                 yearSpan.textContent = new Date().getFullYear();
@@ -494,34 +299,6 @@
                 });
             }
         });
-
-        function createRuleCard(rule) {
-            var card = document.createElement('div');
-            card.className = 'grammar-card rounded-xl shadow-lg p-6 flex flex-col';
-
-            var sanitize = function(str) {
-                if (typeof str !== 'string') return '';
-                var temp = document.createElement('div');
-                temp.textContent = str;
-                return temp.innerHTML;
-            };
-            
-            var formatKoreanText = function(text) {
-                if (typeof text !== 'string') return '';
-                return text.replace(/([\u3131-\uD79D]+|[（(][\u3131-\uD79D\s]+[）)])/g, '<span lang="ko">$1</span>');
-            };
-
-            card.innerHTML = `
-                <h4 class="text-xl grammar-rule-title mb-3 pb-2 border-b border-gray-700">${sanitize(rule.rule)}</h4>
-                <div class="space-y-3 text-gray-300 flex-grow text-sm sm:text-base">
-                    <p><strong class="detail-label">說明：</strong>${sanitize(rule.description)}</p>
-                    <p class="example-text"><strong class="detail-label">例句：</strong>${formatKoreanText(sanitize(rule.example))}</p>
-                    <p class="vocab-text"><strong class="detail-label">常用單字：</strong>${formatKoreanText(sanitize(rule.words))}</p>
-                    <p class="memory-text"><strong class="detail-label">記憶法：</strong>${sanitize(rule.memory)}</p>
-                </div>
-            `;
-            return card;
-        }
     </script>
     <script src="../js/main.js"></script>
 </body>
