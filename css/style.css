@@ -1,45 +1,153 @@
-/* Global styles and Tailwind CSS customizations */
+/* css/style.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', 'Noto Sans KR', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-color: #111827; /* Tailwind gray-900, fallback if JS is slow */
-    color: #D1D5DB; /* Tailwind gray-300, fallback */
+    background-color: #0F172A; /* slate-900 - Deeper dark base */
+    color: #E2E8F0; /* slate-200 - Softer light text */
+    transition: background-color 0.3s ease, color 0.3s ease; /* For potential theme toggle */
 }
 
-/* You can add more specific custom styles here if needed */
-/* For example, if you want a very specific style for a component */
-/* that is hard to achieve with Tailwind utility classes alone. */
-
-/* Example of a custom class that could be used in HTML */
-.custom-highlight {
-    color: #6EE7B7; /* A custom highlight color (Tailwind emerald-300) */
-    font-weight: bold;
+/* Headings - Consistent baseline */
+h1, h2, h3, h4, h5, h6 {
+    @apply text-slate-100 font-sans; /* Ensure headings are light and use primary font stack */
 }
 
-/* Enhancing the premium feel with focus states */
-a:focus, button:focus, input:focus, select:focus, textarea:focus {
-    outline: 2px solid #5EEAD4; /* Tailwind teal-300 */
-    outline-offset: 2px;
-    box-shadow: 0 0 0 4px rgba(45, 212, 191, 0.3); /* Soft glow effect */
+/* General Link Styling (non-button links) */
+a {
+    @apply text-sky-400 hover:text-sky-300 transition-colors duration-200 ease-in-out;
+}
+a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card) { /* Exclude button-like links */
+    @apply relative; /* For pseudo-element underline */
+}
+a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card)::after {
+    @apply content-[''] absolute bottom-0 left-0 w-0 h-px bg-sky-400 transition-all duration-300 ease-out;
+}
+a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card):hover::after {
+    @apply w-full;
 }
 
-/* Custom scrollbar styles (already included in grammar/index.html <style> tag for immediate effect,
-   but can be centralized here if preferred and if all pages need it) */
+
+/* Navigation link styling - Refined from individual HTML pages */
+.nav-link {
+    @apply px-3 py-2 rounded-md text-sm font-medium text-slate-300 hover:bg-slate-700 hover:text-white transition-colors duration-150;
+}
+.nav-link.active { /* This class will be added by JS */
+    @apply bg-sky-600 text-white shadow-md;
+}
+
+.mobile-nav-link {
+    @apply block px-3 py-2 rounded-md text-base font-medium text-slate-300 hover:bg-slate-700 hover:text-white transition-colors duration-150;
+}
+.mobile-nav-link.active { /* This class will be added by JS */
+     @apply bg-sky-600 text-white;
+}
+
+/* Enhanced Card Styling Base (can be extended by specific card styles) */
+.enhanced-card {
+    @apply bg-slate-800 border border-slate-700 rounded-xl shadow-lg;
+    transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), 
+                box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1),
+                border-color 0.3s ease-in-out;
+}
+.enhanced-card:hover {
+    @apply transform -translate-y-1 scale-[1.015] shadow-2xl shadow-blue-500/20 border-slate-600;
+}
+
+/* Specific Card Types - Apply .enhanced-card and then specific overrides if needed */
+/* Example: If .feature-card, .grammar-card, .vocab-category-card, .song-card can share this base */
+.feature-card, .grammar-card, .vocab-category-card, .song-card, .lyrics-line-block {
+    @apply enhanced-card; /* Apply the base enhancement */
+    /* Specific paddings or other properties are usually defined in inline styles or more specific classes */
+}
+/* Override for flashcard as it has its own complex styling */
+.flashcard { 
+    /* Flashcard has its own perspective and transform, so enhanced-card hover might conflict. */
+    /* Keep its existing specific styling. */
+}
+
+
+/* Button Styling Enhancements */
+.btn { /* Base class for all buttons for consistency if desired */
+    @apply font-semibold rounded-lg shadow-md transition-all duration-200 ease-in-out transform;
+}
+.btn:hover {
+    @apply shadow-lg scale-105;
+}
+.btn:active {
+    @apply scale-95 shadow-inner;
+}
+
+.btn-primary { 
+    @apply btn bg-indigo-600 hover:bg-indigo-500 text-white py-3 px-8;
+}
+.btn-secondary { 
+    @apply btn bg-teal-600 hover:bg-teal-500 text-white py-2 px-6 text-sm; /* Adjusted size */
+}
+.btn-feature { 
+    @apply btn mt-auto bg-sky-600 hover:bg-sky-500 text-white font-medium py-2.5 px-5 text-sm; /* Adjusted padding & size */
+}
+.control-btn { /* Flashcard controls */
+    @apply btn bg-blue-500 hover:bg-blue-600 text-white py-2.5 px-4 text-xs sm:text-sm; /* Adjusted for flashcard context */
+    max-width: 130px; /* Ensure buttons don't get too wide */
+}
+.control-btn.mark-btn.marked { 
+    @apply bg-amber-500 hover:bg-amber-600 shadow-amber-500/30;
+}
+.control-btn.mark-btn.marked:active {
+    @apply bg-amber-700;
+}
+.control-btn:disabled {
+    @apply bg-slate-600 opacity-70 scale-100 shadow-none cursor-not-allowed;
+}
+
+
+/* Custom scrollbar (already good, kept for consistency) */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: #1E293B; } /* slate-800 */
+::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; } /* slate-600 */
+::-webkit-scrollbar-thumb:hover { background: #64748B; } /* slate-500 */
+
+/* For better Korean character rendering if Noto Sans KR is available */
+[lang="ko"] {
+    font-synthesis: none; 
+    font-kerning: normal;
+}
+
+/* Utility for subtle text shadow - can apply via Tailwind if needed */
+.text-shadow-subtle {
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+}
+.text-shadow-medium {
+    text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+/* Specific Hero Title adjustments (if moving from inline) */
+/* .hero-title from index.html can remain inline or be partially moved here */
+/* For example: */
 /*
-::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+.hero-title {
+    @apply font-black text-slate-100; 
+    font-family: 'Roboto', sans-serif; 
+    text-shadow: 0px 3px 10px rgba(0, 0, 0, 0.5); 
+    letter-spacing: 0.02em; 
+    line-height: 1.15;
 }
-::-webkit-scrollbar-track {
-    background: #1F2937;
-    border-radius: 10px;
+.hero-subtitle {
+    @apply font-light text-slate-300;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.05em; 
 }
-::-webkit-scrollbar-thumb {
-    background: #374151;
-    border-radius: 10px;
-}
-::-webkit-scrollbar-thumb:hover {
-    background: #4B5563;
+.hero-korean-tagline {
+    @apply font-normal text-indigo-300;
+    font-family: 'Noto Sans KR', sans-serif;
+    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.05em;
 }
 */
