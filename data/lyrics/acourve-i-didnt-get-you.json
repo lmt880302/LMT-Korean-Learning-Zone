@@ -1,0 +1,297 @@
+{
+  "id": "acourve-i-didnt-get-you",
+  "title": "I Didn't Get You",
+  "artist": "Acourve",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "언제부턴가 얘기 나눌 때",
+      "translation": "不知從何時起 聊天的時候",
+      "analysis": [
+        { "point": "언제부턴가", "explanation": "언제 (何時) + -부터 (從...) + -인가 (不確定的疑問後綴，是否...)" },
+        { "point": "얘기 나눌 때", "explanation": "얘기 (이야기 的縮略，故事/話) + 나누다 (分享，交談) 的定語形態 (-ㄹ/을) + 때 (時候)" }
+      ]
+    },
+    {
+      "korean": "재미없다는 표정을 짓던 너",
+      "translation": "曾露出無趣表情的你",
+      "analysis": [
+        { "point": "재미없다는", "explanation": "재미없다 (無趣) + -다는 (間接引用陳述句的定語形態)" },
+        { "point": "표정을 짓던 너", "explanation": "표정 (表情) + -을 (受格助詞) + 짓다 (做出表情/建造) 的過去回想定語形態 (-던) + 너 (你)" }
+      ]
+    },
+    {
+      "korean": "그래 난 알고 있었어",
+      "translation": "是啊 我其實知道的",
+      "analysis": [
+        { "point": "그래", "explanation": "感嘆詞/副詞，是啊，就那樣" },
+        { "point": "난 알고 있었어", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 알다 (知道) + -고 있었다 (過去進行式，也常用於表示狀態的持續) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "우리 어느 날 함께 들었던",
+      "translation": "我們某天一起聽過的",
+      "analysis": [
+        { "point": "우리 어느 날", "explanation": "우리 (我們) + 어느 날 (某一天)" },
+        { "point": "함께 들었던", "explanation": "함께 (一起) + 듣다 (聽) 的過去定語形態 (-었던/았던)" }
+      ]
+    },
+    {
+      "korean": "우리 얘기 같던 노래 가사가",
+      "translation": "曾像我們故事般的歌的歌詞",
+      "analysis": [
+        { "point": "우리 얘기 같던", "explanation": "我們 故事 + 같다 (像...一樣) + -던 (過去回想定語形態)" },
+        { "point": "노래 가사가", "explanation": "노래 (歌) + 가사 (歌詞) + -가 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "이제는 남 얘기가 됐어",
+      "translation": "現在成了別人的故事",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (強調主題)" },
+        { "point": "남 얘기가 됐어", "explanation": "남 (別人) + 얘기 (故事) + -가 (主格助詞) + 되다 (變成) 的過去式非格式體 (-었어)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "널 보며 웃어도 보고",
+      "translation": "看著你試著笑過",
+      "analysis": [
+        { "point": "널 보며", "explanation": "너 (你) + -를 (受格助詞) 的縮略 + 보다 (看) + -으며 (連接詞尾，一邊...一邊...)" },
+        { "point": "웃어도 보고", "explanation": "웃다 (笑) + -아/어도 (即使...也) + 보다 (試著做...，此處指嘗試過)" }
+      ]
+    },
+    {
+      "korean": "울어도 보고 매달리기도 했어",
+      "translation": "也試著哭過 也曾試著挽留",
+      "analysis": [
+        { "point": "울어도 보고", "explanation": "울다 (哭) + -아/어도 + 보다" },
+        { "point": "매달리기도 했어", "explanation": "매달리다 (糾纏，挽留) 的名詞形 (-기) + -도 (也) + 하다 (做) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "애써 널 지우려 해도 덮으려 해도",
+      "translation": "即使努力想抹去你 即使努力想掩蓋",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，努力地，費心地" },
+        { "point": "널 지우려 해도", "explanation": "你(受格) + 지우다 (抹去) + -(으)려고 하다 (想要做...) + -아/어도 (即使...也)" },
+        { "point": "덮으려 해도", "explanation": "덮다 (覆蓋，掩蓋) + -(으)려고 하다 + -아/어도" }
+      ]
+    },
+    {
+      "korean": "자꾸 생각나는데",
+      "translation": "卻總是想起，但是",
+      "analysis": [
+        { "point": "자꾸", "explanation": "副詞，總是，頻繁地" },
+        { "point": "생각나는데", "explanation": "생각나다 (想起) 的詞幹 + -(으)ㄴ/는데 (連接詞尾，表示背景、轉折或提示)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잡지 않았어 널 그때는 몰랐어",
+      "translation": "沒有抓住你啊 那時我不知道",
+      "analysis": [
+        { "point": "잡지 않았어", "explanation": "잡다 (抓住) 的詞幹 + -지 않다 (否定補助動詞) 的過去式非格式體" },
+        { "point": "널 그때는", "explanation": "你(受格) + 그때 (那時) + -는 (強調)" },
+        { "point": "몰랐어", "explanation": "모르다 (不知道) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "이렇게 아플 줄은 오오",
+      "translation": "會這麼痛 我喔喔",
+      "analysis": [
+        { "point": "이렇게 아플 줄은", "explanation": "이렇게 (這樣地) + 아프다 (痛) 的將來時定語形 (-ㄹ/을) + 줄 (名詞，表示方式、方法或情況) + -은 (主題助詞，此處指「...這件事」)" },
+        { "point": "오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "이제야 알았어 니가 없는 나의 모습이 이래",
+      "translation": "現在才知道了 沒有你的我的模樣是這樣",
+      "analysis": [
+        { "point": "이제야 알았어", "explanation": "이제 (現在) + -야 (強調助詞，才) + 알다 (知道) 的過去式非格式體" },
+        { "point": "니가 없는", "explanation": "니 (你的 - 너의 口語，此處應為 네가: 你) + 없다 (沒有) + -는 (定語形態)" },
+        { "point": "나의 모습이", "explanation": "我的 模樣(主格)" },
+        { "point": "이래", "explanation": "이렇다 (這樣) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "같이 걸었던 그 길을 지날 땐",
+      "translation": "經過曾一起走過的那條路時",
+      "analysis": [
+        { "point": "같이 걸었던", "explanation": "같이 (一起) + 걷다 (走路) 的過去定語形態 (-었던/았던)" },
+        { "point": "그 길을 지날 땐", "explanation": "그 (那) + 길 (路) + -을 (受格助詞) + 지나다 (經過) 的詞幹 + -(으)ㄹ 때 (時候) + -는 (強調)" }
+      ]
+    },
+    {
+      "korean": "혹시라도 너와 마주칠까봐",
+      "translation": "怕萬一會和你遇見",
+      "analysis": [
+        { "point": "혹시라도", "explanation": "혹시 (萬一，或許) + -(이)라도 (即使是...也，表示退一步的選擇或可能性)" },
+        { "point": "너와 마주칠까봐", "explanation": "너 (你) + -와 (和) + 마주치다 (遇見，碰見) 의詞幹 + -(으)ㄹ까 봐 (擔心會...)" }
+      ]
+    },
+    {
+      "korean": "괜히 둘러보곤 해",
+      "translation": "總是 괜히 四處張望",
+      "analysis": [
+        { "point": "괜히", "explanation": "副詞，平白無故地，徒然地" },
+        { "point": "둘러보곤 해", "explanation": "둘러보다 (環顧四周) 的詞幹 + -곤 하다 (慣用型，常常做...，習慣性地做...)" }
+      ]
+    },
+    {
+      "korean": "하고 싶은 말 아껴뒀던 말",
+      "translation": "想說的話 珍藏著的話",
+      "analysis": [
+        { "point": "하고 싶은 말", "explanation": "하다 (做/說) + -고 싶다 (想做...) 的定語形態 + 말 (話)" },
+        { "point": "아껴뒀던 말", "explanation": "아껴두다 (珍藏起來 - 아끼다 (珍惜) + -어 두다 (事先做好並保持)) 的過去定語形態 + 말" }
+      ]
+    },
+    {
+      "korean": "이제는 전부다 소용이 없어 이제",
+      "translation": "現在全都沒用了 現在",
+      "analysis": [
+        { "point": "이제는 전부다", "explanation": "現在 全都" },
+        { "point": "소용이 없어", "explanation": "소용 (用處) + -이 (主格助詞) + 없다 (沒有)" },
+        { "point": "이제", "explanation": "現在" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잡지 않았어 널 그때는 몰랐어",
+      "translation": "沒有抓住你啊 那時我不知道",
+      "analysis": [
+        { "point": "잡지 않았어 널 그때는 몰랐어", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "이렇게 아플 줄은 오오",
+      "translation": "會這麼痛 我喔喔",
+      "analysis": [
+        { "point": "이렇게 아플 줄은 오오", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "이제야 알았어",
+      "translation": "現在才知道了",
+      "analysis": [
+        { "point": "이제야 알았어", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "니가 없는 나의 모습이 이래",
+      "translation": "沒有你的我的模樣是這樣",
+      "analysis": [
+        { "point": "니가 없는 나의 모습이 이래", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "이제 너는 없고 혼자 남아서",
+      "translation": "現在你不在了 獨自留下",
+      "analysis": [
+        { "point": "이제 너는 없고", "explanation": "現在 你(主題) 沒有 + -고 (連接)" },
+        { "point": "혼자 남아서", "explanation": "혼자 (獨自) + 남다 (留下) + -아서 (連接詞尾，表示原因或順序)" }
+      ]
+    },
+    {
+      "korean": "너와 함께 웃던 사진들을 봐",
+      "translation": "看著曾和你一起笑過的照片",
+      "analysis": [
+        { "point": "너와 함께 웃던", "explanation": "和你 一起 笑(過去回想)" },
+        { "point": "사진들을 봐", "explanation": "사진 (照片) + -들 (複數) + -을 (受格助詞) + 보다 (看) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "가끔 뜬금없이 니가 꿈속에",
+      "translation": "偶爾突如其來地 你在夢中",
+      "analysis": [
+        { "point": "가끔", "explanation": "副詞，偶爾" },
+        { "point": "뜬금없이", "explanation": "副詞，突然，出乎意料地" },
+        { "point": "니가 꿈속에", "explanation": "你(主格) + 꿈속 (夢中) + -에 (在)" }
+      ]
+    },
+    {
+      "korean": "잘 견뎌 왔는데",
+      "translation": "一直以來都好好地撐過來了，但是",
+      "analysis": [
+        { "point": "잘 견뎌 왔는데", "explanation": "잘 (好好地) + 견디다 (承受) + -어 오다 (一直做某事過來) + -(으)ㄴ/는데" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잡지 않았어 널 그때는 몰랐어",
+      "translation": "沒有抓住你啊 那時我不知道",
+      "analysis": [
+        { "point": "잡지 않았어 널 그때는 몰랐어", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "이렇게 아플 줄은 워",
+      "translation": "會這麼痛 我喔",
+      "analysis": [
+        { "point": "이렇게 아플 줄은", "explanation": "同 Chorus 第一次出現" },
+        { "point": "워", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "이제야 알았어",
+      "translation": "現在才知道了",
+      "analysis": [
+        { "point": "이제야 알았어", "explanation": "同 Chorus 第一次出現" }
+      ]
+    },
+    {
+      "korean": "니가 없는 나의 모습이 이래",
+      "translation": "沒有你的我的模樣是這樣",
+      "analysis": [
+        { "point": "니가 없는 나의 모습이 이래", "explanation": "同 Chorus 第一次出現" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "얘기 나누다", "chinese": "聊天/交談", "pos": "動詞片語" },
+    { "korean": "재미없다", "chinese": "無趣", "pos": "形容詞" },
+    { "korean": "표정", "chinese": "表情", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做出(表情)/建造", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "노래", "chinese": "歌", "pos": "名詞" },
+    { "korean": "가사", "chinese": "歌詞", "pos": "名詞" },
+    { "korean": "남", "chinese": "別人", "pos": "名詞" },
+    { "korean": "되다", "chinese": "變成", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "매달리다", "chinese": "糾纏/挽留", "pos": "動詞" },
+    { "korean": "애써", "chinese": "努力地/費心地", "pos": "副詞" },
+    { "korean": "지우다", "chinese": "抹去/擦掉", "pos": "動詞" },
+    { "korean": "덮다", "chinese": "覆蓋/掩蓋", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "總是/頻繁地", "pos": "副詞" },
+    { "korean": "생각나다", "chinese": "想起", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "그때", "chinese": "那時", "pos": "名詞/副詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "이제야", "chinese": "現在才", "pos": "副詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "이렇다", "chinese": "這樣", "pos": "指示形容詞" },
+    { "korean": "걷다", "chinese": "走路", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "혹시라도", "chinese": "萬一/即使是", "pos": "副詞" },
+    { "korean": "마주치다", "chinese": "遇見/碰見", "pos": "動詞" },
+    { "korean": "괜히", "chinese": "平白無故地/徒然地", "pos": "副詞" },
+    { "korean": "둘러보다", "chinese": "環顧四周", "pos": "動詞" },
+    { "korean": "아껴두다", "chinese": "珍藏起來", "pos": "動詞" },
+    { "korean": "소용없다", "chinese": "沒用", "pos": "形容詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞/名詞" },
+    { "korean": "남다", "chinese": "留下/剩下", "pos": "動詞" },
+    { "korean": "사진", "chinese": "照片", "pos": "名詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "뜬금없이", "chinese": "突然/出乎意料地", "pos": "副詞" },
+    { "korean": "꿈속", "chinese": "夢中", "pos": "名詞" },
+    { "korean": "견디다", "chinese": "承受/忍耐", "pos": "動詞" }
+  ]
+}

@@ -16,6 +16,12 @@
     "title": "마음을 베는 낫",
     "artist": "Acourve",
     "lyricsFile": "../data/lyrics/acourve-maeumeul-beneun-nat.json"
+  },  
+  {
+    "id": "acourve-i-didnt-get-you",
+    "title": "I Didn't Get You",
+    "artist": "Acourve",
+    "lyricsFile": "../data/lyrics/acourve-i-didnt-get-you.json"
   },
   
   {
