@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* General Link Styling (non-button links) - Kept from previous version */
 a {
-    @apply text-sky-400 hover:text-sky-300 transition-colors duration-200 ease-in-out;
+    @apply text-sky-400 hover:text-slate-100 transition-colors duration-200 ease-in-out;
 }
 a:not(.nav-link):not(.mobile-nav-link):not(.btn-feature):not(.btn-secondary):not(.control-btn):not(.song-card):not(.site-title-link) {
     @apply relative;
@@ -44,7 +44,7 @@ header.site-header { /* Add class="site-header" to your <header> elements */
     @apply text-2xl font-bold text-sky-400 transition-all duration-300 ease-in-out;
 }
 .site-title-link:hover {
-    @apply text-sky-300 tracking-wide; /* Slight letter spacing on hover */
+    @apply text-slate-100 tracking-wide; /* Slight letter spacing on hover */
 }
 
 /* Navigation link styling - Refined for a more premium feel */
@@ -70,7 +70,7 @@ header.site-header { /* Add class="site-header" to your <header> elements */
 .nav-link:hover {
     @apply text-white bg-slate-700/50; /* Slightly transparent hover background */
 }
-.nav-link.active { 
+.nav-link.active {
     @apply text-white font-semibold; /* Removed bg-sky-600, using underline instead */
     /* box-shadow: 0 0 10px rgba(56, 189, 248, 0.5); Optional glow */
 }
@@ -79,7 +79,7 @@ header.site-header { /* Add class="site-header" to your <header> elements */
     @apply block px-4 py-3 rounded-lg text-base font-medium text-slate-200 hover:bg-slate-700 hover:text-white transition-colors duration-150;
     /* Increased padding for better touch targets */
 }
-.mobile-nav-link.active { 
+.mobile-nav-link.active {
      @apply bg-sky-600 text-white;
 }
 
@@ -112,22 +112,22 @@ header.site-header { /* Add class="site-header" to your <header> elements */
 /* Enhanced Card Styling Base (Kept from previous version) */
 .enhanced-card {
     @apply bg-slate-800 border border-slate-700 rounded-xl shadow-lg;
-    transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), 
+    transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1),
                 box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1),
                 border-color 0.3s ease-in-out;
 }
 .enhanced-card:hover {
-    @apply transform -translate-y-1 scale-[1.015] shadow-2xl shadow-blue-500/20 border-slate-600;
+    @apply transform -translate-y-1 scale-[1.015] shadow-2xl shadow-blue-500/20 border-slate-600; /* Kept original blue shadow as it's subtle */
 }
 .feature-card, .grammar-card, .vocab-category-card, .song-card, .lyrics-line-block {
-    @apply enhanced-card; 
+    @apply enhanced-card;
 }
-.flashcard { 
+.flashcard {
     /* Keep its existing specific styling. */
 }
 
 /* Button Styling Enhancements (Kept from previous version) */
-.btn { 
+.btn {
     @apply font-semibold rounded-lg shadow-md transition-all duration-200 ease-in-out transform;
 }
 .btn:hover {
@@ -136,20 +136,20 @@ header.site-header { /* Add class="site-header" to your <header> elements */
 .btn:active {
     @apply scale-95 shadow-inner;
 }
-.btn-primary { 
-    @apply btn bg-indigo-600 hover:bg-indigo-500 text-white py-3 px-8;
+.btn-primary { /* MODIFIED: Indigo changed to Sky blue */
+    @apply btn bg-sky-600 hover:bg-sky-500 text-white py-3 px-8;
 }
-.btn-secondary { 
+.btn-secondary {
     @apply btn bg-teal-600 hover:bg-teal-500 text-white py-2 px-6 text-sm;
 }
-.btn-feature { 
+.btn-feature {
     @apply btn mt-auto bg-sky-600 hover:bg-sky-500 text-white font-medium py-2.5 px-5 text-sm;
 }
-.control-btn { 
+.control-btn {
     @apply btn bg-blue-500 hover:bg-blue-600 text-white py-2.5 px-4 text-xs sm:text-sm;
-    max-width: 130px; 
+    max-width: 130px;
 }
-.control-btn.mark-btn.marked { 
+.control-btn.mark-btn.marked {
     @apply bg-amber-500 hover:bg-amber-600 shadow-amber-500/30;
 }
 .control-btn.mark-btn.marked:active {
@@ -161,12 +161,12 @@ header.site-header { /* Add class="site-header" to your <header> elements */
 
 /* Custom scrollbar (Kept from previous version) */
 ::-webkit-scrollbar { width: 8px; height: 8px; }
-::-webkit-scrollbar-track { background: #1E293B; } 
-::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; } 
-::-webkit-scrollbar-thumb:hover { background: #64748B; } 
+::-webkit-scrollbar-track { background: #1E293B; }
+::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #64748B; }
 
 [lang="ko"] {
-    font-synthesis: none; 
+    font-synthesis: none;
     font-kerning: normal;
 }
 .text-shadow-subtle {
@@ -175,3 +175,5 @@ header.site-header { /* Add class="site-header" to your <header> elements */
 .text-shadow-medium {
     text-shadow: 0px 2px 6px rgba(0, 0, 0, 0.4);
 }
+
+/* End of style.css */
