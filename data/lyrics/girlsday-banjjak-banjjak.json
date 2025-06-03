@@ -1,0 +1,490 @@
+{
+  "id": "girlsday-banjjak-banjjak",
+  "title": "반짝반짝",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro: All",
+      "korean": "Girls day! Do you hear me? Listen",
+      "translation": "Girls day! 你聽見我嗎？聽著",
+      "analysis": [
+        { "point": "Girls day! Do you hear me? Listen", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내 말을 좀 들어봐 오빤 정말 나빴어",
+      "translation": "聽我說句話 哥哥你真的很壞",
+      "analysis": [
+        { "point": "내 말을 좀 들어봐", "explanation": "내 (我的) + 말 (話) + -을 (受格助詞) + 좀 (一點，請) + 듣다 (聽) + -어 보다 (試著做...，帶有請求語氣)" },
+        { "point": "오빤", "explanation": "오빠 (哥哥 - 女生稱呼) + -는 (主題助詞) 的縮略" },
+        { "point": "정말 나빴어", "explanation": "정말 (真的) + 나쁘다 (壞) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "내 맘을 왜 훔쳤어 오빤 정말 못됐어",
+      "translation": "為何偷走我的心 哥哥你真的很壞",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + -을 (受格助詞)" },
+        { "point": "왜 훔쳤어", "explanation": "왜 (為何) + 훔치다 (偷) 的過去式非格式體" },
+        { "point": "오빤 정말 못됐어", "explanation": "오빠 (哥哥 - 女生稱呼) + -는 (主題助詞) 的縮略 + 정말 (真的) + 못되다 (壞，惡劣) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "어쩜어쩜 어떡하면 난 좋아",
+      "translation": "哎呀呀 怎麼辦才好呢 我喜歡",
+      "analysis": [
+        { "point": "어쩜어쩜", "explanation": "어쩌면 (或許，怎麼會) 的重複，表示驚訝或不知所措" },
+        { "point": "어떡하면", "explanation": "어떡하다 (怎麼辦 - 어떻게 하다 的縮略) + -(으)면 (如果...的話)" },
+        { "point": "난 좋아", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 좋아하다 (喜歡) 的非格式體 / 좋다 (好) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "웃지마 웃지마 너무 멋져 난 몰라",
+      "translation": "別笑 別笑 太帥了 我不知道啦",
+      "analysis": [
+        { "point": "웃지마", "explanation": "웃다 (笑) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "너무 멋져", "explanation": "너무 (太) + 멋지다 (帥氣) 的非格式體" },
+        { "point": "난 몰라", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 모르다 (不知道) 의非格式體" }
+      ]
+    },
+    {
+      "korean": "하지마 하지마 마마마마 마마마마",
+      "translation": "不要 不要 嘛嘛嘛嘛 嘛嘛嘛嘛",
+      "analysis": [
+        { "point": "하지마", "explanation": "하다 (做) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "마마마마", "explanation": "無意義的感嘆詞或哼唱" }
+      ]
+    },
+    {
+      "korean": "가지마 가지마 마마마마 마마마마",
+      "translation": "別走 別走 嘛嘛嘛嘛 嘛嘛嘛嘛",
+      "analysis": [
+        { "point": "가지마", "explanation": "가다 (走，去) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "마마마마", "explanation": "無意義的感嘆詞或哼唱" }
+      ]
+    },
+    {
+      "korean": "I love you",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "슬쩍슬쩍 바라보지마",
+      "translation": "不要偷偷地看我",
+      "analysis": [
+        { "point": "슬쩍슬쩍", "explanation": "副詞，偷偷地，悄悄地 (重複表示強調或連續)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "반짝반짝 내 입술 바라보지마",
+      "translation": "不要看我亮晶晶的嘴唇",
+      "analysis": [
+        { "point": "반짝반짝", "explanation": "副詞，亮晶晶地，閃閃發光地" },
+        { "point": "내 입술", "explanation": "내 (我的) + 입술 (嘴唇)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "좋아하는 우리 사이 멀어질까봐",
+      "translation": "怕我們互相喜歡的關係會疏遠",
+      "analysis": [
+        { "point": "좋아하는 우리 사이", "explanation": "좋아하다 (喜歡) 的定語形態 (-는) + 우리 (我們) + 사이 (之間，關係)" },
+        { "point": "멀어질까봐", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)" }
+      ]
+    },
+    {
+      "korean": "멀어질까 두려워",
+      "translation": "怕會疏遠而害怕",
+      "analysis": [
+        { "point": "멀어질까", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 (疑問/推測終結詞尾)" },
+        { "point": "두려워", "explanation": "두렵다 (害怕，恐懼) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "Hey boy! You make me feel like weak girl",
+      "translation": "嘿男孩！你讓我覺得像個軟弱的女孩",
+      "analysis": [
+        { "point": "Hey boy! You make me feel like weak girl", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Don't worry baby, Now I'm falling love with U",
+      "translation": "別擔心寶貝，現在我正愛上你",
+      "analysis": [
+        { "point": "Don't worry baby, Now I'm falling love with U", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "내 입술만 바라보는 나쁜 오빠 오오오",
+      "translation": "只看著我嘴唇的壞哥哥 喔喔喔",
+      "analysis": [
+        { "point": "내 입술만 바라보는", "explanation": "내 (我的) + 입술 (嘴唇) + -만 (只) + 바라보다 (凝視，看著) 的定語形態 (-는)" },
+        { "point": "나쁜 오빠", "explanation": "나쁘다 (壞) 的定語形態 (-ㄴ/은) + 오빠 (哥哥 - 女生稱呼)" },
+        { "point": "오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "틈만 나면 힐끔힐끔 오빤 나빠 오오오",
+      "translation": "一有空就偷偷瞄 哥哥你壞 喔喔喔",
+      "analysis": [
+        { "point": "틈만 나면", "explanation": "틈 (空隙，機會) + -만 (只) + 나다 (出現，發生) 的詞幹 + -(으)면 (如果...的話)" },
+        { "point": "힐끔힐끔", "explanation": "副詞，偷偷地瞄 (重複)" },
+        { "point": "오빤 나빠", "explanation": "오빠 (哥哥 - 女生稱呼) + -는 (主題助詞) 的縮略 + 나쁘다 (壞) 의非格式體" },
+        { "point": "오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "몰라몰라 싫어져도 난 몰라",
+      "translation": "不管不管 即使討厭了 我也不管",
+      "analysis": [
+        { "point": "몰라몰라", "explanation": "모르다 (不知道) 的重複，表示不管不顧" },
+        { "point": "싫어져도", "explanation": "싫어지다 (變得討厭) 의詞幹 + -아/어도 (即使...也)" },
+        { "point": "난 몰라", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 모르다 (不知道) 의非格式體" }
+      ]
+    },
+    {
+      "korean": "웃지마 웃지마 장난만 좀 치지마",
+      "translation": "別笑 別笑 別只是開玩笑",
+      "analysis": [
+        { "point": "웃지마 웃지마", "explanation": "웃다 (笑) + -지 마 (終結詞尾，不要做...) (重複)" },
+        { "point": "장난만 좀 치지마", "explanation": "장난 (玩笑) + -만 (只) + 좀 (一點，請) + 치다 (開玩笑/做) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "하지마 하지마 마마마마 마마마마",
+      "translation": "不要 不要 嘛嘛嘛嘛 嘛嘛嘛嘛",
+      "analysis": [
+        { "point": "하지마", "explanation": "하다 (做) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "마마마마", "explanation": "無意義的感嘆詞或哼唱" }
+      ]
+    },
+    {
+      "korean": "가지마 가지마 마마마마 마마마마",
+      "translation": "別走 別走 嘛嘛嘛嘛 嘛嘛嘛嘛",
+      "analysis": [
+        { "point": "가지마", "explanation": "가다 (走，去) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "마마마마", "explanation": "無意義的感嘆詞或哼唱" }
+      ]
+    },
+    {
+      "korean": "I love you",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "슬쩍슬쩍 바라보지마",
+      "translation": "不要偷偷地看我",
+      "analysis": [
+        { "point": "슬쩍슬쩍", "explanation": "副詞，偷偷地，悄悄地 (重複表示強調或連續)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "반짝반짝 내 입술 바라보지마",
+      "translation": "不要看我亮晶晶的嘴唇",
+      "analysis": [
+        { "point": "반짝반짝", "explanation": "副詞，亮晶晶地，閃閃發光地" },
+        { "point": "내 입술", "explanation": "내 (我的) + 입술 (嘴唇)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "좋아하는 우리 사이 멀어질까봐",
+      "translation": "怕我們互相喜歡的關係會疏遠",
+      "analysis": [
+        { "point": "좋아하는 우리 사이", "explanation": "좋아하다 (喜歡) 的定語形態 (-는) + 우리 (我們) + 사이 (之間，關係)" },
+        { "point": "멀어질까봐", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)" }
+      ]
+    },
+    {
+      "korean": "멀어질까 두려워",
+      "translation": "怕會疏遠而害怕",
+      "analysis": [
+        { "point": "멀어질까", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 (疑問/推測終結詞尾)" },
+        { "point": "두려워", "explanation": "두렵다 (害怕，恐懼) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "나의 사랑은 달라 come come I feel inside",
+      "translation": "我的愛不同 come come 我感覺到內心",
+      "analysis": [
+        { "point": "나의 사랑은 달라", "explanation": "나의 (我的) + 사랑 (愛) + -은 (主題助詞) + 다르다 (不同) 的非格式體" },
+        { "point": "come come I feel inside", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "자꾸자꾸 좋아져 Love Love in sweety mind",
+      "translation": "漸漸地喜歡上 Love Love in sweety mind",
+      "analysis": [
+        { "point": "자꾸자꾸", "explanation": "副詞，總是，漸漸地 (重複強調)" },
+        { "point": "좋아져", "explanation": "좋아지다 (變好，變得喜歡) 的非格式體" },
+        { "point": "Love Love in sweety mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "We make it so good(so good)",
+      "translation": "我們讓它變得很好 (很好)",
+      "analysis": [
+        { "point": "We make it so good(so good)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "We make it so hot",
+      "translation": "我們讓它變得火熱",
+      "analysis": [
+        { "point": "We make it so hot", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I wanna be your girl",
+      "translation": "我想成為你的女孩",
+      "analysis": [
+        { "point": "I wanna be your girl", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Let it all change!",
+      "translation": "讓一切都改變吧！",
+      "analysis": [
+        { "point": "Let it all change!", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "가까운 듯 멀어질 듯 알 수가 없어",
+      "translation": "像是靠近又像是遠離 無法知道",
+      "analysis": [
+        { "point": "가까운 듯", "explanation": "가깝다 (近) 的定語形態 (-ㄴ/은) + 듯 (依存名詞，好像...的樣子)" },
+        { "point": "멀어질 듯", "explanation": "멀어지다 (變遠) 의詞幹 + -(으)ㄹ 듯 (依存名詞，好像要...的樣子)" },
+        { "point": "알 수가 없어", "explanation": "알다 (知道) 의詞幹 + -(으)ㄹ 수 없다 (不能) 의非格式體" }
+      ]
+    },
+    {
+      "korean": "너와 빙글빙글 돌고 도는 사랑은 싫어",
+      "translation": "討厭和你兜兜轉轉的愛情",
+      "analysis": [
+        { "point": "너와", "explanation": "너 (你) + -와 (和)" },
+        { "point": "빙글빙글", "explanation": "副詞，團團轉地，兜圈子地" },
+        { "point": "돌고 도는 사랑은", "explanation": "돌다 (轉) + -고 돌다 (慣用型，反覆轉) 的定語形態 (-는) + 사랑 (愛) + -은 (主題助詞)" },
+        { "point": "싫어", "explanation": "싫다 (討厭) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "이제 그만 할까봐 너무 아파서 미워",
+      "translation": "現在想就此打住 因為太痛而討厭",
+      "analysis": [
+        { "point": "이제 그만 할까봐", "explanation": "이제 (現在) + 그만 (到此為止/停止) + 하다 (做) 의詞幹 + -(으)ㄹ까 보다 (連接詞尾，想著要不要.../恐怕會...)" },
+        { "point": "너무 아파서", "explanation": "너무 (太) + 아프다 (痛) 의詞幹 + -아서 (連接詞尾，因為)" },
+        { "point": "미워", "explanation": "밉다 (討厭) 의非格式體" }
+      ]
+    },
+    {
+      "korean": "하지마 하지마 마마마마 마마마마",
+      "translation": "不要 不要 嘛嘛嘛嘛 嘛嘛嘛嘛",
+      "analysis": [
+        { "point": "하지마", "explanation": "하다 (做) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "마마마마", "explanation": "無意義的感嘆詞或哼唱" }
+      ]
+    },
+    {
+      "korean": "가지마 가지마 마마마마 마마마마",
+      "translation": "別走 別走 嘛嘛嘛嘛 嘛嘛嘛嘛",
+      "analysis": [
+        { "point": "가지마", "explanation": "가다 (走，去) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "마마마마", "explanation": "無意義的感嘆詞或哼唱" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I love you",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "슬쩍슬쩍 바라보지마 반짝반짝",
+      "translation": "不要偷偷地看我 亮晶晶",
+      "analysis": [
+        { "point": "슬쩍슬쩍", "explanation": "副詞，偷偷地，悄悄地 (重複表示強調或連續)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "반짝반짝", "explanation": "副詞，亮晶晶地，閃閃發光地" }
+      ]
+    },
+    {
+      "korean": "내 입술 바라보지마",
+      "translation": "不要看我的嘴唇",
+      "analysis": [
+        { "point": "내 입술", "explanation": "내 (我的) + 입술 (嘴唇)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "좋아하는 우리 사이 멀어질까봐",
+      "translation": "怕我們互相喜歡的關係會疏遠",
+      "analysis": [
+        { "point": "좋아하는 우리 사이", "explanation": "좋아하다 (喜歡) 的定語形態 (-는) + 우리 (我們) + 사이 (之間，關係)" },
+        { "point": "멀어질까봐", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)" }
+      ]
+    },
+    {
+      "korean": "멀어질까 두려워",
+      "translation": "怕會疏遠而害怕",
+      "analysis": [
+        { "point": "멀어질까", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 (疑問/推測終結詞尾)" },
+        { "point": "두려워", "explanation": "두렵다 (害怕，恐懼) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "슬쩍슬쩍 바라보지마 반짝반짝",
+      "translation": "不要偷偷地看我 亮晶晶",
+      "analysis": [
+        { "point": "슬쩍슬쩍", "explanation": "副詞，偷偷地，悄悄地 (重複表示強調或連續)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "반짝반짝", "explanation": "副詞，亮晶晶地，閃閃發光地" }
+      ]
+    },
+    {
+      "korean": "내 입술 바라보지마",
+      "translation": "不要看我的嘴唇",
+      "analysis": [
+        { "point": "내 입술", "explanation": "내 (我的) + 입술 (嘴唇)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "좋아하는 우리 사이 멀어질까봐",
+      "translation": "怕我們互相喜歡的關係會疏遠",
+      "analysis": [
+        { "point": "좋아하는 우리 사이", "explanation": "좋아하다 (喜歡) 的定語形態 (-는) + 우리 (我們) + 사이 (之間，關係)" },
+        { "point": "멀어질까봐", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)" }
+      ]
+    },
+    {
+      "korean": "멀어질까 두려워",
+      "translation": "怕會疏遠而害怕",
+      "analysis": [
+        { "point": "멀어질까", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 (疑問/推測終結詞尾)" },
+        { "point": "두려워", "explanation": "두렵다 (害怕，恐懼) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "슬쩍슬쩍 바라보지마 반짝반짝",
+      "translation": "不要偷偷地看我 亮晶晶",
+      "analysis": [
+        { "point": "슬쩍슬쩍", "explanation": "副詞，偷偷地，悄悄地 (重複表示強調或連續)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" },
+        { "point": "반짝반짝", "explanation": "副詞，亮晶晶地，閃閃發光地" }
+      ]
+    },
+    {
+      "korean": "내 입술 바라보지마",
+      "translation": "不要看我的嘴唇",
+      "analysis": [
+        { "point": "내 입술", "explanation": "내 (我的) + 입술 (嘴唇)" },
+        { "point": "바라보지마", "explanation": "바라보다 (凝視，看著) + -지 마 (終結詞尾，不要做...)" }
+      ]
+    },
+    {
+      "korean": "좋아하는 우리 사이 멀어질까봐",
+      "translation": "怕我們互相喜歡的關係會疏遠",
+      "analysis": [
+        { "point": "좋아하는 우리 사이", "explanation": "좋아하다 (喜歡) 的定語形態 (-는) + 우리 (我們) + 사이 (之間，關係)" },
+        { "point": "멀어질까봐", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)" }
+      ]
+    },
+    {
+      "korean": "멀어질까 두려워",
+      "translation": "怕會疏遠而害怕",
+      "analysis": [
+        { "point": "멀어질까", "explanation": "멀어지다 (疏遠，變遠) 的詞幹 + -(으)ㄹ까 (疑問/推測終結詞尾)" },
+        { "point": "두려워", "explanation": "두렵다 (害怕，恐懼) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro: All",
+      "korean": "G. I. R. L. 너만의 Lady",
+      "translation": "G. I. R. L. 只屬於你的 Lady",
+      "analysis": [
+        { "point": "G. I. R. L.", "explanation": "英文縮寫" },
+        { "point": "너만의 Lady", "explanation": "너 (你) + -만 (只) + -의 (的) + Lady (英文：淑女)" }
+      ]
+    },
+    {
+      "korean": "D. A. Y oh! 난 너의 Medic",
+      "translation": "D. A. Y oh! 我是你的 Medic",
+      "analysis": [
+        { "point": "D. A. Y oh!", "explanation": "英文縮寫 + 感嘆詞" },
+        { "point": "난 너의 Medic", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 너의 (你的) + Medic (英文：醫護人員，引申為治癒者)" }
+      ]
+    },
+    {
+      "korean": "G (G) I (I) R (R) L (L)",
+      "translation": "G (G) I (I) R (R) L (L)",
+      "analysis": [
+        { "point": "G (G) I (I) R (R) L (L)", "explanation": "英文縮寫 (重複)" }
+      ]
+    },
+    {
+      "korean": "This is the Girls Day!!",
+      "translation": "這是 Girls Day!!",
+      "analysis": [
+        { "point": "This is the Girls Day!!", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "오빠", "chinese": "哥哥 (女生稱呼)", "pos": "名詞" },
+    { "korean": "나쁘다", "chinese": "壞", "pos": "形容詞" },
+    { "korean": "맘", "chinese": "心 (마음 的縮略)", "pos": "名詞" },
+    { "korean": "훔치다", "chinese": "偷", "pos": "動詞" },
+    { "korean": "못되다", "chinese": "壞/惡劣", "pos": "形容詞" },
+    { "korean": "어떡하다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "멋지다", "chinese": "帥氣/出色", "pos": "形容詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "하다", "chinese": "做", "pos": "動詞" },
+    { "korean": "가다", "chinese": "去/走", "pos": "動詞" },
+    { "korean": "슬쩍", "chinese": "偷偷地/悄悄地", "pos": "副詞" },
+    { "korean": "바라보다", "chinese": "凝視/看著", "pos": "動詞" },
+    { "korean": "반짝반짝", "chinese": "亮晶晶地/閃閃發光地", "pos": "副詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間/關係", "pos": "名詞" },
+    { "korean": "멀어지다", "chinese": "疏遠/變遠", "pos": "動詞" },
+    { "korean": "두렵다", "chinese": "害怕/恐懼", "pos": "形容詞" },
+    { "korean": "틈", "chinese": "空隙/機會", "pos": "名詞" },
+    { "korean": "힐끔힐끔", "chinese": "偷偷地瞄", "pos": "副詞" },
+    { "korean": "싫어지다", "chinese": "變得討厭", "pos": "動詞" },
+    { "korean": "장난치다", "chinese": "開玩笑", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "좋아지다", "chinese": "變好/變得喜歡", "pos": "動詞" },
+    { "korean": "가깝다", "chinese": "近", "pos": "形容詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "빙글빙글", "chinese": "團團轉地/兜圈子地", "pos": "副詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "그만하다", "chinese": "到此為止/停止做", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "밉다", "chinese": "討厭/可惡", "pos": "形容詞" },
+    { "korean": "손짓하다", "chinese": "招手/示意", "pos": "動詞" },
+    { "korean": "보여주다", "chinese": "展現給(人看)", "pos": "動詞" },
+    { "korean": "고장 나다", "chinese": "故障", "pos": "動詞片語" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "입꼬리", "chinese": "嘴角", "pos": "名詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" }
+  ]
+}

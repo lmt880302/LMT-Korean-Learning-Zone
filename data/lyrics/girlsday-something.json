@@ -4,335 +4,610 @@
   "artist": "Girl's Day (걸스데이)",
   "lines": [
     {
-      "sectionTitle": "Intro",
+      "sectionTitle": "Intro: All",
       "korean": "Don’t you look into my eyes and lie again",
       "translation": "不要看著我的眼睛再次說謊",
       "analysis": [
-        { "point": "Don’t you look into my eyes and lie again", "explanation": "英文歌詞" }
+        {
+          "point": "Don’t you look into my eyes and lie again",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "I'm sick of being alone",
       "translation": "我厭倦了孤單",
       "analysis": [
-        { "point": "I'm sick of being alone", "explanation": "英文歌詞" }
+        {
+          "point": "I'm sick of being alone",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "Drop it!",
       "translation": "放下吧！/ 算了吧！",
       "analysis": [
-        { "point": "Drop it!", "explanation": "英文歌詞" }
+        {
+          "point": "Drop it!",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
-      "sectionTitle": "Verse 1",
+      "sectionTitle": "Verse 1: Sojin, Minah",
       "korean": "흔들리는 표정 말투에",
       "translation": "在動搖的表情和語氣中",
       "analysis": [
-        { "point": "흔들리는", "explanation": "흔들리다 (搖晃，動搖) 的定語形態 (-는)，修飾 표정 말투" },
-        { "point": "표정 말투에", "explanation": "표정 (表情) + 말투 (語氣，口氣) + -에 (場所/狀態助詞)" }
+        {
+          "point": "흔들리는",
+          "explanation": "흔들리다 (搖晃，動搖) 的定語形態 (-는)，修飾 표정 말투"
+        },
+        {
+          "point": "표정 말투에",
+          "explanation": "표정 (表情) + 말투 (語氣，口氣) + -에 (場所/狀態助詞)"
+        }
       ]
     },
     {
       "korean": "넌 뭔가 있는 듯해",
       "translation": "你好像有什麼事",
       "analysis": [
-        { "point": "넌", "explanation": "너 (你) + -는 (主題助詞) 的縮略" },
-        { "point": "뭔가", "explanation": "무엇인가 (某事/什麼) 的縮略" },
-        { "point": "있는 듯해", "explanation": "있다 (有) + -(으)ㄴ/는 듯하다 (慣用型，好像...的樣子) 的非格式體" }
+        {
+          "point": "넌",
+          "explanation": "너 (你) + -는 (主題助詞) 的縮略"
+        },
+        {
+          "point": "뭔가",
+          "explanation": "무엇인가 (某事/什麼) 的縮略"
+        },
+        {
+          "point": "있는 듯해",
+          "explanation": "있다 (有) + -(으)ㄴ/는 듯하다 (慣用型，好像...的樣子) 的非格式體"
+        }
       ]
     },
     {
       "korean": "네 몸에 베인 낯선 향기에",
       "translation": "在你身上沾染的陌生香氣中",
       "analysis": [
-        { "point": "네 몸에", "explanation": "네 (你的) + 몸 (身體) + -에 (在...上)" },
-        { "point": "베인", "explanation": "베이다 (沾染，滲透 - 베다 的被動或引申義) 的過去定語形態 (-ㄴ/은)，修飾 향기" },
-        { "point": "낯선 향기에", "explanation": "낯설다 (陌生) 的定語形態 + 향기 (香氣) + -에" }
+        {
+          "point": "네 몸에",
+          "explanation": "네 (你的) + 몸 (身體) + -에 (在...上)"
+        },
+        {
+          "point": "베인",
+          "explanation": "베이다 (沾染，滲透 - 베다 的被動或引申義) 的過去定語形態 (-ㄴ/은)，修飾 향기"
+        },
+        {
+          "point": "낯선 향기에",
+          "explanation": "낯설다 (陌生) 的定語形態 + 향기 (香氣) + -에"
+        }
       ]
     },
     {
       "korean": "뭔가에 홀린 듯해",
       "translation": "像是被什麼迷惑了似的",
       "analysis": [
-        { "point": "뭔가에", "explanation": "某事/什麼 + -에 (被動/原因助詞)" },
-        { "point": "홀린 듯해", "explanation": "홀리다 (被迷惑，被迷住 - 홀다 的被動態) 的過去定語形態 + -(으)ㄴ/는 듯하다" }
+        {
+          "point": "뭔가에",
+          "explanation": "某事/什麼 + -에 (被動/原因助詞)"
+        },
+        {
+          "point": "홀린 듯해",
+          "explanation": "홀리다 (被迷惑，被迷住 - 홀다 的被動態) 的過去定語形態 + -(으)ㄴ/는 듯하다"
+        }
       ]
     },
     {
-      "sectionTitle": "Pre-Chorus",
+      "sectionTitle": "Pre-Chorus: Hyeri, Yura, Sojin, Minah",
       "korean": "내 촉에 찔리나 봐",
       "translation": "看來是被我的直覺刺中了",
       "analysis": [
-        { "point": "내 촉에", "explanation": "내 (我的) + 촉 (直覺，預感) + -에 (被動/原因助詞)" },
-        { "point": "찔리나 봐", "explanation": "찔리다 (被刺中 - 찌르다 的被動態) 的詞幹 + -나 보다 (推測語尾，看來好像...)" }
+        {
+          "point": "내 촉에",
+          "explanation": "내 (我的) + 촉 (直覺，預感) + -에 (被動/原因助詞)"
+        },
+        {
+          "point": "찔리나 봐",
+          "explanation": "찔리다 (被刺中 - 찌르다 的被動態) 的詞幹 + -나 보다 (推測語尾，看來好像...)"
+        }
       ]
     },
     {
       "korean": "허를 찌르니까 넋이 나가",
       "translation": "因為出其不意所以失魂落魄",
       "analysis": [
-        { "point": "허를 찌르니까", "explanation": "허 (空隙，弱點) + -를 (受格助詞) + 찌르다 (刺，戳) + -(으)니까 (連接詞尾，因為)" },
-        { "point": "넋이 나가", "explanation": "넋 (靈魂，精神) + -이 (主格助詞) + 나가다 (出去，失掉) 的非格式體 (넋이 나가다: 失魂落魄)" }
+        {
+          "point": "허를 찌르니까",
+          "explanation": "허 (空隙，弱點) + -를 (受格助詞) + 찌르다 (刺，戳) + -(으)니까 (連接詞尾，因為)"
+        },
+        {
+          "point": "넋이 나가",
+          "explanation": "넋 (靈魂，精神) + -이 (主格助詞) + 나가다 (出去，失掉) 的非格式體 (넋이 나가다: 失魂落魄)"
+        }
       ]
     },
     {
       "korean": "앞뒤가 이랬다 저랬다",
       "translation": "前後不一 反反覆覆",
       "analysis": [
-        { "point": "앞뒤가", "explanation": "앞뒤 (前面和後面，引申為言行) + -가 (主格助詞)" },
-        { "point": "이랬다 저랬다", "explanation": "이렇다 (這樣) 的過去式 + 저렇다 (那样) 的過去式 (이랬다 저랬다: 反反覆覆，這樣那樣)" }
+        {
+          "point": "앞뒤가",
+          "explanation": "앞뒤 (前面和後面，引申為言行) + -가 (主格助詞)"
+        },
+        {
+          "point": "이랬다 저랬다",
+          "explanation": "이렇다 (這樣) 的過去式 + 저렇다 (那样) 的過去式 (이랬다 저랬다: 反反覆覆，這樣那樣)"
+        }
       ]
     },
     {
       "korean": "왜 그러니?",
       "translation": "為什麼這樣？",
       "analysis": [
-        { "point": "왜 그러니?", "explanation": "왜 (為何) + 그러다 (那樣做/說 - 그렇다 + 하다) 的疑問形 (-니)" }
+        {
+          "point": "왜 그러니?",
+          "explanation": "왜 (為何) + 그러다 (那樣做/說 - 그렇다 + 하다) 的疑問形 (-니)"
+        }
       ]
     },
     {
       "korean": "내 촉에 찔리나 봐",
       "translation": "看來是被我的直覺刺中了",
       "analysis": [
-        { "point": "내 촉에 찔리나 봐", "explanation": "同上" }
+        {
+          "point": "내 촉에",
+          "explanation": "내 (我的) + 촉 (直覺，預感) + -에 (被動/原因助詞)"
+        },
+        {
+          "point": "찔리나 봐",
+          "explanation": "찔리다 (被刺中 - 찌르다 的被動態) 的詞幹 + -나 보다 (推測語尾，看來好像...)"
+        }
       ]
     },
     {
       "korean": "허를 찌르니까 넋이 나가",
       "translation": "因為出其不意所以失魂落魄",
       "analysis": [
-        { "point": "허를 찌르니까 넋이 나가", "explanation": "同上" }
+        {
+          "point": "허를 찌르니까",
+          "explanation": "허 (空隙，弱點) + -를 (受格助詞) + 찌르다 (刺，戳) + -(으)니까 (連接詞尾，因為)"
+        },
+        {
+          "point": "넋이 나가",
+          "explanation": "넋 (靈魂，精神) + -이 (主格助詞) + 나가다 (出去，失掉) 的非格式體 (넋이 나가다: 失魂落魄)"
+        }
       ]
     },
     {
       "korean": "왜 덜컥 겁이 나?",
       "translation": "為何突然害怕？",
       "analysis": [
-        { "point": "왜 덜컥", "explanation": "為何 + 덜컥 (副詞，突然，猛地)" },
-        { "point": "겁이 나?", "explanation": "겁 (害怕，恐懼) + -이 (主格助詞) + 나다 (產生) 的疑問形 (겁이 나다: 害怕)" }
+        {
+          "point": "왜 덜컥",
+          "explanation": "為何 + 덜컥 (副詞，突然，猛地)"
+        },
+        {
+          "point": "겁이 나?",
+          "explanation": "겁 (害怕，恐懼) + -이 (主格助詞) + 나다 (產生) 的疑問形 (겁이 나다: 害怕)"
+        }
       ]
     },
     {
       "korean": "이 손 놔, 날 속이지 마",
       "translation": "放開這手，別騙我",
       "analysis": [
-        { "point": "이 손 놔", "explanation": "이 (這) + 손 (手) + 놓다 (放開) 的非格式體命令形" },
-        { "point": "날 속이지 마", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 속이다 (欺騙) + -지 마 (終結詞尾，不要做...)" }
+        {
+          "point": "이 손 놔",
+          "explanation": "이 (這) + 손 (手) + 놓다 (放開) 的非格式體命令形"
+        },
+        {
+          "point": "날 속이지 마",
+          "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 속이다 (欺騙) + -지 마 (終結詞尾，不要做...)"
+        }
       ]
     },
     {
-      "sectionTitle": "Chorus",
+      "sectionTitle": "Chorus: All",
       "korean": "나만 몰랐었던 something",
       "translation": "只有我不知道的 something",
       "analysis": [
-        { "point": "나만", "explanation": "나 (我) + -만 (助詞，只有)" },
-        { "point": "몰랐었던", "explanation": "모르다 (不知道) 的過去完成定語形態 (-았/었었던)" },
-        { "point": "something", "explanation": "英文歌詞" }
+        {
+          "point": "나만",
+          "explanation": "나 (我) + -만 (助詞，只有)"
+        },
+        {
+          "point": "몰랐었던",
+          "explanation": "모르다 (不知道) 的過去完成定語形態 (-았/었었던)"
+        },
+        {
+          "point": "something",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "분명히 느껴져, must be something, whoa",
       "translation": "明確地感覺到，一定是 something, whoa",
       "analysis": [
-        { "point": "분명히 느껴져", "explanation": "분명히 (明確地) + 느껴지다 (被感覺到) 的非格式體" },
-        { "point": "must be something, whoa", "explanation": "英文歌詞" }
+        {
+          "point": "분명히 느껴져",
+          "explanation": "분명히 (明確地) + 느껴지다 (被感覺到) 的非格式體"
+        },
+        {
+          "point": "must be something, whoa",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "뻔한 너의 거짓말 그만 여기까지만",
       "translation": "你那顯而易見的謊言 到此為止吧",
       "analysis": [
-        { "point": "뻔한 너의 거짓말", "explanation": "뻔하다 (明顯，顯而易見) 的定語形態 (-ㄴ/은) + 너의 (你的) + 거짓말 (謊言)" },
-        { "point": "그만 여기까지만", "explanation": "그만 (副詞，到此為止，停止) + 여기 (這裡) + -까지 (到...) + -만 (只)" }
+        {
+          "point": "뻔한 너의 거짓말",
+          "explanation": "뻔하다 (明顯，顯而易見) 的定語形態 (-ㄴ/은) + 너의 (你的) + 거짓말 (謊言)"
+        },
+        {
+          "point": "그만 여기까지만",
+          "explanation": "그만 (副詞，到此為止，停止) + 여기 (這裡) + -까지 (到...) + -만 (只)"
+        }
       ]
     },
     {
       "korean": "Nothing, it's something, stop it, no, oh",
       "translation": "不是什麼，是某件事，停止吧，不，喔",
       "analysis": [
-        { "point": "Nothing, it's something, stop it, no, oh", "explanation": "英文歌詞" }
+        {
+          "point": "Nothing, it's something, stop it, no, oh",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
-      "sectionTitle": "Verse 2",
+      "sectionTitle": "Verse 2: Hyeri, Yura",
       "korean": "흐린 하늘 속 그 무지개",
       "translation": "陰沉天空中的那道彩虹",
       "analysis": [
-        { "point": "흐린 하늘 속", "explanation": "흐리다 (陰沉，模糊) 的定語形態 (-ㄴ/은) + 하늘 (天空) + 속 (裡面)" },
-        { "point": "그 무지개", "explanation": "그 (那) + 무지개 (彩虹)" }
+        {
+          "point": "흐린 하늘 속",
+          "explanation": "흐리다 (陰沉，模糊) 的定語形態 (-ㄴ/은) + 하늘 (天空) + 속 (裡面)"
+        },
+        {
+          "point": "그 무지개",
+          "explanation": "그 (那) + 무지개 (彩虹)"
+        }
       ]
     },
     {
       "korean": "슬피 우는 피아노",
       "translation": "悲傷哭泣的鋼琴",
       "analysis": [
-        { "point": "슬피 우는", "explanation": "슬프다 (悲傷) 的副詞形 (-게) 的古語或詩意表達為 슬피 + 울다 (哭泣) 的定語形態 (-는)" },
-        { "point": "피아노", "explanation": "名詞，鋼琴" }
+        {
+          "point": "슬피 우는",
+          "explanation": "슬프다 (悲傷) 的副詞形 (-게) 的古語或詩意表達為 슬피 + 울다 (哭泣) 的定語形態 (-는)"
+        },
+        {
+          "point": "피아노",
+          "explanation": "名詞，鋼琴"
+        }
       ]
     },
     {
       "korean": "네 몸에 베인 낯선 향기에",
       "translation": "在你身上沾染的陌生香氣中",
       "analysis": [
-        { "point": "네 몸에 베인 낯선 향기에", "explanation": "同 Verse 1" }
+        {
+          "point": "네 몸에",
+          "explanation": "네 (你的) + 몸 (身體) + -에 (在...上)"
+        },
+        {
+          "point": "베인",
+          "explanation": "베이다 (沾染，滲透 - 베다 的被動或引申義) 的過去定語形態 (-ㄴ/은)，修飾 향기"
+        },
+        {
+          "point": "낯선 향기에",
+          "explanation": "낯설다 (陌生) 的定語形態 + 향기 (香氣) + -에"
+        }
       ]
     },
     {
       "korean": "뭔가에 홀린 듯해",
       "translation": "像是被什麼迷惑了似的",
       "analysis": [
-        { "point": "뭔가에 홀린 듯해", "explanation": "同 Verse 1" }
+        {
+          "point": "뭔가에",
+          "explanation": "某事/什麼 + -에 (被動/原因助詞)"
+        },
+        {
+          "point": "홀린 듯해",
+          "explanation": "홀리다 (被迷惑，被迷住 - 홀다 的被動態) 的過去定語形態 + -(으)ㄴ/는 듯하다"
+        }
       ]
     },
     {
-      "sectionTitle": "Pre-Chorus",
+      "sectionTitle": "Pre-Chorus: Minah, Sojin, Yura",
       "korean": "내 촉에 찔리나 봐",
       "translation": "看來是被我的直覺刺中了",
       "analysis": [
-        { "point": "내 촉에 찔리나 봐", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "내 촉에",
+          "explanation": "내 (我的) + 촉 (直覺，預感) + -에 (被動/原因助詞)"
+        },
+        {
+          "point": "찔리나 봐",
+          "explanation": "찔리다 (被刺中 - 찌르다 的被動態) 的詞幹 + -나 보다 (推測語尾，看來好像...)"
+        }
       ]
     },
     {
       "korean": "허를 찌르니까 넋이 나가",
       "translation": "因為出其不意所以失魂落魄",
       "analysis": [
-        { "point": "허를 찌르니까 넋이 나가", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "허를 찌르니까",
+          "explanation": "허 (空隙，弱點) + -를 (受格助詞) + 찌르다 (刺，戳) + -(으)니까 (連接詞尾，因為)"
+        },
+        {
+          "point": "넋이 나가",
+          "explanation": "넋 (靈魂，精神) + -이 (主格助詞) + 나가다 (出去，失掉) 的非格式體 (넋이 나가다: 失魂落魄)"
+        }
       ]
     },
     {
       "korean": "앞뒤가 이랬다 저랬다",
       "translation": "前後不一 反反覆覆",
       "analysis": [
-        { "point": "앞뒤가 이랬다 저랬다", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "앞뒤가",
+          "explanation": "앞뒤 (前面和後面，引申為言行) + -가 (主格助詞)"
+        },
+        {
+          "point": "이랬다 저랬다",
+          "explanation": "이렇다 (這樣) 的過去式 + 저렇다 (那样) 的過去式 (이랬다 저랬다: 反反覆覆，這樣那樣)"
+        }
       ]
     },
     {
       "korean": "왜 그러니?",
       "translation": "為什麼這樣？",
       "analysis": [
-        { "point": "왜 그러니?", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "왜 그러니?",
+          "explanation": "왜 (為何) + 그러다 (那樣做/說 - 그렇다 + 하다) 的疑問形 (-니)"
+        }
       ]
     },
     {
       "korean": "내 촉에 찔리나 봐",
       "translation": "看來是被我的直覺刺中了",
       "analysis": [
-        { "point": "내 촉에 찔리나 봐", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "내 촉에",
+          "explanation": "내 (我的) + 촉 (直覺，預感) + -에 (被動/原因助詞)"
+        },
+        {
+          "point": "찔리나 봐",
+          "explanation": "찔리다 (被刺中 - 찌르다 的被動態) 的詞幹 + -나 보다 (推測語尾，看來好像...)"
+        }
       ]
     },
     {
       "korean": "허를 찌르니까 넋이 나가",
       "translation": "因為出其不意所以失魂落魄",
       "analysis": [
-        { "point": "허를 찌르니까 넋이 나가", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "허를 찌르니까",
+          "explanation": "허 (空隙，弱點) + -를 (受格助詞) + 찌르다 (刺，戳) + -(으)니까 (連接詞尾，因為)"
+        },
+        {
+          "point": "넋이 나가",
+          "explanation": "넋 (靈魂，精神) + -이 (主格助詞) + 나가다 (出去，失掉) 的非格式體 (넋이 나가다: 失魂落魄)"
+        }
       ]
     },
     {
       "korean": "왜 덜컥 겁이 나?",
       "translation": "為何突然害怕？",
       "analysis": [
-        { "point": "왜 덜컥 겁이 나?", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "왜 덜컥",
+          "explanation": "為何 + 덜컥 (副詞，突然，猛地)"
+        },
+        {
+          "point": "겁이 나?",
+          "explanation": "겁 (害怕，恐懼) + -이 (主格助詞) + 나다 (產生) 的疑問形 (겁이 나다: 害怕)"
+        }
       ]
     },
     {
       "korean": "이 손 놔, 날 속이지 마",
       "translation": "放開這手，別騙我",
       "analysis": [
-        { "point": "이 손 놔, 날 속이지 마", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "이 손 놔",
+          "explanation": "이 (這) + 손 (手) + 놓다 (放開) 的非格式體命令形"
+        },
+        {
+          "point": "날 속이지 마",
+          "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 속이다 (欺騙) + -지 마 (終結詞尾，不要做...)"
+        }
       ]
     },
     {
-      "sectionTitle": "Chorus",
+      "sectionTitle": "Chorus: All",
       "korean": "나만 몰랐었던 something",
       "translation": "只有我不知道的 something",
       "analysis": [
-        { "point": "나만 몰랐었던 something", "explanation": "同 Chorus 第一次出現" }
+        {
+          "point": "나만",
+          "explanation": "나 (我) + -만 (助詞，只有)"
+        },
+        {
+          "point": "몰랐었던",
+          "explanation": "모르다 (不知道) 的過去完成定語形態 (-았/었었던)"
+        },
+        {
+          "point": "something",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "분명히 느껴져 must be something, whoa",
       "translation": "明確地感覺到，一定是 something, whoa",
       "analysis": [
-        { "point": "분명히 느껴져 must be something, whoa", "explanation": "同 Chorus 第一次出現" }
+        {
+          "point": "분명히 느껴져",
+          "explanation": "분명히 (明確地) + 느껴지다 (被感覺到) 的非格式體"
+        },
+        {
+          "point": "must be something, whoa",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "뻔한 너의 거짓말 그만 여기까지만",
       "translation": "你那顯而易見的謊言 到此為止吧",
       "analysis": [
-        { "point": "뻔한 너의 거짓말 그만 여기까지만", "explanation": "同 Chorus 第一次出現" }
+        {
+          "point": "뻔한 너의 거짓말",
+          "explanation": "뻔하다 (明顯，顯而易見) 的定語形態 (-ㄴ/은) + 너의 (你的) + 거짓말 (謊言)"
+        },
+        {
+          "point": "그만 여기까지만",
+          "explanation": "그만 (副詞，到此為止，停止) + 여기 (這裡) + -까지 (到...) + -만 (只)"
+        }
       ]
     },
     {
       "korean": "Nothing, it's something, stop it, no, oh",
       "translation": "不是什麼，是某件事，停止吧，不，喔",
       "analysis": [
-        { "point": "Nothing, it's something, stop it, no, oh", "explanation": "英文歌詞" }
+        {
+          "point": "Nothing, it's something, stop it, no, oh",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
-      "sectionTitle": "Bridge",
+      "sectionTitle": "Bridge: Yura, Minah, Hyeri, Sojin",
       "korean": "사랑을 쉽게",
       "translation": "輕易地對待愛情",
       "analysis": [
-        { "point": "사랑을 쉽게", "explanation": "사랑 (愛情) + -을 (受格助詞) + 쉽다 (容易) 的副詞形 (-게)" }
+        {
+          "point": "사랑을 쉽게",
+          "explanation": "사랑 (愛情) + -을 (受格助詞) + 쉽다 (容易) 的副詞形 (-게)"
+        }
       ]
     },
     {
       "korean": "얻으려고 하지 마, 후회 하지 마",
       "translation": "不要想著輕易得到，不要後悔",
       "analysis": [
-        { "point": "얻으려고 하지 마", "explanation": "얻다 (得到) 的詞幹 + -(으)려고 하다 (想要做...) + -지 마 (不要做...)" },
-        { "point": "후회 하지 마", "explanation": "후회 (後悔) + 하다 (做) + -지 마" }
+        {
+          "point": "얻으려고 하지 마",
+          "explanation": "얻다 (得到) 的詞幹 + -(으)려고 하다 (想要做...) + -지 마 (不要做...)"
+        },
+        {
+          "point": "후회 하지 마",
+          "explanation": "후회 (後悔) + 하다 (做) + -지 마"
+        }
       ]
     },
     {
       "korean": "속이고 여잘 또 울리는",
       "translation": "欺騙又讓女人哭泣的",
       "analysis": [
-        { "point": "속이고", "explanation": "속이다 (欺騙) + -고 (連接)" },
-        { "point": "여잘 또 울리는", "explanation": "여자 (女人) + -를 (受格助詞) 的縮略 + 또 (又) + 울리다 (使哭泣 - 울다 的使動態) 的定語形態 (-는)" }
+        {
+          "point": "속이고",
+          "explanation": "속이다 (欺騙) + -고 (連接)"
+        },
+        {
+          "point": "여잘 또 울리는",
+          "explanation": "여자 (女人) + -를 (受格助詞) 的縮略 + 또 (又) + 울리다 (使哭泣 - 울다 的使動態) 的定語形態 (-는)"
+        }
       ]
     },
     {
       "korean": "넌 여기까지, bye, bye, bye, oh",
       "translation": "你就到此為止，bye, bye, bye, oh",
       "analysis": [
-        { "point": "넌 여기까지", "explanation": "你 到這裡為止" },
-        { "point": "bye, bye, bye, oh", "explanation": "英文歌詞" }
+        {
+          "point": "넌 여기까지",
+          "explanation": "你 到這裡為止"
+        },
+        {
+          "point": "bye, bye, bye, oh",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
-      "sectionTitle": "Chorus",
+      "sectionTitle": "Chorus: All",
       "korean": "나만 몰랐었던 something (oh, 나만 몰랐었던)",
       "translation": "只有我不知道的 something (oh, 只有我不知道的)",
       "analysis": [
-        { "point": "나만 몰랐었던 something", "explanation": "同 Chorus 第一次出現" },
-        { "point": "oh, 나만 몰랐었던", "explanation": "英文感嘆詞 + 只有我不知道的 (Ad-lib)" }
+        {
+          "point": "나만",
+          "explanation": "나 (我) + -만 (助詞，只有)"
+        },
+        {
+          "point": "몰랐었던",
+          "explanation": "모르다 (不知道) 的過去完成定語形態 (-았/었었던)"
+        },
+        {
+          "point": "something",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "oh, 나만 몰랐었던",
+          "explanation": "英文感嘆詞 + 只有我不知道的 (Ad-lib)"
+        }
       ]
     },
     {
       "korean": "분명히 느껴져 must be something, whoa (분명히 느껴지는데)",
       "translation": "明確地感覺到，一定是 something, whoa (明確地感覺到啊)",
       "analysis": [
-        { "point": "분명히 느껴져 must be something, whoa", "explanation": "同 Chorus 第一次出現" },
-        { "point": "분명히 느껴지는데", "explanation": "明確地感覺到啊 (Ad-lib)" }
+        {
+          "point": "분명히 느껴져",
+          "explanation": "분명히 (明確地) + 느껴지다 (被感覺到) 的非格式體"
+        },
+        {
+          "point": "must be something, whoa",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "분명히 느껴지는데",
+          "explanation": "明確地感覺到啊 (Ad-lib)"
+        }
       ]
     },
     {
       "korean": "뻔한 너의 거짓말 그만 여기까지만",
       "translation": "你那顯而易見的謊言 到此為止吧",
       "analysis": [
-        { "point": "뻔한 너의 거짓말 그만 여기까지만", "explanation": "同 Chorus 第一次出現" }
+        {
+          "point": "뻔한 너의 거짓말",
+          "explanation": "뻔하다 (明顯，顯而易見) 的定語形態 (-ㄴ/은) + 너의 (你的) + 거짓말 (謊言)"
+        },
+        {
+          "point": "그만 여기까지만",
+          "explanation": "그만 (副詞，到此為止，停止) + 여기 (這裡) + -까지 (到...) + -만 (只)"
+        }
       ]
     },
     {
       "korean": "Nothing (oh), it's something (hey), stop it, no, oh",
       "translation": "不是什麼 (oh)，是某件事 (hey)，停止吧，不，喔",
       "analysis": [
-        { "point": "Nothing (oh), it's something (hey), stop it, no, oh", "explanation": "英文歌詞 (包含 Ad-libs)" }
+        {
+          "point": "Nothing (oh), it's something (hey), stop it, no, oh",
+          "explanation": "英文歌詞 (包含 Ad-libs)"
+        }
       ]
     },
     {
@@ -340,93 +615,282 @@
       "korean": "내가 준 사랑이 넌 우스웠니",
       "translation": "我給的愛對你而言很可笑嗎",
       "analysis": [
-        { "point": "내가 준 사랑이", "explanation": "나 (我) + -가 (主格助詞) + 주다 (給) 的過去定語形態 (-ㄴ/은) + 사랑 (愛) + -이 (主格助詞)" },
-        { "point": "넌 우스웠니", "explanation": "你 + 우습다 (可笑，滑稽) 的過去式疑問形 (-었니)" }
+        {
+          "point": "내가 준 사랑이",
+          "explanation": "나 (我) + -가 (主格助詞) + 주다 (給) 的過去定語形態 (-ㄴ/은) + 사랑 (愛) + -이 (主格助詞)"
+        },
+        {
+          "point": "넌 우스웠니",
+          "explanation": "你 + 우습다 (可笑，滑稽) 的過去式疑問形 (-었니)"
+        }
       ]
     },
     {
       "korean": "내가 준 사랑이 지겨워졌니",
       "translation": "我給的愛讓你厭倦了嗎",
       "analysis": [
-        { "point": "내가 준 사랑이", "explanation": "同上" },
-        { "point": "지겨워졌니", "explanation": "지겨워지다 (變得厭倦 - 지겹다 (厭倦) + -어지다 (變得...)) 的過去式疑問形 (-졌니)" }
+        {
+          "point": "내가 준 사랑이",
+          "explanation": "나 (我) + -가 (主格助詞) + 주다 (給) 的過去定語形態 (-ㄴ/은) + 사랑 (愛) + -이 (主格助詞)"
+        },
+        {
+          "point": "지겨워졌니",
+          "explanation": "지겨워지다 (變得厭倦 - 지겹다 (厭倦) + -어지다 (變得...)) 的過去式疑問形 (-졌니)"
+        }
       ]
     },
     {
       "korean": "네 앞에서 보이기 싫어 참았던 눈물",
       "translation": "不想在你面前展現而忍住的眼淚",
       "analysis": [
-        { "point": "네 앞에서", "explanation": "你的 前面 + -에서" },
-        { "point": "보이기 싫어", "explanation": "보이다 (被看見/展現) 的名詞形 (-기) + 싫다 (討厭，不想) 的連接形 (-어)" },
-        { "point": "참았던 눈물", "explanation": "참다 (忍耐) 的過去定語形態 (-았던/었던) + 눈물 (眼淚)" }
+        {
+          "point": "네 앞에서",
+          "explanation": "你的 前面 + -에서"
+        },
+        {
+          "point": "보이기 싫어",
+          "explanation": "보이다 (被看見/展現) 的名詞形 (-기) + 싫다 (討厭，不想) 的連接形 (-어)"
+        },
+        {
+          "point": "참았던 눈물",
+          "explanation": "참다 (忍耐) 的過去定語形態 (-았던/었던) + 눈물 (眼淚)"
+        }
       ]
     },
     {
       "korean": "내가 준 사랑이 넌 우스웠니",
       "translation": "我給的愛對你而言很可笑嗎",
       "analysis": [
-        { "point": "내가 준 사랑이 넌 우스웠니", "explanation": "同上" }
+        {
+          "point": "내가 준 사랑이",
+          "explanation": "나 (我) + -가 (主格助詞) + 주다 (給) 的過去定語形態 (-ㄴ/은) + 사랑 (愛) + -이 (主格助詞)"
+        },
+        {
+          "point": "넌 우스웠니",
+          "explanation": "你 + 우습다 (可笑，滑稽) 的過去式疑問形 (-었니)"
+        }
       ]
     },
     {
       "korean": "내가 준 사랑이 지겨워졌니",
       "translation": "我給的愛讓你厭倦了嗎",
       "analysis": [
-        { "point": "내가 준 사랑이 지겨워졌니", "explanation": "同上" }
+        {
+          "point": "내가 준 사랑이",
+          "explanation": "나 (我) + -가 (主格助詞) + 주다 (給) 的過去定語形態 (-ㄴ/은) + 사랑 (愛) + -이 (主格助詞)"
+        },
+        {
+          "point": "지겨워졌니",
+          "explanation": "지겨워지다 (變得厭倦 - 지겹다 (厭倦) + -어지다 (變得...)) 的過去式疑問形 (-졌니)"
+        }
       ]
     },
     {
       "korean": "우린 여기까지니",
       "translation": "我們就到此為止了嗎",
       "analysis": [
-        { "point": "우린 여기까지니", "explanation": "我們 + 여기까지 (到這裡為止) + -이다 (是) 的疑問形 (-니)" }
+        {
+          "point": "우린 여기까지니",
+          "explanation": "我們 + 여기까지 (到這裡為止) + -이다 (是) 的疑問形 (-니)"
+        }
       ]
     },
     {
       "korean": "우린 여기까지니",
       "translation": "我們就到此為止了嗎",
       "analysis": [
-        { "point": "우린 여기까지니", "explanation": "同上" }
+        {
+          "point": "우린 여기까지니",
+          "explanation": "我們 + 여기까지 (到這裡為止) + -이다 (是) 的疑問形 (-니)"
+        }
       ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "흔들리다", "chinese": "搖晃/動搖", "pos": "動詞" },
-    { "korean": "표정", "chinese": "表情", "pos": "名詞" },
-    { "korean": "말투", "chinese": "語氣/口氣", "pos": "名詞" },
-    { "korean": "듯하다", "chinese": "好像...的樣子", "pos": "補助形容詞/慣用型" },
-    { "korean": "베이다", "chinese": "沾染/滲透", "pos": "動詞" },
-    { "korean": "낯설다", "chinese": "陌生", "pos": "形容詞" },
-    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
-    { "korean": "홀리다", "chinese": "被迷惑/被迷住", "pos": "動詞 (被動)" },
-    { "korean": "촉", "chinese": "直覺/預感", "pos": "名詞" },
-    { "korean": "찔리다", "chinese": "被刺中", "pos": "動詞 (被動)" },
-    { "korean": "허를 찌르다", "chinese": "出其不意/攻其不備", "pos": "慣用語" },
-    { "korean": "넋이 나가다", "chinese": "失魂落魄", "pos": "慣用語" },
-    { "korean": "앞뒤가 다르다/이랬다 저랬다", "chinese": "前後不一/反反覆覆", "pos": "慣用語" },
-    { "korean": "덜컥", "chinese": "突然/猛地", "pos": "副詞" },
-    { "korean": "겁이 나다", "chinese": "害怕", "pos": "慣用語" },
-    { "korean": "놓다", "chinese": "放開", "pos": "動詞" },
-    { "korean": "속이다", "chinese": "欺騙", "pos": "動詞" },
-    { "korean": "몰랐었다", "chinese": "曾經不知道", "pos": "動詞 (過去完成)" },
-    { "korean": "분명히", "chinese": "明確地", "pos": "副詞" },
-    { "korean": "느껴지다", "chinese": "被感覺到", "pos": "動詞 (被動)" },
-    { "korean": "뻔하다", "chinese": "明顯/顯而易見", "pos": "形容詞" },
-    { "korean": "거짓말", "chinese": "謊言", "pos": "名詞" },
-    { "korean": "그만", "chinese": "到此為止/停止", "pos": "副詞" },
-    { "korean": "흐리다", "chinese": "陰沉/模糊", "pos": "形容詞" },
-    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
-    { "korean": "무지개", "chinese": "彩虹", "pos": "名詞" },
-    { "korean": "슬피", "chinese": "悲傷地 (詩意/古語)", "pos": "副詞" },
-    { "korean": "울다", "chinese": "哭泣", "pos": "動詞" },
-    { "korean": "피아노", "chinese": "鋼琴", "pos": "名詞" },
-    { "korean": "쉽게", "chinese": "容易地", "pos": "副詞" },
-    { "korean": "얻다", "chinese": "得到", "pos": "動詞" },
-    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
-    { "korean": "울리다", "chinese": "使哭泣", "pos": "動詞 (使動)" },
-    { "korean": "우스웠다", "chinese": "曾經可笑", "pos": "形容詞 (過去)" },
-    { "korean": "지겨워지다", "chinese": "變得厭倦", "pos": "動詞" },
-    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
-    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" }
+    {
+      "korean": "흔들리다",
+      "chinese": "搖晃/動搖",
+      "pos": "動詞"
+    },
+    {
+      "korean": "표정",
+      "chinese": "表情",
+      "pos": "名詞"
+    },
+    {
+      "korean": "말투",
+      "chinese": "語氣/口氣",
+      "pos": "名詞"
+    },
+    {
+      "korean": "듯하다",
+      "chinese": "好像...的樣子",
+      "pos": "補助形容詞/慣用型"
+    },
+    {
+      "korean": "베이다",
+      "chinese": "沾染/滲透",
+      "pos": "動詞"
+    },
+    {
+      "korean": "낯설다",
+      "chinese": "陌生",
+      "pos": "形容詞"
+    },
+    {
+      "korean": "향기",
+      "chinese": "香氣",
+      "pos": "名詞"
+    },
+    {
+      "korean": "홀리다",
+      "chinese": "被迷惑/被迷住",
+      "pos": "動詞 (被動)"
+    },
+    {
+      "korean": "촉",
+      "chinese": "直覺/預感",
+      "pos": "名詞"
+    },
+    {
+      "korean": "찔리다",
+      "chinese": "被刺中",
+      "pos": "動詞 (被動)"
+    },
+    {
+      "korean": "허를 찌르다",
+      "chinese": "出其不意/攻其不備",
+      "pos": "慣用語"
+    },
+    {
+      "korean": "넋이 나가다",
+      "chinese": "失魂落魄",
+      "pos": "慣用語"
+    },
+    {
+      "korean": "앞뒤가 다르다/이랬다 저랬다",
+      "chinese": "前後不一/反反覆覆",
+      "pos": "慣用語"
+    },
+    {
+      "korean": "덜컥",
+      "chinese": "突然/猛地",
+      "pos": "副詞"
+    },
+    {
+      "korean": "겁이 나다",
+      "chinese": "害怕",
+      "pos": "慣用語"
+    },
+    {
+      "korean": "놓다",
+      "chinese": "放開",
+      "pos": "動詞"
+    },
+    {
+      "korean": "속이다",
+      "chinese": "欺騙",
+      "pos": "動詞"
+    },
+    {
+      "korean": "몰랐었다",
+      "chinese": "曾經不知道",
+      "pos": "動詞 (過去完成)"
+    },
+    {
+      "korean": "분명히",
+      "chinese": "明確地",
+      "pos": "副詞"
+    },
+    {
+      "korean": "느껴지다",
+      "chinese": "被感覺到",
+      "pos": "動詞 (被動)"
+    },
+    {
+      "korean": "뻔하다",
+      "chinese": "明顯/顯而易見",
+      "pos": "形容詞"
+    },
+    {
+      "korean": "거짓말",
+      "chinese": "謊言",
+      "pos": "名詞"
+    },
+    {
+      "korean": "그만",
+      "chinese": "到此為止/停止",
+      "pos": "副詞"
+    },
+    {
+      "korean": "흐리다",
+      "chinese": "陰沉/模糊",
+      "pos": "形容詞"
+    },
+    {
+      "korean": "하늘",
+      "chinese": "天空",
+      "pos": "名詞"
+    },
+    {
+      "korean": "무지개",
+      "chinese": "彩虹",
+      "pos": "名詞"
+    },
+    {
+      "korean": "슬피",
+      "chinese": "悲傷地 (詩意/古語)",
+      "pos": "副詞"
+    },
+    {
+      "korean": "울다",
+      "chinese": "哭泣",
+      "pos": "動詞"
+    },
+    {
+      "korean": "피아노",
+      "chinese": "鋼琴",
+      "pos": "名詞"
+    },
+    {
+      "korean": "쉽게",
+      "chinese": "容易地",
+      "pos": "副詞"
+    },
+    {
+      "korean": "얻다",
+      "chinese": "得到",
+      "pos": "動詞"
+    },
+    {
+      "korean": "후회하다",
+      "chinese": "後悔",
+      "pos": "動詞"
+    },
+    {
+      "korean": "울리다",
+      "chinese": "使哭泣",
+      "pos": "動詞 (使動)"
+    },
+    {
+      "korean": "우스웠다",
+      "chinese": "曾經可笑",
+      "pos": "形容詞 (過去)"
+    },
+    {
+      "korean": "지겨워지다",
+      "chinese": "變得厭倦",
+      "pos": "動詞"
+    },
+    {
+      "korean": "참다",
+      "chinese": "忍耐",
+      "pos": "動詞"
+    },
+    {
+      "korean": "눈물",
+      "chinese": "眼淚",
+      "pos": "名詞"
+    }
   ]
 }

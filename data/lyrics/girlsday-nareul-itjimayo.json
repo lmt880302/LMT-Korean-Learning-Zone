@@ -1,0 +1,412 @@
+{
+  "id": "girlsday-nareul-itjimayo",
+  "title": "Don't Forget Me",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "니가 손을 잡아주길 바랬어 난",
+      "translation": "我曾期盼著你能抓住我的手",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式，主格助詞 -가" },
+        { "point": "손을 잡아주길", "explanation": "손 (手) + -을 (受格助詞) + 잡다 (抓住) + -아/어 주다 (為(我)做...) 의名詞形 (-기) + -를 (受格助詞)" },
+        { "point": "바랬어", "explanation": "바라다 (期盼，希望) 的過去式非格式體 (-았/었어)" },
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略" }
+      ]
+    },
+    {
+      "korean": "너의 입술 바라보면 가슴두근",
+      "translation": "看著你的嘴唇 心跳加速",
+      "analysis": [
+        { "point": "너의 입술", "explanation": "너의 (你的) + 입술 (嘴唇)" },
+        { "point": "바라보면", "explanation": "바라보다 (凝視，看著) 的詞幹 + -(으)면 (如果...的時候)" },
+        { "point": "가슴두근", "explanation": "가슴 (心/胸口) + 두근거리다 (怦怦跳，心跳加速) 的口語化縮略或擬聲詞" }
+      ]
+    },
+    {
+      "korean": "매일 일기장엔 너의 얘기들만",
+      "translation": "每天日記裡都只有你的故事",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天" },
+        { "point": "일기장엔", "explanation": "일기장 (日記本) + -에는 (在...裡面，強調)" },
+        { "point": "너의 얘기들만", "explanation": "너의 (你的) + 얘기 (이야기 的縮略，故事) + -들 (複數後綴) + -만 (只)" }
+      ]
+    },
+    {
+      "korean": "친구와의 낙서엔 너의 이름 이름",
+      "translation": "和朋友的塗鴉裡 你的名字 名字",
+      "analysis": [
+        { "point": "친구와의", "explanation": "친구 (朋友) + -와 (和) + -의 (的)" },
+        { "point": "낙서엔", "explanation": "낙서 (塗鴉) + -에는" },
+        { "point": "너의 이름", "explanation": "너의 (你的) + 이름 (名字) (重複表示強調或思緒)" }
+      ]
+    },
+    {
+      "korean": "이름 이름",
+      "translation": "名字 名字",
+      "analysis": [
+        { "point": "이름 이름", "explanation": "이름 (名字) (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "잊고 싶지 않은 너의 그 느낌",
+      "translation": "不想忘記的你的那種感覺",
+      "analysis": [
+        { "point": "잊고 싶지 않은", "explanation": "잊다 (忘記) + -고 싶다 (想做...) + -지 않다 (否定) 的定語形態 (-은)" },
+        { "point": "너의 그 느낌", "explanation": "너의 (你的) + 그 (那) + 느낌 (感覺)" }
+      ]
+    },
+    {
+      "korean": "느낌 너의 눈빛",
+      "translation": "感覺 你的眼神",
+      "analysis": [
+        { "point": "느낌", "explanation": "名詞，感覺" },
+        { "point": "너의 눈빛", "explanation": "너의 (你的) + 눈빛 (眼神)" }
+      ]
+    },
+    {
+      "korean": "밤이 되면 꺼내보는 내 맘속",
+      "translation": "到了晚上就會拿出來看的我心中",
+      "analysis": [
+        { "point": "밤이 되면", "explanation": "밤 (夜晚) + -이 (主格助詞) + 되다 (變成) + -(으)면 (如果...的時候)" },
+        { "point": "꺼내보는", "explanation": "꺼내다 (拿出來) + -어 보다 (試著做.../做做看) 的定語形態 (-는)" },
+        { "point": "내 맘속", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + 속 (裡面)" }
+      ]
+    },
+    {
+      "korean": "기억들 니 기억들 (I'll REMEMBER U)",
+      "translation": "記憶們 你的記憶們 (我會記得你)",
+      "analysis": [
+        { "point": "기억들", "explanation": "기억 (記憶) + -들 (複數)" },
+        { "point": "니 기억들", "explanation": "니 (你的 - 너의 口語) + 기억 (記憶) + -들 (複數)" },
+        { "point": "I'll REMEMBER U", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 잊지마요 그댄 나의 BABY",
+      "translation": "不要忘記我 你是我的 BABY",
+      "analysis": [
+        { "point": "나를 잊지마요", "explanation": "나 (我) + -를 (受格助詞) + 잊다 (忘記) + -지 마요 (終結詞尾，不要做...的尊敬階)" },
+        { "point": "그댄", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略" },
+        { "point": "나의 BABY", "explanation": "나의 (我的) + BABY (英文)" }
+      ]
+    },
+    {
+      "korean": "You're Mine You're Mine You're My BABY",
+      "translation": "你是我的 你是我的 你是我的 BABY",
+      "analysis": [
+        { "point": "You're Mine You're Mine You're My BABY", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "다가와서 안아줘요 그댄 나의 BABY",
+      "translation": "靠近我抱著我吧 你是我的 BABY",
+      "analysis": [
+        { "point": "다가와서", "explanation": "다가오다 (靠近) 的連接形 (-아서/어서)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 (為(我)做...) 의尊敬階命令形" },
+        { "point": "그댄 나의 BABY", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略 + 나의 (我的) + BABY (英文)" }
+      ]
+    },
+    {
+      "korean": "You're Mine You're Mine You're My BABY",
+      "translation": "你是我的 你是我的 你是我的 BABY",
+      "analysis": [
+        { "point": "You're Mine You're Mine You're My BABY", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "시간이 지나면 잊혀질 거라는",
+      "translation": "曾說時間流逝就會被遺忘的",
+      "analysis": [
+        { "point": "시간이 지나면", "explanation": "시간 (時間) + -이 (主格助詞) + 지나다 (流逝，經過) + -(으)면 (如果...的時候)" },
+        { "point": "잊혀질 거라는", "explanation": "잊혀지다 (被忘記 - 잊다 的被動態) 的詞幹 + -(으)ㄹ 것이다 (將會...) + -(이)라는 (間接引用陳述句的定語形態)" }
+      ]
+    },
+    {
+      "korean": "그때 니말을 기억해",
+      "translation": "我記得那時你的話",
+      "analysis": [
+        { "point": "그때 니말을", "explanation": "그때 (那時) + 니 (你的 - 너의 口語) + 말 (話) + -을 (受格助詞)" },
+        { "point": "기억해", "explanation": "기억하다 (記得) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "하지만 나 아직도 너를 기억하고 있어 나",
+      "translation": "但是我到現在還記得你啊 我",
+      "analysis": [
+        { "point": "하지만", "explanation": "連接副詞，但是" },
+        { "point": "나 아직도", "explanation": "나 (我) + 아직도 (仍然，還)" },
+        { "point": "너를 기억하고 있어", "explanation": "너 (你) + -를 (受格助詞) + 기억하다 (記得) + -고 있다 (正在進行式)" },
+        { "point": "나", "explanation": "나 (我) (句末強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "근사하게 교복 잘 어울리던 너",
+      "translation": "帥氣地穿著校服很適合的你",
+      "analysis": [
+        { "point": "근사하게", "explanation": "근사하다 (帥氣，出色) 的副詞形 (-게)" },
+        { "point": "교복 잘 어울리던", "explanation": "교복 (校服) + 잘 (好好地，非常) + 어울리다 (適合) + -던 (過去回想定語形態)" },
+        { "point": "너", "explanation": "너 (你)" }
+      ]
+    },
+    {
+      "korean": "어딘지 모르게 어른같았던 널",
+      "translation": "不知怎地像大人一樣的你",
+      "analysis": [
+        { "point": "어딘지 모르게", "explanation": "어딘지 (不知何處/不知怎地) + 모르다 (不知道) + -게 (副詞形)" },
+        { "point": "어른같았던", "explanation": "어른 (大人) + 같다 (像...一樣) + -았던/었던 (過去定語形態)" },
+        { "point": "널", "explanation": "너 (你) + -를 (受格助詞) 的縮略" }
+      ]
+    },
+    {
+      "korean": "그래서 학교에서 너를 좋아해",
+      "translation": "所以在學校裡喜歡你",
+      "analysis": [
+        { "point": "그래서", "explanation": "副詞，所以" },
+        { "point": "학교에서", "explanation": "학교 (學校) + -에서 (在...地方)" },
+        { "point": "너를 좋아해", "explanation": "너 (你) + -를 (受格助詞) + 좋아하다 (喜歡) 의非格式體" }
+      ]
+    },
+    {
+      "korean": "아무에게도 말하지 못했던 내 비밀, 비밀",
+      "translation": "沒能對任何人說出口的我的秘密，秘密",
+      "analysis": [
+        { "point": "아무에게도", "explanation": "아무 (任何人) + -에게도 (連對...也)" },
+        { "point": "말하지 못했던", "explanation": "말하다 (說) + -지 못하다 (不能做...) + -았던/었던 (過去定語形態)" },
+        { "point": "내 비밀, 비밀", "explanation": "내 (我的) + 비밀 (秘密) (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "잊고 싶지 않은 너의 그 느낌",
+      "translation": "不想忘記的你的那種感覺",
+      "analysis": [
+        { "point": "잊고 싶지 않은", "explanation": "잊다 (忘記) + -고 싶다 (想做...) + -지 않다 (否定) 的定語形態 (-은)" },
+        { "point": "너의 그 느낌", "explanation": "너의 (你的) + 그 (那) + 느낌 (感覺)" }
+      ]
+    },
+    {
+      "korean": "느낌 너의 눈빛",
+      "translation": "感覺 你的眼神",
+      "analysis": [
+        { "point": "느낌", "explanation": "名詞，感覺" },
+        { "point": "너의 눈빛", "explanation": "너의 (你的) + 눈빛 (眼神)" }
+      ]
+    },
+    {
+      "korean": "밤이 되면 꺼내보는 내 맘속",
+      "translation": "到了晚上就會拿出來看的我心中",
+      "analysis": [
+        { "point": "밤이 되면", "explanation": "밤 (夜晚) + -이 (主格助詞) + 되다 (變成) + -(으)면 (如果...的時候)" },
+        { "point": "꺼내보는", "explanation": "꺼내다 (拿出來) + -어 보다 (試著做.../做做看) 的定語形態 (-는)" },
+        { "point": "내 맘속", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + 속 (裡面)" }
+      ]
+    },
+    {
+      "korean": "기억들 니 기억들 (I'll REMEMBER U)",
+      "translation": "記憶們 你的記憶們 (我會記得你)",
+      "analysis": [
+        { "point": "기억들", "explanation": "기억 (記憶) + -들 (複數)" },
+        { "point": "니 기억들", "explanation": "니 (你的 - 너의 口語) + 기억 (記憶) + -들 (複數)" },
+        { "point": "I'll REMEMBER U", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 잊지마요 그댄 나의 BABY",
+      "translation": "不要忘記我 你是我的 BABY",
+      "analysis": [
+        { "point": "나를 잊지마요", "explanation": "나 (我) + -를 (受格助詞) + 잊다 (忘記) + -지 마요 (終結詞尾，不要做...的尊敬階)" },
+        { "point": "그댄", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略" },
+        { "point": "나의 BABY", "explanation": "나의 (我的) + BABY (英文)" }
+      ]
+    },
+    {
+      "korean": "You're Mine You're Mine You're My BABY",
+      "translation": "你是我的 你是我的 你是我的 BABY",
+      "analysis": [
+        { "point": "You're Mine You're Mine You're My BABY", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "다가와서 안아줘요 그댄 나의 BABY",
+      "translation": "靠近我抱著我吧 你是我的 BABY",
+      "analysis": [
+        { "point": "다가와서", "explanation": "다가오다 (靠近) 的連接形 (-아서/어서)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 (為(我)做...) 의尊敬階命令形" },
+        { "point": "그댄 나의 BABY", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略 + 나의 (我的) + BABY (英文)" }
+      ]
+    },
+    {
+      "korean": "You're Mine You're Mine You're My BABY",
+      "translation": "你是我的 你是我的 你是我的 BABY",
+      "analysis": [
+        { "point": "You're Mine You're Mine You're My BABY", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Uh I miss u, I need u I want u",
+      "translation": "Uh 我想你，我需要你，我想要你",
+      "analysis": [
+        { "point": "Uh I miss u, I need u I want u", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Uh I miss u, I need u I want u",
+      "translation": "Uh 我想你，我需要你，我想要你",
+      "analysis": [
+        { "point": "Uh I miss u, I need u I want u", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "그때 말하지 못했던 내 맘,",
+      "translation": "那時沒能說出口的我的心，",
+      "analysis": [
+        { "point": "그때 말하지 못했던", "explanation": "그때 (那時) + 말하다 (說) + -지 못하다 (不能做...) + -았던/었던 (過去定語形態)" },
+        { "point": "내 맘,", "explanation": "내 (我的) + 맘 (마음 的縮略，心)，" }
+      ]
+    },
+    {
+      "korean": "너무 부끄러워 그랬어",
+      "translation": "因為太害羞了才那樣",
+      "analysis": [
+        { "point": "너무 부끄러워", "explanation": "너무 (太) + 부끄럽다 (害羞) 의連接形 (-어/아)" },
+        { "point": "그랬어", "explanation": "그렇다 (那樣) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "나도 너를 갖고 싶어 이제 Ooh uh",
+      "translation": "我也想擁有你 現在 Ooh uh",
+      "analysis": [
+        { "point": "나도 너를", "explanation": "나 (我) + -도 (也) + 너 (你) + -를 (受格助詞)" },
+        { "point": "갖고 싶어", "explanation": "가지다 (擁有) + -고 싶다 (想做...)" },
+        { "point": "이제 Ooh uh", "explanation": "이제 (現在) + Ooh uh (感嘆詞)" }
+      ]
+    },
+    {
+      "korean": "너를, 너를",
+      "translation": "你，你",
+      "analysis": [
+        { "point": "너를, 너를", "explanation": "너 (你) + -를 (受格助詞) (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "잊고 싶지 않은 너의 그 느낌",
+      "translation": "不想忘記的你的那種感覺",
+      "analysis": [
+        { "point": "잊고 싶지 않은", "explanation": "잊다 (忘記) + -고 싶다 (想做...) + -지 않다 (否定) 的定語形態 (-은)" },
+        { "point": "너의 그 느낌", "explanation": "너의 (你的) + 그 (那) + 느낌 (感覺)" }
+      ]
+    },
+    {
+      "korean": "느낌 너의 눈빛",
+      "translation": "感覺 你的眼神",
+      "analysis": [
+        { "point": "느낌", "explanation": "名詞，感覺" },
+        { "point": "너의 눈빛", "explanation": "너의 (你的) + 눈빛 (眼神)" }
+      ]
+    },
+    {
+      "korean": "밤이 되면 꺼내보는 내 맘속",
+      "translation": "到了晚上就會拿出來看的我心中",
+      "analysis": [
+        { "point": "밤이 되면", "explanation": "밤 (夜晚) + -이 (主格助詞) + 되다 (變成) + -(으)면 (如果...的時候)" },
+        { "point": "꺼내보는", "explanation": "꺼내다 (拿出來) + -어 보다 (試著做.../做做看) 的定語形態 (-는)" },
+        { "point": "내 맘속", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + 속 (裡面)" }
+      ]
+    },
+    {
+      "korean": "기억들 니 기억들 (I'll REMEMBER U)",
+      "translation": "記憶們 你的記憶們 (我會記得你)",
+      "analysis": [
+        { "point": "기억들", "explanation": "기억 (記憶) + -들 (複數)" },
+        { "point": "니 기억들", "explanation": "니 (你的 - 너의 口語) + 기억 (記憶) + -들 (複數)" },
+        { "point": "I'll REMEMBER U", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 잊지마요 그댄 나의 BABY",
+      "translation": "不要忘記我 你是我的 BABY",
+      "analysis": [
+        { "point": "나를 잊지마요", "explanation": "나 (我) + -를 (受格助詞) + 잊다 (忘記) + -지 마요 (終結詞尾，不要做...的尊敬階)" },
+        { "point": "그댄", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略" },
+        { "point": "나의 BABY", "explanation": "나의 (我的) + BABY (英文)" }
+      ]
+    },
+    {
+      "korean": "You're Mine You're Mine You're My BABY",
+      "translation": "你是我的 你是我的 你是我的 BABY",
+      "analysis": [
+        { "point": "You're Mine You're Mine You're My BABY", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "다가와서 안아줘요 그댄 나의 BABY",
+      "translation": "靠近我抱著我吧 你是我的 BABY",
+      "analysis": [
+        { "point": "다가와서", "explanation": "다가오다 (靠近) 의連接形 (-아서/어서)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 (為(我)做...) 의尊敬階命令形" },
+        { "point": "그댄 나의 BABY", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略 + 나의 (我的) + BABY (英文)" }
+      ]
+    },
+    {
+      "korean": "You're Mine You're Mine You're My BABY",
+      "translation": "你是我的 你是我的 你是我的 BABY",
+      "analysis": [
+        { "point": "You're Mine You're Mine You're My BABY", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "期盼/希望", "pos": "動詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝視/看著", "pos": "動詞" },
+    { "korean": "가슴두근", "chinese": "心跳加速 (口語)", "pos": "名詞/擬聲詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "일기장", "chinese": "日記本", "pos": "名詞" },
+    { "korean": "얘기", "chinese": "故事/話 (이야기 縮略)", "pos": "名詞" },
+    { "korean": "친구", "chinese": "朋友", "pos": "名詞" },
+    { "korean": "낙서", "chinese": "塗鴉", "pos": "名詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "싶다", "chinese": "想(做)", "pos": "補助形容詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "되다", "chinese": "變成", "pos": "動詞" },
+    { "korean": "꺼내다", "chinese": "拿出來", "pos": "動詞" },
+    { "korean": "맘속", "chinese": "心中 (마음속 縮略)", "pos": "名詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "그대", "chinese": "你 (書面/詩意)", "pos": "代名詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "流逝/經過", "pos": "動詞" },
+    { "korean": "잊혀지다", "chinese": "被忘記", "pos": "動詞 (被動)" },
+    { "korean": "하지만", "chinese": "但是", "pos": "連接副詞" },
+    { "korean": "아직도", "chinese": "仍然/還", "pos": "副詞" },
+    { "korean": "근사하다", "chinese": "帥氣/出色", "pos": "形容詞" },
+    { "korean": "교복", "chinese": "校服", "pos": "名詞" },
+    { "korean": "어울리다", "chinese": "適合", "pos": "動詞" },
+    { "korean": "어딘지 모르게", "chinese": "不知怎地", "pos": "慣用語" },
+    { "korean": "어른", "chinese": "大人", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像...一樣", "pos": "形容詞" },
+    { "korean": "학교", "chinese": "學校", "pos": "名詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "아무", "chinese": "任何(人/事物)", "pos": "代名詞/冠形詞" },
+    { "korean": "말하다", "chinese": "說話", "pos": "動詞" },
+    { "korean": "비밀", "chinese": "秘密", "pos": "名詞" },
+    { "korean": "부끄럽다", "chinese": "害羞", "pos": "形容詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" }
+  ]
+}

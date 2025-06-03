@@ -1,48 +1,81 @@
 {
   "id": "acourve-chwihangime",
   "title": "취한김에",
-  "artist": "Acourve",
+  "artist": "Acourve(어쿠루브)",
   "lines": [
     {
       "sectionTitle": "Verse 1",
       "korean": "취한김에 너에게 말할까",
       "translation": "要不要藉著酒意對你說呢",
       "analysis": [
-        { "point": "취한김에", "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)" },
-        { "point": "너에게", "explanation": "너 (你) + -에게 (對，向)" },
-        { "point": "말할까", "explanation": "말하다 (說) 的詞幹 + -(으)ㄹ까 (終結詞尾，表示疑問、推測或徵求意見「要不要...呢」)" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "너에게",
+          "explanation": "너 (你) + -에게 (對，向)"
+        },
+        {
+          "point": "말할까",
+          "explanation": "말하다 (說) 的詞幹 + -(으)ㄹ까 (終結詞尾，表示疑問、推測或徵求意見「要不要...呢」)"
+        }
       ]
     },
     {
       "korean": "취한김에 고백을 해볼까",
       "translation": "要不要藉著酒意告白看看呢",
       "analysis": [
-        { "point": "취한김에", "explanation": "同上" },
-        { "point": "고백을 해볼까", "explanation": "고백 (告白) + -을 (受格助詞) + 하다 (做) 的詞幹 + -아/어 보다 (試著做...) + -(으)ㄹ까" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "고백을 해볼까",
+          "explanation": "고백 (告白) + -을 (受格助詞) + 하다 (做) 的詞幹 + -아/어 보다 (試著做...) + -(으)ㄹ까"
+        }
       ]
     },
     {
       "korean": "오래전부터 너를",
       "translation": "從很久以前就對你",
       "analysis": [
-        { "point": "오래전부터", "explanation": "오래전 (很久以前) + -부터 (從...開始)" },
-        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)" }
+        {
+          "point": "오래전부터",
+          "explanation": "오래전 (很久以前) + -부터 (從...開始)"
+        },
+        {
+          "point": "너를",
+          "explanation": "너 (你) + -를 (受格助詞)"
+        }
       ]
     },
     {
       "korean": "좋아해왔었다고 말야",
       "translation": "一直喜歡著你啊",
       "analysis": [
-        { "point": "좋아해왔었다고", "explanation": "좋아하다 (喜歡) + -아/어 오다 (一直做某事過來) 的過去完成式 좋아해왔었- + -다고 (間接引用陳述句)" },
-        { "point": "말야", "explanation": "말이다 (是話啊/就是說啊) 的口語縮略，用於強調或確認" }
+        {
+          "point": "좋아해왔었다고",
+          "explanation": "좋아하다 (喜歡) + -아/어 오다 (一直做某事過來) 的過去完成式 좋아해왔었- + -다고 (間接引用陳述句)"
+        },
+        {
+          "point": "말야",
+          "explanation": "말이다 (是話啊/就是說啊) 的口語縮略，用於強調或確認"
+        }
       ]
     },
     {
       "korean": "오늘밤엔 말하고 싶어",
       "translation": "今晚想要說出口",
       "analysis": [
-        { "point": "오늘밤엔", "explanation": "오늘밤 (今晚) + -에는 (在...時候，強調)" },
-        { "point": "말하고 싶어", "explanation": "말하다 (說) + -고 싶다 (想做...)" }
+        {
+          "point": "오늘밤엔",
+          "explanation": "오늘밤 (今晚) + -에는 (在...時候，強調)"
+        },
+        {
+          "point": "말하고 싶어",
+          "explanation": "말하다 (說) + -고 싶다 (想做...)"
+        }
       ]
     },
     {
@@ -50,33 +83,60 @@
       "korean": "좀 취했나봐",
       "translation": "看來有點醉了",
       "analysis": [
-        { "point": "좀", "explanation": "조금 (一點) 的縮略" },
-        { "point": "취했나봐", "explanation": "취하다 (醉) 的過去式詞幹 취했- + -나 보다 (推測語尾，看來好像...)" }
+        {
+          "point": "좀",
+          "explanation": "조금 (一點) 的縮略"
+        },
+        {
+          "point": "취했나봐",
+          "explanation": "취하다 (醉) 的過去式詞幹 취했- + -나 보다 (推測語尾，看來好像...)"
+        }
       ]
     },
     {
       "korean": "니 앞에서면 하려던 말도 잘못해",
       "translation": "在你面前的話 連想說的話都說不好",
       "analysis": [
-        { "point": "니 앞에서면", "explanation": "니 (你的 - 너의 口語) + 앞 (前面) + -에서 (在...地方) + -(으)면 (如果...的話)" },
-        { "point": "하려던 말도", "explanation": "하다 (做/說) + -(으)려던 (過去打算做的定語形) + 말 (話) + -도 (也)" },
-        { "point": "잘못해", "explanation": "잘못하다 (做錯，說錯，不擅長) 的非格式體" }
+        {
+          "point": "니 앞에서면",
+          "explanation": "니 (你的 - 너의 口語) + 앞 (前面) + -에서 (在...地方) + -(으)면 (如果...的話)"
+        },
+        {
+          "point": "하려던 말도",
+          "explanation": "하다 (做/說) + -(으)려던 (過去打算做的定語形) + 말 (話) + -도 (也)"
+        },
+        {
+          "point": "잘못해",
+          "explanation": "잘못하다 (做錯，說錯，不擅長) 的非格式體"
+        }
       ]
     },
     {
       "korean": "실수할까봐",
       "translation": "怕會失誤",
       "analysis": [
-        { "point": "실수할까봐", "explanation": "실수하다 (失誤) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)" }
+        {
+          "point": "실수할까봐",
+          "explanation": "실수하다 (失誤) 的詞幹 + -(으)ㄹ까 봐 (連接詞尾，擔心會.../恐怕會...)"
+        }
       ]
     },
     {
       "korean": "좀 천천히 마셔봐도 너를 쳐다보면",
       "translation": "即使試著慢慢喝 看著你的話",
       "analysis": [
-        { "point": "좀 천천히", "explanation": "一點 慢慢地" },
-        { "point": "마셔봐도", "explanation": "마시다 (喝) + -어 보다 (試著做...) + -아/어도 (即使...也)" },
-        { "point": "너를 쳐다보면", "explanation": "你(受格) + 쳐다보다 (凝視，盯著看) + -(으)면" }
+        {
+          "point": "좀 천천히",
+          "explanation": "一點 慢慢地"
+        },
+        {
+          "point": "마셔봐도",
+          "explanation": "마시다 (喝) + -어 보다 (試著做...) + -아/어도 (即使...也)"
+        },
+        {
+          "point": "너를 쳐다보면",
+          "explanation": "你(受格) + 쳐다보다 (凝視，盯著看) + -(으)면"
+        }
       ]
     },
     {
@@ -84,33 +144,60 @@
       "korean": "바보처럼 다 무너져",
       "translation": "像傻瓜一樣全都崩潰了",
       "analysis": [
-        { "point": "바보처럼", "explanation": "바보 (傻瓜) + -처럼 (像...一樣)" },
-        { "point": "다 무너져", "explanation": "다 (全都) + 무너지다 (崩潰，倒塌) 的非格式體" }
+        {
+          "point": "바보처럼",
+          "explanation": "바보 (傻瓜) + -처럼 (像...一樣)"
+        },
+        {
+          "point": "다 무너져",
+          "explanation": "다 (全都) + 무너지다 (崩潰，倒塌) 的非格式體"
+        }
       ]
     },
     {
       "korean": "술한잔에 취해 너의 미소처럼",
       "translation": "醉在一杯酒裡 像你的微笑一樣",
       "analysis": [
-        { "point": "술한잔에 취해", "explanation": "술 한 잔 (一杯酒) + -에 (助詞，因.../在...) + 취하다 (醉) 的連接形 (-아/어)" },
-        { "point": "너의 미소처럼", "explanation": "你的 微笑 + -처럼" }
+        {
+          "point": "술한잔에 취해",
+          "explanation": "술 한 잔 (一杯酒) + -에 (助詞，因.../在...) + 취하다 (醉) 的連接形 (-아/어)"
+        },
+        {
+          "point": "너의 미소처럼",
+          "explanation": "你的 微笑 + -처럼"
+        }
       ]
     },
     {
       "korean": "오늘밤엔 그냥 넘길수가 없어 난",
       "translation": "今晚我就是無法就這樣度過",
       "analysis": [
-        { "point": "오늘밤엔 그냥", "explanation": "今晚 就這樣" },
-        { "point": "넘길수가 없어", "explanation": "넘기다 (度過，翻過) + -(으)ㄹ 수 없다 (不能)" },
-        { "point": "난", "explanation": "我(主題)" }
+        {
+          "point": "오늘밤엔 그냥",
+          "explanation": "今晚 就這樣"
+        },
+        {
+          "point": "넘길수가 없어",
+          "explanation": "넘기다 (度過，翻過) + -(으)ㄹ 수 없다 (不能)"
+        },
+        {
+          "point": "난",
+          "explanation": "我(主題)"
+        }
       ]
     },
     {
       "korean": "말하고 싶어 후회를 해도",
       "translation": "想要說出口 即使會後悔",
       "analysis": [
-        { "point": "말하고 싶어", "explanation": "想說出口" },
-        { "point": "후회를 해도", "explanation": "후회 (後悔) + -를 (受格助詞) + 하다 (做) + -아/어도 (即使...也)" }
+        {
+          "point": "말하고 싶어",
+          "explanation": "말하다 (說) + -고 싶다 (想做...)"
+        },
+        {
+          "point": "후회를 해도",
+          "explanation": "후회 (後悔) + -를 (受格助詞) + 하다 (做) + -아/어도 (即使...也)"
+        }
       ]
     },
     {
@@ -118,35 +205,74 @@
       "korean": "취한김에 너에게 말할까",
       "translation": "要不要藉著酒意對你說呢",
       "analysis": [
-        { "point": "취한김에 너에게 말할까", "explanation": "同 Verse 1 第一句" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "너에게",
+          "explanation": "너 (你) + -에게 (對，向)"
+        },
+        {
+          "point": "말할까",
+          "explanation": "말하다 (說) 的詞幹 + -(으)ㄹ까 (終結詞尾，表示疑問、推測或徵求意見「要不要...呢」)"
+        }
       ]
     },
     {
       "korean": "취한김에 고백을 해볼까",
       "translation": "要不要藉著酒意告白看看呢",
       "analysis": [
-        { "point": "취한김에 고백을 해볼까", "explanation": "同 Verse 1 第二句" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "고백을 해볼까",
+          "explanation": "고백 (告白) + -을 (受格助詞) + 하다 (做) 的詞幹 + -아/어 보다 (試著做...) + -(으)ㄹ까"
+        }
       ]
     },
     {
       "korean": "오래전부터 너를",
       "translation": "從很久以前就對你",
       "analysis": [
-        { "point": "오래전부터 너를", "explanation": "同 Verse 1 第三句" }
+        {
+          "point": "오래전부터",
+          "explanation": "오래전 (很久以前) + -부터 (從...開始)"
+        },
+        {
+          "point": "너를",
+          "explanation": "너 (你) + -를 (受格助詞)"
+        }
       ]
     },
     {
       "korean": "좋아해왔었다고 말야",
       "translation": "一直喜歡著你啊",
       "analysis": [
-        { "point": "좋아해왔었다고 말야", "explanation": "同 Verse 1 第四句" }
+        {
+          "point": "좋아해왔었다고",
+          "explanation": "좋아하다 (喜歡) + -아/어 오다 (一直做某事過來) 的過去完成式 좋아해왔었- + -다고 (間接引用陳述句)"
+        },
+        {
+          "point": "말야",
+          "explanation": "말이다 (是話啊/就是說啊) 的口語縮略，用於強調或確認"
+        }
       ]
     },
     {
       "korean": "오늘밤엔 말하고 싶어",
       "translation": "今晚想要說出口",
       "analysis": [
-        { "point": "오늘밤엔 말하고 싶어", "explanation": "同 Verse 1 第五句" }
+        {
+          "point": "오늘밤엔",
+          "explanation": "오늘밤 (今晚) + -에는 (在...時候，強調)"
+        },
+        {
+          "point": "말하고 싶어",
+          "explanation": "말하다 (說) + -고 싶다 (想做...)"
+        }
       ]
     },
     {
@@ -154,56 +280,98 @@
       "korean": "농담에 숨겨진",
       "translation": "隱藏在玩笑中的",
       "analysis": [
-        { "point": "농담에", "explanation": "농담 (玩笑) + -에 (在...之中)" },
-        { "point": "숨겨진", "explanation": "숨겨지다 (被隱藏 - 숨기다 的被動態) 的過去定語形態 (-ㄴ/은)" }
+        {
+          "point": "농담에",
+          "explanation": "농담 (玩笑) + -에 (在...之中)"
+        },
+        {
+          "point": "숨겨진",
+          "explanation": "숨겨지다 (被隱藏 - 숨기다 的被動態) 的過去定語形態 (-ㄴ/은)"
+        }
       ]
     },
     {
       "korean": "나의 마음을 너에게 말하려 해",
       "translation": "想要對你說出我的心意",
       "analysis": [
-        { "point": "나의 마음을", "explanation": "我的 心意(受格)" },
-        { "point": "너에게 말하려 해", "explanation": "對你 + 말하다 (說) + -(으)려고 하다 (想要做...)" }
+        {
+          "point": "나의 마음을",
+          "explanation": "我的 心意(受格)"
+        },
+        {
+          "point": "너에게 말하려 해",
+          "explanation": "對你 + 말하다 (說) + -(으)려고 하다 (想要做...)"
+        }
       ]
     },
     {
       "korean": "술에 취해 흔들린",
       "translation": "因酒醉而晃動的",
       "analysis": [
-        { "point": "술에 취해", "explanation": "酒 + -에 (因) + 醉(連接形)" },
-        { "point": "흔들린", "explanation": "흔들리다 (晃動，動搖) 的過去定語形態 (-ㄴ/은)" }
+        {
+          "point": "술에 취해",
+          "explanation": "酒 + -에 (因) + 醉(連接形)"
+        },
+        {
+          "point": "흔들린",
+          "explanation": "흔들리다 (晃動，動搖) 的過去定語形態 (-ㄴ/은)"
+        }
       ]
     },
     {
       "korean": "나의 눈빛을 너에게 비추려해",
       "translation": "想要讓你看見我的眼神",
       "analysis": [
-        { "point": "나의 눈빛을", "explanation": "我的 眼神(受格)" },
-        { "point": "너에게 비추려해", "explanation": "對你 + 비추다 (照耀，映照) + -(으)려고 하다" }
+        {
+          "point": "나의 눈빛을",
+          "explanation": "我的 眼神(受格)"
+        },
+        {
+          "point": "너에게 비추려해",
+          "explanation": "對你 + 비추다 (照耀，映照) + -(으)려고 하다"
+        }
       ]
     },
     {
       "korean": "저 달빛에 비친 너의",
       "translation": "映照在那月光下的你的",
       "analysis": [
-        { "point": "저 달빛에 비친", "explanation": "저 (那) + 달빛 (月光) + -에 (被動助詞) + 비치다 (被映照) 的過去定語形態 (-ㄴ/은)" },
-        { "point": "너의", "explanation": "你的" }
+        {
+          "point": "저 달빛에 비친",
+          "explanation": "저 (那) + 달빛 (月光) + -에 (被動助詞) + 비치다 (被映照) 的過去定語形態 (-ㄴ/은)"
+        },
+        {
+          "point": "너의",
+          "explanation": "你的"
+        }
       ]
     },
     {
       "korean": "숨막힐듯한 미소에",
       "translation": "令人窒息般的微笑",
       "analysis": [
-        { "point": "숨막힐듯한", "explanation": "숨막히다 (窒息) + -(으)ㄹ 듯하다 (好像要...的樣子) 的定語形態" },
-        { "point": "미소에", "explanation": "미소 (微笑) + -에 (因...)" }
+        {
+          "point": "숨막힐듯한",
+          "explanation": "숨막히다 (窒息) + -(으)ㄹ 듯하다 (好像要...的樣子) 的定語形態"
+        },
+        {
+          "point": "미소에",
+          "explanation": "미소 (微笑) + -에 (因...)"
+        }
       ]
     },
     {
       "korean": "말을 잃어가 너를 바라보면",
       "translation": "漸漸說不出話來 看著你的話",
       "analysis": [
-        { "point": "말을 잃어가", "explanation": "話(受格) + 잃다 (失去) + -어 가다 (逐漸進行)" },
-        { "point": "너를 바라보면", "explanation": "你(受格) + 바라보다 (凝視) + -(으)면" }
+        {
+          "point": "말을 잃어가",
+          "explanation": "話(受格) + 잃다 (失去) + -어 가다 (逐漸進行)"
+        },
+        {
+          "point": "너를 바라보면",
+          "explanation": "你(受格) + 바라보다 (凝視) + -(으)면"
+        }
       ]
     },
     {
@@ -211,28 +379,60 @@
       "korean": "바보처럼 다 무너져",
       "translation": "像傻瓜一樣全都崩潰了",
       "analysis": [
-        { "point": "바보처럼 다 무너져", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "바보처럼",
+          "explanation": "바보 (傻瓜) + -처럼 (像...一樣)"
+        },
+        {
+          "point": "다 무너져",
+          "explanation": "다 (全都) + 무너지다 (崩潰，倒塌) 的非格式體"
+        }
       ]
     },
     {
       "korean": "술한잔에 취해 너의 미소처럼",
       "translation": "醉在一杯酒裡 像你的微笑一樣",
       "analysis": [
-        { "point": "술한잔에 취해 너의 미소처럼", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "술한잔에 취해",
+          "explanation": "술 한 잔 (一杯酒) + -에 (助詞，因.../在...) + 취하다 (醉) 的連接形 (-아/어)"
+        },
+        {
+          "point": "너의 미소처럼",
+          "explanation": "你的 微笑 + -처럼"
+        }
       ]
     },
     {
       "korean": "오늘밤엔 그냥 넘길수가 없어 난",
       "translation": "今晚我就是無法就這樣度過",
       "analysis": [
-        { "point": "오늘밤엔 그냥 넘길수가 없어 난", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "오늘밤엔 그냥",
+          "explanation": "今晚 就這樣"
+        },
+        {
+          "point": "넘길수가 없어",
+          "explanation": "넘기다 (度過，翻過) + -(으)ㄹ 수 없다 (不能)"
+        },
+        {
+          "point": "난",
+          "explanation": "我(主題)"
+        }
       ]
     },
     {
       "korean": "말하고 싶어 후회를 해도",
       "translation": "想要說出口 即使會後悔",
       "analysis": [
-        { "point": "말하고 싶어 후회를 해도", "explanation": "同 Pre-Chorus 第一次出現" }
+        {
+          "point": "말하고 싶어",
+          "explanation": "말하다 (說) + -고 싶다 (想做...)"
+        },
+        {
+          "point": "후회를 해도",
+          "explanation": "후회 (後悔) + -를 (受格助詞) + 하다 (做) + -아/어도 (即使...也)"
+        }
       ]
     },
     {
@@ -240,35 +440,74 @@
       "korean": "취한김에 너에게 말할까",
       "translation": "要不要藉著酒意對你說呢",
       "analysis": [
-        { "point": "취한김에 너에게 말할까", "explanation": "同 Verse 1 第一句" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "너에게",
+          "explanation": "너 (你) + -에게 (對，向)"
+        },
+        {
+          "point": "말할까",
+          "explanation": "말하다 (說) 的詞幹 + -(으)ㄹ까 (終結詞尾，表示疑問、推測或徵求意見「要不要...呢」)"
+        }
       ]
     },
     {
       "korean": "취한김에 고백을 해볼까",
       "translation": "要不要藉著酒意告白看看呢",
       "analysis": [
-        { "point": "취한김에 고백을 해볼까", "explanation": "同 Verse 1 第二句" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "고백을 해볼까",
+          "explanation": "고백 (告白) + -을 (受格助詞) + 하다 (做) 的詞幹 + -아/어 보다 (試著做...) + -(으)ㄹ까"
+        }
       ]
     },
     {
       "korean": "오래전부터 너를",
       "translation": "從很久以前就對你",
       "analysis": [
-        { "point": "오래전부터 너를", "explanation": "同 Verse 1 第三句" }
+        {
+          "point": "오래전부터",
+          "explanation": "오래전 (很久以前) + -부터 (從...開始)"
+        },
+        {
+          "point": "너를",
+          "explanation": "너 (你) + -를 (受格助詞)"
+        }
       ]
     },
     {
       "korean": "좋아해왔었다고 말야",
       "translation": "一直喜歡著你啊",
       "analysis": [
-        { "point": "좋아해왔었다고 말야", "explanation": "同 Verse 1 第四句" }
+        {
+          "point": "좋아해왔었다고",
+          "explanation": "좋아하다 (喜歡) + -아/어 오다 (一直做某事過來) 的過去完成式 좋아해왔었- + -다고 (間接引用陳述句)"
+        },
+        {
+          "point": "말야",
+          "explanation": "말이다 (是話啊/就是說啊) 的口語縮略，用於強調或確認"
+        }
       ]
     },
     {
       "korean": "오늘밤엔 말하고 싶어",
       "translation": "今晚想要說出口",
       "analysis": [
-        { "point": "오늘밤엔 말하고 싶어", "explanation": "同 Verse 1 第五句" }
+        {
+          "point": "오늘밤엔",
+          "explanation": "오늘밤 (今晚) + -에는 (在...時候，強調)"
+        },
+        {
+          "point": "말하고 싶어",
+          "explanation": "말하다 (說) + -고 싶다 (想做...)"
+        }
       ]
     },
     {
@@ -276,16 +515,28 @@
       "korean": "좀 취해보여도 진심이야",
       "translation": "即使看起來有點醉 也是真心的",
       "analysis": [
-        { "point": "좀 취해보여도", "explanation": "一點 + 취하다 (醉) + -아/어 보이다 (看起來像...) + -아/어도 (即使...也)" },
-        { "point": "진심이야", "explanation": "진심 (真心) + -이다 (是) 的非格式體" }
+        {
+          "point": "좀 취해보여도",
+          "explanation": "一點 + 취하다 (醉) + -아/어 보이다 (看起來像...) + -아/어도 (即使...也)"
+        },
+        {
+          "point": "진심이야",
+          "explanation": "진심 (真心) + -이다 (是) 的非格式體"
+        }
       ]
     },
     {
       "korean": "정말 이런 내맘 알아줘",
       "translation": "真的 請理解我這樣的心意",
       "analysis": [
-        { "point": "정말 이런 내맘", "explanation": "真的 這樣的 我的心" },
-        { "point": "알아줘", "explanation": "알다 (知道，理解) + -아/어 주다 (為(我)做...) 的命令形" }
+        {
+          "point": "정말 이런 내맘",
+          "explanation": "真的 這樣的 我的心"
+        },
+        {
+          "point": "알아줘",
+          "explanation": "알다 (知道，理解) + -아/어 주다 (為(我)做...) 的命令形"
+        }
       ]
     },
     {
@@ -293,72 +544,247 @@
       "korean": "취한김에 너에게 말할까",
       "translation": "要不要藉著酒意對你說呢",
       "analysis": [
-        { "point": "취한김에 너에게 말할까", "explanation": "同 Verse 1 第一句" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "너에게",
+          "explanation": "너 (你) + -에게 (對，向)"
+        },
+        {
+          "point": "말할까",
+          "explanation": "말하다 (說) 的詞幹 + -(으)ㄹ까 (終結詞尾，表示疑問、推測或徵求意見「要不要...呢」)"
+        }
       ]
     },
     {
       "korean": "취한김에 고백을 해볼까",
       "translation": "要不要藉著酒意告白看看呢",
       "analysis": [
-        { "point": "취한김에 고백을 해볼까", "explanation": "同 Verse 1 第二句" }
+        {
+          "point": "취한김에",
+          "explanation": "취하다 (醉) 的過去定語形態 (-ㄴ/은) + 김 (機會，藉口) + -에 (助詞，在...時候/藉著...機會)"
+        },
+        {
+          "point": "고백을 해볼까",
+          "explanation": "고백 (告白) + -을 (受格助詞) + 하다 (做) 的詞幹 + -아/어 보다 (試著做...) + -(으)ㄹ까"
+        }
       ]
     },
     {
       "korean": "오래전부터 너를",
       "translation": "從很久以前就對你",
       "analysis": [
-        { "point": "오래전부터 너를", "explanation": "同 Verse 1 第三句" }
+        {
+          "point": "오래전부터",
+          "explanation": "오래전 (很久以前) + -부터 (從...開始)"
+        },
+        {
+          "point": "너를",
+          "explanation": "너 (你) + -를 (受格助詞)"
+        }
       ]
     },
     {
       "korean": "좋아해왔었다고 말야",
       "translation": "一直喜歡著你啊",
       "analysis": [
-        { "point": "좋아해왔었다고 말야", "explanation": "同 Verse 1 第四句" }
+        {
+          "point": "좋아해왔었다고",
+          "explanation": "좋아하다 (喜歡) + -아/어 오다 (一直做某事過來) 的過去完成式 좋아해왔었- + -다고 (間接引用陳述句)"
+        },
+        {
+          "point": "말야",
+          "explanation": "말이다 (是話啊/就是說啊) 的口語縮略，用於強調或確認"
+        }
       ]
     },
     {
       "korean": "오늘밤엔 말하고 싶어",
       "translation": "今晚想要說出口",
       "analysis": [
-        { "point": "오늘밤엔 말하고 싶어", "explanation": "同 Verse 1 第五句" }
+        {
+          "point": "오늘밤엔",
+          "explanation": "오늘밤 (今晚) + -에는 (在...時候，強調)"
+        },
+        {
+          "point": "말하고 싶어",
+          "explanation": "말하다 (說) + -고 싶다 (想做...)"
+        }
       ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "취하다", "chinese": "醉", "pos": "動詞" },
-    { "korean": "김", "chinese": "機會/藉口", "pos": "名詞 (依存名詞)" },
-    { "korean": "말하다", "chinese": "說話", "pos": "動詞" },
-    { "korean": "고백하다", "chinese": "告白", "pos": "動詞" },
-    { "korean": "오래전", "chinese": "很久以前", "pos": "名詞/副詞" },
-    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
-    { "korean": "오늘밤", "chinese": "今晚", "pos": "名詞" },
-    { "korean": "싶다", "chinese": "想(做)", "pos": "補助形容詞" },
-    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
-    { "korean": "잘못하다", "chinese": "做錯/說錯/不擅長", "pos": "動詞" },
-    { "korean": "실수하다", "chinese": "失誤", "pos": "動詞" },
-    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
-    { "korean": "마시다", "chinese": "喝", "pos": "動詞" },
-    { "korean": "쳐다보다", "chinese": "凝視/盯著看", "pos": "動詞" },
-    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
-    { "korean": "무너지다", "chinese": "崩潰/倒塌", "pos": "動詞" },
-    { "korean": "술", "chinese": "酒", "pos": "名詞" },
-    { "korean": "한 잔", "chinese": "一杯", "pos": "名數詞" },
-    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
-    { "korean": "넘기다", "chinese": "度過/翻過", "pos": "動詞" },
-    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
-    { "korean": "농담", "chinese": "玩笑", "pos": "名詞" },
-    { "korean": "숨겨지다", "chinese": "被隱藏", "pos": "動詞 (被動)" },
-    { "korean": "마음", "chinese": "心/心意", "pos": "名詞" },
-    { "korean": "흔들리다", "chinese": "晃動/動搖", "pos": "動詞" },
-    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
-    { "korean": "비추다", "chinese": "照耀/映照", "pos": "動詞" },
-    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
-    { "korean": "비치다", "chinese": "被映照/反射", "pos": "動詞 (被動)" },
-    { "korean": "숨막히다", "chinese": "窒息", "pos": "動詞" },
-    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
-    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
-    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
-    { "korean": "알아주다", "chinese": "理解/認可", "pos": "動詞" }
+    {
+      "korean": "취하다",
+      "chinese": "醉",
+      "pos": "動詞"
+    },
+    {
+      "korean": "김",
+      "chinese": "機會/藉口",
+      "pos": "名詞 (依存名詞)"
+    },
+    {
+      "korean": "말하다",
+      "chinese": "說話",
+      "pos": "動詞"
+    },
+    {
+      "korean": "고백하다",
+      "chinese": "告白",
+      "pos": "動詞"
+    },
+    {
+      "korean": "오래전",
+      "chinese": "很久以前",
+      "pos": "名詞/副詞"
+    },
+    {
+      "korean": "좋아하다",
+      "chinese": "喜歡",
+      "pos": "動詞"
+    },
+    {
+      "korean": "오늘밤",
+      "chinese": "今晚",
+      "pos": "名詞"
+    },
+    {
+      "korean": "싶다",
+      "chinese": "想(做)",
+      "pos": "補助形容詞"
+    },
+    {
+      "korean": "앞",
+      "chinese": "前面",
+      "pos": "名詞"
+    },
+    {
+      "korean": "잘못하다",
+      "chinese": "做錯/說錯/不擅長",
+      "pos": "動詞"
+    },
+    {
+      "korean": "실수하다",
+      "chinese": "失誤",
+      "pos": "動詞"
+    },
+    {
+      "korean": "천천히",
+      "chinese": "慢慢地",
+      "pos": "副詞"
+    },
+    {
+      "korean": "마시다",
+      "chinese": "喝",
+      "pos": "動詞"
+    },
+    {
+      "korean": "쳐다보다",
+      "chinese": "凝視/盯著看",
+      "pos": "動詞"
+    },
+    {
+      "korean": "바보",
+      "chinese": "傻瓜",
+      "pos": "名詞"
+    },
+    {
+      "korean": "무너지다",
+      "chinese": "崩潰/倒塌",
+      "pos": "動詞"
+    },
+    {
+      "korean": "술",
+      "chinese": "酒",
+      "pos": "名詞"
+    },
+    {
+      "korean": "한 잔",
+      "chinese": "一杯",
+      "pos": "名數詞"
+    },
+    {
+      "korean": "미소",
+      "chinese": "微笑",
+      "pos": "名詞"
+    },
+    {
+      "korean": "넘기다",
+      "chinese": "度過/翻過",
+      "pos": "動詞"
+    },
+    {
+      "korean": "후회하다",
+      "chinese": "後悔",
+      "pos": "動詞"
+    },
+    {
+      "korean": "농담",
+      "chinese": "玩笑",
+      "pos": "名詞"
+    },
+    {
+      "korean": "숨겨지다",
+      "chinese": "被隱藏",
+      "pos": "動詞 (被動)"
+    },
+    {
+      "korean": "마음",
+      "chinese": "心/心意",
+      "pos": "名詞"
+    },
+    {
+      "korean": "흔들리다",
+      "chinese": "晃動/動搖",
+      "pos": "動詞"
+    },
+    {
+      "korean": "눈빛",
+      "chinese": "眼神",
+      "pos": "名詞"
+    },
+    {
+      "korean": "비추다",
+      "chinese": "照耀/映照",
+      "pos": "動詞"
+    },
+    {
+      "korean": "달빛",
+      "chinese": "月光",
+      "pos": "名詞"
+    },
+    {
+      "korean": "비치다",
+      "chinese": "被映照/反射",
+      "pos": "動詞 (被動)"
+    },
+    {
+      "korean": "숨막히다",
+      "chinese": "窒息",
+      "pos": "動詞"
+    },
+    {
+      "korean": "잃다",
+      "chinese": "失去",
+      "pos": "動詞"
+    },
+    {
+      "korean": "바라보다",
+      "chinese": "凝視",
+      "pos": "動詞"
+    },
+    {
+      "korean": "진심",
+      "chinese": "真心",
+      "pos": "名詞"
+    },
+    {
+      "korean": "알아주다",
+      "chinese": "理解/認可",
+      "pos": "動詞"
+    }
   ]
 }

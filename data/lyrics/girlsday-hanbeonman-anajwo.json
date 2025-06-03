@@ -1,0 +1,474 @@
+{
+  "id": "girlsday-hanbeonman-anajwo",
+  "title": "한번만 안아줘",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "I want u (I need)",
+      "translation": "我想要你 (我需要)",
+      "analysis": [
+        { "point": "I want u (I need)", "explanation": "英文歌詞 (包含 Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "I want u (I want)",
+      "translation": "我想要你 (我想要)",
+      "analysis": [
+        { "point": "I want u (I want)", "explanation": "英文歌詞 (包含 Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "I luv u (I luv)",
+      "translation": "我愛你 (我愛)",
+      "analysis": [
+        { "point": "I luv u (I luv)", "explanation": "英文歌詞 (包含 Ad-lib, luv 為 love 的非正式寫法)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한번만 안아줘 한번만 웃어줘",
+      "translation": "抱我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만", "explanation": "한 번 (一次) + -만 (只，僅)" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) 的詞幹 + -아/어 주다 (為(我)做...) 的命令形 (-아/어 줘)" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) 的詞幹 + -아/어 주다 的命令形" }
+      ]
+    },
+    {
+      "korean": "한번만 느껴줘 한번만 웃어줘",
+      "translation": "感受我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만 느껴줘", "explanation": "一次 + 느끼다 (感覺) + -어 주다 의命令形" },
+        { "point": "한번만 웃어줘", "explanation": "一次 + 웃다 (笑) + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번 한번 한번 한번",
+      "translation": "一次 一次 一次 一次",
+      "analysis": [
+        { "point": "한번", "explanation": "一次 (重複表示強調)" }
+      ]
+    },
+    {
+      "korean": "단 한번만 안아줘요 한번만 안아줘",
+      "translation": "就抱我一次就好 抱我一次就好",
+      "analysis": [
+        { "point": "단 한번만", "explanation": "단 (只，僅僅) + 한 번 (一次) + -만 (只)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 의尊敬階命令形" },
+        { "point": "한번만 안아줘", "explanation": "一次 + 抱我(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "한번만 안아보면 내 맘을 알텐데",
+      "translation": "只要抱一次就會明白我的心意了，但是",
+      "analysis": [
+        { "point": "한번만 안아보면", "explanation": "一次 + 안다 (擁抱) + -아/어 보다 (試著做...) + -(으)면 (如果...的話)" },
+        { "point": "내 맘을 알텐데", "explanation": "내 (我的) + 맘 (마음 的縮略，心) + -을 (受格助詞) + 알다 (知道) + -(으)ㄹ 텐데 (終結詞尾，表示推測或可惜「應該會...吧/本來會...」)" }
+      ]
+    },
+    {
+      "korean": "뛰는 내 가슴은 여기 시계보다 더 빠른데",
+      "translation": "我跳動的心比這裡的時鐘還快，但是",
+      "analysis": [
+        { "point": "뛰는 내 가슴은", "explanation": "뛰다 (跳動) 的定語形態 (-는) + 我的 心(主題)" },
+        { "point": "여기 시계보다", "explanation": "여기 (這裡) + 시계 (時鐘) + -보다 (比)" },
+        { "point": "더 빠른데", "explanation": "더 (更) + 빠르다 (快) + -(으)ㄴ데 (連接詞尾，表背景或轉折)" }
+      ]
+    },
+    {
+      "korean": "세상에 다 들려 두근두근 대는 심장소리가",
+      "translation": "全世界都聽得見 怦怦跳的心跳聲",
+      "analysis": [
+        { "point": "세상에 다 들려", "explanation": "세상 (世界) + -에 (向/被) + 다 (全都) + 들리다 (被聽到) 的非格式體" },
+        { "point": "두근두근 대는", "explanation": "두근두근 (擬聲詞，怦怦) + 대다 (發出聲音/做某動作) 的定語形態 (-는)" },
+        { "point": "심장소리가", "explanation": "심장 (心臟) + 소리 (聲音) + -가 (主格助詞)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "오 왜 너만 안들려",
+      "translation": "喔 為何只有你聽不見",
+      "analysis": [
+        { "point": "오 왜", "explanation": "喔 為何" },
+        { "point": "너만 안들려", "explanation": "너 (你) + -만 (只) + 안 들리다 (聽不見) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "좀 더 다가와서 내 맘 들어봐봐",
+      "translation": "再靠近一點 聽聽我的心吧",
+      "analysis": [
+        { "point": "좀 더 다가와서", "explanation": "좀 (一點) + 더 (更) + 다가오다 (靠近) + -아서 (連接詞尾)" },
+        { "point": "내 맘 들어봐봐", "explanation": "我的 心 + 듣다 (聽) + -어 보다 (試著做...) (重複 봐 表示強調或更口語化)" }
+      ]
+    },
+    {
+      "korean": "달콤한 휘핑크림처럼 너에게 살며시 스며들고",
+      "translation": "像甜蜜的鮮奶油一樣 悄悄地滲透到你心裡",
+      "analysis": [
+        { "point": "달콤한 휘핑크림처럼", "explanation": "달콤하다 (甜蜜) 的定語形態 (-ㄴ/은) + 휘핑크림 (鮮奶油) + -처럼 (像...一樣)" },
+        { "point": "너에게 살며시", "explanation": "對你 悄悄地" },
+        { "point": "스며들고", "explanation": "스며들다 (滲透) 的詞幹 + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "(Kiss me your Love for me)",
+      "translation": "(親吻我 你對我的愛)",
+      "analysis": [
+        { "point": "(Kiss me your Love for me)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "너무나 새콤달콤 한 걸",
+      "translation": "是那麼的酸酸甜甜啊",
+      "analysis": [
+        { "point": "너무나", "explanation": "너무 (太) + -나 (強調助詞)" },
+        { "point": "새콤달콤 한 걸", "explanation": "새콤달콤하다 (酸酸甜甜) 的定語形態 (-ㄴ/은) + 것 (事情/東西) + -을 (口語感嘆)" }
+      ]
+    },
+    {
+      "korean": "어떡해 난 니가 너무 좋아 안아줘",
+      "translation": "怎麼辦 我太喜歡你了 抱抱我",
+      "analysis": [
+        { "point": "어떡해", "explanation": "어떡하다 (怎麼辦) 的非格式體" },
+        { "point": "난 니가 너무 좋아", "explanation": "我 你(主格) 太 喜歡" },
+        { "point": "안아줘", "explanation": "抱我(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한번만 안아줘 한번만 웃어줘",
+      "translation": "抱我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만", "explanation": "한 번 (一次) + -만 (只，僅)" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) 의詞幹 + -아/어 주다 (為(我)做...) 의命令形 (-아/어 줘)" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) 의詞幹 + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번만 느껴줘 한번만 웃어줘",
+      "translation": "感受我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만 느껴줘", "explanation": "一次 + 느끼다 (感覺) + -어 주다 의命令形" },
+        { "point": "한번만 웃어줘", "explanation": "一次 + 웃다 (笑) + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번 한번 한번 한번",
+      "translation": "一次 一次 一次 一次",
+      "analysis": [
+        { "point": "한번", "explanation": "一次 (重複表示強調)" }
+      ]
+    },
+    {
+      "korean": "단 한번만 안아줘요 한번만 안아줘",
+      "translation": "就抱我一次就好 抱我一次就好",
+      "analysis": [
+        { "point": "단 한번만", "explanation": "단 (只，僅僅) + 한 번 (一次) + -만 (只)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 의尊敬階命令形" },
+        { "point": "한번만 안아줘", "explanation": "一次 + 抱我(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "잠깐만 봐도 날 스쳐만 가도",
+      "translation": "即使只看一眼 即使只是擦身而過",
+      "analysis": [
+        { "point": "잠깐만 봐도", "explanation": "잠깐 (一會兒) + -만 (只) + 보다 (看) + -아/어도 (即使...也)" },
+        { "point": "날 스쳐만 가도", "explanation": "我(受格) + 스치다 (擦過) + -어만 가다 (只是...過去) + -아/어도" }
+      ]
+    },
+    {
+      "korean": "널 상상만 해도 내 맘은 하늘로",
+      "translation": "即使只是想像你 我的心就飛向天空",
+      "analysis": [
+        { "point": "널 상상만 해도", "explanation": "你(受格) + 상상 (想像) + -만 (只) + 하다 (做) + -아/어도" },
+        { "point": "내 맘은 하늘로", "explanation": "我的 心(主題) + 하늘 (天空) + -(으)로 (向)" }
+      ]
+    },
+    {
+      "korean": "니 생각에 또 밤을 새 나",
+      "translation": "因為想你又熬夜了 我",
+      "analysis": [
+        { "point": "니 생각에", "explanation": "你的 想法/思念 + -에 (因為)" },
+        { "point": "또 밤을 새", "explanation": "又 + 밤을 새다 (熬夜)" },
+        { "point": "나", "explanation": "我" }
+      ]
+    },
+    {
+      "korean": "너 땜에 아무것도 못해",
+      "translation": "因為你什麼都做不了",
+      "analysis": [
+        { "point": "너 땜에", "explanation": "你 因為(口語)" },
+        { "point": "아무것도 못해", "explanation": "아무것 (任何事) + -도 (也) + 못하다 (不能做)" }
+      ]
+    },
+    {
+      "korean": "Everyday I think about U,",
+      "translation": "每天我都想著你，",
+      "analysis": [
+        { "point": "Everyday I think about U,", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Everynight I wanna with U",
+      "translation": "每晚我都想和你在一起",
+      "analysis": [
+        { "point": "Everynight I wanna with U", "explanation": "英文歌詞 (wanna 為 want to 的縮寫)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "어떡해 정말 난 어떡해",
+      "translation": "怎麼辦 真的我該怎麼辦",
+      "analysis": [
+        { "point": "어떡해 정말 난 어떡해", "explanation": "怎麼辦 真的 我 怎麼辦 (重複強調)" }
+      ]
+    },
+    {
+      "korean": "자꾸만 난 니가 보고 싶어",
+      "translation": "我總是好想你",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "자꾸 (總是，頻繁地) + -만 (強調)" },
+        { "point": "난 니가 보고 싶어", "explanation": "我 你(主格) 想念" }
+      ]
+    },
+    {
+      "korean": "(Honey, Don't tease me)",
+      "translation": "(親愛的，別逗我)",
+      "analysis": [
+        { "point": "(Honey, Don't tease me)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내 맘에 어디쯤에 있니",
+      "translation": "你在我心中的哪個位置呢",
+      "analysis": [
+        { "point": "내 맘에", "explanation": "我的 心中" },
+        { "point": "어디쯤에 있니", "explanation": "어디쯤 (哪裡左右) + -에 (在) + 있다 (有/在) + -니 (疑問終結)" }
+      ]
+    },
+    {
+      "korean": "너 땜에 난 정말 미치겠어 안아줘",
+      "translation": "因為你我真的快瘋了 抱抱我",
+      "analysis": [
+        { "point": "너 땜에 난 정말", "explanation": "你 因為 我 真的" },
+        { "point": "미치겠어", "explanation": "미치다 (瘋狂) + -겠- (推測/將要) + -어 (非格式體)" },
+        { "point": "안아줘", "explanation": "抱我(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한번만 안아줘 한번만 웃어줘",
+      "translation": "抱我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만", "explanation": "한 번 (一次) + -만 (只，僅)" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) 의詞幹 + -아/어 주다 (為(我)做...) 의命令形 (-아/어 줘)" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) 의詞幹 + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번만 느껴줘 한번만 웃어줘",
+      "translation": "感受我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만 느껴줘", "explanation": "一次 + 느끼다 (感覺) + -어 주다 의命令形" },
+        { "point": "한번만 웃어줘", "explanation": "一次 + 웃다 (笑) + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번 한번 한번 한번",
+      "translation": "一次 一次 一次 一次",
+      "analysis": [
+        { "point": "한번", "explanation": "一次 (重複表示強調)" }
+      ]
+    },
+    {
+      "korean": "단 한번만 안아줘요 한번만 안아줘",
+      "translation": "就抱我一次就好 抱我一次就好",
+      "analysis": [
+        { "point": "단 한번만", "explanation": "단 (只，僅僅) + 한 번 (一次) + -만 (只)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 의尊敬階命令形" },
+        { "point": "한번만 안아줘", "explanation": "一次 + 抱我(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "라라라 라라라라 라라라 라라라라",
+      "translation": "啦啦啦 啦啦啦啦 啦啦啦 啦啦啦啦",
+      "analysis": [
+        { "point": "라라라 라라라라 라라라 라라라라", "explanation": "哼唱" }
+      ]
+    },
+    {
+      "korean": "I wanna be ur luver,",
+      "translation": "我想成為你的愛人,",
+      "analysis": [
+        { "point": "I wanna be ur luver,", "explanation": "英文歌詞 (ur 為 your, luver 為 lover 的非正式寫法)" }
+      ]
+    },
+    {
+      "korean": "I wanna be ur luver,",
+      "translation": "我想成為你的愛人,",
+      "analysis": [
+        { "point": "I wanna be ur luver,", "explanation": "英文歌詞 (ur 為 your, luver 為 lover 的非正式寫法)" }
+      ]
+    },
+    {
+      "korean": "I wanna be ur luver",
+      "translation": "我想成為你的愛人",
+      "analysis": [
+        { "point": "I wanna be ur luver", "explanation": "英文歌詞 (ur 為 your, luver 為 lover 的非正式寫法)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "눈물이 고여서 눈물이 아파서",
+      "translation": "眼淚盈眶 眼淚讓我心痛",
+      "analysis": [
+        { "point": "눈물이 고여서", "explanation": "눈물 (眼淚) + -이 (主格助詞) + 고이다 (積聚，盈眶) + -아서 (連接詞尾，因為/然後)" },
+        { "point": "눈물이 아파서", "explanation": "眼淚(主格) + 아프다 (痛) + -아서" }
+      ]
+    },
+    {
+      "korean": "흐르고 흘러서 너에게 닿기를",
+      "translation": "流啊流 希望能流到你身邊",
+      "analysis": [
+        { "point": "흐르고 흘러서", "explanation": "흐르다 (流淌) + -고 흐르다 (反覆流淌) + -아서" },
+        { "point": "너에게 닿기를", "explanation": "對你 + 닿다 (到達，觸及) + -기를 (名詞形 + 受格，表示願望)" }
+      ]
+    },
+    {
+      "korean": "난 니가 필요해",
+      "translation": "我需要你",
+      "analysis": [
+        { "point": "난 니가 필요해", "explanation": "我 你(主格) + 필요하다 (需要) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "난 니가 필요해",
+      "translation": "我需要你",
+      "analysis": [
+        { "point": "난 니가 필요해", "explanation": "我 你(主格) + 필요하다 (需要) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "난 니가 필요해",
+      "translation": "我需要你",
+      "analysis": [
+        { "point": "난 니가 필요해", "explanation": "我 你(主格) + 필요하다 (需要) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한번만 안아줘 한번만 웃어줘",
+      "translation": "抱我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만", "explanation": "한 번 (一次) + -만 (只，僅)" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) 의詞幹 + -아/어 주다 (為(我)做...) 의命令形 (-아/어 줘)" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) 의詞幹 + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번만 느껴줘 한번만 웃어줘",
+      "translation": "感受我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만 느껴줘", "explanation": "一次 + 느끼다 (感覺) + -어 주다 의命令形" },
+        { "point": "한번만 웃어줘", "explanation": "一次 + 웃다 (笑) + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번 한번 한번 한번",
+      "translation": "一次 一次 一次 一次",
+      "analysis": [
+        { "point": "한번", "explanation": "一次 (重複表示強調)" }
+      ]
+    },
+    {
+      "korean": "단 한번만 안아줘요 한번만 안아줘",
+      "translation": "就抱我一次就好 抱我一次就好",
+      "analysis": [
+        { "point": "단 한번만", "explanation": "단 (只，僅僅) + 한 번 (一次) + -만 (只)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 의尊敬階命令形" },
+        { "point": "한번만 안아줘", "explanation": "一次 + 抱我(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "한번만 안아줘 한번만 웃어줘",
+      "translation": "抱我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만", "explanation": "한 번 (一次) + -만 (只，僅)" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) 의詞幹 + -아/어 주다 (為(我)做...) 의命令形 (-아/어 줘)" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) 의詞幹 + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번만 느껴줘 한번만 웃어줘",
+      "translation": "感受我一次就好 對我笑一次就好",
+      "analysis": [
+        { "point": "한번만 느껴줘", "explanation": "一次 + 느끼다 (感覺) + -어 주다 의命令形" },
+        { "point": "한번만 웃어줘", "explanation": "一次 + 웃다 (笑) + -아/어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "한번 한번 한번 한번",
+      "translation": "一次 一次 一次 一次",
+      "analysis": [
+        { "point": "한번", "explanation": "一次 (重複表示強調)" }
+      ]
+    },
+    {
+      "korean": "단 한번만 안아줘요 한번만 안아줘",
+      "translation": "就抱我一次就好 抱我一次就好",
+      "analysis": [
+        { "point": "단 한번만", "explanation": "단 (只，僅僅) + 한 번 (一次) + -만 (只)" },
+        { "point": "안아줘요", "explanation": "안다 (擁抱) + -아/어 주다 의尊敬階命令形" },
+        { "point": "한번만 안아줘", "explanation": "一次 + 抱我(命令形)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感覺", "pos": "動詞" },
+    { "korean": "한번", "chinese": "一次", "pos": "名數詞" },
+    { "korean": "단", "chinese": "只/僅僅", "pos": "副詞/冠形詞" },
+    { "korean": "맘", "chinese": "心 (마음 的縮略)", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道/明白", "pos": "動詞" },
+    { "korean": "뛰다", "chinese": "跳動/跑", "pos": "動詞" },
+    { "korean": "가슴", "chinese": "心/胸口", "pos": "名詞" },
+    { "korean": "시계", "chinese": "時鐘", "pos": "名詞" },
+    { "korean": "빠르다", "chinese": "快", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "들리다", "chinese": "被聽到", "pos": "動詞 (被動)" },
+    { "korean": "두근두근", "chinese": "怦怦 (心跳聲)", "pos": "擬聲詞/副詞" },
+    { "korean": "심장소리", "chinese": "心跳聲", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜", "pos": "形容詞" },
+    { "korean": "휘핑크림", "chinese": "鮮奶油", "pos": "名詞" },
+    { "korean": "살며시", "chinese": "悄悄地/輕輕地", "pos": "副詞" },
+    { "korean": "스며들다", "chinese": "滲透", "pos": "動詞" },
+    { "korean": "새콤달콤하다", "chinese": "酸酸甜甜", "pos": "形容詞" },
+    { "korean": "어떡하다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "잠깐", "chinese": "一會兒/暫時", "pos": "副詞/名詞" },
+    { "korean": "스치다", "chinese": "擦過", "pos": "動詞" },
+    { "korean": "상상하다", "chinese": "想像", "pos": "動詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "생각", "chinese": "想法/思念", "pos": "名詞" },
+    { "korean": "밤을 새다", "chinese": "熬夜", "pos": "動詞片語" },
+    { "korean": "아무것도", "chinese": "任何事(都沒有)", "pos": "代名詞" },
+    { "korean": "못하다", "chinese": "不能做/做不好", "pos": "動詞" },
+    { "korean": "자꾸만", "chinese": "總是/不斷地 (強調)", "pos": "副詞" },
+    { "korean": "보고 싶다", "chinese": "想念/想看", "pos": "動詞片語" },
+    { "korean": "어디쯤", "chinese": "哪裡左右", "pos": "名詞/副詞" },
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "고이다", "chinese": "積聚/盈眶", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "흐르다", "chinese": "流淌", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "到達/觸及", "pos": "動詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" }
+  ]
+}

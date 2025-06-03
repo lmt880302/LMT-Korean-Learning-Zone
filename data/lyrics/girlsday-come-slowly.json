@@ -1,50 +1,89 @@
 {
   "id": "girlsday-come-slowly",
   "title": "Come Slowly",
-  "artist": "Girl's Day",
+  "artist": "Girl's Day (걸스데이)",
   "lines": [
     {
       "sectionTitle": "Verse 1",
       "korean": "정말 안돼?",
       "translation": "真的不行嗎？",
       "analysis": [
-        { "point": "정말", "explanation": "副詞，真的，的確" },
-        { "point": "안돼?", "explanation": "안되다 (不行，不可以) 的非格式體疑問句，由 안 (不) + 되다 (行，可以) + -아/어 (非格式體語尾) + ? (疑問)" }
+        {
+          "point": "정말",
+          "explanation": "副詞，真的，的確"
+        },
+        {
+          "point": "안돼?",
+          "explanation": "안되다 (不行，不可以) 的非格式體疑問句，由 안 (不) + 되다 (行，可以) + -아/어 (非格式體語尾) + ? (疑問)"
+        }
       ]
     },
     {
       "korean": "내게 돌아와주면 정말 안돼?",
       "translation": "回到我身邊真的不行嗎？",
       "analysis": [
-        { "point": "내게", "explanation": "나에게 (對我，給我) 的縮略形" },
-        { "point": "돌아와주면", "explanation": "돌아오다 (回來) 的詞幹 + -아/어 주다 (為(我)做...，表示動作指向聽者或受益者) + -(으)면 (連接詞尾，如果...的話)" },
-        { "point": "정말 안돼?", "explanation": "同上" }
+        {
+          "point": "내게",
+          "explanation": "나에게 (對我，給我) 的縮略形"
+        },
+        {
+          "point": "돌아와주면",
+          "explanation": "돌아오다 (回來) 的詞幹 + -아/어 주다 (為(我)做...，表示動作指向聽者或受益者) + -(으)면 (連接詞尾，如果...的話)"
+        },
+        {
+          "point": "정말 안돼?",
+          "explanation": "안되다 (不行，不可以) 的非格式體疑問句，由 안 (不) + 되다 (行，可以) + -아/어 (非格式體語尾) + ? (疑問)"
+        }
       ]
     },
     {
       "korean": "다시 사랑해주면",
       "translation": "如果再次愛我的話",
       "analysis": [
-        { "point": "다시", "explanation": "副詞，再次" },
-        { "point": "사랑해주면", "explanation": "사랑하다 (愛) 的詞幹 + -아/어 주다 + -(으)면" }
+        {
+          "point": "다시",
+          "explanation": "副詞，再次"
+        },
+        {
+          "point": "사랑해주면",
+          "explanation": "사랑하다 (愛) 的詞幹 + -아/어 주다 + -(으)면"
+        }
       ]
     },
     {
       "korean": "우리 좋았었잖아 행복했었잖아",
       "translation": "我們曾經很好不是嗎 曾經很幸福不是嗎",
       "analysis": [
-        { "point": "우리", "explanation": "代名詞，我們" },
-        { "point": "좋았었잖아", "explanation": "좋다 (好) 的過去完成式詞幹 좋았었- + -잖아 (終結詞尾，表示提醒對方已知事實「不是嗎」)" },
-        { "point": "행복했었잖아", "explanation": "행복하다 (幸福) 的過去完成式詞幹 행복했었- + -잖아" }
+        {
+          "point": "우리",
+          "explanation": "代名詞，我們"
+        },
+        {
+          "point": "좋았었잖아",
+          "explanation": "좋다 (好) 的過去完成式詞幹 좋았었- + -잖아 (終結詞尾，表示提醒對方已知事實「不是嗎」)"
+        },
+        {
+          "point": "행복했었잖아",
+          "explanation": "행복하다 (幸福) 的過去完成式詞幹 행복했었- + -잖아"
+        }
       ]
     },
     {
       "korean": "그 때로 다시 우리 돌아갈 순 없겠지",
       "translation": "我們無法再回到那個時候了吧",
       "analysis": [
-        { "point": "그 때로", "explanation": "그 (那) + 때 (時候) + -(으)로 (方向或狀態助詞)" },
-        { "point": "다시 우리", "explanation": "再次 我們" },
-        { "point": "돌아갈 순 없겠지", "explanation": "돌아가다 (回去) 的詞幹 + -(으)ㄹ 수 없다 (不能) + -는 (慣用表達中助詞省略，-(으)ㄹ 수는 없다) + -겠지 (終結詞尾，表示推測「大概...吧」)" }
+        {
+          "point": "그 때로",
+          "explanation": "그 (那) + 때 (時候) + -(으)로 (方向或狀態助詞)"
+        },
+        {
+          "point": "다시 우리",
+          "explanation": "再次 我們"
+        },
+        {
+          "point": "돌아갈 순 없겠지",
+          "explanation": "돌아가다 (回去) 的詞幹 + -(으)ㄹ 수 없다 (不能) + -는 (慣用表達中助詞省略，-(으)ㄹ 수는 없다) + -겠지 (終結詞尾，表示推測「大概...吧」)"
+        }
       ]
     },
     {
@@ -52,28 +91,58 @@
       "korean": "사랑했던 기억 모두 추억으로 가두고",
       "translation": "把愛過的記憶全都鎖進回憶裡",
       "analysis": [
-        { "point": "사랑했던 기억", "explanation": "사랑하다 (愛) 的過去定語形態 (-았던/었던) + 기억 (記憶)" },
-        { "point": "모두", "explanation": "副詞，全都" },
-        { "point": "추억으로", "explanation": "추억 (回憶) + -(으)로 (工具或方式助詞)" },
-        { "point": "가두고", "explanation": "가두다 (關起來，囚禁) 的詞幹 + -고 (連接詞尾，然後/並且)" }
+        {
+          "point": "사랑했던 기억",
+          "explanation": "사랑하다 (愛) 的過去定語形態 (-았던/었던) + 기억 (記憶)"
+        },
+        {
+          "point": "모두",
+          "explanation": "副詞，全都"
+        },
+        {
+          "point": "추억으로",
+          "explanation": "추억 (回憶) + -(으)로 (工具或方式助詞)"
+        },
+        {
+          "point": "가두고",
+          "explanation": "가두다 (關起來，囚禁) 的詞幹 + -고 (連接詞尾，然後/並且)"
+        }
       ]
     },
     {
       "korean": "조각난 기억 모두 어제로 묻어두고",
       "translation": "把破碎的記憶全都埋藏在昨天",
       "analysis": [
-        { "point": "조각난 기억", "explanation": "조각나다 (破碎) 的過去定語形態 (-ㄴ) + 기억 (記憶)" },
-        { "point": "모두 어제로", "explanation": "全都 + 어제 (昨天) + -(으)로" },
-        { "point": "묻어두고", "explanation": "묻어두다 (埋藏起來 - 묻다 (埋) + -어 두다 (事先做好並保持狀態)) 的詞幹 + -고" }
+        {
+          "point": "조각난 기억",
+          "explanation": "조각나다 (破碎) 的過去定語形態 (-ㄴ) + 기억 (記憶)"
+        },
+        {
+          "point": "모두 어제로",
+          "explanation": "全都 + 어제 (昨天) + -(으)로"
+        },
+        {
+          "point": "묻어두고",
+          "explanation": "묻어두다 (埋藏起來 - 묻다 (埋) + -어 두다 (事先做好並保持狀態)) 的詞幹 + -고"
+        }
       ]
     },
     {
       "korean": "처음처럼 다시 네게 고백할게",
       "translation": "我會像 처음처럼 再次向你告白",
       "analysis": [
-        { "point": "처음처럼", "explanation": "처음 (第一次) + -처럼 (助詞，像...一樣)" },
-        { "point": "다시 네게", "explanation": "再次 + 너에게 (對你) 的縮略" },
-        { "point": "고백할게", "explanation": "고백하다 (告白) 的詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)" }
+        {
+          "point": "처음처럼",
+          "explanation": "처음 (第一次) + -처럼 (助詞，像...一樣)"
+        },
+        {
+          "point": "다시 네게",
+          "explanation": "再次 + 너에게 (對你) 的縮略"
+        },
+        {
+          "point": "고백할게",
+          "explanation": "고백하다 (告白) 的詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)"
+        }
       ]
     },
     {
@@ -81,32 +150,56 @@
       "korean": "Come slowly 다시 예전처럼",
       "translation": "慢慢地來 再次像從前一樣",
       "analysis": [
-        { "point": "Come slowly", "explanation": "英文歌詞" },
-        { "point": "다시 예전처럼", "explanation": "再次 + 예전 (從前) + -처럼" }
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "다시 예전처럼",
+          "explanation": "再次 + 예전 (從前) + -처럼"
+        }
       ]
     },
     {
       "korean": "Come slowly 돌아와주면 돼",
       "translation": "慢慢地來 回到我身邊就可以",
       "analysis": [
-        { "point": "Come slowly", "explanation": "英文歌詞" },
-        { "point": "돌아와주면 돼", "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)" }
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "돌아와주면 돼",
+          "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)"
+        }
       ]
     },
     {
       "korean": "조금 늦어도 돼 조금 사랑해도 돼",
       "translation": "晚一點也沒關係 少愛一點也沒關係",
       "analysis": [
-        { "point": "조금 늦어도 돼", "explanation": "조금 (一點) + 늦다 (晚) 的詞幹 + -아/어도 되다 (即使...也可以)" },
-        { "point": "조금 사랑해도 돼", "explanation": "一點 + 사랑하다 (愛) + -아/어도 되다" }
+        {
+          "point": "조금 늦어도 돼",
+          "explanation": "조금 (一點) + 늦다 (晚) 的詞幹 + -아/어도 되다 (即使...也可以)"
+        },
+        {
+          "point": "조금 사랑해도 돼",
+          "explanation": "一點 + 사랑하다 (愛) + -아/어도 되다"
+        }
       ]
     },
     {
       "korean": "천천히 천천히 돌아와주면 돼",
       "translation": "慢慢地 慢慢地 回到我身邊就可以",
       "analysis": [
-        { "point": "천천히", "explanation": "副詞，慢慢地" },
-        { "point": "돌아와주면 돼", "explanation": "同上" }
+        {
+          "point": "천천히",
+          "explanation": "副詞，慢慢地"
+        },
+        {
+          "point": "돌아와주면 돼",
+          "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)"
+        }
       ]
     },
     {
@@ -114,24 +207,42 @@
       "korean": "Why? Why? Don't know why",
       "translation": "為什麼？為什麼？不知道為什麼",
       "analysis": [
-        { "point": "Why? Why? Don't know why", "explanation": "英文歌詞" }
+        {
+          "point": "Why? Why? Don't know why",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "눈물이 나는지 그래 난 정말 괜찮아",
       "translation": "眼淚為何流下 是啊 我真的沒關係",
       "analysis": [
-        { "point": "눈물이 나는지", "explanation": "눈물 (眼淚) + -이 (主格助詞) + 나다 (流出，發生) 的詞幹 + -는지 (間接疑問連接詞尾，是否.../為何...)" },
-        { "point": "그래", "explanation": "感嘆詞/副詞，是啊，就那樣" },
-        { "point": "난 정말 괜찮아", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 정말 (真的) + 괜찮다 (沒關係) 的非格式體" }
+        {
+          "point": "눈물이 나는지",
+          "explanation": "눈물 (眼淚) + -이 (主格助詞) + 나다 (流出，發生) 의詞幹 + -는지 (間接疑問連接詞尾，是否.../為何...)"
+        },
+        {
+          "point": "그래",
+          "explanation": "感嘆詞/副詞，是啊，就那樣"
+        },
+        {
+          "point": "난 정말 괜찮아",
+          "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 정말 (真的) + 괜찮다 (沒關係) 的非格式體"
+        }
       ]
     },
     {
       "korean": "내 곁에만 Come slowly",
       "translation": "只要在我身邊 慢慢地來",
       "analysis": [
-        { "point": "내 곁에만", "explanation": "내 (我的) + 곁 (身邊) + -에만 (只在...地方/時候)" },
-        { "point": "Come slowly", "explanation": "英文歌詞" }
+        {
+          "point": "내 곁에만",
+          "explanation": "내 (我的) + 곁 (身邊) + -에만 (只在...地方/時候)"
+        },
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
@@ -139,34 +250,64 @@
       "korean": "어서 말해 후회하고 있다고",
       "translation": "快說吧 說你在後悔",
       "analysis": [
-        { "point": "어서", "explanation": "副詞，快點" },
-        { "point": "말해", "explanation": "말하다 (說) 的非格式體命令句" },
-        { "point": "후회하고 있다고", "explanation": "후회하다 (後悔) 的詞幹 + -고 있다 (正在進行) + -고 (間接引用陳述句)" }
+        {
+          "point": "어서",
+          "explanation": "副詞，快點"
+        },
+        {
+          "point": "말해",
+          "explanation": "말하다 (說) 的非格式體命令句"
+        },
+        {
+          "point": "후회하고 있다고",
+          "explanation": "후회하다 (後悔) 의詞幹 + -고 있다 (正在進行) + -고 (間接引用陳述句)"
+        }
       ]
     },
     {
       "korean": "어서 말해 나를 보고싶다고",
       "translation": "快說吧 說你想我",
       "analysis": [
-        { "point": "어서 말해", "explanation": "同上" },
-        { "point": "나를 보고싶다고", "explanation": "나 (我) + -를 (受格助詞) + 보다 (看，此處與 -고 싶다 合用表示想念) + -고 싶다 (想做...) + -고 (間接引用)" }
+        {
+          "point": "어서 말해",
+          "explanation": "말하다 (說) 的非格式體命令句"
+        },
+        {
+          "point": "나를 보고싶다고",
+          "explanation": "나 (我) + -를 (受格助詞) + 보다 (看，此處與 -고 싶다 合用表示想念) + -고 싶다 (想做...) + -고 (間接引用)"
+        }
       ]
     },
     {
       "korean": "바래진 네 사진만 붙잡고 있는 난",
       "translation": "只抓著你褪色照片的我",
       "analysis": [
-        { "point": "바래진", "explanation": "바래지다 (褪色 - 바래다 (褪色) + -어지다 (變得...)) 的過去定語形態 (-ㄴ)，修飾 사진" },
-        { "point": "네 사진만", "explanation": "네 (你的) + 사진 (照片) + -만 (只)" },
-        { "point": "붙잡고 있는 난", "explanation": "붙잡다 (抓住) 的詞幹 + -고 있다 (正在進行) 的定語形態 (-는) + 나 (我) + -는 (主題助詞，此處強調「我」的狀態)" }
+        {
+          "point": "바래진",
+          "explanation": "바래지다 (褪色 - 바래다 (褪色) + -어지다 (變得...)) 的過去定語形態 (-ㄴ)，修飾 사진"
+        },
+        {
+          "point": "네 사진만",
+          "explanation": "네 (你的) + 사진 (照片) + -만 (只)"
+        },
+        {
+          "point": "붙잡고 있는 난",
+          "explanation": "붙잡다 (抓住) 의詞幹 + -고 있다 (正在進行) 的定語形態 (-는) + 나 (我) + -는 (主題助詞，此處強調「我」的狀態)"
+        }
       ]
     },
     {
       "korean": "너 떠나간 그 자리를 벗어날 순 없나봐",
       "translation": "看來無法擺脫你離開的那個位置",
       "analysis": [
-        { "point": "너 떠나간 그 자리를", "explanation": "너 (你) + 떠나가다 (離開) 的過去定語形態 (-ㄴ) + 그 (那) + 자리 (位置) + -를 (受格助詞)" },
-        { "point": "벗어날 순 없나봐", "explanation": "벗어나다 (擺脫) 的詞幹 + -(으)ㄹ 수 없다 (不能) + -나 보다 (推測語尾，看來好像...)" }
+        {
+          "point": "너 떠나간 그 자리를",
+          "explanation": "너 (你) + 떠나가다 (離開) 的過去定語形態 (-ㄴ) + 그 (那) + 자리 (位置) + -를 (受格助詞)"
+        },
+        {
+          "point": "벗어날 순 없나봐",
+          "explanation": "벗어나다 (擺脫) 의詞幹 + -(으)ㄹ 수 없다 (不能) + -나 보다 (推測語尾，看來好像...)"
+        }
       ]
     },
     {
@@ -174,28 +315,58 @@
       "korean": "사랑했던 기억 모두 추억으로 가두고",
       "translation": "把愛過的記憶全都鎖進回憶裡",
       "analysis": [
-        { "point": "사랑했던 기억", "explanation": "사랑하다 (愛) 的過去定語形態 (-았던/었던) + 기억 (記憶)" },
-        { "point": "모두", "explanation": "副詞，全都" },
-        { "point": "추억으로", "explanation": "추억 (回憶) + -(으)로 (工具或方式助詞)" },
-        { "point": "가두고", "explanation": "가두다 (關起來，囚禁) 的詞幹 + -고 (連接詞尾，然後/並且)" }
+        {
+          "point": "사랑했던 기억",
+          "explanation": "사랑하다 (愛) 的過去定語形態 (-았던/었던) + 기억 (記憶)"
+        },
+        {
+          "point": "모두",
+          "explanation": "副詞，全都"
+        },
+        {
+          "point": "추억으로",
+          "explanation": "추억 (回憶) + -(으)로 (工具或方式助詞)"
+        },
+        {
+          "point": "가두고",
+          "explanation": "가두다 (關起來，囚禁) 의詞幹 + -고 (連接詞尾，然後/並且)"
+        }
       ]
     },
     {
       "korean": "조각난 기억 모두 어제로 묻어두고",
       "translation": "把破碎的記憶全都埋藏在昨天",
       "analysis": [
-        { "point": "조각난 기억", "explanation": "조각나다 (破碎) 的過去定語形態 (-ㄴ) + 기억 (記憶)" },
-        { "point": "모두 어제로", "explanation": "全都 + 어제 (昨天) + -(으)로" },
-        { "point": "묻어두고", "explanation": "묻어두다 (埋藏起來 - 묻다 (埋) + -어 두다 (事先做好並保持狀態)) 的詞幹 + -고" }
+        {
+          "point": "조각난 기억",
+          "explanation": "조각나다 (破碎) 的過去定語形態 (-ㄴ) + 기억 (記憶)"
+        },
+        {
+          "point": "모두 어제로",
+          "explanation": "全都 + 어제 (昨天) + -(으)로"
+        },
+        {
+          "point": "묻어두고",
+          "explanation": "묻어두다 (埋藏起來 - 묻다 (埋) + -어 두다 (事先做好並保持狀態)) 의詞幹 + -고"
+        }
       ]
     },
     {
       "korean": "처음처럼 다시 네게 고백할게",
       "translation": "我會像 처음처럼 再次向你告白",
       "analysis": [
-        { "point": "처음처럼", "explanation": "처음 (第一次) + -처럼 (助詞，像...一樣)" },
-        { "point": "다시 네게", "explanation": "再次 + 너에게 (對你) 的縮略" },
-        { "point": "고백할게", "explanation": "고백하다 (告白) 的詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)" }
+        {
+          "point": "처음처럼",
+          "explanation": "처음 (第一次) + -처럼 (助詞，像...一樣)"
+        },
+        {
+          "point": "다시 네게",
+          "explanation": "再次 + 너에게 (對你) 的縮略"
+        },
+        {
+          "point": "고백할게",
+          "explanation": "고백하다 (告白) 의詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)"
+        }
       ]
     },
     {
@@ -203,32 +374,56 @@
       "korean": "Come slowly 다시 예전처럼",
       "translation": "慢慢地來 再次像從前一樣",
       "analysis": [
-        { "point": "Come slowly", "explanation": "英文歌詞" },
-        { "point": "다시 예전처럼", "explanation": "再次 + 예전 (從前) + -처럼" }
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "다시 예전처럼",
+          "explanation": "再次 + 예전 (從前) + -처럼"
+        }
       ]
     },
     {
       "korean": "Come slowly 돌아와주면 돼",
       "translation": "慢慢地來 回到我身邊就可以",
       "analysis": [
-        { "point": "Come slowly", "explanation": "英文歌詞" },
-        { "point": "돌아와주면 돼", "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)" }
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "돌아와주면 돼",
+          "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)"
+        }
       ]
     },
     {
       "korean": "조금 늦어도 돼 조금 사랑해도 돼",
       "translation": "晚一點也沒關係 少愛一點也沒關係",
       "analysis": [
-        { "point": "조금 늦어도 돼", "explanation": "조금 (一點) + 늦다 (晚) 的詞幹 + -아/어도 되다 (即使...也可以)" },
-        { "point": "조금 사랑해도 돼", "explanation": "一點 + 사랑하다 (愛) + -아/어도 되다" }
+        {
+          "point": "조금 늦어도 돼",
+          "explanation": "조금 (一點) + 늦다 (晚) 의詞幹 + -아/어도 되다 (即使...也可以)"
+        },
+        {
+          "point": "조금 사랑해도 돼",
+          "explanation": "一點 + 사랑하다 (愛) + -아/어도 되다"
+        }
       ]
     },
     {
       "korean": "천천히 천천히 돌아와주면 돼",
       "translation": "慢慢地 慢慢地 回到我身邊就可以",
       "analysis": [
-        { "point": "천천히", "explanation": "副詞，慢慢地" },
-        { "point": "돌아와주면 돼", "explanation": "同上" }
+        {
+          "point": "천천히",
+          "explanation": "副詞，慢慢地"
+        },
+        {
+          "point": "돌아와주면 돼",
+          "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)"
+        }
       ]
     },
     {
@@ -236,30 +431,48 @@
       "korean": "Why? Why? Don't know why",
       "translation": "為什麼？為什麼？不知道為什麼",
       "analysis": [
-        { "point": "Why? Why? Don't know why", "explanation": "英文歌詞" }
+        {
+          "point": "Why? Why? Don't know why",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "눈물이 나는지",
       "translation": "眼淚為何流下",
       "analysis": [
-        { "point": "눈물이 나는지", "explanation": "눈물 (眼淚) + -이 (主格助詞) + 나다 (流出，發生) 的詞幹 + -는지 (間接疑問連接詞尾，是否.../為何...)" }
+        {
+          "point": "눈물이 나는지",
+          "explanation": "눈물 (眼淚) + -이 (主格助詞) + 나다 (流出，發生) 의詞幹 + -는지 (間接疑問連接詞尾，是否.../為何...)"
+        }
       ]
     },
     {
       "korean": "그래 난 정말 괜찮아",
       "translation": "是啊 我真的沒關係",
       "analysis": [
-        { "point": "그래", "explanation": "感嘆詞/副詞，是啊，就那樣" },
-        { "point": "난 정말 괜찮아", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 정말 (真的) + 괜찮다 (沒關係) 的非格式體" }
+        {
+          "point": "그래",
+          "explanation": "感嘆詞/副詞，是啊，就那樣"
+        },
+        {
+          "point": "난 정말 괜찮아",
+          "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 정말 (真的) + 괜찮다 (沒關係) 的非格式體"
+        }
       ]
     },
     {
       "korean": "내 곁에만 Come slowly",
       "translation": "只要在我身邊 慢慢地來",
       "analysis": [
-        { "point": "내 곁에만", "explanation": "내 (我的) + 곁 (身邊) + -에만 (只在...地方/時候)" },
-        { "point": "Come slowly", "explanation": "英文歌詞" }
+        {
+          "point": "내 곁에만",
+          "explanation": "내 (我的) + 곁 (身邊) + -에만 (只在...地方/時候)"
+        },
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
@@ -267,57 +480,102 @@
       "korean": "넌 정말 아무렇지도 않니",
       "translation": "你真的毫不在乎嗎",
       "analysis": [
-        { "point": "넌", "explanation": "너 (你) + -는 (主題助詞) 的縮略" },
-        { "point": "정말 아무렇지도 않니", "explanation": "真的 + 아무렇지도 않다 (一點也不.../毫不在乎) 的詞幹 + -니 (非格式體疑問終結詞尾)" }
+        {
+          "point": "넌",
+          "explanation": "너 (你) + -는 (主題助詞) 的縮略"
+        },
+        {
+          "point": "정말 아무렇지도 않니",
+          "explanation": "真的 + 아무렇지도 않다 (一點也不.../毫不在乎) 의詞幹 + -니 (非格式體疑問終結詞尾)"
+        }
       ]
     },
     {
       "korean": "난 이렇게 아픈데",
       "translation": "我這麼痛苦",
       "analysis": [
-        { "point": "난 이렇게", "explanation": "我 這樣地" },
-        { "point": "아픈데", "explanation": "아프다 (痛，痛苦) 的詞幹 + -(으)ㄴ데 (連接詞尾，表示背景、對比或轉折)" }
+        {
+          "point": "난 이렇게",
+          "explanation": "我 這樣地"
+        },
+        {
+          "point": "아픈데",
+          "explanation": "아프다 (痛，痛苦) 의詞幹 + -(으)ㄴ데 (連接詞尾，表示背景、對比或轉折)"
+        }
       ]
     },
     {
       "korean": "네 번홀 지우고 별 짓 다해도",
       "translation": "即使刪掉你的號碼 做盡各種事",
       "analysis": [
-        { "point": "네 번홀 지우고", "explanation": "네 (你的) + 번호 (號碼) + -를 (受格助詞) 的縮略 + 지우다 (刪除) + -고" },
-        { "point": "별 짓 다해도", "explanation": "별 (名詞/冠形詞，各種的) + 짓 (名詞，行為，事情) + 다 (全都) + 하다 (做) + -아/어도 (即使...也)" }
+        {
+          "point": "네 번홀 지우고",
+          "explanation": "네 (你的) + 번호 (號碼) + -를 (受格助詞) 的縮略 + 지우다 (刪除) + -고"
+        },
+        {
+          "point": "별 짓 다해도",
+          "explanation": "별 (名詞/冠形詞，各種的) + 짓 (名詞，行為，事情) + 다 (全都) + 하다 (做) + -아/어도 (即使...也)"
+        }
       ]
     },
     {
       "korean": "결국 너만 남는데",
       "translation": "結果只剩下你",
       "analysis": [
-        { "point": "결국", "explanation": "副詞，結果，終究" },
-        { "point": "너만 남는데", "explanation": "너 (你) + -만 (只) + 남다 (剩下) 的詞幹 + -(으)ㄴ/는데" }
+        {
+          "point": "결국",
+          "explanation": "副詞，結果，終究"
+        },
+        {
+          "point": "너만 남는데",
+          "explanation": "너 (你) + -만 (只) + 남다 (剩下) 의詞幹 + -(으)ㄴ/는데"
+        }
       ]
     },
     {
       "korean": "너무 서두르지 않아도 돼",
       "translation": "不用太著急也沒關係",
       "analysis": [
-        { "point": "너무", "explanation": "副詞，太" },
-        { "point": "서두르지 않아도 돼", "explanation": "서두르다 (著急) 的詞幹 + -지 않아도 되다 (即使不...也可以)" }
+        {
+          "point": "너무",
+          "explanation": "副詞，太"
+        },
+        {
+          "point": "서두르지 않아도 돼",
+          "explanation": "서두르다 (著急) 의詞幹 + -지 않아도 되다 (即使不...也可以)"
+        }
       ]
     },
     {
       "korean": "내게 걸어와줘 1,2 step",
       "translation": "向我走來吧 1,2 step",
       "analysis": [
-        { "point": "내게 걸어와줘", "explanation": "나에게 (對我) + 걸어오다 (走過來) + -아/어 줘 (命令形，為我做...)" },
-        { "point": "1,2 step", "explanation": "英文歌詞" }
+        {
+          "point": "내게 걸어와줘",
+          "explanation": "나에게 (對我) + 걸어오다 (走過來) + -아/어 줘 (命令形，為我做...)"
+        },
+        {
+          "point": "1,2 step",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "Still wating wating 다시 또 돌아와줘",
       "translation": "依然等待著 等待著 再次回來吧",
       "analysis": [
-        { "point": "Still wating wating", "explanation": "英文歌詞 (waiting 的拼寫)" },
-        { "point": "다시 또", "explanation": "再次 又/再" },
-        { "point": "돌아와줘", "explanation": "돌아오다 (回來) + -아/어 줘" }
+        {
+          "point": "Still wating wating",
+          "explanation": "英文歌詞 (waiting 的拼寫)"
+        },
+        {
+          "point": "다시 또",
+          "explanation": "再次 又/再"
+        },
+        {
+          "point": "돌아와줘",
+          "explanation": "돌아오다 (回來) + -아/어 줘"
+        }
       ]
     },
     {
@@ -325,32 +583,56 @@
       "korean": "Come slowly 다시 예전처럼",
       "translation": "慢慢地來 再次像從前一樣",
       "analysis": [
-        { "point": "Come slowly", "explanation": "英文歌詞" },
-        { "point": "다시 예전처럼", "explanation": "再次 + 예전 (從前) + -처럼" }
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "다시 예전처럼",
+          "explanation": "再次 + 예전 (從前) + -처럼"
+        }
       ]
     },
     {
       "korean": "Come slowly 돌아와주면 돼",
       "translation": "慢慢地來 回到我身邊就可以",
       "analysis": [
-        { "point": "Come slowly", "explanation": "英文歌詞" },
-        { "point": "돌아와주면 돼", "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)" }
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        },
+        {
+          "point": "돌아와주면 돼",
+          "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)"
+        }
       ]
     },
     {
       "korean": "조금 늦어도 돼 조금 사랑해도 돼",
       "translation": "晚一點也沒關係 少愛一點也沒關係",
       "analysis": [
-        { "point": "조금 늦어도 돼", "explanation": "조금 (一點) + 늦다 (晚) 的詞幹 + -아/어도 되다 (即使...也可以)" },
-        { "point": "조금 사랑해도 돼", "explanation": "一點 + 사랑하다 (愛) + -아/어도 되다" }
+        {
+          "point": "조금 늦어도 돼",
+          "explanation": "조금 (一點) + 늦다 (晚) 의詞幹 + -아/어도 되다 (即使...也可以)"
+        },
+        {
+          "point": "조금 사랑해도 돼",
+          "explanation": "一點 + 사랑하다 (愛) + -아/어도 되다"
+        }
       ]
     },
     {
       "korean": "천천히 천천히 돌아와주면 돼",
       "translation": "慢慢地 慢慢地 回到我身邊就可以",
       "analysis": [
-        { "point": "천천히", "explanation": "副詞，慢慢地" },
-        { "point": "돌아와주면 돼", "explanation": "同上" }
+        {
+          "point": "천천히",
+          "explanation": "副詞，慢慢地"
+        },
+        {
+          "point": "돌아와주면 돼",
+          "explanation": "돌아오다 (回來) + -아/어 주다 + -(으)면 되다 (只要...就可以)"
+        }
       ]
     },
     {
@@ -358,65 +640,235 @@
       "korean": "Why? Why? Don't know why",
       "translation": "為什麼？為什麼？不知道為什麼",
       "analysis": [
-        { "point": "Why? Why? Don't know why", "explanation": "英文歌詞" }
+        {
+          "point": "Why? Why? Don't know why",
+          "explanation": "英文歌詞"
+        }
       ]
     },
     {
       "korean": "눈물이 나는지 그래 난 정말 괜찮아",
       "translation": "眼淚為何流下 是啊 我真的沒關係",
       "analysis": [
-        { "point": "눈물이 나는지", "explanation": "눈물 (眼淚) + -이 (主格助詞) + 나다 (流出，發生) 的詞幹 + -는지 (間接疑問連接詞尾，是否.../為何...)" },
-        { "point": "그래", "explanation": "感嘆詞/副詞，是啊，就那樣" },
-        { "point": "난 정말 괜찮아", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 정말 (真的) + 괜찮다 (沒關係) 的非格式體" }
+        {
+          "point": "눈물이 나는지",
+          "explanation": "눈물 (眼淚) + -이 (主格助詞) + 나다 (流出，發生) 의詞幹 + -는지 (間接疑問連接詞尾，是否.../為何...)"
+        },
+        {
+          "point": "그래",
+          "explanation": "感嘆詞/副詞，是啊，就那樣"
+        },
+        {
+          "point": "난 정말 괜찮아",
+          "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 정말 (真的) + 괜찮다 (沒關係) 的非格式體"
+        }
       ]
     },
     {
       "korean": "내 곁에만 Come slowly",
       "translation": "只要在我身邊 慢慢地來",
       "analysis": [
-        { "point": "내 곁에만", "explanation": "내 (我的) + 곁 (身邊) + -에만 (只在...地方/時候)" },
-        { "point": "Come slowly", "explanation": "英文歌詞" }
+        {
+          "point": "내 곁에만",
+          "explanation": "내 (我的) + 곁 (身邊) + -에만 (只在...地方/時候)"
+        },
+        {
+          "point": "Come slowly",
+          "explanation": "英文歌詞"
+        }
       ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "안되다", "chinese": "不行/不可以", "pos": "動詞/形容詞" },
-    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
-    { "korean": "주다", "chinese": "(作為補助動詞)為(某人)做...", "pos": "補助動詞" },
-    { "korean": "좋았었다", "chinese": "曾經很好", "pos": "形容詞 (過去完成)" },
-    { "korean": "행복했었다", "chinese": "曾經幸福", "pos": "形容詞 (過去完成)" },
-    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
-    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
-    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
-    { "korean": "가두다", "chinese": "關起來/囚禁", "pos": "動詞" },
-    { "korean": "조각나다", "chinese": "破碎", "pos": "動詞" },
-    { "korean": "묻어두다", "chinese": "埋藏起來", "pos": "動詞" },
-    { "korean": "처음", "chinese": "第一次", "pos": "名詞" },
-    { "korean": "고백하다", "chinese": "告白", "pos": "動詞" },
-    { "korean": "예전", "chinese": "從前/以前", "pos": "名詞" },
-    { "korean": "늦다", "chinese": "晚/遲到", "pos": "動詞/形容詞" },
-    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
-    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
-    { "korean": "나다", "chinese": "出現/發生/流出", "pos": "動詞" },
-    { "korean": "괜찮다", "chinese": "沒關係/可以", "pos": "形容詞" },
-    { "korean": "곁", "chinese": "身邊/旁邊", "pos": "名詞" },
-    { "korean": "어서", "chinese": "快點", "pos": "副詞" },
-    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
-    { "korean": "보고싶다", "chinese": "想念/想看", "pos": "動詞片語" },
-    { "korean": "바래지다", "chinese": "褪色", "pos": "動詞" },
-    { "korean": "사진", "chinese": "照片", "pos": "名詞" },
-    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
-    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
-    { "korean": "자리", "chinese": "位置/座位", "pos": "名詞" },
-    { "korean": "벗어나다", "chinese": "擺脫/脫離", "pos": "動詞" },
-    { "korean": "아무렇지도 않다", "chinese": "毫不在乎/一點也不...", "pos": "形容詞片語" },
-    { "korean": "아프다", "chinese": "痛/痛苦", "pos": "形容詞" },
-    { "korean": "번호", "chinese": "號碼", "pos": "名詞" },
-    { "korean": "지우다", "chinese": "擦掉/刪除", "pos": "動詞" },
-    { "korean": "별 짓", "chinese": "各種事情/胡鬧", "pos": "名詞片語" },
-    { "korean": "결국", "chinese": "結果/終究", "pos": "副詞" },
-    { "korean": "남다", "chinese": "剩下/留下", "pos": "動詞" },
-    { "korean": "서두르다", "chinese": "著急/倉促", "pos": "動詞" },
-    { "korean": "걸어오다", "chinese": "走過來", "pos": "動詞" }
+    {
+      "korean": "안되다",
+      "chinese": "不行/不可以",
+      "pos": "動詞/形容詞"
+    },
+    {
+      "korean": "돌아오다",
+      "chinese": "回來",
+      "pos": "動詞"
+    },
+    {
+      "korean": "주다",
+      "chinese": "(作為補助動詞)為(某人)做...",
+      "pos": "補助動詞"
+    },
+    {
+      "korean": "좋았었다",
+      "chinese": "曾經很好",
+      "pos": "形容詞 (過去完成)"
+    },
+    {
+      "korean": "행복했었다",
+      "chinese": "曾經幸福",
+      "pos": "形容詞 (過去完成)"
+    },
+    {
+      "korean": "돌아가다",
+      "chinese": "回去",
+      "pos": "動詞"
+    },
+    {
+      "korean": "기억",
+      "chinese": "記憶",
+      "pos": "名詞"
+    },
+    {
+      "korean": "추억",
+      "chinese": "回憶",
+      "pos": "名詞"
+    },
+    {
+      "korean": "가두다",
+      "chinese": "關起來/囚禁",
+      "pos": "動詞"
+    },
+    {
+      "korean": "조각나다",
+      "chinese": "破碎",
+      "pos": "動詞"
+    },
+    {
+      "korean": "묻어두다",
+      "chinese": "埋藏起來",
+      "pos": "動詞"
+    },
+    {
+      "korean": "처음",
+      "chinese": "第一次",
+      "pos": "名詞"
+    },
+    {
+      "korean": "고백하다",
+      "chinese": "告白",
+      "pos": "動詞"
+    },
+    {
+      "korean": "예전",
+      "chinese": "從前/以前",
+      "pos": "名詞"
+    },
+    {
+      "korean": "늦다",
+      "chinese": "晚/遲到",
+      "pos": "動詞/形容詞"
+    },
+    {
+      "korean": "천천히",
+      "chinese": "慢慢地",
+      "pos": "副詞"
+    },
+    {
+      "korean": "눈물",
+      "chinese": "眼淚",
+      "pos": "名詞"
+    },
+    {
+      "korean": "나다",
+      "chinese": "出現/發生/流出",
+      "pos": "動詞"
+    },
+    {
+      "korean": "괜찮다",
+      "chinese": "沒關係/可以",
+      "pos": "形容詞"
+    },
+    {
+      "korean": "곁",
+      "chinese": "身邊/旁邊",
+      "pos": "名詞"
+    },
+    {
+      "korean": "어서",
+      "chinese": "快點",
+      "pos": "副詞"
+    },
+    {
+      "korean": "후회하다",
+      "chinese": "後悔",
+      "pos": "動詞"
+    },
+    {
+      "korean": "보고싶다",
+      "chinese": "想念/想看",
+      "pos": "動詞片語"
+    },
+    {
+      "korean": "바래지다",
+      "chinese": "褪色",
+      "pos": "動詞"
+    },
+    {
+      "korean": "사진",
+      "chinese": "照片",
+      "pos": "名詞"
+    },
+    {
+      "korean": "붙잡다",
+      "chinese": "抓住",
+      "pos": "動詞"
+    },
+    {
+      "korean": "떠나가다",
+      "chinese": "離開",
+      "pos": "動詞"
+    },
+    {
+      "korean": "자리",
+      "chinese": "位置/座位",
+      "pos": "名詞"
+    },
+    {
+      "korean": "벗어나다",
+      "chinese": "擺脫/脫離",
+      "pos": "動詞"
+    },
+    {
+      "korean": "아무렇지도 않다",
+      "chinese": "毫不在乎/一點也不...",
+      "pos": "形容詞片語"
+    },
+    {
+      "korean": "아프다",
+      "chinese": "痛/痛苦",
+      "pos": "形容詞"
+    },
+    {
+      "korean": "번호",
+      "chinese": "號碼",
+      "pos": "名詞"
+    },
+    {
+      "korean": "지우다",
+      "chinese": "擦掉/刪除",
+      "pos": "動詞"
+    },
+    {
+      "korean": "별 짓",
+      "chinese": "各種事情/胡鬧",
+      "pos": "名詞片語"
+    },
+    {
+      "korean": "결국",
+      "chinese": "結果/終究",
+      "pos": "副詞"
+    },
+    {
+      "korean": "남다",
+      "chinese": "剩下/留下",
+      "pos": "動詞"
+    },
+    {
+      "korean": "서두르다",
+      "chinese": "著急/倉促",
+      "pos": "動詞"
+    },
+    {
+      "korean": "걸어오다",
+      "chinese": "走過來",
+      "pos": "動詞"
+    }
   ]
 }
