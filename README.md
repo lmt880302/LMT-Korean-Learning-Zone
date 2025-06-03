@@ -29,7 +29,6 @@
 ├── img/                           # 圖片資源
 ├── js/
 │   └── main.js                    # JavaScript
-├── LMT-Korean-Learning-Zone/      # 可能為子模組或資料夾
 ├── songs/
 │   ├── index.html                 # 歌曲主頁
 │   └── lyrics-template.html       # 歌詞模板頁
