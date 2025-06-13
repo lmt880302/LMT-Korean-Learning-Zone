@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Poppins:wght@700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
     <style>
         body {
@@ -15,114 +15,105 @@
             background-color: #0F172A; 
             color: #E2E8F0; 
         }
-        .song-header {
-            border-bottom: 1px solid #334155; 
-            padding-bottom: 1.5rem; 
-            margin-bottom: 2rem; /* Space before lyrics start */
+        .site-title {
+            font-family: 'Poppins', 'Roboto', sans-serif;
+            @apply text-2xl font-bold bg-gradient-to-r from-sky-400 to-cyan-400 bg-clip-text text-transparent tracking-tight;
+            transition: all 0.3s ease-in-out;
         }
+        .site-title:hover {
+            filter: brightness(1.2);
+            text-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
+        }
+
         .lyrics-section-title { 
-            margin-top: 2.5rem; /* More space for section titles */
-            margin-bottom: 1.25rem; /* mb-5 */
-            font-size: 1.125rem; /* text-lg */
-            font-weight: 700; /* bold */
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            font-size: 1rem;
+            font-weight: 700;
             color: #A5B4FC; 
             padding-bottom: 0.5rem;
             border-bottom: 1px solid #475569; 
-            text-transform: uppercase; /* Optional: make section titles uppercase */
+            text-transform: uppercase;
             letter-spacing: 0.05em;
         }
         .lyrics-line-block {
             background-color: #1E293B; 
             border-radius: 0.5rem; 
             padding: 1rem 1.25rem; 
-            margin-bottom: 0.75rem; /* Reduced margin for tighter packing */
-            border-left: 3px solid #3B82F6; 
-            box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+            margin-bottom: 0.5rem;
+            border-left: 4px solid transparent; 
+            transition: all 0.2s ease-in-out;
+            cursor: pointer;
+        }
+        .lyrics-line-block:hover {
+            transform: translateX(4px);
+            background-color: #2b3a52;
+            border-left-color: #38BDF8;
+        }
+        .lyrics-line-block.active {
+            background-color: #314159;
+            border-left-color: #818CF8;
+            transform: translateX(4px) scale(1.01);
+            box-shadow: 0 0 15px rgba(129, 140, 248, 0.1);
         }
         .korean-lyric {
-            font-family: 'Noto Sans KR', sans-serif;
-            font-size: 1.125rem; /* text-lg, slightly smaller for compactness */
+            font-size: 1.125rem;
             font-weight: 500;
-            color: #E0E7FF; /* Brighter for lyrics */
+            color: #E0E7FF;
             margin-bottom: 0.25rem; 
-            line-height: 1.6; 
+            line-height: 1.7; 
         }
         .translation-lyric {
-            font-size: 0.875rem; /* text-sm */
-            color: #94A3B8; /* slate-400, more subtle */
-            margin-bottom: 0.75rem; 
-            line-height: 1.6;
-            font-style: normal; /* Removed italic for better readability in compact layout */
+            font-size: 0.875rem;
+            color: #94A3B8;
+            line-height: 1.7;
         }
-        .analysis-toggle {
-            display: inline-flex; 
-            align-items: center;
-            background-color: #334155; 
-            color: #94A3B8; 
-            padding: 0.25rem 0.625rem; /* Smaller padding */
-            border-radius: 0.375rem;
-            font-size: 0.75rem; 
-            cursor: pointer;
-            transition: background-color 0.2s ease, color 0.2s ease;
-            margin-top: 0.5rem;
-            border: 1px solid #475569;
+        .learning-panel {
+            position: sticky;
+            top: 8rem; /* 確保在導覽列下方 */
+            height: calc(100vh - 10rem);
+            overflow-y: auto;
         }
-        .analysis-toggle svg { 
-            width: 0.75rem; 
-            height: 0.75rem;
-            margin-left: 0.25rem;
-            transition: transform 0.2s ease-in-out;
-        }
-        .analysis-toggle[aria-expanded="true"] svg {
-            transform: rotate(180deg);
-        }
-        .analysis-toggle:hover {
-            background-color: #475569; 
-            color: #E2E8F0;
-        }
-        .analysis-content {
-            margin-top: 0.625rem; /* Reduced margin */
-            padding-left: 1rem; 
-            border-left: 2px dashed #475569;
-            font-size: 0.8rem; /* Smaller font for analysis */
-            color: #CBD5E1;
-            background-color: rgba(41, 53, 72, 0.15); /* More subtle bg */
-            padding: 0.625rem; 
-            border-radius: 0.375rem;
-        }
-        .analysis-point {
-            margin-bottom: 0.375rem; /* Reduced margin */
-        }
-        .analysis-point strong {
-            color: #818CF8; 
-            font-weight: 500;
-        }
-        .key-vocab-section {
-            margin-top: 3rem; /* More space before key vocab */
-            padding: 1.5rem;
+        .learning-card {
             background-color: #1E293B;
-            border-radius: 0.5rem;
             border: 1px solid #334155;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
         }
-         .key-vocab-title {
-            color: #67E8F9; 
-            font-size: 1.5rem; 
-            font-weight: 600; 
-            margin-bottom: 1.25rem; /* Increased margin */
+        .learning-card-title {
+            color: #67E8F9;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
             padding-bottom: 0.5rem;
             border-bottom: 1px solid #475569;
         }
+        .analysis-point {
+            margin-bottom: 0.75rem;
+        }
+        .analysis-point strong {
+            display: block;
+            color: #818CF8; 
+            font-weight: 500;
+            font-size: 0.9rem;
+            margin-bottom: 0.125rem;
+        }
+        .analysis-point span {
+            font-size: 0.85rem;
+            color: #CBD5E1;
+            line-height: 1.6;
+        }
         .key-vocab-item {
-            margin-bottom: 0.625rem; /* mb-2.5 */
-            padding: 0.25rem 0;
+            margin-bottom: 0.5rem;
         }
         .key-vocab-ko {
             font-weight: 500;
-            color: #A5F3FC; 
+            color: #A5F3FC;
         }
         .key-vocab-details {
             color: #CBD5E1;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
         }
         .copy-lyrics-btn {
             @apply bg-teal-600 hover:bg-teal-500 text-white font-semibold py-2 px-5 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
@@ -132,7 +123,7 @@
             bottom: 2rem;
             left: 50%;
             transform: translateX(-50%);
-            background-color: rgba(20, 184, 166, 0.9); /* Teal-500 */
+            background-color: rgba(20, 184, 166, 0.9);
             color: white;
             padding: 0.75rem 1.5rem;
             border-radius: 0.5rem;
@@ -147,7 +138,6 @@
             visibility: visible;
             transform: translateX(-50%) translateY(0);
         }
-
         ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #1E293B; }
         ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
@@ -159,19 +149,17 @@
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
-                    <a href="../index.html" class="text-2xl font-bold text-sky-400 hover:text-slate-100 transition-colors">LMT-Korean-Learning-Zone</a>
+                    <a href="../index.html" class="site-title">LMT Korean Learning Zone</a>
                 </div>
                 <div class="hidden md:flex space-x-4">
                     <a href="../index.html" class="nav-link">首頁</a>
                     <a href="../grammar/index.html" class="nav-link">文法教學</a>
                     <a href="../vocabulary/index.html" class="nav-link">單字學習</a>
-                    <a href="./index.html" class="nav-link active">歌曲教學</a> 
+                    <a href="./index.html" class="nav-link active">歌曲教學</a>
                 </div>
                 <div class="md:hidden">
                     <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
-                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
-                        </svg>
+                        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" /></svg>
                     </button>
                 </div>
             </div>
@@ -184,13 +172,28 @@
         </nav>
     </header>
 
-    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
-        <div id="song-details-container">
-            <p class="text-center text-gray-400">正在載入歌曲資訊...</p>
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-12">
+        <div id="song-details-container" class="grid grid-cols-1 md:grid-cols-3 md:gap-x-12">
+            <!-- Lyrics Column -->
+            <div class="md:col-span-2" id="lyrics-column">
+                <p class="text-center text-gray-400">正在載入歌曲資訊...</p>
+            </div>
+            <!-- Learning Panel Column -->
+            <div class="hidden md:block" id="learning-panel-column">
+                 <div class="learning-panel">
+                    <div id="analysis-panel" class="learning-card">
+                         <h3 class="learning-card-title">單字文法解析</h3>
+                         <p class="text-slate-400 text-sm">請點擊左側任一句歌詞，以查看詳細解析。</p>
+                    </div>
+                     <div id="key-vocab-panel" class="learning-card hidden">
+                         <h3 class="learning-card-title">核心單字</h3>
+                         <div id="key-vocab-content"></div>
+                     </div>
+                </div>
+            </div>
         </div>
     </main>
     
-    <!-- Notification element for copy feedback -->
     <div id="copy-notification" class="copy-notification">歌詞已複製！</div>
 
     <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
@@ -199,39 +202,39 @@
     </footer>
 
     <script>
+        // --- 全域變數 ---
+        let currentSongData = null;
+
+        // --- 輔助函數 ---
         function sanitizeHTML(str) {
             if (typeof str !== 'string') return '';
-            var temp = document.createElement('div');
+            const temp = document.createElement('div');
             temp.textContent = str;
             return temp.innerHTML;
         }
-        
-        // Helper function to show notification
+
         function showCopyNotification() {
-            var notification = document.getElementById('copy-notification');
+            const notification = document.getElementById('copy-notification');
             if(notification) {
                 notification.classList.add('show');
-                setTimeout(function() {
-                    notification.classList.remove('show');
-                }, 2000); // Notification disappears after 2 seconds
+                setTimeout(() => notification.classList.remove('show'), 2000);
             }
         }
-        
-        // Helper function to copy text
+
         function copyToClipboard(textToCopy, buttonElement) {
-            var textarea = document.createElement('textarea');
+            const textarea = document.createElement('textarea');
             textarea.value = textToCopy;
-            textarea.style.position = 'fixed'; // Prevent scrolling to bottom of page in MS Edge.
+            textarea.style.position = 'fixed';
             textarea.style.left = '-9999px';
             document.body.appendChild(textarea);
             textarea.select();
             try {
                 document.execCommand('copy');
                 if(buttonElement) {
-                    var originalText = buttonElement.innerHTML;
+                    const originalText = buttonElement.innerHTML;
                     buttonElement.innerHTML = '已複製!';
                     buttonElement.disabled = true;
-                    setTimeout(function() {
+                    setTimeout(() => {
                         buttonElement.innerHTML = originalText;
                         buttonElement.disabled = false;
                     }, 2000);
@@ -244,161 +247,164 @@
             document.body.removeChild(textarea);
         }
 
-        function renderSongDetails(songData) {
-            var container = document.getElementById('song-details-container');
-            if (!container) {
-                console.error("Song details container not found!");
+        // --- 核心渲染函數 ---
+        
+        // 更新右側學習面板內容
+        function updateAnalysisPanel(lineIndex) {
+            const analysisPanel = document.getElementById('analysis-panel');
+            if (!analysisPanel || !currentSongData || !currentSongData.lines[lineIndex]) return;
+
+            const line = currentSongData.lines[lineIndex];
+            let contentHTML = `<h3 class="learning-card-title">單字文法解析</h3>`;
+            
+            if (line.analysis && line.analysis.length > 0) {
+                contentHTML += '<div class="space-y-3">';
+                line.analysis.forEach(point => {
+                    contentHTML += `
+                        <div class="analysis-point">
+                            <strong>${sanitizeHTML(point.point)}</strong>
+                            <span>${sanitizeHTML(point.explanation)}</span>
+                        </div>`;
+                });
+                contentHTML += '</div>';
+            } else {
+                contentHTML += `<p class="text-slate-400 text-sm">此句沒有提供額外的解析。</p>`;
+            }
+            analysisPanel.innerHTML = contentHTML;
+
+            // 更新高亮樣式
+            document.querySelectorAll('.lyrics-line-block').forEach((el, idx) => {
+                el.classList.toggle('active', idx === lineIndex);
+            });
+        }
+        
+        // 渲染整個頁面
+        function renderSongPage(songData) {
+            currentSongData = songData;
+            const lyricsColumn = document.getElementById('lyrics-column');
+            if (!lyricsColumn) {
+                console.error("Lyrics column not found!");
                 return;
             }
-            container.innerHTML = ''; 
+            lyricsColumn.innerHTML = ''; 
 
-            document.title = sanitizeHTML(songData.title) + " - 歌曲學習 - LMT-Korean-Learning-Zone"; 
+            document.title = `${sanitizeHTML(songData.title)} - 歌曲學習 - LMT-Korean-Learning-Zone`;
 
-            // Add the copy button to the header
-            var songInfoHTML = `
-                <div class="text-center mb-8 song-header">
+            // 渲染歌曲標題和複製按鈕
+            const songHeaderHTML = `
+                <div class="text-center mb-8 pb-6 border-b border-slate-700">
                     <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-2">${sanitizeHTML(songData.title)}</h1>
-                    <p class="text-xl text-slate-400">${sanitizeHTML(songData.artist)}</p>
-                    <div class="mt-6">
-                        <button id="copy-lyrics-btn" class="copy-lyrics-btn" title="複製歌名與韓文歌詞">
-                             <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5 mr-2 -mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-                            </svg>
-                            複製歌詞
-                        </button>
-                    </div>
-                </div>
-            `;
-            container.innerHTML += songInfoHTML;
-
-            var lyricsSection = document.createElement('section');
-            lyricsSection.id = 'lyrics-section';
+                    <p class="text-xl text-slate-400 mb-6">${sanitizeHTML(songData.artist)}</p>
+                    <button id="copy-lyrics-btn" class="copy-lyrics-btn" title="複製歌名與韓文歌詞">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5 mr-2 -mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+                        複製歌詞
+                    </button>
+                </div>`;
+            lyricsColumn.innerHTML = songHeaderHTML;
             
-            songData.lines.forEach(function(line, index) {
+            const lyricsSection = document.createElement('section');
+            lyricsSection.id = 'lyrics-section';
+
+            // 渲染歌詞
+            songData.lines.forEach((line, index) => {
                 if (line.sectionTitle) {
-                    var sectionTitleEl = document.createElement('h2');
+                    const sectionTitleEl = document.createElement('h2');
                     sectionTitleEl.className = 'lyrics-section-title';
                     sectionTitleEl.textContent = sanitizeHTML(line.sectionTitle);
                     lyricsSection.appendChild(sectionTitleEl);
                 }
 
-                var lineBlock = document.createElement('div');
-                lineBlock.className = 'lyrics-line-block';
-
-                var analysisHTML = '';
-                var analysisContentId = `analysis-content-${index}`;
-                if (line.analysis && line.analysis.length > 0) {
-                    analysisHTML = `<div id="${analysisContentId}" class="analysis-content hidden space-y-1">`; 
-                    line.analysis.forEach(function(point) {
-                        analysisHTML += `<div class="analysis-point"><strong>${sanitizeHTML(point.point)}:</strong> ${sanitizeHTML(point.explanation)}</div>`;
-                    });
-                    analysisHTML += '</div>';
+                if (line.korean) { // 只為有歌詞的行創建區塊
+                    const lineBlock = document.createElement('div');
+                    lineBlock.className = 'lyrics-line-block';
+                    lineBlock.dataset.lineIndex = index; // 儲存索引
+                    lineBlock.innerHTML = `
+                        <p class="korean-lyric" lang="ko">${sanitizeHTML(line.korean)}</p>
+                        <p class="translation-lyric">${sanitizeHTML(line.translation)}</p>
+                    `;
+                    lyricsSection.appendChild(lineBlock);
                 }
-
-                lineBlock.innerHTML = `
-                    <p class="korean-lyric" lang="ko">${sanitizeHTML(line.korean)}</p>
-                    <p class="translation-lyric">${sanitizeHTML(line.translation)}</p>
-                    ${analysisHTML ? `<button class="analysis-toggle" aria-expanded="false" aria-controls="${analysisContentId}">
-                                        解析 
-                                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor" class="inline-block" style="width:0.625rem; height:0.625rem; transition: transform 0.2s ease-in-out;">
-                                          <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
-                                        </svg>
-                                     </button>` : ''}
-                    ${analysisHTML}
-                `;
-                lyricsSection.appendChild(lineBlock);
             });
-            container.appendChild(lyricsSection);
-            
-            if (songData.keyVocabulary && songData.keyVocabulary.length > 0) {
-                var vocabHTML = '<div class="key-vocab-section"><h3 class="key-vocab-title">核心單字</h3><div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-4 gap-y-2">';
-                songData.keyVocabulary.forEach(function(vocab) {
+            lyricsColumn.appendChild(lyricsSection);
+
+            // 渲染右側核心單字
+            const keyVocabPanel = document.getElementById('key-vocab-panel');
+            const keyVocabContent = document.getElementById('key-vocab-content');
+            if (keyVocabPanel && keyVocabContent && songData.keyVocabulary && songData.keyVocabulary.length > 0) {
+                keyVocabPanel.classList.remove('hidden');
+                let vocabHTML = '<div class="grid grid-cols-1 gap-y-2">';
+                songData.keyVocabulary.forEach(vocab => {
                     vocabHTML += `<div class="key-vocab-item"><strong class="key-vocab-ko" lang="ko">${sanitizeHTML(vocab.korean)}:</strong> <span class="key-vocab-details">${sanitizeHTML(vocab.chinese)} (${sanitizeHTML(vocab.pos)})</span></div>`;
                 });
-                vocabHTML += '</div></div>';
-                container.innerHTML += vocabHTML;
+                vocabHTML += '</div>';
+                keyVocabContent.innerHTML = vocabHTML;
             }
 
-            // Add event listener for the new copy button
-            var copyBtn = document.getElementById('copy-lyrics-btn');
-            if (copyBtn) {
-                copyBtn.addEventListener('click', function() {
-                    var lyricsToCopy = `${songData.title} - ${songData.artist}\n\n`;
-                    songData.lines.forEach(function(line) {
-                        if (line.sectionTitle) {
-                             lyricsToCopy += `[${line.sectionTitle}]\n`;
-                        }
-                        if (line.korean) {
-                            lyricsToCopy += `${line.korean}\n`;
-                        }
-                    });
-                    copyToClipboard(lyricsToCopy.trim(), this);
-                });
-            }
-
-            document.querySelectorAll('.analysis-toggle').forEach(function(button) {
-                button.addEventListener('click', function() {
-                    var targetId = this.getAttribute('aria-controls');
-                    var content = document.getElementById(targetId); 
-                    var icon = this.querySelector('svg');
-                    if (content && content.classList.contains('analysis-content')) {
-                        var isHidden = content.classList.toggle('hidden');
-                        this.setAttribute('aria-expanded', !isHidden);
-                        this.childNodes[0].nodeValue = isHidden ? '查看解析 ' : '隱藏解析 '; // Update text node
-                        if(icon) icon.style.transform = isHidden ? 'rotate(0deg)' : 'rotate(180deg)';
-                    }
+            // --- 事件監聽 ---
+            
+            // 點擊歌詞行
+            document.querySelectorAll('.lyrics-line-block').forEach(block => {
+                block.addEventListener('click', () => {
+                    const lineIndex = parseInt(block.dataset.lineIndex, 10);
+                    updateAnalysisPanel(lineIndex);
                 });
             });
+
+            // 複製按鈕
+            document.getElementById('copy-lyrics-btn')?.addEventListener('click', function() {
+                let lyricsToCopy = `${songData.title} - ${songData.artist}\n\n`;
+                songData.lines.forEach(line => {
+                    if (line.sectionTitle) {
+                         lyricsToCopy += `[${line.sectionTitle}]\n`;
+                    }
+                    if (line.korean) {
+                        lyricsToCopy += `${line.korean}\n`;
+                    }
+                });
+                copyToClipboard(lyricsToCopy.trim(), this);
+            });
+            
+            // 預設顯示第一句歌詞的解析
+            const firstLyricIndex = songData.lines.findIndex(line => line.korean);
+            if (firstLyricIndex !== -1) {
+                updateAnalysisPanel(firstLyricIndex);
+            }
         }
 
-
+        // --- 頁面載入邏輯 ---
         document.addEventListener('DOMContentLoaded', function() {
-            var songDetailsContainer = document.getElementById('song-details-container');
-            var params = new URLSearchParams(window.location.search);
-            var songId = params.get('songId');
+            const songDetailsContainer = document.getElementById('song-details-container');
+            const params = new URLSearchParams(window.location.search);
+            const songId = params.get('songId');
 
             if (!songId) {
-                if(songDetailsContainer) songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">錯誤：未指定歌曲 ID。請由歌曲列表頁進入。</p>';
+                if(songDetailsContainer) songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center col-span-full">錯誤：未指定歌曲 ID。請由歌曲列表頁進入。</p>';
                 return;
             }
             
-            var jsonFileUrl = '';
-            try {
-                jsonFileUrl = new URL('../data/lyrics/' + sanitizeHTML(songId) + '.json', window.location.href).href;
-            } catch(e) {
-                console.error("Error creating URL for lyrics JSON:", e);
-                 if(songDetailsContainer) songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">無法解析歌曲資料檔案路徑。</p>';
-                return;
-            }
+            const jsonFileUrl = new URL(`../data/lyrics/${sanitizeHTML(songId)}.json`, window.location.href).href;
 
             fetch(jsonFileUrl)
-                .then(function(response) {
-                    if (!response.ok) {
-                        throw new Error('HTTP error ' + response.status + ' while fetching ' + jsonFileUrl + '. 檔案可能不存在或路徑錯誤。');
-                    }
+                .then(response => {
+                    if (!response.ok) throw new Error(`HTTP error ${response.status}`);
                     return response.json();
                 })
-                .then(function(songData) {
-                    renderSongDetails(songData);
+                .then(songData => {
+                    renderSongPage(songData);
                 })
-                .catch(function(error) {
+                .catch(error => {
                     console.error('無法載入歌曲資料:', error);
                     if(songDetailsContainer) {
-                         songDetailsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">歌曲資料載入失敗，請確認歌曲ID或對應的JSON檔案 ('+ sanitizeHTML(songId) +'.json) 是否存在於 data/lyrics/ 資料夾且格式正確。</p>';
+                         document.getElementById('lyrics-column').innerHTML = `<p class="text-xl text-red-400 text-center">歌曲資料載入失敗，請確認歌曲ID或對應的JSON檔案 (${sanitizeHTML(songId)}.json) 是否存在且格式正確。</p>`;
                     }
                 });
 
-            var yearSpan = document.getElementById('current-year');
-            if (yearSpan) {
-                yearSpan.textContent = new Date().getFullYear();
-            }
-
-            var menuButton = document.getElementById('mobile-menu-button');
-            var mobileMenu = document.getElementById('mobile-menu');
+            document.getElementById('current-year').textContent = new Date().getFullYear();
+            
+            const menuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
             if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', function() {
-                    mobileMenu.classList.toggle('hidden');
-                });
+                menuButton.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
             }
         });
     </script>
