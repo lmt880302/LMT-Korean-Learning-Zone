@@ -1,3 +1,12 @@
+.site-title {
+    font-family: 'Poppins', 'Roboto', sans-serif;
+    @apply text-2xl font-bold bg-gradient-to-r from-sky-400 to-cyan-400 bg-clip-text text-transparent tracking-tight;
+    transition: all 0.3s ease-in-out;
+}
+.site-title:hover {
+    filter: brightness(1.2);
+    text-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
+}
 /* css/style.css */
 @tailwind base;
 @tailwind components;

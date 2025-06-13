@@ -7,13 +7,22 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Poppins:wght@700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
     <style>
         body {
             font-family: 'Roboto', 'Noto Sans KR', sans-serif;
             background-color: #0F172A; 
             color: #E2E8F0; 
+        }
+        .site-title {
+            font-family: 'Poppins', 'Roboto', sans-serif; /* 使用新的 Poppins 字體 */
+            @apply text-2xl font-bold bg-gradient-to-r from-sky-400 to-cyan-400 bg-clip-text text-transparent tracking-tight;
+            transition: all 0.3s ease-in-out;
+        }
+        .site-title:hover {
+            filter: brightness(1.2);
+            text-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
         }
         .artist-group {
             break-inside: avoid-column; /* 防止在列中被中斷 */
@@ -88,7 +97,7 @@
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
-                    <a href="../index.html" class="text-2xl font-bold text-sky-400 hover:text-slate-100 transition-colors">LMT-Korean-Learning-Zone</a>
+                    <a href="../index.html" class="site-title">LMT Korean Learning Zone</a>
                 </div>
                 <div class="hidden md:flex space-x-4">
                     <a href="../index.html" class="nav-link">首頁</a>
@@ -148,7 +157,6 @@
             return temp.innerHTML;
         }
         
-        // Helper to clean artist name for grouping
         function getCleanArtistName(artist) {
             if (!artist) return 'Unknown Artist';
             return artist.replace(/\s*\(.*\)\s*/g, '').trim();
@@ -176,7 +184,8 @@
                 return acc;
             }, {});
 
-            const sortedArtists = Object.keys(groupedByArtist).sort();
+            // 按照歌手名稱 (A-Z) 排序
+            const sortedArtists = Object.keys(groupedByArtist).sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
 
             sortedArtists.forEach(artist => {
                 const artistGroupDiv = document.createElement('div');
@@ -195,7 +204,12 @@
                 const songsListDiv = document.createElement('div');
                 songsListDiv.className = 'songs-list space-y-3';
                 
-                groupedByArtist[artist].forEach(song => {
+                // 每個歌手內部的歌曲，也按照歌名 (A-Z) 排序
+                const sortedSongs = groupedByArtist[artist].sort((a, b) => {
+                    return a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
+                });
+
+                sortedSongs.forEach(song => {
                     const songLink = document.createElement('a');
                     songLink.href = `./lyrics-template.html?songId=${sanitizeHTML(song.id)}`;
                     songLink.className = 'song-item-link';

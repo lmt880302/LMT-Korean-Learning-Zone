@@ -1,0 +1,328 @@
+{
+  "id": "acourve-a-night-full-of-longing",
+  "title": "A night full of longing",
+  "artist": "Acourve (어쿠루브)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "서둘러서 약속을 잡고 나가",
+      "translation": "匆忙地約好見面後出門",
+      "analysis": [
+        { "point": "서둘러서", "explanation": "서두르다 (匆忙，著急) 的詞幹 + -어서 (連接詞尾，表示原因或順序)" },
+        { "point": "약속을 잡고", "explanation": "약속 (約定) + -을 (受格助詞) + 잡다 (抓住，約定) + -고 (連接詞尾)" },
+        { "point": "나가", "explanation": "나가다 (出去) 的非格式體 (-아/어)" }
+      ]
+    },
+    {
+      "korean": "친구를 만나면 괜찮아질까?",
+      "translation": "如果見了朋友 會好一點嗎？",
+      "analysis": [
+        { "point": "친구를 만나면", "explanation": "친구 (朋友) + -를 (受格助詞) + 만나다 (見面) + -(으)면 (如果...的話)" },
+        { "point": "괜찮아질까?", "explanation": "괜찮아지다 (變好，好起來) 的詞幹 + -(으)ㄹ까? (疑問終結詞尾，表示疑問或推測)" }
+      ]
+    },
+    {
+      "korean": "웃다가도 머릿속엔 네 생각뿐이라서, 음",
+      "translation": "即使笑著 腦中也只有想著你，嗯",
+      "analysis": [
+        { "point": "웃다가도", "explanation": "웃다 (笑) 的詞幹 + -다가도 (連接詞尾，即使在做...的途中也...)" },
+        { "point": "머릿속엔", "explanation": "머릿속 (腦中) + -에는 (在...之中，強調)" },
+        { "point": "네 생각뿐이라서", "explanation": "네 (你的) + 생각 (想法，思念) + -뿐이다 (只是...) + -(이)라서 (因為是...)" },
+        { "point": "음", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "먼저 또 집으로 돌아와",
+      "translation": "又先回到了家",
+      "analysis": [
+        { "point": "먼저 또", "explanation": "먼저 (先) + 또 (又)" },
+        { "point": "집으로 돌아와", "explanation": "집 (家) + -(으)로 (向...) + 돌아오다 (回來) 的連接形" }
+      ]
+    },
+    {
+      "korean": "산책이라도 해볼까?",
+      "translation": "要不要至少去散個步呢？",
+      "analysis": [
+        { "point": "산책이라도", "explanation": "산책 (散步) + -(이)라도 (即使是...也，表示退一步的選擇)" },
+        { "point": "해볼까?", "explanation": "하다 (做) + -아/어 보다 (試著做...) + -(으)ㄹ까? (疑問)" }
+      ]
+    },
+    {
+      "korean": "아니면 영화를 볼까?",
+      "translation": "不然要不要看場電影呢？",
+      "analysis": [
+        { "point": "아니면", "explanation": "連接副詞，不然，或者" },
+        { "point": "영화를 볼까?", "explanation": "영화 (電影) + -를 (受格助詞) + 보다 (看) + -(으)ㄹ까? (疑問)" }
+      ]
+    },
+    {
+      "korean": "어떤 걸 해야 난 괜찮아질까?",
+      "translation": "到底要做什麼 我才會好起來呢？",
+      "analysis": [
+        { "point": "어떤 걸 해야", "explanation": "어떤 (哪種) + 것 (事情) + -을 (受格助詞) 的縮略 + 하다 (做) + -아야 하다 (必須做...)" },
+        { "point": "난 괜찮아질까?", "explanation": "我 + 會好起來嗎？" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이렇게 보고 싶은 날엔",
+      "translation": "在這樣想念你的日子裡",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣地" },
+        { "point": "보고 싶은 날엔", "explanation": "보고 싶다 (想念) 的定語形態 + 날 (日子) + -엔" }
+      ]
+    },
+    {
+      "korean": "생각나는 날엔 잠도 안 오고",
+      "translation": "在想起你的日子裡 也睡不著",
+      "analysis": [
+        { "point": "생각나는 날엔", "explanation": "생각나다 (想起) 的定語形態 + 날 (日子) + -엔" },
+        { "point": "잠도 안 오고", "explanation": "잠 (睡眠) + -도 (也) + 안 (不) + 오다 (來) + -고 (連接)" }
+      ]
+    },
+    {
+      "korean": "밤새 복잡해진 맘에 나는 또 한숨만 쉬고",
+      "translation": "在因整夜變得複雜的心情裡 我又只嘆著氣",
+      "analysis": [
+        { "point": "밤새", "explanation": "副詞，整夜" },
+        { "point": "복잡해진 맘에", "explanation": "복잡해지다 (變得複雜) 的過去定語形態 + 맘 (心) + -에 (因)" },
+        { "point": "나는 또", "explanation": "我(主題) 又" },
+        { "point": "한숨만 쉬고", "explanation": "한숨 (嘆氣) + -만 (只) + 쉬다 (休息，喘氣) + -고" }
+      ]
+    },
+    {
+      "korean": "내가 그리움에 지쳐서",
+      "translation": "因為我被思念折磨得疲憊",
+      "analysis": [
+        { "point": "내가", "explanation": "我(主格)" },
+        { "point": "그리움에", "explanation": "그리움 (思念，名詞) + -에 (因，被)" },
+        { "point": "지쳐서", "explanation": "지치다 (疲憊) + -어서 (因為)" }
+      ]
+    },
+    {
+      "korean": "힘들어하는 밤이 올 때면 가끔 꿈속에 들려",
+      "translation": "每當感到辛苦的夜晚來臨時 偶爾會來到我夢中",
+      "analysis": [
+        { "point": "힘들어하는 밤이 올 때면", "explanation": "힘들어하다 (感到辛苦) 的定語形態 + 밤 (夜晚) + -이 (主格) + 오다 (來) + -(으)ㄹ 때면 (每當...時候)" },
+        { "point": "가끔 꿈속에", "explanation": "偶爾 + 꿈속 (夢中) + -에" },
+        { "point": "들려", "explanation": "들르다 (順道拜訪，短暫停留) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "안부라도 전해줬으면",
+      "translation": "希望能至少傳達個問候",
+      "analysis": [
+        { "point": "안부라도", "explanation": "안부 (問候) + -(이)라도 (即使是...也好)" },
+        { "point": "전해줬으면", "explanation": "전해주다 (傳達給(我)) + -(았/었)으면 (慣用型，要是...就好了)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "언젠간 분명 잊겠지",
+      "translation": "總有一天分明會忘記吧",
+      "analysis": [
+        { "point": "언젠간", "explanation": "언젠가는 (總有一天) 的縮略" },
+        { "point": "분명", "explanation": "副詞，分明，確實" },
+        { "point": "잊겠지", "explanation": "잊다 (忘記) + -겠- (推測) + -지 (終結詞尾，表示推測或確認)" }
+      ]
+    },
+    {
+      "korean": "아직은 아닌 거겠지",
+      "translation": "現在還不是時候吧",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還，仍然) + -은 (強調)" },
+        { "point": "아닌 거겠지", "explanation": "아니다 (不是) + -는 것 (是...的事) + -이다 + -겠지" }
+      ]
+    },
+    {
+      "korean": "나의 하루는 여전히 버거운데",
+      "translation": "我的一天依然很吃力，但是",
+      "analysis": [
+        { "point": "나의 하루는", "explanation": "我的 一天(主題)" },
+        { "point": "여전히", "explanation": "副詞，依然，仍舊" },
+        { "point": "버거운데", "explanation": "버겁다 (吃力，벅차다) + -(으)ㄴ데 (背景/轉折)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이렇게 보고 싶은 날엔",
+      "translation": "在這樣想念你的日子裡",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣地" },
+        { "point": "보고 싶은 날엔", "explanation": "보고 싶다 (想念) 的定語形態 + 날 (日子) + -엔" }
+      ]
+    },
+    {
+      "korean": "생각나는 날엔 잠도 안 오고",
+      "translation": "在想起你的日子裡 也睡不著",
+      "analysis": [
+        { "point": "생각나는 날엔", "explanation": "생각나다 (想起) 的定語形態 + 날 (日子) + -엔" },
+        { "point": "잠도 안 오고", "explanation": "잠 (睡眠) + -도 (也) + 안 (不) + 오다 (來) + -고 (連接)" }
+      ]
+    },
+    {
+      "korean": "밤새 복잡해진 맘에 나는 또 한숨만 쉬고",
+      "translation": "在因整夜變得複雜的心情裡 我又只嘆著氣",
+      "analysis": [
+        { "point": "밤새", "explanation": "副詞，整夜" },
+        { "point": "복잡해진 맘에", "explanation": "복잡해지다 (變得複雜) 的過去定語形態 + 맘 (心) + -에 (因)" },
+        { "point": "나는 또", "explanation": "我(主題) 又" },
+        { "point": "한숨만 쉬고", "explanation": "한숨 (嘆氣) + -만 (只) + 쉬다 (休息，喘氣) + -고" }
+      ]
+    },
+    {
+      "korean": "내가 그리움에 지쳐서",
+      "translation": "因為我被思念折磨得疲憊",
+      "analysis": [
+        { "point": "내가", "explanation": "我(主格)" },
+        { "point": "그리움에", "explanation": "그리움 (思念，名詞) + -에 (因，被)" },
+        { "point": "지쳐서", "explanation": "지치다 (疲憊) + -어서 (因為)" }
+      ]
+    },
+    {
+      "korean": "힘들어하는 밤이 올 때면 가끔 꿈속에 들려",
+      "translation": "每當感到辛苦的夜晚來臨時 偶爾會來到我夢中",
+      "analysis": [
+        { "point": "힘들어하는 밤이 올 때면", "explanation": "힘들어하다 (感到辛苦) 的定語形態 + 밤 (夜晚) + -이 (主格) + 오다 (來) + -(으)ㄹ 때면 (每當...時候)" },
+        { "point": "가끔 꿈속에", "explanation": "偶爾 + 꿈속 (夢中) + -에" },
+        { "point": "들려", "explanation": "들르다 (順道拜訪，短暫停留) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "안부라도 전해줬으면",
+      "translation": "希望能至少傳達個問候",
+      "analysis": [
+        { "point": "안부라도", "explanation": "안부 (問候) + -(이)라도 (即使是...也好)" },
+        { "point": "전해줬으면", "explanation": "전해주다 (傳達給(我)) + -(았/었)으면 (慣用型，要是...就好了)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "전화할 사람이 없다는 거",
+      "translation": "沒有可以打電話的人這件事",
+      "analysis": [
+        { "point": "전화할 사람이", "explanation": "전화하다 (打電話) 的將來時定語形 + 사람 (人) + -이 (主格)" },
+        { "point": "없다는 거", "explanation": "없다 (沒有) + -다는 것 (是...的事實)" }
+      ]
+    },
+    {
+      "korean": "너무 슬프더라",
+      "translation": "真是太悲傷了",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，太" },
+        { "point": "슬프더라", "explanation": "슬프다 (悲傷) + -더라 (過去回想感嘆終結詞尾)" }
+      ]
+    },
+    {
+      "korean": "너무 아프더라",
+      "translation": "真是太心痛了",
+      "analysis": [
+        { "point": "너무 아프더라", "explanation": "太 + 아프다 (痛) + -더라" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이렇게 보고 싶은 날엔",
+      "translation": "在這樣想念你的日子裡",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣地" },
+        { "point": "보고 싶은 날엔", "explanation": "보고 싶다 (想念) 的定語形態 + 날 (日子) + -엔" }
+      ]
+    },
+    {
+      "korean": "생각나는 날엔 눈물이 나서",
+      "translation": "在想起你的日子裡 因為流淚",
+      "analysis": [
+        { "point": "생각나는 날엔", "explanation": "想起的 日子裡" },
+        { "point": "눈물이 나서", "explanation": "眼淚(主格) + 나다 (流出) + -아서 (因為)" }
+      ]
+    },
+    {
+      "korean": "밤새 복잡해진 맘에 나는 또 한숨만 쉬고",
+      "translation": "在因整夜變得複雜的心情裡 我又只嘆著氣",
+      "analysis": [
+        { "point": "밤새", "explanation": "副詞，整夜" },
+        { "point": "복잡해진 맘에", "explanation": "복잡해지다 (變得複雜) 的過去定語形態 + 맘 (心) + -에 (因)" },
+        { "point": "나는 또", "explanation": "我(主題) 又" },
+        { "point": "한숨만 쉬고", "explanation": "한숨 (嘆氣) + -만 (只) + 쉬다 (休息，喘氣) + -고" }
+      ]
+    },
+    {
+      "korean": "내가 그리움에 지쳐서",
+      "translation": "因為我被思念折磨得疲憊",
+      "analysis": [
+        { "point": "내가", "explanation": "我(主格)" },
+        { "point": "그리움에", "explanation": "그리움 (思念，名詞) + -에 (因，被)" },
+        { "point": "지쳐서", "explanation": "지치다 (疲憊) + -어서 (因為)" }
+      ]
+    },
+    {
+      "korean": "힘들어하는 밤이 올 때면 가끔 꿈속에 들려",
+      "translation": "每當感到辛苦的夜晚來臨時 偶爾會來到我夢中",
+      "analysis": [
+        { "point": "힘들어하는 밤이 올 때면", "explanation": "힘들어하다 (感到辛苦) 的定語形態 + 밤 (夜晚) + -이 (主格) + 오다 (來) + -(으)ㄹ 때면 (每當...時候)" },
+        { "point": "가끔 꿈속에", "explanation": "偶爾 + 꿈속 (夢中) + -에" },
+        { "point": "들려", "explanation": "들르다 (順道拜訪，短暫停留) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "안부라도 전해줬으면",
+      "translation": "希望能至少傳達個問候",
+      "analysis": [
+        { "point": "안부라도", "explanation": "안부 (問候) + -(이)라도 (即使是...也好)" },
+        { "point": "전해줬으면", "explanation": "전해주다 (傳達給(我)) + -(았/었)으면 (慣用型，要是...就好了)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "서두르다", "chinese": "匆忙/著急", "pos": "動詞" },
+    { "korean": "약속을 잡다", "chinese": "約定見面", "pos": "動詞片語" },
+    { "korean": "괜찮아지다", "chinese": "變好/好起來", "pos": "動詞" },
+    { "korean": "머릿속", "chinese": "腦中", "pos": "名詞" },
+    { "korean": "생각뿐이다", "chinese": "只有...的想法", "pos": "慣用語" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "산책", "chinese": "散步", "pos": "名詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "動詞片語" },
+    { "korean": "생각나다", "chinese": "想起", "pos": "動詞" },
+    { "korean": "잠이 오다", "chinese": "想睡/睡得著", "pos": "動詞片語" },
+    { "korean": "밤새", "chinese": "整夜", "pos": "副詞" },
+    { "korean": "복잡해지다", "chinese": "變得複雜", "pos": "動詞" },
+    { "korean": "한숨을 쉬다", "chinese": "嘆氣", "pos": "動詞片語" },
+    { "korean": "그리움", "chinese": "思念", "pos": "名詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "힘들어하다", "chinese": "感到辛苦", "pos": "動詞" },
+    { "korean": "꿈속", "chinese": "夢中", "pos": "名詞" },
+    { "korean": "들르다", "chinese": "順道拜訪/短暫停留", "pos": "動詞" },
+    { "korean": "안부", "chinese": "問候", "pos": "名詞" },
+    { "korean": "전하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "분명", "chinese": "分明/確實", "pos": "副詞" },
+    { "korean": "여전히", "chinese": "依然/仍舊", "pos": "副詞" },
+    { "korean": "버겁다", "chinese": "吃力/벅차다", "pos": "形容詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "충분하다", "chinese": "足夠", "pos": "形容詞" },
+    { "korean": "어렵다", "chinese": "困難", "pos": "形容詞" },
+    { "korean": "못나다", "chinese": "不像樣/醜陋", "pos": "形容詞" },
+    { "korean": "지독하다", "chinese": "狠毒/厲害", "pos": "形容詞" },
+    { "korean": "수없이", "chinese": "無數次地", "pos": "副詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "걷잡을 수 없다", "chinese": "無法控制", "pos": "慣用語" },
+    { "korean": "부쩍", "chinese": "突然/一下子", "pos": "副詞" },
+    { "korean": "커버리다", "chinese": "變大了(徹底)", "pos": "動詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "지우다", "chinese": "抹去", "pos": "動詞" },
+    { "korean": "못다 하다", "chinese": "沒能做完/說完", "pos": "動詞片語" },
+    { "korean": "남아있다", "chinese": "留著/剩下", "pos": "動詞" },
+    { "korean": "지나가다", "chinese": "逝去/經過", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止/停留", "pos": "動詞" },
+    { "korean": "슬프다", "chinese": "悲傷", "pos": "形容詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "나다", "chinese": "出現/流出", "pos": "動詞" },
+    { "korean": "늘어가다", "chinese": "增加/變多", "pos": "動詞" },
+    { "korean": "그치다", "chinese": "停止(雨/雪)", "pos": "動詞" },
+    { "korean": "해 뜨다", "chinese": "太陽升起", "pos": "動詞片語" },
+    { "korean": "그만하다", "chinese": "停止做", "pos": "動詞" }
+  ]
+}
