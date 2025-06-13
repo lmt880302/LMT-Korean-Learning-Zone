@@ -1,0 +1,510 @@
+{
+  "id": "girlsday-love-again",
+  "title": "Love Again",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "알았어, 알았었어",
+      "translation": "知道了，我早就知道了",
+      "analysis": [
+        { "point": "알았어", "explanation": "알다 (知道) 的過去式非格式體" },
+        { "point": "알았었어", "explanation": "알다 (知道) 的過去完成式非格式體 (-았/었었어)，強調更早之前就已經知道" }
+      ]
+    },
+    {
+      "korean": "차가워진 네 맘을 믿기 싫었을 뿐",
+      "translation": "只是不願相信你那變冷的心罷了",
+      "analysis": [
+        { "point": "차가워진", "explanation": "차가워지다 (變冷) 的過去定語形態" },
+        { "point": "네 맘을", "explanation": "你的 心(受格)" },
+        { "point": "믿기 싫었을 뿐", "explanation": "믿다 (相信) 的名詞形 + 싫다 (討厭) 的過去式 + -(으)ㄹ 뿐 (慣用型，只是...罷了)" }
+      ]
+    },
+    {
+      "korean": "아팠어, 아팠었어",
+      "translation": "很痛，曾經很痛",
+      "analysis": [
+        { "point": "아팠어", "explanation": "아프다 (痛) 的過去式" },
+        { "point": "아팠었어", "explanation": "아프다 (痛) 的過去完成式" }
+      ]
+    },
+    {
+      "korean": "우릴 인정하기엔 너무나 아팠어",
+      "translation": "要承認(結束的)我們 太過心痛",
+      "analysis": [
+        { "point": "우릴", "explanation": "우리 (我們) + -를 (受格助詞) 的縮略" },
+        { "point": "인정하기엔", "explanation": "인정하다 (承認) 的名詞形 + -에는 (對...而言，強調)" },
+        { "point": "너무나 아팠어", "explanation": "너무 (太) + -나 (強調) + 痛(過去式)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Save me, save me",
+      "translation": "救救我，救救我",
+      "analysis": [
+        { "point": "Save me, save me", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "좋았잖아 행복했잖아",
+      "translation": "曾經很好不是嗎 曾經幸福不是嗎",
+      "analysis": [
+        { "point": "좋았잖아", "explanation": "좋다 (好) 的過去式 + -잖아 (終結詞尾，表確認)" },
+        { "point": "행복했잖아", "explanation": "행복하다 (幸福) 的過去式 + -잖아" }
+      ]
+    },
+    {
+      "korean": "떨리는 손잡아 줘",
+      "translation": "抓住我顫抖的手吧",
+      "analysis": [
+        { "point": "떨리는", "explanation": "떨리다 (顫抖) 的定語形態 (-는)" },
+        { "point": "손잡아 줘", "explanation": "손(을) 잡다 (牽手/抓住手) 的命令形 + -아/어 주다" }
+      ]
+    },
+    {
+      "korean": "네가 사랑한 내가 힘들어하잖아",
+      "translation": "你愛過的我不正在難受嗎",
+      "analysis": [
+        { "point": "네가 사랑한", "explanation": "你(主格) + 愛過(過去定語)" },
+        { "point": "내가", "explanation": "我(主格)" },
+        { "point": "힘들어하잖아", "explanation": "힘들어하다 (感到辛苦) + -잖아" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 1",
+      "korean": "아무 대답 없는 너",
+      "translation": "沒有任何回答的你",
+      "analysis": [
+        { "point": "아무 대답 없는", "explanation": "아무 (任何) + 대답 (回答) + 없다 (沒有) 的定語形態" },
+        { "point": "너", "explanation": "你" }
+      ]
+    },
+    {
+      "korean": "Don't leave me",
+      "translation": "不要離開我",
+      "analysis": [
+        { "point": "Don't leave me", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "So baby don't say goodbye",
+      "translation": "所以寶貝別說再見",
+      "analysis": [
+        { "point": "So baby don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "넌 쉽게 마 그런 말",
+      "translation": "你不要輕易說那樣的話",
+      "analysis": [
+        { "point": "넌", "explanation": "你(主題)" },
+        { "point": "쉽게", "explanation": "容易地" },
+        { "point": "마", "explanation": "말아 (不要) 的縮略" },
+        { "point": "그런 말", "explanation": "那樣的 話" }
+      ]
+    },
+    {
+      "korean": "Don't say goodbye",
+      "translation": "別說再見",
+      "analysis": [
+        { "point": "Don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그러지마 돌아와 love again",
+      "translation": "不要那樣 回來吧 love again",
+      "analysis": [
+        { "point": "그러지마", "explanation": "그렇게 하지 마 (不要那樣做) 的縮略" },
+        { "point": "돌아와", "explanation": "돌아오다 (回來) 的命令形" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "믿을 수 없어 love again",
+      "translation": "無法相信 love again",
+      "analysis": [
+        { "point": "믿을 수 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (不能)" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "So baby don't say goodbye",
+      "translation": "所以寶貝別說再見",
+      "analysis": [
+        { "point": "So baby don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "처음으로 돌려줘",
+      "translation": "還原到最初吧",
+      "analysis": [
+        { "point": "처음으로", "explanation": "처음 (最初) + -(으)로 (方向/狀態)" },
+        { "point": "돌려줘", "explanation": "돌리다 (轉動，還原) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "korean": "Don't say goodbye",
+      "translation": "別說再見",
+      "analysis": [
+        { "point": "Don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "너 없는 난 어떡해 love again",
+      "translation": "沒有你的我該怎麼辦 love again",
+      "analysis": [
+        { "point": "너 없는 난", "explanation": "沒有你的 我(主題)" },
+        { "point": "어떡해", "explanation": "怎麼辦" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 자신 없어 love again",
+      "translation": "我沒有自信 love again",
+      "analysis": [
+        { "point": "난 자신 없어", "explanation": "我 + 자신 (自信) + 없다 (沒有)" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "애써 난 웃고 있어",
+      "translation": "我努力地笑著",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，努力地" },
+        { "point": "난 웃고 있어", "explanation": "我 + 웃다 (笑) + -고 있다 (正在進行)" }
+      ]
+    },
+    {
+      "korean": "울어버리면 정말 이별이 올까 봐",
+      "translation": "怕如果哭了出來 真的會迎來離別",
+      "analysis": [
+        { "point": "울어버리면", "explanation": "울다 (哭) + -어 버리다 (徹底完成) + -(으)면" },
+        { "point": "정말 이별이", "explanation": "真的 + 이별 (離別) + -이 (主格)" },
+        { "point": "올까 봐", "explanation": "오다 (來) + -(으)ㄹ까 봐 (擔心會...)" }
+      ]
+    },
+    {
+      "korean": "미안해 내 잘못야",
+      "translation": "對不起 是我的錯",
+      "analysis": [
+        { "point": "미안해", "explanation": "對不起" },
+        { "point": "내 잘못야", "explanation": "我的 + 잘못 (錯誤) + -이다 (是) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "입술 틈샐 비집고 쏟아지는 말들",
+      "translation": "從嘴唇縫隙中擠出來傾瀉的話語",
+      "analysis": [
+        { "point": "입술 틈샐", "explanation": "嘴唇 + 틈새 (縫隙) + -를 (受格) 的縮略" },
+        { "point": "비집고", "explanation": "비집다 (擠開) + -고" },
+        { "point": "쏟아지는 말들", "explanation": "쏟아지다 (傾瀉) 的定語形 + 話(複數)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "너도 같잖아",
+      "translation": "你也一樣不是嗎",
+      "analysis": [
+        { "point": "너도 같잖아", "explanation": "你 + -도 (也) + 같다 (一樣) + -잖아" }
+      ]
+    },
+    {
+      "korean": "슬프잖아 제발 맞잖아",
+      "translation": "很悲傷不是嗎 拜託 是吧",
+      "analysis": [
+        { "point": "슬프잖아", "explanation": "悲傷 + -잖아" },
+        { "point": "제발 맞잖아", "explanation": "拜託 + 맞다 (對，是) + -잖아" }
+      ]
+    },
+    {
+      "korean": "웃으며 날 안아줘",
+      "translation": "笑著抱我吧",
+      "analysis": [
+        { "point": "웃으며", "explanation": "笑著(同時)" },
+        { "point": "날 안아줘", "explanation": "我(受格) + 擁抱(命令形)" }
+      ]
+    },
+    {
+      "korean": "숨도 쉴 수가 없어 어서 날 구해줘",
+      "translation": "連呼吸都無法 快來救救我",
+      "analysis": [
+        { "point": "숨도 쉴 수가 없어", "explanation": "呼吸 + -도 (也) + 쉬다 (呼吸) + -(으)ㄹ 수 없다" },
+        { "point": "어서 날 구해줘", "explanation": "快點 + 我(受格) + 구하다 (拯救) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2",
+      "korean": "그 말만은 말아줘",
+      "translation": "只有那句話不要說",
+      "analysis": [
+        { "point": "그 말만은", "explanation": "那 話(強調)" },
+        { "point": "말아줘", "explanation": "말다 (不要) + -아/어 주다 的命令形" }
+      ]
+    },
+    {
+      "korean": "Don't leave me",
+      "translation": "不要離開我",
+      "analysis": [
+        { "point": "Don't leave me", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "So baby don't say goodbye",
+      "translation": "所以寶貝別說再見",
+      "analysis": [
+        { "point": "So baby don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "넌 쉽게 마 그런 말",
+      "translation": "你不要輕易說那樣的話",
+      "analysis": [
+        { "point": "넌", "explanation": "你(主題)" },
+        { "point": "쉽게", "explanation": "容易地" },
+        { "point": "마", "explanation": "말아 (不要) 的縮略" },
+        { "point": "그런 말", "explanation": "那樣的 話" }
+      ]
+    },
+    {
+      "korean": "Don't say goodbye",
+      "translation": "別說再見",
+      "analysis": [
+        { "point": "Don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그러지마 돌아와 love again",
+      "translation": "不要那樣 回來吧 love again",
+      "analysis": [
+        { "point": "그러지마", "explanation": "그렇게 하지 마 (不要那樣做) 的縮略" },
+        { "point": "돌아와", "explanation": "돌아오다 (回來) 的命令形" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "믿을 수 없어 love again",
+      "translation": "無法相信 love again",
+      "analysis": [
+        { "point": "믿을 수 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (不能)" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "So baby don't say goodbye",
+      "translation": "所以寶貝別說再見",
+      "analysis": [
+        { "point": "So baby don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "처음으로 돌려줘",
+      "translation": "還原到最初吧",
+      "analysis": [
+        { "point": "처음으로", "explanation": "처음 (最初) + -(으)로 (方向/狀態)" },
+        { "point": "돌려줘", "explanation": "돌리다 (轉動，還原) + -어 주다 의命令形" }
+      ]
+    },
+    {
+      "korean": "Don't say goodbye",
+      "translation": "別說再見",
+      "analysis": [
+        { "point": "Don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "너 없는 난 어떡해 love again",
+      "translation": "沒有你的我該怎麼辦 love again",
+      "analysis": [
+        { "point": "너 없는 난", "explanation": "沒有你的 我(主題)" },
+        { "point": "어떡해", "explanation": "怎麼辦" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 자신 없어 love again",
+      "translation": "我沒有自信 love again",
+      "analysis": [
+        { "point": "난 자신 없어", "explanation": "我 + 자신 (自信) + 없다 (沒有)" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "들리지 않아 멍하니 너만 보고 있어 (보고 있어)",
+      "translation": "聽不見 只是멍하니地看著你 (看著)",
+      "analysis": [
+        { "point": "들리지 않아", "explanation": "聽不見" },
+        { "point": "멍하니", "explanation": "副詞，멍하니地" },
+        { "point": "너만 보고 있어", "explanation": "只看著你(正在進行)" }
+      ]
+    },
+    {
+      "korean": "환각 같아 네 목소리만 맴도는 걸 (맴도는 걸)",
+      "translation": "像是幻覺 只有你的聲音在縈繞",
+      "analysis": [
+        { "point": "환각 같아", "explanation": "환각 (幻覺) + 같다 (像)" },
+        { "point": "네 목소리만", "explanation": "你的 聲音 只" },
+        { "point": "맴도는 걸", "explanation": "맴돌다 (縈繞) + -(으)ㄴ/는 걸 (感嘆)" }
+      ]
+    },
+    {
+      "korean": "한 번쯤 던진 달콤한 말에",
+      "translation": "在偶爾拋出的一句甜蜜話語中",
+      "analysis": [
+        { "point": "한 번쯤 던진", "explanation": "一次左右 + 던지다 (拋出) 的過去定語形" },
+        { "point": "달콤한 말에", "explanation": "甜蜜的 話語" }
+      ]
+    },
+    {
+      "korean": "난 그저 착각하고 싶었어",
+      "translation": "我只是想產生錯覺",
+      "analysis": [
+        { "point": "난 그저", "explanation": "我 只是" },
+        { "point": "착각하고 싶었어", "explanation": "착각하다 (錯覺) + -고 싶다 (想) 的過去式" }
+      ]
+    },
+    {
+      "korean": "바보 같았던 내 모습에 또 눈물이 나",
+      "translation": "又為我曾像傻瓜的模樣流下眼淚",
+      "analysis": [
+        { "point": "바보 같았던 내 모습에", "explanation": "像傻瓜一樣的 我的 模樣" },
+        { "point": "또 눈물이 나", "explanation": "又 眼淚 流下" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "So baby don't say goodbye",
+      "translation": "所以寶貝別說再見",
+      "analysis": [
+        { "point": "So baby don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "피하지마 나를 봐",
+      "translation": "不要躲避 看著我",
+      "analysis": [
+        { "point": "피하지마", "explanation": "피하다 (躲避) + -지 마" },
+        { "point": "나를 봐", "explanation": "我(受格) + 보다 (看) 的命令形" }
+      ]
+    },
+    {
+      "korean": "Don't say goodbye",
+      "translation": "別說再見",
+      "analysis": [
+        { "point": "Don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그러지마 돌아와 love again",
+      "translation": "不要那樣 回來吧 love again",
+      "analysis": [
+        { "point": "그러지마", "explanation": "그렇게 하지 마 (不要那樣做) 的縮略" },
+        { "point": "돌아와", "explanation": "돌아오다 (回來) 的命令形" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "믿을 수 없어 love again",
+      "translation": "無法相信 love again",
+      "analysis": [
+        { "point": "믿을 수 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (不能)" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "So baby don't say goodbye (ooh, ooh ooh)",
+      "translation": "所以寶貝別說再見 (ooh, ooh ooh)",
+      "analysis": [
+        { "point": "So baby don't say goodbye", "explanation": "英文歌詞" },
+        { "point": "ooh, ooh ooh", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "너 뿐였던 나에게",
+      "translation": "對只有你的我而言",
+      "analysis": [
+        { "point": "너 뿐였던", "explanation": "너 (你) + -뿐이다 (只有) 的過去定語形態" },
+        { "point": "나에게", "explanation": "對我" }
+      ]
+    },
+    {
+      "korean": "Don't say goodbye",
+      "translation": "別說再見",
+      "analysis": [
+        { "point": "Don't say goodbye", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "너 없는 난 어떡해 love again",
+      "translation": "沒有你的我該怎麼辦 love again",
+      "analysis": [
+        { "point": "너 없는 난", "explanation": "沒有你的 我(主題)" },
+        { "point": "어떡해", "explanation": "怎麼辦" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 자신 없어 love again",
+      "translation": "我沒有自信 love again",
+      "analysis": [
+        { "point": "난 자신 없어", "explanation": "我 + 자신 (自信) + 없다 (沒有)" },
+        { "point": "love again", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "We should really love again",
+      "translation": "我們真的應該再次相愛",
+      "analysis": [
+        { "point": "We should really love again", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "차가워지다", "chinese": "變冷", "pos": "動詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "인정하다", "chinese": "承認", "pos": "動詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "손잡다", "chinese": "牽手/抓住手", "pos": "動詞" },
+    { "korean": "힘들어하다", "chinese": "感到辛苦", "pos": "動詞" },
+    { "korean": "대답", "chinese": "回答", "pos": "名詞" },
+    { "korean": "쉽게", "chinese": "容易地", "pos": "副詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "돌리다", "chinese": "轉動/還原", "pos": "動詞" },
+    { "korean": "어떡해", "chinese": "怎麼辦", "pos": "感嘆詞/動詞縮略" },
+    { "korean": "자신 없다", "chinese": "沒有自信", "pos": "慣用語" },
+    { "korean": "애써", "chinese": "努力地", "pos": "副詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "잘못", "chinese": "錯誤", "pos": "名詞" },
+    { "korean": "틈새", "chinese": "縫隙", "pos": "名詞" },
+    { "korean": "비집다", "chinese": "擠開", "pos": "動詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "슬프다", "chinese": "悲傷", "pos": "形容詞" },
+    { "korean": "맞다", "chinese": "對/是", "pos": "形容詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "숨을 쉬다", "chinese": "呼吸", "pos": "動詞片語" },
+    { "korean": "구하다", "chinese": "拯救", "pos": "動詞" },
+    { "korean": "말다", "chinese": "不要", "pos": "補助動詞" },
+    { "korean": "멍하니", "chinese": "멍하니地", "pos": "副詞" },
+    { "korean": "환각", "chinese": "幻覺", "pos": "名詞" },
+    { "korean": "맴돌다", "chinese": "縈繞/徘徊", "pos": "動詞" },
+    { "korean": "던지다", "chinese": "拋出", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜", "pos": "形容詞" },
+    { "korean": "착각하다", "chinese": "錯覺", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "뿐이다", "chinese": "只有", "pos": "補助形容詞/慣用型" }
+  ]
+}

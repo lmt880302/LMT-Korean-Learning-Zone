@@ -1,0 +1,478 @@
+{
+  "id": "girlsday-i-dont-mind",
+  "title": "I Don't Mind",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "별이 빛나요 그댈 위한",
+      "translation": "星星閃耀著 為了你",
+      "analysis": [
+        { "point": "별이 빛나요", "explanation": "별 (星星) + -이 (主格助詞) + 빛나다 (閃耀) 的非格式體尊敬階 (-아요/어요)" },
+        { "point": "그댈 위한", "explanation": "그대 (你，較書面/詩意) + -를 (受格助詞) 的縮略 + 위하다 (為了) 的定語形態 (-ㄴ/은)" }
+      ]
+    },
+    {
+      "korean": "Tonight Tonight Tonight",
+      "translation": "今晚 今晚 今晚",
+      "analysis": [
+        { "point": "Tonight Tonight Tonight", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "날 깨워준 Lovely 속삭임에",
+      "translation": "在我耳邊喚醒我的 Lovely 呢喃",
+      "analysis": [
+        { "point": "날 깨워준", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 깨우다 (喚醒) + -어 주다 (為(我)做...) 的過去定語形態" },
+        { "point": "Lovely 속삭임에", "explanation": "Lovely (英文：可愛的) + 속삭임 (呢喃) + -에 (在...之中/因)" }
+      ]
+    },
+    {
+      "korean": "So Shy So Shy So Shy",
+      "translation": "好害羞 好害羞 好害羞",
+      "analysis": [
+        { "point": "So Shy So Shy So Shy", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내 볼을 스치는 찬 그대의 향기",
+      "translation": "你那冰涼的香氣拂過我的臉頰",
+      "analysis": [
+        { "point": "내 볼을", "explanation": "我的 臉頰(受格)" },
+        { "point": "스치는", "explanation": "스치다 (擦過，拂過) 的定語形態 (-는)" },
+        { "point": "찬 그대의 향기", "explanation": "차다 (冰冷) 的定語形態 + 你的 香氣" }
+      ]
+    },
+    {
+      "korean": "You make me feel alright",
+      "translation": "你讓我感覺很好",
+      "analysis": [
+        { "point": "You make me feel alright", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "안아줄래요 그대",
+      "translation": "可以抱抱我嗎 你",
+      "analysis": [
+        { "point": "안아줄래요", "explanation": "안다 (擁抱) + -아/어 주다 (為(我)做...) + -(으)ㄹ래요 (疑問終結，詢問意願)" },
+        { "point": "그대", "explanation": "你" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I Don't Mind",
+      "translation": "我不介意",
+      "analysis": [
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "뭐든 말해요 내게 말해요 들어줄께요",
+      "translation": "不管什麼都說吧 對我說吧 我會聽的",
+      "analysis": [
+        { "point": "뭐든 말해요", "explanation": "뭣 (무엇) + -이든지 (無論什麼) 的縮略 + 말하다 (說) 的尊敬階命令形" },
+        { "point": "내게 말해요", "explanation": "對我 說吧" },
+        { "point": "들어줄께요", "explanation": "듣다 (聽) + -어 주다 (為(你)做...) + -(으)ㄹ게요 (意志/約定)" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind",
+      "translation": "我不介意",
+      "analysis": [
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "따스한 Coffee와 나만의 요리",
+      "translation": "溫暖的 Coffee 和只屬於我的料理",
+      "analysis": [
+        { "point": "따스한 Coffee와", "explanation": "따스하다 (溫暖) 的定語形態 + Coffee (咖啡) + -와 (和)" },
+        { "point": "나만의 요리", "explanation": "只屬於我的 + 요리 (料理)" }
+      ]
+    },
+    {
+      "korean": "더 많이 주고싶어요",
+      "translation": "想要給你更多",
+      "analysis": [
+        { "point": "더 많이", "explanation": "更 多地" },
+        { "point": "주고싶어요", "explanation": "주다 (給) + -고 싶다 (想) + -어요 (尊敬階)" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind",
+      "translation": "我不介意",
+      "analysis": [
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 부족하지만 서투르지만",
+      "translation": "雖然我很不足 雖然我很笨拙",
+      "analysis": [
+        { "point": "난 부족하지만", "explanation": "我 + 부족하다 (不足) + -지만 (但是)" },
+        { "point": "서투르지만", "explanation": "서투르다 (笨拙，不熟練) + -지만" }
+      ]
+    },
+    {
+      "korean": "더 노력할께요 오",
+      "translation": "我會更努力的 喔",
+      "analysis": [
+        { "point": "더 노력할께요", "explanation": "更 + 노력하다 (努力) + -(으)ㄹ게요" },
+        { "point": "오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind",
+      "translation": "我不介意",
+      "analysis": [
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그대의 두 눈 속에 비친 내 얼굴엔",
+      "translation": "在你雙眼中映照出的我的臉上",
+      "analysis": [
+        { "point": "그대의 두 눈 속에", "explanation": "你的 雙眼 之中" },
+        { "point": "비친 내 얼굴엔", "explanation": "비치다 (映照) 的過去定語形 + 我的 臉上" }
+      ]
+    },
+    {
+      "korean": "빛이 스며들어요",
+      "translation": "滲入了光芒",
+      "analysis": [
+        { "point": "빛이 스며들어요", "explanation": "光(主格) + 스며들다 (滲透) 的尊敬階" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "나 하고 싶은 말 살며시 참아봐요 baby",
+      "translation": "我試著悄悄忍住想說的話 baby",
+      "analysis": [
+        { "point": "나 하고 싶은 말", "explanation": "我 想說的話" },
+        { "point": "살며시", "explanation": "副詞，悄悄地，輕輕地" },
+        { "point": "참아봐요", "explanation": "참다 (忍耐) + -아/어 보다 (試著) + -아요 (尊敬階)" },
+        { "point": "baby", "explanation": "英文" }
+      ]
+    },
+    {
+      "korean": "또 하고 싶은 것 조금 더 기다려요 baby",
+      "translation": "又再多等一下想做的事 baby",
+      "analysis": [
+        { "point": "또 하고 싶은 것", "explanation": "又 想做的事" },
+        { "point": "조금 더 기다려요", "explanation": "一點 更 等待(尊敬階)" },
+        { "point": "baby", "explanation": "英文" }
+      ]
+    },
+    {
+      "korean": "내 눈을 바라봐주면",
+      "translation": "如果你看著我的眼睛",
+      "analysis": [
+        { "point": "내 눈을 바라봐주면", "explanation": "我的 眼睛(受格) + 바라보다 (看著) + -아/어 주다 (為我) + -(으)면" }
+      ]
+    },
+    {
+      "korean": "내 머릴 만져주면 예이예",
+      "translation": "如果你撫摸我的頭髮 yeah yeah",
+      "analysis": [
+        { "point": "내 머릴 만져주면", "explanation": "我的 頭髮(受格) + 만지다 (觸摸) + -어 주다 + -(으)면" },
+        { "point": "예이예", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "난 들려요 날 사랑하는 맘 예이예",
+      "translation": "我就聽得見 你愛我的心意 yeah yeah",
+      "analysis": [
+        { "point": "난 들려요", "explanation": "我 聽得見(尊敬階)" },
+        { "point": "날 사랑하는 맘", "explanation": "我(受格) + 愛的 + 心" },
+        { "point": "예이예", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Feel so good",
+      "translation": "感覺真好",
+      "analysis": [
+        { "point": "Feel so good", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "가만히 앉아 그대 가슴에 귀를 대보면",
+      "translation": "靜靜坐著 將耳朵貼在你的胸口的話",
+      "analysis": [
+        { "point": "가만히 앉아", "explanation": "靜靜地 + 坐著(連接形)" },
+        { "point": "그대 가슴에", "explanation": "你的 胸口" },
+        { "point": "귀를 대보면", "explanation": "耳朵(受格) + 대다 (貼近，觸碰) + -어 보다 + -(으)면" }
+      ]
+    },
+    {
+      "korean": "Feel so good",
+      "translation": "感覺真好",
+      "analysis": [
+        { "point": "Feel so good", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "사랑한다는 말 좋아한다는 말",
+      "translation": "說愛你的話 說喜歡你的話",
+      "analysis": [
+        { "point": "사랑한다는 말", "explanation": "愛你(引用定語形) + 話" },
+        { "point": "좋아한다는 말", "explanation": "喜歡你(引用定語形) + 話" }
+      ]
+    },
+    {
+      "korean": "가슴이 말을 해 줘요",
+      "translation": "心在對我說",
+      "analysis": [
+        { "point": "가슴이 말을 해 줘요", "explanation": "心(主格) + 話(受格) + 하다 (做/說) + -아/어 주다 + -요" }
+      ]
+    },
+    {
+      "korean": "Feel so good",
+      "translation": "感覺真好",
+      "analysis": [
+        { "point": "Feel so good", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "말하지 않아도 숨겨두어도",
+      "translation": "即使不說 即使藏起來",
+      "analysis": [
+        { "point": "말하지 않아도", "explanation": "不說也" },
+        { "point": "숨겨두어도", "explanation": "숨겨두다 (藏起來) + -아/어도" }
+      ]
+    },
+    {
+      "korean": "난 들을 수 있죠 오",
+      "translation": "我也能聽見喔",
+      "analysis": [
+        { "point": "난 들을 수 있죠", "explanation": "我 能聽見吧" },
+        { "point": "오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "Feel so good",
+      "translation": "感覺真好",
+      "analysis": [
+        { "point": "Feel so good", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "저 별을 따주지 않아도",
+      "translation": "即使不為我摘下那星星",
+      "analysis": [
+        { "point": "저 별을", "explanation": "那 星星(受格)" },
+        { "point": "따주지 않아도", "explanation": "따다 (摘) + -아/어 주다 + -지 않아도 (即使不...也)" }
+      ]
+    },
+    {
+      "korean": "그대는 나에겐 선물 이예요",
+      "translation": "你對我而言就是禮物",
+      "analysis": [
+        { "point": "그대는 나에겐", "explanation": "你(主題) + 對我而言" },
+        { "point": "선물 이예요", "explanation": "선물 (禮物) + -이다 (是) + -이에요/예요" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "오 난 멈춰버린 것 같아",
+      "translation": "喔 我好像停止了",
+      "analysis": [
+        { "point": "오 난", "explanation": "喔 我(主題)" },
+        { "point": "멈춰버린 것 같아", "explanation": "멈추다 (停止) + -어 버리다 (徹底) + 過去定語形 + 것 같다" }
+      ]
+    },
+    {
+      "korean": "그대에게 예에예",
+      "translation": "對你 yeah yeah",
+      "analysis": [
+        { "point": "그대에게", "explanation": "對你" },
+        { "point": "예에예", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "새 햐얀 셔츠와",
+      "translation": "和雪白的襯衫",
+      "analysis": [
+        { "point": "새 햐얀", "explanation": "새하얗다 (雪白) 的定語形態 (口語中 하얀 亦常見)" },
+        { "point": "셔츠와", "explanation": "셔츠 (襯衫) + -와 (和)" }
+      ]
+    },
+    {
+      "korean": "검은 머릿결 Oh Baby",
+      "translation": "黑色的髮絲 Oh Baby",
+      "analysis": [
+        { "point": "검은 머릿결", "explanation": "검다 (黑色) 的定語形態 + 머릿결 (髮絲，髮質)" },
+        { "point": "Oh Baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "잔잔한 눈빛과",
+      "translation": "和沉靜的眼神",
+      "analysis": [
+        { "point": "잔잔한 눈빛과", "explanation": "잔잔하다 (平靜，沉靜) 的定語形態 + 眼神 + -과 (和)" }
+      ]
+    },
+    {
+      "korean": "가벼운 미소로 날 설레게 만들어",
+      "translation": "用輕輕的微笑讓我心動",
+      "analysis": [
+        { "point": "가벼운 미소로", "explanation": "가볍다 (輕) 的定語形態 + 微笑 + -(으)로 (用)" },
+        { "point": "날 설레게 만들어", "explanation": "我(受格) + 설레다 (心動) + -게 만들다 (使...)" }
+      ]
+    },
+    {
+      "korean": "내게 다가와요 다가와요",
+      "translation": "靠近我吧 靠近我吧",
+      "analysis": [
+        { "point": "내게 다가와요", "explanation": "對我 + 靠近吧(尊敬階)" }
+      ]
+    },
+    {
+      "korean": "I feel alright Baby",
+      "translation": "我感覺很好 Baby",
+      "analysis": [
+        { "point": "I feel alright Baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I Don't I Don't Mind",
+      "translation": "我不 我不介意",
+      "analysis": [
+        { "point": "I Don't I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Ah Ah Ah Ah Ah Ah Wa Ah",
+      "translation": "啊 啊 啊 啊 啊 啊 哇 啊",
+      "analysis": [
+        { "point": "Ah Ah Ah Ah Ah Ah Wa Ah", "explanation": "哼唱/感嘆詞" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind",
+      "translation": "我不介意",
+      "analysis": [
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Don't Mind Don't Mind Don't Mind",
+      "translation": "不介意 不介意 不介意",
+      "analysis": [
+        { "point": "Don't Mind Don't Mind Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Know how",
+      "translation": "知道如何",
+      "analysis": [
+        { "point": "Know how", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind I Don't Mind Don't Mind",
+      "translation": "我不介意 我不介意 不介意",
+      "analysis": [
+        { "point": "I Don't Mind I Don't Mind Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind I Don't Mind",
+      "translation": "我不介意 我不介意",
+      "analysis": [
+        { "point": "I Don't Mind I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "그대의 가슴속에 안겨",
+      "translation": "被擁在你的懷中",
+      "analysis": [
+        { "point": "그대의 가슴속에", "explanation": "你的 胸懷中" },
+        { "point": "안겨", "explanation": "안기다 (被擁抱 - 안다 的被動態) 的連接形" }
+      ]
+    },
+    {
+      "korean": "눈을 감아 꿈을 꾸고 싶어요",
+      "translation": "想閉上眼睛做夢",
+      "analysis": [
+        { "point": "눈을 감아", "explanation": "閉上眼睛(連接形)" },
+        { "point": "꿈을 꾸고 싶어요", "explanation": "夢(受格) + 꾸다 (做夢) + -고 싶다 + -어요" }
+      ]
+    },
+    {
+      "korean": "I Don't Mind",
+      "translation": "我不介意",
+      "analysis": [
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "뭐든 말해요 내게 말해요",
+      "translation": "不管什麼都說吧 對我說吧",
+      "analysis": [
+        { "point": "뭐든 말해요", "explanation": "無論什麼 + 說吧" },
+        { "point": "내게 말해요", "explanation": "對我 說吧" }
+      ]
+    },
+    {
+      "korean": "들어 줄께요 I Don't Mind",
+      "translation": "我會聽的 我不介意",
+      "analysis": [
+        { "point": "들어 줄께요", "explanation": "聽(為你) + -(으)ㄹ게요" },
+        { "point": "I Don't Mind", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "깨우다", "chinese": "喚醒", "pos": "動詞" },
+    { "korean": "속삭임", "chinese": "呢喃/耳語", "pos": "名詞" },
+    { "korean": "볼", "chinese": "臉頰", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "擦過/拂過", "pos": "動詞" },
+    { "korean": "차다", "chinese": "冰冷", "pos": "形容詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "말하다", "chinese": "說話", "pos": "動詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "따스하다", "chinese": "溫暖", "pos": "形容詞" },
+    { "korean": "요리", "chinese": "料理", "pos": "名詞" },
+    { "korean": "주다", "chinese": "給", "pos": "動詞" },
+    { "korean": "부족하다", "chinese": "不足", "pos": "形容詞" },
+    { "korean": "서투르다", "chinese": "笨拙/不熟練", "pos": "形容詞" },
+    { "korean": "노력하다", "chinese": "努力", "pos": "動詞" },
+    { "korean": "비치다", "chinese": "映照/反射", "pos": "動詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "스며들다", "chinese": "滲透", "pos": "動詞" },
+    { "korean": "살며시", "chinese": "悄悄地/輕輕地", "pos": "副詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "바라보다", "chinese": "凝視/看著", "pos": "動詞" },
+    { "korean": "머리", "chinese": "頭/頭髮", "pos": "名詞" },
+    { "korean": "만지다", "chinese": "觸摸", "pos": "動詞" },
+    { "korean": "가만히", "chinese": "靜靜地", "pos": "副詞" },
+    { "korean": "앉다", "chinese": "坐", "pos": "動詞" },
+    { "korean": "가슴", "chinese": "心/胸口", "pos": "名詞" },
+    { "korean": "귀를 대다", "chinese": "貼近耳朵", "pos": "動詞片語" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "선물", "chinese": "禮物", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "새하얗다", "chinese": "雪白", "pos": "形容詞" },
+    { "korean": "셔츠", "chinese": "襯衫", "pos": "名詞" },
+    { "korean": "검다", "chinese": "黑色", "pos": "形容詞" },
+    { "korean": "머릿결", "chinese": "髮絲/髮質", "pos": "名詞" },
+    { "korean": "잔잔하다", "chinese": "平靜/沉靜", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "가볍다", "chinese": "輕", "pos": "形容詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "설레다", "chinese": "心動/悸動", "pos": "動詞" },
+    { "korean": "만들다", "chinese": "製造/使", "pos": "動詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "안기다", "chinese": "被擁抱", "pos": "動詞 (被動)" },
+    { "korean": "눈을 감다", "chinese": "閉上眼睛", "pos": "動詞片語" },
+    { "korean": "꿈을 꾸다", "chinese": "做夢", "pos": "動詞片語" }
+  ]
+}

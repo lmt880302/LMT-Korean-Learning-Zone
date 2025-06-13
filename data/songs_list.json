@@ -112,7 +112,19 @@
     "title": "한번만 안아줘",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-hanbeonman-anajwo.json"
-  },  
+  },
+  {
+    "id": "girlsday-i-dont-mind",
+    "title": "I Don't Mind",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-i-dont-mind.json"
+  },    
+    {
+    "id": "girlsday-love-again",
+    "title": "Love Again",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-love-again.json"
+  }, 
   {
     "id": "kassy-story-of-night-fall",
      "title": "Story of night fall",
