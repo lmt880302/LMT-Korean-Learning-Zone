@@ -28,13 +28,25 @@
     "title": "춥다 (It's Cold)",
     "artist": "Epik High (feat. 이하이)",
     "lyricsFile": "../data/lyrics/epikhigh-chupda.json"
+  },
+  {
+    "id": "epikhigh-bincha",
+    "title": "빈차 (Home is far away)",
+    "artist": "Epik High (feat. 오혁)",
+    "lyricsFile": "../data/lyrics/epikhigh-chupda.json"
   },  
   {
     "id": "epikhigh-can-you-hear-my-heart",
     "title": "Can You Hear My Heart",
     "artist": "Epik High (feat. 이하이)",
     "lyricsFile": "../data/lyrics/epikhigh-can-you-hear-my-heart.json"
-  },  
+  }, 
+  {
+    "id": "epikhigh-bioneun-nal-deutgi-joeun-norae",
+    "title": "비 오는 날 듣기 좋은 노래",
+    "artist": "Epik High",
+    "lyricsFile": "../data/lyrics/bioneun-nal-deutgi-joeun-norae.json"
+  } ,  
   {
     "id": "girlsday-something",
     "title": "Something",
@@ -58,6 +70,18 @@
     "title": "Thirsty",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-thirsty.json"
+  }, 
+  {
+    "id": "girlsday-darling",
+    "title": "Darling",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-darling.json"
+  }, 
+  {
+    "id": "girlsday-look-at-me",
+    "title": "Look At Me",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-look-at-me.json"
   },  
   {
     "id": "girlsday-gidaehae",
@@ -97,7 +121,7 @@
   },
   {
     "id": "o3ohn-milky-way-between-us",
-    "title": "Milky Way Between Us (너와 내 사이의 은하수)",
+    "title": "Milky Way Between Us",
     "artist": "O3ohn",
     "lyricsFile": "../data/lyrics/o3ohn-milky-way-between-us.json"
   }, 
@@ -124,5 +148,11 @@
     "title": "_____",
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
-  }  
+  }, 
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  }        
 ]

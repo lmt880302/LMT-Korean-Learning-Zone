@@ -1,0 +1,420 @@
+{
+  "id": "girlsday-darling",
+  "title": "Darling",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "요즘 연인들은 kiss하고",
+      "translation": "最近的戀人們都是先 kiss",
+      "analysis": [
+        { "point": "요즘 연인들은", "explanation": "요즘 (最近) + 연인 (戀人) + -들 (複數後綴) + -은 (主題助詞)" },
+        { "point": "kiss하고", "explanation": "kiss (英文) + 하다 (做) 的連接形 (-고)" }
+      ]
+    },
+    {
+      "korean": "시작한대 사랑을",
+      "translation": "才開始戀愛的",
+      "analysis": [
+        { "point": "시작한대", "explanation": "시작하다 (開始) + -ㄴ/는다고 해 (間接引用，聽說...) 的縮略" },
+        { "point": "사랑을", "explanation": "사랑 (愛) + -을 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "어리숙하고 난 낯을 가리는데 사람을",
+      "translation": "我又笨拙又認生",
+      "analysis": [
+        { "point": "어리숙하고", "explanation": "어리숙하다 (笨拙，幼稚) 的詞幹 + -고 (連接)" },
+        { "point": "난", "explanation": "我(主題)" },
+        { "point": "낯을 가리는데", "explanation": "낯을 가리다 (認生) + -(으)ㄴ/는데 (連接詞尾，表背景或轉折)" },
+        { "point": "사람을", "explanation": "사람 (人) + -을 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "내 틀 안에 갇혀",
+      "translation": "被困在我的框架裡",
+      "analysis": [
+        { "point": "내 틀 안에", "explanation": "我的 + 틀 (框架) + 안 (裡面) + -에 (場所助詞)" },
+        { "point": "갇혀", "explanation": "갇히다 (被關，被困住 - 가두다 的被動態) 的連接形 (-어/아)" }
+      ]
+    },
+    {
+      "korean": "매일 가짜 같은 진짜 사랑도",
+      "translation": "每天連像假的一樣的真愛也",
+      "analysis": [
+        { "point": "매일", "explanation": "每天" },
+        { "point": "가짜 같은", "explanation": "가짜 (假的) + 같다 (像...一樣) 的定語形態 (-은)" },
+        { "point": "진짜 사랑도", "explanation": "진짜 (真的) + 사랑 (愛) + -도 (也)" }
+      ]
+    },
+    {
+      "korean": "I fell in love with you",
+      "translation": "我愛上了你",
+      "analysis": [
+        { "point": "I fell in love with you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "표현 못했는데 사랑을",
+      "translation": "沒能表現出來呢 愛情",
+      "analysis": [
+        { "point": "표현 못했는데", "explanation": "표현 (表現) + 못하다 (不能做) + -(으)ㄴ/는데" },
+        { "point": "사랑을", "explanation": "愛情(受格)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나비처럼 내 맘에 날아 앉아",
+      "translation": "像蝴蝶一樣飛來停在我的心上",
+      "analysis": [
+        { "point": "나비처럼", "explanation": "나비 (蝴蝶) + -처럼 (像...一樣)" },
+        { "point": "내 맘에", "explanation": "我的 心上" },
+        { "point": "날아 앉아", "explanation": "날다 (飛) + -아/어 + 앉다 (坐下，停落)" }
+      ]
+    },
+    {
+      "korean": "벌처럼 사랑을 톡 쏘니까",
+      "translation": "像蜜蜂一樣叮了一下愛情",
+      "analysis": [
+        { "point": "벌처럼", "explanation": "벌 (蜜蜂) + -처럼" },
+        { "point": "사랑을 톡 쏘니까", "explanation": "愛(受格) + 톡 (擬聲/態詞，輕輕地一下) + 쏘다 (叮，쏘다) + -(으)니까 (因為)" }
+      ]
+    },
+    {
+      "korean": "달콤한 유혹에 빠져 난",
+      "translation": "我陷入了甜蜜的誘惑",
+      "analysis": [
+        { "point": "달콤한 유혹에", "explanation": "甜蜜的 誘惑 + -에 (在...之中)" },
+        { "point": "빠져 난", "explanation": "빠지다 (陷入) + 我(主題)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "call me your darling darling",
+      "translation": "叫我你的親愛的 親愛的",
+      "analysis": [
+        { "point": "call me your darling darling", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나를 녹여줘",
+      "translation": "融化我吧",
+      "analysis": [
+        { "point": "나를 녹여줘", "explanation": "我(受格) + 녹이다 (使融化 - 녹다 的使動態) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "korean": "슈가 팝 my 롤리팝 소리 칠 거야",
+      "translation": "Sugar pop my lollipop 我會大聲呼喊",
+      "analysis": [
+        { "point": "슈가 팝 my 롤리팝", "explanation": "Sugar pop (糖果汽水), my lollipop (我的棒棒糖) - 英文" },
+        { "point": "소리 칠 거야", "explanation": "소리(를) 치다 (呼喊) + -(으)ㄹ 것이다 (將會...)" }
+      ]
+    },
+    {
+      "korean": "call you my darling darling",
+      "translation": "叫你我的親愛的 親愛的",
+      "analysis": [
+        { "point": "call you my darling darling", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그댄 달콤해",
+      "translation": "你很甜蜜",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대 (你) + -는 (主題助詞) 的縮略" },
+        { "point": "달콤해", "explanation": "달콤하다 (甜蜜) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "oh 화끈해 더 뜨겁게 only you",
+      "translation": "oh 火熱啊 更火熱地 only you",
+      "analysis": [
+        { "point": "oh 화끈해", "explanation": "oh + 화끈하다 (火辣，火熱) 的非格式體" },
+        { "point": "더 뜨겁게", "explanation": "更 + 뜨겁다 (熱，燙) 的副詞形 (-게)" },
+        { "point": "only you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "only you only you my only you",
+      "translation": "只有你 只有你 我唯一的你",
+      "analysis": [
+        { "point": "only you only you my only you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "슈가 슈가 슈가 너 만이 나의 스타",
+      "translation": "Sugar sugar sugar 只有你是我的明星",
+      "analysis": [
+        { "point": "슈가 슈가 슈가", "explanation": "Sugar (英文：糖) 重複" },
+        { "point": "너 만이 나의 스타", "explanation": "你 + -만 (只) + -이 (強調主格) + 我的 + 스타 (明星)" }
+      ]
+    },
+    {
+      "korean": "사랑에 빠진 소재로 노래를 불러볼까",
+      "translation": "要不要以陷入愛情為題材唱首歌呢",
+      "analysis": [
+        { "point": "사랑에 빠진 소재로", "explanation": "愛情 + -에 (在) + 빠지다 (陷入) 的定語形態 + 소재 (素材) + -(으)로 (以...)" },
+        { "point": "노래를 불러볼까", "explanation": "歌(受格) + 부르다 (唱) + -아/어 보다 (試著) + -(으)ㄹ까 (疑問)" }
+      ]
+    },
+    {
+      "korean": "달아 달아 밝아 저 달도 내 맘 알까",
+      "translation": "月亮啊月亮啊 明亮的月亮也知道我的心嗎",
+      "analysis": [
+        { "point": "달아 달아 밝아", "explanation": "달 (月亮) + -아 (呼格) + 밝다 (明亮) 的連接形 (-아)" },
+        { "point": "저 달도", "explanation": "那 月亮 也" },
+        { "point": "내 맘 알까", "explanation": "我的 心 + 알다 (知道) + -(으)ㄹ까 (疑問)" }
+      ]
+    },
+    {
+      "korean": "슈가 슈가 슈가 달콤해 너무 니가",
+      "translation": "Sugar sugar sugar 太甜蜜了 你",
+      "analysis": [
+        { "point": "슈가 슈가 슈가", "explanation": "Sugar (英文：糖) 重複" },
+        { "point": "달콤해 너무 니가", "explanation": "甜蜜 太 你(主格)" }
+      ]
+    },
+    {
+      "korean": "oh baby 상큼하게 톡톡",
+      "translation": "oh baby 清爽地 噗噗",
+      "analysis": [
+        { "point": "oh baby", "explanation": "英文" },
+        { "point": "상큼하게", "explanation": "상큼하다 (清爽) 的副詞形 (-게)" },
+        { "point": "톡톡", "explanation": "擬聲詞，氣泡破裂的聲音" }
+      ]
+    },
+    {
+      "korean": "soda pop pop pop",
+      "translation": "soda pop pop pop",
+      "analysis": [
+        { "point": "soda pop pop pop", "explanation": "英文歌詞 (pop 為擬聲詞)" }
+      ]
+    },
+    {
+      "korean": "내 목이 따끔하고 간지럽게 my my my",
+      "translation": "我的喉嚨刺痛又發癢 my my my",
+      "analysis": [
+        { "point": "내 목이", "explanation": "我的 喉嚨(主格)" },
+        { "point": "따끔하고", "explanation": "따끔하다 (刺痛) + -고 (連接)" },
+        { "point": "간지럽게", "explanation": "간지럽다 (發癢) 的副詞形 (-게)" },
+        { "point": "my my my", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I fell in love with you",
+      "translation": "我愛上了你",
+      "analysis": [
+        { "point": "I fell in love with you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "빠져들고 싶어 니 안에",
+      "translation": "想要沉醉在你的懷裡",
+      "analysis": [
+        { "point": "빠져들고 싶어", "explanation": "빠져들다 (沉醉，陷入) + -고 싶다 (想)" },
+        { "point": "니 안에", "explanation": "你的 裡面" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나비처럼 내 맘에 날아 앉아",
+      "translation": "像蝴蝶一樣飛來停在我的心上",
+      "analysis": [
+        { "point": "나비처럼", "explanation": "나비 (蝴蝶) + -처럼 (像...一樣)" },
+        { "point": "내 맘에", "explanation": "我的 心上" },
+        { "point": "날아 앉아", "explanation": "날다 (飛) + -아/어 + 앉다 (坐下，停落)" }
+      ]
+    },
+    {
+      "korean": "벌처럼 사랑을 톡 쏘니까",
+      "translation": "像蜜蜂一樣叮了一下愛情",
+      "analysis": [
+        { "point": "벌처럼", "explanation": "벌 (蜜蜂) + -처럼" },
+        { "point": "사랑을 톡 쏘니까", "explanation": "愛(受格) + 톡 (擬聲/態詞，輕輕地一下) + 쏘다 (叮，쏘다) + -(으)니까 (因為)" }
+      ]
+    },
+    {
+      "korean": "달콤한 유혹에 빠져 난",
+      "translation": "我陷入了甜蜜的誘惑",
+      "analysis": [
+        { "point": "달콤한 유혹에", "explanation": "甜蜜的 誘惑 + -에 (在...之中)" },
+        { "point": "빠져 난", "explanation": "빠지다 (陷入) + 我(主題)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "call me your darling darling",
+      "translation": "叫我你的親愛的 親愛的",
+      "analysis": [
+        { "point": "call me your darling darling", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나를 녹여줘",
+      "translation": "融化我吧",
+      "analysis": [
+        { "point": "나를 녹여줘", "explanation": "我(受格) + 녹이다 (使融化 - 녹다 的使動態) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "korean": "슈가 팝 my 롤리팝 소리 칠 거야",
+      "translation": "Sugar pop my lollipop 我會大聲呼喊",
+      "analysis": [
+        { "point": "슈가 팝 my 롤리팝", "explanation": "Sugar pop (糖果汽水), my lollipop (我的棒棒糖) - 英文" },
+        { "point": "소리 칠 거야", "explanation": "소리(를) 치다 (呼喊) + -(으)ㄹ 것이다 (將會...)" }
+      ]
+    },
+    {
+      "korean": "call you my darling darling",
+      "translation": "叫你我的親愛的 親愛的",
+      "analysis": [
+        { "point": "call you my darling darling", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그댄 달콤해",
+      "translation": "你很甜蜜",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대 (你) + -는 (主題助詞) 的縮略" },
+        { "point": "달콤해", "explanation": "달콤하다 (甜蜜) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "oh 화끈해 더 뜨겁게",
+      "translation": "oh 火熱啊 更火熱地",
+      "analysis": [
+        { "point": "oh 화끈해", "explanation": "oh + 화끈하다 (火辣，火熱) 的非格式體" },
+        { "point": "더 뜨겁게", "explanation": "更 + 뜨겁다 (熱，燙) 的副詞形 (-게)" }
+      ]
+    },
+    {
+      "korean": "only you only you",
+      "translation": "只有你 只有你",
+      "analysis": [
+        { "point": "only you only you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "별이 쏟아지는 바닷가 위에",
+      "translation": "在星星傾瀉的海邊上",
+      "analysis": [
+        { "point": "별이 쏟아지는", "explanation": "星星(主格) + 쏟아지다 (傾瀉) 的定語形態 (-는)" },
+        { "point": "바닷가 위에", "explanation": "바닷가 (海邊) + 위 (上面) + -에" }
+      ]
+    },
+    {
+      "korean": "살포시 그대 무릎에",
+      "translation": "輕輕地在你的膝蓋上",
+      "analysis": [
+        { "point": "살포시", "explanation": "副詞，輕輕地，悄悄地" },
+        { "point": "그대 무릎에", "explanation": "你的 膝蓋上" }
+      ]
+    },
+    {
+      "korean": "기대 누워 잠들고 싶어",
+      "translation": "想要倚靠著躺下入睡",
+      "analysis": [
+        { "point": "기대 누워", "explanation": "기대다 (倚靠) + 눕다 (躺下) 的連接形" },
+        { "point": "잠들고 싶어", "explanation": "잠들다 (入睡) + -고 싶다 (想)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "call me your darling darling",
+      "translation": "叫我你的親愛的 親愛的",
+      "analysis": [
+        { "point": "call me your darling darling", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나를 녹여줘",
+      "translation": "融化我吧",
+      "analysis": [
+        { "point": "나를 녹여줘", "explanation": "我(受格) + 녹이다 (使融化 - 녹다 的使動態) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "korean": "슈가 팝 my 롤리팝 소리 칠 거야",
+      "translation": "Sugar pop my lollipop 我會大聲呼喊",
+      "analysis": [
+        { "point": "슈가 팝 my 롤리팝", "explanation": "Sugar pop (糖果汽水), my lollipop (我的棒棒糖) - 英文" },
+        { "point": "소리 칠 거야", "explanation": "소리(를) 치다 (呼喊) + -(으)ㄹ 것이다 (將會...)" }
+      ]
+    },
+    {
+      "korean": "call you my darling darling",
+      "translation": "叫你我的親愛的 親愛的",
+      "analysis": [
+        { "point": "call you my darling darling", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "그댄 달콤해",
+      "translation": "你很甜蜜",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대 (你) + -는 (主題助詞) 的縮略" },
+        { "point": "달콤해", "explanation": "달콤하다 (甜蜜) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "oh 화끈해 더 뜨겁게 only you",
+      "translation": "oh 火熱啊 更火熱地 only you",
+      "analysis": [
+        { "point": "oh 화끈해", "explanation": "oh + 화끈하다 (火辣，火熱) 的非格式體" },
+        { "point": "더 뜨겁게", "explanation": "更 + 뜨겁다 (熱，燙) 的副詞形 (-게)" },
+        { "point": "only you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "only you only you my only you",
+      "translation": "只有你 只有你 我唯一的你",
+      "analysis": [
+        { "point": "only you only you my only you", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "연인", "chinese": "戀人", "pos": "名詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "어리숙하다", "chinese": "笨拙/幼稚", "pos": "形容詞" },
+    { "korean": "낯을 가리다", "chinese": "認生", "pos": "動詞片語" },
+    { "korean": "틀", "chinese": "框架", "pos": "名詞" },
+    { "korean": "갇히다", "chinese": "被困住/被關", "pos": "動詞 (被動)" },
+    { "korean": "가짜", "chinese": "假的", "pos": "名詞" },
+    { "korean": "진짜", "chinese": "真的", "pos": "名詞/副詞" },
+    { "korean": "표현", "chinese": "表現", "pos": "名詞" },
+    { "korean": "나비", "chinese": "蝴蝶", "pos": "名詞" },
+    { "korean": "날다", "chinese": "飛", "pos": "動詞" },
+    { "korean": "앉다", "chinese": "坐/停落", "pos": "動詞" },
+    { "korean": "벌", "chinese": "蜜蜂", "pos": "名詞" },
+    { "korean": "쏘다", "chinese": "叮/射", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜", "pos": "形容詞" },
+    { "korean": "유혹", "chinese": "誘惑", "pos": "名詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "녹이다", "chinese": "使融化", "pos": "動詞 (使動)" },
+    { "korean": "소리치다", "chinese": "呼喊/大叫", "pos": "動詞" },
+    { "korean": "화끈하다", "chinese": "火辣/火熱", "pos": "形容詞" },
+    { "korean": "뜨겁다", "chinese": "熱/燙", "pos": "形容詞" },
+    { "korean": "스타", "chinese": "明星", "pos": "名詞" },
+    { "korean": "소재", "chinese": "素材/題材", "pos": "名詞" },
+    { "korean": "부르다", "chinese": "唱/呼喚", "pos": "動詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "밝다", "chinese": "明亮", "pos": "形容詞" },
+    { "korean": "상큼하다", "chinese": "清爽", "pos": "形容詞" },
+    { "korean": "목", "chinese": "喉嚨", "pos": "名詞" },
+    { "korean": "따끔하다", "chinese": "刺痛", "pos": "形容詞" },
+    { "korean": "간지럽다", "chinese": "發癢", "pos": "形容詞" },
+    { "korean": "빠져들다", "chinese": "沉醉/陷入", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "바닷가", "chinese": "海邊", "pos": "名詞" },
+    { "korean": "살포시", "chinese": "輕輕地/悄悄地", "pos": "副詞" },
+    { "korean": "무릎", "chinese": "膝蓋", "pos": "名詞" },
+    { "korean": "기대다", "chinese": "倚靠", "pos": "動詞" },
+    { "korean": "눕다", "chinese": "躺下", "pos": "動詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" }
+  ]
+}

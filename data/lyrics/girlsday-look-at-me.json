@@ -1,0 +1,663 @@
+{
+  "id": "girlsday-look-at-me",
+  "title": "Look At Me",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "푹 빠졌어 꾹 참았던",
+      "translation": "深深地陷入了 曾緊緊忍住的",
+      "analysis": [
+        { "point": "푹 빠졌어", "explanation": "푹 (副詞，深深地) + 빠지다 (陷入) 的過去式非格式體" },
+        { "point": "꾹 참았던", "explanation": "꾹 (副詞，緊緊地，用力地) + 참다 (忍耐) 的過去定語形態 (-았던/었던)" }
+      ]
+    },
+    {
+      "korean": "내 맘을 그렇게 넌",
+      "translation": "我的心 你卻那樣",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "我的 心(受格)" },
+        { "point": "그렇게 넌", "explanation": "그렇게 (那樣地) + 너 (你) + -는 (主題助詞)" }
+      ]
+    },
+    {
+      "korean": "왜 그리 몰라줘",
+      "translation": "為何那麼不理解",
+      "analysis": [
+        { "point": "왜", "explanation": "為何" },
+        { "point": "그리", "explanation": "副詞，那樣地" },
+        { "point": "몰라줘", "explanation": "모르다 (不知道) + -아/어 주다 (為(我)做...的否定形式，此處意指不理解/不體諒)" }
+      ]
+    },
+    {
+      "korean": "내가 어려서",
+      "translation": "因為我年紀小嗎",
+      "analysis": [
+        { "point": "내가 어려서", "explanation": "我(主格) + 어리다 (年幼) 的連接形 (-어서，表原因)" }
+      ]
+    },
+    {
+      "korean": "알면서 모른 척 하는 거니",
+      "translation": "是明明知道卻在裝傻嗎",
+      "analysis": [
+        { "point": "알면서", "explanation": "알다 (知道) + -(으)면서 (連接詞尾，同時)" },
+        { "point": "모른 척 하는 거니", "explanation": "모르다 (不知道) 的定語形 + 척하다 (假裝) 的定語形 + 것 (事情) + -이다 (是) + -니 (疑問)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "얼마나 오랫동안",
+      "translation": "多麼長的時間",
+      "analysis": [
+        { "point": "얼마나", "explanation": "副詞，多麼" },
+        { "point": "오랫동안", "explanation": "오랫동안 (長時間)" }
+      ]
+    },
+    {
+      "korean": "이 순간만을 기다렸는데",
+      "translation": "只等待著這個瞬間，但是",
+      "analysis": [
+        { "point": "이 순간만을", "explanation": "這 瞬間 + -만 (只) + -을 (受格助詞)" },
+        { "point": "기다렸는데", "explanation": "기다리다 (等待) 的過去式 + -(으)ㄴ/는데 (連接詞尾，表背景或轉折)" }
+      ]
+    },
+    {
+      "korean": "어린애 취급만",
+      "translation": "只當作小孩子對待",
+      "analysis": [
+        { "point": "어린애", "explanation": "名詞，小孩子" },
+        { "point": "취급만", "explanation": "취급 (對待，處理) + -만 (只)" }
+      ]
+    },
+    {
+      "korean": "동생으로만",
+      "translation": "只當作妹妹",
+      "analysis": [
+        { "point": "동생으로만", "explanation": "동생 (妹妹/弟弟) + -(으)로 (作為) + -만 (只)" }
+      ]
+    },
+    {
+      "korean": "바라보는 게 싫어",
+      "translation": "討厭你這樣看著我",
+      "analysis": [
+        { "point": "바라보는 게", "explanation": "바라보다 (看著) 的定語形 + 것 (事情) + -이 (主格助詞) 的縮略" },
+        { "point": "싫어", "explanation": "싫다 (討厭) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "하루종일 계속",
+      "translation": "一整天 不停地",
+      "analysis": [
+        { "point": "하루종일", "explanation": "副詞，一整天" },
+        { "point": "계속", "explanation": "副詞，繼續，不停地" }
+      ]
+    },
+    {
+      "korean": "꾸미고 꾸미다",
+      "translation": "打扮了又打扮",
+      "analysis": [
+        { "point": "꾸미고 꾸미다", "explanation": "꾸미다 (打扮，裝飾) 的重複，表示反覆的動作" }
+      ]
+    },
+    {
+      "korean": "보여주고 싶어",
+      "translation": "想要展現給你看",
+      "analysis": [
+        { "point": "보여주고 싶어", "explanation": "보여주다 (展現給(人看)) + -고 싶다 (想)" }
+      ]
+    },
+    {
+      "korean": "남들처럼",
+      "translation": "像別人一樣",
+      "analysis": [
+        { "point": "남들처럼", "explanation": "남 (別人) + -들 (複數) + -처럼 (像...一樣)" }
+      ]
+    },
+    {
+      "korean": "알건 다 아는",
+      "translation": "該懂的都懂的",
+      "analysis": [
+        { "point": "알건 다 아는", "explanation": "알 것 (該知道的事) + -은 (主題助詞) 的縮略 + 다 (全都) + 알다 (知道) 的定語形態 (-는)" }
+      ]
+    },
+    {
+      "korean": "나도 여자라는 걸",
+      "translation": "我也是女人的這件事",
+      "analysis": [
+        { "point": "나도 여자라는 걸", "explanation": "我 + -도 (也) + 여자 (女人) + -(이)라는 (叫做...的/是...的) + 것 (事情) + -을 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "don't you know",
+      "translation": "你不知道嗎",
+      "analysis": [
+        { "point": "don't you know", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "look at me now",
+      "translation": "現在看著我",
+      "analysis": [
+        { "point": "look at me now", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "look in my eyes",
+      "translation": "看進我的眼裡",
+      "analysis": [
+        { "point": "look in my eyes", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "니 앞에 훤히 보이잖아",
+      "translation": "不是清楚地展現在你眼前嗎",
+      "analysis": [
+        { "point": "니 앞에", "explanation": "你的 前面" },
+        { "point": "훤히", "explanation": "副詞，明亮地，清楚地" },
+        { "point": "보이잖아", "explanation": "보이다 (被看見) + -잖아 (終結詞尾，表確認)" }
+      ]
+    },
+    {
+      "korean": "예전에 맘 여렸던 아이",
+      "translation": "從前心軟的那個孩子",
+      "analysis": [
+        { "point": "예전에", "explanation": "以前" },
+        { "point": "맘 여렸던 아이", "explanation": "心 + 여리다 (軟弱，柔弱) 的過去定語形態 + 아이 (孩子)" }
+      ]
+    },
+    {
+      "korean": "철없기만 했던 아이",
+      "translation": "只是不懂事的那個孩子",
+      "analysis": [
+        { "point": "철없기만 했던 아이", "explanation": "철없다 (不懂事) 的名詞形 + -만 (只) + 하다 (做) 的過去定語形態 + 孩子" }
+      ]
+    },
+    {
+      "korean": "더 이상은 아냐",
+      "translation": "再也不是了",
+      "analysis": [
+        { "point": "더 이상은", "explanation": "再也(強調)" },
+        { "point": "아냐", "explanation": "아니다 (不是) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "look at me now",
+      "translation": "現在看著我",
+      "analysis": [
+        { "point": "look at me now", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "look what you see",
+      "translation": "看看你看到了什麼",
+      "analysis": [
+        { "point": "look what you see", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "imma beautiful lady",
+      "translation": "我是個美麗的淑女",
+      "analysis": [
+        { "point": "imma beautiful lady", "explanation": "英文歌詞 (imma 為 I'm going to 的非正式縮寫)" }
+      ]
+    },
+    {
+      "korean": "제발 오빠 오빠",
+      "translation": "拜託 哥哥 哥哥",
+      "analysis": [
+        { "point": "제발", "explanation": "拜託" },
+        { "point": "오빠 오빠", "explanation": "哥哥 (重複)" }
+      ]
+    },
+    {
+      "korean": "날 사랑해줘",
+      "translation": "請愛我吧",
+      "analysis": [
+        { "point": "날 사랑해줘", "explanation": "我(受格) + 愛我(命令形)" }
+      ]
+    },
+    {
+      "korean": "지금 all day all night",
+      "translation": "現在 all day all night",
+      "analysis": [
+        { "point": "지금", "explanation": "現在" },
+        { "point": "all day all night", "explanation": "英文歌詞：一整天一整晚" }
+      ]
+    },
+    {
+      "korean": "날 니꺼라고 해줘",
+      "translation": "說我是你的吧",
+      "analysis": [
+        { "point": "날 니꺼라고 해줘", "explanation": "我(受格) + 니꺼 (你的東西 - 너의 것 口語) + -(이)라고 하다 (說是...) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "look at me now 제발",
+      "translation": "現在看著我 拜託",
+      "analysis": [
+        { "point": "look at me now 제발", "explanation": "英文歌詞 + 拜託" }
+      ]
+    },
+    {
+      "korean": "look what you see 제발",
+      "translation": "看看你看到了什麼 拜託",
+      "analysis": [
+        { "point": "look what you see 제발", "explanation": "英文歌詞 + 拜託" }
+      ]
+    },
+    {
+      "korean": "깜깜한 밤에 난 니 생각만",
+      "translation": "在漆黑的夜裡我只會想你",
+      "analysis": [
+        { "point": "깜깜한 밤에", "explanation": "깜깜하다 (漆黑) 的定語形態 + 夜晚" },
+        { "point": "난 니 생각만", "explanation": "我 你的 思念 只" }
+      ]
+    },
+    {
+      "korean": "내가 더 오히려",
+      "translation": "我反而更加",
+      "analysis": [
+        { "point": "내가 더", "explanation": "我(主格) 更" },
+        { "point": "오히려", "explanation": "副詞，反而" }
+      ]
+    },
+    {
+      "korean": "이쁘게 보이려다",
+      "translation": "想要看起來更漂亮",
+      "analysis": [
+        { "point": "이쁘게", "explanation": "이쁘다 (예쁘다 的口語) 的副詞形" },
+        { "point": "보이려다", "explanation": "보이다 (被看見) + -(으)려고 하다 (想要...) 的連接形" }
+      ]
+    },
+    {
+      "korean": "자꾸 꼬이면 넌 억울해",
+      "translation": "總是搞砸的話 你會覺得委屈",
+      "analysis": [
+        { "point": "자꾸", "explanation": "總是" },
+        { "point": "꼬이면", "explanation": "꼬이다 (搞砸，糾纏) + -(으)면 (如果)" },
+        { "point": "넌 억울해", "explanation": "你 + 억울하다 (委屈) 的非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "하루종일 계속",
+      "translation": "一整天 不停地",
+      "analysis": [
+        { "point": "하루종일", "explanation": "副詞，一整天" },
+        { "point": "계속", "explanation": "副詞，繼續，不停地" }
+      ]
+    },
+    {
+      "korean": "꾸미고 꾸미다",
+      "translation": "打扮了又打扮",
+      "analysis": [
+        { "point": "꾸미고 꾸미다", "explanation": "꾸미다 (打扮，裝飾) 的重複，表示反覆的動作" }
+      ]
+    },
+    {
+      "korean": "보여주고 싶어",
+      "translation": "想要展現給你看",
+      "analysis": [
+        { "point": "보여주고 싶어", "explanation": "보여주다 (展現給(人看)) + -고 싶다 (想)" }
+      ]
+    },
+    {
+      "korean": "남들처럼",
+      "translation": "像別人一樣",
+      "analysis": [
+        { "point": "남들처럼", "explanation": "남 (別人) + -들 (複數) + -처럼 (像...一樣)" }
+      ]
+    },
+    {
+      "korean": "알건 다 아는",
+      "translation": "該懂的都懂的",
+      "analysis": [
+        { "point": "알건 다 아는", "explanation": "알 것 (該知道的事) + -은 (主題助詞) 的縮略 + 다 (全都) + 알다 (知道) 的定語形態 (-는)" }
+      ]
+    },
+    {
+      "korean": "나도 여자라는 걸",
+      "translation": "我也是女人的這件事",
+      "analysis": [
+        { "point": "나도 여자라는 걸", "explanation": "我 + -도 (也) + 여자 (女人) + -(이)라는 (叫做...的/是...的) + 것 (事情) + -을 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "don't you know",
+      "translation": "你不知道嗎",
+      "analysis": [
+        { "point": "don't you know", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "look at me now",
+      "translation": "現在看著我",
+      "analysis": [
+        { "point": "look at me now", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "look in my eyes",
+      "translation": "看進我的眼裡",
+      "analysis": [
+        { "point": "look in my eyes", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "니 앞에 훤히 보이잖아",
+      "translation": "不是清楚地展現在你眼前嗎",
+      "analysis": [
+        { "point": "니 앞에", "explanation": "你的 前面" },
+        { "point": "훤히", "explanation": "副詞，明亮地，清楚地" },
+        { "point": "보이잖아", "explanation": "보이다 (被看見) + -잖아 (終結詞尾，表確認)" }
+      ]
+    },
+    {
+      "korean": "예전에 맘 여렸던 아이",
+      "translation": "從前心軟的那個孩子",
+      "analysis": [
+        { "point": "예전에", "explanation": "以前" },
+        { "point": "맘 여렸던 아이", "explanation": "心 + 여리다 (軟弱，柔弱) 的過去定語形態 + 아이 (孩子)" }
+      ]
+    },
+    {
+      "korean": "철없기만 했던 아이",
+      "translation": "只是不懂事的那個孩子",
+      "analysis": [
+        { "point": "철없기만 했던 아이", "explanation": "철없다 (不懂事) 的名詞形 + -만 (只) + 하다 (做) 的過去定語形態 + 孩子" }
+      ]
+    },
+    {
+      "korean": "더 이상은 아냐",
+      "translation": "再也不是了",
+      "analysis": [
+        { "point": "더 이상은", "explanation": "再也(強調)" },
+        { "point": "아냐", "explanation": "아니다 (不是) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "look at me now",
+      "translation": "現在看著我",
+      "analysis": [
+        { "point": "look at me now", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "look what you see",
+      "translation": "看看你看到了什麼",
+      "analysis": [
+        { "point": "look what you see", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "imma beautiful lady",
+      "translation": "我是個美麗的淑女",
+      "analysis": [
+        { "point": "imma beautiful lady", "explanation": "英文歌詞 (imma 為 I'm going to 的非正式縮寫)" }
+      ]
+    },
+    {
+      "korean": "제발 오빠 오빠",
+      "translation": "拜託 哥哥 哥哥",
+      "analysis": [
+        { "point": "제발", "explanation": "拜託" },
+        { "point": "오빠 오빠", "explanation": "哥哥 (重複)" }
+      ]
+    },
+    {
+      "korean": "날 사랑해줘",
+      "translation": "請愛我吧",
+      "analysis": [
+        { "point": "날 사랑해줘", "explanation": "我(受格) + 愛我(命令形)" }
+      ]
+    },
+    {
+      "korean": "지금 all day all night",
+      "translation": "現在 all day all night",
+      "analysis": [
+        { "point": "지금", "explanation": "現在" },
+        { "point": "all day all night", "explanation": "英文歌詞：一整天一整晚" }
+      ]
+    },
+    {
+      "korean": "날 니꺼라고 해줘",
+      "translation": "說我是你的吧",
+      "analysis": [
+        { "point": "날 니꺼라고 해줘", "explanation": "我(受格) + 니꺼 (你的東西 - 너의 것 口語) + -(이)라고 하다 (說是...) + -어 주다 的命令形" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "진심이 담긴",
+      "translation": " 담아著真心的",
+      "analysis": [
+        { "point": "진심이 담긴", "explanation": "진심 (真心) + -이 (主格助詞) + 담기다 (被裝盛，包含 - 담다 的被動態) 的過去定語形態" }
+      ]
+    },
+    {
+      "korean": "너의 그 모습을 바라지",
+      "translation": "期盼著你的那個模樣",
+      "analysis": [
+        { "point": "너의 그 모습을", "explanation": "你的 那 模樣(受格)" },
+        { "point": "바라지", "explanation": "바라다 (期盼) 的非格式體 (此處 -지 為強調或自言自語的語氣)" }
+      ]
+    },
+    {
+      "korean": "청순한 여자든",
+      "translation": "無論是清純的女人",
+      "analysis": [
+        { "point": "청순한 여자든", "explanation": "청순하다 (清純) 的定語形態 + 여자 (女人) + -(이)든지 (無論是...)" }
+      ]
+    },
+    {
+      "korean": "섹시한 여자든",
+      "translation": "還是性感的女人",
+      "analysis": [
+        { "point": "섹시한 여자든", "explanation": "섹시하다 (性感) 的定語形態 + 여자 (女人) + -(이)든지" }
+      ]
+    },
+    {
+      "korean": "널 위해서라면",
+      "translation": "只要是為了你",
+      "analysis": [
+        { "point": "널 위해서라면", "explanation": "你(受格) + 위하다 (為了) + -(으)면 (如果) + -(이)라면 (假設)" }
+      ]
+    },
+    {
+      "korean": "니가 원하는 여자 되줄게",
+      "translation": "我會成為你想要的女人",
+      "analysis": [
+        { "point": "니가 원하는 여자", "explanation": "你(主格) + 원하다 (想要) 的定語形態 + 女人" },
+        { "point": "되줄게", "explanation": "되다 (成為) + -어 주다 (為你) + -(으)ㄹ게 (意志)" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "사랑에 빠지면",
+      "translation": "如果陷入愛情",
+      "analysis": [
+        { "point": "사랑에 빠지면", "explanation": "愛 + -에 (在) + 빠지다 (陷入) + -(으)면" }
+      ]
+    },
+    {
+      "korean": "난 바보 같애져",
+      "translation": "我就會變得像傻瓜",
+      "analysis": [
+        { "point": "난 바보 같애져", "explanation": "我 + 바보 (傻瓜) + 같다 (像) + -아/어지다 (變得...) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "그래도 이 마음 숨기면",
+      "translation": "即使如此 如果隱藏這份心意",
+      "analysis": [
+        { "point": "그래도", "explanation": "即使如此" },
+        { "point": "이 마음 숨기면", "explanation": "這 心意 + 숨기다 (隱藏) + -(으)면" }
+      ]
+    },
+    {
+      "korean": "더 아플 것 같애",
+      "translation": "好像會更心痛",
+      "analysis": [
+        { "point": "더 아플 것 같애", "explanation": "更 + 아프다 (痛) + -(으)ㄹ 것 같다 (好像會...)" }
+      ]
+    },
+    {
+      "korean": "그래서 말할께",
+      "translation": "所以我要說了",
+      "analysis": [
+        { "point": "그래서 말할께", "explanation": "所以 + 말하다 (說) + -(으)ㄹ게 (意志)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "look at me now",
+      "translation": "現在看著我",
+      "analysis": [
+        { "point": "look at me now", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "look in my eyes",
+      "translation": "看進我的眼裡",
+      "analysis": [
+        { "point": "look in my eyes", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "니 앞에 훤히 보이잖아",
+      "translation": "不是清楚地展現在你眼前嗎",
+      "analysis": [
+        { "point": "니 앞에", "explanation": "你的 前面" },
+        { "point": "훤히", "explanation": "副詞，明亮地，清楚地" },
+        { "point": "보이잖아", "explanation": "보이다 (被看見) + -잖아 (終結詞尾，表確認)" }
+      ]
+    },
+    {
+      "korean": "예전에 맘 여렸던 아이",
+      "translation": "從前心軟的那個孩子",
+      "analysis": [
+        { "point": "예전에", "explanation": "以前" },
+        { "point": "맘 여렸던 아이", "explanation": "心 + 여리다 (軟弱，柔弱) 的過去定語形態 + 아이 (孩子)" }
+      ]
+    },
+    {
+      "korean": "철없기만 했던 아이",
+      "translation": "只是不懂事的那個孩子",
+      "analysis": [
+        { "point": "철없기만 했던 아이", "explanation": "철없다 (不懂事) 的名詞形 + -만 (只) + 하다 (做) 的過去定語形態 + 孩子" }
+      ]
+    },
+    {
+      "korean": "더 이상은 아냐",
+      "translation": "再也不是了",
+      "analysis": [
+        { "point": "더 이상은", "explanation": "再也(強調)" },
+        { "point": "아냐", "explanation": "아니다 (不是) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "look at me now",
+      "translation": "現在看著我",
+      "analysis": [
+        { "point": "look at me now", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "look what you see",
+      "translation": "看看你看到了什麼",
+      "analysis": [
+        { "point": "look what you see", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "imma beautiful lady",
+      "translation": "我是個美麗的淑女",
+      "analysis": [
+        { "point": "imma beautiful lady", "explanation": "英文歌詞 (imma 為 I'm going to 的非正式縮寫)" }
+      ]
+    },
+    {
+      "korean": "제발 오빠 오빠",
+      "translation": "拜託 哥哥 哥哥",
+      "analysis": [
+        { "point": "제발", "explanation": "拜託" },
+        { "point": "오빠 오빠", "explanation": "哥哥 (重複)" }
+      ]
+    },
+    {
+      "korean": "날 사랑해줘",
+      "translation": "請愛我吧",
+      "analysis": [
+        { "point": "날 사랑해줘", "explanation": "我(受格) + 愛我(命令形)" }
+      ]
+    },
+    {
+      "korean": "지금 all day all night",
+      "translation": "現在 all day all night",
+      "analysis": [
+        { "point": "지금", "explanation": "現在" },
+        { "point": "all day all night", "explanation": "英文歌詞：一整天一整晚" }
+      ]
+    },
+    {
+      "korean": "날 니꺼라고 해줘",
+      "translation": "說我是你的吧",
+      "analysis": [
+        { "point": "날 니꺼라고 해줘", "explanation": "我(受格) + 니꺼 (你的東西 - 너의 것 口語) + -(이)라고 하다 (說是...) + -어 주다 的命令形" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "푹 빠지다", "chinese": "深深陷入", "pos": "動詞片語" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "몰라주다", "chinese": "不理解/不體諒", "pos": "動詞" },
+    { "korean": "어리다", "chinese": "年幼", "pos": "形容詞" },
+    { "korean": "모른 척하다", "chinese": "假裝不知道", "pos": "動詞片語" },
+    { "korean": "오랫동안", "chinese": "長時間", "pos": "副詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "어린애", "chinese": "小孩子", "pos": "名詞" },
+    { "korean": "취급하다", "chinese": "對待/處理", "pos": "動詞" },
+    { "korean": "동생", "chinese": "弟弟/妹妹", "pos": "名詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "하루종일", "chinese": "一整天", "pos": "副詞" },
+    { "korean": "꾸미다", "chinese": "打扮/裝飾", "pos": "動詞" },
+    { "korean": "보여주다", "chinese": "展現給(人看)", "pos": "動詞" },
+    { "korean": "남들", "chinese": "別人(們)", "pos": "名詞" },
+    { "korean": "여자", "chinese": "女人", "pos": "名詞" },
+    { "korean": "훤히", "chinese": "明亮地/清楚地", "pos": "副詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞 (被動)" },
+    { "korean": "예전에", "chinese": "以前", "pos": "副詞" },
+    { "korean": "여리다", "chinese": "軟弱/柔弱", "pos": "形容詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "철없다", "chinese": "不懂事", "pos": "形容詞" },
+    { "korean": "더 이상", "chinese": "再也", "pos": "副詞片語" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "오빠", "chinese": "哥哥 (女生稱呼)", "pos": "名詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "니꺼", "chinese": "你的東西 (口語)", "pos": "代名詞" },
+    { "korean": "깜깜하다", "chinese": "漆黑", "pos": "形容詞" },
+    { "korean": "오히려", "chinese": "反而", "pos": "副詞" },
+    { "korean": "이쁘다", "chinese": "漂亮 (예쁘다 的口語)", "pos": "形容詞" },
+    { "korean": "꼬이다", "chinese": "搞砸/糾纏", "pos": "動詞" },
+    { "korean": "억울하다", "chinese": "委屈", "pos": "形容詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "담기다", "chinese": "被裝盛/包含", "pos": "動詞 (被動)" },
+    { "korean": "바라다", "chinese": "期盼", "pos": "動詞" },
+    { "korean": "청순하다", "chinese": "清純", "pos": "形容詞" },
+    { "korean": "섹시하다", "chinese": "性感", "pos": "形容詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "되주다", "chinese": "成為(為某人)", "pos": "動詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "같애지다", "chinese": "變得像...", "pos": "動詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "말하다", "chinese": "說話", "pos": "動詞" }
+  ]
+}

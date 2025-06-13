@@ -81,8 +81,19 @@
     </header>
 
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
-        <h1 class="text-4xl font-bold text-center mb-12 text-slate-100">韓語歌曲教學</h1>
-        
+        <h1 class="text-4xl font-bold text-center mb-8 text-slate-100">韓語歌曲教學</h1>
+
+        <div class="mb-10 max-w-xl mx-auto">
+            <label for="song-search" class="sr-only">搜尋歌曲</label>
+            <div class="relative">
+                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                    <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+                    </svg>
+                </div>
+                <input type="text" id="song-search" class="block w-full pl-12 pr-3 py-3 border border-slate-600 rounded-full leading-5 bg-slate-700 text-slate-200 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 sm:text-base" placeholder="搜尋歌曲名稱或歌手...">
+            </div>
+        </div>
         <div id="songs-list-container" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             <p class="text-center text-gray-400 col-span-full">正在載入歌曲列表...</p>
         </div>
@@ -94,6 +105,9 @@
     </footer>
 
     <script>
+        // 全域變數，用於儲存從 JSON 載入的完整歌曲列表
+        var allSongsData = [];
+
         function sanitizeHTML(str) {
             if (typeof str !== 'string') return '';
             var temp = document.createElement('div');
@@ -101,6 +115,7 @@
             return temp.innerHTML;
         }
 
+        // 渲染歌曲列表的函數，現在它接受一個歌曲陣列作為參數
         function renderSongsList(songs) {
             var container = document.getElementById('songs-list-container');
             if (!container) {
@@ -110,12 +125,12 @@
             container.innerHTML = ''; 
 
             if (!songs || songs.length === 0) {
-                container.innerHTML = '<p class="text-center text-gray-400 col-span-full">目前沒有可學習的歌曲。</p>';
+                // 如果沒有歌曲（無論是初始載入失敗還是搜尋無結果），顯示提示
+                container.innerHTML = '<p class="text-center text-gray-400 col-span-full">找不到符合條件的歌曲。</p>';
                 return;
             }
 
             songs.forEach(function(song) {
-                // Card content is simpler now, no album art or difficulty
                 var cardHTML = `
                     <div class="song-card">
                         <div>
@@ -134,6 +149,27 @@
             });
         }
 
+        // 設定搜尋功能的函數
+        function setupSearch(songs) {
+            var searchInput = document.getElementById('song-search');
+            if (!searchInput) return;
+
+            searchInput.addEventListener('input', function() {
+                var searchTerm = this.value.toLowerCase().trim();
+                
+                // 根據搜尋詞篩選歌曲
+                var filteredSongs = songs.filter(function(song) {
+                    var title = song.title ? song.title.toLowerCase() : '';
+                    var artist = song.artist ? song.artist.toLowerCase() : '';
+                    return title.includes(searchTerm) || artist.includes(searchTerm);
+                });
+                
+                // 使用篩選後的結果重新渲染列表
+                renderSongsList(filteredSongs);
+            });
+        }
+
+        // DOMContentLoaded 事件監聽器
         document.addEventListener('DOMContentLoaded', function() {
             var songsContainer = document.getElementById('songs-list-container');
             var jsonFileUrl = '';
@@ -155,7 +191,12 @@
                     return response.json();
                 })
                 .then(function(songsData) {
-                    renderSongsList(songsData);
+                    // 過濾掉無效或預留的歌曲項目
+                    allSongsData = songsData.filter(function(song) {
+                        return song.id && song.id !== "_____" && song.title !== "_____";
+                    });
+                    renderSongsList(allSongsData); // 初始渲染完整列表
+                    setupSearch(allSongsData); // 設定搜尋監聽
                 })
                 .catch(function(error) {
                     console.error('無法載入歌曲列表:', error);

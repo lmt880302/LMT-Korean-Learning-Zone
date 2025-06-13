@@ -1,0 +1,654 @@
+{
+   "id": "epikhigh-bincha",
+    "title": "빈차 (Home is far away)",
+    "artist": "Epik High (feat. 오혁)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus (OHHYUK)",
+      "korean": "갈 길이 먼데",
+      "translation": "要去的地方還很遠，但是",
+      "analysis": [
+        { "point": "갈 길이", "explanation": "가다 (去/走) 的將來時定語形態 (-ㄹ/을) + 길 (路) + -이 (主格助詞)" },
+        { "point": "먼데", "explanation": "멀다 (遠) 的詞幹 + -(으)ㄴ데 (連接詞尾，表示背景、轉折或提示)" }
+      ]
+    },
+    {
+      "korean": "빈차가 없네",
+      "translation": "沒有空車呢",
+      "analysis": [
+        { "point": "빈차가", "explanation": "빈차 (空車，指計程車) + -가 (主格助詞)" },
+        { "point": "없네", "explanation": "없다 (沒有) 的詞幹 + -네 (終結詞尾，表示感嘆或新發現)" }
+      ]
+    },
+    {
+      "korean": "비가 올 것 같은데",
+      "translation": "好像快要下雨了，但是",
+      "analysis": [
+        { "point": "비가", "explanation": "비 (雨) + -가 (主格助詞)" },
+        { "point": "올 것 같은데", "explanation": "오다 (來) 的將來時定語形態 (-ㄹ/을) + 것 같다 (慣用型，好像會...) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "처진 어깨엔 오늘의 무게",
+      "translation": "下垂的肩膀上是今日的重量",
+      "analysis": [
+        { "point": "처진 어깨엔", "explanation": "처지다 (下垂，耷拉) 的過去定語形態 (-ㄴ/은) + 어깨 (肩膀) + -엔 (-에는 的縮略，在...之上)" },
+        { "point": "오늘의 무게", "explanation": "오늘 (今天) + -의 (的) + 무게 (重量)" }
+      ]
+    },
+    {
+      "korean": "잠시 내려놓고 싶어",
+      "translation": "想要暫時放下",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時" },
+        { "point": "내려놓고 싶어", "explanation": "내려놓다 (放下) 的詞幹 + -고 싶다 (想做...) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "Home is far away",
+      "translation": "家還很遙遠",
+      "analysis": [
+        { "point": "Home is far away", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (Tablo)",
+      "korean": "달라진 게 없네",
+      "translation": "什麼也沒變呢",
+      "analysis": [
+        { "point": "달라진 게", "explanation": "달라지다 (改變，變得不同) 的過去定語形態 (-ㄴ/은) + 것 (事情) + -이 (主格助詞) 的縮略" },
+        { "point": "없네", "explanation": "沒有(感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "홀로 남은 놀이터에서",
+      "translation": "在獨自留下的遊樂場裡",
+      "analysis": [
+        { "point": "홀로 남은", "explanation": "홀로 (獨自) + 남다 (留下) 的過去定語形態 (-은)" },
+        { "point": "놀이터에서", "explanation": "놀이터 (遊樂場) + -에서 (在...地方)" }
+      ]
+    },
+    {
+      "korean": "그 높은 턱걸이에 오른 뒤",
+      "translation": "爬上那高高的單槓後",
+      "analysis": [
+        { "point": "그 높은 턱걸이에", "explanation": "그 (那) + 높다 (高) 的定語形態 (-은) + 턱걸이 (單槓) + -에 (場所助詞)" },
+        { "point": "오른 뒤", "explanation": "오르다 (上去，攀登) 的過去定語形態 (-ㄴ/은) + 뒤 (之後)" }
+      ]
+    },
+    {
+      "korean": "여태 까치발 인생",
+      "translation": "至今為止是踮著腳尖的人生",
+      "analysis": [
+        { "point": "여태", "explanation": "副詞，至今，到現在" },
+        { "point": "까치발 인생", "explanation": "까치발 (踮腳尖) + 인생 (人生)" }
+      ]
+    },
+    {
+      "korean": "내게 요구되는 건",
+      "translation": "對我所要求的是",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略" },
+        { "point": "요구되는 건", "explanation": "요구되다 (被要求 - 요구하다 的被動態) 的定語形態 (-는) + 것 (事情) + -은 (主題助詞)" }
+      ]
+    },
+    {
+      "korean": "늘 높게 뻗은 두 손보다 조금 위",
+      "translation": "總是在高高伸出的雙手之上再高一點的地方",
+      "analysis": [
+        { "point": "늘 높게 뻗은", "explanation": "늘 (總是) + 높게 (高高地) + 뻗다 (伸出) 的過去定語形態 (-은)" },
+        { "point": "두 손보다", "explanation": "두 손 (雙手) + -보다 (比)" },
+        { "point": "조금 위", "explanation": "조금 (一點) + 위 (上面)" }
+      ]
+    },
+    {
+      "korean": "세상의 눈높이 갈수록 에버레스트",
+      "translation": "世界的標準越來越像聖母峰",
+      "analysis": [
+        { "point": "세상의 눈높이", "explanation": "世界 的 眼高/標準" },
+        { "point": "갈수록", "explanation": "副詞，越來越" },
+        { "point": "에버레스트", "explanation": "Everest (聖母峰)，比喻極高的標準" }
+      ]
+    },
+    {
+      "korean": "정상을 향할수록 산더미만 되는 스트레스",
+      "translation": "越是朝向頂峰 壓力越是堆積如山",
+      "analysis": [
+        { "point": "정상을 향할수록", "explanation": "정상 (頂峰) + -을 (向) + 향하다 (朝向) + -(으)ㄹ수록 (越...越...)" },
+        { "point": "산더미만 되는", "explanation": "산더미 (堆積如山) + -만 (只) + 되다 (變成) + -는 (定語形態)" },
+        { "point": "스트레스", "explanation": "Stress (壓力)" }
+      ]
+    },
+    {
+      "korean": "I know I can never rest",
+      "translation": "我知道我永遠無法休息",
+      "analysis": [
+        { "point": "I know I can never rest", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내가 가진 불만들을 잠재워 줄",
+      "translation": "能讓我擁有的不滿沉睡的",
+      "analysis": [
+        { "point": "내가 가진 불만들을", "explanation": "我(主格) + 가지다 (擁有) 的過去定語形態 + 불만 (不滿) + -들 (複數) + -을 (受格助詞)" },
+        { "point": "잠재워 줄", "explanation": "잠재우다 (使入睡 - 잠자다 的使動態) + -어 주다 (為...做) 的將來時定語形態" }
+      ]
+    },
+    {
+      "korean": "수면제는 없으니 혀를 물고 밤 새워",
+      "translation": "沒有安眠藥 所以咬著舌頭熬夜",
+      "analysis": [
+        { "point": "수면제는 없으니", "explanation": "수면제 (安眠藥) + -는 (主題助詞) + 없다 (沒有) + -(으)니 (因為)" },
+        { "point": "혀를 물고", "explanation": "혀 (舌頭) + -를 (受格助詞) + 물다 (咬) + -고 (連接)" },
+        { "point": "밤 새워", "explanation": "밤(을) 새우다 (熬夜) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "어릴 적",
+      "translation": "小時候",
+      "analysis": [
+        { "point": "어릴 적", "explanation": "어리다 (年幼) 的將來時定語形 + 적 (時候)" }
+      ]
+    },
+    {
+      "korean": "줄 서는 것부터 가르쳐 준 이유",
+      "translation": "教我從排隊開始的理由",
+      "analysis": [
+        { "point": "줄 서는 것부터", "explanation": "줄(을) 서다 (排隊) 的名詞化 + -부터 (從...開始)" },
+        { "point": "가르쳐 준 이유", "explanation": "가르치다 (教) + -어 주다 (為...做) 的過去定語形態 + 이유 (理由)" }
+      ]
+    },
+    {
+      "korean": "이젠 선명해졌어",
+      "translation": "如今已變得鮮明",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略" },
+        { "point": "선명해졌어", "explanation": "선명해지다 (變得鮮明) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "복잡한 인간관계 그 자체가 역설",
+      "translation": "複雜的人際關係本身就是個悖論",
+      "analysis": [
+        { "point": "복잡한 인간관계", "explanation": "複雜的 人際關係" },
+        { "point": "그 자체가", "explanation": "그 (那) + 자체 (本身) + -가 (主格助詞)" },
+        { "point": "역설", "explanation": "名詞，悖論" }
+      ]
+    },
+    {
+      "korean": "관계만 있고 인간이 낄 틈 하나 없어",
+      "translation": "只有關係 卻沒有人能介入的空隙",
+      "analysis": [
+        { "point": "관계만 있고", "explanation": "關係 + -만 (只) + 있다 (有) + -고" },
+        { "point": "인간이 낄 틈", "explanation": "인간 (人) + -이 (主格助詞) + 끼다 (介入，插入) 的將來時定語形 + 틈 (空隙)" },
+        { "point": "하나 없어", "explanation": "一個 也沒有" }
+      ]
+    },
+    {
+      "korean": "평범해지는 게 두려워서 꾸던 꿈",
+      "translation": "因害怕變得平凡而曾做的夢",
+      "analysis": [
+        { "point": "평범해지는 게", "explanation": "평범해지다 (變得平凡) 的名詞化" },
+        { "point": "두려워서", "explanation": "두렵다 (害怕) + -어서 (因為)" },
+        { "point": "꾸던 꿈", "explanation": "꾸다 (做夢) + -던 (過去回想) + 꿈 (夢)" }
+      ]
+    },
+    {
+      "korean": "이젠 평범한 게 부럽군",
+      "translation": "如今卻羨慕平凡啊",
+      "analysis": [
+        { "point": "이젠 평범한 게", "explanation": "如今 平凡的事" },
+        { "point": "부럽군", "explanation": "부럽다 (羨慕) + -군 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "As I stand all alone in the rain",
+      "translation": "當我獨自站在雨中",
+      "analysis": [
+        { "point": "As I stand all alone in the rain", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "자라지 않으면 성장통도 그저 pain",
+      "translation": "若不成長 成長痛也只是 pain",
+      "analysis": [
+        { "point": "자라지 않으면", "explanation": "자라다 (成長) + -지 않으면 (如果不...的話)" },
+        { "point": "성장통도", "explanation": "성장통 (成長痛) + -도 (也)" },
+        { "point": "그저 pain", "explanation": "그저 (只是，僅僅) + pain (英文：痛苦)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (OHHYUK)",
+      "korean": "갈 길이 먼데",
+      "translation": "要去的地方還很遠，但是",
+      "analysis": [
+        { "point": "갈 길이", "explanation": "가다 (去/走) 的將來時定語形態 (-ㄹ/을) + 길 (路) + -이 (主格助詞)" },
+        { "point": "먼데", "explanation": "멀다 (遠) 的詞幹 + -(으)ㄴ데 (連接詞尾，表示背景、轉折或提示)" }
+      ]
+    },
+    {
+      "korean": "빈차가 없네",
+      "translation": "沒有空車呢",
+      "analysis": [
+        { "point": "빈차가", "explanation": "빈차 (空車，指計程車) + -가 (主格助詞)" },
+        { "point": "없네", "explanation": "없다 (沒有) 의詞幹 + -네 (終結詞尾，表示感嘆或新發現)" }
+      ]
+    },
+    {
+      "korean": "비가 올 것 같은데",
+      "translation": "好像快要下雨了，但是",
+      "analysis": [
+        { "point": "비가", "explanation": "비 (雨) + -가 (主格助詞)" },
+        { "point": "올 것 같은데", "explanation": "오다 (來) 的將來時定語形態 (-ㄹ/을) + 것 같다 (慣用型，好像會...) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "처진 어깨엔 오늘의 무게",
+      "translation": "下垂的肩膀上是今日的重量",
+      "analysis": [
+        { "point": "처진 어깨엔", "explanation": "처지다 (下垂，耷拉) 的過去定語形態 (-ㄴ/은) + 어깨 (肩膀) + -엔 (-에는 的縮略，在...之上)" },
+        { "point": "오늘의 무게", "explanation": "오늘 (今天) + -의 (的) + 무게 (重量)" }
+      ]
+    },
+    {
+      "korean": "잠시 내려놓고 싶어",
+      "translation": "想要暫時放下",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時" },
+        { "point": "내려놓고 싶어", "explanation": "내려놓다 (放下) 的詞幹 + -고 싶다 (想做...) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "Home is far away",
+      "translation": "家還很遙遠",
+      "analysis": [
+        { "point": "Home is far away", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Mithra Jin)",
+      "korean": "갈수록 두려워",
+      "translation": "越來越害怕",
+      "analysis": [
+        { "point": "갈수록", "explanation": "副詞，越來越" },
+        { "point": "두려워", "explanation": "두렵다 (害怕) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "뛰고 있지만 뭘 위해서였는지",
+      "translation": "雖然在奔跑 卻是為了什麼",
+      "analysis": [
+        { "point": "뛰고 있지만", "explanation": "뛰다 (跑) + -고 있다 (正在進行) + -지만 (但是)" },
+        { "point": "뭘 위해서였는지", "explanation": "무엇을 (什麼) 的縮略 + 위하다 (為了) 的過去式疑問形" }
+      ]
+    },
+    {
+      "korean": "잊은 두 발과 심장",
+      "translation": "已遺忘的雙腳與心臟",
+      "analysis": [
+        { "point": "잊은", "explanation": "잊다 (忘記) 的過去定語形態" },
+        { "point": "두 발과 심장", "explanation": "雙腳 和 心臟" }
+      ]
+    },
+    {
+      "korean": "그저 짐이 되어버린 꿈",
+      "translation": "只是成了負擔的夢",
+      "analysis": [
+        { "point": "그저", "explanation": "只是" },
+        { "point": "짐이 되어버린", "explanation": "짐 (負擔) + -이 (主格助詞) + 되다 (變成) + -어 버리다 (徹底完成) 的過去定語形態" },
+        { "point": "꿈", "explanation": "夢" }
+      ]
+    },
+    {
+      "korean": "두고 달리는 게 내게 유일한 희망",
+      "translation": "拋下它繼續奔跑 是我唯一的希望",
+      "analysis": [
+        { "point": "두고 달리는 게", "explanation": "두다 (放下，拋下) + -고 + 달리다 (奔跑) 的名詞化" },
+        { "point": "내게 유일한 희망", "explanation": "對我 唯一的 希望" }
+      ]
+    },
+    {
+      "korean": "한 걸음만 더 떼라 부추기네",
+      "translation": "催促著再邁出一步",
+      "analysis": [
+        { "point": "한 걸음만 더", "explanation": "一步 只 更" },
+        { "point": "떼라", "explanation": "떼다 (邁出，撕下) 的非格式體命令形" },
+        { "point": "부추기네", "explanation": "부추기다 (煽動，催促) + -네 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "고개 들었더니 앞은 낭떠러진데",
+      "translation": "抬起頭一看 前方卻是懸崖",
+      "analysis": [
+        { "point": "고개 들었더니", "explanation": "고개(를) 들다 (抬頭) 的過去式 + -(으)더니 (做了...之後發現)" },
+        { "point": "앞은 낭떠러진데", "explanation": "前面(主題) + 낭떠러지 (懸崖) + -이다 (是) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "뒤를 보니 길게 줄 선 많은 기대가",
+      "translation": "回頭一看 排著長隊的許多期待",
+      "analysis": [
+        { "point": "뒤를 보니", "explanation": "後面(受格) + 보다 (看) + -(으)니 (因為/發現)" },
+        { "point": "길게 줄 선", "explanation": "길게 (長長地) + 줄(을) 서다 (排隊) 的過去定語形態" },
+        { "point": "많은 기대가", "explanation": "많은 (多的) + 기대 (期待) + -가 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "날 지탱하는 척하며 등을 떠미네",
+      "translation": "裝作支撐著我 卻在推我的背",
+      "analysis": [
+        { "point": "날 지탱하는 척하며", "explanation": "我(受格) + 지탱하다 (支撐) 的定語形 + 척하다 (假裝) + -(으)며 (同時)" },
+        { "point": "등을 떠미네", "explanation": "등 (背) + -을 (受格助詞) + 떠밀다 (推) + -네" }
+      ]
+    },
+    {
+      "korean": "언젠가 찍고 싶었던 마음의 쉼표가",
+      "translation": "曾想在某天畫下的心的逗號",
+      "analysis": [
+        { "point": "언젠가", "explanation": "某天" },
+        { "point": "찍고 싶었던", "explanation": "찍다 (點，畫) + -고 싶다 (想) 的過去定語形態" },
+        { "point": "마음의 쉼표가", "explanation": "心的 逗號(主格)" }
+      ]
+    },
+    {
+      "korean": "숫자들 사이 뒤엉킨 이상",
+      "translation": "既然已在數字之間糾纏不清",
+      "analysis": [
+        { "point": "숫자들 사이", "explanation": "數字們 之間" },
+        { "point": "뒤엉킨 이상", "explanation": "뒤엉키다 (糾纏在一起) 的過去定語形態 + 이상 (既然...)" }
+      ]
+    },
+    {
+      "korean": "계산적인 이 세상이 들이미는 손",
+      "translation": "這個算計的世界伸出的手",
+      "analysis": [
+        { "point": "계산적인 이 세상이", "explanation": "計算性的 這 世界(主格)" },
+        { "point": "들이미는 손", "explanation": "들이밀다 (猛地伸出) 的定語形態 + 손 (手)" }
+      ]
+    },
+    {
+      "korean": "잡기 싫지만 빈손 되는 게 더 겁이 나",
+      "translation": "雖然不想握住 但更怕變成空手",
+      "analysis": [
+        { "point": "잡기 싫지만", "explanation": "抓(名詞形) + 討厭 + -지만 (但是)" },
+        { "point": "빈손 되는 게", "explanation": "빈손 (空手) + 되다 (變成) 的名詞化" },
+        { "point": "더 겁이 나", "explanation": "更 + 害怕" }
+      ]
+    },
+    {
+      "korean": "붙잡아도 갈 길 가는 게 시간 뿐이겠어?",
+      "translation": "即使抓住也會走上該走之路的 難道只有時間嗎？",
+      "analysis": [
+        { "point": "붙잡아도", "explanation": "붙잡다 (抓住) + -아/어도 (即使)" },
+        { "point": "갈 길 가는 게", "explanation": "該走的路(受格) + 走 的事" },
+        { "point": "시간 뿐이겠어?", "explanation": "時間 + -뿐이다 (只有) + -겠어? (推測疑問)" }
+      ]
+    },
+    {
+      "korean": "먹구름 낀 하늘을 보며",
+      "translation": "看著烏雲密布的天空",
+      "analysis": [
+        { "point": "먹구름 낀 하늘을", "explanation": "먹구름 (烏雲) + 끼다 (籠罩) 的過去定語形態 + 天空(受格)" },
+        { "point": "보며", "explanation": "보다 (看) + -(으)며 (同時)" }
+      ]
+    },
+    {
+      "korean": "한때 나도 꿈이라는 게 있었는데",
+      "translation": "曾經 我也有過所謂夢想的東西，但是",
+      "analysis": [
+        { "point": "한때 나도", "explanation": "曾經 我也" },
+        { "point": "꿈이라는 게 있었는데", "explanation": "夢 + -(이)라는 (所謂...) + 것 (東西) + -이 (主格) + 있다 (有) 的過去式 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "오늘 밤은 잠들기도 어렵네",
+      "translation": "今晚連入睡都困難呢",
+      "analysis": [
+        { "point": "오늘 밤은", "explanation": "今晚(主題)" },
+        { "point": "잠들기도", "explanation": "잠들다 (入睡) 的名詞形 + -도 (也)" },
+        { "point": "어렵네", "explanation": "어렵다 (困難) + -네 (感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "날 위해 잠시",
+      "translation": "為了我 暫時",
+      "analysis": [
+        { "point": "날 위해", "explanation": "我(受格) + 위하다 (為了)" },
+        { "point": "잠시", "explanation": "暫時" }
+      ]
+    },
+    {
+      "korean": "멈춰주면 안 될까요?",
+      "translation": "不能為我停下嗎？",
+      "analysis": [
+        { "point": "멈춰주면", "explanation": "멈추다 (停止) + -어 주다 (為...做) + -(으)면" },
+        { "point": "안 될까요?", "explanation": "안 되다 (不行) + -(으)ㄹ까요? (疑問)" }
+      ]
+    },
+    {
+      "korean": "더는 걷기가 힘든데",
+      "translation": "再走下去很吃力，但是",
+      "analysis": [
+        { "point": "더는", "explanation": "再也" },
+        { "point": "걷기가", "explanation": "걷다 (走路) 的名詞形 + -가 (主格助詞)" },
+        { "point": "힘든데", "explanation": "힘들다 (吃力，辛苦) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "바람이 불고 아직도",
+      "translation": "風在吹 而且還",
+      "analysis": [
+        { "point": "바람이 불고", "explanation": "風(主格) + 불다 (吹) + -고" },
+        { "point": "아직도", "explanation": "仍然" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (OHHYUK)",
+      "korean": "갈 길이 먼데",
+      "translation": "要去的地方還很遠，但是",
+      "analysis": [
+        { "point": "갈 길이", "explanation": "가다 (去/走) 的將來時定語形態 (-ㄹ/을) + 길 (路) + -이 (主格助詞)" },
+        { "point": "먼데", "explanation": "멀다 (遠) 의詞幹 + -(으)ㄴ데 (連接詞尾，表示背景、轉折或提示)" }
+      ]
+    },
+    {
+      "korean": "빈차가 없네",
+      "translation": "沒有空車呢",
+      "analysis": [
+        { "point": "빈차가", "explanation": "빈차 (空車，指計程車) + -가 (主格助詞)" },
+        { "point": "없네", "explanation": "없다 (沒有) 의詞幹 + -네 (終結詞尾，表示感嘆或新發現)" }
+      ]
+    },
+    {
+      "korean": "비가 올 것 같은데",
+      "translation": "好像快要下雨了，但是",
+      "analysis": [
+        { "point": "비가", "explanation": "비 (雨) + -가 (主格助詞)" },
+        { "point": "올 것 같은데", "explanation": "오다 (來) 的將來時定語形態 (-ㄹ/을) + 것 같다 (慣用型，好像會...) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "처진 어깨엔 오늘의 무게",
+      "translation": "下垂的肩膀上是今日的重量",
+      "analysis": [
+        { "point": "처진 어깨엔", "explanation": "처지다 (下垂，耷拉) 的過去定語形態 (-ㄴ/은) + 어깨 (肩膀) + -엔 (-에는 的縮略，在...之上)" },
+        { "point": "오늘의 무게", "explanation": "오늘 (今天) + -의 (的) + 무게 (重量)" }
+      ]
+    },
+    {
+      "korean": "잠시 내려놓고 싶어",
+      "translation": "想要暫時放下",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時" },
+        { "point": "내려놓고 싶어", "explanation": "내려놓다 (放下) 的詞幹 + -고 싶다 (想做...) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "Home is far away",
+      "translation": "家還很遙遠",
+      "analysis": [
+        { "point": "Home is far away", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro (Tablo)",
+      "korean": "이 넓은 세상에 내 자린 없나?",
+      "translation": "在這寬廣的世界沒有我的位置嗎？",
+      "analysis": [
+        { "point": "이 넓은 세상에", "explanation": "這 寬廣的 世界" },
+        { "point": "내 자린 없나?", "explanation": "我的 位置(主題) + 없다 (沒有) + -나? (疑問)" }
+      ]
+    },
+    {
+      "korean": "붐비는 거리에 나 혼자인가?",
+      "translation": "在擁擠的街上只有我一個人嗎？",
+      "analysis": [
+        { "point": "붐비는 거리에", "explanation": "붐비다 (擁擠) 的定語形態 + 거리 (街道) + -에 (在)" },
+        { "point": "나 혼자인가?", "explanation": "我 獨自 + -이다 (是) + -ㄴ가? (疑問)" }
+      ]
+    },
+    {
+      "korean": "날 위한 빈자리가 하나 없나?",
+      "translation": "一個為我而留的空位都沒有嗎？",
+      "analysis": [
+        { "point": "날 위한", "explanation": "為了我的" },
+        { "point": "빈자리가", "explanation": "빈자리 (空位) + -가 (主格助詞)" },
+        { "point": "하나 없나?", "explanation": "一個 也沒有嗎？" }
+      ]
+    },
+    {
+      "korean": "Home is so far away",
+      "translation": "家是如此遙遠",
+      "analysis": [
+        { "point": "Home is so far away", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내가 해야 할 일",
+      "translation": "我該做的事",
+      "analysis": [
+        { "point": "내가 해야 할 일", "explanation": "我(主格) + 하다 (做) + -아야 하다 (必須) 的定語形態 + 일 (事)" }
+      ]
+    },
+    {
+      "korean": "벌어야 할 돈 말고도 뭐가 있었는데",
+      "translation": "除了該賺的錢以外 還曾有過什麼的",
+      "analysis": [
+        { "point": "벌어야 할 돈 말고도", "explanation": "벌다 (賺錢) + -어야 하다 + 錢 + 말고도 (除了...以外還)" },
+        { "point": "뭐가 있었는데", "explanation": "什麼(主格) + 있다 (有) 的過去式 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "내가 해야 할 일",
+      "translation": "我該做的事",
+      "analysis": [
+        { "point": "내가 해야 할 일", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "벌어야 할 돈 말고도 뭐가 있었는데",
+      "translation": "除了該賺的錢以外 還曾有過什麼的",
+      "analysis": [
+        { "point": "벌어야 할 돈 말고도 뭐가 있었는데", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "내가 해야 할 일",
+      "translation": "我該做的事",
+      "analysis": [
+        { "point": "내가 해야 할 일", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "벌어야 할 돈 말고도 뭐가 있었는데",
+      "translation": "除了該賺的錢以外 還曾有過什麼的",
+      "analysis": [
+        { "point": "벌어야 할 돈 말고도 뭐가 있었는데", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "내가 가야 할 길",
+      "translation": "我該走的路",
+      "analysis": [
+        { "point": "내가 가야 할 길", "explanation": "我(主格) + 가다 (走) + -아야 하다 + 길 (路)" }
+      ]
+    },
+    {
+      "korean": "나에게도 꿈같은 게 뭐가 있었는데",
+      "translation": "對我而言 也曾有過像夢一般的事物",
+      "analysis": [
+        { "point": "나에게도", "explanation": "對我 也" },
+        { "point": "꿈같은 게", "explanation": "夢一樣的 事物(主格)" },
+        { "point": "뭐가 있었는데", "explanation": "什麼(主格) + 曾有過" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "멀다", "chinese": "遠", "pos": "形容詞" },
+    { "korean": "빈차", "chinese": "空車", "pos": "名詞" },
+    { "korean": "비", "chinese": "雨", "pos": "名詞" },
+    { "korean": "처지다", "chinese": "下垂/耷拉", "pos": "動詞" },
+    { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
+    { "korean": "무게", "chinese": "重量", "pos": "名詞" },
+    { "korean": "내려놓다", "chinese": "放下", "pos": "動詞" },
+    { "korean": "달라지다", "chinese": "改變/變得不同", "pos": "動詞" },
+    { "korean": "홀로", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "놀이터", "chinese": "遊樂場", "pos": "名詞" },
+    { "korean": "턱걸이", "chinese": "單槓", "pos": "名詞" },
+    { "korean": "오르다", "chinese": "上去/攀登", "pos": "動詞" },
+    { "korean": "여태", "chinese": "至今", "pos": "副詞" },
+    { "korean": "까치발", "chinese": "踮腳尖", "pos": "名詞" },
+    { "korean": "요구되다", "chinese": "被要求", "pos": "動詞 (被動)" },
+    { "korean": "뻗다", "chinese": "伸出", "pos": "動詞" },
+    { "korean": "눈높이", "chinese": "眼高/標準", "pos": "名詞" },
+    { "korean": "갈수록", "chinese": "越來越", "pos": "副詞" },
+    { "korean": "정상", "chinese": "頂峰", "pos": "名詞" },
+    { "korean": "향하다", "chinese": "朝向", "pos": "動詞" },
+    { "korean": "산더미", "chinese": "堆積如山", "pos": "名詞" },
+    { "korean": "스트레스", "chinese": "壓力", "pos": "名詞" },
+    { "korean": "잠재우다", "chinese": "使入睡", "pos": "動詞 (使動)" },
+    { "korean": "수면제", "chinese": "安眠藥", "pos": "名詞" },
+    { "korean": "혀", "chinese": "舌頭", "pos": "名詞" },
+    { "korean": "밤을 새우다", "chinese": "熬夜", "pos": "動詞片語" },
+    { "korean": "선명해지다", "chinese": "變得鮮明", "pos": "動詞" },
+    { "korean": "복잡하다", "chinese": "複雜", "pos": "形容詞" },
+    { "korean": "인간관계", "chinese": "人際關係", "pos": "名詞" },
+    { "korean": "역설", "chinese": "悖論", "pos": "名詞" },
+    { "korean": "틈", "chinese": "空隙", "pos": "名詞" },
+    { "korean": "평범하다", "chinese": "平凡", "pos": "形容詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "꾸다", "chinese": "做(夢)", "pos": "動詞" },
+    { "korean": "부럽다", "chinese": "羨慕", "pos": "形容詞" },
+    { "korean": "자라다", "chinese": "成長", "pos": "動詞" },
+    { "korean": "성장통", "chinese": "成長痛", "pos": "名詞" },
+    { "korean": "뛰다", "chinese": "跑", "pos": "動詞" },
+    { "korean": "짐", "chinese": "負擔/行李", "pos": "名詞" },
+    { "korean": "유일하다", "chinese": "唯一", "pos": "形容詞" },
+    { "korean": "희망", "chinese": "希望", "pos": "名詞" },
+    { "korean": "부추기다", "chinese": "催促/煽動", "pos": "動詞" },
+    { "korean": "낭떠러지", "chinese": "懸崖", "pos": "名詞" },
+    { "korean": "기대", "chinese": "期待", "pos": "名詞" },
+    { "korean": "지탱하다", "chinese": "支撐", "pos": "動詞" },
+    { "korean": "떠밀다", "chinese": "推", "pos": "動詞" },
+    { "korean": "쉼표", "chinese": "逗號/休止符", "pos": "名詞" },
+    { "korean": "뒤엉키다", "chinese": "糾纏在一起", "pos": "動詞" },
+    { "korean": "계산적", "chinese": "計算性的/算計的", "pos": "名詞/冠形詞" },
+    { "korean": "들이밀다", "chinese": "猛地伸出", "pos": "動詞" },
+    { "korean": "빈손", "chinese": "空手", "pos": "名詞" },
+    { "korean": "먹구름", "chinese": "烏雲", "pos": "名詞" },
+    { "korean": "끼다", "chinese": "籠罩/夾帶", "pos": "動詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "吃力/辛苦", "pos": "形容詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "넓다", "chinese": "寬廣", "pos": "形容詞" },
+    { "korean": "자리", "chinese": "位置", "pos": "名詞" },
+    { "korean": "붐비다", "chinese": "擁擠", "pos": "動詞" },
+    { "korean": "거리", "chinese": "街道", "pos": "名詞" },
+    { "korean": "벌다", "chinese": "賺(錢)", "pos": "動詞" },
+    { "korean": "돈", "chinese": "錢", "pos": "名詞" }
+  ]
+}
