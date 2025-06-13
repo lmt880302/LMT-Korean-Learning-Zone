@@ -1,0 +1,341 @@
+{
+  "id": "acourve-watch-from-you",
+  "title": "Watch from you",
+  "artist": "Acourve (어쿠루브)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "또다시 아침은 찾아와",
+      "translation": "早晨又再次來臨",
+      "analysis": [
+        { "point": "또다시", "explanation": "副詞，又再次" },
+        { "point": "아침은", "explanation": "아침 (早晨) + -은 (主題助詞)" },
+        { "point": "찾아와", "explanation": "찾아오다 (來臨，到來) 的非格式體 (-아/어)" }
+      ]
+    },
+    {
+      "korean": "눈을 떠 시계를 보니",
+      "translation": "睜開眼 看了看時鐘",
+      "analysis": [
+        { "point": "눈을 떠", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的連接形 (-어/아)" },
+        { "point": "시계를 보니", "explanation": "시계 (時鐘) + -를 (受格助詞) + 보다 (看) + -(으)니 (連接詞尾，表示做了某動作後發現)" }
+      ]
+    },
+    {
+      "korean": "너에게 좋은 하루",
+      "translation": "你傳來「祝你有個美好的一天」",
+      "analysis": [
+        { "point": "너에게", "explanation": "너 (你) + -에게 (從/給)" },
+        { "point": "좋은 하루", "explanation": "좋다 (好) 的定語形態 (-은) + 하루 (一天)" }
+      ]
+    },
+    {
+      "korean": "메시지 오던 시간",
+      "translation": "訊息曾傳來的時間",
+      "analysis": [
+        { "point": "메시지 오던 시간", "explanation": "메시지 (訊息) + 오다 (來) 的過去回想定語形態 (-던) + 시간 (時間)" }
+      ]
+    },
+    {
+      "korean": "바삐 달리는 버스에 몸을 싣고",
+      "translation": "將身體寄託在匆忙行駛的公車上",
+      "analysis": [
+        { "point": "바삐 달리는", "explanation": "바쁘다 (忙碌) 的副詞形 (-이) + 달리다 (奔跑，行駛) 的定語形態 (-는)" },
+        { "point": "버스에", "explanation": "버스 (公車) + -에 (場所助詞)" },
+        { "point": "몸을 싣고", "explanation": "몸 (身體) + -을 (受格助詞) + 싣다 (裝載，寄託) + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "늦은 건 아닐까 하며 시계를 보니",
+      "translation": "心想是不是晚了 看了看時鐘",
+      "analysis": [
+        { "point": "늦은 건 아닐까 하며", "explanation": "늦다 (晚) 的過去定語形 + 것 (事情) + -은 + 아니다 (不是) + -(으)ㄹ까 하다 (心想是不是...)" },
+        { "point": "시계를 보니", "explanation": "時鐘(受格) + 看(然後發現)" }
+      ]
+    },
+    {
+      "korean": "오늘도 종일 내 생각에 웃길 바라요",
+      "translation": "「希望你今天也一整天想著我而微笑」",
+      "analysis": [
+        { "point": "오늘도 종일", "explanation": "今天也 一整天" },
+        { "point": "내 생각에", "explanation": "我的 想法/思念 + -에 (因)" },
+        { "point": "웃길 바라요", "explanation": "웃다 (笑) 的名詞形 (-기) + -를 (受格) + 바라다 (期盼) 的尊敬階" }
+      ]
+    },
+    {
+      "korean": "네 말에 웃곤 하던 시간",
+      "translation": "曾因你的話而時常微笑的時間",
+      "analysis": [
+        { "point": "네 말에", "explanation": "你的 話 + -에 (因)" },
+        { "point": "웃곤 하던 시간", "explanation": "웃다 (笑) + -곤 하다 (慣用型，時常做...) + -던 (過去回想) + 시간 (時間)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이젠 다시는 더는 오지 않을 너의 말들이",
+      "translation": "現在再也不會傳來的你的話語",
+      "analysis": [
+        { "point": "이젠 다시는 더는", "explanation": "現在 再也 再也不 (強調)" },
+        { "point": "오지 않을", "explanation": "오다 (來) + -지 않다 (不) + -(으)ㄹ (將來時定語)" },
+        { "point": "너의 말들이", "explanation": "你的 話語們(主格)" }
+      ]
+    },
+    {
+      "korean": "나는 한 번만",
+      "translation": "我只要一次",
+      "analysis": [
+        { "point": "나는 한 번만", "explanation": "我(主題) + 一次 + -만 (只)" }
+      ]
+    },
+    {
+      "korean": "그저 한 번만 더 듣고 싶었었는데",
+      "translation": "只是想再多聽一次而已",
+      "analysis": [
+        { "point": "그저 한 번만 더", "explanation": "只是 一次 更" },
+        { "point": "듣고 싶었었는데", "explanation": "듣다 (聽) + -고 싶다 (想) 的過去完成式 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 골라준 시계는",
+      "translation": "你為我挑的時鐘",
+      "analysis": [
+        { "point": "니가", "explanation": "你(主格)" },
+        { "point": "골라준", "explanation": "고르다 (挑選) + -아/어 주다 (為(我)做...) 的過去定語形" },
+        { "point": "시계는", "explanation": "時鐘(主題)" }
+      ]
+    },
+    {
+      "korean": "틀리지도 않고 가는데",
+      "translation": "連錯都不錯地走著，但是",
+      "analysis": [
+        { "point": "틀리지도 않고", "explanation": "틀리다 (錯) + -지도 않다 (連...都不) + -고 (連接)" },
+        { "point": "가는데", "explanation": "가다 (走) + -(으)ㄴ/는데" }
+      ]
+    },
+    {
+      "korean": "너와 나 우리는 대체 어디서부터",
+      "translation": "你和我 我們到底從哪裡開始",
+      "analysis": [
+        { "point": "너와 나 우리는", "explanation": "你和我 我們(強調)" },
+        { "point": "대체", "explanation": "副詞，到底" },
+        { "point": "어디서부터", "explanation": "어디 (哪裡) + -서부터 (從...)" }
+      ]
+    },
+    {
+      "korean": "틀린 건지 난 아직 몰라",
+      "translation": "是錯了的呢 我還不知道",
+      "analysis": [
+        { "point": "틀린 건지", "explanation": "錯了的 事 + -인지 (疑問)" },
+        { "point": "난 아직 몰라", "explanation": "我 還 不知道" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "바쁜 하루를 어떻게든 끝내고",
+      "translation": "不管怎樣結束了忙碌的一天",
+      "analysis": [
+        { "point": "바쁜 하루를", "explanation": "忙碌的 一天(受格)" },
+        { "point": "어떻게든", "explanation": "副詞，不管怎樣，想方設法" },
+        { "point": "끝내고", "explanation": "끝내다 (結束) + -고" }
+      ]
+    },
+    {
+      "korean": "친구를 만나러 가며 시계를 보니",
+      "translation": "去見朋友的路上 看了看時鐘",
+      "analysis": [
+        { "point": "친구를 만나러 가며", "explanation": "朋友(受格) + 만나다 (見面) + -(으)러 (為了) + 가다 (去) + -(으)며 (同時)" },
+        { "point": "시계를 보니", "explanation": "時鐘(受格) + 看(然後發現)" }
+      ]
+    },
+    {
+      "korean": "너무 서둘러 오지는 않아도 된다는",
+      "translation": "曾說「不用太著急來也沒關係」的",
+      "analysis": [
+        { "point": "너무 서둘러", "explanation": "太 著急地" },
+        { "point": "오지는 않아도 된다는", "explanation": "오다 (來) + -지는 않아도 되다 (即使不...也可以) + -는 (引用定語)" }
+      ]
+    },
+    {
+      "korean": "너를 데리러 가던 시간",
+      "translation": "曾去接你的時間",
+      "analysis": [
+        { "point": "너를 데리러", "explanation": "你(受格) + 데리러 가다 (去接...)" },
+        { "point": "가던 시간", "explanation": "去(過去回想) + 時間" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이젠 다시는 더는 오지 않을 너의 말들이",
+      "translation": "現在再也不會傳來的你的話語",
+      "analysis": [
+        { "point": "이젠 다시는 더는", "explanation": "現在 再也 再也不 (強調)" },
+        { "point": "오지 않을", "explanation": "오다 (來) + -지 않다 (不) + -(으)ㄹ (將來時定語)" },
+        { "point": "너의 말들이", "explanation": "你的 話語們(主格)" }
+      ]
+    },
+    {
+      "korean": "나는 한 번만",
+      "translation": "我只要一次",
+      "analysis": [
+        { "point": "나는 한 번만", "explanation": "我(主題) + 一次 + -만 (只)" }
+      ]
+    },
+    {
+      "korean": "그저 한 번만 더 듣고 싶었었는데",
+      "translation": "只是想再多聽一次而已",
+      "analysis": [
+        { "point": "그저 한 번만 더", "explanation": "只是 一次 更" },
+        { "point": "듣고 싶었었는데", "explanation": "듣다 (聽) + -고 싶다 (想) 의過去完成式 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 골라준 시계는",
+      "translation": "你為我挑的時鐘",
+      "analysis": [
+        { "point": "니가", "explanation": "你(主格)" },
+        { "point": "골라준", "explanation": "고르다 (挑選) + -아/어 주다 (為(我)做...) 的過去定語形" },
+        { "point": "시계는", "explanation": "時鐘(主題)" }
+      ]
+    },
+    {
+      "korean": "멈추지도 않고 가는데",
+      "translation": "連停都不停地走著，但是",
+      "analysis": [
+        { "point": "멈추지도 않고", "explanation": "멈추다 (停止) + -지도 않다 (連...都不) + -고" },
+        { "point": "가는데", "explanation": "走著(背景/轉折)" }
+      ]
+    },
+    {
+      "korean": "너와 나 우리는 언제쯤부터 멈춰 선 걸까",
+      "translation": "你和我 我們是從什麼時候開始停下的呢",
+      "analysis": [
+        { "point": "너와 나 우리는", "explanation": "你和我 我們" },
+        { "point": "언제쯤부터", "explanation": "什麼時候左右 開始" },
+        { "point": "멈춰 선 걸까", "explanation": "멈춰 서다 (停下站住) 的過去定語形 + 것 (事情) + -(이)ㄹ까 (疑問)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "흘러가는 시간을 따라",
+      "translation": "跟隨著流逝的時間",
+      "analysis": [
+        { "point": "흘러가는 시간을 따라", "explanation": "流逝的 時間(受格) + 따라 (沿著，跟隨)" }
+      ]
+    },
+    {
+      "korean": "멀어져 가는 너란 사람",
+      "translation": "漸漸遠去的名為你的人",
+      "analysis": [
+        { "point": "멀어져 가는", "explanation": "멀어지다 (變遠) + -어 가다 (逐漸進行) 的定語形" },
+        { "point": "너란 사람", "explanation": "너 (你) + -(이)라는 (所謂的/這樣的) 的縮略 + 사람 (人)" }
+      ]
+    },
+    {
+      "korean": "다신 볼 수 없겠지",
+      "translation": "再也見不到了吧",
+      "analysis": [
+        { "point": "다신", "explanation": "다시는 (再也) 的縮略" },
+        { "point": "볼 수 없겠지", "explanation": "見不到(推測)" }
+      ]
+    },
+    {
+      "korean": "모든 순간이 시간이 니 모습을 하고서",
+      "translation": "所有瞬間和時間都化作了你的模樣",
+      "analysis": [
+        { "point": "모든 순간이 시간이", "explanation": "所有 瞬間(主格) 時間(主格)" },
+        { "point": "니 모습을 하고서", "explanation": "你的 模樣(受格) + 하다 (做/呈現) + -고서 (然後)" }
+      ]
+    },
+    {
+      "korean": "하루에도 몇 번씩",
+      "translation": "一天也只好幾次",
+      "analysis": [
+        { "point": "하루에도", "explanation": "一天也" },
+        { "point": "몇 번씩", "explanation": "幾次(重複)" }
+      ]
+    },
+    {
+      "korean": "내 맘을 흔들고 지나가고 있어",
+      "translation": "動搖著我的心然後經過",
+      "analysis": [
+        { "point": "내 맘을 흔들고", "explanation": "我的 心(受格) + 動搖" },
+        { "point": "지나가고 있어", "explanation": "지나가다 (經過) + -고 있다 (正在進行)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 골라준 시계는",
+      "translation": "你為我挑的時鐘",
+      "analysis": [
+        { "point": "니가", "explanation": "你(主格)" },
+        { "point": "골라준", "explanation": "고르다 (挑選) + -아/어 주다 (為(我)做...) 의過去定語形" },
+        { "point": "시계는", "explanation": "時鐘(主題)" }
+      ]
+    },
+    {
+      "korean": "틀리지도 않고 가는데",
+      "translation": "連錯都不錯地走著，但是",
+      "analysis": [
+        { "point": "틀리지도 않고 가는데", "explanation": "不錯地 + 走著(背景/轉折)" }
+      ]
+    },
+    {
+      "korean": "너와 나 우리는 대체 어디서부터",
+      "translation": "你和我 我們到底從哪裡開始",
+      "analysis": [
+        { "point": "너와 나 우리는", "explanation": "你和我 我們" },
+        { "point": "대체 어디서부터", "explanation": "到底 從哪裡開始" }
+      ]
+    },
+    {
+      "korean": "틀린 건지 난 계속 모른 척 살아가",
+      "translation": "是錯了的呢 我繼續裝作不知道地活著",
+      "analysis": [
+        { "point": "틀린 건지", "explanation": "錯了的 事 + -인지" },
+        { "point": "난 계속", "explanation": "我 繼續" },
+        { "point": "모른 척 살아가", "explanation": "不知道 假裝 + 살아가다 (活下去)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "또다시", "chinese": "又再次", "pos": "副詞" },
+    { "korean": "찾아오다", "chinese": "來臨/到來", "pos": "動詞" },
+    { "korean": "눈을 뜨다", "chinese": "睜開眼睛", "pos": "動詞片語" },
+    { "korean": "시계", "chinese": "時鐘", "pos": "名詞" },
+    { "korean": "메시지", "chinese": "訊息", "pos": "名詞" },
+    { "korean": "바삐", "chinese": "匆忙地", "pos": "副詞" },
+    { "korean": "달리다", "chinese": "奔跑/行駛", "pos": "動詞" },
+    { "korean": "몸을 싣다", "chinese": "寄託身體/乘坐", "pos": "動詞片語" },
+    { "korean": "늦다", "chinese": "晚/遲到", "pos": "動詞/形容詞" },
+    { "korean": "종일", "chinese": "一整天", "pos": "副詞" },
+    { "korean": "생각", "chinese": "想法/思念", "pos": "名詞" },
+    { "korean": "바라다", "chinese": "期盼", "pos": "動詞" },
+    { "korean": "웃곤 하다", "chinese": "時常笑", "pos": "慣用語" },
+    { "korean": "그저", "chinese": "只是/僅僅", "pos": "副詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "고르다", "chinese": "挑選", "pos": "動詞" },
+    { "korean": "틀리다", "chinese": "錯", "pos": "動詞/形容詞" },
+    { "korean": "대체", "chinese": "到底", "pos": "副詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "어떻게든", "chinese": "不管怎樣", "pos": "副詞" },
+    { "korean": "끝내다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "친구", "chinese": "朋友", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "서두르다", "chinese": "著急/倉促", "pos": "動詞" },
+    { "korean": "데리러 가다", "chinese": "去接(人)", "pos": "動詞片語" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "흘러가다", "chinese": "流逝", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "따라", "chinese": "沿著/跟隨", "pos": "助詞" },
+    { "korean": "멀어지다", "chinese": "變遠/疏遠", "pos": "動詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "흔들다", "chinese": "搖動/動搖", "pos": "動詞" },
+    { "korean": "지나가다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "모른 척하다", "chinese": "假裝不知道", "pos": "動詞片語" },
+    { "korean": "살아가다", "chinese": "活下去", "pos": "動詞" }
+  ]
+}

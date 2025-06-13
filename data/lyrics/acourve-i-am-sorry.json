@@ -1,0 +1,392 @@
+{
+  "id": "acourve-i-am-sorry",
+  "title": "I am sorry (내가 미안해)",
+  "artist": "Acourve (어쿠루브)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "많이 힘들었잖아 우리",
+      "translation": "我們曾經很辛苦不是嗎",
+      "analysis": [
+        { "point": "많이", "explanation": "副詞，很，非常" },
+        { "point": "힘들었잖아", "explanation": "힘들다 (辛苦) 的過去式詞幹 힘들었- + -잖아 (終結詞尾，表示提醒對方已知事實或加強語氣)" },
+        { "point": "우리", "explanation": "代名詞，我們" }
+      ]
+    },
+    {
+      "korean": "매일 서로 다투고",
+      "translation": "每天互相爭吵",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天" },
+        { "point": "서로", "explanation": "副詞/代名詞，互相" },
+        { "point": "다투고", "explanation": "다투다 (爭吵) 的詞幹 + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "못난 얼굴을 하고",
+      "translation": "擺著難看的臉色",
+      "analysis": [
+        { "point": "못난", "explanation": "못나다 (不像樣，醜陋) 的定語形態 (-ㄴ/은)" },
+        { "point": "얼굴을 하고", "explanation": "얼굴 (臉) + -을 (受格助詞) + 하다 (做，擺出)" }
+      ]
+    },
+    {
+      "korean": "내 옆에 있어주던 너를",
+      "translation": "曾待在我身旁的你",
+      "analysis": [
+        { "point": "내 옆에", "explanation": "내 (我的) + 옆 (旁邊) + -에 (場所助詞)" },
+        { "point": "있어주던", "explanation": "있다 (在) + -어 주다 (為(我)做...) + -던 (過去回想定語形態)" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)" }
+      ]
+    },
+    {
+      "korean": "당연한 줄 알았어",
+      "translation": "我以為是理所當然的",
+      "analysis": [
+        { "point": "당연한 줄 알았어", "explanation": "당연하다 (當然) 的定語形態 + -(으)ㄴ/는 줄 알다 (慣用型，以為是...)" }
+      ]
+    },
+    {
+      "korean": "그게 내 실수였어",
+      "translation": "那曾是我的失誤",
+      "analysis": [
+        { "point": "그게", "explanation": "그것이 (那個是) 的縮略" },
+        { "point": "내 실수였어", "explanation": "我的 + 실수 (失誤) + -이다 (是) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "니가 영원히",
+      "translation": "你永遠地",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式" },
+        { "point": "영원히", "explanation": "副詞，永遠地" }
+      ]
+    },
+    {
+      "korean": "날 사랑해줄 것만 같았어",
+      "translation": "我曾以為你只會愛著我",
+      "analysis": [
+        { "point": "날 사랑해줄 것만", "explanation": "我(受格) + 愛我 + -(으)ㄹ 것만 (只會...)" },
+        { "point": "같았어", "explanation": "같다 (像...一樣) 的過去式非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 생각해 넌 울었을 거야",
+      "translation": "我想著你 你應該哭了吧",
+      "analysis": [
+        { "point": "널 생각해", "explanation": "你(受格) + 想" },
+        { "point": "넌 울었을 거야", "explanation": "你(主題) + 울다 (哭) + -(았/었)을 것이다 (對過去的推測)" }
+      ]
+    },
+    {
+      "korean": "힘들다는 말을 했어야지",
+      "translation": "你本該說出很辛苦這句話的",
+      "analysis": [
+        { "point": "힘들다는 말을", "explanation": "辛苦(引用定語) + 話(受格)" },
+        { "point": "했어야지", "explanation": "하다 (做/說) + -었어야 하다 (本該做...) + -지 (終結詞尾，帶有責備或惋惜的語氣)" }
+      ]
+    },
+    {
+      "korean": "바보같이 아무것도",
+      "translation": "像傻瓜一樣 什麼也",
+      "analysis": [
+        { "point": "바보같이", "explanation": "傻瓜 + -같이 (像...一樣)" },
+        { "point": "아무것도", "explanation": "任何事 + -도 (也，後常接否定)" }
+      ]
+    },
+    {
+      "korean": "몰랐던 내가 싫어 죽겠어",
+      "translation": "討厭死了一無所知的我",
+      "analysis": [
+        { "point": "몰랐던 내가", "explanation": "不知道(過去定語) + 我(主格)" },
+        { "point": "싫어 죽겠어", "explanation": "싫다 (討厭) + -어 죽겠다 (慣用型，...得要死)" }
+      ]
+    },
+    {
+      "korean": "널 생각해 무책임하다고",
+      "translation": "我想著你 說我不負責任",
+      "analysis": [
+        { "point": "널 생각해", "explanation": "想著你" },
+        { "point": "무책임하다고", "explanation": "무책임하다 (不負責任) + -고 (引用)" }
+      ]
+    },
+    {
+      "korean": "싫어했던 말",
+      "translation": "曾討厭的話",
+      "analysis": [
+        { "point": "싫어했던 말", "explanation": "討厭(過去定語) + 話" }
+      ]
+    },
+    {
+      "korean": "위로가 되지 않는 말인 거 알지만",
+      "translation": "雖然知道是成不了安慰的話",
+      "analysis": [
+        { "point": "위로가 되지 않는 말인 거", "explanation": "安慰(主格) + 不成的 + 話 + -(이)ㄴ 것" },
+        { "point": "알지만", "explanation": "知道 + -지만 (但是)" }
+      ]
+    },
+    {
+      "korean": "그냥 다 내가 미안, 미안해",
+      "translation": "就只是 全都是我對不起，對不起",
+      "analysis": [
+        { "point": "그냥 다", "explanation": "就只是 全都" },
+        { "point": "내가 미안, 미안해", "explanation": "我 + 미안하다 (對不起) (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "노을이 예뻤었던 그날",
+      "translation": "晚霞曾很美的那天",
+      "analysis": [
+        { "point": "노을이", "explanation": "노을 (晚霞) + -이 (主格助詞)" },
+        { "point": "예뻤었던", "explanation": "예쁘다 (漂亮) 的過去完成定語形態 (-았/었었던)" },
+        { "point": "그날", "explanation": "那一天" }
+      ]
+    },
+    {
+      "korean": "어두웠던 니 표정",
+      "translation": "你那曾很陰沉的表情",
+      "analysis": [
+        { "point": "어두웠던", "explanation": "어둡다 (黑暗，陰沉) 的過去定語形態" },
+        { "point": "니 표정", "explanation": "你的 表情" }
+      ]
+    },
+    {
+      "korean": "눈치채진 못했어",
+      "translation": "沒能察覺到",
+      "analysis": [
+        { "point": "눈치채진 못했어", "explanation": "눈치채다 (察覺) 的名詞形 + -는 (主題助詞) 的縮略 + 못하다 (不能做) 的過去式" }
+      ]
+    },
+    {
+      "korean": "솔직히 나도 피곤해서",
+      "translation": "坦白說我也因為很累",
+      "analysis": [
+        { "point": "솔직히", "explanation": "副詞，坦白地" },
+        { "point": "나도 피곤해서", "explanation": "我也 + 피곤하다 (累) + -아서 (因為)" }
+      ]
+    },
+    {
+      "korean": "집에 가고 싶었어",
+      "translation": "曾想回家",
+      "analysis": [
+        { "point": "집에 가고 싶었어", "explanation": "家 + -에 + 가다 (去) + -고 싶다 (想) 的過去式" }
+      ]
+    },
+    {
+      "korean": "그게 내 실수였어",
+      "translation": "那曾是我的失誤",
+      "analysis": [
+        { "point": "그게 내 실수였어", "explanation": "那個是 我的 失誤(過去式)" }
+      ]
+    },
+    {
+      "korean": "이게 마지막 니 모습일 줄은",
+      "translation": "這會是你最後的模樣",
+      "analysis": [
+        { "point": "이게 마지막", "explanation": "這個 最後" },
+        { "point": "니 모습일 줄은", "explanation": "你的 模樣 + -(이)ㄹ 것이다 (將會是) + -(으)ㄴ/는 줄 (表示情況)" }
+      ]
+    },
+    {
+      "korean": "난 몰랐어",
+      "translation": "我不知道",
+      "analysis": [
+        { "point": "난 몰랐어", "explanation": "我 不知道(過去式)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 생각해 넌 울었을 거야",
+      "translation": "我想著你 你應該哭了吧",
+      "analysis": [
+        { "point": "널 생각해", "explanation": "你(受格) + 想" },
+        { "point": "넌 울었을 거야", "explanation": "你(主題) + 울다 (哭) + -(았/었)을 것이다 (對過去的推測)" }
+      ]
+    },
+    {
+      "korean": "힘들다는 말을 했어야지",
+      "translation": "你本該說出很辛苦這句話的",
+      "analysis": [
+        { "point": "힘들다는 말을", "explanation": "辛苦(引用定語) + 話(受格)" },
+        { "point": "했어야지", "explanation": "하다 (做/說) + -었어야 하다 (本該做...) + -지 (終結詞尾，帶有責備或惋惜的語氣)" }
+      ]
+    },
+    {
+      "korean": "바보같이 아무것도 몰랐던",
+      "translation": "像傻瓜一樣什麼都不知道的",
+      "analysis": [
+        { "point": "바보같이 아무것도 몰랐던", "explanation": "像傻瓜一樣 任何事也不知道的(過去定語)" }
+      ]
+    },
+    {
+      "korean": "내가 싫어 죽겠어",
+      "translation": "討厭死我了",
+      "analysis": [
+        { "point": "내가 싫어 죽겠어", "explanation": "我(主格) + 討厭死" }
+      ]
+    },
+    {
+      "korean": "널 생각해 무책임하다고",
+      "translation": "我想著你 說我不負責任",
+      "analysis": [
+        { "point": "널 생각해", "explanation": "想著你" },
+        { "point": "무책임하다고", "explanation": "不負責任(引用)" }
+      ]
+    },
+    {
+      "korean": "싫어했던 말",
+      "translation": "曾討厭的話",
+      "analysis": [
+        { "point": "싫어했던 말", "explanation": "討厭(過去定語) + 話" }
+      ]
+    },
+    {
+      "korean": "위로가 되지 않는 말인 거 알지만",
+      "translation": "雖然知道是成不了安慰的話",
+      "analysis": [
+        { "point": "위로가 되지 않는 말인 거", "explanation": "安慰(主格) + 不成的 + 話 + -(이)ㄴ 것" },
+        { "point": "알지만", "explanation": "知道 + -지만 (但是)" }
+      ]
+    },
+    {
+      "korean": "그냥 다 내가 미안",
+      "translation": "就只是 全都是我對不起",
+      "analysis": [
+        { "point": "그냥 다 내가 미안", "explanation": "就只是 全都 我 對不起" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "나 같은 사람 꼭 지워버려",
+      "translation": "像我這樣的人 一定要抹去",
+      "analysis": [
+        { "point": "나 같은 사람", "explanation": "像我一樣的人" },
+        { "point": "꼭", "explanation": "副詞，一定" },
+        { "point": "지워버려", "explanation": "지우다 (抹去) + -어 버리다 (徹底完成) 的命令形" }
+      ]
+    },
+    {
+      "korean": "생각하는 시간이 아까워",
+      "translation": "連想的時間都可惜",
+      "analysis": [
+        { "point": "생각하는 시간이", "explanation": "想的時間(主格)" },
+        { "point": "아까워", "explanation": "아깝다 (可惜，浪費) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "다정하고 따뜻한 사람을 만나서",
+      "translation": "去遇見溫柔又溫暖的人",
+      "analysis": [
+        { "point": "다정하고 따뜻한 사람을", "explanation": "溫柔的 溫暖的 人(受格)" },
+        { "point": "만나서", "explanation": "遇見(連接形)" }
+      ]
+    },
+    {
+      "korean": "충분히 사랑 받으면서 잘 살아",
+      "translation": "充分地被愛著 好好地活下去",
+      "analysis": [
+        { "point": "충분히 사랑 받으면서", "explanation": "充分地 愛(被動) + -(으)면서 (同時)" },
+        { "point": "잘 살아", "explanation": "好好地 活下去(命令形)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 생각해 넌 울었을 거야",
+      "translation": "我想著你 你應該哭了吧",
+      "analysis": [
+        { "point": "널 생각해", "explanation": "你(受格) + 想" },
+        { "point": "넌 울었을 거야", "explanation": "你(主題) + 울다 (哭) + -(았/었)을 것이다 (對過去的推測)" }
+      ]
+    },
+    {
+      "korean": "힘들다는 말을 했어야지",
+      "translation": "你本該說出很辛苦這句話的",
+      "analysis": [
+        { "point": "힘들다는 말을", "explanation": "辛苦(引用定語) + 話(受格)" },
+        { "point": "했어야지", "explanation": "하다 (做/說) + -었어야 하다 (本該做...) + -지 (終結詞尾，帶有責備或惋惜的語氣)" }
+      ]
+    },
+    {
+      "korean": "바보같이 아무것도 몰랐던",
+      "translation": "像傻瓜一樣什麼都不知道的",
+      "analysis": [
+        { "point": "바보같이 아무것도 몰랐던", "explanation": "像傻瓜一樣 任何事也不知道的(過去定語)" }
+      ]
+    },
+    {
+      "korean": "내가 싫어 죽겠어",
+      "translation": "討厭死我了",
+      "analysis": [
+        { "point": "내가 싫어 죽겠어", "explanation": "我(主格) + 討厭死" }
+      ]
+    },
+    {
+      "korean": "널 생각해 무책임 하다고",
+      "translation": "我想著你 說我不負責任",
+      "analysis": [
+        { "point": "널 생각해", "explanation": "想著你" },
+        { "point": "무책임 하다고", "explanation": "不負責任(引用)" }
+      ]
+    },
+    {
+      "korean": "싫어했던 말",
+      "translation": "曾討厭的話",
+      "analysis": [
+        { "point": "싫어했던 말", "explanation": "討厭(過去定語) + 話" }
+      ]
+    },
+    {
+      "korean": "위로가 되지 않는 말인 거 알지만",
+      "translation": "雖然知道是成不了安慰的話",
+      "analysis": [
+        { "point": "위로가 되지 않는 말인 거", "explanation": "安慰(主格) + 不成的 + 話 + -(이)ㄴ 것" },
+        { "point": "알지만", "explanation": "知道 + -지만 (但是)" }
+      ]
+    },
+    {
+      "korean": "그냥 다 내가 미안 미안해",
+      "translation": "就只是 全都是我對不起 對不起",
+      "analysis": [
+        { "point": "그냥 다 내가 미안 미안해", "explanation": "就只是 全都 我 對不起 (重複)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "힘들다", "chinese": "辛苦/累", "pos": "形容詞" },
+    { "korean": "다투다", "chinese": "爭吵", "pos": "動詞" },
+    { "korean": "못나다", "chinese": "不像樣/醜陋", "pos": "形容詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "당연하다", "chinese": "理所當然", "pos": "形容詞" },
+    { "korean": "실수", "chinese": "失誤", "pos": "名詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "죽겠다", "chinese": "...得要死 (慣用型)", "pos": "補助形容詞" },
+    { "korean": "무책임하다", "chinese": "不負責任", "pos": "形容詞" },
+    { "korean": "위로", "chinese": "安慰", "pos": "名詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "노을", "chinese": "晚霞", "pos": "名詞" },
+    { "korean": "예쁘다", "chinese": "漂亮", "pos": "形容詞" },
+    { "korean": "어둡다", "chinese": "黑暗/陰沉", "pos": "形容詞" },
+    { "korean": "표정", "chinese": "表情", "pos": "名詞" },
+    { "korean": "눈치채다", "chinese": "察覺/看眼色", "pos": "動詞" },
+    { "korean": "솔직히", "chinese": "坦白地", "pos": "副詞" },
+    { "korean": "피곤하다", "chinese": "疲勞", "pos": "形容詞" },
+    { "korean": "집", "chinese": "家", "pos": "名詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "지우다", "chinese": "抹去", "pos": "動詞" },
+    { "korean": "아깝다", "chinese": "可惜/浪費", "pos": "形容詞" },
+    { "korean": "다정하다", "chinese": "溫柔多情", "pos": "形容詞" },
+    { "korean": "따뜻하다", "chinese": "溫暖", "pos": "形容詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "충분히", "chinese": "充分地", "pos": "副詞" },
+    { "korean": "사랑 받다", "chinese": "被愛", "pos": "動詞片語" },
+    { "korean": "살다", "chinese": "活/生活", "pos": "動詞" }
+  ]
+}
