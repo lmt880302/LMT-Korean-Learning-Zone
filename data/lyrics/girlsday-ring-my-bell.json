@@ -1,0 +1,510 @@
+{
+  "id": "girlsday-ring-my-bell",
+  "title": "링마벨 (Ring My Bell)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro: Rap",
+      "korean": "A yo wassup",
+      "translation": "A yo wassup",
+      "analysis": [
+        { "point": "A yo wassup", "explanation": "英文歌詞 (Yo, what's up?)" }
+      ]
+    },
+    {
+      "korean": "we gonna make it showtime huh!?",
+      "translation": "我們要開始表演了 huh!?",
+      "analysis": [
+        { "point": "we gonna make it showtime huh!?", "explanation": "英文歌詞 (gonna 為 going to 的縮寫)" }
+      ]
+    },
+    {
+      "sectionTitle": "Intro",
+      "korean": "R I N G",
+      "translation": "R I N G",
+      "analysis": [
+        { "point": "R I N G", "explanation": "英文拼寫" }
+      ]
+    },
+    {
+      "korean": "Be My Bell",
+      "translation": "成為我的鈴聲",
+      "analysis": [
+        { "point": "Be My Bell", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "Ring my bell",
+      "translation": "敲響我的鈴",
+      "analysis": [
+        { "point": "Ring my bell", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "ring ring ring my bell ho",
+      "translation": "ring ring ring my bell ho",
+      "analysis": [
+        { "point": "ring ring ring my bell ho", "explanation": "英文歌詞 (擬聲詞)" }
+      ]
+    },
+    {
+      "korean": "링링마벨 링마벨 링링마벨 링마벨",
+      "translation": "Ring Ring My Bell, Ring My Bell",
+      "analysis": [
+        { "point": "링링마벨", "explanation": "Ring Ring My Bell 的韓文音譯" }
+      ]
+    },
+    {
+      "korean": "링링마벨 링마벨",
+      "translation": "Ring Ring My Bell, Ring My Bell",
+      "analysis": [
+        { "point": "링링마벨", "explanation": "Ring Ring My Bell 的韓文音譯" }
+      ]
+    },
+    {
+      "korean": "링링 링링 링 링링 링링",
+      "translation": "Ring Ring Ring Ring Ring Ring Ring",
+      "analysis": [
+        { "point": "링링 링링 링 링링 링링", "explanation": "Ring 的韓文音譯 (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "널 보자마자 확실해져",
+      "translation": "一見到你 馬上就確定了",
+      "analysis": [
+        { "point": "널 보자마자", "explanation": "너 (你) + -를 (受格助詞) 的縮略 + 보다 (看) + -자마자 (一...就...)" },
+        { "point": "확실해져", "explanation": "확실해지다 (變得確定) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "네가 오자마자 화끈해져",
+      "translation": "你一來 馬上就變火熱",
+      "analysis": [
+        { "point": "네가 오자마자", "explanation": "你(主格) + 來(一...就...)" },
+        { "point": "화끈해져", "explanation": "화끈해지다 (變得火熱) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "내 맘 널 향해간다고 오오오오오",
+      "translation": "我的心正朝你而去 喔喔喔喔喔",
+      "analysis": [
+        { "point": "내 맘", "explanation": "我的 心" },
+        { "point": "널 향해간다고", "explanation": "你(受格) + 향해가다 (朝...而去) + -고 (強調/連接)" },
+        { "point": "오오오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "따르릉 따르릉 비켜나세요",
+      "translation": "叮鈴鈴 叮鈴鈴 請讓開",
+      "analysis": [
+        { "point": "따르릉", "explanation": "擬聲詞，電話或鈴聲" },
+        { "point": "비켜나세요", "explanation": "비켜나다 (讓開) 的尊敬階命令形" }
+      ]
+    },
+    {
+      "korean": "다른 여자들아 get out my way",
+      "translation": "別的女人們 get out my way",
+      "analysis": [
+        { "point": "다른 여자들아", "explanation": "別的 女人們(呼格)" },
+        { "point": "get out my way", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 꼭 널 가질꺼라고 오오오오오",
+      "translation": "我一定要擁有你 喔喔喔喔喔",
+      "analysis": [
+        { "point": "난 꼭", "explanation": "我 一定" },
+        { "point": "널 가질꺼라고", "explanation": "你(受格) + 가지다 (擁有) + -(으)ㄹ 것이다 + -고 (強調)" },
+        { "point": "오오오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "tonight oh boy im fall in love",
+      "translation": "今晚 oh boy 我戀愛了",
+      "analysis": [
+        { "point": "tonight oh boy im fall in love", "explanation": "英文歌詞 (im 為 I'm 的非正式寫法)" }
+      ]
+    },
+    {
+      "korean": "moon light 저 달을 따라",
+      "translation": "moon light 跟隨著那月亮",
+      "analysis": [
+        { "point": "moon light", "explanation": "英文歌詞" },
+        { "point": "저 달을 따라", "explanation": "那 月亮(受格) + 따라 (跟隨)" }
+      ]
+    },
+    {
+      "korean": "너와 함께 떠나가고 싶어",
+      "translation": "想要和你一起離開",
+      "analysis": [
+        { "point": "너와 함께", "explanation": "和你 一起" },
+        { "point": "떠나가고 싶어", "explanation": "떠나가다 (離開) + -고 싶다 (想)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "링링링 링마벨 머리가 핑핑핑 도는게",
+      "translation": "Ring Ring Ring Ring my bell 頭暈暈地轉",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "머리가 핑핑핑 도는게", "explanation": "頭(主格) + 핑핑핑 (擬態詞，暈眩地轉) + 돌다 (轉) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "가슴이 터질듯해",
+      "translation": "心臟像要爆炸了",
+      "analysis": [
+        { "point": "가슴이", "explanation": "心(主格)" },
+        { "point": "터질듯해", "explanation": "터지다 (爆炸) + -(으)ㄹ 듯하다 (好像要...)" }
+      ]
+    },
+    {
+      "korean": "oh my boy say my name baby baby",
+      "translation": "oh my boy 說我的名字 baby baby",
+      "analysis": [
+        { "point": "oh my boy say my name baby baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "링링링 링마벨 가슴이 쿵쿵쿵 뛰는게",
+      "translation": "Ring Ring Ring Ring my bell 心臟怦怦地跳",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "가슴이 쿵쿵쿵 뛰는게", "explanation": "心(主格) + 쿵쿵쿵 (擬聲詞，心跳聲) + 뛰다 (跳) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "넌 날 미치게해 난 몰라 몰 몰라",
+      "translation": "你讓我瘋狂 我不管 不管啦",
+      "analysis": [
+        { "point": "넌 날 미치게해", "explanation": "你 我(受格) + 미치게 하다 (使瘋狂)" },
+        { "point": "난 몰라 몰 몰라", "explanation": "我 不知道(重複強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "링링마벨 링마벨 링링마벨 링마벨",
+      "translation": "Ring Ring My Bell, Ring My Bell",
+      "analysis": [
+        { "point": "링링마벨", "explanation": "Ring Ring My Bell 的韓文音譯" }
+      ]
+    },
+    {
+      "korean": "링링마벨 링마벨",
+      "translation": "Ring Ring My Bell, Ring My Bell",
+      "analysis": [
+        { "point": "링링마벨", "explanation": "Ring Ring My Bell 的韓文音譯" }
+      ]
+    },
+    {
+      "korean": "링링 링링 링 링링 링링",
+      "translation": "Ring Ring Ring Ring Ring Ring Ring",
+      "analysis": [
+        { "point": "링링 링링 링 링링 링링", "explanation": "Ring 的韓文音譯 (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "이상한 끌림에 떨리는 눈빛",
+      "translation": "因奇怪的吸引而顫抖的眼神",
+      "analysis": [
+        { "point": "이상한 끌림에", "explanation": "奇怪的 吸引 + -에 (因)" },
+        { "point": "떨리는 눈빛", "explanation": "顫抖的 眼神" }
+      ]
+    },
+    {
+      "korean": "심장에 닿은 듯 짜릿한 울림",
+      "translation": "像是觸碰到心臟般酥麻的響聲",
+      "analysis": [
+        { "point": "심장에 닿은 듯", "explanation": "心臟 + -에 + 觸碰到 + - 듯" },
+        { "point": "짜릿한 울림", "explanation": "짜릿하다 (酥麻，刺激) 的定語形 + 울림 (響聲)" }
+      ]
+    },
+    {
+      "korean": "뭐에 난 홀려버린 듯 오오오오오오",
+      "translation": "我像是被什麼迷惑了 喔喔喔喔喔喔",
+      "analysis": [
+        { "point": "뭐에 난 홀려버린 듯", "explanation": "什麼 + -에 + 我(主題) + 홀리다 (被迷惑) + -어 버리다 + 定語形 + 듯" },
+        { "point": "오오오오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "따르릉 따르릉 비켜나세요",
+      "translation": "叮鈴鈴 叮鈴鈴 請讓開",
+      "analysis": [
+        { "point": "따르릉", "explanation": "擬聲詞，電話或鈴聲" },
+        { "point": "비켜나세요", "explanation": "비켜나다 (讓開) 의尊敬階命令形" }
+      ]
+    },
+    {
+      "korean": "다른 여자들아 get out my way",
+      "translation": "別的女人們 get out my way",
+      "analysis": [
+        { "point": "다른 여자들아", "explanation": "別的 女人們(呼格)" },
+        { "point": "get out my way", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 꼭 널 가질꺼라고 오오오오오",
+      "translation": "我一定要擁有你 喔喔喔喔喔",
+      "analysis": [
+        { "point": "난 꼭", "explanation": "我 一定" },
+        { "point": "널 가질꺼라고", "explanation": "你(受格) + 가지다 (擁有) + -(으)ㄹ 것이다 + -고 (強調)" },
+        { "point": "오오오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "tonight oh boy im fall in love",
+      "translation": "今晚 oh boy 我戀愛了",
+      "analysis": [
+        { "point": "tonight oh boy im fall in love", "explanation": "英文歌詞 (im 為 I'm 的非正式寫法)" }
+      ]
+    },
+    {
+      "korean": "moon light 저 달을 따라",
+      "translation": "moon light 跟隨著那月亮",
+      "analysis": [
+        { "point": "moon light", "explanation": "英文歌詞" },
+        { "point": "저 달을 따라", "explanation": "那 月亮(受格) + 따라 (跟隨)" }
+      ]
+    },
+    {
+      "korean": "너와 함께 떠나가고 싶어",
+      "translation": "想要和你一起離開",
+      "analysis": [
+        { "point": "너와 함께", "explanation": "和你 一起" },
+        { "point": "떠나가고 싶어", "explanation": "떠나가다 (離開) + -고 싶다 (想)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "링링링 링마벨 머리가 핑핑핑 도는게",
+      "translation": "Ring Ring Ring Ring my bell 頭暈暈地轉",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "머리가 핑핑핑 도는게", "explanation": "頭(主格) + 핑핑핑 (擬態詞，暈眩地轉) + 돌다 (轉) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "가슴이 터질듯해",
+      "translation": "心臟像要爆炸了",
+      "analysis": [
+        { "point": "가슴이", "explanation": "心(主格)" },
+        { "point": "터질듯해", "explanation": "터지다 (爆炸) + -(으)ㄹ 듯하다 (好像要...)" }
+      ]
+    },
+    {
+      "korean": "oh my boy say my name baby baby",
+      "translation": "oh my boy 說我的名字 baby baby",
+      "analysis": [
+        { "point": "oh my boy say my name baby baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "링링링 링마벨 가슴이 쿵쿵쿵 뛰는게",
+      "translation": "Ring Ring Ring Ring my bell 心臟怦怦地跳",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "가슴이 쿵쿵쿵 뛰는게", "explanation": "心(主格) + 쿵쿵쿵 (擬聲詞，心跳聲) + 뛰다 (跳) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "넌 날 미치게해 난 몰라 몰 몰라",
+      "translation": "你讓我瘋狂 我不管 不管啦",
+      "analysis": [
+        { "point": "넌 날 미치게해", "explanation": "你 我(受格) + 미치게 하다 (使瘋狂)" },
+        { "point": "난 몰라 몰 몰라", "explanation": "我 不知道(重複強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I feel you breathe",
+      "translation": "我感覺到你呼吸",
+      "analysis": [
+        { "point": "I feel you breathe", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I feel you breathe",
+      "translation": "我感覺到你呼吸",
+      "analysis": [
+        { "point": "I feel you breathe", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I feel you breathe",
+      "translation": "我感覺到你呼吸",
+      "analysis": [
+        { "point": "I feel you breathe", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I feel you breathe",
+      "translation": "我感覺到你呼吸",
+      "analysis": [
+        { "point": "I feel you breathe", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "의식을 잃은 듯 내 숨소리도 멍해",
+      "translation": "像是失去意識般 我的呼吸聲也發멍",
+      "analysis": [
+        { "point": "의식을 잃은 듯", "explanation": "意識(受格) + 잃다 (失去) 的定語形 + 듯" },
+        { "point": "내 숨소리도", "explanation": "我的 呼吸聲 也" },
+        { "point": "멍해", "explanation": "멍하다 (發呆，멍하다) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "날깨워줘요 ring ring my bell",
+      "translation": "喚醒我吧 ring ring my bell",
+      "analysis": [
+        { "point": "날깨워줘요", "explanation": "我(受格) + 깨우다 (喚醒) + -어 주다 + -요" },
+        { "point": "ring ring my bell", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "쿵쾅 거리는 내 심장 넌 날 미치게해",
+      "translation": "我砰砰跳的心臟 你讓我瘋狂",
+      "analysis": [
+        { "point": "쿵쾅 거리는 내 심장", "explanation": "쿵쾅거리다 (砰砰跳) 的定語形 + 我的 心臟" },
+        { "point": "넌 날 미치게해", "explanation": "你 我(受格) + 使瘋狂" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "링링링 링마벨 머리가 핑핑핑 도는게",
+      "translation": "Ring Ring Ring Ring my bell 頭暈暈地轉",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "머리가 핑핑핑 도는게", "explanation": "頭(主格) + 핑핑핑 (擬態詞，暈眩地轉) + 돌다 (轉) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "가슴이 터질듯해",
+      "translation": "心臟像要爆炸了",
+      "analysis": [
+        { "point": "가슴이", "explanation": "心(主格)" },
+        { "point": "터질듯해", "explanation": "터지다 (爆炸) + -(으)ㄹ 듯하다 (好像要...)" }
+      ]
+    },
+    {
+      "korean": "oh my boy say my name baby baby",
+      "translation": "oh my boy 說我的名字 baby baby",
+      "analysis": [
+        { "point": "oh my boy say my name baby baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "링링링 링마벨 가슴이 쿵쿵쿵 뛰는게",
+      "translation": "Ring Ring Ring Ring my bell 心臟怦怦地跳",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "가슴이 쿵쿵쿵 뛰는게", "explanation": "心(主格) + 쿵쿵쿵 (擬聲詞，心跳聲) + 뛰다 (跳) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "넌 날 미치게해 난 몰라 몰 몰라",
+      "translation": "你讓我瘋狂 我不管 不管啦",
+      "analysis": [
+        { "point": "넌 날 미치게해", "explanation": "你 我(受格) + 미치게 하다 (使瘋狂)" },
+        { "point": "난 몰라 몰 몰라", "explanation": "我 不知道(重複強調)" }
+      ]
+    },
+    {
+      "korean": "링링링 링마벨 머리가 핑핑핑 도는게",
+      "translation": "Ring Ring Ring Ring my bell 頭暈暈地轉",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "머리가 핑핑핑 도는게", "explanation": "頭(主格) + 핑핑핑 (擬態詞，暈眩地轉) + 돌다 (轉) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "가슴이 터질듯해",
+      "translation": "心臟像要爆炸了",
+      "analysis": [
+        { "point": "가슴이", "explanation": "心(主格)" },
+        { "point": "터질듯해", "explanation": "터지다 (爆炸) + -(으)ㄹ 듯하다 (好像要...)" }
+      ]
+    },
+    {
+      "korean": "oh my boy say my name baby baby",
+      "translation": "oh my boy 說我的名字 baby baby",
+      "analysis": [
+        { "point": "oh my boy say my name baby baby", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "링링링 링마벨 가슴이 쿵쿵쿵 뛰는게",
+      "translation": "Ring Ring Ring Ring my bell 心臟怦怦地跳",
+      "analysis": [
+        { "point": "링링링 링마벨", "explanation": "擬聲詞 + Ring my bell" },
+        { "point": "가슴이 쿵쿵쿵 뛰는게", "explanation": "心(主格) + 쿵쿵쿵 (擬聲詞，心跳聲) + 뛰다 (跳) 的名詞化" }
+      ]
+    },
+    {
+      "korean": "넌 날 미치게해 난 몰라 몰 몰라",
+      "translation": "你讓我瘋狂 我不管 不管啦",
+      "analysis": [
+        { "point": "넌 날 미치게해", "explanation": "你 我(受格) + 미치게 하다 (使瘋狂)" },
+        { "point": "난 몰라 몰 몰라", "explanation": "我 不知道(重複強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "링링마벨 링마벨 링링마벨 링마벨",
+      "translation": "Ring Ring My Bell, Ring My Bell",
+      "analysis": [
+        { "point": "링링마벨", "explanation": "Ring Ring My Bell 的韓文音譯" }
+      ]
+    },
+    {
+      "korean": "링링마벨 링마벨",
+      "translation": "Ring Ring My Bell, Ring My Bell",
+      "analysis": [
+        { "point": "링링마벨", "explanation": "Ring Ring My Bell 的韓文音譯" }
+      ]
+    },
+    {
+      "korean": "링링 링링 링 링링 링링",
+      "translation": "Ring Ring Ring Ring Ring Ring Ring",
+      "analysis": [
+        { "point": "링링 링링 링 링링 링링", "explanation": "Ring 的韓文音譯 (重複)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "확실해지다", "chinese": "變得確定", "pos": "動詞" },
+    { "korean": "화끈해지다", "chinese": "變得火熱", "pos": "動詞" },
+    { "korean": "향해가다", "chinese": "朝...而去", "pos": "動詞" },
+    { "korean": "따르릉", "chinese": "叮鈴鈴 (鈴聲)", "pos": "擬聲詞" },
+    { "korean": "비켜나다", "chinese": "讓開", "pos": "動詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "따라", "chinese": "跟隨", "pos": "助詞" },
+    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "머리", "chinese": "頭", "pos": "名詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "가슴", "chinese": "心/胸口", "pos": "名詞" },
+    { "korean": "터지다", "chinese": "爆炸/裂開", "pos": "動詞" },
+    { "korean": "뛰다", "chinese": "跳", "pos": "動詞" },
+    { "korean": "미치게 하다", "chinese": "使瘋狂", "pos": "動詞片語" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "끌림", "chinese": "吸引", "pos": "名詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸及/到達", "pos": "動詞" },
+    { "korean": "짜릿하다", "chinese": "酥麻/刺激", "pos": "形容詞" },
+    { "korean": "울림", "chinese": "響聲/迴響", "pos": "名詞" },
+    { "korean": "홀리다", "chinese": "被迷惑", "pos": "動詞 (被動)" },
+    { "korean": "의식", "chinese": "意識", "pos": "名詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "숨소리", "chinese": "呼吸聲", "pos": "名詞" },
+    { "korean": "멍하다", "chinese": "發呆/멍하다", "pos": "形容詞" },
+    { "korean": "깨우다", "chinese": "喚醒", "pos": "動詞" },
+    { "korean": "쿵쾅거리다", "chinese": "砰砰跳", "pos": "動詞" }
+  ]
+}

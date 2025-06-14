@@ -1,0 +1,521 @@
+{
+  "id": "girlsday-yeoja-daetongnyeong",
+  "title": "여자대통령 (Female President)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "널 사랑한다고 말해버릴까 싶어 이렇게",
+      "translation": "想要就這樣說出我愛你",
+      "analysis": [
+        { "point": "널 사랑한다고", "explanation": "너 (你) + -를 (受格助詞) 的縮略 + 사랑하다 (愛) + -고 (間接引用)" },
+        { "point": "말해버릴까 싶어", "explanation": "말해버리다 (說出口/脫口而出) 的詞幹 + -(으)ㄹ까 싶다 (慣用型，想要不.../想著要不要...)" },
+        { "point": "이렇게", "explanation": "副詞，這樣地" }
+      ]
+    },
+    {
+      "korean": "매일 가슴 아파 아파",
+      "translation": "每天心都好痛 好痛",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天" },
+        { "point": "가슴 아파", "explanation": "가슴(이) 아프다 (心痛) (重複表示強調)" }
+      ]
+    },
+    {
+      "korean": "아파 아파 아파 아파",
+      "translation": "好痛 好痛 好痛 好痛",
+      "analysis": [
+        { "point": "아파", "explanation": "아프다 (痛) 的非格式體 (重複強調)" }
+      ]
+    },
+    {
+      "korean": "그런데 왜 이래 니 앞에만 서면 작아져",
+      "translation": "可是為什麼會這樣 只要站在你面前就變渺小",
+      "analysis": [
+        { "point": "그런데 왜 이래", "explanation": "그런데 (可是) + 왜 (為何) + 이렇다 (這樣) 的疑問形" },
+        { "point": "니 앞에만 서면", "explanation": "니 (你的) + 앞 (前面) + -에만 (只在...) + 서다 (站立) + -(으)면 (如果)" },
+        { "point": "작아져", "explanation": "작아지다 (變小，變渺小) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "버려 아무것도 아닌 애기같아 애기같아",
+      "translation": "變得什麼都不是 像個孩子一樣 像個孩子一樣",
+      "analysis": [
+        { "point": "버려", "explanation": "-아/어 버리다 (補助動詞，表示動作徹底完成) 的非格式體" },
+        { "point": "아무것도 아닌", "explanation": "任何事 + -도 (也) + 아니다 (不是) 的定語形態" },
+        { "point": "애기같아", "explanation": "애기 (아기 的口語，孩子) + 같다 (像...一樣) 的非格式體 (重複)" }
+      ]
+    },
+    {
+      "korean": "오오오오",
+      "translation": "喔喔喔喔",
+      "analysis": [
+        { "point": "오오오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "너만 생각하면 나는 마음이 좋아",
+      "translation": "只要一想到你 我的心情就很好",
+      "analysis": [
+        { "point": "너만 생각하면", "explanation": "너 (你) + -만 (只) + 생각하다 (想) + -(으)면" },
+        { "point": "나는 마음이 좋아", "explanation": "我(主題) + 心情(主格) + 좋다 (好)" }
+      ]
+    },
+    {
+      "korean": "눈을 뜰 수 없어",
+      "translation": "無法睜開雙眼",
+      "analysis": [
+        { "point": "눈을 뜰 수 없어", "explanation": "眼睛(受格) + 뜨다 (睜開) + -(으)ㄹ 수 없다 (不能)" }
+      ]
+    },
+    {
+      "korean": "Come on Just do it this yo~",
+      "translation": "Come on Just do it this yo~",
+      "analysis": [
+        { "point": "Come on Just do it this yo~", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나를 따라해봐 이렇게",
+      "translation": "像這樣跟著我做做看",
+      "analysis": [
+        { "point": "나를 따라해봐", "explanation": "我(受格) + 따라하다 (模仿，跟隨) + -아/어 보다 (試著做...)" },
+        { "point": "이렇게", "explanation": "這樣地" }
+      ]
+    },
+    {
+      "korean": "Come on Come on 오오오",
+      "translation": "Come on Come on 喔喔喔",
+      "analysis": [
+        { "point": "Come on Come on 오오오", "explanation": "英文歌詞 + 感嘆詞" }
+      ]
+    },
+    {
+      "korean": "Come on Come on 오오오",
+      "translation": "Come on Come on 喔喔喔",
+      "analysis": [
+        { "point": "Come on Come on 오오오", "explanation": "英文歌詞 + 感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 먼저 다가가 사랑한다 말을 해",
+      "translation": "你先靠近我 說愛我吧",
+      "analysis": [
+        { "point": "니가 먼저 다가가", "explanation": "你(主格) + 먼저 (先) + 다가가다 (靠近) 的連接形" },
+        { "point": "사랑한다 말을 해", "explanation": "사랑하다 (愛) + -ㄴ다 (間接引用) + 말(을) 하다 (說話) 的命令形" }
+      ]
+    },
+    {
+      "korean": "이제 그래도 돼 니가 먼저 시작해",
+      "translation": "現在那樣也可以 你先開始吧",
+      "analysis": [
+        { "point": "이제 그래도 돼", "explanation": "現在 + 그렇다 (那樣) + -아/어도 되다 (即使...也可以)" },
+        { "point": "니가 먼저 시작해", "explanation": "你(主格) + 先 + 시작하다 (開始) 的命令形" }
+      ]
+    },
+    {
+      "korean": "우리나라 대통령도 이제 여자분이신데",
+      "translation": "我們國家的總統現在也是女性了",
+      "analysis": [
+        { "point": "우리나라 대통령도", "explanation": "我國 總統 也" },
+        { "point": "이제 여자분이신데", "explanation": "現在 + 여자분 (女性，敬稱) + -이시다 (是，敬稱) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "뭐가 그렇게 심각해 왜 안돼 여자가",
+      "translation": "有什麼那麼嚴重 為何不行呢 女生",
+      "analysis": [
+        { "point": "뭐가 그렇게 심각해", "explanation": "什麼(主格) + 那樣地 + 심각하다 (嚴重) 的疑問形" },
+        { "point": "왜 안돼", "explanation": "為何 不行" },
+        { "point": "여자가", "explanation": "女人/女生(主格)" }
+      ]
+    },
+    {
+      "korean": "먼저 키스하면 잡혀가는 건가?",
+      "translation": "先親吻的話是會被抓走嗎？",
+      "analysis": [
+        { "point": "먼저 키스하면", "explanation": "先 + kiss(英文) + 하다 + -(으)면" },
+        { "point": "잡혀가는 건가?", "explanation": "잡혀가다 (被抓走) + -는 것인가? (是...的嗎？)" }
+      ]
+    },
+    {
+      "korean": "그 애에게 다가가 니가 먼저 키스해",
+      "translation": "走向那個他 你先親吻吧",
+      "analysis": [
+        { "point": "그 애에게", "explanation": "那 個孩子/他 + -에게 (對)" },
+        { "point": "다가가", "explanation": "靠近(連接形)" },
+        { "point": "니가 먼저 키스해", "explanation": "你 先 kiss(命令形)" }
+      ]
+    },
+    {
+      "korean": "이제 그래도 돼 니가 먼저 시작해",
+      "translation": "現在那樣也可以 你先開始吧",
+      "analysis": [
+        { "point": "이제 그래도 돼", "explanation": "現在那樣也可以" },
+        { "point": "니가 먼저 시작해", "explanation": "你先開始吧" }
+      ]
+    },
+    {
+      "korean": "이젠 그래도 돼",
+      "translation": "現在那樣也可以",
+      "analysis": [
+        { "point": "이젠 그래도 돼", "explanation": "現在(強調) + 那樣也可以" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "따라따라따따라따라",
+      "translation": "答啦答啦答答啦答啦",
+      "analysis": [
+        { "point": "따라따라따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "korean": "따라따라따따라따라",
+      "translation": "答啦答啦答答啦答啦",
+      "analysis": [
+        { "point": "따라따라따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "korean": "따라따라따따라따라",
+      "translation": "答啦答啦答答啦答啦",
+      "analysis": [
+        { "point": "따라따라따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "korean": "따라따라따따라따라",
+      "translation": "答啦答啦答答啦答啦",
+      "analysis": [
+        { "point": "따라따라따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "널 좋아한다고 고백해볼까 싶어",
+      "translation": "想要試著告白說喜歡你",
+      "analysis": [
+        { "point": "널 좋아한다고", "explanation": "你(受格) + 喜歡(引用)" },
+        { "point": "고백해볼까 싶어", "explanation": "고백하다 (告白) + -아/어 보다 + -(으)ㄹ까 싶다" }
+      ]
+    },
+    {
+      "korean": "너 땜에 온통 머릿속이",
+      "translation": "因為你 整個腦子裡",
+      "analysis": [
+        { "point": "너 땜에", "explanation": "因為你(口語)" },
+        { "point": "온통 머릿속이", "explanation": "온통 (副詞，整個) + 腦子裡(主格)" }
+      ]
+    },
+    {
+      "korean": "어질 어질 어질 어질 어질",
+      "translation": "暈 暈 暈 暈 暈",
+      "analysis": [
+        { "point": "어질 어질", "explanation": "擬態詞，暈眩的樣子 (重複)" }
+      ]
+    },
+    {
+      "korean": "너만 바라보면 자꾸 웃음이 나와",
+      "translation": "只要看著你 就總會笑出來",
+      "analysis": [
+        { "point": "너만 바라보면", "explanation": "只看著你(如果)" },
+        { "point": "자꾸 웃음이 나와", "explanation": "總是 + 웃음 (笑聲/笑容) + -이 (主格) + 나오다 (出來)" }
+      ]
+    },
+    {
+      "korean": "녹을 것만 같아",
+      "translation": "好像快要融化了",
+      "analysis": [
+        { "point": "녹을 것만 같아", "explanation": "녹다 (融化) + -(으)ㄹ 것만 같다 (好像只會...)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Come on Just do it this yo~",
+      "translation": "Come on Just do it this yo~",
+      "analysis": [
+        { "point": "Come on Just do it this yo~", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "나를 따라해봐 이렇게",
+      "translation": "像這樣跟著我做做看",
+      "analysis": [
+        { "point": "나를 따라해봐", "explanation": "我(受格) + 따라하다 (模仿，跟隨) + -아/어 보다 (試著做...)" },
+        { "point": "이렇게", "explanation": "這樣地" }
+      ]
+    },
+    {
+      "korean": "Come on Come on 오오오",
+      "translation": "Come on Come on 喔喔喔",
+      "analysis": [
+        { "point": "Come on Come on 오오오", "explanation": "英文歌詞 + 感嘆詞" }
+      ]
+    },
+    {
+      "korean": "Come on Come on 오오오",
+      "translation": "Come on Come on 喔喔喔",
+      "analysis": [
+        { "point": "Come on Come on 오오오", "explanation": "英文歌詞 + 感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 먼저 다가가 사랑한다 말을 해",
+      "translation": "你先靠近我 說愛我吧",
+      "analysis": [
+        { "point": "니가 먼저 다가가", "explanation": "你(主格) + 먼저 (先) + 다가가다 (靠近) 的連接形" },
+        { "point": "사랑한다 말을 해", "explanation": "사랑하다 (愛) + -ㄴ다 (間接引用) + 말(을) 하다 (說話) 의命令形" }
+      ]
+    },
+    {
+      "korean": "이제 그래도 돼 니가 먼저 시작해",
+      "translation": "現在那樣也可以 你先開始吧",
+      "analysis": [
+        { "point": "이제 그래도 돼", "explanation": "現在 + 그렇다 (那樣) + -아/어도 되다 (即使...也可以)" },
+        { "point": "니가 먼저 시작해", "explanation": "你(主格) + 先 + 시작하다 (開始) 的命令形" }
+      ]
+    },
+    {
+      "korean": "우리나라 대통령도 이제 여자분이신데",
+      "translation": "我們國家的總統現在也是女性了",
+      "analysis": [
+        { "point": "우리나라 대통령도", "explanation": "我國 總統 也" },
+        { "point": "이제 여자분이신데", "explanation": "現在 + 여자분 (女性，敬稱) + -이시다 (是，敬稱) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "뭐가 그렇게 소심해 왜 안해 여자가",
+      "translation": "有什麼那麼膽小 為何不做呢 女生",
+      "analysis": [
+        { "point": "뭐가 그렇게 소심해", "explanation": "什麼(主格) + 那樣地 + 소심하다 (膽小) 的疑問形" },
+        { "point": "왜 안해", "explanation": "為何 不做" },
+        { "point": "여자가", "explanation": "女人/女生(主格)" }
+      ]
+    },
+    {
+      "korean": "먼저 키스하면 잡혀가는 건가?",
+      "translation": "先親吻的話是會被抓走嗎？",
+      "analysis": [
+        { "point": "먼저 키스하면", "explanation": "先 + kiss(英文) + 하다 + -(으)면" },
+        { "point": "잡혀가는 건가?", "explanation": "잡혀가다 (被抓走) + -는 것인가? (是...的嗎？)" }
+      ]
+    },
+    {
+      "korean": "그애에게 다가가 니가 먼저 키스해",
+      "translation": "走向那個他 你先親吻吧",
+      "analysis": [
+        { "point": "그애에게", "explanation": "那 個孩子/他 + -에게 (對)" },
+        { "point": "다가가", "explanation": "靠近(連接形)" },
+        { "point": "니가 먼저 키스해", "explanation": "你 先 kiss(命令形)" }
+      ]
+    },
+    {
+      "korean": "이제 그래도 돼 니가 먼저 시작해",
+      "translation": "現在那樣也可以 你先開始吧",
+      "analysis": [
+        { "point": "이제 그래도 돼", "explanation": "現在那樣也可以" },
+        { "point": "니가 먼저 시작해", "explanation": "你先開始吧" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "따라따라 따따라따라",
+      "translation": "答啦答啦 答答啦答啦",
+      "analysis": [
+        { "point": "따라따라 따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "korean": "따라따라 따따라따라",
+      "translation": "答啦答啦 答答啦答啦",
+      "analysis": [
+        { "point": "따라따라 따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "korean": "따라따라 따따라따라",
+      "translation": "答啦答啦 答答啦答啦",
+      "analysis": [
+        { "point": "따라따라 따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "korean": "따라따라 따따라따라",
+      "translation": "答啦答啦 答答啦答啦",
+      "analysis": [
+        { "point": "따라따라 따따라따라", "explanation": "哼唱/擬聲詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "걱정하지마 하고 싶은대로 해",
+      "translation": "別擔心 想做什麼就做什麼吧",
+      "analysis": [
+        { "point": "걱정하지마", "explanation": "걱정하다 (擔心) + -지 마" },
+        { "point": "하고 싶은대로 해", "explanation": "想做 + -(으)ㄴ/는 대로 (照著...的樣子) + 하다 的命令形" }
+      ]
+    },
+    {
+      "korean": "난 너의 모든 걸 다 갖고 말겠어",
+      "translation": "我一定要擁有的你的一切",
+      "analysis": [
+        { "point": "난 너의 모든 걸", "explanation": "我 你的 所有事(受格)" },
+        { "point": "다 갖고 말겠어", "explanation": "都 + 가지다 (擁有) + -고 말겠다 (慣用型，表示強烈意志「一定要...」)" }
+      ]
+    },
+    {
+      "korean": "널 사귀자고 할래 널 좋아한다 할래",
+      "translation": "我要說我們交往吧 我要說我喜歡你",
+      "analysis": [
+        { "point": "널 사귀자고 할래", "explanation": "你(受格) + 사귀다 (交往) + -자고 하다 (提議說...) + -(으)ㄹ래 (意志)" },
+        { "point": "널 좋아한다 할래", "explanation": "你(受格) + 喜歡(引用) + -(으)ㄹ래" }
+      ]
+    },
+    {
+      "korean": "널 사랑할래 이제",
+      "translation": "我要愛你 現在",
+      "analysis": [
+        { "point": "널 사랑할래", "explanation": "你(受格) + 愛(意志)" },
+        { "point": "이제", "explanation": "現在" }
+      ]
+    },
+    {
+      "korean": "Come on Like this",
+      "translation": "Come on Like this",
+      "analysis": [
+        { "point": "Come on Like this", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Come on Just do it this yo~",
+      "translation": "Come on Just do it this yo~",
+      "analysis": [
+        { "point": "Come on Just do it this yo~", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "니가 먼저 해 좀 다르게",
+      "translation": "你先做吧 有點不同地",
+      "analysis": [
+        { "point": "니가 먼저 해", "explanation": "你先做吧" },
+        { "point": "좀 다르게", "explanation": "有點 不同地" }
+      ]
+    },
+    {
+      "korean": "Come on Come on 오오오",
+      "translation": "Come on Come on 喔喔喔",
+      "analysis": [
+        { "point": "Come on Come on 오오오", "explanation": "英文歌詞 + 感嘆詞" }
+      ]
+    },
+    {
+      "korean": "Come on Come on 오오오",
+      "translation": "Come on Come on 喔喔喔",
+      "analysis": [
+        { "point": "Come on Come on 오오오", "explanation": "英文歌詞 + 感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 먼저 다가가 내거라고 말을 해",
+      "translation": "你先靠近我 說我是你的吧",
+      "analysis": [
+        { "point": "니가 먼저 다가가", "explanation": "你先靠近我" },
+        { "point": "내거라고 말을 해", "explanation": "내 것 (我的東西) + -(이)라고 하다 + 命令形" }
+      ]
+    },
+    {
+      "korean": "이제 그래도 돼 니가 먼저 시작해",
+      "translation": "現在那樣也可以 你先開始吧",
+      "analysis": [
+        { "point": "이제 그래도 돼", "explanation": "現在那樣也可以" },
+        { "point": "니가 먼저 시작해", "explanation": "你先開始吧" }
+      ]
+    },
+    {
+      "korean": "우리나라 대통령도 이제",
+      "translation": "我們國家的總統現在也",
+      "analysis": [
+        { "point": "우리나라 대통령도 이제", "explanation": "我國 總統 也 現在" }
+      ]
+    },
+    {
+      "korean": "여자분이신데 뭐가 그렇게 심각해",
+      "translation": "是女性了 有什麼那麼嚴重",
+      "analysis": [
+        { "point": "여자분이신데", "explanation": "女性(敬稱) + -이다(敬稱) + -(으)ㄴ데" },
+        { "point": "뭐가 그렇게 심각해", "explanation": "什麼(主格) + 那樣地 + 嚴重" }
+      ]
+    },
+    {
+      "korean": "왜 안돼 여자가 먼저 키스하면 잡혀가는 건가?",
+      "translation": "為何不行呢 女生先親吻的話是會被抓走嗎？",
+      "analysis": [
+        { "point": "왜 안돼 여자가", "explanation": "為何不行 女生(主格)" },
+        { "point": "먼저 키스하면", "explanation": "先 kiss(如果)" },
+        { "point": "잡혀가는 건가?", "explanation": "被抓走 是...嗎？" }
+      ]
+    },
+    {
+      "korean": "그 애에게 다가가 니가 먼저 키스해",
+      "translation": "走向那個他 你先親吻吧",
+      "analysis": [
+        { "point": "그 애에게", "explanation": "對那個他" },
+        { "point": "다가가", "explanation": "靠近(連接形)" },
+        { "point": "니가 먼저 키스해", "explanation": "你 先 kiss(命令形)" }
+      ]
+    },
+    {
+      "korean": "이제 그래도 돼 니가 먼저 시작해",
+      "translation": "現在那樣也可以 你先開始吧",
+      "analysis": [
+        { "point": "이제 그래도 돼", "explanation": "現在那樣也可以" },
+        { "point": "니가 먼저 시작해", "explanation": "你先開始吧" }
+      ]
+    },
+    {
+      "korean": "이젠 그래도 돼",
+      "translation": "現在那樣也可以",
+      "analysis": [
+        { "point": "이젠 그래도 돼", "explanation": "現在(強調) + 那樣也可以" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "말해버리다", "chinese": "說出口/脫口而出", "pos": "動詞" },
+    { "korean": "가슴 아프다", "chinese": "心痛", "pos": "慣用語" },
+    { "korean": "작아지다", "chinese": "變小/變渺小", "pos": "動詞" },
+    { "korean": "애기", "chinese": "孩子 (아기 的口語)", "pos": "名詞" },
+    { "korean": "생각하다", "chinese": "想/思考", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心/心情", "pos": "名詞" },
+    { "korean": "눈을 뜨다", "chinese": "睜開眼睛", "pos": "動詞片語" },
+    { "korean": "따라하다", "chinese": "模仿/跟隨", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近/走近", "pos": "動詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "우리나라", "chinese": "我國", "pos": "名詞" },
+    { "korean": "대통령", "chinese": "總統", "pos": "名詞" },
+    { "korean": "여자분", "chinese": "女性 (敬稱)", "pos": "名詞" },
+    { "korean": "심각하다", "chinese": "嚴重", "pos": "形容詞" },
+    { "korean": "안되다", "chinese": "不行", "pos": "動詞/形容詞" },
+    { "korean": "키스하다", "chinese": "親吻", "pos": "動詞" },
+    { "korean": "잡혀가다", "chinese": "被抓走", "pos": "動詞 (被動)" },
+    { "korean": "고백하다", "chinese": "告白", "pos": "動詞" },
+    { "korean": "온통", "chinese": "整個/全部", "pos": "副詞" },
+    { "korean": "머릿속", "chinese": "腦中", "pos": "名詞" },
+    { "korean": "어질어질", "chinese": "暈眩的", "pos": "擬態詞/副詞" },
+    { "korean": "바라보다", "chinese": "凝視/看著", "pos": "動詞" },
+    { "korean": "웃음이 나오다", "chinese": "笑出來", "pos": "動詞片語" },
+    { "korean": "녹다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "소심하다", "chinese": "膽小", "pos": "形容詞" },
+    { "korean": "걱정하다", "chinese": "擔心", "pos": "動詞" },
+    { "korean": "갖다", "chinese": "擁有 (가지다 的縮略)", "pos": "動詞" },
+    { "korean": "사귀다", "chinese": "交往", "pos": "動詞" },
+    { "korean": "내거", "chinese": "我的東西 (내 것 的口語)", "pos": "代名詞" }
+  ]
+}

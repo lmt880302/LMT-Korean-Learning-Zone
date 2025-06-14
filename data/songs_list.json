@@ -132,6 +132,18 @@
     "lyricsFile": "../data/lyrics/girlsday-hanbeonman-anajwo.json"
   },
   {
+    "id": "girlsday-yeoja-daetongnyeong",
+    "title": "여자대통령 (Female President)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-yeoja-daetongnyeong.json"    
+  }, 
+  {
+    "id": "girlsday-ring-my-bell",
+    "title": "링마벨 (Ring My Bell)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-ring-my-bell.json"
+  }, 
+  {
     "id": "girlsday-i-dont-mind",
     "title": "I Don't Mind",
     "artist": "Girl's Day (걸스데이)",
@@ -143,6 +155,7 @@
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-love-again.json"
   }, 
+  
   {
     "id": "kassy-story-of-night-fall",
      "title": "Story of night fall",
