@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
+    <!-- Removed link to external style.css to use the unified styles below -->
     <style>
         :root {
             --sidebar-width: 260px;
@@ -153,14 +153,33 @@
         .btn-to-flashcards {
              @apply inline-block bg-teal-600 hover:bg-teal-500 text-white font-semibold py-2 px-6 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105 text-center mb-6;
         }
-        /* === 以下是新增的程式碼 === */
+
+        /* === UNIFIED SITE HEADER & NAV STYLES (from grammar page) === */
+        .site-header { transition: background-color 0.3s ease-in-out; }
+        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
+        .nav-link { 
+            color: #CBD5E1; 
+            font-weight: 500; 
+            padding: 0.5rem 1rem; 
+            border-radius: 0.375rem; 
+            transition: color 0.2s, background-color 0.2s; 
+            position: relative;
+        }
+        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
+        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
         .mobile-nav-link {
             padding-top: 0.75rem;
             padding-bottom: 0.75rem;
-            font-size: 1.125rem; /* 放大字體 */
-            text-align: center;      /* 文字置中 */
+            font-size: 1.125rem;
+            text-align: center;
+            display: block;
+            color: #CBD5E1;
+            border-radius: 0.375rem;
         }
-        /* === 新增結束 === */
+        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
+        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
+        /* === END OF UNIFIED STYLES === */
+
         ::-webkit-scrollbar { width: 8px; height: 8px; }
         ::-webkit-scrollbar-track { background: #1E293B; }
         ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
@@ -168,7 +187,8 @@
     </style>
 </head>
 <body class="antialiased">
-    <header class="site-header bg-slate-900 text-white shadow-lg sticky top-0 z-50">
+    <!-- === UPDATED HEADER SECTION (to match grammar page) === -->
+    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
@@ -178,24 +198,25 @@
                     <a href="../index.html" class="nav-link">首頁</a>
                     <a href="../grammar/index.html" class="nav-link">文法教學</a>
                     <a href="./index.html" class="nav-link active">單字學習</a>
-                    <a href="../songs/index.html" class="nav-link">歌曲教學</a> 
+                    <a href="../songs/index.html" class="nav-link">歌曲教學</a>
                 </div>
                 <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
+                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
                         <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
                         </svg>
                     </button>
                 </div>
             </div>
-            <div id="mobile-menu" class="md:hidden hidden pb-3">
-                <a href="../index.html" class="mobile-nav-link block">首頁</a>
-                <a href="../grammar/index.html" class="mobile-nav-link block">文法教學</a>
-                <a href="./index.html" class="mobile-nav-link block active">單字學習</a>
-                <a href="../songs/index.html" class="mobile-nav-link block">歌曲教學</a> 
+            <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
+                <a href="../index.html" class="mobile-nav-link">首頁</a>
+                <a href="../grammar/index.html" class="mobile-nav-link">文法教學</a>
+                <a href="./index.html" class="mobile-nav-link active">單字學習</a>
+                <a href="../songs/index.html" class="mobile-nav-link">歌曲教學</a>
             </div>
         </nav>
     </header>
+    <!-- === END OF UPDATED HEADER SECTION === -->
 
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-12 md:pt-24">
         <h1 class="text-4xl font-bold text-center mb-6 text-slate-100">韓語核心單字</h1>
@@ -218,7 +239,6 @@
                 <p class="text-center text-gray-400">正在載入單字資料...</p>
             </div>
         </div>
-
     </main>
 
     <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
@@ -354,15 +374,22 @@
                     }
                 });
             
-            document.getElementById('current-year').textContent = new Date().getFullYear();
+            // Set current year in footer
+            const yearSpan = document.getElementById('current-year');
+            if (yearSpan) {
+                yearSpan.textContent = new Date().getFullYear();
+            }
 
+            // Mobile menu toggle
             const menuButton = document.getElementById('mobile-menu-button');
             const mobileMenu = document.getElementById('mobile-menu');
             if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
+                menuButton.addEventListener('click', () => {
+                    mobileMenu.classList.toggle('hidden');
+                });
             }
         });
     </script>
-    <script src="../js/main.js"></script>
+    <!-- The external main.js is no longer needed if its only function was the menu toggle -->
 </body>
 </html>
