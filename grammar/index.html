@@ -8,7 +8,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="../css/style.css">
     <style>
         body {
             font-family: 'Roboto', 'Noto Sans KR', sans-serif;
@@ -67,7 +66,7 @@
         }
         .unit-selector-label {
             color: #A5B4FC; 
-            margin-right: 0.75rem; 
+            /* margin-right: 0.75rem; -- This is now handled by Tailwind classes for responsiveness -- */
             font-weight: 500;
         }
         .unit-selector {
@@ -94,10 +93,35 @@
             border-color: #6366F1; 
             box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.4);
         }
+
+        /* === Site Header & Nav Styles (assuming from style.css for completeness) === */
+        .site-header { transition: background-color 0.3s ease-in-out; }
+        .site-title { font-size: 1.5rem; font-weight: 700; color: #F1F5F9; letter-spacing: 0.5px; }
+        .nav-link { 
+            color: #CBD5E1; 
+            font-weight: 500; 
+            padding: 0.5rem 1rem; 
+            border-radius: 0.375rem; 
+            transition: color 0.2s, background-color 0.2s; 
+            position: relative;
+        }
+        .nav-link:hover { color: #FFFFFF; background-color: #334155; }
+        .nav-link.active { color: #FFFFFF; font-weight: 700; background-color: #4F46E5; }
+        .mobile-nav-link {
+            padding-top: 0.75rem;
+            padding-bottom: 0.75rem;
+            font-size: 1.125rem;
+            text-align: center;
+            display: block;
+            color: #CBD5E1;
+            border-radius: 0.375rem;
+        }
+        .mobile-nav-link:hover { color: #FFFFFF; background-color: #334155; }
+        .mobile-nav-link.active { color: #FFFFFF; font-weight: 600; background-color: #4F46E5; }
     </style>
 </head>
 <body class="antialiased">
-    <header class="site-header bg-slate-900 text-white shadow-lg sticky top-0 z-50">
+    <header class="site-header bg-slate-900/70 backdrop-blur-md text-white shadow-lg sticky top-0 z-50">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between h-16">
                 <div class="flex items-center">
@@ -110,38 +134,39 @@
                     <a href="../songs/index.html" class="nav-link">歌曲教學</a>
                 </div>
                 <div class="md:hidden">
-                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white">
+                    <button id="mobile-menu-button" aria-label="開啟選單" class="text-gray-300 hover:text-white focus:outline-none focus:text-white p-2 rounded-md">
                         <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
                         </svg>
                     </button>
                 </div>
             </div>
-            <div id="mobile-menu" class="md:hidden hidden pb-3">
-                <a href="../index.html" class="mobile-nav-link block">首頁</a>
-                <a href="./index.html" class="mobile-nav-link block active">文法教學</a>
-                <a href="../vocabulary/index.html" class="mobile-nav-link block">單字學習</a>
-                <a href="../songs/index.html" class="mobile-nav-link block">歌曲教學</a>
+            <div id="mobile-menu" class="md:hidden hidden pb-3 space-y-1">
+                <a href="../index.html" class="mobile-nav-link">首頁</a>
+                <a href="./index.html" class="mobile-nav-link active">文法教學</a>
+                <a href="../vocabulary/index.html" class="mobile-nav-link">單字學習</a>
+                <a href="../songs/index.html" class="mobile-nav-link">歌曲教學</a>
             </div>
         </nav>
     </header>
 
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
         <h1 class="text-4xl font-bold text-center mb-8 text-slate-100">韓語文法總覽</h1>
-
-        <div id="unit-selector-container" class="unit-selector-container flex items-center justify-center sm:justify-start">
-            <label for="grammar-unit-select" class="unit-selector-label text-lg">選擇單元：</label>
+        
+        <!-- === MODIFIED SECTION === -->
+        <div id="unit-selector-container" class="unit-selector-container flex flex-col sm:flex-row items-center sm:justify-start">
             <select id="grammar-unit-select" class="unit-selector text-base">
                 <option value="">— 請選擇文法分類 —</option>
             </select>
         </div>
+        <!-- === END OF MODIFIED SECTION === -->
 
         <div id="grammar-container" class="space-y-12 mt-6">
             <p class="text-center text-gray-400">正在載入文法資料...</p>
         </div>
     </main>
 
-    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-700">
+    <footer class="bg-slate-900 text-gray-400 text-center py-8 mt-12 border-t border-slate-800">
         <p>&copy; <span id="current-year"></span> Created by LMT. All rights reserved.</p>
         <p class="text-sm">LMT-Korean-Learning-Zone</p>
     </footer>
@@ -152,23 +177,24 @@
 
         function sanitizeHTML(str) {
             if (typeof str !== 'string') return '';
-            var temp = document.createElement('div');
+            const temp = document.createElement('div');
             temp.textContent = str;
             return temp.innerHTML;
         }
         
         function formatKoreanTextForGrammar(text) { 
             if (typeof text !== 'string') return '';
+            // This regex wraps Korean characters/phrases in a span for correct font rendering
             return text.replace(/([\u3131-\uD79D]+(?:[\s\(\)、，。：]\s*[\u3131-\uD79D]+)*|[（(][\u3131-\uD79D\s（）、，。：]+[）)])/g, '<span lang="ko">$1</span>');
         }
 
         function createGrammarRuleCard(rule) { 
-            var card = document.createElement('div');
+            const card = document.createElement('div');
             card.className = 'grammar-card rounded-xl shadow-lg p-6 flex flex-col';
 
             card.innerHTML = `
-                <h4 class="text-xl grammar-rule-title mb-3 pb-2 border-b border-gray-700">${sanitizeHTML(rule.rule)}</h4>
-                <div class="space-y-3 text-gray-300 flex-grow text-sm sm:text-base">
+                <h4 class="text-xl grammar-rule-title mb-3 pb-2 border-b border-slate-700">${sanitizeHTML(rule.rule)}</h4>
+                <div class="space-y-3 text-slate-300 flex-grow text-sm sm:text-base">
                     <p><strong class="detail-label">說明：</strong>${sanitizeHTML(rule.description)}</p>
                     <p class="example-text"><strong class="detail-label">例句：</strong>${formatKoreanTextForGrammar(sanitizeHTML(rule.example))}</p>
                     <p class="vocab-text"><strong class="detail-label">常用單字：</strong>${formatKoreanTextForGrammar(sanitizeHTML(rule.words))}</p>
@@ -179,75 +205,78 @@
         }
 
         function renderGrammar(dataToRender) {
-            var grammarContainer = document.getElementById('grammar-container');
-            var unitSelect = document.getElementById('grammar-unit-select');
+            const grammarContainer = document.getElementById('grammar-container');
+            const unitSelect = document.getElementById('grammar-unit-select');
 
             if (!grammarContainer || !unitSelect) {
-                console.error('文法容器或單元選擇器未找到 (renderGrammar)!');
-                if(grammarContainer) grammarContainer.innerHTML = '<p class="text-red-400 text-center">頁面元件載入錯誤。</p>';
+                console.error('Grammar container or unit selector not found!');
+                if(grammarContainer) grammarContainer.innerHTML = '<p class="text-red-400 text-center">Page element loading error.</p>';
                 return;
             }
             
             grammarContainer.innerHTML = ''; 
 
+            // Clear previous options except the placeholder
             while (unitSelect.options.length > 1) { 
                 unitSelect.remove(1);
             }
+
             dataToRender.forEach(function(categoryItem) {
-                var option = document.createElement('option');
+                const option = document.createElement('option');
                 option.value = categoryItem.id; 
                 option.textContent = categoryItem.category;
                 unitSelect.appendChild(option);
 
-                var categorySection = document.createElement('section');
+                const categorySection = document.createElement('section');
                 categorySection.id = categoryItem.id; 
                 categorySection.className = 'mb-16';
 
-                var categoryTitle = document.createElement('h2');
+                const categoryTitle = document.createElement('h2');
                 categoryTitle.className = 'text-3xl font-bold mb-8 category-heading';
                 categoryTitle.textContent = categoryItem.category;
                 categorySection.appendChild(categoryTitle);
 
-                var rulesGrid = document.createElement('div');
+                const rulesGrid = document.createElement('div');
                 rulesGrid.className = 'grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-6 gap-y-8';
 
                 if (categoryItem.rules) {
-                    categoryItem.rules.forEach(function(rule) {
-                        rulesGrid.appendChild(createGrammarRuleCard(rule));
-                    });
+                    categoryItem.rules.forEach(rule => rulesGrid.appendChild(createGrammarRuleCard(rule)));
                 }
 
                 if (categoryItem.subcategories) {
-                    categoryItem.subcategories.forEach(function(subcategory) {
+                    categoryItem.subcategories.forEach(subcategory => {
                         if (subcategory.name) {
-                            var subCategoryTitleElement = document.createElement('h3');
+                            const subCategoryTitleElement = document.createElement('h3');
                             if(subcategory.id) subCategoryTitleElement.id = subcategory.id; 
                             subCategoryTitleElement.className = 'subcategory-heading col-span-full';
                             subCategoryTitleElement.textContent = subcategory.name;
                             rulesGrid.appendChild(subCategoryTitleElement);
                         }
                         if (subcategory.rules) { 
-                            subcategory.rules.forEach(function(rule) {
-                                rulesGrid.appendChild(createGrammarRuleCard(rule));
-                            });
+                            subcategory.rules.forEach(rule => rulesGrid.appendChild(createGrammarRuleCard(rule)));
                         }
                     });
                 }
                 categorySection.appendChild(rulesGrid);
                 grammarContainer.appendChild(categorySection);
             });
-
+        }
+        
+        // This function handles the smooth scroll when a unit is selected
+        function setupUnitSelectorScroll() {
+            const unitSelect = document.getElementById('grammar-unit-select');
             unitSelect.addEventListener('change', function() {
-                var selectedUnitId = this.value;
+                const selectedUnitId = this.value;
                 if (selectedUnitId) {
-                    var targetElement = document.getElementById(selectedUnitId);
+                    const targetElement = document.getElementById(selectedUnitId);
                     if (targetElement) {
-                        var headerHeight = document.querySelector('header')?.offsetHeight || 0;
-                        var selectorHeight = document.querySelector('.unit-selector-container')?.offsetHeight || 0;
-                        var offset = headerHeight + selectorHeight + 20; 
+                        // Calculate the offset based on the height of sticky elements
+                        const headerHeight = document.querySelector('header')?.offsetHeight || 0;
+                        const selectorHeight = document.querySelector('.unit-selector-container')?.offsetHeight || 0;
+                        const offset = headerHeight + selectorHeight + 20; // 20px extra space
 
-                        var elementPosition = targetElement.getBoundingClientRect().top;
-                        var offsetPosition = elementPosition + window.pageYOffset - offset;
+                        const elementPosition = targetElement.getBoundingClientRect().top;
+                        const offsetPosition = elementPosition + window.pageYOffset - offset;
                         
                         window.scrollTo({
                             top: offsetPosition,
@@ -259,41 +288,43 @@
         }
 
         document.addEventListener('DOMContentLoaded', function() {
-            var grammarContainer = document.getElementById('grammar-container');
-            var jsonFileUrl = new URL('../data/grammar.json', window.location.href).href;
+            const grammarContainer = document.getElementById('grammar-container');
+            const jsonFileUrl = '../data/grammar.json'; // Use a relative path
 
             fetch(jsonFileUrl) 
-                .then(function(response) {
+                .then(response => {
                     if (!response.ok) {
-                        throw new Error('HTTP error ' + response.status + ' while fetching ' + jsonFileUrl);
+                        throw new Error(`HTTP error ${response.status} while fetching ${jsonFileUrl}`);
                     }
                     return response.json();
                 })
-                .then(function(loadedData) {
+                .then(loadedData => {
                     grammarDataGlobal = loadedData; 
-                    renderGrammar(grammarDataGlobal); 
+                    renderGrammar(grammarDataGlobal);
+                    setupUnitSelectorScroll(); // Setup scroll listener after rendering
                 })
-                .catch(function(error) {
-                    console.error('無法載入文法資料:', error);
+                .catch(error => {
+                    console.error('Failed to load grammar data:', error);
                     if(grammarContainer) {
                         grammarContainer.innerHTML = '<p class="text-xl text-red-400 text-center">文法資料載入失敗，請檢查路徑或檔案。</p>';
                     }
                 });
             
-            var yearSpan = document.getElementById('current-year');
+            // Set current year in footer
+            const yearSpan = document.getElementById('current-year');
             if (yearSpan) {
                 yearSpan.textContent = new Date().getFullYear();
             }
 
-            var menuButton = document.getElementById('mobile-menu-button');
-            var mobileMenu = document.getElementById('mobile-menu');
+            // Mobile menu toggle
+            const menuButton = document.getElementById('mobile-menu-button');
+            const mobileMenu = document.getElementById('mobile-menu');
             if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', function() {
+                menuButton.addEventListener('click', () => {
                     mobileMenu.classList.toggle('hidden');
                 });
             }
         });
     </script>
-    <script src="../js/main.js"></script>
 </body>
 </html>

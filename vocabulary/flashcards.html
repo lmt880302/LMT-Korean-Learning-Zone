@@ -72,7 +72,7 @@
         }
         #unfamiliar-toggle { 
             height: 1.125rem; 
-            width: 1.125rem;  
+            width: 1.125rem; 	
             border-radius: 0.25rem; 
             border: 1px solid #475569; 
             background-color: #334155; 
@@ -222,6 +222,14 @@
         ::-webkit-scrollbar-track { background: #1E293B; }
         ::-webkit-scrollbar-thumb { background: #475569; border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #64748B; }
+
+        /* === 新增的程式碼 === */
+        .mobile-nav-link {
+            padding-top: 0.75rem;
+            padding-bottom: 0.75rem;
+            font-size: 1.125rem;
+            text-align: center;
+        }
     </style>
 </head>
 <body class="antialiased">
@@ -303,7 +311,7 @@
         var currentCardIndex = 0;
         var isFlipped = false;
         var currentSelectedCategoryId = "all"; 
-        var isUnfamiliarModeActive = false;    
+        var isUnfamiliarModeActive = false; 	
 
         var flashcardEl = document.getElementById('flashcard');
         var flashcardFrontEl = document.getElementById('flashcard-front');
