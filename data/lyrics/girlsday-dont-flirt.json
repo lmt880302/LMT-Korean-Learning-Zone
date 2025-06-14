@@ -1,0 +1,458 @@
+{
+  "id": "girlsday-dont-flirt",
+  "title": "너, 한눈 팔지마!",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "(Stupid)",
+      "translation": "(Stupid)",
+      "analysis": [
+        { "point": "(Stupid)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "어쩜 그리 많은지",
+      "translation": "怎麼會那麼多",
+      "analysis": [
+        { "point": "어쩜", "explanation": "어쩌면 (怎麼會/或許) 的縮略" },
+        { "point": "그리", "explanation": "그렇게 (那樣地) 的縮略" },
+        { "point": "많은지", "explanation": "많다 (多) 的詞幹 + -은지 (間接疑問後綴，表示感嘆或疑問)" }
+      ]
+    },
+    {
+      "korean": "니가 바란다는 스타일",
+      "translation": "你說你期盼的風格",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式" },
+        { "point": "바란다는", "explanation": "바라다 (期盼) 的詞幹 + -ㄴ다고 하는 (間接引用陳述句的定語形態) 的縮略" },
+        { "point": "스타일", "explanation": "Style (英文：風格)" }
+      ]
+    },
+    {
+      "korean": "미쳐 미쳐 미치겠어 난 정말",
+      "translation": "瘋了 瘋了 我真的快瘋了",
+      "analysis": [
+        { "point": "미쳐", "explanation": "미치다 (瘋狂) 的非格式體 (重複強調)" },
+        { "point": "미치겠어", "explanation": "미치다 (瘋狂) + -겠- (推測/將要) + -어 (非格式體)" },
+        { "point": "난 정말", "explanation": "我 真的" }
+      ]
+    },
+    {
+      "korean": "여자면 아무나 살인미소 날리는 너",
+      "translation": "只要是女人 就對任何人送上殺人微笑的你",
+      "analysis": [
+        { "point": "여자면", "explanation": "여자 (女人) + -(이)면 (如果是...)" },
+        { "point": "아무나", "explanation": "代名詞，任何人" },
+        { "point": "살인미소", "explanation": "名詞，殺人微笑 (指非常有魅力的微笑)" },
+        { "point": "날리는 너", "explanation": "날리다 (放飛，送出) 的定語形態 (-는) + 너 (你)" }
+      ]
+    },
+    {
+      "korean": "미쳐 미쳐 미쳐 미쳐 난 정말",
+      "translation": "瘋了 瘋了 瘋了 瘋了 我真的",
+      "analysis": [
+        { "point": "미쳐", "explanation": "미치다 (瘋狂) 的非格式體 (重複強調)" },
+        { "point": "난 정말", "explanation": "我 真的" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "넌 정말 바보니 니 이상형인 애들",
+      "translation": "你真是傻瓜嗎 那些是你的理想型的孩子們",
+      "analysis": [
+        { "point": "넌 정말 바보니", "explanation": "你 真的 + 바보 (傻瓜) + -이다 (是) 的疑問形 (-니)" },
+        { "point": "니 이상형인 애들", "explanation": "你的 + 이상형 (理想型) + -이다 (是) 的定語形態 (-ㄴ/은) + 애들 (孩子們)" }
+      ]
+    },
+    {
+      "korean": "넌 겉모습만 봐 넌 정말 바보야",
+      "translation": "你只看外表 你真是個傻瓜",
+      "analysis": [
+        { "point": "넌 겉모습만 봐", "explanation": "你 + 겉모습 (外表) + -만 (只) + 보다 (看)" },
+        { "point": "넌 정말 바보야", "explanation": "你 真的 + 傻瓜(非格式體)" }
+      ]
+    },
+    {
+      "korean": "내숭만 십팔단 눈웃음 콧소리로",
+      "translation": "只會裝模作樣十段 用笑眼和鼻音",
+      "analysis": [
+        { "point": "내숭만 십팔단", "explanation": "내숭 (裝模作樣，假裝清純) + -만 (只) + 십팔단 (十八段，指段數極高，為誇張用法)" },
+        { "point": "눈웃음 콧소리로", "explanation": "눈웃음 (笑眼) + 콧소리 (鼻音) + -(으)로 (用...)" }
+      ]
+    },
+    {
+      "korean": "꼬리 달린 여우들 넌 그리 좋니",
+      "translation": "長著尾巴的狐狸們 你就那麼喜歡嗎",
+      "analysis": [
+        { "point": "꼬리 달린 여우들", "explanation": "꼬리 (尾巴) + 달리다 (長著) 的定語形態 + 여우 (狐狸) + -들 (複數)" },
+        { "point": "넌 그리 좋니", "explanation": "你 + 그리 (那樣地) + 좋다 (好，喜歡) + -니 (疑問)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너 한눈 팔지마 제발 딴데 보지마",
+      "translation": "你別三心二意 拜託別看別的地方",
+      "analysis": [
+        { "point": "너 한눈 팔지마", "explanation": "你 + 한눈(을) 팔다 (三心二意，分心) + -지 마 (不要)" },
+        { "point": "제발", "explanation": "副詞，拜託" },
+        { "point": "딴데 보지마", "explanation": "딴데 (別處) + 보다 (看) + -지 마" }
+      ]
+    },
+    {
+      "korean": "함부로도 웃지마 그러다가 다칠 수 있어",
+      "translation": "也別隨便笑 那樣的話可能會受傷",
+      "analysis": [
+        { "point": "함부로도 웃지마", "explanation": "함부로 (隨便地) + -도 (也) + 웃다 (笑) + -지 마" },
+        { "point": "그러다가 다칠 수 있어", "explanation": "그러다 (那樣做) + -다가 (如果...的話) + 다치다 (受傷) + -(으)ㄹ 수 있다 (可能)" }
+      ]
+    },
+    {
+      "korean": "너 한눈 팔지마 다른 여잔 보지마",
+      "translation": "你別三心二意 別看別的女人",
+      "analysis": [
+        { "point": "너 한눈 팔지마", "explanation": "同上" },
+        { "point": "다른 여잔 보지마", "explanation": "다른 (別的) + 여자 (女人) + -는 (主題助詞) 的縮略 + 보다 + -지 마" }
+      ]
+    },
+    {
+      "korean": "나만 나만 바라봐 내가 곁에 있을 때 잘해",
+      "translation": "只看著我 只看著我 我在身邊的時候對我好點",
+      "analysis": [
+        { "point": "나만 나만 바라봐", "explanation": "只看我 (重複)" },
+        { "point": "내가 곁에 있을 때", "explanation": "我(主格) + 곁 (身邊) + -에 + 있다 (在) + -(으)ㄹ 때 (時候)" },
+        { "point": "잘해", "explanation": "잘하다 (做得好，對...好) 的命令形" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "한번만 이번만 참을께 속상하게 하지마",
+      "translation": "就一次 這次我會忍的 別讓我傷心",
+      "analysis": [
+        { "point": "한번만 이번만", "explanation": "就一次 這次" },
+        { "point": "참을께", "explanation": "참다 (忍耐) + -(으)ㄹ게 (意志)" },
+        { "point": "속상하게 하지마", "explanation": "속상하다 (傷心) + -게 하다 (使...) + -지 마" }
+      ]
+    },
+    {
+      "korean": "한번만 더 한번만 더 이러면 볼 생각 하지마",
+      "translation": "再多一次 再多一次 如果這樣就別想見面了",
+      "analysis": [
+        { "point": "한번만 더", "explanation": "再多一次" },
+        { "point": "이러면", "explanation": "이렇다 (這樣) + -(으)면" },
+        { "point": "볼 생각 하지마", "explanation": "보다 (見面) + -(으)ㄹ 생각(을) 하다 + -지 마" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "Hey! Let me Let me Dance,",
+      "translation": "Hey! Let me Let me Dance,",
+      "analysis": [
+        { "point": "Hey! Let me Let me Dance,", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "What's gonna Baby wanna let me let me go",
+      "translation": "What's gonna Baby wanna let me let me go",
+      "analysis": [
+        { "point": "What's gonna Baby wanna let me let me go", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "뭐라 그리 많은지 내게 해달라는 것들",
+      "translation": "怎麼那麼多要我為你做的事",
+      "analysis": [
+        { "point": "뭐라 그리 많은지", "explanation": "뭐라고 (什麼) + 그리 (那樣地) + 많다 (多) + -은지" },
+        { "point": "내게 해달라는 것들", "explanation": "對我 + 해달라다 (請求為(自己)做) 的定語形態 + 事物們" }
+      ]
+    },
+    {
+      "korean": "미쳐 미쳐 미치겠어 난 정말",
+      "translation": "瘋了 瘋了 我真的快瘋了",
+      "analysis": [
+        { "point": "미쳐 미쳐 미치겠어 난 정말", "explanation": "瘋了 瘋了 快瘋了 我 真的" }
+      ]
+    },
+    {
+      "korean": "엄마도 아닌데 이거해줘 저거해줘",
+      "translation": "又不是媽媽 叫我做這個做那個",
+      "analysis": [
+        { "point": "엄마도 아닌데", "explanation": "媽媽 + -도 (也) + 아니다 (不是) + -(으)ㄴ데" },
+        { "point": "이거해줘 저거해줘", "explanation": "做這個給我 做那個給我" }
+      ]
+    },
+    {
+      "korean": "미쳐 미쳐 미쳐 미쳐 난 정말",
+      "translation": "瘋了 瘋了 瘋了 瘋了 我真的",
+      "analysis": [
+        { "point": "미쳐 미쳐 미쳐 미쳐 난 정말", "explanation": "瘋了(重複) 我 真的" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "넌 정말 너무해 니 친구 여자들과",
+      "translation": "你真的太過分了 和你朋友的女朋友們",
+      "analysis": [
+        { "point": "넌 정말 너무해", "explanation": "你 真的 太過分" },
+        { "point": "니 친구 여자들과", "explanation": "你的 朋友 女人們 和" }
+      ]
+    },
+    {
+      "korean": "날 비교하다니 넌 그게말이 돼",
+      "translation": "竟然拿我比較 你覺得那像話嗎",
+      "analysis": [
+        { "point": "날 비교하다니", "explanation": "我(受格) + 비교하다 (比較) + -다니 (表示驚訝或不敢相信)" },
+        { "point": "넌 그게말이 돼", "explanation": "你 那個 + 말이 되다 (像話，有道理) 的疑問形" }
+      ]
+    },
+    {
+      "korean": "좋다고 좋다고 애타게 매달리고",
+      "translation": "說喜歡 說喜歡 焦急地挽留著",
+      "analysis": [
+        { "point": "좋다고 좋다고", "explanation": "喜歡(引用) (重複)" },
+        { "point": "애타게 매달리고", "explanation": "애타게 (焦急地) + 매달리다 (挽留，糾纏) + -고" }
+      ]
+    },
+    {
+      "korean": "나 밖에는 없다던 넌 어디갔니",
+      "translation": "曾說除了我沒有別人的你 去哪了",
+      "analysis": [
+        { "point": "나 밖에는 없다던", "explanation": "我 + -밖에 없다 (除了...沒有) + -던 (過去回想)" },
+        { "point": "넌 어디갔니", "explanation": "你 去哪了" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너 한눈 팔지마 제발 딴데 보지마",
+      "translation": "你別三心二意 拜託別看別的地方",
+      "analysis": [
+        { "point": "너 한눈 팔지마", "explanation": "你 + 한눈(을) 팔다 (三心二意，分心) + -지 마 (不要)" },
+        { "point": "제발", "explanation": "副詞，拜託" },
+        { "point": "딴데 보지마", "explanation": "딴데 (別處) + 보다 (看) + -지 마" }
+      ]
+    },
+    {
+      "korean": "함부로도 웃지마 그러다가 다칠 수 있어",
+      "translation": "也別隨便笑 那樣的話可能會受傷",
+      "analysis": [
+        { "point": "함부로도 웃지마", "explanation": "함부로 (隨便地) + -도 (也) + 웃다 (笑) + -지 마" },
+        { "point": "그러다가 다칠 수 있어", "explanation": "그러다 (那樣做) + -다가 (如果...的話) + 다치다 (受傷) + -(으)ㄹ 수 있다 (可能)" }
+      ]
+    },
+    {
+      "korean": "너 한눈 팔지마 다른 여잔 보지마",
+      "translation": "你別三心二意 別看別的女人",
+      "analysis": [
+        { "point": "너 한눈 팔지마", "explanation": "你 + 한눈(을) 팔다 (三心二意，分心) + -지 마 (不要)" },
+        { "point": "다른 여잔 보지마", "explanation": "다른 (別的) + 여자 (女人) + -는 (主題助詞) 的縮略 + 보다 (看) + -지 마" }
+      ]
+    },
+    {
+      "korean": "나만 나만 바라봐 내가 곁에 있을 때 잘해",
+      "translation": "只看著我 只看著我 我在身邊的時候對我好點",
+      "analysis": [
+        { "point": "나만 나만 바라봐", "explanation": "只看我 (重複)" },
+        { "point": "내가 곁에 있을 때", "explanation": "我(主格) + 곁 (身邊) + -에 + 있다 (在) + -(으)ㄹ 때 (時候)" },
+        { "point": "잘해", "explanation": "잘하다 (做得好，對...好) 的命令形" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "한번만 이번만 참을께 속상하게 하지마",
+      "translation": "就一次 這次我會忍的 別讓我傷心",
+      "analysis": [
+        { "point": "한번만 이번만", "explanation": "就一次 這次" },
+        { "point": "참을께", "explanation": "참다 (忍耐) + -(으)ㄹ게 (意志)" },
+        { "point": "속상하게 하지마", "explanation": "속상하다 (傷心) + -게 하다 (使...) + -지 마" }
+      ]
+    },
+    {
+      "korean": "한번만 더 한번만 더 이러면 볼 생각 하지마",
+      "translation": "再多一次 再多一次 如果這樣就別想見面了",
+      "analysis": [
+        { "point": "한번만 더", "explanation": "再多一次" },
+        { "point": "이러면", "explanation": "이렇다 (這樣) + -(으)면" },
+        { "point": "볼 생각 하지마", "explanation": "보다 (見面) + -(으)ㄹ 생각(을) 하다 + -지 마" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Love is Fantasy,",
+      "translation": "愛是幻想,",
+      "analysis": [
+        { "point": "Love is Fantasy,", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "니가 나를 속여도 사랑하면 믿고 믿어",
+      "translation": "即使你欺騙我 如果愛就會相信再相信",
+      "analysis": [
+        { "point": "니가 나를 속여도", "explanation": "你(主格) + 我(受格) + 속이다 (欺騙) + -아/어도 (即使)" },
+        { "point": "사랑하면", "explanation": "如果愛的話" },
+        { "point": "믿고 믿어", "explanation": "相信(連接) + 相信" }
+      ]
+    },
+    {
+      "korean": "너를 너를 믿고 믿어 Love is Fantasy",
+      "translation": "相信你 相信你 愛是幻想",
+      "analysis": [
+        { "point": "너를 너를 믿고 믿어", "explanation": "你(受格) (重複) + 相信(連接) + 相信" },
+        { "point": "Love is Fantasy", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "난 사랑해 널 사랑해 널",
+      "translation": "我愛你 愛著你",
+      "analysis": [
+        { "point": "난 사랑해 널", "explanation": "我愛你 (重複)" }
+      ]
+    },
+    {
+      "korean": "난 사랑해 널 (사랑해 널)",
+      "translation": "我愛你 (愛著你)",
+      "analysis": [
+        { "point": "난 사랑해 널 (사랑해 널)", "explanation": "我愛你 (愛著你) (包含 Ad-lib)" }
+      ]
+    },
+    {
+      "korean": "사랑은 너와 나",
+      "translation": "愛情是你和我",
+      "analysis": [
+        { "point": "사랑은 너와 나", "explanation": "愛(主題) + 你和我" }
+      ]
+    },
+    {
+      "korean": "그 모습 그대로 늘 향하는 거야",
+      "translation": "總是向著那個原來的模樣",
+      "analysis": [
+        { "point": "그 모습 그대로", "explanation": "那 模樣 + 그대로 (照原樣)" },
+        { "point": "늘 향하는 거야", "explanation": "總是 + 향하다 (朝向) + -는 것이다 (是...的)" }
+      ]
+    },
+    {
+      "korean": "Boy, Give it up",
+      "translation": "Boy, Give it up",
+      "analysis": [
+        { "point": "Boy, Give it up", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "넌 그때 알까",
+      "translation": "到那時你才會懂嗎",
+      "analysis": [
+        { "point": "넌 그때 알까", "explanation": "你 那時 + 懂嗎" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너 한 눈 팔지마 속아 넘어 가지마",
+      "translation": "你別三心二意 別被騙過去",
+      "analysis": [
+        { "point": "너 한 눈 팔지마", "explanation": "你別三心二意" },
+        { "point": "속아 넘어 가지마", "explanation": "속아 넘어가다 (被騙過去) + -지 마" }
+      ]
+    },
+    {
+      "korean": "멀리멀리 가지마 내 옆에만 같이 있어줘",
+      "translation": "不要走遠 不要走遠 只要和我一起待在我身邊",
+      "analysis": [
+        { "point": "멀리멀리 가지마", "explanation": "遠遠地(重複) + 別走" },
+        { "point": "내 옆에만", "explanation": "只在我身邊" },
+        { "point": "같이 있어줘", "explanation": "一起 + 待著(為我)" }
+      ]
+    },
+    {
+      "korean": "너 한눈 팔지마 다른 말은 하지마",
+      "translation": "你別三心二意 別說別的話",
+      "analysis": [
+        { "point": "너 한눈 팔지마", "explanation": "你別三心二意" },
+        { "point": "다른 말은 하지마", "explanation": "別的話(主題) + 別說" }
+      ]
+    },
+    {
+      "korean": "불안하게 하지마 내 마음을 꼭 붙잡아줘",
+      "translation": "別讓我不安 請一定要抓住我的心",
+      "analysis": [
+        { "point": "불안하게 하지마", "explanation": "不安地 + 別做(讓我)" },
+        { "point": "내 마음을", "explanation": "我的 心(受格)" },
+        { "point": "꼭 붙잡아줘", "explanation": "一定 + 抓住(為我)" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "I love you I love you I love you",
+      "translation": "我愛你 我愛你 我愛你",
+      "analysis": [
+        { "point": "I love you I love you I love you", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "내 마음이 들리니",
+      "translation": "聽見我的心了嗎",
+      "analysis": [
+        { "point": "내 마음이 들리니", "explanation": "我的 心(主格) + 들리다 (被聽見) + -니 (疑問)" }
+      ]
+    },
+    {
+      "korean": "You love me You love me",
+      "translation": "你愛我 你愛我",
+      "analysis": [
+        { "point": "You love me You love me", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "You love me 니 맘을 보여줘",
+      "translation": "你愛我 展現你的心吧",
+      "analysis": [
+        { "point": "You love me", "explanation": "英文歌詞" },
+        { "point": "니 맘을 보여줘", "explanation": "你的 心(受格) + 展現(為我)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "어쩜", "chinese": "怎麼會/或許", "pos": "副詞" },
+    { "korean": "바라다", "chinese": "期盼/希望", "pos": "動詞" },
+    { "korean": "스타일", "chinese": "風格", "pos": "名詞" },
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "살인미소", "chinese": "殺人微笑", "pos": "名詞" },
+    { "korean": "날리다", "chinese": "放飛/送出", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "이상형", "chinese": "理想型", "pos": "名詞" },
+    { "korean": "겉모습", "chinese": "外表", "pos": "名詞" },
+    { "korean": "내숭", "chinese": "裝模作樣/假裝清純", "pos": "名詞" },
+    { "korean": "눈웃음", "chinese": "笑眼", "pos": "名詞" },
+    { "korean": "콧소리", "chinese": "鼻音", "pos": "名詞" },
+    { "korean": "꼬리", "chinese": "尾巴", "pos": "名詞" },
+    { "korean": "여우", "chinese": "狐狸", "pos": "名詞" },
+    { "korean": "한눈 팔다", "chinese": "三心二意/分心", "pos": "動詞片語" },
+    { "korean": "딴데", "chinese": "別處", "pos": "名詞" },
+    { "korean": "함부로", "chinese": "隨便地", "pos": "副詞" },
+    { "korean": "다치다", "chinese": "受傷", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "잘하다", "chinese": "做得好/對...好", "pos": "動詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "속상하다", "chinese": "傷心", "pos": "形容詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "해달라다", "chinese": "請求為(自己)做", "pos": "動詞" },
+    { "korean": "엄마", "chinese": "媽媽", "pos": "名詞" },
+    { "korean": "비교하다", "chinese": "比較", "pos": "動詞" },
+    { "korean": "말이 되다", "chinese": "像話/有道理", "pos": "慣用語" },
+    { "korean": "애타다", "chinese": "焦急", "pos": "形容詞" },
+    { "korean": "매달리다", "chinese": "挽留/糾纏", "pos": "動詞" },
+    { "korean": "걱정하다", "chinese": "擔心", "pos": "動詞" },
+    { "korean": "갖다", "chinese": "擁有 (가지다 的縮略)", "pos": "動詞" },
+    { "korean": "사귀다", "chinese": "交往", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "내거", "chinese": "我的東西 (내 것 的口語)", "pos": "代名詞" },
+    { "korean": "대통령", "chinese": "總統", "pos": "名詞" },
+    { "korean": "소심하다", "chinese": "膽小", "pos": "形容詞" },
+    { "korean": "속아 넘어가다", "chinese": "被騙過去", "pos": "動詞片語" },
+    { "korean": "멀리", "chinese": "遠遠地", "pos": "副詞" },
+    { "korean": "불안하다", "chinese": "不安", "pos": "形容詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "들리다", "chinese": "被聽見", "pos": "動詞 (被動)" },
+    { "korean": "보여주다", "chinese": "展現給(人看)", "pos": "動詞" }
+  ]
+}

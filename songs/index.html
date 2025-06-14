@@ -142,15 +142,18 @@
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-24">
         <h1 class="text-4xl font-bold text-center mb-8 text-slate-100">韓語歌曲教學</h1>
         
-        <div class="mb-12 max-w-xl mx-auto">
-            <label for="song-search" class="sr-only">搜尋歌曲</label>
-            <div class="relative">
-                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-                    <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                        <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
-                    </svg>
+        <!-- === MODIFIED: Sticky Search Bar === -->
+        <div class="sticky top-16 z-40 bg-slate-900/90 backdrop-blur-md py-4 mb-8 -mx-4 sm:-mx-6 px-4 sm:px-6 border-b border-slate-700">
+            <div class="max-w-xl mx-auto">
+                <label for="song-search" class="sr-only">搜尋歌曲</label>
+                <div class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                        <svg class="h-5 w-5 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                            <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
+                        </svg>
+                    </div>
+                    <input type="text" id="song-search" class="block w-full pl-12 pr-3 py-3 border border-slate-600 rounded-full leading-5 bg-slate-700 text-slate-200 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 sm:text-base" placeholder="搜尋歌曲名稱或歌手...">
                 </div>
-                <input type="text" id="song-search" class="block w-full pl-12 pr-3 py-3 border border-slate-600 rounded-full leading-5 bg-slate-700 text-slate-200 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 sm:text-base" placeholder="搜尋歌曲名稱或歌手...">
             </div>
         </div>
         

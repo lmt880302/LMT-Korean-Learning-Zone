@@ -138,6 +138,12 @@
     "lyricsFile": "../data/lyrics/girlsday-yeoja-daetongnyeong.json"    
   }, 
   {
+    "id": "girlsday-dont-flirt",
+    "title": "너, 한눈 팔지마!",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-dont-flirt.json"    
+  }, 
+  {
     "id": "girlsday-ring-my-bell",
     "title": "링마벨 (Ring My Bell)",
     "artist": "Girl's Day (걸스데이)",

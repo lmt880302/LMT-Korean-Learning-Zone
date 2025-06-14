@@ -281,6 +281,13 @@
     </header>
     <!-- === END OF UPDATED HEADER SECTION === -->
 
+    <!-- === NEW: BACK TO VOCABULARY LIST BUTTON === -->
+    <a href="./index.html" title="返回單字列表" class="fixed top-20 left-4 md:top-24 md:left-8 z-40 text-slate-400 hover:text-white transition-colors duration-200">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M11 15l-3-3m0 0l3-3m-3 3h8M3 12a9 9 0 1118 0 9 9 0 01-18 0z" />
+        </svg>
+    </a>
+
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-12 md:pt-24">
         <h1 class="text-3xl md:text-4xl font-bold text-center mb-6 text-slate-100">韓語單字閃卡</h1>
         
@@ -330,7 +337,7 @@
         var currentCardIndex = 0;
         var isFlipped = false;
         var currentSelectedCategoryId = "all"; 
-        var isUnfamiliarModeActive = false;     
+        var isUnfamiliarModeActive = false;      
 
         var flashcardEl = document.getElementById('flashcard');
         var flashcardFrontEl = document.getElementById('flashcard-front');

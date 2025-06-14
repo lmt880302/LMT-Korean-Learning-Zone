@@ -124,13 +124,18 @@
         }
         .mobile-analysis-content.open {
             margin-top: 1rem;
-            max-height: 500px;
+            max-height: 500px; /* Adjust as needed */
             padding: 0 0 0.5rem;
         }
 
-        .copy-lyrics-btn {
-            @apply bg-teal-600 hover:bg-teal-500 text-white font-semibold py-2 px-5 rounded-lg shadow-md transition-all duration-300 ease-in-out transform hover:scale-105;
+        /* === UPDATED BUTTON STYLE === */
+        .action-btn {
+            @apply inline-flex items-center justify-center font-semibold py-2 px-5 rounded-full 
+                   border transition-all duration-300 ease-in-out transform 
+                   hover:-translate-y-1 focus:outline-none focus:ring-2 
+                   focus:ring-offset-2 focus:ring-offset-slate-900;
         }
+        
         .copy-notification {
             position: fixed;
             bottom: 2rem;
@@ -213,6 +218,13 @@
     </header>
     <!-- === END OF UPDATED HEADER SECTION === -->
 
+    <!-- === NEW: BACK TO SONG LIST BUTTON === -->
+    <a href="./index.html" title="返回歌曲列表" class="fixed top-20 left-4 md:top-24 md:left-8 z-40 text-slate-400 hover:text-white transition-colors duration-200">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M11 15l-3-3m0 0l3-3m-3 3h8M3 12a9 9 0 1118 0 9 9 0 01-18 0z" />
+        </svg>
+    </a>
+
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-12">
         <div id="song-details-container" class="grid grid-cols-1 md:grid-cols-3 md:gap-x-12">
             <!-- Lyrics Column -->
@@ -222,15 +234,15 @@
             <!-- Desktop Learning Panel Column -->
             <div class="hidden md:block" id="learning-panel-column">
                  <div class="learning-panel">
-                     <div id="analysis-panel" class="learning-card">
-                           <h3 class="learning-card-title">
+                      <div id="analysis-panel" class="learning-card">
+                            <h3 class="learning-card-title">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" /></svg>
                                 <span>單字文法解析</span>
-                           </h3>
-                           <div id="analysis-content">
-                             <p class="text-slate-400 text-sm">請點擊左側任一句歌詞，以查看詳細解析。</p>
-                           </div>
-                     </div>
+                            </h3>
+                            <div id="analysis-content">
+                                <p class="text-slate-400 text-sm">請點擊左側任一句歌詞，以查看詳細解析。</p>
+                            </div>
+                      </div>
                  </div>
             </div>
         </div>
@@ -280,7 +292,11 @@
                 document.execCommand('copy');
                 if(buttonElement) {
                     const originalText = buttonElement.innerHTML;
-                    buttonElement.innerHTML = '已複製!';
+                    buttonElement.innerHTML = `
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+                        </svg>
+                        已複製!`;
                     buttonElement.disabled = true;
                     setTimeout(() => {
                         buttonElement.innerHTML = originalText;
@@ -330,14 +346,17 @@
 
             document.title = `${sanitizeHTML(songData.title)} - 歌曲學習 - LMT-Korean-Learning-Zone`;
 
+            // === UPDATED: Removed old back button from this section ===
             const songHeaderHTML = `
                 <div class="text-center mb-8 pb-6 border-b border-slate-700">
                     <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-2">${sanitizeHTML(songData.title)}</h1>
                     <p class="text-xl text-slate-400 mb-6">${sanitizeHTML(songData.artist)}</p>
-                    <button id="copy-lyrics-btn" class="copy-lyrics-btn" title="複製歌名與韓文歌詞">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5 mr-2 -mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 012-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
-                        複製歌詞
-                    </button>
+                    <div class="flex justify-center items-center flex-wrap gap-4">
+                        <button id="copy-lyrics-btn" class="action-btn text-white bg-gradient-to-r from-blue-500 to-indigo-600 border-transparent shadow-lg shadow-indigo-500/30 hover:shadow-xl hover:shadow-indigo-500/40" title="複製歌名與韓文歌詞">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5 mr-2 -mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
+                            複製歌詞
+                        </button>
+                    </div>
                 </div>`;
             lyricsColumn.innerHTML = songHeaderHTML;
             
