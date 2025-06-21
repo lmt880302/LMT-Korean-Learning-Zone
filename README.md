@@ -8,9 +8,9 @@
 │   └── style.css                  # CSS 樣式
 ├── data/
 │   ├── lyrics/                    # 歌詞 JSON 檔案
-│   │   ├── acourve-chwihangime.json
-│   │   ├── acourve-geuge-mworago.json
-│   │   ├── acourve-maeumeul-beneun-nat.json
+│   │   ├── mind-u-chwihangime.json
+│   │   ├── mind-u-geuge-mworago.json
+│   │   ├── mind-u-maeumeul-beneun-nat.json
 │   │   ├── another-song.json
 │   │   ├── epikhigh-chupda.json
 │   │   ├── epikhigh-nae-maeum-deullinayo.json

@@ -1,0 +1,390 @@
+{
+  "id": "girlsday-oh-my-god",
+  "title": "Oh! My God",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Oh! My God",
+      "translation": "Oh! My God",
+      "analysis": [
+        { "point": "Oh! My God", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "여자 맘을 몰라 넌 몰라",
+      "translation": "你不懂女人的心 你不懂",
+      "analysis": [
+        { "point": "여자 맘을", "explanation": "여자 (女人) + 맘 (마음 的縮略，心) + -을 (受格助詞)" },
+        { "point": "몰라 넌 몰라", "explanation": "모르다 (不知道) 的非格式體 + 너 (你) + -는 (主題助詞) + 모르다 (重複強調)" }
+      ]
+    },
+    {
+      "korean": "꼭 말해줘야 너는 아니 아니",
+      "translation": "一定要說出口你才會知道嗎 知道嗎",
+      "analysis": [
+        { "point": "꼭 말해줘야", "explanation": "꼭 (一定) + 말하다 (說) + -아/어 주다 (為(某人)做...) + -야 (必須)" },
+        { "point": "너는 아니", "explanation": "你(主題) + 알다 (知道) 的疑問形 (-니)" }
+      ]
+    },
+    {
+      "korean": "오빤 정말 이래서 안돼",
+      "translation": "哥哥你真的因為這樣才不行",
+      "analysis": [
+        { "point": "오빤", "explanation": "오빠 (哥哥) + -는 (主題助詞) 的縮略" },
+        { "point": "정말 이래서", "explanation": "真的 + 이렇다 (這樣) + -아서 (因為)" },
+        { "point": "안돼", "explanation": "안되다 (不行)" }
+      ]
+    },
+    {
+      "korean": "뭘 잘못했는지도 몰라 몰라",
+      "translation": "連自己做錯了什麼都不知道 不知道",
+      "analysis": [
+        { "point": "뭘 잘못했는지도", "explanation": "무엇을 (什麼) 的縮略 + 잘못하다 (做錯) 的過去式 + -는지도 (連...都)" },
+        { "point": "몰라 몰라", "explanation": "不知道 (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "맨날 미안하단말 맨날 사랑한단말",
+      "translation": "總是說對不起的話 總是說愛我的話",
+      "analysis": [
+        { "point": "맨날", "explanation": "副詞，每天，總是" },
+        { "point": "미안하단말", "explanation": "미안하다 (對不起) + -다는 말 (說是...的話)" },
+        { "point": "사랑한단말", "explanation": "사랑하다 (愛) + -ㄴ다는 말 (說是...的話)" }
+      ]
+    },
+    {
+      "korean": "이제 더는 못믿겠어 NO NO",
+      "translation": "現在再也無法相信了 NO NO",
+      "analysis": [
+        { "point": "이제 더는", "explanation": "現在 再也" },
+        { "point": "못믿겠어", "explanation": "못 (副詞，不能) + 믿다 (相信) + -겠어 (推測/意志)" },
+        { "point": "NO NO", "explanation": "英文" }
+      ]
+    },
+    {
+      "korean": "맨날 노력한다고 맨날 잘하겠다고",
+      "translation": "總是說會努力 總是說會好好做",
+      "analysis": [
+        { "point": "맨날 노력한다고", "explanation": "總是 + 努力(引用)" },
+        { "point": "맨날 잘하겠다고", "explanation": "總是 + 會好好做(引用)" }
+      ]
+    },
+    {
+      "korean": "내맘하나 몰라주니",
+      "translation": "連我的一個心意都不理解",
+      "analysis": [
+        { "point": "내맘하나", "explanation": "我的心意一個" },
+        { "point": "몰라주니", "explanation": "모르다 (不知道) + -아/어 주다 (為...做，此處指不體諒) + -니 (疑問)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "OH MY GOD OH MY GOD OH MY GOD GOD",
+      "translation": "OH MY GOD OH MY GOD OH MY GOD GOD",
+      "analysis": [
+        { "point": "OH MY GOD", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "정말 눈치코치 하나없어 없어",
+      "translation": "真的 一點眼力見都沒有 沒有",
+      "analysis": [
+        { "point": "정말 눈치코치", "explanation": "真的 + 눈치코치 (眼力見，是 눈치 的強調說法)" },
+        { "point": "하나없어", "explanation": "하나 (一個) + 없다 (沒有)，指一點都沒有" }
+      ]
+    },
+    {
+      "korean": "아 정말 아 정말 정말 정말",
+      "translation": "啊 真的 啊 真的 真的 真的",
+      "analysis": [
+        { "point": "아 정말", "explanation": "啊 真的 (重複強調)" }
+      ]
+    },
+    {
+      "korean": "너무 답답해서 미치겠어 겠어",
+      "translation": "太鬱悶了 快要瘋了 瘋了",
+      "analysis": [
+        { "point": "너무 답답해서", "explanation": "太 + 답답하다 (鬱悶，憋悶) + -아서 (因為)" },
+        { "point": "미치겠어", "explanation": "快瘋了 (重複表示強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "남잔 하나같이 똑같애",
+      "translation": "男人全都一個樣",
+      "analysis": [
+        { "point": "남잔", "explanation": "남자 (男人) + -는 的縮略" },
+        { "point": "하나같이", "explanation": "副詞，如出一轍地，全都一樣" },
+        { "point": "똑같애", "explanation": "똑같다 (一模一樣) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "하난 알고 둘은 몰라 몰라",
+      "translation": "只知其一不知其二",
+      "analysis": [
+        { "point": "하난 알고 둘은 몰라", "explanation": "慣用語，指只知道表面，不知內情" }
+      ]
+    },
+    {
+      "korean": "화장하고 머릴 바꿔도",
+      "translation": "即使化了妝 換了髮型",
+      "analysis": [
+        { "point": "화장하고", "explanation": "化妝 + -고" },
+        { "point": "머릴 바꿔도", "explanation": "머리 (頭髮/髮型) + -를 + 바꾸다 (換) + -아/어도 (即使...也)" }
+      ]
+    },
+    {
+      "korean": "그것조차 너는 몰라 몰라",
+      "translation": "連那個你都不知道 不知道",
+      "analysis": [
+        { "point": "그것조차", "explanation": "那個 + -조차 (連...都)" },
+        { "point": "너는 몰라 몰라", "explanation": "你(主題) + 不知道 (重複)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "맨날 미안하단말 맨날 사랑한단말",
+      "translation": "總是說對不起的話 總是說愛我的話",
+      "analysis": [
+        { "point": "맨날", "explanation": "副詞，每天，總是" },
+        { "point": "미안하단말", "explanation": "미안하다 (對不起) + -다는 말 (說是...的話)" },
+        { "point": "사랑한단말", "explanation": "사랑하다 (愛) + -ㄴ다는 말 (說是...的話)" }
+      ]
+    },
+    {
+      "korean": "이제 더는 못믿겠어 NO NO",
+      "translation": "現在再也無法相信了 NO NO",
+      "analysis": [
+        { "point": "이제 더는", "explanation": "現在 再也" },
+        { "point": "못믿겠어", "explanation": "못 (副詞，不能) + 믿다 (相信) + -겠어 (推測/意志)" },
+        { "point": "NO NO", "explanation": "英文" }
+      ]
+    },
+    {
+      "korean": "맨날 노력한다고 맨날 잘하겠다고",
+      "translation": "總是說會努力 總是說會好好做",
+      "analysis": [
+        { "point": "맨날 노력한다고", "explanation": "總是 + 努力(引用)" },
+        { "point": "맨날 잘하겠다고", "explanation": "總是 + 會好好做(引用)" }
+      ]
+    },
+    {
+      "korean": "내맘하나 몰라주니",
+      "translation": "連我的一個心意都不理解",
+      "analysis": [
+        { "point": "내맘하나", "explanation": "我的心意一個" },
+        { "point": "몰라주니", "explanation": "모르다 (不知道) + -아/어 주다 (為...做，此處指不體諒) + -니 (疑問)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "OH MY GOD OH MY GOD OH MY GOD GOD",
+      "translation": "OH MY GOD OH MY GOD OH MY GOD GOD",
+      "analysis": [
+        { "point": "OH MY GOD", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "정말 눈치코치 하나없어 없어",
+      "translation": "真的 一點眼力見都沒有 沒有",
+      "analysis": [
+        { "point": "정말 눈치코치", "explanation": "真的 + 눈치코치 (眼力見，是 눈치 的強調說法)" },
+        { "point": "하나없어", "explanation": "하나 (一個) + 없다 (沒有)，指一點都沒有" }
+      ]
+    },
+    {
+      "korean": "아 정말 아 정말 정말 정말",
+      "translation": "啊 真的 啊 真的 真的 真的",
+      "analysis": [
+        { "point": "아 정말", "explanation": "啊 真的 (重複強調)" }
+      ]
+    },
+    {
+      "korean": "너무 답답해서 미치겠어 겠어",
+      "translation": "太鬱悶了 快要瘋了 瘋了",
+      "analysis": [
+        { "point": "너무 답답해서", "explanation": "太 + 답답하다 (鬱悶，憋悶) + -아서 (因為)" },
+        { "point": "미치겠어", "explanation": "快瘋了 (重複表示強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "OH MY GOD OH MY GOD OH MY GOD GOD",
+      "translation": "OH MY GOD OH MY GOD OH MY GOD GOD",
+      "analysis": [
+        { "point": "OH MY GOD", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "정말 눈치코치 하나없어 없어",
+      "translation": "真的 一點眼力見都沒有 沒有",
+      "analysis": [
+        { "point": "정말 눈치코치", "explanation": "真的 + 눈치코치 (眼力見，是 눈치 的強調說法)" },
+        { "point": "하나없어", "explanation": "하나 (一個) + 없다 (沒有)，指一點都沒有" }
+      ]
+    },
+    {
+      "korean": "아 정말 아 정말 정말 정말",
+      "translation": "啊 真的 啊 真的 真的 真的",
+      "analysis": [
+        { "point": "아 정말", "explanation": "啊 真的 (重複強調)" }
+      ]
+    },
+    {
+      "korean": "너무 답답해서 미치겠어 겠어",
+      "translation": "太鬱悶了 快要瘋了 瘋了",
+      "analysis": [
+        { "point": "너무 답답해서", "explanation": "太 + 답답하다 (鬱悶，憋悶) + -아서 (因為)" },
+        { "point": "미치겠어", "explanation": "快瘋了 (重複表示強調)" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "OH OH OH MA MA MA",
+      "translation": "OH OH OH MA MA MA",
+      "analysis": [
+        { "point": "OH OH OH MA MA MA", "explanation": "感嘆詞/哼唱" }
+      ]
+    },
+    {
+      "korean": "어우워우 어 어 우워우 OH MY GOD",
+      "translation": "喔嗚喔嗚 喔 喔 嗚喔嗚 OH MY GOD",
+      "analysis": [
+        { "point": "어우워우 어 어 우워우", "explanation": "感嘆詞/哼唱" },
+        { "point": "OH MY GOD", "explanation": "英文歌詞" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "여자", "chinese": "女人/女生", "pos": "名詞" },
+    { "korean": "맘", "chinese": "心 (마음 的縮略)", "pos": "名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "말해주다", "chinese": "說給...聽", "pos": "動詞" },
+    { "korean": "오빠", "chinese": "哥哥 (女生稱呼)", "pos": "名詞" },
+    { "korean": "안되다", "chinese": "不行", "pos": "動詞/形容詞" },
+    { "korean": "잘못하다", "chinese": "做錯", "pos": "動詞" },
+    { "korean": "맨날", "chinese": "每天/總是", "pos": "副詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "노력하다", "chinese": "努力", "pos": "動詞" },
+    { "korean": "눈치코치", "chinese": "眼力見 (눈치 的強調語)", "pos": "名詞" },
+    { "korean": "답답하다", "chinese": "鬱悶/憋悶", "pos": "形容詞" },
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "남자", "chinese": "男人", "pos": "名詞" },
+    { "korean": "하나같이", "chinese": "如出一轍地/全都一樣", "pos": "副詞" },
+    { "korean": "똑같다", "chinese": "一模一樣", "pos": "形容詞" },
+    { "korean": "화장하다", "chinese": "化妝", "pos": "動詞" },
+    { "korean": "머리", "chinese": "頭/頭髮", "pos": "名詞" },
+    { "korean": "바꾸다", "chinese": "換/改變", "pos": "動詞" },
+    { "korean": "조차", "chinese": "連...都", "pos": "助詞" },
+    { "korean": "너무하다", "chinese": "太過分", "pos": "形容詞" },
+    { "korean": "비교하다", "chinese": "比較", "pos": "動詞" },
+    { "korean": "애타다", "chinese": "焦急", "pos": "形容詞" },
+    { "korean": "매달리다", "chinese": "挽留/糾纏", "pos": "動詞" },
+    { "korean": "밖에는", "chinese": "除了...以外沒有", "pos": "助詞" }
+  ]
+}

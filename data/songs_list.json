@@ -1,58 +1,65 @@
 [
   {
-    "id": "acourve-what-was-that",
+    "id": "mind-u-what-was-that",
     "title": "What Was That",
-    "artist": "Acourve (어쿠루브)",
+    "artist": "MIND U",
     "lyricsFile": "../data/lyrics/what-was-that.json"
   },  
   {
-    "id": "acourve-chwihangime",
+    "id": "mind-u-chwihangime",
     "title": "취한김에",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-chwihangime.json"
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-chwihangime.json"
   },
   {
-    "id": "acourve-i-am-sorry",
+    "id": "mind-u-i-am-sorry",
     "title": "I am sorry (내가 미안해)",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-i-am-sorry.json"
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-i-am-sorry.json"
   },    
   {
-    "id": "acourve-maeumeul-beneun-nat",
+    "id": "mind-u-maeumeul-beneun-nat",
     "title": "마음을 베는 낫",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-maeumeul-beneun-nat.json"
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-maeumeul-beneun-nat.json"
   },  
   {
-    "id": "acourve-i-didnt-get-you",
+    "id": "mind-u-i-didnt-get-you",
     "title": "I Didn't Get You",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-i-didnt-get-you.json"
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-i-didnt-get-you.json"
   },
   {
-    "id": "acourve-watch-from-you",
+    "id": "mind-u-watch-from-you",
     "title": "Watch from you",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-watch-from-you.json"
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-watch-from-you.json"
   },
   {
-    "id": "acourve-a-night-full-of-longing",
+    "id": "mind-u-a-night-full-of-longing",
     "title": "A night full of longing",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-a-night-full-of-longing.json"
-  },  
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-a-night-full-of-longing.json"
+  },
   {
-    "id": "acourve-if-i-knew",
+    "id": "mind-u-wait-a-minute",
+    "title": "Wait a Minute (잠깐만요)",
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-wait-a-minute.json"
+  },  
+    
+  {
+    "id": "mind-u-if-i-knew",
     "title": "If I knew it was our last time",
-    "artist": "Acourve (어쿠루브)",
+    "artist": "MIND U",
     "lyricsFile": "../data/lyrics/epikhigh-if-i-knew.json"
   },
     
   {
-    "id": "acourve-the-night-we-parted",
+    "id": "mind-u-the-night-we-parted",
     "title": "The night we parted (헤어지던 밤)",
-    "artist": "Acourve (어쿠루브)",
-    "lyricsFile": "../data/lyrics/acourve-the-night-we-parted.json"
+    "artist": "MIND U",
+    "lyricsFile": "../data/lyrics/mind-u-the-night-we-parted.json"
   },
   {
     "id": "epikhigh-chupda",
@@ -180,18 +187,23 @@
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-i-dont-mind.json"
   },    
-    {
+  {
     "id": "girlsday-love-again",
     "title": "Love Again",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-love-again.json"
   }, 
-  
+  {
+    "id": "girlsday-oh-my-god",
+    "title": "Oh! My God",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-oh-my-god.json"
+  }, 
   {
     "id": "kassy-story-of-night-fall",
      "title": "Story of night fall",
     "artist": "Kassy",
-    "lyricsFile": "../data/lyrics/acourve-story-of-night-fall.json"
+    "lyricsFile": "../data/lyrics/mind-u-story-of-night-fall.json"
   },
   {
     "id": "o3ohn-milky-way-between-us",

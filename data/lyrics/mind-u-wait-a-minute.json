@@ -1,0 +1,476 @@
+{
+  "id": "mind-u-wait-a-minute",
+  "title": "Wait a Minute (잠깐만요)",
+  "artist": "MIND U",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "오늘 너 다른 사람 같아",
+      "translation": "今天的你 像變了個人",
+      "analysis": [
+        { "point": "오늘", "explanation": "名詞，今天" },
+        { "point": "너", "explanation": "代名詞，你" },
+        { "point": "다른 사람", "explanation": "다르다 (不同) 的定語形態 (-ㄴ/은) + 사람 (人)" },
+        { "point": "같아", "explanation": "같다 (像...一樣) 的非格式體尊敬階 (-아요/어요 的省略形)" }
+      ]
+    },
+    {
+      "korean": "내가 알던 너의 표정",
+      "translation": "不是我所認識的你的表情",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)" },
+        { "point": "알던", "explanation": "알다 (知道，認識) 的詞幹 + -던 (過去回想定語形態)" },
+        { "point": "너의 표정", "explanation": "너의 (你的) + 표정 (表情)" }
+      ]
+    },
+    {
+      "korean": "너의 얼굴이 아니야",
+      "translation": "不是你的臉龐",
+      "analysis": [
+        { "point": "너의 얼굴이", "explanation": "你的 臉龐(主格)" },
+        { "point": "아니야", "explanation": "아니다 (不是) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "잠시만 길을 걷자 하네",
+      "translation": "你說 暫時一起走走吧",
+      "analysis": [
+        { "point": "잠시만", "explanation": "副詞，暫時，一下" },
+        { "point": "길을 걷자", "explanation": "길 (路) + -을 (受格助詞) + 걷다 (走路) + -자 (共動句終結)" },
+        { "point": "하네", "explanation": "하다 (說) 的詞幹 + -네 (終結詞尾，表示感嘆或發現)" }
+      ]
+    },
+    {
+      "korean": "처음 느끼는 차가운 너와 나의 공기",
+      "translation": "第一次感受到的 你我之間冰冷的空氣",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，第一次" },
+        { "point": "느끼는", "explanation": "느끼다 (感覺) 的定語形態 (-는)" },
+        { "point": "차가운", "explanation": "차갑다 (冰冷) 的定語形態 (-ㄴ/은)" },
+        { "point": "너와 나의 공기", "explanation": "你和我 的 空氣" }
+      ]
+    },
+    {
+      "korean": "슬픈 예감은",
+      "translation": "悲傷的預感",
+      "analysis": [
+        { "point": "슬픈 예감은", "explanation": "슬프다 (悲傷) 的定語形態 + 예감 (預感) + -은 (主題助詞)" }
+      ]
+    },
+    {
+      "korean": "틀린 적이 없고",
+      "translation": "從來沒有錯過",
+      "analysis": [
+        { "point": "틀린 적이 없고", "explanation": "틀리다 (錯) 的過去定語形 + -ㄴ 적이 없다 (慣用型，從未...過) + -고 (連接)" }
+      ]
+    },
+    {
+      "korean": "불안한 내 느낌도",
+      "translation": "我不安的感覺也",
+      "analysis": [
+        { "point": "불안한", "explanation": "불안하다 (不安) 的定語形態" },
+        { "point": "내 느낌도", "explanation": "我的 感覺 + -도 (也)" }
+      ]
+    },
+    {
+      "korean": "엇나간 적이 없지",
+      "translation": "從未曾失準",
+      "analysis": [
+        { "point": "엇나간 적이 없지", "explanation": "엇나가다 (出錯，偏離) 的過去定語形 + -ㄴ 적이 없다 + -지 (確認語氣)" }
+      ]
+    },
+    {
+      "korean": "제발 이러지마",
+      "translation": "拜託 不要這樣",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託" },
+        { "point": "이러지마", "explanation": "이렇게 하지 마 (不要這樣做) 的縮略" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "헤어지자고",
+      "translation": "說分手吧",
+      "analysis": [
+        { "point": "헤어지자고", "explanation": "헤어지다 (分手) + -자고 (間接引用共動句)" }
+      ]
+    },
+    {
+      "korean": "그만하자고",
+      "translation": "說到此為止吧",
+      "analysis": [
+        { "point": "그만하자고", "explanation": "그만하다 (停止) + -자고" }
+      ]
+    },
+    {
+      "korean": "힘들었다고",
+      "translation": "說很辛苦",
+      "analysis": [
+        { "point": "힘들었다고", "explanation": "힘들다 (辛苦) 的過去式 + -고 (間接引用陳述句)" }
+      ]
+    },
+    {
+      "korean": "미안하다고 가면",
+      "translation": "如果說著對不起就離開的話",
+      "analysis": [
+        { "point": "미안하다고", "explanation": "미안하다 (對不起) + -고" },
+        { "point": "가면", "explanation": "가다 (去，離開) + -(으)면" }
+      ]
+    },
+    {
+      "korean": "난 어떡해",
+      "translation": "那我該怎麼辦",
+      "analysis": [
+        { "point": "난 어떡해", "explanation": "我(主題) + 怎麼辦" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠깐만요",
+      "translation": "等一下",
+      "analysis": [
+        { "point": "잠깐만요", "explanation": "잠깐만 (等一下) + -요 (尊敬階)" }
+      ]
+    },
+    {
+      "korean": "내 말 먼저 들어요",
+      "translation": "請先聽我說",
+      "analysis": [
+        { "point": "내 말 먼저", "explanation": "我的 話 先" },
+        { "point": "들어요", "explanation": "듣다 (聽) 的尊敬階命令形" }
+      ]
+    },
+    {
+      "korean": "잠깐만요",
+      "translation": "等一下",
+      "analysis": [
+        { "point": "잠깐만요", "explanation": "等一下(尊敬階)" }
+      ]
+    },
+    {
+      "korean": "이대로 갈건가요",
+      "translation": "就要這樣走了嗎",
+      "analysis": [
+        { "point": "이대로", "explanation": "副詞，就這樣" },
+        { "point": "갈건가요", "explanation": "가다 (去) + -(으)ㄹ 것이다 (將會) 的疑問形 + -(으)ㄴ가요 (較柔和的疑問)" }
+      ]
+    },
+    {
+      "korean": "잠깐만요",
+      "translation": "等一下",
+      "analysis": [
+        { "point": "잠깐만요", "explanation": "等一下(尊敬階)" }
+      ]
+    },
+    {
+      "korean": "내가 어떤 말을 해봐도",
+      "translation": "就算我試著說了什麼話",
+      "analysis": [
+        { "point": "내가 어떤 말을", "explanation": "我(主格) 什麼樣的 話(受格)" },
+        { "point": "해봐도", "explanation": "하다 (說) + -아/어 보다 (試著) + -아/어도 (即使...也)" }
+      ]
+    },
+    {
+      "korean": "너는 이별이구나",
+      "translation": "對你來說都已是離別了啊",
+      "analysis": [
+        { "point": "너는 이별이구나", "explanation": "你(主題) + 이별 (離別) + -이다 (是) + -구나 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "정말 끝인 거구나",
+      "translation": "真的結束了啊",
+      "analysis": [
+        { "point": "정말 끝인 거구나", "explanation": "真的 + 끝 (結束) + -이다 + 것 + -구나" }
+      ]
+    },
+    {
+      "korean": "니 사랑은",
+      "translation": "你的愛",
+      "analysis": [
+        { "point": "니 사랑은", "explanation": "你的 愛(主題)" }
+      ]
+    },
+    {
+      "korean": "오 오오",
+      "translation": "喔 喔喔",
+      "analysis": [
+        { "point": "오 오오", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "니 사랑은 으 음",
+      "translation": "你的愛 嗯 嗯",
+      "analysis": [
+        { "point": "니 사랑은 으 음", "explanation": "你的 愛(主題) + 感嘆詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "떨리는 입술을",
+      "translation": "顫抖的雙唇",
+      "analysis": [
+        { "point": "떨리는 입술을", "explanation": "떨리다 (顫抖) 的定語形態 + 입술 (嘴唇) + -을 (受格)" }
+      ]
+    },
+    {
+      "korean": "굳게 다문 채로",
+      "translation": "緊緊地閉著",
+      "analysis": [
+        { "point": "굳게", "explanation": "굳다 (堅硬，牢固) 的副詞形" },
+        { "point": "다문 채로", "explanation": "다물다 (閉上) 的過去定語形 + -(으)ㄴ 채로 (保持...的狀態)" }
+      ]
+    },
+    {
+      "korean": "담담하게 너를",
+      "translation": "淡然地將你",
+      "analysis": [
+        { "point": "담담하게", "explanation": "담담하다 (淡然，平靜) 的副詞形" },
+        { "point": "너를", "explanation": "你(受格)" }
+      ]
+    },
+    {
+      "korean": "보내주려 했어",
+      "translation": "曾想讓你走",
+      "analysis": [
+        { "point": "보내주려 했어", "explanation": "보내주다 (讓你走) + -(으)려고 하다 的過去式" }
+      ]
+    },
+    {
+      "korean": "사소한 대화도",
+      "translation": "連瑣碎的對話也",
+      "analysis": [
+        { "point": "사소한 대화도", "explanation": "瑣碎的 對話 + -도 (也)" }
+      ]
+    },
+    {
+      "korean": "모닝콜 전화도",
+      "translation": "連 Morning call 電話也",
+      "analysis": [
+        { "point": "모닝콜 전화도", "explanation": "Morning call 電話 + -도" }
+      ]
+    },
+    {
+      "korean": "너를 안는 일도",
+      "translation": "連擁抱你的事也",
+      "analysis": [
+        { "point": "너를 안는 일도", "explanation": "擁抱你的事 也" }
+      ]
+    },
+    {
+      "korean": "다신 못하는 일",
+      "translation": "再也無法做的事",
+      "analysis": [
+        { "point": "다신", "explanation": "다시는 (再也) 的縮略" },
+        { "point": "못하는 일", "explanation": "不能做的事" }
+      ]
+    },
+    {
+      "korean": "왈칵 눈물이 나는걸 어떡해",
+      "translation": "眼淚奪眶而出 我該怎麼辦",
+      "analysis": [
+        { "point": "왈칵", "explanation": "副詞/擬態詞，表示液體突然湧出" },
+        { "point": "눈물이 나는걸", "explanation": "眼淚流出(感嘆)" },
+        { "point": "어떡해", "explanation": "怎麼辦" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠깐만요",
+      "translation": "等一下",
+      "analysis": [
+        { "point": "잠깐만요", "explanation": "等一下(尊敬階)" }
+      ]
+    },
+    {
+      "korean": "내 말 먼저 들어요",
+      "translation": "請先聽我說",
+      "analysis": [
+        { "point": "내 말 먼저", "explanation": "我的 話 先" },
+        { "point": "들어요", "explanation": "듣다 (聽) 의尊敬階命令形" }
+      ]
+    },
+    {
+      "korean": "잠깐만요",
+      "translation": "等一下",
+      "analysis": [
+        { "point": "잠깐만요", "explanation": "等一下(尊敬階)" }
+      ]
+    },
+    {
+      "korean": "이대로 갈건가요",
+      "translation": "就要這樣走了嗎",
+      "analysis": [
+        { "point": "이대로", "explanation": "副詞，就這樣" },
+        { "point": "갈건가요", "explanation": "가다 (去) + -(으)ㄹ 것이다 (將會) 的疑問形 + -(으)ㄴ가요 (較柔和的疑問)" }
+      ]
+    },
+    {
+      "korean": "잠깐만요",
+      "translation": "等一下",
+      "analysis": [
+        { "point": "잠깐만요", "explanation": "等一下(尊敬階)" }
+      ]
+    },
+    {
+      "korean": "내가 어떤 말을 해봐도",
+      "translation": "就算我試著說了什麼話",
+      "analysis": [
+        { "point": "내가 어떤 말을", "explanation": "我(主格) 什麼樣的 話(受格)" },
+        { "point": "해봐도", "explanation": "하다 (說) + -아/어 보다 (試著) + -아/어도 (即使...也)" }
+      ]
+    },
+    {
+      "korean": "너는 이별이구나",
+      "translation": "對你來說都已是離別了啊",
+      "analysis": [
+        { "point": "너는 이별이구나", "explanation": "你(主題) + 이별 (離別) + -이다 (是) + -구나 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "정말 끝인 거구나",
+      "translation": "真的結束了啊",
+      "analysis": [
+        { "point": "정말 끝인 거구나", "explanation": "真的 + 끝 (結束) + -이다 + 것 + -구나" }
+      ]
+    },
+    {
+      "korean": "니 사랑은",
+      "translation": "你的愛",
+      "analysis": [
+        { "point": "니 사랑은", "explanation": "你的 愛(主題)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "너도 이유가 다 있었겠지",
+      "translation": "你肯定也有你的理由吧",
+      "analysis": [
+        { "point": "너도 이유가", "explanation": "你 也 理由(主格)" },
+        { "point": "다 있었겠지", "explanation": "全都 + 있다 (有) 的過去推測" }
+      ]
+    },
+    {
+      "korean": "너도 참 많이 힘들었겠지",
+      "translation": "你肯定也很辛苦吧",
+      "analysis": [
+        { "point": "너도 참 많이", "explanation": "你 也 真的 很" },
+        { "point": "힘들었겠지", "explanation": "辛苦(過去推測)" }
+      ]
+    },
+    {
+      "korean": "조금 일찍 알았더라면",
+      "translation": "如果能早一點知道的話",
+      "analysis": [
+        { "point": "조금 일찍", "explanation": "一點 早" },
+        { "point": "알았더라면", "explanation": "알다 (知道) 的過去式 + -더라면 (表示與過去事實相反的假設)" }
+      ]
+    },
+    {
+      "korean": "오 오 오 오 오 노",
+      "translation": "喔 喔 喔 喔 喔 No",
+      "analysis": [
+        { "point": "오 오 오 오 오 노", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "널 잊을 수 있을지 모르지만",
+      "translation": "雖然不知道是否能忘了你",
+      "analysis": [
+        { "point": "널 잊을 수 있을지", "explanation": "你(受格) + 忘記(能夠) + -(으)ㄹ지 (間接疑問)" },
+        { "point": "모르지만", "explanation": "不知道但是" }
+      ]
+    },
+    {
+      "korean": "조금만 천천히 지워볼게",
+      "translation": "我會試著再慢一點點將你抹去",
+      "analysis": [
+        { "point": "조금만 천천히", "explanation": "只一點點 慢慢地" },
+        { "point": "지워볼게", "explanation": "지우다 (抹去) + -어 보다 + -(으)ㄹ게 (意志)" }
+      ]
+    },
+    {
+      "korean": "시간에 기대어 살아볼게",
+      "translation": "我會試著倚靠著時間活下去",
+      "analysis": [
+        { "point": "시간에 기대어", "explanation": "倚靠著時間" },
+        { "point": "살아볼게", "explanation": "살다 (活) + -아 보다 + -(으)ㄹ게" }
+      ]
+    },
+    {
+      "korean": "잘 지내 wah",
+      "translation": "過得好嗎 wah",
+      "analysis": [
+        { "point": "잘 지내", "explanation": "過得好(命令/問候)" },
+        { "point": "wah", "explanation": "感嘆詞" }
+      ]
+    },
+    {
+      "korean": "잘 지내 으 으 음",
+      "translation": "過得好嗎 嗯 嗯 嗯",
+      "analysis": [
+        { "point": "잘 지내 으 으 음", "explanation": "過得好嗎 + 感嘆詞" }
+      ]
+    },
+    {
+      "korean": "잘 지내",
+      "translation": "過得好嗎",
+      "analysis": [
+        { "point": "잘 지내", "explanation": "過得好(命令/問候)" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "우린 이별이구나",
+      "translation": "我們是離別了啊",
+      "analysis": [
+        { "point": "우린 이별이구나", "explanation": "我們 + 離別 + -이다 + -구나" }
+      ]
+    },
+    {
+      "korean": "정말 끝인 거구나",
+      "translation": "真的結束了啊",
+      "analysis": [
+        { "point": "정말 끝인 거구나", "explanation": "真的 + 結束 + -(이)ㄴ 것 + -구나" }
+      ]
+    },
+    {
+      "korean": "우리 사랑은",
+      "translation": "我們的愛",
+      "analysis": [
+        { "point": "우리 사랑은", "explanation": "我們的愛(主題)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "사소하다", "chinese": "瑣碎/渺小", "pos": "形容詞" },
+    { "korean": "다투다", "chinese": "爭吵", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "등지다", "chinese": "背對/背棄", "pos": "動詞" },
+    { "korean": "뒷모습", "chinese": "背影", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝望", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "아무렇지 않다", "chinese": "若無其事", "pos": "形容詞" },
+    { "korean": "연락", "chinese": "聯絡", "pos": "名詞" },
+    { "korean": "문자", "chinese": "訊息", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "보내다", "chinese": "送走", "pos": "動詞" },
+    { "korean": "잘해주다", "chinese": "對...好", "pos": "動詞" },
+    { "korean": "잘못하다", "chinese": "做錯", "pos": "動詞" },
+    { "korean": "생각나다", "chinese": "想起", "pos": "動詞" },
+    { "korean": "헤어지다", "chinese": "分手", "pos": "動詞" },
+    { "korean": "며칠", "chinese": "幾天", "pos": "名詞" },
+    { "korean": "천장", "chinese": "天花板", "pos": "名詞" },
+    { "korean": "이기심", "chinese": "自私心", "pos": "名詞" },
+    { "korean": "울리다", "chinese": "使哭泣", "pos": "動詞" },
+    { "korean": "자존심", "chinese": "自尊心", "pos": "名詞" },
+    { "korean": "아프게 하다", "chinese": "使心痛", "pos": "動詞片語" },
+    { "korean": "이제서야", "chinese": "事到如今才", "pos": "副詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "후회", "chinese": "後悔", "pos": "名詞" },
+    { "korean": "쌓이다", "chinese": "堆積", "pos": "動詞" },
+    { "korean": "안부", "chinese": "問候", "pos": "名詞" }
+  ]
+}
