@@ -42,6 +42,12 @@
     "lyricsFile": "../data/lyrics/acourve-a-night-full-of-longing.json"
   },  
   {
+    "id": "acourve-the-night-we-parted",
+    "title": "The night we parted (헤어지던 밤)",
+    "artist": "Acourve (어쿠루브)",
+    "lyricsFile": "../data/lyrics/acourve-the-night-we-parted.json"
+  },
+  {
     "id": "epikhigh-chupda",
     "title": "춥다 (It's Cold)",
     "artist": "Epik High (feat. 이하이)",
@@ -64,6 +70,12 @@
     "title": "비 오는 날 듣기 좋은 노래",
     "artist": "Epik High",
     "lyricsFile": "../data/lyrics/bioneun-nal-deutgi-joeun-norae.json"
+  } ,  
+  {
+    "id": "epikhigh-1-minute-1-second",
+    "title": "1분 1초 (1 Minute 1 Second)",
+    "artist": "Epik High",
+    "lyricsFile": "../data/lyrics/epikhigh-1-minute-1-second.json"
   } ,  
   {
     "id": "girlsday-something",
@@ -175,10 +187,10 @@
     "lyricsFile": "../data/lyrics/o3ohn-milky-way-between-us.json"
   }, 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "seventeen-i-dont-know",
+    "title": "I Don't Know (글쎄)",
+    "artist": "SEVENTEEN (세븐틴)",
+    "lyricsFile": "../data/lyrics/seventeen-i-dont-know.json"
   }, 
   {
     "id": "_____",

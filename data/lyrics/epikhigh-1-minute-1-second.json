@@ -1,0 +1,647 @@
+{
+  "id": "epikhigh-1-minute-1-second",
+  "title": "1분 1초 (1 Minute 1 Second)",
+  "artist": "Epik High",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I can't let go (go go)",
+      "translation": "我無法放手 (go go)",
+      "analysis": [
+        { "point": "I can't let go (go go)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어딜 봐도 네 모습이 보이고",
+      "translation": "無論看哪裡 都看得見你的模樣",
+      "analysis": [
+        { "point": "어딜 봐도", "explanation": "어디 (哪裡) + -를 (受格助詞，常省略) + 보다 (看) + -아/어도 (連接詞尾，即使...也)" },
+        { "point": "네 모습이 보이고", "explanation": "네 (你的) + 모습 (模樣) + -이 (主格助詞) + 보이다 (被看見) + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "무너지는 내 맘",
+      "translation": "我崩塌的心",
+      "analysis": [
+        { "point": "무너지는", "explanation": "무너지다 (崩塌) 的定語形態 (-는)" },
+        { "point": "내 맘", "explanation": "내 (我的) + 맘 (마음 的縮略，心)" }
+      ]
+    },
+    {
+      "korean": "숨길 수가 없어 baby 단 1분 1초도",
+      "translation": "無法隱藏 baby 連1分1秒也",
+      "analysis": [
+        { "point": "숨길 수가 없어", "explanation": "숨기다 (隱藏) 的詞幹 + -(으)ㄹ 수 없다 (不能)" },
+        { "point": "baby", "explanation": "英文歌詞" },
+        { "point": "단 1분 1초도", "explanation": "단 (只，僅僅) + 1분 (1分鐘) + 1초 (1秒) + -도 (也，連)" }
+      ]
+    },
+    {
+      "korean": "I can't let go (go go)",
+      "translation": "我無法放手 (go go)",
+      "analysis": [
+        { "point": "I can't let go (go go)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어딜 가도 네 목소리 들리고",
+      "translation": "無論去哪裡 都聽得見你的聲音",
+      "analysis": [
+        { "point": "어딜 가도", "explanation": "어디 (哪裡) + -를 + 가다 (去) + -아/어도" },
+        { "point": "네 목소리 들리고", "explanation": "你的 聲音 + 들리다 (被聽到) + -고" }
+      ]
+    },
+    {
+      "korean": "부서지는 심장",
+      "translation": "破碎的心臟",
+      "analysis": [
+        { "point": "부서지는", "explanation": "부서지다 (破碎) 的定語形態 (-는)" },
+        { "point": "심장", "explanation": "名詞，心臟" }
+      ]
+    },
+    {
+      "korean": "숨 쉴 수가 없어 baby 단 1분 1초도",
+      "translation": "無法呼吸 baby 連1分1秒也",
+      "analysis": [
+        { "point": "숨 쉴 수가 없어", "explanation": "숨(을) 쉬다 (呼吸) + -(으)ㄹ 수 없다" },
+        { "point": "baby 단 1분 1초도", "explanation": "同上" }
+      ]
+    },
+    {
+      "korean": "한 순간도 단 1분 1초도",
+      "translation": "連一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個 瞬間 + -도 (也)" },
+        { "point": "단 1분 1초도", "explanation": "同上" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (Tablo)",
+      "korean": "그 날 넌 머리가 맘에 안 들고",
+      "translation": "那天 你不喜歡你的髮型",
+      "analysis": [
+        { "point": "그 날 넌", "explanation": "那天 你(主題)" },
+        { "point": "머리가 맘에 안 들고", "explanation": "頭髮(主格) + 마음에 안 들다 (不喜歡) + -고" }
+      ]
+    },
+    {
+      "korean": "눈이 부었다고 다시 잠들고",
+      "translation": "說眼睛腫了又再次睡去",
+      "analysis": [
+        { "point": "눈이 부었다고", "explanation": "眼睛(主格) + 붓다 (腫) 的過去式 + -고 (間接引用)" },
+        { "point": "다시 잠들고", "explanation": "再次 + 잠들다 (入睡) + -고" }
+      ]
+    },
+    {
+      "korean": "난 외투를 벗으며 말 없이 삐지고",
+      "translation": "我脫下外套 默默地鬧彆扭",
+      "analysis": [
+        { "point": "난 외투를 벗으며", "explanation": "我 外套(受格) + 벗다 (脫下) + -(으)며 (同時)" },
+        { "point": "말 없이", "explanation": "副詞片語，無言地" },
+        { "point": "삐지고", "explanation": "삐지다 (鬧彆扭，生悶氣) + -고" }
+      ]
+    },
+    {
+      "korean": "전화기를 들어 밥을 시키고",
+      "translation": "拿起電話點了餐",
+      "analysis": [
+        { "point": "전화기를 들어", "explanation": "電話(受格) + 들다 (拿起)" },
+        { "point": "밥을 시키고", "explanation": "飯(受格) + 시키다 (點餐) + -고" }
+      ]
+    },
+    {
+      "korean": "커튼을 치고 몇 시간이",
+      "translation": "拉上窗簾 幾個小時",
+      "analysis": [
+        { "point": "커튼을 치고", "explanation": "窗簾(受格) + 치다 (拉上，打) + -고" },
+        { "point": "몇 시간이", "explanation": "幾 小時(主格)" }
+      ]
+    },
+    {
+      "korean": "지났는지도 모르고 watching DVD's (if you with me)",
+      "translation": "也不知道過了多久 watching DVD's (if you with me)",
+      "analysis": [
+        { "point": "지났는지도 모르고", "explanation": "지나다 (經過) + -았는지도 모르다 (連...都不知道)" },
+        { "point": "watching DVD's (if you with me)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어깨에 기댄 너의 숨소리",
+      "translation": "倚靠在肩膀上的你的呼吸聲",
+      "analysis": [
+        { "point": "어깨에 기댄", "explanation": "肩膀 + -에 + 기대다 (倚靠) 的過去定語形" },
+        { "point": "너의 숨소리", "explanation": "你的 呼吸聲" }
+      ]
+    },
+    {
+      "korean": "난 나가지 않기를 잘했다고 생각했지",
+      "translation": "我曾想著沒出去真是太好了",
+      "analysis": [
+        { "point": "난 나가지 않기를", "explanation": "我 + 不出去(名詞形+受格)" },
+        { "point": "잘했다고", "explanation": "做得好(過去引用)" },
+        { "point": "생각했지", "explanation": "생각하다 (想) 的過去式 + -지 (確認)" }
+      ]
+    },
+    {
+      "korean": "우습게도 이런 기억들이 아직도 날 괴롭힌다",
+      "translation": "可笑的是 這樣的記憶至今仍在折磨我",
+      "analysis": [
+        { "point": "우습게도", "explanation": "우습다 (可笑) + -게도 (即使...也)" },
+        { "point": "이런 기억들이", "explanation": "這樣的 記憶們(主格)" },
+        { "point": "아직도 날", "explanation": "仍然 我(受格)" },
+        { "point": "괴롭힌다", "explanation": "괴롭히다 (折磨) 的現在式陳述形" }
+      ]
+    },
+    {
+      "korean": "문득 네가 했던 농담들이 기억나고 무너진다",
+      "translation": "猛然想起你曾說過的玩笑而崩潰",
+      "analysis": [
+        { "point": "문득", "explanation": "副詞，猛然，突然" },
+        { "point": "네가 했던 농담들이", "explanation": "你曾說過的 玩笑們(主格)" },
+        { "point": "기억나고 무너진다", "explanation": "想起(連接) + 崩潰" }
+      ]
+    },
+    {
+      "korean": "아무 것도 아닌 순간들이 오늘도 날 뒤엎는다",
+      "translation": "那些微不足道的瞬間今天也將我擊垮",
+      "analysis": [
+        { "point": "아무 것도 아닌 순간들이", "explanation": "微不足道的 瞬間們(主格)" },
+        { "point": "오늘도 날", "explanation": "今天也 我(受格)" },
+        { "point": "뒤엎는다", "explanation": "뒤엎다 (擊垮，推翻) 的現在式陳述形" }
+      ]
+    },
+    {
+      "korean": "문득 네가 짓던 표정들이 기억나고 부서진다",
+      "translation": "猛然想起你曾露出的表情而破碎",
+      "analysis": [
+        { "point": "문득 네가 짓던 표정들이", "explanation": "猛然 你曾露出的 表情們(主格)" },
+        { "point": "기억나고 부서진다", "explanation": "想起(連接) + 破碎" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I can't let go (go go)",
+      "translation": "我無法放手 (go go)",
+      "analysis": [
+        { "point": "I can't let go (go go)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어딜 봐도 네 모습이 보이고",
+      "translation": "無論看哪裡 都看得見你的模樣",
+      "analysis": [
+        { "point": "어딜 봐도", "explanation": "어디 (哪裡) + -를 (受格助詞，常省略) + 보다 (看) + -아/어도 (連接詞尾，即使...也)" },
+        { "point": "네 모습이 보이고", "explanation": "네 (你的) + 모습 (模樣) + -이 (主格助詞) + 보이다 (被看見) + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "무너지는 내 맘",
+      "translation": "我崩塌的心",
+      "analysis": [
+        { "point": "무너지는", "explanation": "무너지다 (崩塌) 的定語形態 (-는)" },
+        { "point": "내 맘", "explanation": "내 (我的) + 맘 (마음 的縮略，心)" }
+      ]
+    },
+    {
+      "korean": "숨길 수가 없어 baby 단 1분 1초도",
+      "translation": "無法隱藏 baby 連1分1秒也",
+      "analysis": [
+        { "point": "숨길 수가 없어", "explanation": "숨기다 (隱藏) 的詞幹 + -(으)ㄹ 수 없다 (不能)" },
+        { "point": "baby", "explanation": "英文歌詞" },
+        { "point": "단 1분 1초도", "explanation": "단 (只，僅僅) + 1분 (1分鐘) + 1초 (1秒) + -도 (也，連)" }
+      ]
+    },
+    {
+      "korean": "시간이 멈추고 심장이 멈춰도",
+      "translation": "即使時間停止 心臟也停止",
+      "analysis": [
+        { "point": "시간이 멈추고", "explanation": "時間停止" },
+        { "point": "심장이 멈춰도", "explanation": "心臟停止(即使)" }
+      ]
+    },
+    {
+      "korean": "I can't let go (go go)",
+      "translation": "我無法放手 (go go)",
+      "analysis": [
+        { "point": "I can't let go (go go)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어딜 가도 네 목소리 들리고",
+      "translation": "無論去哪裡 都聽得見你的聲音",
+      "analysis": [
+        { "point": "어딜 가도", "explanation": "어디 (哪裡) + -를 + 가다 (去) + -아/어도" },
+        { "point": "네 목소리 들리고", "explanation": "你的 聲音 + 들리다 (被聽到) + -고" }
+      ]
+    },
+    {
+      "korean": "부서지는 심장",
+      "translation": "破碎的心臟",
+      "analysis": [
+        { "point": "부서지는", "explanation": "부서지다 (破碎) 的定語形態 (-는)" },
+        { "point": "심장", "explanation": "名詞，心臟" }
+      ]
+    },
+    {
+      "korean": "숨 쉴 수가 없어 baby 단 1분 1초도",
+      "translation": "無法呼吸 baby 連1分1秒也",
+      "analysis": [
+        { "point": "숨 쉴 수가 없어", "explanation": "숨(을) 쉬다 (呼吸) + -(으)ㄹ 수 없다" },
+        { "point": "baby 단 1분 1초도", "explanation": "baby + 連1分1秒也" }
+      ]
+    },
+    {
+      "korean": "한 순간도 단 1분 1초도",
+      "translation": "連一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個 瞬間 + -도 (也)" },
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Mithra Jin)",
+      "korean": "그 어딜 가도 창가 옆 모퉁이 구석 자리에",
+      "translation": "無論去哪裡 都會坐在窗邊角落的那個位置",
+      "analysis": [
+        { "point": "그 어딜 가도", "explanation": "那 任何地方 都去" },
+        { "point": "창가 옆 모퉁이 구석 자리에", "explanation": "窗邊 旁邊 角落 位置" }
+      ]
+    },
+    {
+      "korean": "앉을 때 손을 포개놓지 왼쪽 다리에",
+      "translation": "坐下時會把手交疊放在左腿上",
+      "analysis": [
+        { "point": "앉을 때", "explanation": "坐下時" },
+        { "point": "손을 포개놓지", "explanation": "手(受格) + 포개놓다 (交疊放置) + -지 (確認)" },
+        { "point": "왼쪽 다리에", "explanation": "左 腿上" }
+      ]
+    },
+    {
+      "korean": "피곤해 하품할 땐 닦은 눈물을 보곤 해",
+      "translation": "疲倦打哈欠時 總是會看見擦過的眼淚",
+      "analysis": [
+        { "point": "피곤해 하품할 땐", "explanation": "疲倦 + 打哈欠時" },
+        { "point": "닦은 눈물을", "explanation": "擦過的 眼淚(受格)" },
+        { "point": "보곤 해", "explanation": "보다 (看) + -곤 하다 (時常)" }
+      ]
+    },
+    {
+      "korean": "그리곤 바보처럼 웃어 양 볼에 보조개",
+      "translation": "然後像傻瓜一樣地笑 兩頰露出酒窩",
+      "analysis": [
+        { "point": "그리곤", "explanation": "그리고는 (然後) 的縮略" },
+        { "point": "바보처럼 웃어", "explanation": "像傻瓜一樣笑" },
+        { "point": "양 볼에 보조개", "explanation": "兩 頰上 + 보조개 (酒窩)" }
+      ]
+    },
+    {
+      "korean": "물을 마실 때는 항상 세워둔 새끼손가락",
+      "translation": "喝水的時候總是翹著的小指",
+      "analysis": [
+        { "point": "물을 마실 때는", "explanation": "喝水的時候" },
+        { "point": "항상", "explanation": "總是" },
+        { "point": "세워둔 새끼손가락", "explanation": "세워두다 (立著) 的過去定語形 + 새끼손가락 (小指)" }
+      ]
+    },
+    {
+      "korean": "눈이 부셨어 윤기 나던 검은 머리카락",
+      "translation": "曾很耀眼 曾有光澤的黑色頭髮",
+      "analysis": [
+        { "point": "눈이 부셨어", "explanation": "耀眼(過去式)" },
+        { "point": "윤기 나던", "explanation": "윤기(가) 나다 (有光澤) + -던 (過去回想)" },
+        { "point": "검은 머리카락", "explanation": "黑色的 頭髮" }
+      ]
+    },
+    {
+      "korean": "서툰 젓가락질조차 매력이라 말했어",
+      "translation": "連笨拙的筷子用法也說是魅力",
+      "analysis": [
+        { "point": "서툰 젓가락질조차", "explanation": "笨拙的 筷子用法 + -조차 (連...都)" },
+        { "point": "매력이라 말했어", "explanation": "매력 (魅力) + -(이)라고 말하다 (說是...) 的過去式" }
+      ]
+    },
+    {
+      "korean": "부르튼 입술도 난 영원하길 바랬어",
+      "translation": "連乾裂的嘴唇 我也曾希望是永恆",
+      "analysis": [
+        { "point": "부르튼 입술도", "explanation": "부르트다 (乾裂，起泡) 的過去定語形 + 嘴唇 + -도" },
+        { "point": "난 영원하길 바랬어", "explanation": "我 + 永恆(希望) + 過去式" }
+      ]
+    },
+    {
+      "korean": "this is lov to the e 그 사소했던 기억이",
+      "translation": "this is l.o.v.e 那些微不足道的記憶",
+      "analysis": [
+        { "point": "this is lov to the e", "explanation": "英文歌詞 (拼出 L-O-V-E)" },
+        { "point": "그 사소했던 기억이", "explanation": "那 微不足道的 記憶(主格)" }
+      ]
+    },
+    {
+      "korean": "마음을 뒤섞고 나를 뒤엎고 눈물은 끝이 없지 see",
+      "translation": "攪亂了心 擊垮了我 眼淚沒有盡頭 see",
+      "analysis": [
+        { "point": "마음을 뒤섞고", "explanation": "心(受格) + 뒤섞다 (攪亂)" },
+        { "point": "나를 뒤엎고", "explanation": "我(受格) + 뒤엎다 (擊垮)" },
+        { "point": "눈물은 끝이 없지 see", "explanation": "眼淚(主題) + 盡頭 沒有 + -지 + see (英文)" }
+      ]
+    },
+    {
+      "korean": "사랑은 폭풍도 흔들지 못하는 마음을",
+      "translation": "愛情是連暴風也無法動搖的心",
+      "analysis": [
+        { "point": "사랑은 폭풍도", "explanation": "愛(主題) + 暴風 + -도 (也)" },
+        { "point": "흔들지 못하는 마음을", "explanation": "動搖不了的 心(受格)" }
+      ]
+    },
+    {
+      "korean": "몰아치는 빗물 한 방울 the little memories",
+      "translation": "狂風暴雨般的一滴雨水 the little memories",
+      "analysis": [
+        { "point": "몰아치는", "explanation": "몰아치다 (狂吹，猛攻) 的定語形" },
+        { "point": "빗물 한 방울", "explanation": "雨水 一滴" },
+        { "point": "the little memories", "explanation": "英文歌詞：微小的記憶" }
+      ]
+    },
+    {
+      "korean": "술잔처럼 비워진 투명해진 우리 작은 추억들",
+      "translation": "像酒杯一樣被清空 變得透明的我們微小的回憶",
+      "analysis": [
+        { "point": "술잔처럼", "explanation": "酒杯一樣" },
+        { "point": "비워진", "explanation": "비워지다 (被清空) 的過去定語形" },
+        { "point": "투명해진", "explanation": "투명해지다 (變透明) 的過去定語形" },
+        { "point": "우리 작은 추억들", "explanation": "我們 微小的 回憶們" }
+      ]
+    },
+    {
+      "korean": "돌이키려 돌아봐도 다신 만들 수 없는 그대와의 기억",
+      "translation": "即使想挽回而回頭看 也無法再次創造的與你的記憶",
+      "analysis": [
+        { "point": "돌이키려 돌아봐도", "explanation": "想挽回而回頭看也" },
+        { "point": "다신 만들 수 없는", "explanation": "再也無法創造的" },
+        { "point": "그대와의 기억", "explanation": "與你的記憶" }
+      ]
+    },
+    {
+      "korean": "어젯밤 꿈처럼 선명한데 날 떠났네",
+      "translation": "像昨夜的夢一樣鮮明 你卻離開了我",
+      "analysis": [
+        { "point": "어젯밤 꿈처럼", "explanation": "昨夜 夢一樣" },
+        { "point": "선명한데", "explanation": "鮮明(但是)" },
+        { "point": "날 떠났네", "explanation": "離開了我(感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I can't let go (go go)",
+      "translation": "我無法放手 (go go)",
+      "analysis": [
+        { "point": "I can't let go (go go)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어딜 봐도 네 모습이 보이고",
+      "translation": "無論看哪裡 都看得見你的模樣",
+      "analysis": [
+        { "point": "어딜 봐도", "explanation": "어디 (哪裡) + -를 (受格助詞，常省略) + 보다 (看) + -아/어도 (連接詞尾，即使...也)" },
+        { "point": "네 모습이 보이고", "explanation": "네 (你的) + 모습 (模樣) + -이 (主格助詞) + 보이다 (被看見) + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "무너지는 내 맘",
+      "translation": "我崩塌的心",
+      "analysis": [
+        { "point": "무너지는", "explanation": "무너지다 (崩塌) 的定語形態 (-는)" },
+        { "point": "내 맘", "explanation": "내 (我的) + 맘 (마음 的縮略，心)" }
+      ]
+    },
+    {
+      "korean": "숨길 수가 없어 baby 단 1분 1초도",
+      "translation": "無法隱藏 baby 連1分1秒也",
+      "analysis": [
+        { "point": "숨길 수가 없어", "explanation": "숨기다 (隱藏) 的詞幹 + -(으)ㄹ 수 없다 (不能)" },
+        { "point": "baby", "explanation": "英文歌詞" },
+        { "point": "단 1분 1초도", "explanation": "단 (只，僅僅) + 1분 (1分鐘) + 1초 (1秒) + -도 (也，連)" }
+      ]
+    },
+    {
+      "korean": "시간이 멈추고 심장이 멈춰도",
+      "translation": "即使時間停止 心臟也停止",
+      "analysis": [
+        { "point": "시간이 멈추고", "explanation": "時間停止" },
+        { "point": "심장이 멈춰도", "explanation": "心臟停止(即使)" }
+      ]
+    },
+    {
+      "korean": "I can't let go (go go)",
+      "translation": "我無法放手 (go go)",
+      "analysis": [
+        { "point": "I can't let go (go go)", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "어딜 가도 네 목소리 들리고",
+      "translation": "無論去哪裡 都聽得見你的聲音",
+      "analysis": [
+        { "point": "어딜 가도", "explanation": "어디 (哪裡) + -를 + 가다 (去) + -아/어도" },
+        { "point": "네 목소리 들리고", "explanation": "你的 聲音 + 들리다 (被聽到) + -고" }
+      ]
+    },
+    {
+      "korean": "부서지는 심장",
+      "translation": "破碎的心臟",
+      "analysis": [
+        { "point": "부서지는", "explanation": "부서지다 (破碎) 的定語形態 (-는)" },
+        { "point": "심장", "explanation": "名詞，心臟" }
+      ]
+    },
+    {
+      "korean": "숨 쉴 수가 없어 baby 단 1분 1초도",
+      "translation": "無法呼吸 baby 連1分1秒也",
+      "analysis": [
+        { "point": "숨 쉴 수가 없어", "explanation": "숨(을) 쉬다 (呼吸) + -(으)ㄹ 수 없다" },
+        { "point": "baby 단 1분 1초도", "explanation": "baby + 連1分1秒也" }
+      ]
+    },
+    {
+      "korean": "한 순간도 단 1분 1초도",
+      "translation": "連一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個 瞬間 + -도 (也)" },
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    },
+    {
+      "korean": "한 순간도 단 1분 1초도",
+      "translation": "連一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個 瞬間 + -도 (也)" },
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    },
+    {
+      "korean": "한 순간도 단 1분 1초도",
+      "translation": "連一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個 瞬間 + -도 (也)" },
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    },
+    {
+      "korean": "한 순간도 단 1분 1초도",
+      "translation": "連一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個 瞬間 + -도 (也)" },
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "I can't let go",
+      "translation": "我無法放手",
+      "analysis": [
+        { "point": "I can't let go", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "I can't let go (숨죽인 작은 속삭임도)",
+      "translation": "我無法放手 (連屏住呼吸的微小呢喃也)",
+      "analysis": [
+        { "point": "I can't let go", "explanation": "英文歌詞" },
+        { "point": "숨죽인 작은 속삭임도", "explanation": "屏住呼吸的 微小 呢喃 也" }
+      ]
+    },
+    {
+      "korean": "한 순간도 (달콤한 둘만의 비밀도)",
+      "translation": "一個瞬間也 (連兩人甜蜜的秘密也)",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個瞬間也" },
+        { "point": "달콤한 둘만의 비밀도", "explanation": "甜蜜的 只屬於兩人的 秘密 也" }
+      ]
+    },
+    {
+      "korean": "아름다웠던만큼 슬펐던 그대와 나",
+      "translation": "曾有多美麗就有多悲傷的你和我",
+      "analysis": [
+        { "point": "아름다웠던만큼", "explanation": "아름답다 (美麗) 的過去式 + -(으)ㄴ 만큼 (到...的程度)" },
+        { "point": "슬펐던", "explanation": "슬프다 (悲傷) 的過去定語形態" },
+        { "point": "그대와 나", "explanation": "你和我" }
+      ]
+    },
+    {
+      "korean": "내 눈물이 그대에게도 기억될 수 있을까?",
+      "translation": "我的眼淚也能被你記住嗎？",
+      "analysis": [
+        { "point": "내 눈물이", "explanation": "我的 眼淚(主格)" },
+        { "point": "그대에게도", "explanation": "對你 也" },
+        { "point": "기억될 수 있을까?", "explanation": "기억되다 (被記住) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까? (疑問)" }
+      ]
+    },
+    {
+      "korean": "I can't let go (둘만의 버릇과 습관도)",
+      "translation": "我無法放手 (連只屬於兩人的習慣和習慣也)",
+      "analysis": [
+        { "point": "I can't let go", "explanation": "英文歌詞" },
+        { "point": "둘만의 버릇과 습관도", "explanation": "只屬於兩人的 + 버릇 (習慣，癖好) + -과 (和) + 습관 (習慣) + -도 (也)" }
+      ]
+    },
+    {
+      "korean": "한 순간도 (그 아름다웠던 순간도)",
+      "translation": "一個瞬間也 (連那個曾美麗的瞬間也)",
+      "analysis": [
+        { "point": "한 순간도", "explanation": "一個瞬間也" },
+        { "point": "그 아름다웠던 순간도", "explanation": "那 曾美麗的 瞬間 也" }
+      ]
+    },
+    {
+      "korean": "아직 한 순간도 단 1분 1초도",
+      "translation": "還是一個瞬間 連1分1秒也",
+      "analysis": [
+        { "point": "아직 한 순간도", "explanation": "還 一個瞬間也" },
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    },
+    {
+      "korean": "되돌릴 수가 없어",
+      "translation": "無法挽回",
+      "analysis": [
+        { "point": "되돌릴 수가 없어", "explanation": "되돌리다 (挽回，還原) + -(으)ㄹ 수 없다 (不能)" }
+      ]
+    },
+    {
+      "korean": "단 1분 1초도",
+      "translation": "連1分1秒也",
+      "analysis": [
+        { "point": "단 1분 1초도", "explanation": "連1分1秒也" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞 (被動)" },
+    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "단", "chinese": "只/僅僅", "pos": "副詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "들리다", "chinese": "被聽到", "pos": "動詞 (被動)" },
+    { "korean": "부서지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "숨을 쉬다", "chinese": "呼吸", "pos": "動詞片語" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "머리", "chinese": "頭/頭髮", "pos": "名詞" },
+    { "korean": "마음에 들다", "chinese": "喜歡/滿意", "pos": "慣用語" },
+    { "korean": "붓다", "chinese": "腫", "pos": "動詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "외투", "chinese": "外套", "pos": "名詞" },
+    { "korean": "벗다", "chinese": "脫下", "pos": "動詞" },
+    { "korean": "말 없이", "chinese": "無言地", "pos": "副詞片語" },
+    { "korean": "삐지다", "chinese": "鬧彆扭/生悶氣", "pos": "動詞" },
+    { "korean": "시키다", "chinese": "點餐/使喚", "pos": "動詞" },
+    { "korean": "기대다", "chinese": "倚靠", "pos": "動詞" },
+    { "korean": "숨소리", "chinese": "呼吸聲", "pos": "名詞" },
+    { "korean": "우습다", "chinese": "可笑", "pos": "形容詞" },
+    { "korean": "괴롭히다", "chinese": "折磨", "pos": "動詞" },
+    { "korean": "문득", "chinese": "猛然/突然", "pos": "副詞" },
+    { "korean": "농담", "chinese": "玩笑", "pos": "名詞" },
+    { "korean": "뒤엎다", "chinese": "擊垮/推翻", "pos": "動詞" },
+    { "korean": "표정", "chinese": "表情", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "창가", "chinese": "窗邊", "pos": "名詞" },
+    { "korean": "모퉁이", "chinese": "角落", "pos": "名詞" },
+    { "korean": "구석", "chinese": "角落/牆角", "pos": "名詞" },
+    { "korean": "포개놓다", "chinese": "交疊放置", "pos": "動詞" },
+    { "korean": "피곤하다", "chinese": "疲倦", "pos": "形容詞" },
+    { "korean": "하품하다", "chinese": "打哈欠", "pos": "動詞" },
+    { "korean": "닦다", "chinese": "擦拭", "pos": "動詞" },
+    { "korean": "보조개", "chinese": "酒窩", "pos": "名詞" },
+    { "korean": "세우다", "chinese": "立起/翹起", "pos": "動詞" },
+    { "korean": "새끼손가락", "chinese": "小指", "pos": "名詞" },
+    { "korean": "윤기 나다", "chinese": "有光澤", "pos": "動詞片語" },
+    { "korean": "머리카락", "chinese": "頭髮", "pos": "名詞" },
+    { "korean": "서투르다", "chinese": "笨拙/不熟練", "pos": "形容詞" },
+    { "korean": "젓가락질", "chinese": "用筷子的動作", "pos": "名詞" },
+    { "korean": "매력", "chinese": "魅力", "pos": "名詞" },
+    { "korean": "부르트다", "chinese": "乾裂/起泡", "pos": "動詞" },
+    { "korean": "영원하다", "chinese": "永恆", "pos": "形容詞" },
+    { "korean": "사소하다", "chinese": "微不足道", "pos": "形容詞" },
+    { "korean": "뒤섞다", "chinese": "攪亂/混合", "pos": "動詞" },
+    { "korean": "폭풍", "chinese": "暴風", "pos": "名詞" },
+    { "korean": "몰아치다", "chinese": "狂吹/猛攻", "pos": "動詞" },
+    { "korean": "빗물", "chinese": "雨水", "pos": "名詞" },
+    { "korean": "방울", "chinese": "滴", "pos": "名詞" },
+    { "korean": "술잔", "chinese": "酒杯", "pos": "名詞" },
+    { "korean": "비워지다", "chinese": "被清空", "pos": "動詞 (被動)" },
+    { "korean": "투명해지다", "chinese": "變透明", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "돌이키다", "chinese": "挽回", "pos": "動詞" },
+    { "korean": "선명하다", "chinese": "鮮明", "pos": "形容詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "숨죽이다", "chinese": "屏住呼吸", "pos": "動詞片語" },
+    { "korean": "속삭임", "chinese": "呢喃", "pos": "名詞" },
+    { "korean": "비밀", "chinese": "秘密", "pos": "名詞" },
+    { "korean": "아름답다", "chinese": "美麗", "pos": "形容詞" },
+    { "korean": "슬프다", "chinese": "悲傷", "pos": "形容詞" },
+    { "korean": "기억되다", "chinese": "被記住", "pos": "動詞 (被動)" },
+    { "korean": "버릇", "chinese": "習慣/癖好", "pos": "名詞" },
+    { "korean": "습관", "chinese": "習慣", "pos": "名詞" },
+    { "korean": "되돌리다", "chinese": "挽回/還原", "pos": "動詞" }
+  ]
+}

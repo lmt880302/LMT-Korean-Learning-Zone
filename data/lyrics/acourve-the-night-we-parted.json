@@ -1,0 +1,339 @@
+{
+  "id": "acourve-the-night-we-parted",
+  "title": "The night we parted (헤어지던 밤)",
+  "artist": "Acourve (어쿠루브)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "아무렇지 않게 넌",
+      "translation": "你若無其事地",
+      "analysis": [
+        { "point": "아무렇지 않게", "explanation": "아무렇지도 않다 (毫不在乎，若無其事) 的副詞形 (-게)" },
+        { "point": "넌", "explanation": "너 (你) + -는 (主題助詞) 的縮略" }
+      ]
+    },
+    {
+      "korean": "평소와 같은 말투로",
+      "translation": "用和平時一樣的語氣",
+      "analysis": [
+        { "point": "평소와 같은", "explanation": "평소 (平時) + -와 (和) + 같다 (一樣) 的定語形態 (-은)" },
+        { "point": "말투로", "explanation": "말투 (語氣) + -(으)로 (用...)" }
+      ]
+    },
+    {
+      "korean": "오늘 밤에 만나자",
+      "translation": "說了「今晚見吧」",
+      "analysis": [
+        { "point": "오늘 밤에", "explanation": "오늘 밤 (今晚) + -에 (時間助詞)" },
+        { "point": "만나자", "explanation": "만나다 (見面) 的詞幹 + -자 (共動句終結詞尾)" }
+      ]
+    },
+    {
+      "korean": "준비하고 널 만나러 갔어",
+      "translation": "我準備好後去見你了",
+      "analysis": [
+        { "point": "준비하고", "explanation": "준비하다 (準備) 的詞幹 + -고 (連接詞尾)" },
+        { "point": "널 만나러 갔어", "explanation": "너 (你) + -를 (受格助詞) 的縮略 + 만나다 (見面) + -(으)러 (表目的) + 가다 (去) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "장미꽃을 손에 꼭 들고서",
+      "translation": "手裡緊緊握著玫瑰花",
+      "analysis": [
+        { "point": "장미꽃을", "explanation": "장미꽃 (玫瑰花) + -을 (受格助詞)" },
+        { "point": "손에 꼭", "explanation": "손 (手) + -에 (在) + 꼭 (副詞，緊緊地)" },
+        { "point": "들고서", "explanation": "들다 (拿著，舉著) + -고서 (連接詞尾，表示動作狀態的持續)" }
+      ]
+    },
+    {
+      "korean": "집 앞에서 널 기다렸어",
+      "translation": "在家門前等著你",
+      "analysis": [
+        { "point": "집 앞에서", "explanation": "집 (家) + 앞 (前面) + -에서 (場所助詞)" },
+        { "point": "널 기다렸어", "explanation": "你(受格) + 기다리다 (等待) 의過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "좋아할 너를 생각하면서",
+      "translation": "一邊想著會很開心的你",
+      "analysis": [
+        { "point": "좋아할 너를", "explanation": "좋아하다 (喜歡) 的將來時定語形態 + 你(受格)" },
+        { "point": "생각하면서", "explanation": "생각하다 (想) + -(으)면서 (連接詞尾，表示同時)" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "돌아오는 말은 헤어지자고",
+      "translation": "回來的話卻是說分手吧",
+      "analysis": [
+        { "point": "돌아오는 말은", "explanation": "돌아오다 (回來) 的定語形態 + 말 (話) + -은 (主題助詞)" },
+        { "point": "헤어지자고", "explanation": "헤어지다 (分手) 的詞幹 + -자고 (間接引用共動句)" }
+      ]
+    },
+    {
+      "korean": "그 말하러 나온 거라고",
+      "translation": "說是為了說那句話才出來的",
+      "analysis": [
+        { "point": "그 말하러", "explanation": "那 話 + 하다 (說) + -(으)러 (為了)" },
+        { "point": "나온 거라고", "explanation": "나오다 (出來) 的過去定語形態 + 것 (事情) + -(이)라고 (間接引用陳述句)" }
+      ]
+    },
+    {
+      "korean": "순간 난 얼어버렸어",
+      "translation": "瞬間 我僵住了",
+      "analysis": [
+        { "point": "순간", "explanation": "名詞，瞬間" },
+        { "point": "난 얼어버렸어", "explanation": "我 + 얼다 (結冰，僵住) + -어 버리다 (徹底完成) 的過去式" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제는 널 보고 싶어도 볼 수 없대",
+      "translation": "聽說現在就算想你 也無法見到你了",
+      "analysis": [
+        { "point": "이제는", "explanation": "現在(強調)" },
+        { "point": "널 보고 싶어도", "explanation": "你(受格) + 想見(即使...也)" },
+        { "point": "볼 수 없대", "explanation": "보다 (見面) + -(으)ㄹ 수 없다 (不能) + -고 해 (聽說...) 的縮略" }
+      ]
+    },
+    {
+      "korean": "밤에 통화도 못한대",
+      "translation": "聽說晚上也無法通話了",
+      "analysis": [
+        { "point": "밤에", "explanation": "晚上" },
+        { "point": "통화도 못한대", "explanation": "통화 (通話) + -도 (也) + 못하다 (不能做) + -고 해 的縮略" }
+      ]
+    },
+    {
+      "korean": "넌 그래도 괜찮니",
+      "translation": "即使那樣你也沒關係嗎",
+      "analysis": [
+        { "point": "넌 그래도", "explanation": "你 即使那樣" },
+        { "point": "괜찮니", "explanation": "괜찮다 (沒關係) + -니 (疑問)" }
+      ]
+    },
+    {
+      "korean": "널 잊고 행복하길 바란대",
+      "translation": "聽說你期盼我忘了你並過得幸福",
+      "analysis": [
+        { "point": "널 잊고", "explanation": "你(受格) + 忘記(連接)" },
+        { "point": "행복하길 바란대", "explanation": "행복하다 (幸福) 的名詞形 + -를 (受格) + 바라다 (期盼) + -ㄴ/는다고 해 的縮略" }
+      ]
+    },
+    {
+      "korean": "우 네 사랑은 여기까지 래요",
+      "translation": "嗚 聽說你的愛就到此為止",
+      "analysis": [
+        { "point": "우", "explanation": "感嘆詞" },
+        { "point": "네 사랑은", "explanation": "你的 愛(主題)" },
+        { "point": "여기까지 래요", "explanation": "여기까지 (到這裡為止) + -(이)라고 해요 (說是...) 的縮略" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "먹먹하게 돌아오던 그 밤은",
+      "translation": "心情沉悶地回家的那個夜晚",
+      "analysis": [
+        { "point": "먹먹하게", "explanation": "먹먹하다 (堵得慌，沉悶) 的副詞形 (-게)" },
+        { "point": "돌아오던", "explanation": "回來(過去回想)" },
+        { "point": "그 밤은", "explanation": "那 夜晚(主題)" }
+      ]
+    },
+    {
+      "korean": "제일 추운 여름밤이었어",
+      "translation": "是最寒冷的夏夜",
+      "analysis": [
+        { "point": "제일", "explanation": "副詞，最" },
+        { "point": "추운", "explanation": "춥다 (冷) 的定語形態 (-ㄴ/은)" },
+        { "point": "여름밤이었어", "explanation": "여름밤 (夏夜) + -이다 (是) 的過去式" }
+      ]
+    },
+    {
+      "korean": "차가워진 우리 사이처럼",
+      "translation": "像我們變冷的關係一樣",
+      "analysis": [
+        { "point": "차가워진", "explanation": "變冷的" },
+        { "point": "우리 사이처럼", "explanation": "我們 關係 一樣" }
+      ]
+    },
+    {
+      "korean": "집에 들어와 침대에 누워서",
+      "translation": "回到家 躺在床上",
+      "analysis": [
+        { "point": "집에 들어와", "explanation": "回家(連接)" },
+        { "point": "침대에 누워서", "explanation": "床上 + 눕다 (躺下) + -어서 (連接)" }
+      ]
+    },
+    {
+      "korean": "탁자 위 사진을 보았어",
+      "translation": "看了桌上的照片",
+      "analysis": [
+        { "point": "탁자 위", "explanation": "桌子 上" },
+        { "point": "사진을 보았어", "explanation": "照片(受格) + 보다 (看) 的過去式" }
+      ]
+    },
+    {
+      "korean": "우리 참 좋았었는데",
+      "translation": "我們曾經真的很好",
+      "analysis": [
+        { "point": "우리 참 좋았었는데", "explanation": "我們 真的 + 좋다 (好) 的過去完成式 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제는 널 보고 싶어도 볼 수 없대",
+      "translation": "聽說現在就算想你 也無法見到你了",
+      "analysis": [
+        { "point": "이제는", "explanation": "現在(強調)" },
+        { "point": "널 보고 싶어도", "explanation": "你(受格) + 想見(即使...也)" },
+        { "point": "볼 수 없대", "explanation": "보다 (見面) + -(으)ㄹ 수 없다 (不能) + -고 해 (聽說...) 的縮略" }
+      ]
+    },
+    {
+      "korean": "밤에 통화도 못한대",
+      "translation": "聽說晚上也無法通話了",
+      "analysis": [
+        { "point": "밤에", "explanation": "晚上" },
+        { "point": "통화도 못한대", "explanation": "통화 (通話) + -도 (也) + 못하다 (不能做) + -고 해 的縮略" }
+      ]
+    },
+    {
+      "korean": "넌 그래도 괜찮니",
+      "translation": "即使那樣你也沒關係嗎",
+      "analysis": [
+        { "point": "넌 그래도", "explanation": "你 即使那樣" },
+        { "point": "괜찮니", "explanation": "괜찮다 (沒關係) + -니 (疑問)" }
+      ]
+    },
+    {
+      "korean": "널 잊고 행복하길 바란대",
+      "translation": "聽說你期盼我忘了你並過得幸福",
+      "analysis": [
+        { "point": "널 잊고", "explanation": "你(受格) + 忘記(連接)" },
+        { "point": "행복하길 바란대", "explanation": "행복하다 (幸福) 的名詞形 + -를 (受格) + 바라다 (期盼) + -ㄴ/는다고 해 的縮略" }
+      ]
+    },
+    {
+      "korean": "우 네 사랑은 여기까지 래요",
+      "translation": "嗚 聽說你的愛就到此為止",
+      "analysis": [
+        { "point": "우", "explanation": "感嘆詞" },
+        { "point": "네 사랑은", "explanation": "你的 愛(主題)" },
+        { "point": "여기까지 래요", "explanation": "여기까지 (到這裡為止) + -(이)라고 해요 (說是...) 的縮略" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "헤어진 그날 밤 너는",
+      "translation": "分手的那個夜晚 你",
+      "analysis": [
+        { "point": "헤어진 그날 밤", "explanation": "分手的 那晚" },
+        { "point": "너는", "explanation": "你(主題)" }
+      ]
+    },
+    {
+      "korean": "유난히도 예뻤어",
+      "translation": "特別地漂亮",
+      "analysis": [
+        { "point": "유난히도", "explanation": "유난히 (特別地，格外地) + -도 (強調)" },
+        { "point": "예뻤어", "explanation": "예쁘다 (漂亮) 的過去式" }
+      ]
+    },
+    {
+      "korean": "그 모습을 기억할게",
+      "translation": "我會記住那個模樣",
+      "analysis": [
+        { "point": "그 모습을", "explanation": "那 模樣(受格)" },
+        { "point": "기억할게", "explanation": "기억하다 (記住) + -(으)ㄹ게 (意志)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제는 널 보고 싶어도 볼 수 없대",
+      "translation": "聽說現在就算想你 也無法見到你了",
+      "analysis": [
+        { "point": "이제는", "explanation": "現在(強調)" },
+        { "point": "널 보고 싶어도", "explanation": "你(受格) + 想見(即使...也)" },
+        { "point": "볼 수 없대", "explanation": "보다 (見面) + -(으)ㄹ 수 없다 (不能) + -고 해 (聽說...) 的縮略" }
+      ]
+    },
+    {
+      "korean": "밤에 통화도 못한대",
+      "translation": "聽說晚上也無法通話了",
+      "analysis": [
+        { "point": "밤에", "explanation": "晚上" },
+        { "point": "통화도 못한대", "explanation": "통화 (通話) + -도 (也) + 못하다 (不能做) + -고 해 的縮略" }
+      ]
+    },
+    {
+      "korean": "넌 그래도 괜찮니",
+      "translation": "即使那樣你也沒關係嗎",
+      "analysis": [
+        { "point": "넌 그래도", "explanation": "你 即使那樣" },
+        { "point": "괜찮니", "explanation": "괜찮다 (沒關係) + -니 (疑問)" }
+      ]
+    },
+    {
+      "korean": "널 잊고 행복하길 바란대",
+      "translation": "聽說你期盼我忘了你並過得幸福",
+      "analysis": [
+        { "point": "널 잊고", "explanation": "你(受格) + 忘記(連接)" },
+        { "point": "행복하길 바란대", "explanation": "행복하다 (幸福) 的名詞形 + -를 (受格) + 바라다 (期盼) + -ㄴ/는다고 해 의縮略" }
+      ]
+    },
+    {
+      "korean": "우 네 사랑은 여기까지 래요",
+      "translation": "嗚 聽說你的愛就到此為止",
+      "analysis": [
+        { "point": "우", "explanation": "感嘆詞" },
+        { "point": "네 사랑은", "explanation": "你的 愛(主題)" },
+        { "point": "여기까지 래요", "explanation": "여기까지 (到這裡為止) + -(이)라고 해요 (說是...) 的縮略" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "내 사랑은 아직",
+      "translation": "我的愛還在",
+      "analysis": [
+        { "point": "내 사랑은 아직", "explanation": "我的 愛(主題) + 아직 (還，仍然)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "아무렇지 않게", "chinese": "若無其事地", "pos": "副詞片語" },
+    { "korean": "평소", "chinese": "平時", "pos": "名詞" },
+    { "korean": "말투", "chinese": "語氣", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "준비하다", "chinese": "準備", "pos": "動詞" },
+    { "korean": "장미꽃", "chinese": "玫瑰花", "pos": "名詞" },
+    { "korean": "들다", "chinese": "拿著/舉著", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "생각하다", "chinese": "想/思考", "pos": "動詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "헤어지다", "chinese": "分手", "pos": "動詞" },
+    { "korean": "나오다", "chinese": "出來", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "얼어버리다", "chinese": "僵住/凍住", "pos": "動詞" },
+    { "korean": "보고 싶다", "chinese": "想見/想念", "pos": "動詞片語" },
+    { "korean": "통화하다", "chinese": "通話", "pos": "動詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "바라다", "chinese": "期盼/希望", "pos": "動詞" },
+    { "korean": "여기까지", "chinese": "到這裡為止", "pos": "副詞" },
+    { "korean": "먹먹하다", "chinese": "堵得慌/沉悶", "pos": "形容詞" },
+    { "korean": "춥다", "chinese": "冷", "pos": "形容詞" },
+    { "korean": "여름밤", "chinese": "夏夜", "pos": "名詞" },
+    { "korean": "차가워지다", "chinese": "變冷", "pos": "動詞" },
+    { "korean": "사이", "chinese": "之間/關係", "pos": "名詞" },
+    { "korean": "눕다", "chinese": "躺下", "pos": "動詞" },
+    { "korean": "탁자", "chinese": "桌子", "pos": "名詞" },
+    { "korean": "사진", "chinese": "照片", "pos": "名詞" },
+    { "korean": "좋았다", "chinese": "曾經很好", "pos": "形容詞 (過去)" },
+    { "korean": "유난히", "chinese": "特別地/格外地", "pos": "副詞" },
+    { "korean": "예쁘다", "chinese": "漂亮", "pos": "形容詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "기억하다", "chinese": "記住", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還/仍然", "pos": "副詞" }
+  ]
+}
