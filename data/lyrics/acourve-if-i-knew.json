@@ -1,0 +1,365 @@
+{
+  "id": "acourve-if-i-knew",
+  "title": "If I knew it was our last time",
+  "artist": "Acourve (어쿠루브)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "사소한 일로 우린 또 다투고",
+      "translation": "我們又因為芝麻小事而爭吵",
+      "analysis": [
+        { "point": "사소한 일로", "explanation": "사소하다 (瑣碎，渺小) 的定語形態 (-ㄴ/은) + 일 (事情) + -(으)로 (原因助詞，因為)" },
+        { "point": "우린", "explanation": "우리 (我們) + -는 (主題助詞) 的縮略" },
+        { "point": "또 다투고", "explanation": "또 (副詞，又，再) + 다투다 (爭吵) 的詞幹 + -고 (連接詞尾)" }
+      ]
+    },
+    {
+      "korean": "상처 주는 말로 아프게 했어",
+      "translation": "用傷人的話語讓你心痛",
+      "analysis": [
+        { "point": "상처 주는 말로", "explanation": "상처(를) 주다 (給予傷害) 的定語形態 (-는) + 말 (話) + -(으)로 (用...)" },
+        { "point": "아프게 했어", "explanation": "아프다 (痛) 的副詞形 (-게) + 하다 (使...) 的過去式非格式體" }
+      ]
+    },
+    {
+      "korean": "나를 등지고 뒤돌아서 가는",
+      "translation": "背對著我轉身離去的",
+      "analysis": [
+        { "point": "나를 등지고", "explanation": "나 (我) + -를 (受格助詞) + 등지다 (背對，背棄) + -고" },
+        { "point": "뒤돌아서 가는", "explanation": "뒤돌아서다 (轉身) 的連接形 (-아서/어서) + 가다 (去) 的定語形態 (-는)" }
+      ]
+    },
+    {
+      "korean": "너의 뒷모습을 난 바라보았어",
+      "translation": "我凝望著你的背影",
+      "analysis": [
+        { "point": "너의 뒷모습을", "explanation": "너의 (你的) + 뒷모습 (背影) + -을 (受格助詞)" },
+        { "point": "난 바라보았어", "explanation": "我(主題) + 바라보다 (凝望) 的過去式非格式體" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "며칠이 지나가면 항상 그래왔던 것처럼",
+      "translation": "如果過幾天 就像一直以來那樣",
+      "analysis": [
+        { "point": "며칠이 지나가면", "explanation": "며칠 (幾天) + -이 (主格助詞) + 지나가다 (過去) + -(으)면 (如果)" },
+        { "point": "항상", "explanation": "副詞，總是" },
+        { "point": "그래왔던 것처럼", "explanation": "그리하여 오다 (那樣過來) 的過去回想定語形態 + -처럼 (像...一樣)" }
+      ]
+    },
+    {
+      "korean": "아무렇지 않게 만날 줄 알았어",
+      "translation": "我以為能若無其事地見面",
+      "analysis": [
+        { "point": "아무렇지 않게", "explanation": "아무렇지도 않다 (若無其事) 的副詞形" },
+        { "point": "만날 줄 알았어", "explanation": "만나다 (見面) + -(으)ㄹ 줄 알다 (以為會...)" }
+      ]
+    },
+    {
+      "korean": "근데 웬일인지 너는 계속 연락 안 되고",
+      "translation": "但不知怎麼回事 你一直聯絡不上",
+      "analysis": [
+        { "point": "근데", "explanation": "그런데 (但是) 的縮略" },
+        { "point": "웬일인지", "explanation": "웬일 (怎麼回事) + -이다 (是) + -ㄴ지 (疑問)" },
+        { "point": "너는 계속", "explanation": "你(主題) + 繼續" },
+        { "point": "연락 안 되고", "explanation": "연락(이) 안 되다 (聯絡不上) + -고" }
+      ]
+    },
+    {
+      "korean": "그저 안녕이란 문자만 남겼어",
+      "translation": "只留下了一則寫著「再見」的訊息",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是" },
+        { "point": "안녕이란", "explanation": "안녕 (再見) + -(이)라는 (所謂的...) 的縮略" },
+        { "point": "문자만", "explanation": "문자 (訊息) + -만 (只)" },
+        { "point": "남겼어", "explanation": "남기다 (留下) 的過去式" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그게 우리 마지막인 줄 알았다면",
+      "translation": "如果知道那是我們的最後",
+      "analysis": [
+        { "point": "그게", "explanation": "那個是" },
+        { "point": "우리 마지막인 줄", "explanation": "我們的 最後 + -(이)ㄴ 줄 (是...這情況)" },
+        { "point": "알았다면", "explanation": "알다 (知道) 的過去式 + -(으)면 (如果)" }
+      ]
+    },
+    {
+      "korean": "붙잡아야 했었는데",
+      "translation": "本該要抓住你的，但是",
+      "analysis": [
+        { "point": "붙잡아야 했었는데", "explanation": "붙잡다 (抓住) + -아야 했었다 (本該做...) + -(으)ㄴ데 (表示惋惜或轉折)" }
+      ]
+    },
+    {
+      "korean": "바보처럼 보내버렸어",
+      "translation": "卻像傻瓜一樣讓你走了",
+      "analysis": [
+        { "point": "바보처럼", "explanation": "像傻瓜一樣" },
+        { "point": "보내버렸어", "explanation": "보내다 (送走) + -어 버리다 (徹底完成) 的過去式" }
+      ]
+    },
+    {
+      "korean": "그게 우리 마지막인 줄 알았다면",
+      "translation": "如果知道那是我們的最後",
+      "analysis": [
+        { "point": "그게 우리 마지막인 줄 알았다면", "explanation": "如果知道那是我們的最後" }
+      ]
+    },
+    {
+      "korean": "잘해줬어야 했었는데",
+      "translation": "本該要對你好的，但是",
+      "analysis": [
+        { "point": "잘해줬어야 했었는데", "explanation": "잘해주다 (對...好) + -었어야 했었다 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "잘못한 일만 생각이 나네",
+      "translation": "卻只想起做錯的事呢",
+      "analysis": [
+        { "point": "잘못한 일만", "explanation": "做錯的事 只" },
+        { "point": "생각이 나네", "explanation": "想起(感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "너와 헤어지고 난 며칠 동안",
+      "translation": "和你分手後的幾天裡",
+      "analysis": [
+        { "point": "너와 헤어지고", "explanation": "和你 分手(連接)" },
+        { "point": "난 며칠 동안", "explanation": "我 幾天 期間" }
+      ]
+    },
+    {
+      "korean": "그저 천장만 바라보았어",
+      "translation": "只是望著天花板",
+      "analysis": [
+        { "point": "그저 천장만", "explanation": "只是 天花板 只" },
+        { "point": "바라보았어", "explanation": "凝望(過去式)" }
+      ]
+    },
+    {
+      "korean": "어디서부터 우리 잘못된 건지",
+      "translation": "我們是從哪裡開始錯了的呢",
+      "analysis": [
+        { "point": "어디서부터", "explanation": "從哪裡開始" },
+        { "point": "우리 잘못된 건지", "explanation": "我們 + 잘못되다 (錯了) + -(으)ㄴ 것인지 (是...的呢)" }
+      ]
+    },
+    {
+      "korean": "처음부터 다시 생각을 해봤어",
+      "translation": "從頭開始重新想了一遍",
+      "analysis": [
+        { "point": "처음부터 다시", "explanation": "從頭開始 再次" },
+        { "point": "생각을 해봤어", "explanation": "想法(受格) + 해보다 (試著做) 的過去式" }
+      ]
+    },
+    {
+      "korean": "못난 이기심 땜에 너를 울리기만 했었고",
+      "translation": "因為不像樣的自私心只讓你哭泣",
+      "analysis": [
+        { "point": "못난 이기심 땜에", "explanation": "不像樣的 自私心 因為(口語)" },
+        { "point": "너를 울리기만 했었고", "explanation": "你(受格) + 울리다 (使哭泣) + -기만 하다 (只做...) 的過去式" }
+      ]
+    },
+    {
+      "korean": "좁은 자존심에 널 아프게 했어",
+      "translation": "因為狹隘的自尊心而讓你心痛",
+      "analysis": [
+        { "point": "좁은 자존심에", "explanation": "狹隘的 自尊心(原因)" },
+        { "point": "널 아프게 했어", "explanation": "讓你心痛(過去式)" }
+      ]
+    },
+    {
+      "korean": "그때 너의 맘을 이제서야 알게 됐는데",
+      "translation": "那時你的心意 我到現在才明白，但是",
+      "analysis": [
+        { "point": "그때 너의 맘을", "explanation": "那時 你的 心(受格)" },
+        { "point": "이제서야 알게 됐는데", "explanation": "事到如今才 + 明白(背景/轉折)" }
+      ]
+    },
+    {
+      "korean": "너는 이미 떠나 버렸네",
+      "translation": "你卻已經離開了啊",
+      "analysis": [
+        { "point": "너는 이미", "explanation": "你(主題) 已經" },
+        { "point": "떠나 버렸네", "explanation": "離開(徹底) + -네 (感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그게 우리 마지막인 줄 알았다면",
+      "translation": "如果知道那是我們的最後",
+      "analysis": [
+        { "point": "그게", "explanation": "那個是" },
+        { "point": "우리 마지막인 줄", "explanation": "我們的 最後 + -(이)ㄴ 줄 (是...這情況)" },
+        { "point": "알았다면", "explanation": "알다 (知道) 의過去式 + -(으)면 (如果)" }
+      ]
+    },
+    {
+      "korean": "붙잡아야 했었는데",
+      "translation": "本該要抓住你的，但是",
+      "analysis": [
+        { "point": "붙잡아야 했었는데", "explanation": "붙잡다 (抓住) + -아야 했었다 (本該做...) + -(으)ㄴ데 (表示惋惜或轉折)" }
+      ]
+    },
+    {
+      "korean": "바보처럼 보내버렸어",
+      "translation": "卻像傻瓜一樣讓你走了",
+      "analysis": [
+        { "point": "바보처럼", "explanation": "像傻瓜一樣" },
+        { "point": "보내버렸어", "explanation": "보내다 (送走) + -어 버리다 (徹底完成) 的過去式" }
+      ]
+    },
+    {
+      "korean": "그게 우리 마지막인 줄 알았다면",
+      "translation": "如果知道那是我們的最後",
+      "analysis": [
+        { "point": "그게 우리 마지막인 줄 알았다면", "explanation": "如果知道那是我們的最後" }
+      ]
+    },
+    {
+      "korean": "잘해줬어야 했었는데",
+      "translation": "本該要對你好的，但是",
+      "analysis": [
+        { "point": "잘해줬어야 했었는데", "explanation": "잘해주다 (對...好) + -었어야 했었다 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "잘못한 일만 생각이 나네",
+      "translation": "卻只想起做錯的事呢",
+      "analysis": [
+        { "point": "잘못한 일만", "explanation": "做錯的事 只" },
+        { "point": "생각이 나네", "explanation": "想起(感嘆)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "자꾸 후회만 쌓여",
+      "translation": "總是只堆積著後悔",
+      "analysis": [
+        { "point": "자꾸", "explanation": "副詞，總是，頻繁地" },
+        { "point": "후회만", "explanation": "후회 (後悔) + -만 (只)" },
+        { "point": "쌓여", "explanation": "쌓이다 (堆積) 的非格式體" }
+      ]
+    },
+    {
+      "korean": "네가 너무 보고 싶은데 (보고 싶은데)",
+      "translation": "我太想你了，但是 (想你)",
+      "analysis": [
+        { "point": "네가 너무 보고 싶은데", "explanation": "你(主格) + 太 想你 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "다시 내게 올 수 없겠니",
+      "translation": "不能再回到我身邊嗎",
+      "analysis": [
+        { "point": "다시 내게", "explanation": "再次 對我" },
+        { "point": "올 수 없겠니", "explanation": "오다 (來) + -(으)ㄹ 수 없다 (不能) + -겠니 (推測疑問)" }
+      ]
+    },
+    {
+      "korean": "처음 만날 날부터 우리 헤어졌던 날까지 (만날 날부터)",
+      "translation": "從初次見面的那天起 直到我們分手的那天為止 (從見面的那天起)",
+      "analysis": [
+        { "point": "처음 만날 날부터", "explanation": "從初次見面的那天起" },
+        { "point": "우리 헤어졌던 날까지", "explanation": "我們曾分手的那天為止" }
+      ]
+    },
+    {
+      "korean": "나는 너무나도 생각나는데",
+      "translation": "我是那麼地想念，但是",
+      "analysis": [
+        { "point": "나는 너무나도", "explanation": "我(主題) + 非常地" },
+        { "point": "생각나는데", "explanation": "想起(背景/轉折)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그게 우리 마지막인 줄 알았다면",
+      "translation": "如果知道那是我們的最後",
+      "analysis": [
+        { "point": "그게", "explanation": "那個是" },
+        { "point": "우리 마지막인 줄", "explanation": "我們的 最後 + -(이)ㄴ 줄 (是...這情況)" },
+        { "point": "알았다면", "explanation": "알다 (知道) 의過去式 + -(으)면 (如果)" }
+      ]
+    },
+    {
+      "korean": "붙잡아야 했었는데",
+      "translation": "本該要抓住你的，但是",
+      "analysis": [
+        { "point": "붙잡아야 했었는데", "explanation": "붙잡다 (抓住) + -아야 했었다 (本該做...) + -(으)ㄴ데 (表示惋惜或轉折)" }
+      ]
+    },
+    {
+      "korean": "바보처럼 보내버렸어",
+      "translation": "卻像傻瓜一樣讓你走了",
+      "analysis": [
+        { "point": "바보처럼", "explanation": "像傻瓜一樣" },
+        { "point": "보내버렸어", "explanation": "보내다 (送走) + -어 버리다 (徹底完成) 的過去式" }
+      ]
+    },
+    {
+      "korean": "그게 우리 마지막인 줄 알았다면",
+      "translation": "如果知道那是我們的最後",
+      "analysis": [
+        { "point": "그게 우리 마지막인 줄 알았다면", "explanation": "如果知道那是我們的最後" }
+      ]
+    },
+    {
+      "korean": "잘해줬어야 했었는데",
+      "translation": "本該要對你好的，但是",
+      "analysis": [
+        { "point": "잘해줬어야 했었는데", "explanation": "잘해주다 (對...好) + -었어야 했었다 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "잘못한 일만 생각이 나네",
+      "translation": "卻只想起做錯的事呢",
+      "analysis": [
+        { "point": "잘못한 일만", "explanation": "做錯的事 只" },
+        { "point": "생각이 나네", "explanation": "想起(感嘆)" }
+      ]
+    },
+    {
+      "korean": "잘못한 일만 생각이 나네",
+      "translation": "卻只想起做錯的事呢",
+      "analysis": [
+        { "point": "잘못한 일만", "explanation": "做錯的事 只" },
+        { "point": "생각이 나네", "explanation": "想起(感嘆)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "사소하다", "chinese": "瑣碎/渺小", "pos": "形容詞" },
+    { "korean": "다투다", "chinese": "爭吵", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "등지다", "chinese": "背對/背棄", "pos": "動詞" },
+    { "korean": "뒷모습", "chinese": "背影", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝望", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "아무렇지 않다", "chinese": "若無其事", "pos": "形容詞" },
+    { "korean": "연락", "chinese": "聯絡", "pos": "名詞" },
+    { "korean": "문자", "chinese": "訊息", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "보내다", "chinese": "送走", "pos": "動詞" },
+    { "korean": "잘해주다", "chinese": "對...好", "pos": "動詞" },
+    { "korean": "잘못하다", "chinese": "做錯", "pos": "動詞" },
+    { "korean": "생각나다", "chinese": "想起", "pos": "動詞" },
+    { "korean": "헤어지다", "chinese": "分手", "pos": "動詞" },
+    { "korean": "며칠", "chinese": "幾天", "pos": "名詞" },
+    { "korean": "천장", "chinese": "天花板", "pos": "名詞" },
+    { "korean": "이기심", "chinese": "自私心", "pos": "名詞" },
+    { "korean": "울리다", "chinese": "使哭泣", "pos": "動詞" },
+    { "korean": "자존심", "chinese": "自尊心", "pos": "名詞" },
+    { "korean": "아프게 하다", "chinese": "使心痛", "pos": "動詞片語" },
+    { "korean": "이제서야", "chinese": "事到如今才", "pos": "副詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "후회", "chinese": "後悔", "pos": "名詞" },
+    { "korean": "쌓이다", "chinese": "堆積", "pos": "動詞" },
+    { "korean": "안부", "chinese": "問候", "pos": "名詞" }
+  ]
+}

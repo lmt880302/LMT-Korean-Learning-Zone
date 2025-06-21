@@ -1,0 +1,734 @@
+{
+  "id": "epikhigh-love-story",
+  "title": "연애소설 (Love Story)",
+  "artist": "Epik High (Feat. IU)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1 (IU)",
+      "korean": "우리 한때 자석 같았다는 건",
+      "translation": "我們曾像磁鐵這件事",
+      "analysis": [
+        { "point": "우리", "explanation": "代名詞，我們" },
+        { "point": "한때", "explanation": "名詞/副詞，一度，曾經" },
+        { "point": "자석 같았다는 건", "explanation": "자석 (磁鐵) + 같다 (像...一樣) 的過去式 + -다는 것 (表示「...這件事實」) 的縮略" }
+      ]
+    },
+    {
+      "korean": "한쪽만 등을 돌리면 멀어진다는 거였네",
+      "translation": "原來是指只要有一方轉身就會疏遠",
+      "analysis": [
+        { "point": "한쪽만", "explanation": "한쪽 (一方) + -만 (只)" },
+        { "point": "등을 돌리면", "explanation": "慣用語 `등을 돌리다` (轉身，背棄) + -(으)면 (如果...的話)" },
+        { "point": "멀어진다는 거였네", "explanation": "멀어지다 (變遠，疏遠) + -는다는 것 (是...這件事) + -이었네 (表示過去的回想或發現)" }
+      ]
+    },
+    {
+      "korean": "가진 게 없던 내게",
+      "translation": "對一無所有的我而言",
+      "analysis": [
+        { "point": "가진 게 없던", "explanation": "慣用語 `가진 게 없다` (一無所有) + -던 (過去回想定語形態)" },
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略" }
+      ]
+    },
+    {
+      "korean": "네가 준 상처 덕분에",
+      "translation": "多虧了你給的傷口",
+      "analysis": [
+        { "point": "네가 준", "explanation": "네가 (你) + 주다 (給) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "상처 덕분에", "explanation": "상처 (傷口) + 덕분에 (多虧了...)" }
+      ]
+    },
+    {
+      "korean": "나도 주인공이 돼보네",
+      "translation": "我也試著成了主角呢",
+      "analysis": [
+        { "point": "나도", "explanation": "我 + -도 (也)" },
+        { "point": "주인공이 돼보네", "explanation": "주인공 (主角) + -이 (主格) + 되다 (成為) + -어 보다 (試著做...) + -네 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "별 볼 일 없던 내게",
+      "translation": "對曾不起眼的我而言",
+      "analysis": [
+        { "point": "별 볼 일 없던", "explanation": "慣用語 `별 볼 일 없다` (不起眼，沒什麼了不起) + -던" }
+      ]
+    },
+    {
+      "korean": "네가 준 이별 덕분에",
+      "translation": "多虧了你給的離別",
+      "analysis": [
+        { "point": "네가 준 이별", "explanation": "你給的 離別" },
+        { "point": "덕분에", "explanation": "多虧了..." }
+      ]
+    },
+    {
+      "korean": "나도 주인공이 돼보네",
+      "translation": "我也試著成了主角呢",
+      "analysis": [
+        { "point": "나도 주인공이 돼보네", "explanation": "我也 + 主角(主格) + 試著成為(感嘆)" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "In this sad love story",
+      "translation": "在這個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In this sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Tablo)",
+      "korean": "잊을 때도 됐는데",
+      "translation": "也到了該忘記的時候，但是",
+      "analysis": [
+        { "point": "잊을 때도 됐는데", "explanation": "잊다 (忘記) + -(으)ㄹ 때 (時候) + -도 (也) + 되다 (到來) 的過去式 + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "기억에 살만 붙어서 미련만 커지네",
+      "translation": "記憶卻只長出了肉，只有迷戀越來越大",
+      "analysis": [
+        { "point": "기억에 살만 붙어서", "explanation": "記憶 + -에 (在) + 살 (肉) + -만 (只) + 붙다 (附著) + -어서 (因為)" },
+        { "point": "미련만 커지네", "explanation": "미련 (迷戀，留戀) + -만 (只) + 커지다 (變大) + -네 (感嘆)" }
+      ]
+    },
+    {
+      "korean": "되돌아보면",
+      "translation": "回頭看的話",
+      "analysis": [
+        { "point": "되돌아보면", "explanation": "되돌아보다 (回頭看) + -(으)면" }
+      ]
+    },
+    {
+      "korean": "가슴을 찢어지게 하는데",
+      "translation": "讓心撕裂，但是",
+      "analysis": [
+        { "point": "가슴을 찢어지게 하는데", "explanation": "心(受格) + 찢어지다 (被撕裂) + -게 하다 (使...) + -(으)ㄴ데" }
+      ]
+    },
+    {
+      "korean": "하필 전부 명장면이네",
+      "translation": "偏偏全都是名場面啊",
+      "analysis": [
+        { "point": "하필", "explanation": "副詞，偏偏，恰好" },
+        { "point": "전부", "explanation": "副詞，全部" },
+        { "point": "명장면이네", "explanation": "명장면 (名場面) + -이다 (是) + -네" }
+      ]
+    },
+    {
+      "korean": "기억나?",
+      "translation": "還記得嗎？",
+      "analysis": [
+        { "point": "기억나?", "explanation": "기억나다 (記得) 的疑問形" }
+      ]
+    },
+    {
+      "korean": "캄캄한 영화관",
+      "translation": "漆黑的電影院",
+      "analysis": [
+        { "point": "캄캄한 영화관", "explanation": "캄캄하다 (漆黑) 的定語形 + 영화관 (電影院)" }
+      ]
+    },
+    {
+      "korean": "너와 내 두 손이 처음 포개졌던 날",
+      "translation": "你和我的雙手第一次交疊的那天",
+      "analysis": [
+        { "point": "너와 내 두 손이", "explanation": "你和我的雙手(主格)" },
+        { "point": "처음 포개졌던 날", "explanation": "第一次 + 포개지다 (交疊) 的過去回想 + 날 (天)" }
+      ]
+    },
+    {
+      "korean": "감사했어",
+      "translation": "我很感謝",
+      "analysis": [
+        { "point": "감사했어", "explanation": "감사하다 (感謝) 的過去式" }
+      ]
+    },
+    {
+      "korean": "한평생 무수한 걸 짓고 무너뜨렸을 네 손이",
+      "translation": "你那曾在一生中建造又摧毀無數事物的手",
+      "analysis": [
+        { "point": "한평생", "explanation": "一生" },
+        { "point": "무수한 걸", "explanation": "無數的事物(受格)" },
+        { "point": "짓고 무너뜨렸을", "explanation": "建造(連接) + 摧毀(過去推測定語)" },
+        { "point": "네 손이", "explanation": "你的手(主格)" }
+      ]
+    },
+    {
+      "korean": "내 손에 정착한 것을",
+      "translation": "安頓在我的手上這件事",
+      "analysis": [
+        { "point": "내 손에 정착한 것을", "explanation": "我的手上 + 정착하다 (安頓) 的過去定語形 + 事實(受格)" }
+      ]
+    },
+    {
+      "korean": "기억나?",
+      "translation": "還記得嗎？",
+      "analysis": [
+        { "point": "기억나?", "explanation": "기억나다 (記得) 의疑問形" }
+      ]
+    },
+    {
+      "korean": "네가 가족사를 들려준 밤",
+      "translation": "你講述家族史的那個夜晚",
+      "analysis": [
+        { "point": "네가 가족사를 들려준 밤", "explanation": "你(主格) + 家族史(受格) + 들려주다 (講給...聽) 的過去定語形 + 夜晚" }
+      ]
+    },
+    {
+      "korean": "그건 나만 아는 너 한 조각 주고픈 마음",
+      "translation": "那是只有我知道的、想給你一片的你的心意",
+      "analysis": [
+        { "point": "그건 나만 아는", "explanation": "那是只有我知道的" },
+        { "point": "너 한 조각", "explanation": "你 一片" },
+        { "point": "주고픈 마음", "explanation": "주다 (給) + -고프다 (想，싶다 的詩意表達) 的定語形 + 마음 (心意)" }
+      ]
+    },
+    {
+      "korean": "비가 와 이불 밑에서",
+      "translation": "下著雨 在棉被底下",
+      "analysis": [
+        { "point": "비가 와", "explanation": "下雨(連接)" },
+        { "point": "이불 밑에서", "explanation": "棉被 底下" }
+      ]
+    },
+    {
+      "korean": "넌 내 몸을 지붕 삼아",
+      "translation": "你把我的身體當作屋頂",
+      "analysis": [
+        { "point": "넌 내 몸을", "explanation": "你 我的身體(受格)" },
+        { "point": "지붕 삼아", "explanation": "屋頂 + -삼아 (當作...)" }
+      ]
+    },
+    {
+      "korean": "이 세상의 모든 비를 피했어",
+      "translation": "躲過了這世上所有的雨",
+      "analysis": [
+        { "point": "이 세상의 모든 비를", "explanation": "這世界的 所有雨(受格)" },
+        { "point": "피했어", "explanation": "피하다 (躲避) 的過去式" }
+      ]
+    },
+    {
+      "korean": "다 기억나 네가 없는 첫 아침도",
+      "translation": "全都記得 連沒有你的第一個早晨也",
+      "analysis": [
+        { "point": "다 기억나", "explanation": "全都記得" },
+        { "point": "네가 없는 첫 아침도", "explanation": "沒有你的第一個早晨也" }
+      ]
+    },
+    {
+      "korean": "잘 참다 끝내 무너진 그 순간을",
+      "translation": "好好忍著最終崩潰的那個瞬間",
+      "analysis": [
+        { "point": "잘 참다 끝내", "explanation": "好好忍著 最終" },
+        { "point": "무너진 그 순간을", "explanation": "崩潰的 那個瞬間(受格)" }
+      ]
+    },
+    {
+      "korean": "한참 울었거든 샤워실에서",
+      "translation": "因為在浴室裡哭了很久",
+      "analysis": [
+        { "point": "한참 울었거든", "explanation": "哭了很久(-거든表原因)" },
+        { "point": "샤워실에서", "explanation": "在浴室" }
+      ]
+    },
+    {
+      "korean": "비누에 붙은 너의 머리카락을 떼며",
+      "translation": "一邊撕下黏在肥皂上的你的頭髮",
+      "analysis": [
+        { "point": "비누에 붙은", "explanation": "黏在肥皂上的" },
+        { "point": "너의 머리카락을", "explanation": "你的頭髮(受格)" },
+        { "point": "떼며", "explanation": "떼다 (撕下) + -(으)며 (同時)" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (IU)",
+      "korean": "가진 게 없던 내게",
+      "translation": "對一無所有的我而言",
+      "analysis": [
+        { "point": "가진 게 없던", "explanation": "慣用語 `가진 게 없다` (一無所有) + -던 (過去回想定語形態)" },
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略" }
+      ]
+    },
+    {
+      "korean": "네가 준 상처 덕분에",
+      "translation": "多虧了你給的傷口",
+      "analysis": [
+        { "point": "네가 준", "explanation": "네가 (你) + 주다 (給) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "상처 덕분에", "explanation": "상처 (傷口) + 덕분에 (多虧了...)" }
+      ]
+    },
+    {
+      "korean": "나도 주인공이 돼보네",
+      "translation": "我也試著成了主角呢",
+      "analysis": [
+        { "point": "나도", "explanation": "我 + -도 (也)" },
+        { "point": "주인공이 돼보네", "explanation": "주인공 (主角) + -이 (主格) + 되다 (成為) + -어 보다 (試著做...) + -네 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "별 볼 일 없던 내게",
+      "translation": "對曾不起眼的我而言",
+      "analysis": [
+        { "point": "별 볼 일 없던", "explanation": "慣用語 `별 볼 일 없다` (不起眼，沒什麼了不起) + -던" }
+      ]
+    },
+    {
+      "korean": "네가 준 이별 덕분에",
+      "translation": "多虧了你給的離別",
+      "analysis": [
+        { "point": "네가 준 이별", "explanation": "你給的 離別" },
+        { "point": "덕분에", "explanation": "多虧了..." }
+      ]
+    },
+    {
+      "korean": "나도 주인공이 돼보네",
+      "translation": "我也試著成了主角呢",
+      "analysis": [
+        { "point": "나도 주인공이 돼보네", "explanation": "我也 + 主角(主格) + 試著成為(感嘆)" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "In this sad love",
+      "translation": "在這悲傷的愛中",
+      "analysis": [
+        { "point": "In this sad love", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3 (Mithra Jin)",
+      "korean": "가랑비 같은 슬픔이라 위로했지만",
+      "translation": "雖然曾安慰說是像毛毛雨一樣的悲傷",
+      "analysis": [
+        { "point": "가랑비 같은 슬픔이라", "explanation": "毛毛雨一樣的 悲傷 + -(이)라(고) (說是...)" },
+        { "point": "위로했지만", "explanation": "安慰過 + -지만 (但是)" }
+      ]
+    },
+    {
+      "korean": "여전히 젖은 얼굴로 잠에서 깨",
+      "translation": "依然帶著濕潤的臉龐從睡夢中醒來",
+      "analysis": [
+        { "point": "여전히", "explanation": "依然" },
+        { "point": "젖은 얼굴로", "explanation": "濕潤的 臉龐" },
+        { "point": "잠에서 깨", "explanation": "從睡夢中醒來" }
+      ]
+    },
+    {
+      "korean": "계절은 무심코 변하고 앞만 보는데",
+      "translation": "季節不經意地變換 只望著前方，但是",
+      "analysis": [
+        { "point": "계절은 무심코", "explanation": "季節 不經意地" },
+        { "point": "변하고 앞만 보는데", "explanation": "變換(連接) + 只望著前方(背景)" }
+      ]
+    },
+    {
+      "korean": "난 서성이네 여태",
+      "translation": "我至今仍在徘徊",
+      "analysis": [
+        { "point": "난 서성이네 여태", "explanation": "我 徘徊呢 至今" }
+      ]
+    },
+    {
+      "korean": "시간도 버리고 간 기억뿐인 네 옆에",
+      "translation": "在連時間都拋棄了的只剩記憶的你的身旁",
+      "analysis": [
+        { "point": "시간도 버리고 간", "explanation": "連時間都拋棄而去的" },
+        { "point": "기억뿐인 네 옆에", "explanation": "只有記憶的 你的身旁" }
+      ]
+    },
+    {
+      "korean": "잊지 못해 술기운에 이끌려",
+      "translation": "無法忘懷 被酒意牽引",
+      "analysis": [
+        { "point": "잊지 못해", "explanation": "無法忘懷" },
+        { "point": "술기운에 이끌려", "explanation": "被酒意牽引" }
+      ]
+    },
+    {
+      "korean": "마주했었던 둘의 첫날밤",
+      "translation": "曾相對的兩人的初夜",
+      "analysis": [
+        { "point": "마주했었던", "explanation": "曾面對的" },
+        { "point": "둘의 첫날밤", "explanation": "兩人的 初夜" }
+      ]
+    },
+    {
+      "korean": "사실 술 한잔 부딪히기도 전에 취했지",
+      "translation": "其實連一杯酒都還沒碰就醉了",
+      "analysis": [
+        { "point": "사실", "explanation": "其實" },
+        { "point": "술 한잔 부딪히기도 전에", "explanation": "連一杯酒都還沒碰" },
+        { "point": "취했지", "explanation": "醉了(確認)" }
+      ]
+    },
+    {
+      "korean": "우리가 마신 건 운명인 것 같아",
+      "translation": "我們喝下的 好像是命運",
+      "analysis": [
+        { "point": "우리가 마신 건", "explanation": "我們喝下的事" },
+        { "point": "운명인 것 같아", "explanation": "像是命運" }
+      ]
+    },
+    {
+      "korean": "너무나 빠르게도 깨어난 우리",
+      "translation": "卻又如此快速地醒來的我們",
+      "analysis": [
+        { "point": "너무나 빠르게도", "explanation": "如此快速地" },
+        { "point": "깨어난 우리", "explanation": "醒來的我們" }
+      ]
+    },
+    {
+      "korean": "한때는 죽고 못 살 것만 같던 날들이",
+      "translation": "曾經以為沒了對方就活不下去的日子",
+      "analysis": [
+        { "point": "한때는", "explanation": "曾經" },
+        { "point": "죽고 못 살 것만 같던 날들이", "explanation": "以為沒了對方就活不下去的日子們" }
+      ]
+    },
+    {
+      "korean": "전쟁 같은 매일이 돼",
+      "translation": "變成了像戰爭一樣的每一天",
+      "analysis": [
+        { "point": "전쟁 같은 매일이 돼", "explanation": "像戰爭一樣的每一天 變成了" }
+      ]
+    },
+    {
+      "korean": "죽일 듯 서로를 바라보며",
+      "translation": "像要殺死對方般地看著彼此",
+      "analysis": [
+        { "point": "죽일 듯", "explanation": "像要殺死般" },
+        { "point": "서로를 바라보며", "explanation": "看著彼此" }
+      ]
+    },
+    {
+      "korean": "맞이하게 된 눈물의 끝",
+      "translation": "迎來的眼淚的盡頭",
+      "analysis": [
+        { "point": "맞이하게 된", "explanation": "迎來的" },
+        { "point": "눈물의 끝", "explanation": "眼淚的盡頭" }
+      ]
+    },
+    {
+      "korean": "필연이라 믿던 첫 만남부터",
+      "translation": "從曾相信是必然的初次見面起",
+      "analysis": [
+        { "point": "필연이라 믿던", "explanation": "曾相信是必然的" },
+        { "point": "첫 만남부터", "explanation": "從初次見面起" }
+      ]
+    },
+    {
+      "korean": "악연이라며 돌아선 마지막까지도",
+      "translation": "到說著是孽緣而轉身的最後為止",
+      "analysis": [
+        { "point": "악연이라며", "explanation": "說是孽緣" },
+        { "point": "돌아선 마지막까지도", "explanation": "到轉身的最後為止" }
+      ]
+    },
+    {
+      "korean": "우린 서로 마주 보는 거울이었지",
+      "translation": "我們曾是互相對視的鏡子",
+      "analysis": [
+        { "point": "우린 서로", "explanation": "我們 互相" },
+        { "point": "마주 보는 거울이었지", "explanation": "曾是 對視的鏡子" }
+      ]
+    },
+    {
+      "korean": "서로가 던진 눈빛에 깨질 때까지도",
+      "translation": "直到被彼此投出的眼神所擊碎為止",
+      "analysis": [
+        { "point": "서로가 던진 눈빛에", "explanation": "在彼此投出的眼神中" },
+        { "point": "깨질 때까지도", "explanation": "到破碎為止" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (IU)",
+      "korean": "가진 게 없던 내게",
+      "translation": "對一無所有的我而言",
+      "analysis": [
+        { "point": "가진 게 없던", "explanation": "慣用語 `가진 게 없다` (一無所有) + -던 (過去回想定語形態)" },
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略" }
+      ]
+    },
+    {
+      "korean": "네가 준 상처 덕분에",
+      "translation": "多虧了你給的傷口",
+      "analysis": [
+        { "point": "네가 준", "explanation": "네가 (你) + 주다 (給) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "상처 덕분에", "explanation": "상처 (傷口) + 덕분에 (多虧了...)" }
+      ]
+    },
+    {
+      "korean": "나도 주인공이 돼보네",
+      "translation": "我也試著成了主角呢",
+      "analysis": [
+        { "point": "나도", "explanation": "我 + -도 (也)" },
+        { "point": "주인공이 돼보네", "explanation": "주인공 (主角) + -이 (主格) + 되다 (成為) + -어 보다 (試著做...) + -네 (感嘆終結)" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "별 볼 일 없던 내게",
+      "translation": "對曾不起眼的我而言",
+      "analysis": [
+        { "point": "별 볼 일 없던", "explanation": "慣用語 `별 볼 일 없다` (不起眼，沒什麼了不起) + -던" }
+      ]
+    },
+    {
+      "korean": "네가 준 이별 덕분에",
+      "translation": "多虧了你給的離別",
+      "analysis": [
+        { "point": "네가 준 이별", "explanation": "你給的 離別" },
+        { "point": "덕분에", "explanation": "多虧了..." }
+      ]
+    },
+    {
+      "korean": "나도 한소절 가져보네",
+      "translation": "我也試著擁有了一小節",
+      "analysis": [
+        { "point": "나도 한소절", "explanation": "我 也 一小節" },
+        { "point": "가져보네", "explanation": "가지다 (擁有) + -어 보다 (試著) + -네 (感嘆)" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "In this sad love",
+      "translation": "在這悲傷的愛中",
+      "analysis": [
+        { "point": "In this sad love", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge/Outro (IU & Tablo)",
+      "korean": "나에게만 특별한 얘기",
+      "translation": "只對我而言特別的故事",
+      "analysis": [
+        { "point": "나에게만", "explanation": "只對我" },
+        { "point": "특별한 얘기", "explanation": "特別的 故事" }
+      ]
+    },
+    {
+      "korean": "참 진부하죠?",
+      "translation": "真的很陳腔濫調吧？",
+      "analysis": [
+        { "point": "참", "explanation": "真的" },
+        { "point": "진부하죠?", "explanation": "진부하다 (陳腔濫調) + -지요? (確認疑問)" }
+      ]
+    },
+    {
+      "korean": "나만 이런 게 아닌 건 알지만",
+      "translation": "雖然知道不是只有我這樣",
+      "analysis": [
+        { "point": "나만 이런 게 아닌 건", "explanation": "不是只有我這樣的這件事" },
+        { "point": "알지만", "explanation": "知道但是" }
+      ]
+    },
+    {
+      "korean": "내가 이런 걸",
+      "translation": "我竟然會這樣",
+      "analysis": [
+        { "point": "내가 이런 걸", "explanation": "我(主格) + 這樣的 + -(으)ㄴ/는 걸 (感嘆)" }
+      ]
+    },
+    {
+      "korean": "줄 게 없었던 내게",
+      "translation": "對曾沒什麼能給予的我而言",
+      "analysis": [
+        { "point": "줄 게 없었던 내게", "explanation": "對曾沒有能給予的東西的我而言" }
+      ]
+    },
+    {
+      "korean": "남겨준 상처 덕분에",
+      "translation": "多虧了你留下的傷口",
+      "analysis": [
+        { "point": "남겨준 상처 덕분에", "explanation": "留下的 傷口 多虧了" }
+      ]
+    },
+    {
+      "korean": "나도 누군가에게 주네",
+      "translation": "我也給了某個人呢",
+      "analysis": [
+        { "point": "나도 누군가에게 주네", "explanation": "我也 對某個人 給呢" }
+      ]
+    },
+    {
+      "korean": "나 닮은 sad story",
+      "translation": "與我相似的 sad story",
+      "analysis": [
+        { "point": "나 닮은", "explanation": "與我相似的" },
+        { "point": "sad story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "다 처음이었던 내게",
+      "translation": "對一切都是第一次的我而言",
+      "analysis": [
+        { "point": "다 처음이었던 내게", "explanation": "對曾一切都是第一次的我而言" }
+      ]
+    },
+    {
+      "korean": "네가 준 두려움 덕분에",
+      "translation": "多虧了你給的恐懼",
+      "analysis": [
+        { "point": "네가 준 두려움 덕분에", "explanation": "你給的 恐懼 多虧了" }
+      ]
+    },
+    {
+      "korean": "난 영원히",
+      "translation": "我永遠地",
+      "analysis": [
+        { "point": "난 영원히", "explanation": "我 永遠地" }
+      ]
+    },
+    {
+      "korean": "In a sad love story",
+      "translation": "在一個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In a sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "In this sad love story",
+      "translation": "在這個悲傷的愛情故事裡",
+      "analysis": [
+        { "point": "In this sad love story", "explanation": "英文歌詞" }
+      ]
+    },
+    {
+      "korean": "우리 한때 자석 같았다는 건",
+      "translation": "我們曾像磁鐵這件事",
+      "analysis": [
+        { "point": "우리 한때 자석 같았다는 건", "explanation": "我們曾像磁鐵這件事" }
+      ]
+    },
+    {
+      "korean": "한쪽만 등을 돌리면 멀어진다는 거였네",
+      "translation": "原來是指只要有一方轉身就會疏遠",
+      "analysis": [
+        { "point": "한쪽만 등을 돌리면 멀어진다는 거였네", "explanation": "原來是指只要有一方轉身就會疏遠" }
+      ]
+    },
+    {
+      "korean": "우리 한때 자석 같았다는 건",
+      "translation": "我們曾像磁鐵這件事",
+      "analysis": [
+        { "point": "우리 한때 자석 같았다는 건", "explanation": "我們曾像磁鐵這件事" }
+      ]
+    },
+    {
+      "korean": "한쪽만 등을 돌리면 남이 된다는 거였네",
+      "translation": "原來是指只要有一方轉身就會變成陌生人",
+      "analysis": [
+        { "point": "한쪽만 등을 돌리면", "explanation": "只要有一方轉身" },
+        { "point": "남이 된다는 거였네", "explanation": "原來是指會變成陌生人" }
+      ]
+    },
+    {
+      "korean": "서울 하늘엔 별 하나 없네",
+      "translation": "首爾的天空連一顆星星都沒有呢",
+      "analysis": [
+        { "point": "서울 하늘엔", "explanation": "首爾 天空上" },
+        { "point": "별 하나 없네", "explanation": "連一顆星星都沒有呢" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "자석", "chinese": "磁鐵", "pos": "名詞" },
+    { "korean": "등을 돌리다", "chinese": "轉身/背棄", "pos": "慣用語" },
+    { "korean": "멀어지다", "chinese": "變遠/疏遠", "pos": "動詞" },
+    { "korean": "가진 게 없다", "chinese": "一無所有", "pos": "慣用語" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "덕분에", "chinese": "多虧了", "pos": "副詞" },
+    { "korean": "주인공", "chinese": "主角", "pos": "名詞" },
+    { "korean": "돼보다", "chinese": "試著成為", "pos": "動詞" },
+    { "korean": "별 볼 일 없다", "chinese": "不起眼/沒什麼了不起", "pos": "慣用語" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "한소절", "chinese": "一小節(歌詞)", "pos": "名詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "살이 붙다", "chinese": "長肉/變得更具體", "pos": "慣用語" },
+    { "korean": "미련", "chinese": "迷戀/留戀", "pos": "名詞" },
+    { "korean": "되돌아보다", "chinese": "回頭看", "pos": "動詞" },
+    { "korean": "가슴이 찢어지다", "chinese": "心如刀割", "pos": "慣用語" },
+    { "korean": "하필", "chinese": "偏偏/恰好", "pos": "副詞" },
+    { "korean": "명장면", "chinese": "名場面", "pos": "名詞" },
+    { "korean": "캄캄하다", "chinese": "漆黑", "pos": "形容詞" },
+    { "korean": "포개지다", "chinese": "交疊", "pos": "動詞" },
+    { "korean": "한평생", "chinese": "一生", "pos": "名詞" },
+    { "korean": "무수하다", "chinese": "無數", "pos": "形容詞" },
+    { "korean": "짓다", "chinese": "建造/做出(表情)", "pos": "動詞" },
+    { "korean": "무너뜨리다", "chinese": "摧毀", "pos": "動詞" },
+    { "korean": "정착하다", "chinese": "安頓/定居", "pos": "動詞" },
+    { "korean": "가족사", "chinese": "家族史", "pos": "名詞" },
+    { "korean": "들려주다", "chinese": "講給...聽", "pos": "動詞" },
+    { "korean": "지붕", "chinese": "屋頂", "pos": "名詞" },
+    { "korean": "삼다", "chinese": "當作/視為", "pos": "動詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "샤워실", "chinese": "浴室", "pos": "名詞" },
+    { "korean": "떼다", "chinese": "撕下/分開", "pos": "動詞" },
+    { "korean": "가랑비", "chinese": "毛毛雨", "pos": "名詞" },
+    { "korean": "위로하다", "chinese": "安慰", "pos": "動詞" },
+    { "korean": "젖다", "chinese": "濕潤", "pos": "動詞" },
+    { "korean": "무심코", "chinese": "不經意地", "pos": "副詞" },
+    { "korean": "서성이다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "拋棄", "pos": "動詞" },
+    { "korean": "술기운", "chinese": "酒意", "pos": "名詞" },
+    { "korean": "이끌리다", "chinese": "被牽引", "pos": "動詞 (被動)" },
+    { "korean": "마주하다", "chinese": "面對", "pos": "動詞" },
+    { "korean": "부딪히다", "chinese": "碰撞/碰杯", "pos": "動詞" },
+    { "korean": "취하다", "chinese": "醉", "pos": "動詞" },
+    { "korean": "운명", "chinese": "命運", "pos": "名詞" },
+    { "korean": "깨어나다", "chinese": "醒來", "pos": "動詞" },
+    { "korean": "죽고 못 살다", "chinese": "沒了對方就活不下去", "pos": "慣用語" },
+    { "korean": "전쟁", "chinese": "戰爭", "pos": "名詞" },
+    { "korean": "죽이다", "chinese": "殺死", "pos": "動詞" },
+    { "korean": "맞이하다", "chinese": "迎接/面臨", "pos": "動詞" },
+    { "korean": "필연", "chinese": "必然", "pos": "名詞" },
+    { "korean": "악연", "chinese": "孽緣", "pos": "名詞" },
+    { "korean": "거울", "chinese": "鏡子", "pos": "名詞" },
+    { "korean": "깨지다", "chinese": "破碎", "pos": "動詞 (被動)" },
+    { "korean": "특별하다", "chinese": "特別", "pos": "形容詞" },
+    { "korean": "진부하다", "chinese": "陳腔濫調", "pos": "形容詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "두려움", "chinese": "恐懼", "pos": "名詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "남", "chinese": "別人/陌生人", "pos": "名詞" }
+  ]
+}

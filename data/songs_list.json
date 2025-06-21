@@ -42,6 +42,13 @@
     "lyricsFile": "../data/lyrics/acourve-a-night-full-of-longing.json"
   },  
   {
+    "id": "acourve-if-i-knew",
+    "title": "If I knew it was our last time",
+    "artist": "Acourve (어쿠루브)",
+    "lyricsFile": "../data/lyrics/epikhigh-if-i-knew.json"
+  },
+    
+  {
     "id": "acourve-the-night-we-parted",
     "title": "The night we parted (헤어지던 밤)",
     "artist": "Acourve (어쿠루브)",
@@ -58,7 +65,13 @@
     "title": "빈차 (Home is far away)",
     "artist": "Epik High (feat. 오혁)",
     "lyricsFile": "../data/lyrics/epikhigh-chupda.json"
-  },  
+  },
+    {
+    "id": "epikhigh-love-story",
+    "title": "연애소설 (Love Story)",
+    "artist": "Epik High (Feat. IU)",
+    "lyricsFile": "../data/lyrics/epikhigh-love-story.json"
+  },    
   {
     "id": "epikhigh-can-you-hear-my-heart",
     "title": "Can You Hear My Heart",
@@ -193,10 +206,10 @@
     "lyricsFile": "../data/lyrics/seventeen-i-dont-know.json"
   }, 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "aespa-whiplash",
+    "title": "Whiplash",
+    "artist": "aespa (에스파)",
+    "lyricsFile": "../data/lyrics/aespa-whiplash.json"
   }, 
   {
     "id": "_____",
