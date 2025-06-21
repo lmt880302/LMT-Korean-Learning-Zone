@@ -2,63 +2,69 @@
   {
     "id": "mind-u-what-was-that",
     "title": "What Was That",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/what-was-that.json"
   },  
   {
+    "id": "mind-u-if-winter-comes",
+    "title": "겨울이 오면 (If Winter Comes)",
+    "artist": "MIND U (마인드유) (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-if-winter-comes.json"
+  },
+  {
     "id": "mind-u-chwihangime",
     "title": "취한김에",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-chwihangime.json"
   },
   {
     "id": "mind-u-i-am-sorry",
     "title": "I am sorry (내가 미안해)",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-i-am-sorry.json"
   },    
   {
     "id": "mind-u-maeumeul-beneun-nat",
     "title": "마음을 베는 낫",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-maeumeul-beneun-nat.json"
   },  
   {
     "id": "mind-u-i-didnt-get-you",
     "title": "I Didn't Get You",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-i-didnt-get-you.json"
   },
   {
     "id": "mind-u-watch-from-you",
     "title": "Watch from you",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-watch-from-you.json"
   },
   {
     "id": "mind-u-a-night-full-of-longing",
     "title": "A night full of longing",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-a-night-full-of-longing.json"
   },
   {
     "id": "mind-u-wait-a-minute",
     "title": "Wait a Minute (잠깐만요)",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-wait-a-minute.json"
   },  
     
   {
     "id": "mind-u-if-i-knew",
     "title": "If I knew it was our last time",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/epikhigh-if-i-knew.json"
   },
     
   {
     "id": "mind-u-the-night-we-parted",
     "title": "The night we parted (헤어지던 밤)",
-    "artist": "MIND U",
+    "artist": "MIND U (마인드유)",
     "lyricsFile": "../data/lyrics/mind-u-the-night-we-parted.json"
   },
   {

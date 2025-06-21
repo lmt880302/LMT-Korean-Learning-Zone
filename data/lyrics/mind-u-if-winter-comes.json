@@ -1,0 +1,164 @@
+{
+  "id": "mind-u-if-winter-comes",
+  "title": "겨울이 오면 (If Winter Comes)",
+  "artist": "MIND U (마인드유) (마인드유)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "우리 함께 보냈던 가을",
+      "translation": "我們曾一起度過的秋天",
+      "analysis": [
+        { "point": "우리", "explanation": "代名詞，我們" },
+        { "point": "함께", "explanation": "副詞，一起" },
+        { "point": "보냈던", "explanation": "보내다 (度過) 的詞幹 + -었던/았던 (過去回想定語形態)" },
+        { "point": "가을", "explanation": "名詞，秋天" }
+      ]
+    },
+    {
+      "korean": "그댄 기억하나요",
+      "translation": "你還記得嗎",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대 (你，較書面/詩意) + -는 (主題助詞) 的縮略" },
+        { "point": "기억하나요", "explanation": "기억하다 (記得) 의詞幹 + -나요 (非格式體疑問終結詞尾，語氣較柔和)" }
+      ]
+    },
+    {
+      "korean": "낙엽이 잠든 벤치에 앉아 얘기했죠",
+      "translation": "坐在落葉沉睡的長椅上聊著天",
+      "analysis": [
+        { "point": "낙엽이 잠든", "explanation": "낙엽 (落葉) + -이 (主格助詞) + 잠들다 (入睡) 的過去定語形態 (-ㄴ/은)" },
+        { "point": "벤치에 앉아", "explanation": "벤치 (長椅) + -에 (場所助詞) + 앉다 (坐) 的連接形 (-아/어)" },
+        { "point": "얘기했죠", "explanation": "얘기하다 (聊天) 的過去式 + -죠 (지요 的縮略，表示確認或回想)" }
+      ]
+    },
+    {
+      "korean": "하고 싶은 말이 어찌나 많았는지",
+      "translation": "想說的話是那麼地多",
+      "analysis": [
+        { "point": "하고 싶은 말이", "explanation": "想說的話" },
+        { "point": "어찌나 많았는지", "explanation": "慣用型 `어찌나 -(으)ㄴ/는지`，表示「多麼地...」，帶有感嘆語氣" }
+      ]
+    },
+    {
+      "korean": "막차를 타고 다시 통화를 했지",
+      "translation": "搭上末班車後又再次通了話",
+      "analysis": [
+        { "point": "막차를 타고", "explanation": "막차 (末班車) + -를 (受格助詞) + 타다 (搭乘) + -고" },
+        { "point": "다시 통화를 했지", "explanation": "再次 + 통화(를) 하다 (通話) 的過去式 + -지" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "그때로 돌아가고 싶어요",
+      "translation": "想要回到那個時候",
+      "analysis": [
+        { "point": "그때로", "explanation": "그때 (那時) + -(으)로 (方向助詞)" },
+        { "point": "돌아가고 싶어요", "explanation": "돌아가다 (回去) + -고 싶다 (想做...) + -어요 (尊敬階)" }
+      ]
+    },
+    {
+      "korean": "우리 함께 만든 추억들이",
+      "translation": "我們一起創造的回憶們",
+      "analysis": [
+        { "point": "우리 함께 만든", "explanation": "我們 一起 + 만들다 (製造，創造) 的過去定語形" },
+        { "point": "추억들이", "explanation": "추억 (回憶) + -들 (複數) + -이 (主格助詞)" }
+      ]
+    },
+    {
+      "korean": "선명해서 널 놓을 수 없잖아",
+      "translation": "因為太鮮明 而無法放開你不是嗎",
+      "analysis": [
+        { "point": "선명해서", "explanation": "선명하다 (鮮明) + -아서 (因為)" },
+        { "point": "널 놓을 수 없잖아", "explanation": "你(受格) + 놓다 (放開) + -(으)ㄹ 수 없다 (不能) + -잖아" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "심장이 끊어질듯 아파와서",
+      "translation": "心臟像要斷掉般地痛起來",
+      "analysis": [
+        { "point": "심장이", "explanation": "心臟(主格)" },
+        { "point": "끊어질듯", "explanation": "끊어지다 (斷掉) + -(으)ㄹ 듯 (像...一樣)" },
+        { "point": "아파와서", "explanation": "아파오다 (痛起來) + -아서 (因為/然後)" }
+      ]
+    },
+    {
+      "korean": "난 아무것도 할 수가 없어",
+      "translation": "我什麼事也做不了",
+      "analysis": [
+        { "point": "난 아무것도", "explanation": "我 任何事也" },
+        { "point": "할 수가 없어", "explanation": "하다 (做) + -(으)ㄹ 수 없다 (不能)" }
+      ]
+    },
+    {
+      "korean": "겨울이 오면 그댈 볼 수 있나요",
+      "translation": "冬天來臨的話能見到你嗎",
+      "analysis": [
+        { "point": "겨울이 오면", "explanation": "冬天來的話" },
+        { "point": "그댈 볼 수 있나요", "explanation": "能見到你嗎" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "이어폰 속에 노랠 듣다 울고",
+      "translation": "在耳機裡聽著歌哭了",
+      "analysis": [
+        { "point": "이어폰 속에", "explanation": "耳機 裡面" },
+        { "point": "노랠 듣다", "explanation": "歌(受格) + 듣다 (聽) + -다가 (途中)" },
+        { "point": "울고", "explanation": "울다 (哭) + -고" }
+      ]
+    },
+    {
+      "korean": "다시 만나는 상상을 하면서",
+      "translation": "一邊想像著再次見面",
+      "analysis": [
+        { "point": "다시 만나는 상상을", "explanation": "再次見面的想像(受格)" },
+        { "point": "하면서", "explanation": "하다 (做) + -(으)면서 (同時)" }
+      ]
+    },
+    {
+      "korean": "잡아볼까 날 기다리진 않을까",
+      "translation": "要不要試著抓住呢 會不會正在等我呢",
+      "analysis": [
+        { "point": "잡아볼까", "explanation": "抓住(試著) + -(으)ㄹ까 (疑問)" },
+        { "point": "날 기다리진 않을까", "explanation": "我(受格) + 等待 + -지는 않을까 (慣用型，會不會...呢)" }
+      ]
+    },
+    {
+      "korean": "이제 나는 어",
+      "translation": "現在我該...",
+      "analysis": [
+        { "point": "이제 나는 어", "explanation": "現在 我(主題) + 어... (話未說完，表示猶豫或哽咽)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "보내다", "chinese": "度過/寄送", "pos": "動詞" },
+    { "korean": "가을", "chinese": "秋天", "pos": "名詞" },
+    { "korean": "기억하다", "chinese": "記得", "pos": "動詞" },
+    { "korean": "낙엽", "chinese": "落葉", "pos": "名詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "벤치", "chinese": "長椅", "pos": "名詞" },
+    { "korean": "얘기하다", "chinese": "聊天", "pos": "動詞" },
+    { "korean": "어찌나", "chinese": "多麼地", "pos": "副詞" },
+    { "korean": "막차", "chinese": "末班車", "pos": "名詞" },
+    { "korean": "통화하다", "chinese": "通話", "pos": "動詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "선명하다", "chinese": "鮮明", "pos": "形容詞" },
+    { "korean": "놓다", "chinese": "放開", "pos": "動詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "끊어지다", "chinese": "斷掉", "pos": "動詞" },
+    { "korean": "아파오다", "chinese": "痛起來", "pos": "動詞" },
+    { "korean": "아무것도", "chinese": "任何事(都沒有)", "pos": "代名詞" },
+    { "korean": "겨울", "chinese": "冬天", "pos": "名詞" },
+    { "korean": "이어폰", "chinese": "耳機", "pos": "名詞" },
+    { "korean": "노래", "chinese": "歌", "pos": "名詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "상상하다", "chinese": "想像", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "어떡하다", "chinese": "怎麼辦", "pos": "動詞" }
+  ]
+}
