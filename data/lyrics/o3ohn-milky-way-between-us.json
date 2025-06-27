@@ -1,339 +1,346 @@
 {
   "id": "o3ohn-milky-way-between-us",
-  "title": "Milky Way Between Us",
-  "artist": "O3ohn",
+  "title": "milky way between us",
+  "artist": "O3ohn (오존)",
   "lines": [
     {
       "sectionTitle": "Verse 1",
       "korean": "황홀한 눈빛을 따라가",
-      "translation": "跟隨著迷醉的眼神",
+      "translation": "跟隨著那令人沉醉的眼神",
       "analysis": [
-        { "point": "황홀한", "explanation": "황홀하다 (迷醉，恍惚) 的定語形態 (-ㄴ/은)，修飾 눈빛" },
-        { "point": "눈빛을", "explanation": "눈빛 (眼神) + -을 (受格助詞)" },
-        { "point": "따라가", "explanation": "따라가다 (跟隨) 的非格式體 (-아/어)" }
+        { "point": "황홀한", "explanation": "形容詞 황홀하다 (恍惚的、令人沉醉的) 的定語形態。" },
+        { "point": "눈빛을", "explanation": "名詞 눈빛 (眼神) + 受格助詞 -을。" },
+        { "point": "따라가", "explanation": "動詞 따라가다 (跟隨) 的非格式體現在式。" }
       ]
     },
     {
       "korean": "내 눈 속에 비친 널 마주 앉아",
       "translation": "與映照在我眼中的你相對而坐",
       "analysis": [
-        { "point": "내 눈 속에", "explanation": "내 (我的) + 눈 (眼睛) + 속 (裡面) + -에 (場所助詞)" },
-        { "point": "비친", "explanation": "비치다 (映照，反射) 的過去定語形態 (-ㄴ/은)，修飾 널" },
-        { "point": "널", "explanation": "너 (你) + -를 (受格助詞) 的縮略" },
-        { "point": "마주 앉아", "explanation": "마주 (副詞，相對地) + 앉다 (坐) 的連接形 (-아/어)" }
+        { "point": "내 눈 속에 비친", "explanation": "내 (我的) + 눈 (眼睛) + 속 (裡面) + -에 (場所助詞) + 비치다 (映照) 的過去定語形態。" },
+        { "point": "널 마주 앉아", "explanation": "너를 (你) 的縮略 + 副詞 마주 (面對面) + 動詞 앉다 (坐) 的連接形。" }
       ]
     },
     {
       "korean": "파도 소리 들려오니",
-      "translation": "傳來了海浪聲",
+      "translation": "因為傳來了海浪聲",
       "analysis": [
-        { "point": "파도 소리", "explanation": "파도 (波浪) + 소리 (聲音)" },
-        { "point": "들려오니", "explanation": "들려오다 (傳來 - 들리다 (被聽到) + 오다 (來)) 的詞幹 + -(으)니 (連接詞尾，表示原因或發現)" }
+        { "point": "파도 소리", "explanation": "名詞 파도 (波浪) + 名詞 소리 (聲音)。" },
+        { "point": "들려오니", "explanation": "動詞 들려오다 (傳來) 的詞幹 + 連接詞尾 -(으)니 (表示原因)。" }
       ]
     },
     {
       "korean": "영화 속에 장면 같아",
-      "translation": "像電影中的場景一樣",
+      "translation": "就像電影裡的一個場面",
       "analysis": [
-        { "point": "영화 속에", "explanation": "영화 (電影) + 속 (裡面) + -에 (場所助詞)" },
-        { "point": "장면 같아", "explanation": "장면 (場面，場景) + 같다 (像...一樣) 的非格式體" }
+        { "point": "영화 속에", "explanation": "名詞 영화 (電影) + 속 (裡面) + 場所助詞 -에。" },
+        { "point": "장면 같아", "explanation": "名詞 장면 (場面) + 形容詞 같다 (像) 的非格式體現在式。" }
       ]
     },
     {
+      "sectionTitle": "Pre-Chorus",
       "korean": "흔들리는 파도 소리에",
-      "translation": "在搖曳的海浪聲中",
+      "translation": "在那搖曳的海浪聲中",
       "analysis": [
-        { "point": "흔들리는", "explanation": "흔들리다 (搖晃，搖曳) 的定語形態 (-는)，修飾 파도 소리" },
-        { "point": "파도 소리에", "explanation": "波浪 聲音 + -에 (原因/狀態助詞)" }
+        { "point": "흔들리는", "explanation": "動詞 흔들리다 (搖晃、搖曳) 的現在定語形態。" },
+        { "point": "파도 소리에", "explanation": "파도 소리 (海浪聲) + 場所/原因助詞 -에。" }
       ]
     },
     {
       "korean": "설레는 내 맘도 너에게 닿을까",
       "translation": "我悸動的心也能傳達給你嗎",
       "analysis": [
-        { "point": "설레는", "explanation": "설레다 (心動，悸動) 的定語形態 (-는)，修飾 내 맘" },
-        { "point": "내 맘도", "explanation": "我的 心(主題) + -도 (也)" },
-        { "point": "너에게 닿을까", "explanation": "너에게 (對你) + 닿다 (到達，觸及) + -(으)ㄹ까 (疑問/推測終結詞尾)" }
+        { "point": "설레는 내 맘도", "explanation": "動詞 설레다 (心動、悸動) 的現在定語形態 + 내 (我的) + 맘 (心) + 補助詞 -도 (也)。" },
+        { "point": "너에게 닿을까", "explanation": "代名詞 너 (你) + 格助詞 -에게 (向) + 動詞 닿다 (觸及、傳達) + 疑問詞尾 -(으)ㄹ까。" }
       ]
     },
     {
       "korean": "진심 한 방울 꺼내어",
-      "translation": "拿出真心的一滴",
+      "translation": "取出一滴真心",
       "analysis": [
-        { "point": "진심", "explanation": "名詞，真心" },
-        { "point": "한 방울", "explanation": "한 (一) + 방울 (滴，量詞)" },
-        { "point": "꺼내어", "explanation": "꺼내다 (拿出來) 的連接形 (-어/아)" }
+        { "point": "진심 한 방울", "explanation": "名詞 진심 (真心) + 冠形詞 한 (一) + 單位名詞 방울 (滴)。" },
+        { "point": "꺼내어", "explanation": "動詞 꺼내다 (拿出、取出) 的連接形。" }
       ]
     },
     {
       "korean": "너에게 가져다줄까",
-      "translation": "要不要帶給你呢",
+      "translation": "要不要拿去給你呢",
       "analysis": [
-        { "point": "너에게", "explanation": "對你" },
-        { "point": "가져다줄까", "explanation": "가져다주다 (拿給，帶給 - 가지다 (擁有/拿著) + -어다 주다 (為(某人)做...)) 的詞幹 + -(으)ㄹ까" }
+        { "point": "너에게", "explanation": "代名詞 너 (你) + 格助詞 -에게 (給)。" },
+        { "point": "가져다줄까", "explanation": "複合動詞 가져다주다 (拿去給) + 疑問詞尾 -(으)ㄹ까。" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "어둠 내린 바다의 등대가 되어 비출게",
-      "translation": "我會成為黑暗降臨大海的燈塔照亮你",
+      "translation": "我會成為黑暗降臨的大海上的燈塔照亮你",
       "analysis": [
-        { "point": "어둠 내린", "explanation": "어둠 (黑暗) + 내리다 (降臨) 的過去定語形態 (-ㄴ/은)" },
-        { "point": "바다의 등대가 되어", "explanation": "바다 (大海) + -의 (的) + 등대 (燈塔) + -가 (主格助詞) + 되다 (成為) 的連接形 (-어/아)" },
-        { "point": "비출게", "explanation": "비추다 (照耀) 的詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)" }
+        { "point": "어둠 내린 바다의", "explanation": "어둠 (黑暗) + 내리다 (降臨) 的過去定語形態 + 바다 (大海) + 所有格助詞 -의。" },
+        { "point": "등대가 되어", "explanation": "名詞 등대 (燈塔) + 主格助詞 -가 + 動詞 되다 (成為) 的連接形。" },
+        { "point": "비출게", "explanation": "動詞 비추다 (照亮) + 終結詞尾 -(으)ㄹ게 (表示承諾)。" }
       ]
     },
     {
       "korean": "다가오는 비바람 앞에",
-      "translation": "在即將到來的風雨面前",
+      "translation": "在迎面而來的風雨面前",
       "analysis": [
-        { "point": "다가오는", "explanation": "다가오다 (靠近，來臨) 的定語形態 (-는)" },
-        { "point": "비바람 앞에", "explanation": "비바람 (風雨) + 앞 (前面) + -에 (場所助詞)" }
+        { "point": "다가오는", "explanation": "動詞 다가오다 (靠近、迎來) 的現在定語形態。" },
+        { "point": "비바람 앞에", "explanation": "名詞 비바람 (風雨) + 名詞 앞 (前面) + 場所助詞 -에。" }
       ]
     },
     {
       "korean": "단 하나의 빛이 되어줄게",
       "translation": "我會成為你唯一的光芒",
       "analysis": [
-        { "point": "단 하나의 빛이", "explanation": "단 (只，僅僅) + 하나 (一) + -의 (的) + 빛 (光) + -이 (主格助詞)" },
-        { "point": "되어줄게", "explanation": "되다 (成為) + -어 주다 (為(你)做...) + -(으)ㄹ게" }
+        { "point": "단 하나의 빛이", "explanation": "副詞 단 (僅僅) + 하나 (一) + 所有格助詞 -의 + 名詞 빛 (光) + 主格助詞 -이。" },
+        { "point": "되어줄게", "explanation": "複合動詞 되어주다 (為(你)成為) + 終結詞尾 -(으)ㄹ게 (表示承諾)。" }
       ]
     },
     {
       "korean": "끝없이 펼쳐지는 어두운 바다 위에",
       "translation": "在無盡展開的黑暗大海上",
       "analysis": [
-        { "point": "끝없이", "explanation": "副詞，無止盡地" },
-        { "point": "펼쳐지는", "explanation": "펼쳐지다 (展開 - 펼치다 的被動態) 的定語形態 (-는)" },
-        { "point": "어두운 바다 위에", "explanation": "어둡다 (黑暗) 的定語形態 (-ㄴ/은) + 大海 + 위 (上面) + -에" }
+        { "point": "끝없이 펼쳐지는", "explanation": "副詞 끝없이 (無盡地) + 動詞 펼쳐지다 (展開) 的現在定語形態。" },
+        { "point": "어두운 바다 위에", "explanation": "形容詞 어둡다 (黑暗的) 的定語形態 + 바다 (大海) + 위 (上面) + 場所助詞 -에。" }
       ]
     },
     {
       "korean": "너와 내 사이의 은하수를 만들어",
-      "translation": "在你我之間創造出銀河",
+      "translation": "創造出你與我之間的銀河",
       "analysis": [
-        { "point": "너와 내 사이의", "explanation": "你 和 我 之間 的" },
-        { "point": "은하수를 만들어", "explanation": "은하수 (銀河) + -를 (受格助詞) + 만들다 (製造，創造) 的非格式體" }
+        { "point": "너와 내 사이의", "explanation": "너 (你) + -와 (和) + 내 (我) + 사이 (之間) + 所有格助詞 -의。" },
+        { "point": "은하수를 만들어", "explanation": "名詞 은하수 (銀河) + 受格助詞 -를 + 動詞 만들다 (創造) 的連接形。" }
       ]
     },
     {
       "korean": "파란 별 바다로",
-      "translation": "向著藍色星海",
+      "translation": "朝向那藍色的星海",
       "analysis": [
-        { "point": "파란 별 바다로", "explanation": "파랗다 (藍色) 的定語形態 (-ㄴ) + 별 (星星) + 바다 (大海) + -(으)로 (方向助詞)" }
+        { "point": "파란 별 바다로", "explanation": "形容詞 파랗다 (藍色的) 的定語形態 + 별 (星星) + 바다 (大海) + 方向助詞 -(으)로。" }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "부딪치는 파도에 쓸려",
-      "translation": "被拍打的海浪沖刷著",
+      "translation": "被碰撞而來的海浪沖走",
       "analysis": [
-        { "point": "부딪치는", "explanation": "부딪치다 (碰撞，拍打) 的定語形態 (-는)" },
-        { "point": "파도에 쓸려", "explanation": "波浪 + -에 (被動/原因助詞) + 쓸리다 (被沖走/被휩쓸리다的縮略) 的連接形 (-어/아)" }
+        { "point": "부딪치는", "explanation": "動詞 부딪치다 (碰撞) 的現在定語形態。" },
+        { "point": "파도에 쓸려", "explanation": "名詞 파도 (波浪) + 格助詞 -에 + 動詞 쓸리다 (被沖走) 的連接形。" }
       ]
     },
     {
       "korean": "아파한 네 모습 눈물이 보여",
-      "translation": "看見了你曾痛苦的模樣和眼淚",
+      "translation": "看見了你痛苦的模樣和眼淚",
       "analysis": [
-        { "point": "아파한", "explanation": "아파하다 (感到痛苦 - 아프다 的情感動詞化) 的過去定語形態 (-ㄴ/은)" },
-        { "point": "네 모습", "explanation": "你的 模樣" },
-        { "point": "눈물이 보여", "explanation": "眼淚(主格) + 보이다 (被看見) 的非格式體" }
+        { "point": "아파한 네 모습", "explanation": "動詞 아파하다 (感到痛苦) 的過去定語形態 + 네 (你的) + 모습 (模樣)。" },
+        { "point": "눈물이 보여", "explanation": "名詞 눈물 (眼淚) + 主格助詞 -이 + 動詞 보이다 (被看見)。" }
       ]
     },
     {
       "korean": "어깨 한켠 내어주고",
-      "translation": "借出肩膀的一角",
+      "translation": "為你空出一邊的肩膀",
       "analysis": [
-        { "point": "어깨 한켠", "explanation": "어깨 (肩膀) + 한켠 (一邊，一角)" },
-        { "point": "내어주고", "explanation": "내어주다 (讓出，借出 - 내다 (拿出) + -어 주다) 的詞幹 + -고 (連接)" }
+        { "point": "어깨 한켠", "explanation": "名詞 어깨 (肩膀) + 名詞 한켠 (一邊)。" },
+        { "point": "내어주고", "explanation": "複合動詞 내어주다 (騰出給) 的連接形。" }
       ]
     },
     {
       "korean": "너에 반이 되어 줄게",
       "translation": "我會成為你的另一半",
       "analysis": [
-        { "point": "너에 반이", "explanation": "너 (你) + -에 (表示歸屬或對象) + 반 (一半) + -이 (主格助詞)" },
-        { "point": "되어 줄게", "explanation": "成為(為你) + -(으)ㄹ게" }
+        { "point": "너에 반이", "explanation": "너의 (你的) 縮略 + 반 (一半) + 主格助詞 -이。" },
+        { "point": "되어 줄게", "explanation": "複合動詞 되어주다 (為(你)成為) + 終結詞尾 -(으)ㄹ게 (表示承諾)。" }
       ]
     },
     {
+      "sectionTitle": "Pre-Chorus",
       "korean": "흔들리는 파도소리에",
-      "translation": "在搖曳的海浪聲中",
+      "translation": "在那搖曳的海浪聲中",
       "analysis": [
-        { "point": "흔들리는 파도소리에", "explanation": "搖曳的 波浪聲 + -에" }
+        { "point": "흔들리는", "explanation": "動詞 흔들리다 (搖晃、搖曳) 的現在定語形態。" },
+        { "point": "파도소리에", "explanation": "파도소리 (海浪聲) + 場所/原因助詞 -에。" }
       ]
     },
     {
       "korean": "혹시나 내 맘이 너에게 닿을까",
-      "translation": "或許我的心意能傳達給你嗎",
+      "translation": "或許我的心能傳達給你嗎",
       "analysis": [
-        { "point": "혹시나", "explanation": "副詞，或許，萬一 (強調)" },
-        { "point": "내 맘이", "explanation": "我的 心(主格)" },
-        { "point": "너에게 닿을까", "explanation": "對你 到達(疑問/推測)" }
+        { "point": "혹시나", "explanation": "副詞，或許、說不定。" },
+        { "point": "내 맘이", "explanation": "내 (我的) + 맘 (心) + 主格助詞 -이。" },
+        { "point": "너에게 닿을까", "explanation": "너 (你) + -에게 (向) + 닿다 (傳達) + 疑問詞尾 -(으)ㄹ까。" }
       ]
     },
     {
       "korean": "진심 가득한 단어에",
-      "translation": "在充滿真心的詞語中",
+      "translation": "在充滿真心的詞語裡",
       "analysis": [
-        { "point": "진심 가득한", "explanation": "真心 + 가득하다 (充滿) 的定語形態 (-ㄴ/은)" },
-        { "point": "단어에", "explanation": "단어 (詞語，單字) + -에 (在...之中)" }
+        { "point": "진심 가득한", "explanation": "名詞 진심 (真心) + 形容詞 가득하다 (充滿) 的定語形態。" },
+        { "point": "단어에", "explanation": "名詞 단어 (詞語、單字) + 場所助詞 -에。" }
       ]
     },
     {
       "korean": "마음 담아 전해줄까",
-      "translation": "要不要 담아著心意傳達呢",
+      "translation": "要不要滿懷心意地傳達給你呢？",
       "analysis": [
-        { "point": "마음 담아", "explanation": "心意 + 담다 (裝盛，包含) 的連接形 (-아/어)" },
-        { "point": "전해줄까", "explanation": "전해주다 (傳達給(人) - 전하다 (傳達) + -아/어 주다) 的詞幹 + -(으)ㄹ까" }
+        { "point": "마음 담아", "explanation": "名詞 마음 (心意) + 動詞 담다 (裝、盛) 的連接形。" },
+        { "point": "전해줄까", "explanation": "複合動詞 전해주다 (傳達給) + 疑問詞尾 -(으)ㄹ까。" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "어둠 내린 바다의 등대가 되어 비출게",
-      "translation": "我會成為黑暗降臨大海的燈塔照亮你",
+      "translation": "我會成為黑暗降臨的大海上的燈塔照亮你",
       "analysis": [
-        { "point": "어둠 내린", "explanation": "어둠 (黑暗) + 내리다 (降臨) 的過去定語形態 (-ㄴ/은)" },
-        { "point": "바다의 등대가 되어", "explanation": "바다 (大海) + -의 (的) + 등대 (燈塔) + -가 (主格助詞) + 되다 (成為) 的連接形 (-어/아)" },
-        { "point": "비출게", "explanation": "비추다 (照耀) 의詞幹 + -(으)ㄹ게 (終結詞尾，表示意志或約定，限第一人稱)" }
+        { "point": "어둠 내린 바다의", "explanation": "어둠 (黑暗) + 내리다 (降臨) 的過去定語形態 + 바다 (大海) + 所有格助詞 -의。" },
+        { "point": "등대가 되어", "explanation": "名詞 등대 (燈塔) + 主格助詞 -가 + 動詞 되다 (成為) 的連接形。" },
+        { "point": "비출게", "explanation": "動詞 비추다 (照亮) + 終結詞尾 -(으)ㄹ게 (表示承諾)。" }
       ]
     },
     {
       "korean": "다가오는 비바람 앞에",
-      "translation": "在即將到來的風雨面前",
+      "translation": "在迎面而來的風雨面前",
       "analysis": [
-        { "point": "다가오는", "explanation": "다가오다 (靠近，來臨) 的定語形態 (-는)" },
-        { "point": "비바람 앞에", "explanation": "비바람 (風雨) + 앞 (前面) + -에 (場所助詞)" }
+        { "point": "다가오는", "explanation": "動詞 다가오다 (靠近、迎來) 的現在定語形態。" },
+        { "point": "비바람 앞에", "explanation": "名詞 비바람 (風雨) + 名詞 앞 (前面) + 場所助詞 -에。" }
       ]
     },
     {
       "korean": "단 하나의 빛이 되어줄게",
       "translation": "我會成為你唯一的光芒",
       "analysis": [
-        { "point": "단 하나의 빛이", "explanation": "단 (只，僅僅) + 하나 (一) + -의 (的) + 빛 (光) + -이 (主格助詞)" },
-        { "point": "되어줄게", "explanation": "되다 (成為) + -어 주다 (為(你)做...) + -(으)ㄹ게" }
+        { "point": "단 하나의 빛이", "explanation": "副詞 단 (僅僅) + 하나 (一) + 所有格助詞 -의 + 名詞 빛 (光) + 主格助詞 -이。" },
+        { "point": "되어줄게", "explanation": "複合動詞 되어주다 (為(你)成為) + 終結詞尾 -(으)ㄹ게 (表示承諾)。" }
       ]
     },
     {
       "korean": "끝없이 펼쳐지는 어두운 바다 위에",
       "translation": "在無盡展開的黑暗大海上",
       "analysis": [
-        { "point": "끝없이", "explanation": "副詞，無止盡地" },
-        { "point": "펼쳐지는", "explanation": "펼쳐지다 (展開 - 펼치다 的被動態) 的定語形態 (-는)" },
-        { "point": "어두운 바다 위에", "explanation": "어둡다 (黑暗) 的定語形態 (-ㄴ/은) + 大海 + 위 (上面) + -에" }
+        { "point": "끝없이 펼쳐지는", "explanation": "副詞 끝없이 (無盡地) + 動詞 펼쳐지다 (展開) 的現在定語形態。" },
+        { "point": "어두운 바다 위에", "explanation": "形容詞 어둡다 (黑暗的) 的定語形態 + 바다 (大海) + 위 (上面) + 場所助詞 -에。" }
       ]
     },
     {
       "korean": "너와 내 사이의 은하수를 만들어",
-      "translation": "在你我之間創造出銀河",
+      "translation": "創造出你與我之間的銀河",
       "analysis": [
-        { "point": "너와 내 사이의", "explanation": "你 和 我 之間 的" },
-        { "point": "은하수를 만들어", "explanation": "은하수 (銀河) + -를 (受格助詞) + 만들다 (製造，創造) 의非格式體" }
+        { "point": "너와 내 사이의", "explanation": "너 (你) + -와 (和) + 내 (我) + 사이 (之間) + 所有格助詞 -의。" },
+        { "point": "은하수를 만들어", "explanation": "名詞 은하수 (銀河) + 受格助詞 -를 + 動詞 만들다 (創造) 的連接形。" }
       ]
     },
     {
       "korean": "파란 별 바다로",
-      "translation": "向著藍色星海",
+      "translation": "朝向那藍色的星海",
       "analysis": [
-        { "point": "파란 별 바다로", "explanation": "파랗다 (藍色) 的定語形態 (-ㄴ) + 별 (星星) + 바다 (大海) + -(으)로 (方向助詞)" }
+        { "point": "파란 별 바다로", "explanation": "形容詞 파랗다 (藍色的) 的定語形態 + 별 (星星) + 바다 (大海) + 方向助詞 -(으)로。" }
       ]
     },
     {
-      "sectionTitle": "Bridge/Outro",
-      "korean": "끝없이 내려오는 은하수 별 아래",
-      "translation": "在無盡降落的銀河星光下",
+      "sectionTitle": "Bridge",
+      "korean": "오 오 오 우 우 우",
+      "translation": "喔喔喔嗚嗚嗚",
       "analysis": [
-        { "point": "끝없이 내려오는", "explanation": "無止盡地 + 내려오다 (下來) 的定語形態 (-는)" },
-        { "point": "은하수 별 아래", "explanation": "銀河 星星 + 아래 (下面)" }
+        { "point": "오 오 오 우 우 우", "explanation": "感嘆詞，為哼唱部分。" }
+      ]
+    },
+    {
+      "korean": "끝없이 내려오는 은하수 별 아래",
+      "translation": "在無盡降下的銀河星光下",
+      "analysis": [
+        { "point": "끝없이 내려오는", "explanation": "副詞 끝없이 (無盡地) + 動詞 내려오다 (下來) 的現在定語形態。" },
+        { "point": "은하수 별 아래", "explanation": "名詞 은하수 (銀河) + 별 (星星) + 名詞 아래 (下面)。" }
       ]
     },
     {
       "korean": "너와 나 사이에 별 이름 하나 붙이고",
       "translation": "在你我之間為星星取一個名字",
       "analysis": [
-        { "point": "너와 나 사이에", "explanation": "你 和 我 之間" },
-        { "point": "별 이름 하나", "explanation": "星星 名字 一個" },
-        { "point": "붙이고", "explanation": "붙이다 (貼上，取名) 的詞幹 + -고 (連接)" }
+        { "point": "너와 나 사이에", "explanation": "너 (你) + -와 (和) + 나 (我) + 사이 (之間) + -에。" },
+        { "point": "별 이름 하나 붙이고", "explanation": "별 이름 (星星的名字) + 하나 (一個) + 動詞 붙이다 (貼上、取名) 的連接形。" }
       ]
     },
     {
       "korean": "서로 닮은 별 하나 찾아 너에게 보내",
-      "translation": "找到一顆互相相似的星星送給你",
+      "translation": "找一顆彼此相像的星星送給你",
       "analysis": [
-        { "point": "서로 닮은 별 하나", "explanation": "互相 + 닮다 (相似) 的定語形態 (-은) + 星星 一個" },
-        { "point": "찾아", "explanation": "찾다 (尋找) 的連接形 (-아/어)" },
-        { "point": "너에게 보내", "explanation": "對你 + 보내다 (寄送，送) 的非格式體" }
+        { "point": "서로 닮은 별 하나 찾아", "explanation": "서로 (彼此) + 닮다 (相像) 的過去定語形態 + 별 (星星) + 하나 (一個) + 찾다 (尋找) 的連接形。" },
+        { "point": "너에게 보내", "explanation": "너에게 (給你) + 보내다 (寄送) 的非格式體現在式。" }
       ]
     },
     {
       "korean": "온통 너와 날 닮은 별 바다 아래",
-      "translation": "在滿是與你我相似的星星海洋下",
+      "translation": "在滿是與你我相像的星星的大海下",
       "analysis": [
-        { "point": "온통", "explanation": "副詞，全部，整個" },
-        { "point": "너와 날 닮은", "explanation": "你 和 我(受格) + 相似的" },
-        { "point": "별 바다 아래", "explanation": "星星 海洋 下面" }
+        { "point": "온통", "explanation": "副詞，全部、整個。" },
+        { "point": "너와 날 닮은", "explanation": "너와 (和你) + 나를 (我) 的縮略 + 닮다 (相像) 的過去定語形態。" },
+        { "point": "별 바다 아래", "explanation": "별 (星星) + 바다 (大海) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "파란 별 바다로",
+      "translation": "朝向那藍色的星海",
+      "analysis": [
+        { "point": "파란 별 바다로", "explanation": "形容詞 파랗다 (藍色的) 的定語形態 + 별 (星星) + 바다 (大海) + 方向助詞 -(으)로。" }
+      ]
+    },
+    {
+      "korean": "오 오 오 우 우 우",
+      "translation": "喔喔喔嗚嗚嗚",
+      "analysis": [
+        { "point": "오 오 오 우 우 우", "explanation": "感嘆詞，為哼唱部分。" }
+      ]
+    },
+    {
+      "korean": "파란 별 바다로",
+      "translation": "朝向那藍色的星海",
+      "analysis": [
+        { "point": "파란 별 바다로", "explanation": "形容詞 파랗다 (藍色的) 的定語形態 + 별 (星星) + 바다 (大海) + 方向助詞 -(으)로。" }
+      ]
+    },
+    {
+      "korean": "오 오 오 우 우 우",
+      "translation": "喔喔喔嗚嗚嗚",
+      "analysis": [
+        { "point": "오 오 오 우 우 우", "explanation": "感嘆詞，為哼唱部分。" }
       ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "황홀하다", "chinese": "迷醉/恍惚", "pos": "形容詞" },
+    { "korean": "황홀하다", "chinese": "恍惚的、令人沉醉的", "pos": "形容詞" },
     { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
     { "korean": "따라가다", "chinese": "跟隨", "pos": "動詞" },
-    { "korean": "비치다", "chinese": "映照/反射", "pos": "動詞" },
-    { "korean": "마주 앉다", "chinese": "相對而坐", "pos": "動詞片語" },
+    { "korean": "비치다", "chinese": "映照", "pos": "動詞" },
+    { "korean": "마주", "chinese": "面對面", "pos": "副詞" },
     { "korean": "파도", "chinese": "波浪", "pos": "名詞" },
-    { "korean": "소리", "chinese": "聲音", "pos": "名詞" },
     { "korean": "들려오다", "chinese": "傳來", "pos": "動詞" },
-    { "korean": "영화", "chinese": "電影", "pos": "名詞" },
-    { "korean": "장면", "chinese": "場面/場景", "pos": "名詞" },
-    { "korean": "같다", "chinese": "像...一樣", "pos": "形容詞" },
-    { "korean": "흔들리다", "chinese": "搖晃/搖曳", "pos": "動詞" },
-    { "korean": "설레다", "chinese": "心動/悸動", "pos": "動詞/形容詞" },
-    { "korean": "맘", "chinese": "心 (마음 的縮略)", "pos": "名詞" },
-    { "korean": "닿다", "chinese": "到達/觸及", "pos": "動詞" },
+    { "korean": "장면", "chinese": "場面", "pos": "名詞" },
+    { "korean": "흔들리다", "chinese": "搖晃", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動、悸動", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及、傳達", "pos": "動詞" },
     { "korean": "진심", "chinese": "真心", "pos": "名詞" },
-    { "korean": "방울", "chinese": "滴 (量詞)", "pos": "名詞" },
-    { "korean": "꺼내다", "chinese": "拿出來", "pos": "動詞" },
-    { "korean": "가져다주다", "chinese": "拿給/帶給", "pos": "動詞" },
+    { "korean": "꺼내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "가져다주다", "chinese": "拿去給", "pos": "動詞" },
     { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
-    { "korean": "내리다", "chinese": "降臨/下(雨雪)", "pos": "動詞" },
-    { "korean": "바다", "chinese": "大海", "pos": "名詞" },
     { "korean": "등대", "chinese": "燈塔", "pos": "名詞" },
-    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
-    { "korean": "다가오다", "chinese": "靠近/來臨", "pos": "動詞" },
+    { "korean": "비추다", "chinese": "照亮", "pos": "動詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
     { "korean": "비바람", "chinese": "風雨", "pos": "名詞" },
-    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
-    { "korean": "단", "chinese": "只/僅僅", "pos": "副詞/冠形詞" },
     { "korean": "빛", "chinese": "光", "pos": "名詞" },
-    { "korean": "끝없이", "chinese": "無止盡地", "pos": "副詞" },
-    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞 (被動)" },
-    { "korean": "어둡다", "chinese": "黑暗", "pos": "形容詞" },
-    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
     { "korean": "은하수", "chinese": "銀河", "pos": "名詞" },
-    { "korean": "만들다", "chinese": "製造/創造", "pos": "動詞" },
-    { "korean": "파랗다", "chinese": "藍色", "pos": "形容詞" },
-    { "korean": "별", "chinese": "星星", "pos": "名詞" },
-    { "korean": "부딪치다", "chinese": "碰撞/拍打", "pos": "動詞" },
-    { "korean": "쓸리다", "chinese": "被沖走/被휩쓸리다的縮略", "pos": "動詞 (被動)" },
+    { "korean": "만들다", "chinese": "創造、製作", "pos": "動詞" },
+    { "korean": "파랗다", "chinese": "藍色的", "pos": "形容詞" },
+    { "korean": "부딪치다", "chinese": "碰撞", "pos": "動詞" },
+    { "korean": "쓸리다", "chinese": "被沖走", "pos": "動詞" },
     { "korean": "아파하다", "chinese": "感到痛苦", "pos": "動詞" },
-    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
-    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
-    { "korean": "보이다", "chinese": "被看見", "pos": "動詞 (被動)" },
     { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
-    { "korean": "한켠", "chinese": "一邊/一角", "pos": "名詞" },
-    { "korean": "내어주다", "chinese": "讓出/借出", "pos": "動詞" },
-    { "korean": "반", "chinese": "一半", "pos": "名詞" },
-    { "korean": "혹시나", "chinese": "或許/萬一 (強調)", "pos": "副詞" },
-    { "korean": "단어", "chinese": "詞語/單字", "pos": "名詞" },
-    { "korean": "담다", "chinese": "裝盛/包含", "pos": "動詞" },
-    { "korean": "전해주다", "chinese": "傳達給(人)", "pos": "動詞" },
-    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
-    { "korean": "붙이다", "chinese": "貼上/取名", "pos": "動詞" },
-    { "korean": "서로", "chinese": "互相", "pos": "副詞/代名詞" },
-    { "korean": "닮다", "chinese": "相似", "pos": "動詞" },
-    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
-    { "korean": "보내다", "chinese": "寄送/送", "pos": "動詞" },
-    { "korean": "온통", "chinese": "全部/整個", "pos": "副詞" }
+    { "korean": "내어주다", "chinese": "騰出給", "pos": "動詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "전해주다", "chinese": "傳達給", "pos": "動詞" },
+    { "korean": "내려오다", "chinese": "下來", "pos": "動詞" },
+    { "korean": "붙이다", "chinese": "貼上、取(名)", "pos": "動詞" },
+    { "korean": "닮다", "chinese": "相像", "pos": "動詞" },
+    { "korean": "온통", "chinese": "全部、整個", "pos": "副詞" }
   ]
 }

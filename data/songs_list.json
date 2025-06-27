@@ -84,7 +84,13 @@
     "title": "연애소설 (Love Story)",
     "artist": "Epik High (Feat. IU)",
     "lyricsFile": "../data/lyrics/epikhigh-love-story.json"
-  },    
+  },
+    {
+    "id": "epikhigh-screen-time",
+    "title": "Screen Time",
+    "artist": "Epik High",
+    "lyricsFile": "../data/lyrics/epikhigh-screen-time.json"
+  },  
   {
     "id": "epikhigh-can-you-hear-my-heart",
     "title": "Can You Hear My Heart",
@@ -214,7 +220,7 @@
   {
     "id": "o3ohn-milky-way-between-us",
     "title": "Milky Way Between Us",
-    "artist": "O3ohn",
+    "artist": "O3ohn (오존)",
     "lyricsFile": "../data/lyrics/o3ohn-milky-way-between-us.json"
   }, 
   {

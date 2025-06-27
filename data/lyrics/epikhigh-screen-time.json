@@ -1,0 +1,697 @@
+{
+  "id": "epikhigh-screen-time",
+  "title": "Screen Time",
+  "artist": "Epik High",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "어떻게 지내?",
+      "translation": "過得怎麼樣？",
+      "analysis": [
+        { "point": "어떻게", "explanation": "疑問副詞，怎麼樣。" },
+        { "point": "지내?", "explanation": "지내다 (度過、過活) 的非格式體疑問句。" }
+      ]
+    },
+    {
+      "korean": "요즘은 어때?",
+      "translation": "最近如何？",
+      "analysis": [
+        { "point": "요즘은", "explanation": "요즘 (最近) + -은 (主題助詞)。" },
+        { "point": "어때?", "explanation": "어떻다 (如何) 的非格式體疑問句。" }
+      ]
+    },
+    {
+      "korean": "네가 걱정돼서",
+      "translation": "因為擔心你",
+      "analysis": [
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" },
+        { "point": "걱정돼서", "explanation": "걱정되다 (擔心) 的詞幹 + -어서 (連接詞尾，表示原因)。" }
+      ]
+    },
+    {
+      "korean": "매일 이렇게",
+      "translation": "每天都像這樣",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天。" },
+        { "point": "이렇게", "explanation": "副詞，像這樣。" }
+      ]
+    },
+    {
+      "korean": "몇 번씩 확인해",
+      "translation": "確認好幾次",
+      "analysis": [
+        { "point": "몇 번씩", "explanation": "몇 (幾) + 번 (次) + -씩 (表示均等分配的後綴)。" },
+        { "point": "확인해", "explanation": "확인하다 (確認) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "하던 일은 잘 되는지",
+      "translation": "在做的事是否順利",
+      "analysis": [
+        { "point": "하던 일은", "explanation": "하다 (做) 的過去回想慣用形 + 일 (事) + -은 (主題)。" },
+        { "point": "잘 되는지", "explanation": "잘되다 (順利) 的詞幹 + -는지 (間接疑問詞尾)。" }
+      ]
+    },
+    {
+      "korean": "아픈덴 없는지",
+      "translation": "沒有不舒服的地方吧",
+      "analysis": [
+        { "point": "아픈덴", "explanation": "아픈데는 (不舒服的地方) 的縮略。" },
+        { "point": "없는지", "explanation": "없다 (沒有) 的詞幹 + -는지 (間接疑問詞尾)。" }
+      ]
+    },
+    {
+      "korean": "후회는 없는지",
+      "translation": "沒有後悔吧",
+      "analysis": [
+        { "point": "후회는", "explanation": "후회 (後悔) + -는 (主題)。" },
+        { "point": "없는지", "explanation": "없다 (沒有) 的詞幹 + -는지 (間接疑問詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "난 그럭저럭",
+      "translation": "我還過得去",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "그럭저럭", "explanation": "副詞，勉強、還過得去。" }
+      ]
+    },
+    {
+      "korean": "Baby I'm fine don't worry about me",
+      "translation": "寶貝我很好 別擔心我",
+      "analysis": [
+        { "point": "Baby I'm fine don't worry about me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I'll be ok 잘 살고있으니",
+      "translation": "我會沒事的 因為過得很好",
+      "analysis": [
+        { "point": "I'll be ok", "explanation": "英文歌詞。" },
+        { "point": "잘 살고있으니", "explanation": "잘 (好地) + 살다 (生活) + -고 있다 (正在) + -(으)니 (因為)。" }
+      ]
+    },
+    {
+      "korean": "Don't cry",
+      "translation": "別哭",
+      "analysis": [
+        { "point": "Don't cry", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 그럭저럭",
+      "translation": "我還過得去",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "그럭저럭", "explanation": "副詞，勉強、還過得去。" }
+      ]
+    },
+    {
+      "korean": "Baby I'm fine don't worry about me",
+      "translation": "寶貝我很好 別擔心我",
+      "analysis": [
+        { "point": "Baby I'm fine don't worry about me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Stare at my phone till the world is asleep",
+      "translation": "凝視著我的手機直到世界都睡去",
+      "analysis": [
+        { "point": "Stare at my phone till the world is asleep", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Goodnight",
+      "translation": "晚安",
+      "analysis": [
+        { "point": "Goodnight", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Tablo)",
+      "korean": "습관이란게 무섭다는 말",
+      "translation": "所謂習慣是很可怕的這句話",
+      "analysis": [
+        { "point": "습관이란게", "explanation": "습관 (習慣) + -(이)라는 것이 (所謂...的事)。" },
+        { "point": "무섭다는 말", "explanation": "무섭다 (可怕) + -다는 (間接引述) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "맞더라",
+      "translation": "果然沒錯",
+      "analysis": [
+        { "point": "맞더라", "explanation": "맞다 (對的) + -더라 (過去回想的感嘆詞尾)。" }
+      ]
+    },
+    {
+      "korean": "널 마주보던 아침이 익숙해",
+      "translation": "習慣了曾與你對視的早晨",
+      "analysis": [
+        { "point": "널 마주보던", "explanation": "너를 (你) + 마주보다 (對視) + -던 (過去回想)。" },
+        { "point": "아침이 익숙해", "explanation": "아침 (早晨) + -이 (主格) + 익숙하다 (習慣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈만 뜨면 또 화면 앞",
+      "translation": "只要一睜眼 又在螢幕前",
+      "analysis": [
+        { "point": "눈만 뜨면", "explanation": "눈 (眼睛) + -만 (只) + 뜨다 (睜開) + -(으)면 (如果)。" },
+        { "point": "또 화면 앞", "explanation": "또 (又) + 화면 (畫面、螢幕) + 앞 (前面)。" }
+      ]
+    },
+    {
+      "korean": "넌 몰라도",
+      "translation": "即使你不知道",
+      "analysis": [
+        { "point": "넌 몰라도", "explanation": "너는 (你) + 모르다 (不知道) + -아도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "난 너와 여태 단 하루도",
+      "translation": "我至今和你連一天都",
+      "analysis": [
+        { "point": "난 너와 여태", "explanation": "나는 (我) + 너와 (和你) + 여태 (至今)。" },
+        { "point": "단 하루도", "explanation": "단 (僅僅) + 하루 (一天) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "떨어진 적 없어",
+      "translation": "沒有分開過",
+      "analysis": [
+        { "point": "떨어진 적 없어", "explanation": "떨어지다 (分開、掉落) 的定語形態 + 적이 없다 (沒有...過)。" }
+      ]
+    },
+    {
+      "korean": "예전보다 I got you close",
+      "translation": "比起以前 I got you close",
+      "analysis": [
+        { "point": "예전보다", "explanation": "예전 (以前) + -보다 (比)。" },
+        { "point": "I got you close", "explanation": "英文歌詞，意指我讓你更近了。" }
+      ]
+    },
+    {
+      "korean": "일이 손에 안잡힐 수 밖에",
+      "translation": "事情當然無法上手",
+      "analysis": [
+        { "point": "일이 손에 안잡힐 수 밖에", "explanation": "慣用語，일이 손에 잡히다 (專心做事) 的否定 + -(으)ㄹ 수 밖에 없다 (只能...、當然...)。" }
+      ]
+    },
+    {
+      "korean": "두손 다 해 너와의 연을 쥐고 있네",
+      "translation": "用雙手緊握著與你的緣分",
+      "analysis": [
+        { "point": "두손 다 해", "explanation": "두 손 (雙手) + 다 (都) + 하다 (用)。" },
+        { "point": "너와의 연을 쥐고 있네", "explanation": "너와의 (與你的) + 연 (緣分) + -을 (受格) + 쥐다 (握著) + -고 있다 (正在) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "실은 끊어졌다는 걸 모르고",
+      "translation": "不知道其實已經斷了",
+      "analysis": [
+        { "point": "실은", "explanation": "副詞，其實。" },
+        { "point": "끊어졌다는 걸", "explanation": "끊어지다 (斷掉) 的過去式 + -다는 것 (間接引述) + -을 (受格)。" },
+        { "point": "모르고", "explanation": "모르다 (不知道) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "다시 밤이면",
+      "translation": "到了夜晚又",
+      "analysis": [
+        { "point": "다시 밤이면", "explanation": "다시 (又) + 밤 (夜晚) + -(이)면 (如果是)。" }
+      ]
+    },
+    {
+      "korean": "지쳐 잠들 때 까지",
+      "translation": "直到疲憊地睡著為止",
+      "analysis": [
+        { "point": "지쳐 잠들 때 까지", "explanation": "지치다 (疲憊) 的連接形 + 잠들다 (睡著) + -ㄹ 때 까지 (直到...的時候)。" }
+      ]
+    },
+    {
+      "korean": "It's hard to let go",
+      "translation": "很難放手",
+      "analysis": [
+        { "point": "It's hard to let go", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "결국,",
+      "translation": "結果,",
+      "analysis": [
+        { "point": "결국", "explanation": "副詞，最終、結果。" }
+      ]
+    },
+    {
+      "korean": "우린 이별의 온도마저 다른가 봐",
+      "translation": "看來我們連離別的溫度都不同",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "이별의 온도마저", "explanation": "이별 (離別) + -의 (的) + 온도 (溫度) + -마저 (連...都)。" },
+        { "point": "다른가 봐", "explanation": "다르다 (不同) + -ㄴ가 보다 (慣用句，看來...、好像...)" }
+      ]
+    },
+    {
+      "korean": "너라는 옷을 벗고 가슴 시려 아픈 나와",
+      "translation": "脫下名為你的衣服 心裡冰冷刺痛的我",
+      "analysis": [
+        { "point": "너라는 옷을 벗고", "explanation": "너라는 (所謂你) + 옷 (衣服) + -을 (受格) + 벗다 (脫下) + -고 (連接)。" },
+        { "point": "가슴 시려 아픈 나와", "explanation": "가슴 (心) + 시리다 (冰冷) 的連接形 + 아프다 (痛) 的定語形態 + 나와 (和我)。" }
+      ]
+    },
+    {
+      "korean": "아무 일 없다는 듯 지내는 널 봐",
+      "translation": "看著若無其事過活的你",
+      "analysis": [
+        { "point": "아무 일 없다는 듯", "explanation": "아무 일 없다 (沒事) + -는 듯 (像...一樣)。" },
+        { "point": "지내는 널 봐", "explanation": "지내다 (過活) 的定語形態 + 너를 (你) + 보다 (看)。" }
+      ]
+    },
+    {
+      "korean": "넌 내가 알고있던 것보다 차가운 사람",
+      "translation": "你是比我所知道的更冷漠的人",
+      "analysis": [
+        { "point": "넌 내가 알고있던 것보다", "explanation": "너는 (你) + 내가 (我) + 알고 있다 (知道) 的過去回想形態 + 것보다 (比...)" },
+        { "point": "차가운 사람", "explanation": "차갑다 (冷漠) 的定語形態 + 사람 (人)。" }
+      ]
+    },
+    {
+      "korean": "너의 글에서",
+      "translation": "在你的文字裡",
+      "analysis": [
+        { "point": "너의 글에서", "explanation": "너의 (你的) + 글 (文字) + -에서 (在...裡)。" }
+      ]
+    },
+    {
+      "korean": "미소띈 사진에서",
+      "translation": "在帶著微笑的照片裡",
+      "analysis": [
+        { "point": "미소띈", "explanation": "미소를 띈 (帶着微笑) 的縮略。" },
+        { "point": "사진에서", "explanation": "사진 (照片) + -에서 (在...裡)。" }
+      ]
+    },
+    {
+      "korean": "내 헛된 걱정 무색할 만큼 잘 지내서",
+      "translation": "你過得很好，好到讓我徒勞的擔心都黯然失色",
+      "analysis": [
+        { "point": "내 헛된 걱정", "explanation": "내 (我的) + 헛되다 (徒勞的) 定語形態 + 걱정 (擔心)。" },
+        { "point": "무색할 만큼", "explanation": "무색하다 (黯然失色) + -(으)ㄹ 만큼 (到...的程度)。" },
+        { "point": "잘 지내서", "explanation": "잘 (好地) + 지내다 (過活) + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "차라리 다행인듯해",
+      "translation": "反倒像是萬幸",
+      "analysis": [
+        { "point": "차라리", "explanation": "副詞，倒不如、反倒。" },
+        { "point": "다행인듯해", "explanation": "다행이다 (幸好) + -(으)ㄴ 듯하다 (像是...)。" }
+      ]
+    },
+    {
+      "korean": "난 미안했어",
+      "translation": "我曾感到抱歉",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "미안했어", "explanation": "미안하다 (抱歉) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "내가 괜찮아지는게",
+      "translation": "對於我漸漸好起來這件事",
+      "analysis": [
+        { "point": "내가 괜찮아지는게", "explanation": "내가 (我) + 괜찮아지다 (變好) 的定語形態 + 게 (것이 的縮略)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Hook",
+      "korean": "어떻게 지내?",
+      "translation": "過得怎麼樣？",
+      "analysis": [
+        { "point": "어떻게", "explanation": "疑問副詞，怎麼樣。" },
+        { "point": "지내?", "explanation": "지내다 (度過、過活) 的非格式體疑問句。" }
+      ]
+    },
+    {
+      "korean": "요즘은 어때?",
+      "translation": "最近如何？",
+      "analysis": [
+        { "point": "요즘은", "explanation": "요즘 (最近) + -은 (主題助詞)。" },
+        { "point": "어때?", "explanation": "어떻다 (如何) 的非格式體疑問句。" }
+      ]
+    },
+    {
+      "korean": "네가 걱정돼서",
+      "translation": "因為擔心你",
+      "analysis": [
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" },
+        { "point": "걱정돼서", "explanation": "걱정되다 (擔心) 的詞幹 + -어서 (連接詞尾，表示原因)。" }
+      ]
+    },
+    {
+      "korean": "매일 이렇게",
+      "translation": "每天都像這樣",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天。" },
+        { "point": "이렇게", "explanation": "副詞，像這樣。" }
+      ]
+    },
+    {
+      "korean": "몇번씩 확인해",
+      "translation": "確認好幾次",
+      "analysis": [
+        { "point": "몇번씩", "explanation": "몇 (幾) + 번 (次) + -씩 (表示均等分配的後綴)。" },
+        { "point": "확인해", "explanation": "확인하다 (確認) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "하던 일은 잘 되는지",
+      "translation": "在做的事是否順利",
+      "analysis": [
+        { "point": "하던 일은", "explanation": "하다 (做) 的過去回想慣用形 + 일 (事) + -은 (主題)。" },
+        { "point": "잘 되는지", "explanation": "잘되다 (順利) 的詞幹 + -는지 (間接疑問詞尾)。" }
+      ]
+    },
+    {
+      "korean": "아픈덴 없는지",
+      "translation": "沒有不舒服的地方吧",
+      "analysis": [
+        { "point": "아픈덴", "explanation": "아픈데는 (不舒服的地方) 的縮略。" },
+        { "point": "없는지", "explanation": "없다 (沒有) 的詞幹 + -는지 (間接疑問詞尾)。" }
+      ]
+    },
+    {
+      "korean": "후회는 없는지",
+      "translation": "沒有後悔吧",
+      "analysis": [
+        { "point": "후회는", "explanation": "후회 (後悔) + -는 (主題)。" },
+        { "point": "없는지", "explanation": "없다 (沒有) 的詞幹 + -는지 (間接疑問詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "난 그럭저럭",
+      "translation": "我還過得去",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "그럭저럭", "explanation": "副詞，勉強、還過得去。" }
+      ]
+    },
+    {
+      "korean": "Baby I'm fine don't worry bout me",
+      "translation": "寶貝我很好 別擔心我",
+      "analysis": [
+        { "point": "Baby I'm fine don't worry bout me", "explanation": "英文歌詞 ('bout 為 about 的縮略)。" }
+      ]
+    },
+    {
+      "korean": "I'll be ok 잘 살고 있으니",
+      "translation": "我會沒事的 因為過得很好",
+      "analysis": [
+        { "point": "I'll be ok", "explanation": "英文歌詞。" },
+        { "point": "잘 살고 있으니", "explanation": "잘 (好地) + 살다 (生活) + -고 있다 (正在) + -(으)니 (因為)。" }
+      ]
+    },
+    {
+      "korean": "Don't cry",
+      "translation": "別哭",
+      "analysis": [
+        { "point": "Don't cry", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 그럭저럭",
+      "translation": "我還過得去",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "그럭저럭", "explanation": "副詞，勉強、還過得去。" }
+      ]
+    },
+    {
+      "korean": "Baby I'm fine don't worry bout me",
+      "translation": "寶貝我很好 別擔心我",
+      "analysis": [
+        { "point": "Baby I'm fine don't worry bout me", "explanation": "英文歌詞 ('bout 為 about 的縮略)。" }
+      ]
+    },
+    {
+      "korean": "Stare at my phone till the world is asleep",
+      "translation": "凝視著我的手機直到世界都睡去",
+      "analysis": [
+        { "point": "Stare at my phone till the world is asleep", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "goodnight",
+      "translation": "晚安",
+      "analysis": [
+        { "point": "goodnight", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3 (Mithra Jin)",
+      "korean": "한 때 내 이정표 같던 너의 미소",
+      "translation": "曾經像是我路標的你的微笑",
+      "analysis": [
+        { "point": "한 때", "explanation": "名詞，一度、曾經。" },
+        { "point": "내 이정표 같던", "explanation": "내 (我的) + 이정표 (路標) + 같다 (像) + -던 (過去回想)。" },
+        { "point": "너의 미소", "explanation": "너의 (你的) + 미소 (微笑)。" }
+      ]
+    },
+    {
+      "korean": "이젠 화살처럼 가슴에 날아 박히고",
+      "translation": "如今像箭一樣飛來刺進心裡",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (如今) 的縮略。" },
+        { "point": "화살처럼", "explanation": "화살 (箭) + -처럼 (像...一樣)。" },
+        { "point": "가슴에 날아 박히고", "explanation": "가슴 (心) + -에 (場所) + 날다 (飛) 的連接形 + 박히다 (被刺進) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "귀찮을만큼 받기만 했던 관심도",
+      "translation": "曾收到多到嫌煩的關心",
+      "analysis": [
+        { "point": "귀찮을만큼", "explanation": "귀찮다 (麻煩) + -(으)ㄹ 만큼 (到...的程度)。" },
+        { "point": "받기만 했던 관심도", "explanation": "받다 (收到) + -기만 하다 (只做...) 的過去定語形態 + 관심 (關心) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "돌려 줄 곳도 없는데",
+      "translation": "無處可回報，但是",
+      "analysis": [
+        { "point": "돌려 줄 곳도 없는데", "explanation": "돌려주다 (歸還、回報) 的定語形態 + 곳 (地方) + -도 (也) + 없다 + -는데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "가지고",
+      "translation": "卻還擁有著",
+      "analysis": [
+        { "point": "가지고", "explanation": "가지다 (擁有) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "후회는 무의미하지만",
+      "translation": "後悔雖然毫無意義",
+      "analysis": [
+        { "point": "후회는 무의미하지만", "explanation": "후회 (後悔) + -는 (主題) + 무의미하다 (無意義) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "참 미안했어 나와 지낸 시간",
+      "translation": "和我共度的時光 真的很抱歉",
+      "analysis": [
+        { "point": "참 미안했어", "explanation": "참 (真) + 미안하다 (抱歉) 的過去式。" },
+        { "point": "나와 지낸 시간", "explanation": "나와 (和我) + 지내다 (度過) 的過去定語形態 + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "수평선 같은 날들 속",
+      "translation": "在像地平線一樣的日子裡",
+      "analysis": [
+        { "point": "수평선 같은", "explanation": "수평선 (地平線) + 같다 (像) 的定語形態。" },
+        { "point": "날들 속", "explanation": "날 (日子) + -들 (複數) + 속 (裡面)。" }
+      ]
+    },
+    {
+      "korean": "네 기억들만 뜨고 지네 늦었지만",
+      "translation": "只有關於你的記憶升起又落下 雖然晚了",
+      "analysis": [
+        { "point": "네 기억들만", "explanation": "네 (你的) + 기억 (記憶) + -들 (複數) + -만 (只)。" },
+        { "point": "뜨고 지네", "explanation": "뜨다 (升起) + -고 + 지다 (落下) + -네 (感嘆)。" },
+        { "point": "늦었지만", "explanation": "늦다 (晚了) 的過去式 + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "미안",
+      "translation": "抱歉",
+      "analysis": [
+        { "point": "미안", "explanation": "미안하다 (抱歉) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Never mind my outfit of the day",
+      "translation": "別在意我的今日穿搭",
+      "analysis": [
+        { "point": "Never mind my outfit of the day", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "You look good in everything",
+      "translation": "你穿什麼都好看",
+      "analysis": [
+        { "point": "You look good in everything", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "그런 행복은 내 몸에 맞지 않는 옷이지",
+      "translation": "那樣的幸福是件不合我身的衣服吧",
+      "analysis": [
+        { "point": "그런 행복은", "explanation": "그런 (那樣的) + 행복 (幸福) + -은 (主題)。" },
+        { "point": "내 몸에 맞지 않는 옷이지", "explanation": "내 몸에 (我的身上) + 맞다 (合適) + -지 않다 的定語形態 + 옷 (衣服) + -이지 (是吧)。" }
+      ]
+    },
+    {
+      "korean": "Somebody take my phone away",
+      "translation": "誰來拿走我的手機",
+      "analysis": [
+        { "point": "Somebody take my phone away", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I'm done with all these memories",
+      "translation": "我受夠了所有這些回憶",
+      "analysis": [
+        { "point": "I'm done with all these memories", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I'm just trying to kill time",
+      "translation": "我只是在試著消磨時間",
+      "analysis": [
+        { "point": "I'm just trying to kill time", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I'm sick of all this screen time",
+      "translation": "我厭倦了所有這些螢幕時間",
+      "analysis": [
+        { "point": "I'm sick of all this screen time", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "어떻게 지내?",
+      "translation": "過得怎麼樣？",
+      "analysis": [
+        { "point": "어떻게", "explanation": "疑問副詞，怎麼樣。" },
+        { "point": "지내?", "explanation": "지내다 (度過、過活) 的非格式體疑問句。" }
+      ]
+    },
+    {
+      "korean": "아픈덴 없는지",
+      "translation": "沒有不舒服的地方吧",
+      "analysis": [
+        { "point": "아픈덴 없는지", "explanation": "아픈데는 (不舒服的地方) 的縮略 + 없다 + -는지 (間接疑問)。" }
+      ]
+    },
+    {
+      "korean": "너도 나 같은지",
+      "translation": "你是否也和我一樣",
+      "analysis": [
+        { "point": "너도 나 같은지", "explanation": "너도 (你也) + 나와 같다 (和我一樣) + -ㄴ지 (間接疑問)。" }
+      ]
+    },
+    {
+      "korean": "요즘 뭘 먹고 마시고 어떤 행복을 찾는지",
+      "translation": "最近吃什麼喝什麼又在尋找何種幸福",
+      "analysis": [
+        { "point": "요즘 뭘 먹고 마시고", "explanation": "요즘 (最近) + 무엇을 (什麼) + 먹다 (吃) + -고 + 마시다 (喝) + -고。" },
+        { "point": "어떤 행복을 찾는지", "explanation": "어떤 (何種) + 행복 (幸福) + -을 (受格) + 찾다 (尋找) + -는지。" }
+      ]
+    },
+    {
+      "korean": "오늘 뭘 입고 어디서 어디로 향해 가는지",
+      "translation": "今天穿什麼在哪裡又走向何方",
+      "analysis": [
+        { "point": "오늘 뭘 입고", "explanation": "오늘 (今天) + 무엇을 (什麼) + 입다 (穿) + -고。" },
+        { "point": "어디서 어디로 향해 가는지", "explanation": "어디서 (在哪裡) + 어디로 (往哪裡) + 향해 가다 (走向) + -는지。" }
+      ]
+    },
+    {
+      "korean": "누가 널 웃게 해주고",
+      "translation": "是誰逗你笑",
+      "analysis": [
+        { "point": "누가 널 웃게 해주고", "explanation": "누가 (誰) + 너를 (你) + 웃다 (笑) 的使動形 + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "나 대신 안아주는지",
+      "translation": "又是誰代替我擁抱你",
+      "analysis": [
+        { "point": "나 대신", "explanation": "나 (我) + 대신 (代替)。" },
+        { "point": "안아주는지", "explanation": "안아주다 (擁抱) 的詞幹 + -는지 (間接疑問)。" }
+      ]
+    },
+    {
+      "korean": "궁금해서",
+      "translation": "因為好奇",
+      "analysis": [
+        { "point": "궁금해서", "explanation": "궁금하다 (好奇) 的詞幹 + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "미안해서",
+      "translation": "因為抱歉",
+      "analysis": [
+        { "point": "미안해서", "explanation": "미안하다 (抱歉) 的詞幹 + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "이렇게 지내",
+      "translation": "就這樣過著",
+      "analysis": [
+        { "point": "이렇게 지내", "explanation": "이렇게 (這樣) + 지내다 (度過)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "지내다", "chinese": "度過、過活", "pos": "動詞" },
+    { "korean": "걱정되다", "chinese": "擔心", "pos": "動詞" },
+    { "korean": "확인하다", "chinese": "確認", "pos": "動詞" },
+    { "korean": "후회", "chinese": "後悔", "pos": "名詞" },
+    { "korean": "그럭저럭", "chinese": "勉強、還過得去", "pos": "副詞" },
+    { "korean": "살다", "chinese": "生活", "pos": "動詞" },
+    { "korean": "습관", "chinese": "習慣", "pos": "名詞" },
+    { "korean": "무섭다", "chinese": "可怕", "pos": "形容詞" },
+    { "korean": "마주보다", "chinese": "對視", "pos": "動詞" },
+    { "korean": "익숙하다", "chinese": "熟悉、習慣", "pos": "形容詞" },
+    { "korean": "화면", "chinese": "畫面、螢幕", "pos": "名詞" },
+    { "korean": "떨어지다", "chinese": "分開、掉落", "pos": "動詞" },
+    { "korean": "연", "chinese": "緣分", "pos": "名詞" },
+    { "korean": "쥐다", "chinese": "握著", "pos": "動詞" },
+    { "korean": "끊어지다", "chinese": "斷掉", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "잠들다", "chinese": "睡著", "pos": "動詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "온도", "chinese": "溫度", "pos": "名詞" },
+    { "korean": "옷", "chinese": "衣服", "pos": "名詞" },
+    { "korean": "벗다", "chinese": "脫下", "pos": "動詞" },
+    { "korean": "시리다", "chinese": "冰冷、刺痛", "pos": "形容詞" },
+    { "korean": "차가운", "chinese": "冷漠的、冰冷的", "pos": "形容詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "헛되다", "chinese": "徒勞的", "pos": "形容詞" },
+    { "korean": "무색하다", "chinese": "黯然失色", "pos": "形容詞" },
+    { "korean": "차라리", "chinese": "倒不如、反倒", "pos": "副詞" },
+    { "korean": "다행", "chinese": "萬幸", "pos": "名詞" },
+    { "korean": "이정표", "chinese": "路標", "pos": "名詞" },
+    { "korean": "화살", "chinese": "箭", "pos": "名詞" },
+    { "korean": "박히다", "chinese": "被刺進", "pos": "動詞" },
+    { "korean": "귀찮다", "chinese": "麻煩、嫌煩", "pos": "形容詞" },
+    { "korean": "관심", "chinese": "關心", "pos": "名詞" },
+    { "korean": "무의미하다", "chinese": "無意義", "pos": "形容詞" },
+    { "korean": "수평선", "chinese": "地平線", "pos": "名詞" },
+    { "korean": "뜨다", "chinese": "升起", "pos": "動詞" },
+    { "korean": "지다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "궁금하다", "chinese": "好奇", "pos": "形容詞" }
+  ]
+}
