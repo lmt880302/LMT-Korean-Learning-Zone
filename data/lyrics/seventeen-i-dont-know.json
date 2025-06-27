@@ -6,98 +6,98 @@
     {
       "sectionTitle": "Verse 1 (S.Coups)",
       "korean": "들어가자 잠깐",
-      "translation": " 잠깐進去一下吧",
+      "translation": "進去一下吧，暫時",
       "analysis": [
-        { "point": "들어가자", "explanation": "들어가다 (進去) 的詞幹 + -자 (共動句終結詞尾，用於平輩或對下，表示提議「...吧」)" },
-        { "point": "잠깐", "explanation": "副詞，暫時，一下" }
+        { "point": "들어가자", "explanation": "들어가다 (進去) 的詞幹 + -자 (共動句終結詞尾，表示提議「...吧」)。" },
+        { "point": "잠깐", "explanation": "副詞，暫時、一下。" }
       ]
     },
     {
       "korean": "예민한 날이 선 시계 소리 나는 방",
       "translation": "傳來敏感又尖銳的時鐘聲的房間",
       "analysis": [
-        { "point": "예민한", "explanation": "예민하다 (敏感) 的定語形態 (-ㄴ/은)，用來修飾後面的名詞" },
-        { "point": "날이 선", "explanation": "慣用語 `날(이) 서다` (鋒利，尖銳) 的過去定語形態，形容氣氛或聲音非常尖銳、緊繃" },
-        { "point": "시계 소리 나는", "explanation": "시계 (時鐘) + 소리 (聲音) + 나다 (發出) 的現在定語形態 (-는)，修飾 `방`" },
-        { "point": "방", "explanation": "名詞，房間" }
+        { "point": "예민한", "explanation": "예민하다 (敏感) 的定語形態 (-ㄴ/은)，用來修飾後面的名詞。" },
+        { "point": "날이 선", "explanation": "慣用語 `날(이) 서다` (鋒利，尖銳) 的過去定語形態，形容氣氛或聲音非常尖銳、緊繃。" },
+        { "point": "시계 소리 나는", "explanation": "시계 (時鐘) + 소리 (聲音) + 나다 (發出) 的現在定語形態 (-는)，修飾 `방`。" },
+        { "point": "방", "explanation": "名詞，房間。" }
       ]
     },
     {
       "korean": "궁금증에 비해다소 짧아진",
       "translation": "比起好奇心而略顯縮短的",
       "analysis": [
-        { "point": "궁금증에 비해", "explanation": "궁금증 (好奇心) + -에 비해(서) (慣用句型，與...相比)" },
-        { "point": "다소", "explanation": "副詞，多少，稍微" },
-        { "point": "짧아진", "explanation": "짧아지다 (變短 - 짧다 + -아지다) 的過去定語形態 (-ㄴ/은)" }
+        { "point": "궁금증에 비해", "explanation": "궁금증 (好奇心) + -에 비해(서) (慣用句型，與...相比)。" },
+        { "point": "다소", "explanation": "副詞，多少、稍微。" },
+        { "point": "짧아진", "explanation": "짧아지다 (變短) 的過去定語形態 (-ㄴ/은)。" }
       ]
     },
     {
       "korean": "물음은 정적을 깨, 대화 속엔",
       "translation": "提問打破了寂靜，對話之中",
       "analysis": [
-        { "point": "물음은", "explanation": "물음 (提問，疑問 - 묻다 的名詞形) + -은 (主題助詞)" },
-        { "point": "정적을 깨", "explanation": "정적 (寂靜) + -을 (受格助詞) + 깨다 (打破) 的非格式體，省略了語尾 -어/아" },
-        { "point": "대화 속엔", "explanation": "대화 (對話) + 속 (裡面) + -엔 (-에는 的縮略，在...之中)" }
+        { "point": "물음은", "explanation": "물음 (提問) + -은 (主題助詞)。" },
+        { "point": "정적을 깨", "explanation": "정적 (寂靜) + -을 (受格助詞) + 깨다 (打破) 的非格式體。" },
+        { "point": "대화 속엔", "explanation": "대화 (對話) + 속 (裡面) + -엔 (-에는 的縮略)。" }
       ]
     },
     {
       "korean": "불만스런 느낌들이 가득 차",
       "translation": "充滿了不滿的感覺",
       "analysis": [
-        { "point": "불만스런", "explanation": "불만스럽다 (令人不滿) 的定語形態，修飾 `느낌들`" },
-        { "point": "느낌들이", "explanation": "느낌 (感覺) + -들 (複數後綴) + -이 (主格助詞)" },
-        { "point": "가득 차", "explanation": "가득 (副詞，滿滿地) + 차다 (充滿) 的非格式體" }
+        { "point": "불만스런", "explanation": "불만스럽다 (令人不滿) 的定語形態。" },
+        { "point": "느낌들이", "explanation": "느낌 (感覺) + -들 (複數) + -이 (主格)。" },
+        { "point": "가득 차", "explanation": "가득 (滿滿地) + 차다 (充滿)。" }
       ]
     },
     {
       "korean": "넘쳐나, 더 이상은 안돼",
       "translation": "滿溢而出，再也無法忍受",
       "analysis": [
-        { "point": "넘쳐나", "explanation": "넘쳐나다 (溢出) 的非格式體" },
-        { "point": "더 이상은 안돼", "explanation": "더 이상 (再也) + -은 (主題助詞，強調) + 안되다 (不行)" }
+        { "point": "넘쳐나", "explanation": "넘쳐나다 (溢出)。" },
+        { "point": "더 이상은 안돼", "explanation": "더 이상 (再也) + -은 (強調) + 안되다 (不行)。" }
       ]
     },
     {
       "korean": "한숨에 묻혀버린 주변은 고요해 (uh)",
       "translation": "被嘆息所掩蓋的周圍一片寂靜 (uh)",
       "analysis": [
-        { "point": "한숨에 묻혀버린", "explanation": "한숨 (嘆息) + -에 (被動助詞) + 묻히다 (被掩蓋) + -어 버리다 (補助動詞，表示動作徹底完成且帶有可惜或遺憾的語氣) 的過去定語形態" },
-        { "point": "주변은 고요해", "explanation": "주변 (周圍) + -은 (主題助詞) + 고요하다 (寂靜) 的非格式體" }
+        { "point": "한숨에 묻혀버린", "explanation": "한숨 (嘆息) + -에 (被動助詞) + 묻히다 (被掩蓋) + -어 버리다 (表示動作徹底完成) 的過去定語形態。" },
+        { "point": "주변은 고요해", "explanation": "주변 (周圍) + -은 (主題) + 고요하다 (寂靜)。" }
       ]
     },
     {
       "korean": "숨 막힐 듯해도, 입 다물고 있는 게 차라리 속 편해",
       "translation": "即使像要窒息，閉著嘴反而心裡更舒坦",
       "analysis": [
-        { "point": "숨 막힐 듯해도", "explanation": "慣用語 `숨(이) 막히다` (窒息) + -(으)ㄹ 듯하다 (好像...的樣子) + -아/어도 (連接詞尾，即使...也)" },
-        { "point": "입 다물고 있는 게", "explanation": "慣用語 `입(을) 다물다` (閉嘴) + -고 있다 (正在進行) 的名詞化形式 (-는 것 + -이)" },
-        { "point": "차라리", "explanation": "副詞，寧可，反而" },
-        { "point": "속 편해", "explanation": "慣用語 `속(이) 편하다` (心裡舒坦，安心) 的非格式體" }
+        { "point": "숨 막힐 듯해도", "explanation": "숨(이) 막히다 (窒息) + -(으)ㄹ 듯하다 (好像...) + -아/어도 (即使...也)。" },
+        { "point": "입 다물고 있는 게", "explanation": "입(을) 다물다 (閉嘴) + -고 있다 的名詞化。" },
+        { "point": "차라리", "explanation": "副詞，寧可、反而。" },
+        { "point": "속 편해", "explanation": "속(이) 편하다 (心裡舒坦) 的非格式體。" }
       ]
     },
     {
       "korean": "딱딱해진 관계 해소되지 않은 싸움",
       "translation": "變得僵硬的關係 未能化解的爭吵",
       "analysis": [
-        { "point": "딱딱해진 관계", "explanation": "딱딱해지다 (變僵硬) 的過去定語形態 + 관계 (關係)" },
-        { "point": "해소되지 않은 싸움", "explanation": "해소되다 (被化解) + -지 않다 (不) 的過去定語形態 + 싸움 (爭吵)" }
+        { "point": "딱딱해진 관계", "explanation": "딱딱해지다 (變僵硬) 的過去定語形態 + 관계 (關係)。" },
+        { "point": "해소되지 않은 싸움", "explanation": "해소되다 (被化解) + -지 않다 的過去定語形態 + 싸움 (爭吵)。" }
       ]
     },
     {
       "korean": "끝내 열리는 방문 원점이 돼, 고개 돌린 채",
       "translation": "終究打開的房門成了原點，轉過頭去",
       "analysis": [
-        { "point": "끝내", "explanation": "副詞，終究，最終" },
-        { "point": "열리는 방문", "explanation": "열리다 (被打開) 的定語形態 + 방문 (房門)" },
-        { "point": "원점이 돼", "explanation": "원점 (原點) + -이 (主格助詞) + 되다 (變成) 的非格式體" },
-        { "point": "고개 돌린 채", "explanation": "慣用語 `고개(를) 돌리다` (轉頭) 的過去定語形態 + -(으)ㄴ 채(로) (慣用型，保持...的狀態)" }
+        { "point": "끝내", "explanation": "副詞，終究、最終。" },
+        { "point": "열리는 방문", "explanation": "열리다 (被打開) 的定語形態 + 방문 (房門)。" },
+        { "point": "원점이 돼", "explanation": "원점 (原點) + -이 (主格) + 되다 (變成)。" },
+        { "point": "고개 돌린 채", "explanation": "고개(를) 돌리다 (轉頭) 的過去定語形態 + -(으)ㄴ 채(로) (保持...的狀態)。" }
       ]
     },
     {
       "korean": "다음에 얘기해",
       "translation": "下次再說吧",
       "analysis": [
-        { "point": "다음에 얘기해", "explanation": "다음에 (下次) + 얘기하다 (說話) 的非格式體命令形" }
+        { "point": "다음에 얘기해", "explanation": "다음에 (下次) + 얘기하다 (說話) 的命令形。" }
       ]
     },
     {
@@ -105,34 +105,34 @@
       "korean": "똑같은 곳을 또 헤매고 있어",
       "translation": "又在同樣的地方徘徊",
       "analysis": [
-        { "point": "똑같은 곳을", "explanation": "똑같다 (一模一樣) 的定語形態 + 곳 (地方) + -을 (受格助詞)" },
-        { "point": "또 헤매고 있어", "explanation": "또 (又) + 헤매다 (徘徊，迷惘) + -고 있다 (正在進行式)" }
+        { "point": "똑같은 곳을", "explanation": "똑같다 (一模一樣) 的定語形態 + 곳 (地方) + -을 (受格)。" },
+        { "point": "또 헤매고 있어", "explanation": "또 (又) + 헤매다 (徘徊) + -고 있다 (正在進行)。" }
       ]
     },
     {
       "korean": "모든 게 다 낯설게만 느껴져",
       "translation": "所有的一切都只覺得陌生",
       "analysis": [
-        { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略" },
-        { "point": "다 낯설게만", "explanation": "다 (全都) + 낯설다 (陌生) 的副詞形 (-게) + -만 (只)" },
-        { "point": "느껴져", "explanation": "느껴지다 (被感覺到) 的非格式體" }
+        { "point": "모든 게", "explanation": "모든 것이 (所有事物) 的縮略。" },
+        { "point": "다 낯설게만", "explanation": "다 (全都) + 낯설다 (陌生) 的副詞形 + -만 (只)。" },
+        { "point": "느껴져", "explanation": "느껴지다 (被感覺到) 的非格式體。" }
       ]
     },
     {
       "korean": "이제는 정말 끝내야 될까?",
       "translation": "現在真的該結束了嗎？",
       "analysis": [
-        { "point": "이제는 정말", "explanation": "이제 (現在) + -는 (強調) + 정말 (真的)" },
-        { "point": "끝내야 될까?", "explanation": "끝내다 (結束) + -아야 되다 (必須) 的疑問形式 + -(으)ㄹ까? (嗎？)" }
+        { "point": "이제는 정말", "explanation": "이제 (現在) + -는 (強調) + 정말 (真的)。" },
+        { "point": "끝내야 될까?", "explanation": "끝내다 (結束) + -아야 되다 (必須) 的疑問形 + -(으)ㄹ까?。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     },
     {
@@ -140,143 +140,136 @@
       "korean": "또 눈물이 흘러 (oh-oh-oh, oh-oh)",
       "translation": "又流下眼淚 (oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "또 눈물이 흘러", "explanation": "또 (又) + 눈물 (眼淚) + -이 (主格助詞) + 흐르다 (流淌)" }
+        { "point": "또 눈물이 흘러", "explanation": "또 (又) + 눈물 (眼淚) + -이 (主格) + 흐르다 (流淌)。" }
       ]
     },
     {
       "korean": "뭣 모를 눈물이 흘러, oh (oh-oh-oh, oh-oh)",
       "translation": "流下不懂事的眼淚, oh (oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "뭣 모를", "explanation": "慣用語 `뭣(을) 모르다` (不懂事，天真) 的定語形態，修飾 `눈물`" },
-        { "point": "눈물이 흘러, oh", "explanation": "眼淚流下, oh" }
+        { "point": "뭣 모를", "explanation": "慣用語 `뭣(을) 모르다` (不懂事，天真) 的定語形態。" },
+        { "point": "눈물이 흘러, oh", "explanation": "눈물이 흐르다 (眼淚流下), oh。" }
       ]
     },
     {
       "korean": "예전의 너와 나 그리운 걸까? (왜?)",
       "translation": "是懷念從前的你和我嗎？ (為何？)",
       "analysis": [
-        { "point": "예전의 너와 나", "explanation": "예전 (從前) + -의 (的) + 너와 나 (你和我)" },
-        { "point": "그리운 걸까?", "explanation": "그립다 (懷念) 的定語形態 + 것 (事情) + -(이)ㄹ까? (疑問終結，是...嗎？)" }
+        { "point": "예전의 너와 나", "explanation": "예전의 (從前的) + 너와 나 (你和我)。" },
+        { "point": "그리운 걸까?", "explanation": "그립다 (懷念) 的定語形態 + 것 + -(이)ㄹ까? (是...嗎？)。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     },
     {
       "korean": "또 눈물이 흘러 (oh-oh-oh, oh-oh)",
       "translation": "又流下眼淚 (oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "또 눈물이 흘러", "explanation": "又 眼淚(主格) + 흐르다 (流淌)" }
+        { "point": "또 눈물이 흘러", "explanation": "또 (又) + 눈물 (眼淚) + -이 (主格) + 흐르다 (流淌)。" }
       ]
     },
     {
       "korean": "한없이 눈물이 흘러, oh (oh-oh-oh, oh-oh)",
       "translation": "無止盡地流下眼淚, oh (oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "한없이", "explanation": "副詞，無止盡地" },
-        { "point": "눈물이 흘러, oh", "explanation": "眼淚流下, oh" }
+        { "point": "한없이", "explanation": "副詞，無止盡地。" },
+        { "point": "눈물이 흘러, oh", "explanation": "눈물이 흐르다 (眼淚流下), oh。" }
       ]
     },
     {
       "korean": "이제는 정말 끝내야 될까? (널)",
       "translation": "現在真的該結束了嗎？ (你)",
       "analysis": [
-        { "point": "이제는 정말 끝내야 될까?", "explanation": "現在 真的 該結束了嗎？" },
-        { "point": "(널)", "explanation": "你(受格) (Ad-lib)" }
+        { "point": "이제는 정말 끝내야 될까?", "explanation": "現在真的該結束了嗎？" },
+        { "point": "(널)", "explanation": "你(受格) (Ad-lib)。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     },
     {
       "sectionTitle": "Verse 2 (Vernon)",
-      "korean": "Uh",
-      "translation": "Uh",
-      "analysis": [
-        { "point": "Uh", "explanation": "感嘆詞" }
-      ]
-    },
-    {
       "korean": "Daydreaming in the midst of the night",
       "translation": "在深夜裡做著白日夢",
       "analysis": [
-        { "point": "Daydreaming in the midst of the night", "explanation": "英文歌詞" }
+        { "point": "Daydreaming in the midst of the night", "explanation": "英文歌詞。" }
       ]
     },
     {
       "korean": "You brush my thoughts and sweep my sleep away",
       "translation": "你掠過我的思緒 掃走我的睡意",
       "analysis": [
-        { "point": "You brush my thoughts and sweep my sleep away", "explanation": "英文歌詞" }
+        { "point": "You brush my thoughts and sweep my sleep away", "explanation": "英文歌詞。" }
       ]
     },
     {
       "korean": "Yeah, 이제 와서 I miss all the times",
-      "translation": "Yeah, 事到如今 I miss all the times",
+      "translation": "Yeah, 事到如今 我想念所有時光",
       "analysis": [
-        { "point": "Yeah, 이제 와서", "explanation": "Yeah, 慣用表達，事到如今" },
-        { "point": "I miss all the times", "explanation": "英文歌詞：我想念所有時光" }
+        { "point": "Yeah, 이제 와서", "explanation": "Yeah, 慣用表達，事到如今。" },
+        { "point": "I miss all the times", "explanation": "英文歌詞。" }
       ]
     },
     {
       "korean": "불필요 해, there are plenty more times",
-      "translation": "沒有必要，there are plenty more times",
+      "translation": "沒有必要，還會有更多時光",
       "analysis": [
-        { "point": "불필요 해", "explanation": "불필요하다 (沒必要) 的非格式體" },
-        { "point": "there are plenty more times", "explanation": "英文歌詞：還會有更多時光" }
+        { "point": "불필요 해", "explanation": "불필요하다 (沒必要) 的非格式體。" },
+        { "point": "there are plenty more times", "explanation": "英文歌詞。" }
       ]
     },
     {
       "korean": "We'll miss anyway, it's painful to face you",
       "translation": "我們終究會錯過，面對你很痛苦",
       "analysis": [
-        { "point": "We'll miss anyway, it's painful to face you", "explanation": "英文歌詞" }
+        { "point": "We'll miss anyway, it's painful to face you", "explanation": "英文歌詞。" }
       ]
     },
     {
       "korean": "듣고 싶어 하는 답변 (답변)",
       "translation": "想聽的回答 (回答)",
       "analysis": [
-        { "point": "듣고 싶어 하는", "explanation": "듣고 싶다 (想聽) 的定語形態 (-는)，修飾 `답변`" },
-        { "point": "답변", "explanation": "名詞，回答" }
+        { "point": "듣고 싶어 하는", "explanation": "듣고 싶다 (想聽) 的定語形態，修飾 `답변`。" },
+        { "point": "답변", "explanation": "名詞，回答。" }
       ]
     },
     {
       "korean": "알면서도 괜히 (괜히), 삐뚤어지는 감정",
       "translation": "即使知道也 괜히 (괜히)，變得乖戾的感情",
       "analysis": [
-        { "point": "알면서도", "explanation": "알다 (知道) + -(으)면서도 (即使...也)" },
-        { "point": "괜히", "explanation": "副詞，平白無故地" },
-        { "point": "삐뚤어지는 감정", "explanation": "삐뚤어지다 (變得乖戾/歪斜) 的定語形態 + 감정 (感情)" }
+        { "point": "알면서도", "explanation": "알다 (知道) + -(으)면서도 (即使...也)。" },
+        { "point": "괜히", "explanation": "副詞，平白無故地。" },
+        { "point": "삐뚤어지는 감정", "explanation": "삐뚤어지다 (變得乖戾/歪斜) 的定語形態 + 감정 (感情)。" }
       ]
     },
     {
       "korean": "다시 또 비꼬이는 흉터와 죄책감 (흉터와 죄책감)",
       "translation": "再次被扭曲的傷疤和罪惡感 (傷疤和罪惡感)",
       "analysis": [
-        { "point": "다시 또", "explanation": "又再次" },
-        { "point": "비꼬이는", "explanation": "비꼬이다 (被扭曲/被嘲諷) 的定語形態" },
-        { "point": "흉터와 죄책감", "explanation": "흉터 (傷疤) + -와 (和) + 죄책감 (罪惡感)" }
+        { "point": "다시 또", "explanation": "副詞，又再次。" },
+        { "point": "비꼬이는", "explanation": "비꼬이다 (被扭曲/被嘲諷) 的定語形態。" },
+        { "point": "흉터와 죄책감", "explanation": "흉터 (傷疤) + -와 (和) + 죄책감 (罪惡感)。" }
       ]
     },
     {
       "korean": "조여오는 벽면의 폐쇄감",
-      "translation": "逐漸 조여오는 的牆壁的封閉感",
+      "translation": "逐漸逼近的牆壁的封閉感",
       "analysis": [
-        { "point": "조여오는", "explanation": "조여오다 (조여오는) 的定語形態" },
-        { "point": "벽면의 폐쇄감", "explanation": "벽면 (牆壁) + -의 (的) + 폐쇄감 (封閉感)" }
+        { "point": "조여오는", "explanation": "조여오다 (逼近、收緊) 的現在定語形態。" },
+        { "point": "벽면의 폐쇄감", "explanation": "벽면 (牆壁) + -의 (的) + 폐쇄감 (封閉感)。" }
       ]
     },
     {
@@ -284,99 +277,34 @@
       "korean": "똑같은 곳을 또 헤매고 있어",
       "translation": "又在同樣的地方徘徊",
       "analysis": [
-        { "point": "똑같은 곳을", "explanation": "똑같다 (一模一樣) 的定語形態 + 곳 (地方) + -을 (受格助詞)" },
-        { "point": "또 헤매고 있어", "explanation": "또 (又) + 헤매다 (徘徊，迷惘) + -고 있다 (正在進行式)" }
+        { "point": "똑같은 곳을", "explanation": "똑같다 (一模一樣) 的定語形態 + 곳 (地方) + -을 (受格)。" },
+        { "point": "또 헤매고 있어", "explanation": "또 (又) + 헤매다 (徘徊) + -고 있다 (正在進行)。" }
       ]
     },
     {
       "korean": "모든 게 다 낯설게만 느껴져",
       "translation": "所有的一切都只覺得陌生",
       "analysis": [
-        { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略" },
-        { "point": "다 낯설게만", "explanation": "다 (全都) + 낯설다 (陌生) 的副詞形 (-게) + -만 (只)" },
-        { "point": "느껴져", "explanation": "느껴지다 (被感覺到) 的非格式體" }
+        { "point": "모든 게", "explanation": "모든 것이 (所有事物) 的縮略。" },
+        { "point": "다 낯설게만", "explanation": "다 (全都) + 낯설다 (陌生) 的副詞形 + -만 (只)。" },
+        { "point": "느껴져", "explanation": "느껴지다 (被感覺到)。" }
       ]
     },
     {
       "korean": "이제는 정말 끝내야 될까?",
       "translation": "現在真的該結束了嗎？",
       "analysis": [
-        { "point": "이제는 정말", "explanation": "이제 (現在) + -는 (強調) + 정말 (真的)" },
-        { "point": "끝내야 될까?", "explanation": "끝내다 (結束) + -아야 되다 (必須) 的疑問形式 + -(으)ㄹ까? (嗎？)" }
+        { "point": "이제는 정말", "explanation": "이제 (現在) + -는 (強調) + 정말 (真的)。" },
+        { "point": "끝내야 될까?", "explanation": "끝내다 (結束) + -아야 되다 (必須) 的疑問形 + -(으)ㄹ까?。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
-      ]
-    },
-    {
-      "sectionTitle": "Chorus",
-      "korean": "또 눈물이 흘러 (oh-oh-oh, oh-oh)",
-      "translation": "又流下眼淚 (oh-oh-oh, oh-oh)",
-      "analysis": [
-        { "point": "또 눈물이 흘러", "explanation": "又 眼淚(主格) + 흐르다 (流淌)" }
-      ]
-    },
-    {
-      "korean": "뭣 모를 눈물이 흘러, oh (oh-oh-oh, oh-oh)",
-      "translation": "流下不懂事的眼淚, oh (oh-oh-oh, oh-oh)",
-      "analysis": [
-        { "point": "뭣 모를", "explanation": "慣用語 `뭣(을) 모르다` (不懂事，天真) 的定語形態，修飾 `눈물`" },
-        { "point": "눈물이 흘러, oh", "explanation": "眼淚流下, oh" }
-      ]
-    },
-    {
-      "korean": "예전의 너와 나 그리운 걸까? (왜?)",
-      "translation": "是懷念從前的你和我嗎？ (為何？)",
-      "analysis": [
-        { "point": "예전의 너와 나", "explanation": "예전 (從前) + -의 (的) + 너와 나 (你和我)" },
-        { "point": "그리운 걸까?", "explanation": "그립다 (懷念) 的定語形態 + 것 (事情) + -(이)ㄹ까? (疑問終結，是...嗎？)" }
-      ]
-    },
-    {
-      "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
-      "translation": "這個嘛，我不知道，我也不知道",
-      "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
-      ]
-    },
-    {
-      "korean": "또 눈물이 흘러 (oh-oh-oh, oh-oh)",
-      "translation": "又流下眼淚 (oh-oh-oh, oh-oh)",
-      "analysis": [
-        { "point": "또 눈물이 흘러", "explanation": "又 眼淚(主格) + 흐르다 (流淌)" }
-      ]
-    },
-    {
-      "korean": "한없이 눈물이 흘러, oh (oh-oh-oh, oh-oh)",
-      "translation": "無止盡地流下眼淚, oh (oh-oh-oh, oh-oh)",
-      "analysis": [
-        { "point": "한없이", "explanation": "副詞，無止盡地" },
-        { "point": "눈물이 흘러, oh", "explanation": "眼淚流下, oh" }
-      ]
-    },
-    {
-      "korean": "이제는 정말 끝내야 될까? (널)",
-      "translation": "現在真的該結束了嗎？ (你)",
-      "analysis": [
-        { "point": "이제는 정말 끝내야 될까?", "explanation": "現在 真的 該結束了嗎？" },
-        { "point": "(널)", "explanation": "你(受格) (Ad-lib)" }
-      ]
-    },
-    {
-      "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
-      "translation": "這個嘛，我不知道，我也不知道",
-      "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     },
     {
@@ -384,74 +312,74 @@
       "korean": "서로 어긋나있는 길 건너편",
       "translation": "在互相錯開的路的對面",
       "analysis": [
-        { "point": "서로", "explanation": "副詞，互相" },
-        { "point": "어긋나있는", "explanation": "어긋나다 (錯開，엇갈리다) + -아/어 있다 (狀態持續) 的定語形" },
-        { "point": "길 건너편", "explanation": "길 (路) + 건너편 (對面)" }
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "어긋나있는", "explanation": "어긋나다 (錯開) + -아/어 있다 (狀態持續) 的定語形態。" },
+        { "point": "길 건너편", "explanation": "길 (路) + 건너편 (對面)。" }
       ]
     },
     {
       "korean": "멍하니 서 있는 너에게 물어",
-      "translation": "向著멍하니站著的你問道",
+      "translation": "向著呆呆站著的你問道",
       "analysis": [
-        { "point": "멍하니", "explanation": "副詞，멍하니地" },
-        { "point": "서 있는", "explanation": "서다 (站立) + -어 있다 的定語形" },
-        { "point": "너에게 물어", "explanation": "너에게 (對你) + 묻다 (問) 的非格式體" }
+        { "point": "멍하니", "explanation": "副詞，呆呆地。" },
+        { "point": "서 있는", "explanation": "서다 (站立) + -고 있다 的定語形態。" },
+        { "point": "너에게 물어", "explanation": "너에게 (對你) + 묻다 (問)。" }
       ]
     },
     {
       "korean": "다시 되돌아갈 수 없는 걸까?",
       "translation": "無法再回去了嗎？",
       "analysis": [
-        { "point": "다시 되돌아갈 수 없는 걸까?", "explanation": "再次 + 되돌아가다 (回去) + -(으)ㄹ 수 없다 (不能) + -(으)ㄴ/는 걸까? (是...的嗎？)" }
+        { "point": "다시 되돌아갈 수 없는 걸까?", "explanation": "다시 (再次) + 되돌아가다 (回去) + -(으)ㄹ 수 없다 (不能) + -(으)ㄴ/는 걸까? (是...的嗎？)。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     },
     {
       "korean": "서로 어긋나있는 길 건너편",
       "translation": "在互相錯開的路的對面",
       "analysis": [
-        { "point": "서로", "explanation": "副詞，互相" },
-        { "point": "어긋나있는", "explanation": "어긋나다 (錯開，엇갈리다) + -아/어 있다 (狀態持續) 的定語形" },
-        { "point": "길 건너편", "explanation": "길 (路) + 건너편 (對面)" }
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "어긋나있는", "explanation": "어긋나다 (錯開) + -아/어 있다 的定語形態。" },
+        { "point": "길 건너편", "explanation": "길 (路) + 건너편 (對面)。" }
       ]
     },
     {
       "korean": "멍하게 서 있는 너에게 물어",
-      "translation": "向著멍하게站著的你問道",
+      "translation": "向著呆然站著的你問道",
       "analysis": [
-        { "point": "멍하게", "explanation": "副詞，멍하니地 (멍하다 的副詞形)" },
-        { "point": "서 있는 너에게 물어", "explanation": "站著的你 問道" }
+        { "point": "멍하게", "explanation": "副詞，呆然地。" },
+        { "point": "서 있는 너에게 물어", "explanation": "서 있다 (站著) 的定語形態 + 너에게 (對你) + 묻다 (問)。" }
       ]
     },
     {
       "korean": "다시 되돌아갈 수 없는 걸까?",
       "translation": "無法再回去了嗎？",
       "analysis": [
-        { "point": "다시 되돌아갈 수 없는 걸까?", "explanation": "再次 + 되돌아가다 (回去) + -(으)ㄹ 수 없다 (不能) + -(으)ㄴ/는 걸까? (是...的嗎？)" }
+        { "point": "다시 되돌아갈 수 없는 걸까?", "explanation": "再次 + 되돌아가다 (回去) + -(으)ㄹ 수 없다 (不能) + -(으)ㄴ/는 걸까?。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     },
     {
       "korean": "Oh, oh, oh-oh, 왜?",
       "translation": "Oh, oh, oh-oh, 為何?",
       "analysis": [
-        { "point": "Oh, oh, oh-oh, 왜?", "explanation": "感嘆詞 + 왜 (為何)?" }
+        { "point": "왜?", "explanation": "疑問副詞，為何？" }
       ]
     },
     {
@@ -459,63 +387,63 @@
       "korean": "또 눈물이 흘러 (oh, oh-oh-oh, oh-oh)",
       "translation": "又流下眼淚 (oh, oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "또 눈물이 흘러", "explanation": "又 眼淚流下" }
+        { "point": "또 눈물이 흘러", "explanation": "又 + 眼淚流下。" }
       ]
     },
     {
       "korean": "멈추지 않고서 흘러, oh (no, no, whoa, oh-oh-oh, oh-oh)",
       "translation": "不停地流下, oh (no, no, whoa, oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "멈추지 않고서", "explanation": "멈추다 (停止) + -지 않고서 (在不...的狀態下)" },
-        { "point": "흘러, oh", "explanation": "流下, oh" }
+        { "point": "멈추지 않고서", "explanation": "멈추다 (停止) + -지 않고서 (在不...的狀態下)。" },
+        { "point": "흘러, oh", "explanation": "흐르다 (流下), oh。" }
       ]
     },
     {
       "korean": "알 것 만 같아, 아니, 이젠 알아",
       "translation": "好像知道了，不，現在知道了",
       "analysis": [
-        { "point": "알 것 만 같아", "explanation": "알다 (知道) + -(으)ㄹ 것만 같다 (好像只會.../非常像...)" },
-        { "point": "아니, 이젠 알아", "explanation": "不，現在知道了" }
+        { "point": "알 것 만 같아", "explanation": "알다 (知道) + -(으)ㄹ 것만 같다 (好像只會.../非常像...)。" },
+        { "point": "아니, 이젠 알아", "explanation": "아니 (不), 이제는 (現在) + 알다 (知道)。" }
       ]
     },
     {
       "korean": "너 아님, 안 돼 보내면 안 돼 (떠날 수 없어, no)",
       "translation": "不是你，不行 不能放你走 (無法離開, no)",
       "analysis": [
-        { "point": "너 아님", "explanation": "너 (你) + 아니다 (不是) 的名詞形" },
-        { "point": "안 돼", "explanation": "不行" },
-        { "point": "보내면 안 돼", "explanation": "보내다 (送走) + -(으)면 안 되다 (如果...就不行)" }
+        { "point": "너 아님", "explanation": "너 (你) + 아니다 (不是) 的名詞形。" },
+        { "point": "안 돼", "explanation": "不行。" },
+        { "point": "보내면 안 돼", "explanation": "보내다 (送走) + -(으)면 안 되다 (如果...就不行)。" }
       ]
     },
     {
       "korean": "왜 이제서야? 난 (oh-oh-oh, oh-oh)",
       "translation": "為何事到如今？我 (oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "왜 이제서야?", "explanation": "為何 + 이제서야 (事到如今才)" }
+        { "point": "왜 이제서야?", "explanation": "為何 + 이제서야 (事到如今才)。" }
       ]
     },
     {
       "korean": "네 모습이 보이는지, oh (날 잡아줘, oh-oh-oh, oh-oh)",
       "translation": "才看見你的模樣, oh (抓住我, oh-oh-oh, oh-oh)",
       "analysis": [
-        { "point": "네 모습이 보이는지, oh", "explanation": "你的 模樣(主格) + 보이다 (被看見) + -는지 (間接疑問)" }
+        { "point": "네 모습이 보이는지, oh", "explanation": "네 (你的) + 모습이 보이다 (模樣被看見) + -는지。" }
       ]
     },
     {
       "korean": "멀어진 날 안아 줄 수 있을까? (Yeah, no)",
       "translation": "能擁抱遠去的我嗎？ (Yeah, no)",
       "analysis": [
-        { "point": "멀어진 날", "explanation": "멀어지다 (變遠) 的過去定語形態 + 我(受格)" },
-        { "point": "안아 줄 수 있을까?", "explanation": "能擁抱我嗎？" }
+        { "point": "멀어진 날", "explanation": "멀어지다 (變遠) 的過去定語形態 + 나를 (我)。" },
+        { "point": "안아 줄 수 있을까?", "explanation": "안아주다 (擁抱) + -(으)ㄹ 수 있을까? (能...嗎？)。" }
       ]
     },
     {
       "korean": "글쎄, 잘 몰라, 나도 잘 몰라",
       "translation": "這個嘛，我不知道，我也不知道",
       "analysis": [
-        { "point": "글쎄", "explanation": "感嘆詞，用於表示不確定或猶豫時，「這個嘛...」" },
-        { "point": "잘 몰라", "explanation": "잘 (好好地/清楚地) + 모르다 (不知道)" },
-        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라" }
+        { "point": "글쎄", "explanation": "感嘆詞，表示不確定或猶豫，「這個嘛...」。" },
+        { "point": "잘 몰라", "explanation": "잘 (清楚地) + 모르다 (不知道)。" },
+        { "point": "나도 잘 몰라", "explanation": "나 (我) + -도 (也) + 잘 몰라。" }
       ]
     }
   ],
@@ -554,11 +482,11 @@
     { "korean": "비꼬이다", "chinese": "被扭曲/被嘲諷", "pos": "動詞 (被動)" },
     { "korean": "흉터", "chinese": "傷疤", "pos": "名詞" },
     { "korean": "죄책감", "chinese": "罪惡感", "pos": "名詞" },
-    { "korean": "조여오다", "chinese": " 조여오는 ", "pos": "動詞" },
+    { "korean": "조여오다", "chinese": "逼近、收緊", "pos": "動詞" },
     { "korean": "폐쇄감", "chinese": "封閉感", "pos": "名詞" },
     { "korean": "어긋나다", "chinese": "錯開", "pos": "動詞" },
     { "korean": "길 건너편", "chinese": "路對面", "pos": "名詞" },
-    { "korean": "멍하니", "chinese": "멍하니地", "pos": "副詞" },
+    { "korean": "멍하니", "chinese": "呆呆地", "pos": "副詞" },
     { "korean": "되돌아가다", "chinese": "回去", "pos": "動詞" },
     { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
     { "korean": "보내다", "chinese": "送走/發送", "pos": "動詞" },
