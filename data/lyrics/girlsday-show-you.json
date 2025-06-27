@@ -1,0 +1,628 @@
+{
+  "id": "girlsday-show-you",
+  "title": "Show you",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "귓가에 부는 음악소리가 흐르면",
+      "translation": "當耳邊響起的音樂聲流淌時",
+      "analysis": [
+        { "point": "귓가에", "explanation": "名詞 귓가 (耳邊) + 場所助詞 -에。" },
+        { "point": "부는", "explanation": "動詞 불다 (吹) 的現在定語形態。" },
+        { "point": "음악소리가", "explanation": "名詞 음악소리 (音樂聲) + 主格助詞 -가。" },
+        { "point": "흐르면", "explanation": "動詞 흐르다 (流淌) 的詞幹 + -(으)면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "난 네가 떠올라 매일",
+      "translation": "我每天都會想起你",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "네가", "explanation": "너 (你) + 主格助詞 -가。" },
+        { "point": "떠올라", "explanation": "動詞 떠오르다 (想起、浮現) 的非格式體。" },
+        { "point": "매일", "explanation": "副詞，每天。" }
+      ]
+    },
+    {
+      "korean": "그대 숨결과 목소리는",
+      "translation": "你的氣息與聲音",
+      "analysis": [
+        { "point": "그대", "explanation": "代名詞，你 (較書面/詩意)。" },
+        { "point": "숨결과", "explanation": "名詞 숨결 (氣息) + -과 (和)。" },
+        { "point": "목소리는", "explanation": "名詞 목소리 (聲音) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 머리 속에 그려져 (Um)",
+      "translation": "描繪在我的腦海中 (Um)",
+      "analysis": [
+        { "point": "내 머리 속에", "explanation": "내 (我的) + 머리 (頭) + 속 (裡面) + -에。" },
+        { "point": "그려져", "explanation": "動詞 그리다 (描繪) 的被動態 그려지다 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "하나에서 너란 사람을 더해서",
+      "translation": "從一加上名為你的這個人",
+      "analysis": [
+        { "point": "하나에서", "explanation": "名詞 하나 (一) + -에서 (從)。" },
+        { "point": "너란 사람을", "explanation": "너라는 (所謂你) 的縮略 + 사람 (人) + -을 (受格)。" },
+        { "point": "더해서", "explanation": "動詞 더하다 (相加) 的詞幹 + -아서 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "마치 완벽한",
+      "translation": "宛如完美的",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，彷彿、宛如。" },
+        { "point": "완벽한", "explanation": "形容詞 완벽하다 (完美的) 的定語形態。" }
+      ]
+    },
+    {
+      "korean": "노래 멜로디 같아",
+      "translation": "像歌曲的旋律一般",
+      "analysis": [
+        { "point": "노래 멜로디", "explanation": "名詞 노래 (歌曲) + 멜로디 (melody)。" },
+        { "point": "같아", "explanation": "形容詞 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "세상 어디에도 없는",
+      "translation": "世界上絕無僅有的",
+      "analysis": [
+        { "point": "세상 어디에도", "explanation": "세상 (世界) + 어디 (哪裡) + -에 (在) + -도 (也)。" },
+        { "point": "없는", "explanation": "形容詞 없다 (沒有) 的定語形態。" }
+      ]
+    },
+    {
+      "korean": "난 너의 사랑을 원해",
+      "translation": "我想要你的愛",
+      "analysis": [
+        { "point": "난 너의 사랑을", "explanation": "나는 (我) + 너의 (你的) + 사랑 (愛) + -을 (受格)。" },
+        { "point": "원해", "explanation": "動詞 원하다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "사랑해 love you",
+      "translation": "我愛你 love you",
+      "analysis": [
+        { "point": "사랑해", "explanation": "動詞 사랑하다 (愛) 的非格式體。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 언제나 늘 네 곁에",
+      "translation": "我無論何時總是在你身邊",
+      "analysis": [
+        { "point": "난 언제나 늘", "explanation": "나는 (我) + 언제나 (無論何時) + 늘 (總是)。" },
+        { "point": "네 곁에", "explanation": "너의 (你的) 縮略 + 곁 (身邊) + -에 (在)。" }
+      ]
+    },
+    {
+      "korean": "그림자가 되어줄래",
+      "translation": "願意成為你的影子",
+      "analysis": [
+        { "point": "그림자가", "explanation": "名詞 그림자 (影子) + -가 (主格助詞)。" },
+        { "point": "되어줄래", "explanation": "되어주다 (為(你)成為) + -(으)ㄹ래 (表示意願的疑問句)。" }
+      ]
+    },
+    {
+      "korean": "난 힘이 나고",
+      "translation": "我會獲得力量",
+      "analysis": [
+        { "point": "난 힘이 나고", "explanation": "나는 (我) + 힘 (力量) + -이 (主格) + 나다 (產生) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "너도 힘이 나고",
+      "translation": "你也會獲得力量",
+      "analysis": [
+        { "point": "너도 힘이 나고", "explanation": "너 (你) + -도 (也) + 힘 (力量) + -이 (主格) + 나다 (產生) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "귓가에 맴 도는 네 목소리",
+      "translation": "在耳邊縈繞的你的聲音",
+      "analysis": [
+        { "point": "귓가에", "explanation": "귓가 (耳邊) + -에 (在)。" },
+        { "point": "맴 도는", "explanation": "맴돌다 (縈繞) 的現在定語形態。" },
+        { "point": "네 목소리", "explanation": "너의 (你的) 縮略 + 목소리 (聲音)。" }
+      ]
+    },
+    {
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "사랑해 love you",
+      "translation": "我愛你 love you",
+      "analysis": [
+        { "point": "사랑해", "explanation": "動詞 사랑하다 (愛) 的非格式體。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "시간이 흘러도 너 하나뿐야",
+      "translation": "就算時光流逝也只有你一個",
+      "analysis": [
+        { "point": "시간이 흘러도", "explanation": "시간 (時間) + -이 (主格) + 흐르다 (流逝) + -아도 (即使)。" },
+        { "point": "너 하나뿐야", "explanation": "너 (你) + 하나 (一個) + -뿐이다 (只有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "입가에 맺힌 한마디",
+      "translation": "在嘴邊形成的一句話",
+      "analysis": [
+        { "point": "입가에 맺힌", "explanation": "입가 (嘴角) + -에 (在) + 맺히다 (形成、凝結) 的過去定語形態。" },
+        { "point": "한마디", "explanation": "名詞，一句話。" }
+      ]
+    },
+    {
+      "korean": "i do 내 마음을 모두",
+      "translation": "i do 我的心全部",
+      "analysis": [
+        { "point": "i do", "explanation": "英文歌詞。" },
+        { "point": "내 마음을 모두", "explanation": "내 (我的) + 마음 (心) + -을 (受格) + 모두 (全部)。" }
+      ]
+    },
+    {
+      "korean": "show you all my love",
+      "translation": "展現我全部的愛",
+      "analysis": [
+        { "point": "show you all my love", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너무 love you",
+      "translation": "非常 love you",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，非常。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "네가 있어",
+      "translation": "因為有你",
+      "analysis": [
+        { "point": "네가 있어", "explanation": "네가 (你) + 있다 (存在) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "내가 사는 이유",
+      "translation": "我活著的理由",
+      "analysis": [
+        { "point": "내가 사는 이유", "explanation": "내가 (我) + 살다 (活著) 的定語形態 + 이유 (理由)。" }
+      ]
+    },
+    {
+      "korean": "I love you",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I see you",
+      "translation": "我看見你",
+      "analysis": [
+        { "point": "I see you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "working on your body",
+      "translation": "鍛鍊你的身體",
+      "analysis": [
+        { "point": "working on your body", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 치유",
+      "translation": "我是治癒",
+      "analysis": [
+        { "point": "난 치유", "explanation": "나는 (我) 的縮略 + 치유 (治癒)。" }
+      ]
+    },
+    {
+      "korean": "당신은 늘 내",
+      "translation": "你總是把我的",
+      "analysis": [
+        { "point": "당신은 늘 내", "explanation": "당신 (你) + -은 (主題) + 늘 (總是) + 내 (我的)。" }
+      ]
+    },
+    {
+      "korean": "상식을 깨",
+      "translation": "常識打破",
+      "analysis": [
+        { "point": "상식을 깨", "explanation": "상식 (常識) + -을 (受格) + 깨다 (打破) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그대 없이 얼음판을",
+      "translation": "沒有你 在冰面上",
+      "analysis": [
+        { "point": "그대 없이", "explanation": "그대 (你) + 없이 (沒有)。" },
+        { "point": "얼음판을", "explanation": "얼음판 (冰面) + -을 (受格)。" }
+      ]
+    },
+    {
+      "korean": "걷고 있는애",
+      "translation": "正在走著的孩子",
+      "analysis": [
+        { "point": "걷고 있는애", "explanation": "걷다 (走路) + -고 있다 的定語形態 + 애 (孩子/人) 的口語體。" }
+      ]
+    },
+    {
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너무 love you",
+      "translation": "非常 love you",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，非常。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "네가 있어",
+      "translation": "因為有你",
+      "analysis": [
+        { "point": "네가 있어", "explanation": "네가 (你) + 있다 (存在) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "내가 사는 이유",
+      "translation": "我活著的理由",
+      "analysis": [
+        { "point": "내가 사는 이유", "explanation": "내가 (我) + 살다 (活著) 的定語形態 + 이유 (理由)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "하나에서 너란 사람을 더해서",
+      "translation": "從一加上名為你的這個人",
+      "analysis": [
+        { "point": "하나에서", "explanation": "名詞 하나 (一) + -에서 (從)。" },
+        { "point": "너란 사람을", "explanation": "너라는 (所謂你) 的縮略 + 사람 (人) + -을 (受格)。" },
+        { "point": "더해서", "explanation": "動詞 더하다 (相加) 的詞幹 + -아서 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "마치 완벽한",
+      "translation": "宛如完美的",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，彷彿、宛如。" },
+        { "point": "완벽한", "explanation": "形容詞 완벽하다 (完美的) 的定語形態。" }
+      ]
+    },
+    {
+      "korean": "노래 멜로디 같아",
+      "translation": "像歌曲的旋律一般",
+      "analysis": [
+        { "point": "노래 멜로디", "explanation": "名詞 노래 (歌曲) + 멜로디 (melody)。" },
+        { "point": "같아", "explanation": "形容詞 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "세상 어디에도 없는",
+      "translation": "世界上絕無僅有的",
+      "analysis": [
+        { "point": "세상 어디에도", "explanation": "세상 (世界) + 어디 (哪裡) + -에 (在) + -도 (也)。" },
+        { "point": "없는", "explanation": "形容詞 없다 (沒有) 的定語形態。" }
+      ]
+    },
+    {
+      "korean": "난 너의 사랑을 원해",
+      "translation": "我想要你的愛",
+      "analysis": [
+        { "point": "난 너의 사랑을", "explanation": "나는 (我) + 너의 (你的) + 사랑 (愛) + -을 (受格)。" },
+        { "point": "원해", "explanation": "動詞 원하다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "사랑해 love you",
+      "translation": "我愛你 love you",
+      "analysis": [
+        { "point": "사랑해", "explanation": "動詞 사랑하다 (愛) 的非格式體。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 언제나 늘 네 곁에",
+      "translation": "我無論何時總是在你身邊",
+      "analysis": [
+        { "point": "난 언제나 늘", "explanation": "나는 (我) + 언제나 (無論何時) + 늘 (總是)。" },
+        { "point": "네 곁에", "explanation": "너의 (你的) 縮略 + 곁 (身邊) + -에 (在)。" }
+      ]
+    },
+    {
+      "korean": "그림자가 되어줄래",
+      "translation": "願意成為你的影子",
+      "analysis": [
+        { "point": "그림자가", "explanation": "名詞 그림자 (影子) + -가 (主格助詞)。" },
+        { "point": "되어줄래", "explanation": "되어주다 (為(你)成為) + -(으)ㄹ래 (表示意願的疑問句)。" }
+      ]
+    },
+    {
+      "korean": "난 힘이 나고",
+      "translation": "我會獲得力量",
+      "analysis": [
+        { "point": "난 힘이 나고", "explanation": "나는 (我) + 힘 (力量) + -이 (主格) + 나다 (產生) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "너도 힘이 나고",
+      "translation": "你也會獲得力量",
+      "analysis": [
+        { "point": "너도 힘이 나고", "explanation": "너 (你) + -도 (也) + 힘 (力量) + -이 (主格) + 나다 (產生) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "귓가에 맴 도는 네 목소리",
+      "translation": "在耳邊縈繞的你的聲音",
+      "analysis": [
+        { "point": "귓가에", "explanation": "귓가 (耳邊) + -에 (在)。" },
+        { "point": "맴 도는", "explanation": "맴돌다 (縈繞) 的現在定語形態。" },
+        { "point": "네 목소리", "explanation": "너의 (你的) 縮略 + 목소리 (聲音)。" }
+      ]
+    },
+    {
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "사랑해 love you",
+      "translation": "我愛你 love you",
+      "analysis": [
+        { "point": "사랑해", "explanation": "動詞 사랑하다 (愛) 的非格式體。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "시간이 흘러도 너 하나뿐야",
+      "translation": "就算時光流逝也只有你一個",
+      "analysis": [
+        { "point": "시간이 흘러도", "explanation": "시간 (時間) + -이 (主格) + 흐르다 (流逝) + -아도 (即使)。" },
+        { "point": "너 하나뿐야", "explanation": "너 (你) + 하나 (一個) + -뿐이다 (只有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "입가에 맺힌 한마디",
+      "translation": "在嘴邊形成的一句話",
+      "analysis": [
+        { "point": "입가에 맺힌", "explanation": "입가 (嘴角) + -에 (在) + 맺히다 (形成、凝結) 的過去定語形態。" },
+        { "point": "한마디", "explanation": "名詞，一句話。" }
+      ]
+    },
+    {
+      "korean": "i do 내 마음을 모두",
+      "translation": "i do 我的心全部",
+      "analysis": [
+        { "point": "i do", "explanation": "英文歌詞。" },
+        { "point": "내 마음을 모두", "explanation": "내 (我的) + 마음 (心) + -을 (受格) + 모두 (全部)。" }
+      ]
+    },
+    {
+      "korean": "show you all my love",
+      "translation": "展現我全部的愛",
+      "analysis": [
+        { "point": "show you all my love", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "세상은 누구보다",
+      "translation": "比起世上的任何人",
+      "analysis": [
+        { "point": "세상은", "explanation": "세상 (世界) + -은 (主題)。" },
+        { "point": "누구보다", "explanation": "누구 (誰) + -보다 (比)。" }
+      ]
+    },
+    {
+      "korean": "내겐 너 하나뿐이야",
+      "translation": "對我而言只有你一個",
+      "analysis": [
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮略。" },
+        { "point": "너 하나뿐이야", "explanation": "너 (你) + 하나 (一個) + -뿐이다 (只有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "난 죽어도 널 대신 할 순 없을 거야",
+      "translation": "我就算死也無法取代你",
+      "analysis": [
+        { "point": "난 죽어도", "explanation": "나는 (我) + 죽다 (死) + -어도 (即使)。" },
+        { "point": "널 대신 할 순 없을 거야", "explanation": "너를 (你) + 대신하다 (代替) + -(으)ㄹ 수 없다 (無法) + -(으)ㄹ 거야 (將會)。" }
+      ]
+    },
+    {
+      "korean": "밤엔 날 지켜주고",
+      "translation": "在夜晚守護我",
+      "analysis": [
+        { "point": "밤엔", "explanation": "밤에는 (在夜晚) 的縮略。" },
+        { "point": "날 지켜주고", "explanation": "나를 (我) + 지켜주다 (守護) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "아침엔 눈을 뜨면",
+      "translation": "在早晨睜開眼時",
+      "analysis": [
+        { "point": "아침엔", "explanation": "아침에는 (在早晨) 的縮略。" },
+        { "point": "눈을 뜨면", "explanation": "눈 (眼睛) + -을 (受格) + 뜨다 (睜開) + -(으)면。" }
+      ]
+    },
+    {
+      "korean": "그댄 내 곁에 있어 주길 바래",
+      "translation": "希望你能待在我身邊",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대는 (你) 的縮略。" },
+        { "point": "내 곁에 있어 주길", "explanation": "내 곁에 (在我身邊) + 있다 (在) + -어 주다 + -기(를) (名詞化)。" },
+        { "point": "바래", "explanation": "바라다 (希望) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "사랑해 love you",
+      "translation": "我愛你 love you",
+      "analysis": [
+        { "point": "사랑해", "explanation": "動詞 사랑하다 (愛) 的非格式體。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 언제나 늘 네 곁에",
+      "translation": "我無論何時總是在你身邊",
+      "analysis": [
+        { "point": "난 언제나 늘", "explanation": "나는 (我) + 언제나 (無論何時) + 늘 (總是)。" },
+        { "point": "네 곁에", "explanation": "너의 (你的) 縮略 + 곁 (身邊) + -에 (在)。" }
+      ]
+    },
+    {
+      "korean": "그림자가 되어줄래",
+      "translation": "願意成為你的影子",
+      "analysis": [
+        { "point": "그림자가", "explanation": "名詞 그림자 (影子) + -가 (主格助詞)。" },
+        { "point": "되어줄래", "explanation": "되어주다 (為(你)成為) + -(으)ㄹ래 (表示意願的疑問句)。" }
+      ]
+    },
+    {
+      "korean": "난 힘이 나고",
+      "translation": "我會獲得力量",
+      "analysis": [
+        { "point": "난 힘이 나고", "explanation": "나는 (我) + 힘 (力量) + -이 (主格) + 나다 (產生) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "너도 힘이 나고",
+      "translation": "你也會獲得力量",
+      "analysis": [
+        { "point": "너도 힘이 나고", "explanation": "너 (你) + -도 (也) + 힘 (力量) + -이 (主格) + 나다 (產生) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "귓가에 맴 도는 네 목소리",
+      "translation": "在耳邊縈繞的你的聲音",
+      "analysis": [
+        { "point": "귓가에", "explanation": "귓가 (耳邊) + -에 (在)。" },
+        { "point": "맴 도는", "explanation": "맴돌다 (縈繞) 的現在定語形態。" },
+        { "point": "네 목소리", "explanation": "너의 (你的) 縮略 + 목소리 (聲音)。" }
+      ]
+    },
+    {
+      "korean": "Let me show you",
+      "translation": "讓我展現給你看",
+      "analysis": [
+        { "point": "Let me show you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "사랑해 love you",
+      "translation": "我愛你 love you",
+      "analysis": [
+        { "point": "사랑해", "explanation": "動詞 사랑하다 (愛) 的非格式體。" },
+        { "point": "love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "시간이 흘러도 너 하나뿐야",
+      "translation": "就算時光流逝也只有你一個",
+      "analysis": [
+        { "point": "시간이 흘러도", "explanation": "시간 (時間) + -이 (主格) + 흐르다 (流逝) + -아도 (即使)。" },
+        { "point": "너 하나뿐야", "explanation": "너 (你) + 하나 (一個) + -뿐이다 (只有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "입가에 맺힌 한마디",
+      "translation": "在嘴邊形成的一句話",
+      "analysis": [
+        { "point": "입가에 맺힌", "explanation": "입가 (嘴角) + -에 (在) + 맺히다 (形成、凝結) 的過去定語形態。" },
+        { "point": "한마디", "explanation": "名詞，一句話。" }
+      ]
+    },
+    {
+      "korean": "i do 내 마음을 모두",
+      "translation": "i do 我的心全部",
+      "analysis": [
+        { "point": "i do", "explanation": "英文歌詞。" },
+        { "point": "내 마음을 모두", "explanation": "내 (我的) + 마음 (心) + -을 (受格) + 모두 (全部)。" }
+      ]
+    },
+    {
+      "korean": "show you all my love",
+      "translation": "展現我全部的愛",
+      "analysis": [
+        { "point": "show you all my love", "explanation": "英文歌詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "귓가", "chinese": "耳邊", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流淌、流逝", "pos": "動詞" },
+    { "korean": "떠오르다", "chinese": "想起、浮現", "pos": "動詞" },
+    { "korean": "숨결", "chinese": "氣息", "pos": "名詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "그려지다", "chinese": "被描繪", "pos": "動詞" },
+    { "korean": "더하다", "chinese": "相加", "pos": "動詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "언제나", "chinese": "無論何時", "pos": "副詞" },
+    { "korean": "늘", "chinese": "總是", "pos": "副詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "그림자", "chinese": "影子", "pos": "名詞" },
+    { "korean": "힘이 나다", "chinese": "獲得力量", "pos": "片語" },
+    { "korean": "맴돌다", "chinese": "縈繞", "pos": "動詞" },
+    { "korean": "하나뿐이다", "chinese": "只有一個", "pos": "慣用型" },
+    { "korean": "입가", "chinese": "嘴角", "pos": "名詞" },
+    { "korean": "맺히다", "chinese": "形成、凝結", "pos": "動詞" },
+    { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "치유", "chinese": "治癒", "pos": "名詞" },
+    { "korean": "상식", "chinese": "常識", "pos": "名詞" },
+    { "korean": "깨다", "chinese": "打破", "pos": "動詞" },
+    { "korean": "얼음판", "chinese": "冰面", "pos": "名詞" },
+    { "korean": "걷다", "chinese": "走路", "pos": "動詞" },
+    { "korean": "대신하다", "chinese": "代替", "pos": "動詞" },
+    { "korean": "지켜주다", "chinese": "守護", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" }
+  ]
+}

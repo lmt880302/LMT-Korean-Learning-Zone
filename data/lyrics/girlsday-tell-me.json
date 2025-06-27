@@ -1,0 +1,277 @@
+{
+  "id": "girlsday-tell-me",
+  "title": "말해줘요 (Tell Me)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "우리 둘이 함께 해요 나를 혼자 두진 마",
+      "translation": "我們倆在一起吧 不要丟下我一個人",
+      "analysis": [
+        { "point": "우리 둘이 함께 해요", "explanation": "우리 둘이 (我們倆) + 함께하다 (在一起) 的尊敬階。" },
+        { "point": "나를 혼자 두진 마", "explanation": "나를 (我) + 혼자 (獨自) + 두다 (放置) + -지는 마라 (不要...)。" }
+      ]
+    },
+    {
+      "korean": "이 밤이 깊어져만가 빨리 고백",
+      "translation": "這夜晚漸漸加深 快點告白",
+      "analysis": [
+        { "point": "이 밤이 깊어져만가", "explanation": "이 밤이 (這夜晚) + 깊어지다 (變深) + -어만 가다 (只是一直...)。" },
+        { "point": "빨리 고백", "explanation": "빨리 (快點) + 고백 (告白)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Spoken (민아)",
+      "korean": "안해? 안해? 안할거야?",
+      "translation": "不做嗎？不做嗎？不打算做嗎？",
+      "analysis": [
+        { "point": "안해?", "explanation": "안 하다 (不做) 的疑問形。" },
+        { "point": "안할거야?", "explanation": "안 하다 (不做) + -(으)ㄹ 것이다 (將會) 的疑問形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (소진)",
+      "korean": "You! 넌 내 맘을 너무 몰라",
+      "translation": "You! 你太不懂我的心",
+      "analysis": [
+        { "point": "넌 내 맘을 너무 몰라", "explanation": "너는 (你) + 내 마음 (我的心) + -을 (受格) + 너무 (太) + 모르다 (不懂)。" }
+      ]
+    },
+    {
+      "korean": "Oh You! 빛나는 저 파도 같아",
+      "translation": "Oh You! 像那閃耀的波濤",
+      "analysis": [
+        { "point": "빛나는 저 파도 같아", "explanation": "빛나다 (閃耀) 的定語形態 + 저 (那) + 파도 (波濤) + 같다 (像)。" }
+      ]
+    },
+    {
+      "korean": "You! 왜 자꾸 애태우는지",
+      "translation": "You! 為何總是讓我焦急",
+      "analysis": [
+        { "point": "왜 자꾸 애태우는지", "explanation": "왜 (為何) + 자꾸 (總是) + 애태우다 (使焦急) + -는지 (間接疑問)。" }
+      ]
+    },
+    {
+      "korean": "(아이야아 아아 이 야이야)",
+      "translation": "(哎呀呀 啊啊 咿 呀咿呀)",
+      "analysis": [
+        { "point": "(아이야아 아아 이 야이야)", "explanation": "感嘆詞與哼唱，無特別文法意義。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus (혜리)",
+      "korean": "(하나 하나 하나 둘 셋 넷!)",
+      "translation": "(一 一 一 二 三 四!)",
+      "analysis": [
+        { "point": "(하나 하나 하나 둘 셋 넷!)", "explanation": "韓文數字，為倒數或節拍。" }
+      ]
+    },
+    {
+      "korean": "하면 솔직히 내게 말해줘",
+      "translation": "的話 就老實對我說吧",
+      "analysis": [
+        { "point": "하면", "explanation": "하다 (做/說) 的條件形。" },
+        { "point": "솔직히 내게 말해줘", "explanation": "솔직히 (老實地) + 내게 (對我) + 말하다 (說) + -아/어 주다 的命令形。" }
+      ]
+    },
+    {
+      "korean": "(니가 먼저 말해주면 안돼)",
+      "translation": "(你先說不行嗎)",
+      "analysis": [
+        { "point": "니가 먼저 말해주면 안돼", "explanation": "네가 (你) + 먼저 (先) + 말해주다 (對...說) + -(으)면 안 되다 (不行嗎)。" }
+      ]
+    },
+    {
+      "korean": "Oh 부끄러워 부끄럽단 말야",
+      "translation": "Oh 好害羞 好害羞啊",
+      "analysis": [
+        { "point": "부끄러워", "explanation": "부끄럽다 (害羞) 的非格式體。" },
+        { "point": "부끄럽단 말야", "explanation": "부끄럽다는 말이야 (是說很害羞) 的縮略，用於強調。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "시원한 바람 아름다운 해변 이곳엔 너와 단 둘이",
+      "translation": "涼爽的風 美麗的海邊 在這裡只有我和你",
+      "analysis": [
+        { "point": "시원한 바람", "explanation": "시원하다 (涼爽的) 定語形態 + 바람 (風)。" },
+        { "point": "아름다운 해변", "explanation": "아름답다 (美麗的) 定語形態 + 해변 (海邊)。" },
+        { "point": "이곳엔 너와 단 둘이", "explanation": "이곳에는 (在這裡) + 너와 (和你) + 단 둘이 (只有兩人)。" }
+      ]
+    },
+    {
+      "korean": "모든 걱정들은 저기 저 바다에 던져 버릴래",
+      "translation": "所有的煩惱都要丟進那片大海裡",
+      "analysis": [
+        { "point": "모든 걱정들은", "explanation": "모든 (所有) + 걱정 (煩惱) + -들 (複數) + -은。" },
+        { "point": "저기 저 바다에", "explanation": "저기 저 (那邊那個) + 바다에 (在大海裡)。" },
+        { "point": "던져 버릴래", "explanation": "던져 버리다 (丟掉) + -(으)ㄹ래 (意願)。" }
+      ]
+    },
+    {
+      "korean": "지금 말해줘요 말해줘요 말해줘요",
+      "translation": "現在就說吧 說吧 說吧",
+      "analysis": [
+        { "point": "지금 말해줘요", "explanation": "지금 (現在) + 말해주다 (對...說) 的尊敬階命令形。" }
+      ]
+    },
+    {
+      "korean": "사실은 나를 좋아한다고",
+      "translation": "說其實你喜歡我",
+      "analysis": [
+        { "point": "사실은", "explanation": "副詞，其實。" },
+        { "point": "나를 좋아한다고", "explanation": "나를 (我) + 좋아하다 (喜歡) + -고 (間接引述)。" }
+      ]
+    },
+    {
+      "korean": "우릴 위한 저 바닷가로 빨리 떠나요",
+      "translation": "快點去往為了我們的那個海邊吧",
+      "analysis": [
+        { "point": "우릴 위한", "explanation": "우리를 위한 (為了我們的)。" },
+        { "point": "저 바닷가로", "explanation": "저 (那個) + 바닷가 (海邊) + -(으)로。" },
+        { "point": "빨리 떠나요", "explanation": "빨리 (快點) + 떠나다 (出發) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "난 너 하나면 충분해 약속해 손가락 걸고",
+      "translation": "我只要有你一個就足夠了 約定好 打勾勾",
+      "analysis": [
+        { "point": "난 너 하나면 충분해", "explanation": "나는 (我) + 너 하나이면 (只要是你一個) + 충분하다 (足夠)。" },
+        { "point": "약속해", "explanation": "약속하다 (約定) 的命令形。" },
+        { "point": "손가락 걸고", "explanation": "손가락을 걸다 (打勾勾) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "말해줘 말해줘요 말해줘 말해줘요",
+      "translation": "說吧 說吧 說吧 說吧",
+      "analysis": [
+        { "point": "말해줘요", "explanation": "말해주다 (對...說) 的命令形，混合格式體與非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap (유라)",
+      "korean": "다다른 여자보단 내가 나아 하나보단 둘이",
+      "translation": "比起別的女人我更好 比起一個兩個人更好",
+      "analysis": [
+        { "point": "다다른 여자보단", "explanation": "다다른 (別的) + 여자 (女人) + -보다 (比) + -는。" },
+        { "point": "내가 나아", "explanation": "내가 (我) + 낫다 (更好) 的非格式體。" },
+        { "point": "하나보단 둘이", "explanation": "하나보다 (比一個) + 둘이 (兩個人)。" }
+      ]
+    },
+    {
+      "korean": "아침부터 저녁까지 우리 둘이 (나나나나)",
+      "translation": "從早到晚我們倆 (啦啦啦啦)",
+      "analysis": [
+        { "point": "아침부터 저녁까지", "explanation": "從早到晚。" },
+        { "point": "우리 둘이", "explanation": "我們倆。" }
+      ]
+    },
+    {
+      "korean": "이 노래를 불러 Say 1! 2! 3! 4!",
+      "translation": "唱著這首歌 Say 1! 2! 3! 4!",
+      "analysis": [
+        { "point": "이 노래를 불러", "explanation": "이 (這) + 노래를 부르다 (唱歌)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Spoken (민아)",
+      "korean": "야! 안 따라 부르냐?",
+      "translation": "呀！不跟著唱嗎？",
+      "analysis": [
+        { "point": "야!", "explanation": "感嘆詞。" },
+        { "point": "안 따라 부르냐?", "explanation": "안 따라 부르다 (不跟著唱) 的疑問形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "뜨거운 태양 부서지는 파도 이곳엔 너와 단 둘이",
+      "translation": "炙熱的太陽 破碎的波濤 在這裡只有我和你",
+      "analysis": [
+        { "point": "뜨거운 태양", "explanation": "뜨겁다 (炙熱的) 定語形態 + 태양 (太陽)。" },
+        { "point": "부서지는 파도", "explanation": "부서지다 (破碎) 的定語形態 + 파도 (波濤)。" },
+        { "point": "이곳엔 너와 단 둘이", "explanation": "在這裡只有我和你。" }
+      ]
+    },
+    {
+      "korean": "모든 걱정들은 저기 저 하늘에 던져 버릴래",
+      "translation": "所有的煩惱都要丟進那片天空裡",
+      "analysis": [
+        { "point": "모든 걱정들은", "explanation": "所有煩惱。" },
+        { "point": "저기 저 하늘에", "explanation": "那片天空裡。" },
+        { "point": "던져 버릴래", "explanation": "丟掉吧 (意願)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "오늘밤이 다 가기 전에 고백해줄래요",
+      "translation": "在今晚結束前能向我告白嗎",
+      "analysis": [
+        { "point": "오늘밤이 다 가기 전에", "explanation": "오늘밤이 다 가다 (今晚結束) 的名詞形 + 전에 (之前)。" },
+        { "point": "고백해줄래요", "explanation": "고백해주다 (為...告白) 的尊敬階疑問形。" }
+      ]
+    },
+    {
+      "korean": "사랑해 사랑해 달콤한 입술로",
+      "translation": "我愛你 我愛你 用甜蜜的雙唇",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "달콤한 입술로", "explanation": "달콤하다 (甜蜜的) 定語形態 + 입술 (嘴唇) + -(으)로。" }
+      ]
+    },
+    {
+      "korean": "아침을 깨워줄 그댄 너란 걸",
+      "translation": "喚醒早晨的你就是你這件事",
+      "analysis": [
+        { "point": "아침을 깨워줄", "explanation": "아침을 깨워주다 (喚醒早晨) 的定語形態。" },
+        { "point": "그댄 너란 걸", "explanation": "그대는 (你) + 너라는 것을 (就是你這件事)。" }
+      ]
+    },
+    {
+      "korean": "지금 말해줘요 나 사랑한다는 그 말 아끼지 말아요",
+      "translation": "現在就說吧 不要吝嗇那句說愛我的話",
+      "analysis": [
+        { "point": "지금 말해줘요", "explanation": "現在就說吧。" },
+        { "point": "나 사랑한다는 그 말", "explanation": "說愛我的那句話。" },
+        { "point": "아끼지 말아요", "explanation": "아끼다 (珍惜、吝嗇) + -지 말다 (不要) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "두 손을 꼭 붙잡고 멀리 떠나요",
+      "translation": "緊緊牽著雙手遠走高飛吧",
+      "analysis": [
+        { "point": "두 손을 꼭 붙잡고", "explanation": "두 손을 (雙手) + 꼭 (緊緊地) + 붙잡다 (牽著) + -고。" },
+        { "point": "멀리 떠나요", "explanation": "멀리 (遠遠地) + 떠나다 (離開) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "너와 이 여름안에서 영원히 함께 할래요",
+      "translation": "願意和你一起在這夏天裡直到永遠",
+      "analysis": [
+        { "point": "너와 이 여름안에서", "explanation": "너와 (和你) + 이 여름 안에서 (在這夏天裡)。" },
+        { "point": "영원히 함께 할래요", "explanation": "영원히 (永遠地) + 함께하다 (在一起) + -(으)ㄹ래요 (意願疑問)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "솔직하다", "chinese": "率直的", "pos": "形容詞" },
+    { "korean": "고백하다", "chinese": "告白", "pos": "動詞" },
+    { "korean": "애태우다", "chinese": "使焦急", "pos": "動詞" },
+    { "korean": "부끄럽다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "해변", "chinese": "海邊", "pos": "名詞" },
+    { "korean": "걱정", "chinese": "擔心、煩惱", "pos": "名詞" },
+    { "korean": "던지다", "chinese": "丟、拋", "pos": "動詞" },
+    { "korean": "바닷가", "chinese": "海邊", "pos": "名詞" },
+    { "korean": "떠나다", "chinese": "離開、出發", "pos": "動詞" },
+    { "korean": "충분하다", "chinese": "足夠的", "pos": "形容詞" },
+    { "korean": "손가락을 걸다", "chinese": "打勾勾", "pos": "片語" },
+    { "korean": "낫다", "chinese": "更好", "pos": "形容詞" },
+    { "korean": "부르다", "chinese": "唱、呼喊", "pos": "動詞" },
+    { "korean": "뜨겁다", "chinese": "炙熱的", "pos": "形容詞" },
+    { "korean": "부서지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "깨우다", "chinese": "喚醒", "pos": "動詞" },
+    { "korean": "아끼다", "chinese": "珍惜、吝嗇", "pos": "動詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" }
+  ]
+}

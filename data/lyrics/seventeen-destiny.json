@@ -1,0 +1,340 @@
+{
+  "id": "seventeen-destiny",
+  "title": "운명 (Destiny)",
+  "artist": "SEVENTEEN (세븐틴)(WOOZI Solo)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "처음 세상을 만난 그날은",
+      "translation": "初次遇見世界的那天",
+      "analysis": [
+        { "point": "처음 세상을 만난", "explanation": "처음 (初次) + 세상 (世界) + -을 (受格) + 만나다 (遇見) 的過去定語形態。" },
+        { "point": "그날은", "explanation": "그 (那) + 날 (天) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "코끝이 차가운 날이었죠",
+      "translation": "是個鼻尖冰冷的日子吧",
+      "analysis": [
+        { "point": "코끝이", "explanation": "名詞 코끝 (鼻尖) + 主格助詞 -이。" },
+        { "point": "차가운", "explanation": "形容詞 차갑다 (冰冷的) 的定語形態。" },
+        { "point": "날이었죠", "explanation": "名詞 날 (日子) + -이다 (是) 的過去式 + -죠 (지요 的縮略，表確認或回想)。" }
+      ]
+    },
+    {
+      "korean": "처음 들어보는 내 이름과 처음 보는 두 사람 미소에",
+      "translation": "在初次聽見的我的名字和初次看見的兩個人的微笑中",
+      "analysis": [
+        { "point": "처음 들어보는", "explanation": "처음 (初次) + 들어보다 (聽聽看) 的定語形態。" },
+        { "point": "내 이름과", "explanation": "내 (我的) + 이름 (名字) + -과 (和)。" },
+        { "point": "처음 보는", "explanation": "처음 (初次) + 보다 (看) 的定語形態。" },
+        { "point": "두 사람 미소에", "explanation": "두 (兩) + 사람 (人) + 미소 (微笑) + -에 (在...中)。" }
+      ]
+    },
+    {
+      "korean": "사랑이란 걸 배웠어요",
+      "translation": "我學會了名為愛的事物",
+      "analysis": [
+        { "point": "사랑이란 걸", "explanation": "사랑 (愛) + -(이)라는 것 (所謂...的事物) + -을 (受格) 的縮略。" },
+        { "point": "배웠어요", "explanation": "動詞 배우다 (學習) 的過去式尊敬階。" }
+      ]
+    },
+    {
+      "korean": "목소리가 변하는 나이쯤에",
+      "translation": "在大約聲音變化的年紀",
+      "analysis": [
+        { "point": "목소리가 변하는", "explanation": "목소리 (聲音) + -가 (主格) + 변하다 (變化) 的定語形態。" },
+        { "point": "나이쯤에", "explanation": "名詞 나이 (年紀) + -쯤 (大約) + -에 (在)。" }
+      ]
+    },
+    {
+      "korean": "꿈이란 게 생겼어요",
+      "translation": "擁有了名為夢想的事物",
+      "analysis": [
+        { "point": "꿈이란 게", "explanation": "꿈 (夢) + -(이)라는 것이 (所謂...的事物) 的縮略。" },
+        { "point": "생겼어요", "explanation": "動詞 생기다 (產生、擁有) 的過去式尊敬階。" }
+      ]
+    },
+    {
+      "korean": "혼자라고 여기던 나인데 어느 날에 주윌 둘러보니?",
+      "translation": "曾以為是獨自一人的我 某天環顧四周後發現？",
+      "analysis": [
+        { "point": "혼자라고 여기던 나인데", "explanation": "혼자 (獨自) + -라고 여기다 (認為是...) 的過去回想形態 + 나 (我) + -인데 (轉折)。" },
+        { "point": "어느 날에", "explanation": "어느 날 (某天) + -에 (在)。" },
+        { "point": "주윌 둘러보니?", "explanation": "주위를 (周圍) 的縮略 + 둘러보다 (環顧) + -(으)니 (連接詞尾，表發現)。" }
+      ]
+    },
+    {
+      "korean": "함께라는 걸 알게 됐나 봐요",
+      "translation": "看來是領悟了名為「一起」這件事",
+      "analysis": [
+        { "point": "함께라는 걸", "explanation": "함께 (一起) + -(이)라는 것 (所謂...的事物) + -을 (受格) 的縮略。" },
+        { "point": "알게 됐나 봐요", "explanation": "알게 되다 (變得知道、領悟) + -았/었나 보다 (慣用句，看來是...) 的尊敬階。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "운명을 믿지 않았죠 희망 고문이 될 것 같아서",
+      "translation": "曾不相信命運 因為覺得會成為希望拷問",
+      "analysis": [
+        { "point": "운명을 믿지 않았죠", "explanation": "운명 (命運) + -을 (受格) + 믿다 (相信) + -지 않다 的過去式 + -죠。" },
+        { "point": "희망 고문이 될 것 같아서", "explanation": "희망 고문 (希望拷問) + -이 (主格) + 되다 (成為) + -(으)ㄹ 것 같다 (好像會...) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "아플 것 같아서",
+      "translation": "因為好像會心痛",
+      "analysis": [
+        { "point": "아플 것 같아서", "explanation": "아프다 (痛) + -(으)ㄹ 것 같다 (好像會...) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "웃어넘기는 하루하루가",
+      "translation": "一笑置之的每一天",
+      "analysis": [
+        { "point": "웃어넘기는", "explanation": "動詞 웃어넘기다 (一笑置之) 的定語形態。" },
+        { "point": "하루하루가", "explanation": "名詞 하루하루 (每一天) + 主格助詞 -가。" }
+      ]
+    },
+    {
+      "korean": "아직도 난 아픈가 봐",
+      "translation": "看來我至今依然心痛",
+      "analysis": [
+        { "point": "아직도 난", "explanation": "아직도 (仍然) + 나는 (我) 的縮略。" },
+        { "point": "아픈가 봐", "explanation": "아프다 (痛) + -ㄴ가 보다 (慣用句，看來是...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "많은 슬픔과 아픔도 운명이겠죠",
+      "translation": "許多的悲傷與痛苦也是命運吧",
+      "analysis": [
+        { "point": "많은 슬픔과 아픔도", "explanation": "많다 (多的) 定語形態 + 슬픔 (悲傷) + -과 (和) + 아픔 (痛苦) + -도 (也)。" },
+        { "point": "운명이겠죠", "explanation": "운명 (命運) + -이다 (是) + -겠- (推測) + -죠。" }
+      ]
+    },
+    {
+      "korean": "금방 지나갈 소나기도",
+      "translation": "馬上就會過去的雷陣雨也是",
+      "analysis": [
+        { "point": "금방 지나갈", "explanation": "금방 (馬上) + 지나가다 (過去) 的將來時定語形態。" },
+        { "point": "소나기도", "explanation": "名詞 소나기 (雷陣雨) + 補助詞 -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "알 수 없는 어떤 미래에도",
+      "translation": "在無法預知的任何未來裡也是",
+      "analysis": [
+        { "point": "알 수 없는", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) 的定語形態。" },
+        { "point": "어떤 미래에도", "explanation": "어떤 (某個、任何) + 미래 (未來) + -에 (在) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "운명이라 믿고 싶어요",
+      "translation": "想要相信是命運",
+      "analysis": [
+        { "point": "운명이라", "explanation": "운명 (命運) + -(이)라고 (間接引述)。" },
+        { "point": "믿고 싶어요", "explanation": "믿다 (相信) 的詞幹 + -고 싶다 (想) + -어요 (尊敬階)。" }
+      ]
+    },
+    {
+      "korean": "하나씩 적어둔 이 멜로디 그렇게 만들어진 편지가",
+      "translation": "一個個記下的這旋律 那樣完成的信",
+      "analysis": [
+        { "point": "하나씩 적어둔 이 멜로디", "explanation": "하나씩 (一個個) + 적어두다 (記下) 的過去定語形態 + 이 (這) + 멜로디 (旋律)。" },
+        { "point": "그렇게 만들어진 편지가", "explanation": "그렇게 (那樣) + 만들어지다 (被製作) 的過去定語形態 + 편지 (信) + -가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "비에 젖은 날에도",
+      "translation": "即使在被雨淋濕的日子裡",
+      "analysis": [
+        { "point": "비에 젖은", "explanation": "비 (雨) + -에 (格助詞) + 젖다 (淋濕) 的過去定語形態。" },
+        { "point": "날에도", "explanation": "날 (日子) + -에 (在) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "한 글자도 지워지지 않았어",
+      "translation": "連一個字都沒被擦掉",
+      "analysis": [
+        { "point": "한 글자도", "explanation": "한 (一個) + 글자 (字) + -도 (也)。" },
+        { "point": "지워지지 않았어", "explanation": "지워지다 (被擦掉) 的詞幹 + -지 않다 (不) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "이건 운명이기 때문이야",
+      "translation": "這是因為是命運啊",
+      "analysis": [
+        { "point": "이건", "explanation": "이것은 (這個是) 的縮略。" },
+        { "point": "운명이기 때문이야", "explanation": "운명 (命運) + -이기 때문에 (因為是...) + -야 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "사랑이라 믿었던 것들이",
+      "translation": "曾相信是愛的事物",
+      "analysis": [
+        { "point": "사랑이라 믿었던", "explanation": "사랑 (愛) + -(이)라고 믿다 (相信是...) 的過去定語形態。" },
+        { "point": "것들이", "explanation": "名詞 것 (事物) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "상처가 되면 어쩌죠",
+      "translation": "如果變成傷口該怎麼辦",
+      "analysis": [
+        { "point": "상처가 되면", "explanation": "상처 (傷口) + -가 (主格) + 되다 (變成) + -(으)면。" },
+        { "point": "어쩌죠", "explanation": "어찌하다 (怎麼辦) 的疑問句縮略形。" }
+      ]
+    },
+    {
+      "korean": "그때 나는 아무렇지 않게 아무 일도 없다는 듯이",
+      "translation": "那時我若無其事地 像什麼事都沒發生一樣",
+      "analysis": [
+        { "point": "그때 나는", "explanation": "그때 (那時) + 나는 (我)。" },
+        { "point": "아무렇지 않게", "explanation": "아무렇지 않다 (若無其事) 的副詞形。" },
+        { "point": "아무 일도 없다는 듯이", "explanation": "아무 일도 없다 (沒事) + -는 듯이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "지금처럼 살 수 있을까요?",
+      "translation": "能像現在一樣活下去嗎？",
+      "analysis": [
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "살 수 있을까요?", "explanation": "살다 (活) + -(으)ㄹ 수 있다 (能) + -(으)ㄹ까요? (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "운명을 믿지 않았죠 희망 고문이 될 것 같아서",
+      "translation": "曾不相信命運 因為覺得會成為希望拷問",
+      "analysis": [
+        { "point": "운명을 믿지 않았죠", "explanation": "운명 (命運) + -을 (受格) + 믿다 (相信) + -지 않다 的過去式 + -죠。" },
+        { "point": "희망 고문이 될 것 같아서", "explanation": "희망 고문 (希望拷問) + -이 (主格) + 되다 (成為) + -(으)ㄹ 것 같다 (好像會...) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "아플 것 같아서",
+      "translation": "因為好像會心痛",
+      "analysis": [
+        { "point": "아플 것 같아서", "explanation": "아프다 (痛) + -(으)ㄹ 것 같다 (好像會...) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "웃어넘기는 하루하루가",
+      "translation": "一笑置之的每一天",
+      "analysis": [
+        { "point": "웃어넘기는", "explanation": "動詞 웃어넘기다 (一笑置之) 的定語形態。" },
+        { "point": "하루하루가", "explanation": "名詞 하루하루 (每一天) + 主格助詞 -가。" }
+      ]
+    },
+    {
+      "korean": "아직도 난 아픈가 봐",
+      "translation": "看來我至今依然心痛",
+      "analysis": [
+        { "point": "아직도 난", "explanation": "아직도 (仍然) + 나는 (我) 的縮略。" },
+        { "point": "아픈가 봐", "explanation": "아프다 (痛) + -ㄴ가 보다 (慣用句，看來是...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "많은 슬픔과 아픔도 운명이겠죠",
+      "translation": "許多的悲傷與痛苦也是命運吧",
+      "analysis": [
+        { "point": "많은 슬픔과 아픔도", "explanation": "많다 (多的) 定語形態 + 슬픔 (悲傷) + -과 (和) + 아픔 (痛苦) + -도 (也)。" },
+        { "point": "운명이겠죠", "explanation": "운명 (命運) + -이다 (是) + -겠- (推測) + -죠。" }
+      ]
+    },
+    {
+      "korean": "금방 지나갈 소나기도",
+      "translation": "馬上就會過去的雷陣雨也是",
+      "analysis": [
+        { "point": "금방 지나갈", "explanation": "금방 (馬上) + 지나가다 (過去) 的將來時定語形態。" },
+        { "point": "소나기도", "explanation": "名詞 소나기 (雷陣雨) + 補助詞 -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "알 수 없는 어떤 미래에도",
+      "translation": "在無法預知的任何未來裡也是",
+      "analysis": [
+        { "point": "알 수 없는", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) 的定語形態。" },
+        { "point": "어떤 미래에도", "explanation": "어떤 (某個、任何) + 미래 (未來) + -에 (在) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "운명이라 믿고 싶어요",
+      "translation": "想要相信是命運",
+      "analysis": [
+        { "point": "운명이라", "explanation": "운명 (命運) + -(이)라고 (間接引述)。" },
+        { "point": "믿고 싶어요", "explanation": "믿다 (相信) 的詞幹 + -고 싶다 (想) + -어요 (尊敬階)。" }
+      ]
+    },
+    {
+      "korean": "하나씩 적어둔 이 멜로디 그렇게 만들어진 편지가",
+      "translation": "一個個記下的這旋律 那樣完成的信",
+      "analysis": [
+        { "point": "하나씩 적어둔 이 멜로디", "explanation": "하나씩 (一個個) + 적어두다 (記下) 的過去定語形態 + 이 (這) + 멜로디 (旋律)。" },
+        { "point": "그렇게 만들어진 편지가", "explanation": "그렇게 (那樣) + 만들어지다 (被製作) 的過去定語形態 + 편지 (信) + -가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "비에 젖은 날에도",
+      "translation": "即使在被雨淋濕的日子裡",
+      "analysis": [
+        { "point": "비에 젖은", "explanation": "비 (雨) + -에 (格助詞) + 젖다 (淋濕) 的過去定語形態。" },
+        { "point": "날에도", "explanation": "날 (日子) + -에 (在) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "한 글자도 지워지지 않았어",
+      "translation": "連一個字都沒被擦掉",
+      "analysis": [
+        { "point": "한 글자도", "explanation": "한 (一個) + 글자 (字) + -도 (也)。" },
+        { "point": "지워지지 않았어", "explanation": "지워지다 (被擦掉) 的詞幹 + -지 않다 (不) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "이건 운명이기 때문이야",
+      "translation": "這是因為是命運啊",
+      "analysis": [
+        { "point": "이건", "explanation": "이것은 (這個是) 的縮略。" },
+        { "point": "운명이기 때문이야", "explanation": "운명 (命運) + -이기 때문에 (因為是...) + -야 (非格式體)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "코끝", "chinese": "鼻尖", "pos": "名詞" },
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "배우다", "chinese": "學習", "pos": "動詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "변하다", "chinese": "變化", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "생기다", "chinese": "產生、擁有", "pos": "動詞" },
+    { "korean": "여기다", "chinese": "認為", "pos": "動詞" },
+    { "korean": "둘러보다", "chinese": "環顧", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "알게 되다", "chinese": "領悟、變得知道", "pos": "片語" },
+    { "korean": "운명", "chinese": "命運", "pos": "名詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "희망 고문", "chinese": "希望拷問", "pos": "名詞片語" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "웃어넘기다", "chinese": "一笑置之", "pos": "動詞" },
+    { "korean": "슬픔", "chinese": "悲傷", "pos": "名詞" },
+    { "korean": "아픔", "chinese": "痛苦", "pos": "名詞" },
+    { "korean": "지나가다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "소나기", "chinese": "雷陣雨", "pos": "名詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "적어두다", "chinese": "記下", "pos": "動詞" },
+    { "korean": "만들어지다", "chinese": "被製作", "pos": "動詞" },
+    { "korean": "편지", "chinese": "信", "pos": "名詞" },
+    { "korean": "젖다", "chinese": "淋濕", "pos": "動詞" },
+    { "korean": "글자", "chinese": "字", "pos": "名詞" },
+    { "korean": "지워지다", "chinese": "被擦掉", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "어쩌다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "아무렇지 않다", "chinese": "若無其事", "pos": "片語" }
+  ]
+}

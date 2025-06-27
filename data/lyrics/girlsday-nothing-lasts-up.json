@@ -1,0 +1,305 @@
+{
+  "id": "girlsday-nothing-lasts-up",
+  "title": "Nothing Lasts Up (잘해줘봐야)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "죽을래 살래 싸워보고",
+      "translation": "要死要活地吵過架",
+      "analysis": [
+        { "point": "죽을래 살래", "explanation": "慣用表現，字面意思為「要死還是要活」，用於形容激烈的爭吵。" },
+        { "point": "싸워보고", "explanation": "動詞 싸우다 (吵架) + -어 보다 (試著做...) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "너 정말 왜이래 달래봤어",
+      "translation": "「你真的為什麼這樣」也曾安撫過你",
+      "analysis": [
+        { "point": "너 정말 왜이래", "explanation": "너 (你) + 정말 (真的) + 왜 이래 (為什麼這樣)。" },
+        { "point": "달래봤어", "explanation": "動詞 달래다 (安撫) + -아/어 보다 (試著做...) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "you're my princess 하던 니가",
+      "translation": "曾說著 'you're my princess' 的你",
+      "analysis": [
+        { "point": "you're my princess", "explanation": "英文歌詞。" },
+        { "point": "하던 니가", "explanation": "하다 (說) 的過去回想形態 (-던) + 네가 (你) 的口語體。" }
+      ]
+    },
+    {
+      "korean": "완전 백 percent 변한거야",
+      "translation": "完全百分之百地變了",
+      "analysis": [
+        { "point": "완전 백 percent", "explanation": "副詞 완전 (完全) + 백 (一百) + percent (英文)。" },
+        { "point": "변한거야", "explanation": "변하다 (改變) 的過去定語形態 + 것 + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "친구랑 논다고 내 약속 싹 잊고",
+      "translation": "說要跟朋友玩 就把和我的約定忘得一乾二淨",
+      "analysis": [
+        { "point": "친구랑 논다고", "explanation": "친구 (朋友) + -랑 (和) + 놀다 (玩) + -ㄴ다고 (間接引述)。" },
+        { "point": "내 약속 싹 잊고", "explanation": "내 (我的) + 약속 (約定) + 副詞 싹 (完全) + 잊다 (忘記) + -고。" }
+      ]
+    },
+    {
+      "korean": "바빠 죽겠다고 전화를 확 끊고",
+      "translation": "說忙得要死 就把電話猛地掛了",
+      "analysis": [
+        { "point": "바빠 죽겠다고", "explanation": "바쁘다 (忙) + -아/어 죽겠다 (慣用句，...得要死) + -고。" },
+        { "point": "전화를 확 끊고", "explanation": "전화 (電話) + -를 (受格) + 副詞 확 (猛地) + 끊다 (掛斷) + -고。" }
+      ]
+    },
+    {
+      "korean": "뭐가 더 중요해 누가 더 중요해",
+      "translation": "什麼更重要 誰更重要",
+      "analysis": [
+        { "point": "뭐가 더 중요해", "explanation": "뭐가 (什麼) + 더 (更) + 중요하다 (重要)。" },
+        { "point": "누가 더 중요해", "explanation": "누가 (誰) + 더 (更) + 중요하다 (重要)。" }
+      ]
+    },
+    {
+      "korean": "이따위 유치한 말을 하게 하니",
+      "translation": "讓我說出這種幼稚的話",
+      "analysis": [
+        { "point": "이따위 유치한 말을", "explanation": "이따위 (這種的，貶意) + 유치하다 (幼稚的) 定語形態 + 말 (話) + -을 (受格)。" },
+        { "point": "하게 하니", "explanation": "하다 (說) 的使動態 + -니 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아무 소용없어 잘해줘봐야",
+      "translation": "對你再好也沒用",
+      "analysis": [
+        { "point": "아무 소용없어", "explanation": "片語，毫無用處。" },
+        { "point": "잘해줘봐야", "explanation": "잘해주다 (對...好) + -아/어 봐야 (慣用型，即使...也沒用)。" }
+      ]
+    },
+    {
+      "korean": "Cuz nothing lasts forever",
+      "translation": "因為沒有什麼是永恆的",
+      "analysis": [
+        { "point": "Cuz nothing lasts forever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "넌 내맘을 몰라 사랑 줘봐야",
+      "translation": "你不懂我的心 就算給了你愛也沒用",
+      "analysis": [
+        { "point": "넌 내맘을 몰라", "explanation": "너는 (你) + 내 마음 (我的心) + -을 (受格) + 모르다 (不懂)。" },
+        { "point": "사랑 줘봐야", "explanation": "사랑 (愛) + 주다 (給予) + -아/어 봐야 (即使...也沒用)。" }
+      ]
+    },
+    {
+      "korean": "Cuz nothing lasts forever",
+      "translation": "因為沒有什麼是永恆的",
+      "analysis": [
+        { "point": "Cuz nothing lasts forever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "내 전불 다 줘봐도",
+      "translation": "就算把我全部都給了你",
+      "analysis": [
+        { "point": "내 전불", "explanation": "내 전부를 (我的全部) 的縮略。" },
+        { "point": "다 줘봐도", "explanation": "다 (全部) + 주다 (給予) + -아/어 보다 (試著) + -아도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "but, nothing lasts",
+      "translation": "但是，沒有什麼是永恆的",
+      "analysis": [
+        { "point": "but, nothing lasts", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "'나 약속 있어' 미낄놓고",
+      "translation": "放下「我有約了」的誘餌",
+      "analysis": [
+        { "point": "'나 약속 있어'", "explanation": "나 (我) + 약속 (約定) + 있다 (有)。" },
+        { "point": "미낄놓고", "explanation": "미끼를 놓다 (放下誘餌) 的縮略及連接形。" }
+      ]
+    },
+    {
+      "korean": "'늦을 것 같아' 겁을주고",
+      "translation": "用「好像會遲到」來嚇唬",
+      "analysis": [
+        { "point": "'늦을 것 같아'", "explanation": "늦다 (遲到) + -(으)ㄹ 것 같다 (好像會...)。" },
+        { "point": "겁을주고", "explanation": "겁을 주다 (嚇唬) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "'배터린 없어' 전활꺼놔",
+      "translation": "「沒電了」然後關機",
+      "analysis": [
+        { "point": "'배터린 없어'", "explanation": "배터리는 (電池是) 的縮略 + 없다 (沒有)。" },
+        { "point": "전활꺼놔", "explanation": "전화를 꺼놓아 (關掉電話放著) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "너도 내 심정 느껴보라고",
+      "translation": "為了讓你也感受一下我的心情",
+      "analysis": [
+        { "point": "너도 내 심정", "explanation": "너도 (你也) + 내 (我的) + 심정 (心情)。" },
+        { "point": "느껴보라고", "explanation": "느끼다 (感受) + -어 보다 (試著) + -라고 (命令的間接引述)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시체놀이 하니 몇 시간을 자니",
+      "translation": "在玩裝死遊戲嗎 睡了幾小時啊",
+      "analysis": [
+        { "point": "시체놀이 하니", "explanation": "시체놀이 (裝死遊戲) + 하다 (做) + -니 (疑問)。" },
+        { "point": "몇 시간을 자니", "explanation": "몇 (幾) + 시간 (小時) + -을 (受格) + 자다 (睡) + -니 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "나 안보고 싶니 뭐 하자는 거니",
+      "translation": "不想我嗎 這是想怎樣啊",
+      "analysis": [
+        { "point": "나 안보고 싶니", "explanation": "나 (我) + 안 보고 싶다 (不想見) + -니 (疑問)。" },
+        { "point": "뭐 하자는 거니", "explanation": "뭐 (什麼) + 하자고 하는 것이니 (想做什麼) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "뭐가 더 중요해 누가 더 중요해",
+      "translation": "什麼更重要 誰更重要",
+      "analysis": [
+        { "point": "뭐가 더 중요해", "explanation": "뭐가 (什麼) + 더 (更) + 중요하다 (重要)。" },
+        { "point": "누가 더 중요해", "explanation": "누가 (誰) + 더 (更) + 중요하다 (重要)。" }
+      ]
+    },
+    {
+      "korean": "이따위 유치한 말을 왜 하게 해",
+      "translation": "為什麼讓我說出這種幼稚的話",
+      "analysis": [
+        { "point": "이따위 유치한 말을", "explanation": "이따위 (這種的) + 유치하다 (幼稚的) 定語形態 + 말 (話) + -을 (受格)。" },
+        { "point": "왜 하게 해", "explanation": "왜 (為何) + 하다 (說) 的使動態。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아무 소용없어 잘해줘봐야",
+      "translation": "對你再好也沒用",
+      "analysis": [
+        { "point": "아무 소용없어", "explanation": "片語，毫無用處。" },
+        { "point": "잘해줘봐야", "explanation": "잘해주다 (對...好) + -아/어 봐야 (慣用型，即使...也沒用)。" }
+      ]
+    },
+    {
+      "korean": "Cuz nothing lasts forever",
+      "translation": "因為沒有什麼是永恆的",
+      "analysis": [
+        { "point": "Cuz nothing lasts forever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "넌 내맘을 몰라 사랑 줘봐야",
+      "translation": "你不懂我的心 就算給了你愛也沒用",
+      "analysis": [
+        { "point": "넌 내맘을 몰라", "explanation": "너는 (你) + 내 마음 (我的心) + -을 (受格) + 모르다 (不懂)。" },
+        { "point": "사랑 줘봐야", "explanation": "사랑 (愛) + 주다 (給予) + -아/어 봐야 (即使...也沒用)。" }
+      ]
+    },
+    {
+      "korean": "Cuz nothing lasts forever",
+      "translation": "因為沒有什麼是永恆的",
+      "analysis": [
+        { "point": "Cuz nothing lasts forever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "내 전불 다 줘봐도",
+      "translation": "就算把我全部都給了你",
+      "analysis": [
+        { "point": "내 전불", "explanation": "내 전부를 (我的全部) 的縮略。" },
+        { "point": "다 줘봐도", "explanation": "다 (全部) + 주다 (給予) + -아/어 보다 (試著) + -아도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "but, nothing lasts",
+      "translation": "但是，沒有什麼是永恆的",
+      "analysis": [
+        { "point": "but, nothing lasts", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "너 기억하니",
+      "translation": "你還記得嗎",
+      "analysis": [
+        { "point": "너 기억하니", "explanation": "너 (你) + 기억하다 (記得) + -니 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "니가 한 고백 믿었어 정말",
+      "translation": "你做的告白 我真的相信了",
+      "analysis": [
+        { "point": "니가 한 고백", "explanation": "네가 (你) + 하다 (做) 的過去定語形態 + 고백 (告白)。" },
+        { "point": "믿었어 정말", "explanation": "믿다 (相信) 的過去式 + 정말 (真的)。" }
+      ]
+    },
+    {
+      "korean": "지켜주고 웃게 해 준다며",
+      "translation": "說著會守護我 逗我笑",
+      "analysis": [
+        { "point": "지켜주고", "explanation": "지켜주다 (守護) 的連接形。" },
+        { "point": "웃게 해 준다며", "explanation": "웃게 해주다 (逗笑) + -ㄴ다며 (間接引述)。" }
+      ]
+    },
+    {
+      "korean": "난 눈물뿐인데 you say",
+      "translation": "我卻只剩下眼淚 you say",
+      "analysis": [
+        { "point": "난 눈물뿐인데", "explanation": "나는 (我) + 눈물 (眼淚) + -뿐이다 (只有) + -ㄴ데。" },
+        { "point": "you say", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Cuz nothing lasts~~",
+      "translation": "因為沒有什麼是永恆的~~",
+      "analysis": [
+        { "point": "Cuz nothing lasts", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Nothing nothing nothing nothing nothing lasts",
+      "translation": "沒有 沒有 沒有 沒有 沒有什麼是永恆的",
+      "analysis": [
+        { "point": "Nothing lasts", "explanation": "英文歌詞的重複。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "싸우다", "chinese": "吵架", "pos": "動詞" },
+    { "korean": "달래다", "chinese": "安撫", "pos": "動詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "약속", "chinese": "約定", "pos": "名詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "바쁘다", "chinese": "忙", "pos": "形容詞" },
+    { "korean": "끊다", "chinese": "掛斷", "pos": "動詞" },
+    { "korean": "중요하다", "chinese": "重要的", "pos": "形容詞" },
+    { "korean": "유치하다", "chinese": "幼稚的", "pos": "形容詞" },
+    { "korean": "소용없다", "chinese": "沒用", "pos": "形容詞" },
+    { "korean": "잘해주다", "chinese": "對...好", "pos": "動詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "미끼", "chinese": "誘餌", "pos": "名詞" },
+    { "korean": "놓다", "chinese": "放下", "pos": "動詞" },
+    { "korean": "겁을 주다", "chinese": "嚇唬", "pos": "片語" },
+    { "korean": "심정", "chinese": "心情", "pos": "名詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "시체놀이", "chinese": "裝死遊戲", "pos": "名詞" },
+    { "korean": "기억하다", "chinese": "記得", "pos": "動詞" },
+    { "korean": "고백", "chinese": "告白", "pos": "名詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "지켜주다", "chinese": "守護", "pos": "動詞" },
+    { "korean": "웃게 하다", "chinese": "逗笑", "pos": "片語" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" }
+  ]
+}

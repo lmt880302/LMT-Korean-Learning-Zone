@@ -1,0 +1,366 @@
+{
+  "id": "epikhigh-one",
+  "title": "One",
+  "artist": "Epik High (Feat. 지선)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "ONE!",
+      "translation": "一！",
+      "analysis": [
+        { "point": "ONE!", "explanation": "英文單字，一。" }
+      ]
+    },
+    {
+      "korean": "Time is tickin T-Time is tickin, tickin",
+      "translation": "時間正在流逝",
+      "analysis": [
+        { "point": "Time is tickin", "explanation": "英文歌詞，為 Time is ticking 的口語表達。" }
+      ]
+    },
+    {
+      "korean": "Time is tickin T-Time is tickin, away",
+      "translation": "時間正在流逝，逝去",
+      "analysis": [
+        { "point": "Time is tickin, away", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (Tablo)",
+      "korean": "그대, 눈물이 볼에 쏟아지는걸",
+      "translation": "你，眼淚正傾瀉在臉頰上",
+      "analysis": [
+        { "point": "그대", "explanation": "代名詞，你 (較書面/詩意)。" },
+        { "point": "눈물이 볼에 쏟아지는걸", "explanation": "눈물 (眼淚) + -이 (主格) + 볼에 (在臉頰上) + 쏟아지다 (傾瀉) + -(는)걸 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "이유 없이 쏟아지는걸",
+      "translation": "毫無理由地傾瀉而下",
+      "analysis": [
+        { "point": "이유 없이", "explanation": "片語，毫無理由地。" },
+        { "point": "쏟아지는걸", "explanation": "쏟아지다 (傾瀉) 的詞幹 + -(는)걸 (感嘆終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "아무도 모르죠 심장 속에 유리조각 폭풍이 몰아치는걸",
+      "translation": "誰也不知道吧 心中有玻璃碎片的暴風正在肆虐",
+      "analysis": [
+        { "point": "아무도 모르죠", "explanation": "아무도 (誰也) + 모르다 (不知道) + -죠 (表確認)。" },
+        { "point": "심장 속에", "explanation": "심장 (心臟) + 속 (裡面) + -에。" },
+        { "point": "유리조각 폭풍이 몰아치는걸", "explanation": "유리조각 (玻璃碎片) + 폭풍 (暴風) + -이 (主格) + 몰아치다 (肆虐) + -(는)걸。" }
+      ]
+    },
+    {
+      "korean": "상처가 병이 돼서 모든 문이 벽이 돼서",
+      "translation": "傷口成了病 所有門都成了牆",
+      "analysis": [
+        { "point": "상처가 병이 돼서", "explanation": "상처 (傷口) + -가 (主格) + 병 (病) + -이 (主格) + 되다 (變成) + -어서 (因為)。" },
+        { "point": "모든 문이 벽이 돼서", "explanation": "모든 (所有) + 문 (門) + -이 (主格) + 벽 (牆) + -이 (主格) + 되다 (變成) + -어서。" }
+      ]
+    },
+    {
+      "korean": "거울속의 내가 적이 돼서 아.프.죠?",
+      "translation": "鏡中的我成了敵人 很.痛.吧？",
+      "analysis": [
+        { "point": "거울속의 내가", "explanation": "거울 속의 (鏡中的) + 내가 (我)。" },
+        { "point": "적이 돼서", "explanation": "적 (敵人) + -이 (主格) + 되다 (變成) + -어서。" },
+        { "point": "아.프.죠?", "explanation": "아프다 (痛) 的強調說法 + -죠? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "아무도 그댈 모르게 가두고",
+      "translation": "神不知鬼不覺地將你囚禁",
+      "analysis": [
+        { "point": "아무도 그댈 모르게", "explanation": "아무도 (誰也) + 그대를 (你) + 모르다 (不知道) + -게 (副詞形)。" },
+        { "point": "가두고", "explanation": "가두다 (囚禁) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "숨을 조르게 놔두고",
+      "translation": "任憑呼吸被勒緊",
+      "analysis": [
+        { "point": "숨을 조르게 놔두고", "explanation": "숨을 조르다 (勒住呼吸) + -게 놔두다 (任憑...、放任...)。" }
+      ]
+    },
+    {
+      "korean": "끝을 고르게 만들죠 (참 나쁘죠)",
+      "translation": "讓你選擇結束 (真壞啊)",
+      "analysis": [
+        { "point": "끝을 고르게 만들죠", "explanation": "끝 (結束) + -을 (受格) + 고르다 (選擇) + -게 만들다 (使...) + -죠。" },
+        { "point": "참 나쁘죠", "explanation": "참 (真) + 나쁘다 (壞的) + -죠。" }
+      ]
+    },
+    {
+      "korean": "이 세상 속에 설 이유 없앴죠",
+      "translation": "抹去了存在於這世上的理由吧",
+      "analysis": [
+        { "point": "이 세상 속에 설 이유", "explanation": "이 세상 속에 (在這世界中) + 서다 (站立) 的定語形態 + 이유 (理由)。" },
+        { "point": "없앴죠", "explanation": "없애다 (消除) 的過去式 + -죠。" }
+      ]
+    },
+    {
+      "korean": "돌아 갈 길을 선택도 없이 마냥 걷겠죠",
+      "translation": "漫無選擇地走著回頭路吧",
+      "analysis": [
+        { "point": "돌아 갈 길을", "explanation": "돌아가다 (回去) 的定語形態 + 길 (路) + -을 (受格)。" },
+        { "point": "선택도 없이", "explanation": "선택 (選擇) + -도 (也) + 없이 (沒有)。" },
+        { "point": "마냥 걷겠죠", "explanation": "마냥 (只管、一味地) + 걷다 (走) + -겠죠 (推測)。" }
+      ]
+    },
+    {
+      "korean": "네 마음보다 그대 숨이 먼저 멎겠죠",
+      "translation": "比起你的心 你的氣息會先停止吧",
+      "analysis": [
+        { "point": "네 마음보다", "explanation": "네 (你的) + 마음 (心) + -보다 (比)。" },
+        { "point": "그대 숨이", "explanation": "그대 (你) + 숨 (氣息) + -이 (主格)。" },
+        { "point": "먼저 멎겠죠", "explanation": "먼저 (先) + 멎다 (停止) + -겠죠 (推測)。" }
+      ]
+    },
+    {
+      "korean": "상처(When you cry )흉터(though you try) 눈물이(say goodbye) 흐르고 (the time is tickin)",
+      "translation": "傷口(當你哭泣) 傷疤(即使你嘗試) 眼淚(說再見) 流下 (時間正在流逝)",
+      "analysis": [
+        { "point": "상처", "explanation": "名詞，傷口。" },
+        { "point": "흉터", "explanation": "名詞，傷疤。" },
+        { "point": "눈물이 흐르고", "explanation": "눈물 (眼淚) + -이 (主格) + 흐르다 (流下) + -고。" }
+      ]
+    },
+    {
+      "korean": "죽음 (When you cry )속을 (though you try) 헤매던(널 내가 구해줄게)",
+      "translation": "在死亡(當你哭泣)之中(即使你嘗試)徘徊(我會拯救你)",
+      "analysis": [
+        { "point": "죽음 속을 헤매던", "explanation": "죽음 (死亡) + 속을 (之中) + 헤매다 (徘徊) + -던 (過去回想)。" },
+        { "point": "널 내가 구해줄게", "explanation": "너를 (你) + 내가 (我) + 구해주다 (拯救) + -(으)ㄹ게。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Jisun)",
+      "korean": "You are the one",
+      "translation": "你就是那個人",
+      "analysis": [
+        { "point": "You are the one", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "ONE! 어둠속을 걷고 있을 때",
+      "translation": "一！當你在黑暗中行走時",
+      "analysis": [
+        { "point": "어둠속을 걷고 있을 때", "explanation": "어둠 속 (黑暗中) + -을 (格助詞) + 걷다 (走) + -고 있을 때 (正在...的時候)。" }
+      ]
+    },
+    {
+      "korean": "(어둠속에 니가 사로잡힐때 내 숨이 같이해)",
+      "translation": "(當你在黑暗中被俘獲時 我的氣息與你同在)",
+      "analysis": [
+        { "point": "어둠속에 니가 사로잡힐때", "explanation": "어둠 속에 (在黑暗中) + 네가 (你) + 사로잡히다 (被俘獲) + -ㄹ 때。" },
+        { "point": "내 숨이 같이해", "explanation": "내 (我的) + 숨 (氣息) + -이 (主格) + 같이하다 (同在)。" }
+      ]
+    },
+    {
+      "korean": "넌 나의 구원 ONE!",
+      "translation": "你是我的救贖 ONE!",
+      "analysis": [
+        { "point": "넌 나의 구원", "explanation": "너는 (你) + 나의 (我的) + 구원 (救贖)。" }
+      ]
+    },
+    {
+      "korean": "내게 손을 건네준 그대",
+      "translation": "向我伸出手的你",
+      "analysis": [
+        { "point": "내게 손을 건네준", "explanation": "내게 (向我) + 손을 건네주다 (伸出手) 的過去定語形態。" },
+        { "point": "그대", "explanation": "代名詞，你。" }
+      ]
+    },
+    {
+      "korean": "(세상속에 문이 네게 닫힐때 내손을 바칠게)",
+      "translation": "(當世界之門向你關閉時 我會獻上我的手)",
+      "analysis": [
+        { "point": "세상속에 문이 네게 닫힐때", "explanation": "세상 속에 (在世界中) + 문 (門) + -이 (主格) + 네게 (向你) + 닫히다 (被關上) + -ㄹ 때。" },
+        { "point": "내손을 바칠게", "explanation": "내 손을 (我的手) + 바치다 (獻上) + -(으)ㄹ게。" }
+      ]
+    },
+    {
+      "korean": "you are the one 넌 나의 구원",
+      "translation": "you are the one 你是我的救贖",
+      "analysis": [
+        { "point": "you are the one", "explanation": "英文歌詞。" },
+        { "point": "넌 나의 구원", "explanation": "너는 (你) + 나의 (我的) + 구원 (救贖)。" }
+      ]
+    },
+    {
+      "korean": "나의 구원! 원!",
+      "translation": "我的救贖！一！",
+      "analysis": [
+        { "point": "나의 구원", "explanation": "나의 (我的) + 구원 (救贖)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Mithra Jin)",
+      "korean": "세상에 불을 지른 그대 손이죠.",
+      "translation": "是向世界縱火的你的手吧。",
+      "analysis": [
+        { "point": "세상에 불을 지른", "explanation": "세상에 (向世界) + 불을 지르다 (縱火) 的過去定語形態。" },
+        { "point": "그대 손이죠", "explanation": "그대 (你) + 손 (手) + -이죠。" }
+      ]
+    },
+    {
+      "korean": "사람들의 눈가림은 그대 몫이죠",
+      "translation": "蒙蔽人們的雙眼是你的責任吧",
+      "analysis": [
+        { "point": "사람들의 눈가림은", "explanation": "사람들 (人們) + -의 (的) + 눈가림 (蒙蔽雙眼) + -은 (主題)。" },
+        { "point": "그대 몫이죠", "explanation": "그대 (你) + 몫 (份、責任) + -이죠。" }
+      ]
+    },
+    {
+      "korean": "그대 눈에 비추던 고통이란 별이 그대 도시죠",
+      "translation": "你眼中曾映照著的，名為痛苦的星星就是你的城市吧",
+      "analysis": [
+        { "point": "그대 눈에 비추던", "explanation": "그대 눈에 (在你眼中) + 비추다 (映照) + -던。" },
+        { "point": "고통이란 별이", "explanation": "고통 (痛苦) + -(이)라는 (所謂) + 별 (星星) + -이 (主格)。" },
+        { "point": "그대 도시죠", "explanation": "그대 (你) + 도시 (城市) + -이죠。" }
+      ]
+    },
+    {
+      "korean": "(아직도 꿈을 베나요?) 숨을 세나요?",
+      "translation": "(還在割捨夢想嗎？) 還在倒數呼吸嗎？",
+      "analysis": [
+        { "point": "아직도 꿈을 베나요?", "explanation": "아직도 (仍然) + 꿈을 베다 (割捨夢想) + -나요? (疑問)。" },
+        { "point": "숨을 세나요?", "explanation": "숨을 세다 (數呼吸) + -나요? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "쏟아버린 눈물 깊이를 재나요?",
+      "translation": "還在測量傾瀉而出的眼淚深度嗎？",
+      "analysis": [
+        { "point": "쏟아버린 눈물", "explanation": "쏟아버리다 (傾瀉而出) 的過去定語形態 + 눈물 (眼淚)。" },
+        { "point": "깊이를 재나요?", "explanation": "깊이 (深度) + -를 (受格) + 재다 (測量) + -나요? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "희망은 가라앉는 종이 배인가요? 슬.프.죠?",
+      "translation": "希望是正在沉沒的紙船嗎？很.悲.傷.吧？",
+      "analysis": [
+        { "point": "희망은 가라앉는 종이 배인가요?", "explanation": "희망 (希望) + -은 (主題) + 가라앉다 (沉沒) 的定語形態 + 종이 배 (紙船) + -인가요? (疑問)。" },
+        { "point": "슬.프.죠?", "explanation": "슬프다 (悲傷) 的強調說法 + -죠? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "혹시 밤에 땀에 흠뻑 젖어 깨나요?",
+      "translation": "或許會在夜晚被汗水浸濕而醒來嗎？",
+      "analysis": [
+        { "point": "혹시 밤에", "explanation": "혹시 (或許) + 밤에 (在夜晚)。" },
+        { "point": "땀에 흠뻑 젖어 깨나요?", "explanation": "땀에 (被汗水) + 흠뻑 젖다 (浸濕) 的連接形 + 깨다 (醒來) + -나요? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "양심이 땅에 기며 버벅 되나요?",
+      "translation": "良心在地上爬行而結巴嗎？",
+      "analysis": [
+        { "point": "양심이 땅에 기며", "explanation": "양심 (良心) + -이 (主格) + 땅에 기다 (在地上爬行) + -(으)며。" },
+        { "point": "버벅 되나요?", "explanation": "버벅대다 (結巴) + -나요? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "끝이라고 생각되나요? 괜찮아요,cause I understand.",
+      "translation": "覺得是結束了嗎？沒關係，因為我理解。",
+      "analysis": [
+        { "point": "끝이라고 생각되나요?", "explanation": "끝 (結束) + -(이)라고 생각되다 (被認為是...) + -나요?。" },
+        { "point": "괜찮아요", "explanation": "괜찮다 (沒關係) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "내가 고장난 그 몸의 흉터,",
+      "translation": "我會將那故障的身體的傷疤，",
+      "analysis": [
+        { "point": "내가", "explanation": "代名詞，我。" },
+        { "point": "고장난 그 몸의 흉터", "explanation": "고장나다 (故障) 的過去定語形態 + 그 (那) + 몸의 (身體的) + 흉터 (傷疤)。" }
+      ]
+    },
+    {
+      "korean": "산산 조각난 그 혼의 숨겨버린 눈물도 지워줄게요",
+      "translation": "和那支離破碎的靈魂所藏起的眼淚都為你擦去",
+      "analysis": [
+        { "point": "산산 조각난 그 혼의", "explanation": "산산조각나다 (支離破碎) 的過去定語形態 + 그 (那) + 혼의 (靈魂的)。" },
+        { "point": "숨겨버린 눈물도", "explanation": "숨겨버리다 (藏起來) 的過去定語形態 + 눈물 (眼淚) + -도 (也)。" },
+        { "point": "지워줄게요", "explanation": "지워주다 (為...擦去) + -(으)ㄹ게요。" }
+      ]
+    },
+    {
+      "korean": "그대 손을 내 손에 움켜쥐고 믿어줄게요",
+      "translation": "我會將你的手緊握在我的手中，並相信你",
+      "analysis": [
+        { "point": "그대 손을 내 손에 움켜쥐고", "explanation": "그대 손을 (你的手) + 내 손에 (在我的手中) + 움켜쥐다 (緊握) + -고。" },
+        { "point": "믿어줄게요", "explanation": "믿어주다 (為...相信) + -(으)ㄹ게요。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge (Jisun)",
+      "korean": "상처가 있나요? 흉터가 있나요?",
+      "translation": "有傷口嗎？有傷疤嗎？",
+      "analysis": [
+        { "point": "상처가 있나요?", "explanation": "상처 (傷口) + -가 (主格) + 있다 (有) + -나요? (疑問)。" },
+        { "point": "흉터가 있나요?", "explanation": "흉터 (傷疤) + -가 (主格) + 있다 (有) + -나요? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "어둠속에서 헤매고 있나요?",
+      "translation": "在黑暗中徘徊嗎？",
+      "analysis": [
+        { "point": "어둠속에서 헤매고 있나요?", "explanation": "어둠 속에서 (在黑暗中) + 헤매다 (徘徊) + -고 있다 + -나요?。" }
+      ]
+    },
+    {
+      "korean": "you're still beautiful to me",
+      "translation": "對我而言你依然美麗",
+      "analysis": [
+        { "point": "you're still beautiful to me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "나의 구원",
+      "translation": "我的救贖",
+      "analysis": [
+        { "point": "나의 구원", "explanation": "나의 (我的) + 구원 (救贖)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "유리조각", "chinese": "玻璃碎片", "pos": "名詞" },
+    { "korean": "폭풍", "chinese": "暴風", "pos": "名詞" },
+    { "korean": "몰아치다", "chinese": "肆虐、席捲", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "병", "chinese": "病", "pos": "名詞" },
+    { "korean": "적", "chinese": "敵人", "pos": "名詞" },
+    { "korean": "가두다", "chinese": "囚禁", "pos": "動詞" },
+    { "korean": "숨을 조르다", "chinese": "勒住呼吸", "pos": "片語" },
+    { "korean": "없애다", "chinese": "消除", "pos": "動詞" },
+    { "korean": "멎다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "흉터", "chinese": "傷疤", "pos": "名詞" },
+    { "korean": "헤매다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "구하다", "chinese": "拯救", "pos": "動詞" },
+    { "korean": "구원", "chinese": "救贖", "pos": "名詞" },
+    { "korean": "사로잡히다", "chinese": "被俘獲", "pos": "動詞" },
+    { "korean": "건네주다", "chinese": "遞給、伸出", "pos": "動詞" },
+    { "korean": "바치다", "chinese": "獻上", "pos": "動詞" },
+    { "korean": "불을 지르다", "chinese": "縱火", "pos": "片語" },
+    { "korean": "눈가림", "chinese": "蒙蔽、欺騙", "pos": "名詞" },
+    { "korean": "몫", "chinese": "份、責任", "pos": "名詞" },
+    { "korean": "고통", "chinese": "痛苦", "pos": "名詞" },
+    { "korean": "꿈을 베다", "chinese": "割捨夢想", "pos": "片語" },
+    { "korean": "깊이", "chinese": "深度", "pos": "名詞" },
+    { "korean": "재다", "chinese": "測量", "pos": "動詞" },
+    { "korean": "가라앉다", "chinese": "沉沒", "pos": "動詞" },
+    { "korean": "종이 배", "chinese": "紙船", "pos": "名詞" },
+    { "korean": "땀", "chinese": "汗", "pos": "名詞" },
+    { "korean": "흠뻑 젖다", "chinese": "濕透", "pos": "片語" },
+    { "korean": "양심", "chinese": "良心", "pos": "名詞" },
+    { "korean": "버벅대다", "chinese": "結巴", "pos": "動詞" },
+    { "korean": "고장나다", "chinese": "故障", "pos": "動詞" },
+    { "korean": "산산조각나다", "chinese": "支離破碎", "pos": "動詞" },
+    { "korean": "혼", "chinese": "魂、靈魂", "pos": "名詞" },
+    { "korean": "움켜쥐다", "chinese": "緊握", "pos": "動詞" }
+  ]
+}

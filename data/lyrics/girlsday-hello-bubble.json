@@ -1,0 +1,500 @@
+{
+  "id": "girlsday-hello-bubble",
+  "title": "Hello Bubble",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "왠지 기분 좋은 오늘",
+      "translation": "不知怎地心情很好的今天",
+      "analysis": [
+        { "point": "왠지", "explanation": "副詞，不知為何、總覺得。" },
+        { "point": "기분 좋은 오늘", "explanation": "기분 좋다 (心情好) 的定語形態 + 오늘 (今天)。" }
+      ]
+    },
+    {
+      "korean": "내 헤어스타일",
+      "translation": "我的髮型",
+      "analysis": [
+        { "point": "내 헤어스타일", "explanation": "내 (我的) + 헤어스타일 (hairstyle)。" }
+      ]
+    },
+    {
+      "korean": "자꾸 자꾸 웃음이 나와",
+      "translation": "總是總是笑個不停",
+      "analysis": [
+        { "point": "자꾸 자꾸", "explanation": "副詞 자꾸 (總是、一直) 的重複，表示強調。" },
+        { "point": "웃음이 나와", "explanation": "웃음 (笑容) + -이 (主格) + 나오다 (出來)。" }
+      ]
+    },
+    {
+      "korean": "상큼하게 옷을 입고서",
+      "translation": "清爽地穿上衣服後",
+      "analysis": [
+        { "point": "상큼하게", "explanation": "形容詞 상큼하다 (清爽的) 的副詞形。" },
+        { "point": "옷을 입고서", "explanation": "옷 (衣服) + -을 (受格) + 입다 (穿) + -고서 (連接詞尾，表之後)。" }
+      ]
+    },
+    {
+      "korean": "콧노래를 부르며 하루를 시작해",
+      "translation": "哼著歌開始新的一天",
+      "analysis": [
+        { "point": "콧노래를 부르며", "explanation": "콧노래를 부르다 (哼歌) + -(으)며 (同時)。" },
+        { "point": "하루를 시작해", "explanation": "하루 (一天) + -를 (受格) + 시작하다 (開始)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "어딜 가든 튀지 남자들은 난리나",
+      "translation": "不管去哪都很顯眼 男人們都為之瘋狂",
+      "analysis": [
+        { "point": "어딜 가든", "explanation": "어디를 가든지 (不管去哪裡) 的縮略。" },
+        { "point": "튀지", "explanation": "튀다 (顯眼、突出) + -지 (終結詞尾)。" },
+        { "point": "남자들은 난리나", "explanation": "남자들 (男人們) + -은 (主題) + 난리나다 (鬧翻天、瘋狂)。" }
+      ]
+    },
+    {
+      "korean": "다들 비키지 도도하게 걸어가",
+      "translation": "大家都讓開 我高傲地走著",
+      "analysis": [
+        { "point": "다들 비키지", "explanation": "다들 (大家) + 비키다 (讓開) + -지。" },
+        { "point": "도도하게 걸어가", "explanation": "도도하다 (高傲的) 副詞形 + 걸어가다 (走過去)。" }
+      ]
+    },
+    {
+      "korean": "찰랑대는 머릿결에 비친 spot light",
+      "translation": "飄逸的髮絲上反射的 spot light",
+      "analysis": [
+        { "point": "찰랑대는 머릿결에", "explanation": "찰랑대다 (飄逸) 的定語形態 + 머릿결 (髮絲) + -에。" },
+        { "point": "비친 spot light", "explanation": "비치다 (反射) 的過去定語形態 + spot light (英文)。" }
+      ]
+    },
+    {
+      "korean": "나를 질투하는 시선 어쩜 좋아",
+      "translation": "嫉妒我的視線 該怎麼辦才好",
+      "analysis": [
+        { "point": "나를 질투하는 시선", "explanation": "나를 (我) + 질투하다 (嫉妒) 的定語形態 + 시선 (視線)。" },
+        { "point": "어쩜 좋아", "explanation": "어쩌면 좋아 (該怎麼辦才好) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 만나러 지금 달려가는 길",
+      "translation": "現在正奔馳在去見你的路上",
+      "analysis": [
+        { "point": "널 만나러", "explanation": "너를 (你) + 만나다 (見面) + -(으)러 (為了)。" },
+        { "point": "지금 달려가는 길", "explanation": "지금 (現在) + 달려가다 (跑過去) 的定語形態 + 길 (路)。" }
+      ]
+    },
+    {
+      "korean": "다시 너를 만나",
+      "translation": "再次見到你",
+      "analysis": [
+        { "point": "다시 너를 만나", "explanation": "다시 (再次) + 너를 (你) + 만나다 (見面)。" }
+      ]
+    },
+    {
+      "korean": "사랑한다 꼭 말해줄 거야",
+      "translation": "一定會對你說我愛你",
+      "analysis": [
+        { "point": "사랑한다", "explanation": "사랑하다 (愛) 的書面體陳述句。" },
+        { "point": "꼭 말해줄 거야", "explanation": "꼭 (一定) + 말해주다 (對...說) + -(으)ㄹ 거야 (將會)。" }
+      ]
+    },
+    {
+      "korean": "Hello bubble bubble bubble",
+      "translation": "哈囉 bubble bubble bubble",
+      "analysis": [
+        { "point": "Hello bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "나도 너를 너를 너를",
+      "translation": "我也把你把你把你",
+      "analysis": [
+        { "point": "나도 너를", "explanation": "나도 (我也) + 너를 (你)。重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "사랑한단 말야",
+      "translation": "是愛你的啊",
+      "analysis": [
+        { "point": "사랑한단 말야", "explanation": "사랑한다는 말이야 (是說我愛你) 的縮略，用於強調。" }
+      ]
+    },
+    {
+      "korean": "넌 내 맘을 아니? 우예",
+      "translation": "你懂我的心嗎？嗚耶",
+      "analysis": [
+        { "point": "넌 내 맘을 아니?", "explanation": "너는 (你) + 내 마음 (我的心) + -을 (受格) + 알다 (知道) + -니? (疑問)。" },
+        { "point": "우예", "explanation": "感嘆詞。" }
+      ]
+    },
+    {
+      "korean": "Hello bubble bubble bubble",
+      "translation": "哈囉 bubble bubble bubble",
+      "analysis": [
+        { "point": "Hello bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너의 이름 이름 이름",
+      "translation": "你的名字 名字 名字",
+      "analysis": [
+        { "point": "너의 이름", "explanation": "너의 (你的) + 이름 (名字)。" }
+      ]
+    },
+    {
+      "korean": "예쁘게 날 바꿔준 맞춰준",
+      "translation": "漂亮地改變了我 配合著我",
+      "analysis": [
+        { "point": "예쁘게 날 바꿔준", "explanation": "예쁘게 (漂亮地) + 나를 (我) + 바꿔주다 (改變) 的過去定語形態。" },
+        { "point": "맞춰준", "explanation": "맞춰주다 (配合) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 좋아 난",
+      "translation": "我太喜歡你了",
+      "analysis": [
+        { "point": "니가 너무 좋아", "explanation": "네가 (你) + 너무 (太) + 좋다 (喜歡)。" },
+        { "point": "난", "explanation": "나는 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "You you 니 입술 위에 love is you",
+      "translation": "You you 在你的嘴唇上 love is you",
+      "analysis": [
+        { "point": "니 입술 위에", "explanation": "네 (你的) + 입술 (嘴唇) + 위에 (上面)。" }
+      ]
+    },
+    {
+      "korean": "심장이 쿵쿵 떨리는 걸 no no",
+      "translation": "心臟怦怦地跳著呢 no no",
+      "analysis": [
+        { "point": "심장이 쿵쿵 떨리는 걸", "explanation": "심장 (心臟) + -이 (主格) + 쿵쿵 (擬聲詞) + 떨리다 (跳動) + -(으)ㄴ/는 걸 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "Boy boy 빨주노초파남보",
+      "translation": "Boy boy 紅橙黃綠藍靛紫",
+      "analysis": [
+        { "point": "빨주노초파남보", "explanation": "彩虹七色的首字縮寫。" }
+      ]
+    },
+    {
+      "korean": "예쁘게 날 바꿔준 맞춰준",
+      "translation": "漂亮地改變了我 配合著我",
+      "analysis": [
+        { "point": "예쁘게 날 바꿔준", "explanation": "예쁘게 (漂亮地) + 나를 (我) + 바꿔주다 (改變) 的過去定語形態。" },
+        { "point": "맞춰준", "explanation": "맞춰주다 (配合) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 좋아 baby~",
+      "translation": "太喜歡你了 baby~",
+      "analysis": [
+        { "point": "니가 너무 좋아", "explanation": "네가 (你) + 너무 (太) + 좋다 (喜歡)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "거품처럼 톡톡 튀는 나의 style",
+      "translation": "像泡泡一樣活潑搶眼我的 style",
+      "analysis": [
+        { "point": "거품처럼", "explanation": "거품 (泡泡) + -처럼 (像)。" },
+        { "point": "톡톡 튀는", "explanation": "톡톡 (擬聲/擬態詞，活潑) + 튀다 (搶眼) 的定語形態。" },
+        { "point": "나의 style", "explanation": "나의 (我的) + style (英文)。" }
+      ]
+    },
+    {
+      "korean": "너를 위해 준비한 거야",
+      "translation": "是為了你準備的啊",
+      "analysis": [
+        { "point": "너를 위해", "explanation": "너를 (你) + 위하다 (為了)。" },
+        { "point": "준비한 거야", "explanation": "준비하다 (準備) 的過去定語形態 + 것이다 (是...)。" }
+      ]
+    },
+    {
+      "korean": "(show you everything)",
+      "translation": "(展現你一切)",
+      "analysis": [
+        { "point": "(show you everything)", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "뗄 수 없이 너무 눈부셔",
+      "translation": "無法移開視線 太耀眼了",
+      "analysis": [
+        { "point": "뗄 수 없이", "explanation": "떼다 (移開) + -(으)ㄹ 수 없이 (無法...地)。" },
+        { "point": "너무 눈부셔", "explanation": "너무 (太) + 눈부시다 (耀眼)。" }
+      ]
+    },
+    {
+      "korean": "생각만 해도 난 이미 설레이는데",
+      "translation": "光是想著 我就已經心動不已了",
+      "analysis": [
+        { "point": "생각만 해도", "explanation": "생각 (想法) + -만 (只) + 하다 (做) + -아도 (即使)。" },
+        { "point": "난 이미", "explanation": "나는 (我) + 이미 (已經)。" },
+        { "point": "설레이는데", "explanation": "설레다 (心動) + -는데 (轉折/背景)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 만나러 지금 달려가는 길",
+      "translation": "現在正奔馳在去見你的路上",
+      "analysis": [
+        { "point": "널 만나러", "explanation": "너를 (你) + 만나다 (見面) + -(으)러 (為了)。" },
+        { "point": "지금 달려가는 길", "explanation": "지금 (現在) + 달려가다 (跑過去) 的定語形態 + 길 (路)。" }
+      ]
+    },
+    {
+      "korean": "다시 너를 만나",
+      "translation": "再次見到你",
+      "analysis": [
+        { "point": "다시 너를 만나", "explanation": "다시 (再次) + 너를 (你) + 만나다 (見面)。" }
+      ]
+    },
+    {
+      "korean": "사랑한다 꼭 말해줄 거야",
+      "translation": "一定會對你說我愛你",
+      "analysis": [
+        { "point": "사랑한다", "explanation": "사랑하다 (愛) 的書面體陳述句。" },
+        { "point": "꼭 말해줄 거야", "explanation": "꼭 (一定) + 말해주다 (對...說) + -(으)ㄹ 거야 (將會)。" }
+      ]
+    },
+    {
+      "korean": "Hello bubble bubble bubble",
+      "translation": "哈囉 bubble bubble bubble",
+      "analysis": [
+        { "point": "Hello bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "나도 너를 너를 너를",
+      "translation": "我也把你把你把你",
+      "analysis": [
+        { "point": "나도 너를", "explanation": "나도 (我也) + 너를 (你)。重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "사랑한단 말야",
+      "translation": "是愛你的啊",
+      "analysis": [
+        { "point": "사랑한단 말야", "explanation": "사랑한다는 말이야 (是說我愛你) 的縮略，用於強調。" }
+      ]
+    },
+    {
+      "korean": "넌 내 맘을 아니?",
+      "translation": "你懂我的心嗎？",
+      "analysis": [
+        { "point": "넌 내 맘을 아니?", "explanation": "너는 (你) + 내 마음 (我的心) + -을 (受格) + 알다 (知道) + -니? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "Hello bubble bubble bubble",
+      "translation": "哈囉 bubble bubble bubble",
+      "analysis": [
+        { "point": "Hello bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너의 이름 이름 이름",
+      "translation": "你的名字 名字 名字",
+      "analysis": [
+        { "point": "너의 이름", "explanation": "너의 (你的) + 이름 (名字)。" }
+      ]
+    },
+    {
+      "korean": "예쁘게 날 바꿔준 맞춰준",
+      "translation": "漂亮地改變了我 配合著我",
+      "analysis": [
+        { "point": "예쁘게 날 바꿔준", "explanation": "예쁘게 (漂亮地) + 나를 (我) + 바꿔주다 (改變) 的過去定語形態。" },
+        { "point": "맞춰준", "explanation": "맞춰주다 (配合) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 좋아 난",
+      "translation": "我太喜歡你了",
+      "analysis": [
+        { "point": "니가 너무 좋아", "explanation": "네가 (你) + 너무 (太) + 좋다 (喜歡)。" },
+        { "point": "난", "explanation": "나는 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I love you I love you",
+      "translation": "我愛你 我愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "난 매일매일 들어도",
+      "translation": "我就算每天每天聽",
+      "analysis": [
+        { "point": "난 매일매일 들어도", "explanation": "나는 (我) + 매일매일 (每天) + 듣다 (聽) + -어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "I love it I love it",
+      "translation": "我愛它 我愛它",
+      "analysis": [
+        { "point": "I love it", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Boy 오직 너만 할 수 있는 걸",
+      "translation": "Boy 只有你才能做到的事",
+      "analysis": [
+        { "point": "오직 너만", "explanation": "오직 (唯獨) + 너만 (只有你)。" },
+        { "point": "할 수 있는 걸", "explanation": "하다 (做) + -(으)ㄹ 수 있다 (能) + -(으)ㄴ/는 걸 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "Bubble oh bubble",
+      "translation": "泡泡 oh 泡泡",
+      "analysis": [
+        { "point": "Bubble oh bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "처럼 기분이 날아오를 것만 같아",
+      "translation": "心情就像要飛起來一樣",
+      "analysis": [
+        { "point": "처럼", "explanation": "助詞，像...一樣。" },
+        { "point": "기분이 날아오를 것만 같아", "explanation": "기분이 날아오르다 (心情飛揚) + -(으)ㄹ 것만 같다 (好像就要...)。" }
+      ]
+    },
+    {
+      "korean": "오늘 너와 함께 go go go baby",
+      "translation": "今天和你一起 go go go baby",
+      "analysis": [
+        { "point": "오늘 너와 함께", "explanation": "오늘 (今天) + 너와 (和你) + 함께 (一起)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Hello bubble bubble bubble",
+      "translation": "哈囉 bubble bubble bubble",
+      "analysis": [
+        { "point": "Hello bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "나도 너를 너를 너를",
+      "translation": "我也把你把你把你",
+      "analysis": [
+        { "point": "나도 너를", "explanation": "나도 (我也) + 너를 (你)。重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "사랑한단 말야",
+      "translation": "是愛你的啊",
+      "analysis": [
+        { "point": "사랑한단 말야", "explanation": "사랑한다는 말이야 (是說我愛你) 的縮略，用於強調。" }
+      ]
+    },
+    {
+      "korean": "넌 내 맘을 아니? 우예",
+      "translation": "你懂我的心嗎？嗚耶",
+      "analysis": [
+        { "point": "넌 내 맘을 아니?", "explanation": "너는 (你) + 내 마음 (我的心) + -을 (受格) + 알다 (知道) + -니? (疑問)。" },
+        { "point": "우예", "explanation": "感嘆詞。" }
+      ]
+    },
+    {
+      "korean": "Hello bubble bubble bubble",
+      "translation": "哈囉 bubble bubble bubble",
+      "analysis": [
+        { "point": "Hello bubble", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너의 이름 이름 이름",
+      "translation": "你的名字 名字 名字",
+      "analysis": [
+        { "point": "너의 이름", "explanation": "너의 (你的) + 이름 (名字)。" }
+      ]
+    },
+    {
+      "korean": "예쁘게 날 바꿔준 맞춰준",
+      "translation": "漂亮地改變了我 配合著我",
+      "analysis": [
+        { "point": "예쁘게 날 바꿔준", "explanation": "예쁘게 (漂亮地) + 나를 (我) + 바꿔주다 (改變) 的過去定語形態。" },
+        { "point": "맞춰준", "explanation": "맞춰주다 (配合) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 좋아 난",
+      "translation": "我太喜歡你了",
+      "analysis": [
+        { "point": "니가 너무 좋아", "explanation": "네가 (你) + 너무 (太) + 좋다 (喜歡)。" },
+        { "point": "난", "explanation": "나는 (我)。" }
+      ]
+    },
+    {
+      "korean": "You you 니 입술 위에 love is you",
+      "translation": "You you 在你的嘴唇上 love is you",
+      "analysis": [
+        { "point": "니 입술 위에", "explanation": "네 (你的) + 입술 (嘴唇) + 위에 (上面)。" }
+      ]
+    },
+    {
+      "korean": "심장이 쿵쿵 떨리는 걸 no no",
+      "translation": "心臟怦怦地跳著呢 no no",
+      "analysis": [
+        { "point": "심장이 쿵쿵 떨리는 걸", "explanation": "심장 (心臟) + -이 (主格) + 쿵쿵 (擬聲詞) + 떨리다 (跳動) + -(으)ㄴ/는 걸 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "Boy boy 빨주노초파남보",
+      "translation": "Boy boy 紅橙黃綠藍靛紫",
+      "analysis": [
+        { "point": "빨주노초파남보", "explanation": "彩虹七色的首字縮寫。" }
+      ]
+    },
+    {
+      "korean": "예쁘게 날 바꿔준 맞춰준",
+      "translation": "漂亮地改變了我 配合著我",
+      "analysis": [
+        { "point": "예쁘게 날 바꿔준", "explanation": "예쁘게 (漂亮地) + 나를 (我) + 바꿔주다 (改變) 的過去定語形態。" },
+        { "point": "맞춰준", "explanation": "맞춰주다 (配合) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 좋아 baby",
+      "translation": "太喜歡你了 baby",
+      "analysis": [
+        { "point": "니가 너무 좋아", "explanation": "네가 (你) + 너무 (太) + 좋다 (喜歡)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "기분", "chinese": "心情", "pos": "名詞" },
+    { "korean": "웃음", "chinese": "笑容", "pos": "名詞" },
+    { "korean": "상큼하다", "chinese": "清爽的", "pos": "形容詞" },
+    { "korean": "콧노래를 부르다", "chinese": "哼歌", "pos": "片語" },
+    { "korean": "튀다", "chinese": "顯眼、突出", "pos": "動詞" },
+    { "korean": "난리나다", "chinese": "鬧翻天、瘋狂", "pos": "動詞" },
+    { "korean": "비키다", "chinese": "讓開", "pos": "動詞" },
+    { "korean": "도도하다", "chinese": "高傲的", "pos": "形容詞" },
+    { "korean": "찰랑대다", "chinese": "飄逸", "pos": "動詞" },
+    { "korean": "머릿결", "chinese": "髮絲", "pos": "名詞" },
+    { "korean": "비치다", "chinese": "反射", "pos": "動詞" },
+    { "korean": "질투하다", "chinese": "嫉妒", "pos": "動詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "달려가다", "chinese": "跑過去", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "바꿔주다", "chinese": "改變(為某人)", "pos": "動詞" },
+    { "korean": "맞춰주다", "chinese": "配合(某人)", "pos": "動詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "거품", "chinese": "泡泡", "pos": "名詞" },
+    { "korean": "준비하다", "chinese": "準備", "pos": "動詞" },
+    { "korean": "눈부시다", "chinese": "耀眼", "pos": "形容詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "오직", "chinese": "唯獨", "pos": "副詞" },
+    { "korean": "날아오르다", "chinese": "飛起", "pos": "動詞" }
+  ]
+}

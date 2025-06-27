@@ -1,0 +1,628 @@
+{
+  "id": "epikhigh-gray-so-gray",
+  "title": "Gray so gray",
+  "artist": "Epik High (Feat. Younha)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus (Younha)",
+      "korean": "못된 것만 배워서 그래",
+      "translation": "是啊 因為只學會了壞的",
+      "analysis": [
+        { "point": "못된 것만", "explanation": "못되다 (壞的) 定語形態 + 것 (事物) + -만 (只)。" },
+        { "point": "배워서 그래", "explanation": "배우다 (學習) 的詞幹 + -어서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "못된 짓만 골라서 했네",
+      "translation": "只挑著壞事來做呢",
+      "analysis": [
+        { "point": "못된 짓만", "explanation": "못되다 (壞的) 定語形態 + 짓 (行為) + -만 (只)。" },
+        { "point": "골라서 했네", "explanation": "고르다 (挑選) 的連接形 + 하다 (做) 的過去式 + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "이런 내가 미워 나도",
+      "translation": "我也討厭這樣的我",
+      "analysis": [
+        { "point": "이런 내가", "explanation": "이렇다 (這樣的) 定語形態 + 내가 (我)。" },
+        { "point": "미워", "explanation": "밉다 (討厭) 的非格式體。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "착하게 살고 싶었는데",
+      "translation": "也曾想善良地活著，但是",
+      "analysis": [
+        { "point": "착하게", "explanation": "착하다 (善良) 的副詞形。" },
+        { "point": "살고 싶었는데", "explanation": "살다 (活著) + -고 싶다 (想) 的過去式 + -는데 (轉折)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1 (Tablo)",
+      "korean": "너 원래 이랬녜, 늘 가시 돋친 내게",
+      "translation": "你問我「你本來就這樣嗎」，對著總是滿身是刺的我",
+      "analysis": [
+        { "point": "너 원래 이랬녜", "explanation": "너 (你) + 원래 (本來) + 이렇다 (這樣) 的過去式 + -냬 (-냐고 해 的縮略，間接引述疑問句)。" },
+        { "point": "늘 가시 돋친 내게", "explanation": "늘 (總是) + 가시 돋치다 (長刺) 的過去定語形態 + 내게 (對我)。" }
+      ]
+    },
+    {
+      "korean": "다가서기 두렵다는 너도 잘 알 텐데",
+      "translation": "說著靠近我很可怕的你 明明應該也很清楚",
+      "analysis": [
+        { "point": "다가서기 두렵다는", "explanation": "다가서다 (靠近) 的名詞形 + 두렵다 (害怕) + -다는 (間接引述)。" },
+        { "point": "너도 잘 알 텐데", "explanation": "너도 (你也) + 잘 알다 (很清楚) + -(으)ㄹ 텐데 (推測語氣的轉折)。" }
+      ]
+    },
+    {
+      "korean": "세상이 내게 삼키게 했던 가시 수백 개를",
+      "translation": "世界曾讓我吞下的數百根刺",
+      "analysis": [
+        { "point": "세상이 내게 삼키게 했던", "explanation": "세상 (世界) + -이 (主格) + 내게 (讓我) + 삼키다 (吞下) 的使動態過去定語形態。" },
+        { "point": "가시 수백 개를", "explanation": "가시 (刺) + 수백 개 (數百根) + -를 (受格)。" }
+      ]
+    },
+    {
+      "korean": "몸 밖으로 밀어내다 선인장이 됐네",
+      "translation": "把它們推出體外後 卻成了仙人掌",
+      "analysis": [
+        { "point": "몸 밖으로", "explanation": "몸 (身體) + 밖 (外面) + -(으)로 (方向)。" },
+        { "point": "밀어내다", "explanation": "밀어내다 (推出) 的連接形。" },
+        { "point": "선인장이 됐네", "explanation": "선인장 (仙人掌) + -이 (主格) + 되다 (變成) 的過去式 + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "I hate me more than you could ever",
+      "translation": "我比你所能想像的更討厭我自己",
+      "analysis": [
+        { "point": "I hate me more than you could ever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "답 없는 놈일 수밖에, 난 나란 게 문제며",
+      "translation": "只能是個無解的傢伙，我本身就是個問題",
+      "analysis": [
+        { "point": "답 없는 놈일 수밖에", "explanation": "답 없는 놈 (無解的傢伙) + -이다 + -(으)ㄹ 수밖에 없다 (只能是...)。" },
+        { "point": "난 나란 게 문제며", "explanation": "나는 (我) + 나라는 것이 (我這件事) + 문제 (問題) + -(이)며 (並且)。" }
+      ]
+    },
+    {
+      "korean": "그래 너 말대로 병이니까",
+      "translation": "是啊 就像你說的 因為是病",
+      "analysis": [
+        { "point": "그래 너 말대로", "explanation": "그래 (是啊) + 너 (你) + 말대로 (照...說的)。" },
+        { "point": "병이니까", "explanation": "병 (病) + -이니까 (因為是...)。" }
+      ]
+    },
+    {
+      "korean": "꽃을 담아도 툭 치면 조각나버릴 운명이니까, 가",
+      "translation": "因為是即使盛裝著花 只要輕輕一碰就會破碎的命運，走吧",
+      "analysis": [
+        { "point": "꽃을 담아도", "explanation": "꽃 (花) + -을 (受格) + 담다 (盛裝) + -아도 (即使)。" },
+        { "point": "툭 치면", "explanation": "툭 (擬聲詞，輕碰) + 치다 (觸碰) + -(으)면。" },
+        { "point": "조각나버릴 운명이니까", "explanation": "조각나다 (破碎) + -어 버리다 (徹底) + -(으)ㄹ 운명 (將...的命運) + -이니까。" },
+        { "point": "가", "explanation": "가다 (走) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "알잖아 난 감정이 고장 나",
+      "translation": "你知道的不是嗎 我的感情故障了",
+      "analysis": [
+        { "point": "알잖아", "explanation": "알다 (知道) + -잖아 (表確認)。" },
+        { "point": "난 감정이 고장 나", "explanation": "나는 (我) + 감정 (感情) + -이 (主格) + 고장 나다 (故障)。" }
+      ]
+    },
+    {
+      "korean": "황폐한 마음엔 흔한 사랑 한 포기 못 자라",
+      "translation": "在荒蕪的心中 連一株尋常的愛都無法生長",
+      "analysis": [
+        { "point": "황폐한 마음엔", "explanation": "황폐하다 (荒廢) 的定語形態 + 마음 (心) + -엔 (-에는)。" },
+        { "point": "흔한 사랑 한 포기", "explanation": "흔하다 (常見的) 定語形態 + 사랑 (愛) + 한 포기 (一株)。" },
+        { "point": "못 자라", "explanation": "못 (無法) + 자라다 (生長)。" }
+      ]
+    },
+    {
+      "korean": "늘 네게 무심했던 나와",
+      "translation": "總是對你漠不關心的我",
+      "analysis": [
+        { "point": "늘 네게 무심했던", "explanation": "늘 (總是) + 네게 (對你) + 무심하다 (漠不關心) 的過去定語形態。" },
+        { "point": "나와", "explanation": "나 (我) + -와 (和)。" }
+      ]
+    },
+    {
+      "korean": "목마른 관심에 지친 넌 눈물 삼켰잖아",
+      "translation": "和因渴求關心而疲憊的你 不是吞下了眼淚嗎",
+      "analysis": [
+        { "point": "목마른 관심에 지친 넌", "explanation": "목마르다 (口渴的) 定語形態 + 관심 (關心) + -에 (格助詞) + 지치다 (疲憊) 的過去定語形態 + 너는 (你)。" },
+        { "point": "눈물 삼켰잖아", "explanation": "눈물 (眼淚) + 삼키다 (吞下) 的過去式 + -잖아。" }
+      ]
+    },
+    {
+      "korean": "네 눈물 빼고 슬픔을 더해",
+      "translation": "除去你的眼淚 增添了悲傷",
+      "analysis": [
+        { "point": "네 눈물 빼고", "explanation": "네 (你的) + 눈물 (眼淚) + 빼다 (除去) + -고。" },
+        { "point": "슬픔을 더해", "explanation": "슬픔 (悲傷) + -을 (受格) + 더하다 (增添)。" }
+      ]
+    },
+    {
+      "korean": "늘 파도치던 너의 눈빛 속에",
+      "translation": "總是在波濤洶湧的你的眼神中",
+      "analysis": [
+        { "point": "늘 파도치던", "explanation": "늘 (總是) + 파도치다 (波濤洶湧) + -던 (過去回想)。" },
+        { "point": "너의 눈빛 속에", "explanation": "너의 (你的) + 눈빛 (眼神) + 속에 (裡面)。" }
+      ]
+    },
+    {
+      "korean": "담겼던 미움도 이젠 날 동정해",
+      "translation": "曾盛裝著的憎恨 如今也同情我",
+      "analysis": [
+        { "point": "담겼던 미움도", "explanation": "담기다 (被盛裝) 的過去定語形態 + 미움 (憎恨) + -도 (也)。" },
+        { "point": "이젠 날 동정해", "explanation": "이젠 (如今) + 나를 (我) + 동정하다 (同情)。" }
+      ]
+    },
+    {
+      "korean": "왜 네가 나를 걱정해? 원래 엉망인 나였잖아",
+      "translation": "為何你要擔心我？我本來就是個一團糟的人不是嗎",
+      "analysis": [
+        { "point": "왜 네가 나를 걱정해?", "explanation": "왜 (為何) + 네가 (你) + 나를 (我) + 걱정하다 (擔心)。" },
+        { "point": "원래 엉망인 나였잖아", "explanation": "원래 (本來) + 엉망이다 (一團糟) 的定語形態 + 나 (我) + -이다 的過去式 + -잖아。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Younha)",
+      "korean": "내가 못된 것만 배워서 그래",
+      "translation": "是啊 因為我只學會了壞的",
+      "analysis": [
+        { "point": "내가 못된 것만 배워서 그래", "explanation": "내가 (我) + 못되다 (壞的) 定語形態 + 것 (事物) + -만 (只) + 배우다 (學習) + -어서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "못된 짓만 골라서 했네",
+      "translation": "只挑著壞事來做呢",
+      "analysis": [
+        { "point": "못된 짓만 골라서 했네", "explanation": "못되다 (壞的) 定語形態 + 짓 (行為) + -만 (只) + 고르다 (挑選) + -아서 + 하다 (做) 的過去式 + -네。" }
+      ]
+    },
+    {
+      "korean": "이런 내가 미워 나도",
+      "translation": "我也討厭這樣的我",
+      "analysis": [
+        { "point": "이런 내가", "explanation": "이렇다 (這樣的) 定語形態 + 내가 (我)。" },
+        { "point": "미워", "explanation": "밉다 (討厭) 的非格式體。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "착하게 살고 싶었는데",
+      "translation": "也曾想善良地活著，但是",
+      "analysis": [
+        { "point": "착하게", "explanation": "착하다 (善良) 的副詞形。" },
+        { "point": "살고 싶었는데", "explanation": "살다 (活著) + -고 싶다 (想) 的過去式 + -는데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "너무 많이 다쳐서 그래",
+      "translation": "是啊 因為受了太多傷",
+      "analysis": [
+        { "point": "너무 많이 다쳐서 그래", "explanation": "너무 (太) + 많이 (多) + 다치다 (受傷) + -어서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "너무 많이 속아서 그래",
+      "translation": "是啊 因為被騙了太多次",
+      "analysis": [
+        { "point": "너무 많이 속아서 그래", "explanation": "너무 (太) + 많이 (多) + 속다 (被騙) + -아서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "나도 이러긴 싫어, 웃고 싶어",
+      "translation": "我也不想這樣，想要微笑",
+      "analysis": [
+        { "point": "나도 이러긴 싫어", "explanation": "나도 (我也) + 이러하기는 (這樣是) 的縮略 + 싫다 (討厭)。" },
+        { "point": "웃고 싶어", "explanation": "웃다 (笑) + -고 싶다 (想)。" }
+      ]
+    },
+    {
+      "korean": "근데 그게 잘 안 돼, 안 돼",
+      "translation": "但那卻做不太到，做不到",
+      "analysis": [
+        { "point": "근데", "explanation": "그런데 (但是) 的縮略。" },
+        { "point": "그게 잘 안 돼", "explanation": "그것이 (那個) + 잘 (好好地) + 안 되다 (不行)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Tablo)",
+      "korean": "내게 진 어둠이",
+      "translation": "我所背負的黑暗",
+      "analysis": [
+        { "point": "내게 진 어둠이", "explanation": "내게 (在我身上) + 지다 (背負) 的過去定語形態 + 어둠 (黑暗) + -이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "너의 미래조차 검게 물들일까 봐 두려워서 (그래)",
+      "translation": "害怕連你的未來都會染黑 (是啊)",
+      "analysis": [
+        { "point": "너의 미래조차", "explanation": "너의 (你的) + 미래 (未來) + -조차 (連...都)。" },
+        { "point": "검게 물들일까 봐", "explanation": "검게 (黑地) + 물들이다 (渲染) + -(으)ㄹ까 봐 (擔心會...)。" },
+        { "point": "두려워서", "explanation": "두렵다 (害怕) + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "나는 상처받는 게",
+      "translation": "我啊，受傷這件事",
+      "analysis": [
+        { "point": "나는 상처받는 게", "explanation": "나는 (我) + 상처받다 (受傷) 的定語形態 + 게 (것이)。" }
+      ]
+    },
+    {
+      "korean": "죽도록 싫어 받기 전에 상처를 주는 놈이어서 (그래)",
+      "translation": "討厭得要死 所以是在受到傷害前就先傷害別人的傢伙 (是啊)",
+      "analysis": [
+        { "point": "죽도록 싫어", "explanation": "죽도록 (要死地) + 싫다 (討厭)。" },
+        { "point": "받기 전에", "explanation": "받다 (受到) 的名詞形 + 전에 (之前)。" },
+        { "point": "상처를 주는 놈이어서", "explanation": "상처를 주다 (給予傷害) 的定語形態 + 놈 (傢伙) + -이다 + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "결국 내 외로움에 이유는 전부 난데",
+      "translation": "結果我孤獨的理由全都是因為我，但是",
+      "analysis": [
+        { "point": "결국 내 외로움에 이유는", "explanation": "결국 (結果) + 내 (我的) + 외로움 (孤獨) + -에 (格助詞) + 이유 (理由) + -는。" },
+        { "point": "전부 난데", "explanation": "전부 (全部) + 나 (我) + -이다 + -ㄴ데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "난 자꾸 탓을 돌려 너와 세상에게 묻네",
+      "translation": "我卻總是歸咎於你和世界，質問著",
+      "analysis": [
+        { "point": "난 자꾸 탓을 돌려", "explanation": "나는 (我) + 자꾸 (總是) + 탓을 돌리다 (歸咎)。" },
+        { "point": "너와 세상에게 묻네", "explanation": "너와 (和你) + 세상에게 (向世界) + 묻다 (質問) + -네。" }
+      ]
+    },
+    {
+      "korean": "꽉 잡았던 네 손도 놓아줄 테니 떠나",
+      "translation": "曾緊握的你的手我也會放開的，所以走吧",
+      "analysis": [
+        { "point": "꽉 잡았던 네 손도", "explanation": "꽉 (緊緊地) + 잡다 (抓住) 的過去定語形態 + 네 (你的) + 손 (手) + -도。" },
+        { "point": "놓아줄 테니 떠나", "explanation": "놓아주다 (放開) + -(으)ㄹ 테니 (因為將會...) + 떠나다 (離開) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "원망보다 남은 미련이 클 때",
+      "translation": "在剩下的迷戀比怨恨更大的時候",
+      "analysis": [
+        { "point": "원망보다", "explanation": "원망 (怨恨) + -보다 (比)。" },
+        { "point": "남은 미련이", "explanation": "남다 (剩下) 的過去定語形態 + 미련 (迷戀) + -이 (主格)。" },
+        { "point": "클 때", "explanation": "크다 (大) 的定語形態 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 몰라서 그래, 그래, 어렸을 때",
+      "translation": "是啊 因為不懂愛，是啊，小時候",
+      "analysis": [
+        { "point": "사랑을 몰라서 그래", "explanation": "사랑을 모르다 (不懂愛) + -아서 (因為) + 그래。" },
+        { "point": "어렸을 때", "explanation": "어리다 (年幼) 的過去定語形態 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "뺏기는 법만 배워 능숙히 못 받아 그래",
+      "translation": "只學會被搶走的方法 所以無法熟練地接受",
+      "analysis": [
+        { "point": "뺏기는 법만 배워", "explanation": "뺏기다 (被搶走) 的定語形態 + 법 (方法) + -만 (只) + 배우다 (學習)。" },
+        { "point": "능숙히 못 받아 그래", "explanation": "능숙히 (熟練地) + 못 받다 (無法接受) + 그래。" }
+      ]
+    },
+    {
+      "korean": "겁이 나서 그래 눈감아줄 때마저",
+      "translation": "是啊 因為害怕 連你睜一隻眼閉一隻眼的時候也",
+      "analysis": [
+        { "point": "겁이 나서 그래", "explanation": "겁이 나다 (害怕) + -아서 + 그래。" },
+        { "point": "눈감아줄 때마저", "explanation": "눈감아주다 (睜一隻眼閉一隻眼) 的定語形態 + 때 (時候) + -마저 (連...都)。" }
+      ]
+    },
+    {
+      "korean": "못 볼 것을 너무 많이 봐서 그래",
+      "translation": "是啊 因為看了太多不該看的東西",
+      "analysis": [
+        { "point": "못 볼 것을", "explanation": "못 보다 (無法看) 的定語形態 + 것을 (東西)。" },
+        { "point": "너무 많이 봐서 그래", "explanation": "너무 많이 (非常多) + 보다 (看) + -아서 + 그래。" }
+      ]
+    },
+    {
+      "korean": "다 변명인데, 가진 것을 다 준다 했지?",
+      "translation": "全都是藉口，說過會給予擁有的一切，對吧？",
+      "analysis": [
+        { "point": "다 변명인데", "explanation": "다 (全部) + 변명 (藉口) + -이다 + -ㄴ데。" },
+        { "point": "가진 것을 다 준다 했지?", "explanation": "가지다 (擁有) 的過去定語形態 + 것을 + 다 주다 (全都給予) + -고 했다 (說過) + -지? (疑問)。" }
+      ]
+    },
+    {
+      "korean": "약속대로 내 모든 상처를 주네",
+      "translation": "照約定地 給了你我所有的傷口",
+      "analysis": [
+        { "point": "약속대로", "explanation": "약속 (約定) + -대로 (照著)。" },
+        { "point": "내 모든 상처를 주네", "explanation": "내 (我的) + 모든 (所有) + 상처 (傷口) + -를 (受格) + 주다 (給予) + -네。" }
+      ]
+    },
+    {
+      "korean": "\"사람이 어떻게 그래?\"",
+      "translation": "「人怎麼能那樣？」",
+      "analysis": [
+        { "point": "사람이 어떻게 그래?", "explanation": "사람이 (人) + 어떻게 (怎麼能) + 그렇다 (那樣)。" }
+      ]
+    },
+    {
+      "korean": "사람이라서 그래",
+      "translation": "因為是人才能那樣",
+      "analysis": [
+        { "point": "사람이라서 그래", "explanation": "사람 (人) + -이라서 (因為是) + 그래。" }
+      ]
+    },
+    {
+      "korean": "내 불안한 마음도",
+      "translation": "我不安的心也是",
+      "analysis": [
+        { "point": "내 불안한 마음도", "explanation": "내 (我的) + 불안하다 (不安的) 定語形態 + 마음 (心) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "위태로운 모습도 미안해",
+      "translation": "岌岌可危的模樣也對不起",
+      "analysis": [
+        { "point": "위태로운 모습도", "explanation": "위태롭다 (岌岌可危) 的定語形態 + 모습 (模樣) + -도 (也)。" },
+        { "point": "미안해", "explanation": "미안하다 (對不起)。" }
+      ]
+    },
+    {
+      "korean": "다 미안해",
+      "translation": "全部都對不起",
+      "analysis": [
+        { "point": "다 미안해", "explanation": "다 (全部) + 미안하다 (對不起)。" }
+      ]
+    },
+    {
+      "korean": "이런 날 용서해줘",
+      "translation": "請原諒這樣的我",
+      "analysis": [
+        { "point": "이런 날", "explanation": "이렇다 (這樣的) 定語形態 + 나를 (我)。" },
+        { "point": "용서해줘", "explanation": "용서하다 (原諒) + -어 주다 的命令形。" }
+      ]
+    },
+    {
+      "korean": "내 마음이 내 마음대로 잘 안 돼",
+      "translation": "我的心無法隨我心意",
+      "analysis": [
+        { "point": "내 마음이", "explanation": "내 (我的) + 마음 (心) + -이 (主格)。" },
+        { "point": "내 마음대로", "explanation": "내 마음대로 (隨我心意)。" },
+        { "point": "잘 안 돼", "explanation": "잘 (好好地) + 안 되다 (不行)。" }
+      ]
+    },
+    {
+      "korean": "좀 기댈 게",
+      "translation": "讓我稍微依靠一下",
+      "analysis": [
+        { "point": "좀", "explanation": "조금 (稍微) 的縮略。" },
+        { "point": "기댈 게", "explanation": "기대다 (依靠) + -(으)ㄹ게 (表示意圖)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Younha)",
+      "korean": "내가 못된 것만 배워서 그래",
+      "translation": "是啊 因為我只學會了壞的",
+      "analysis": [
+        { "point": "내가 못된 것만 배워서 그래", "explanation": "내가 (我) + 못되다 (壞的) 定語形態 + 것 (事物) + -만 (只) + 배우다 (學習) + -어서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "못된 짓만 골라서 했네",
+      "translation": "只挑著壞事來做呢",
+      "analysis": [
+        { "point": "못된 짓만 골라서 했네", "explanation": "못되다 (壞的) 定語形態 + 짓 (行為) + -만 (只) + 고르다 (挑選) + -아서 + 하다 (做) 的過去式 + -네。" }
+      ]
+    },
+    {
+      "korean": "이런 내가 미워 나도",
+      "translation": "我也討厭這樣的我",
+      "analysis": [
+        { "point": "이런 내가", "explanation": "이렇다 (這樣的) 定語形態 + 내가 (我)。" },
+        { "point": "미워", "explanation": "밉다 (討厭) 的非格式體。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "착하게 살고 싶었는데",
+      "translation": "也曾想善良地活著，但是",
+      "analysis": [
+        { "point": "착하게", "explanation": "착하다 (善良) 的副詞形。" },
+        { "point": "살고 싶었는데", "explanation": "살다 (活著) + -고 싶다 (想) 的過去式 + -는데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "너무 많이 다쳐서 그래",
+      "translation": "是啊 因為受了太多傷",
+      "analysis": [
+        { "point": "너무 많이 다쳐서 그래", "explanation": "너무 (太) + 많이 (多) + 다치다 (受傷) + -어서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "너무 많이 속아서 그래",
+      "translation": "是啊 因為被騙了太多次",
+      "analysis": [
+        { "point": "너무 많이 속아서 그래", "explanation": "너무 (太) + 많이 (多) + 속다 (被騙) + -아서 (因為) + 그래 (是那樣)。" }
+      ]
+    },
+    {
+      "korean": "나도 이러긴 싫어, 웃고 싶어",
+      "translation": "我也不想這樣，想要微笑",
+      "analysis": [
+        { "point": "나도 이러긴 싫어", "explanation": "나도 (我也) + 이러하기는 (這樣是) 的縮略 + 싫다 (討厭)。" },
+        { "point": "웃고 싶어", "explanation": "웃다 (笑) + -고 싶다 (想)。" }
+      ]
+    },
+    {
+      "korean": "근데 그게 잘 안 돼",
+      "translation": "但那卻做不太到",
+      "analysis": [
+        { "point": "근데", "explanation": "그런데 (但是) 的縮略。" },
+        { "point": "그게 잘 안 돼", "explanation": "그것이 (那個) + 잘 (好好地) + 안 되다 (不行)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "사랑을 잘 몰라서",
+      "translation": "因為不太懂愛",
+      "analysis": [
+        { "point": "사랑을 잘 몰라서", "explanation": "사랑을 모르다 (不懂愛) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "아직도 잘 몰라서",
+      "translation": "因為至今仍不太懂",
+      "analysis": [
+        { "point": "아직도 잘 몰라서", "explanation": "아직도 (仍然) + 잘 모르다 (不太懂) + -아서。" }
+      ]
+    },
+    {
+      "korean": "그래서 그래 (그래)",
+      "translation": "所以才那樣 (是啊)",
+      "analysis": [
+        { "point": "그래서 그래", "explanation": "그래서 (所以) + 그렇다 (那樣)。" }
+      ]
+    },
+    {
+      "korean": "그래서 그래 (그래)",
+      "translation": "所以才那樣 (是啊)",
+      "analysis": [
+        { "point": "그래서 그래", "explanation": "그래서 (所以) + 그렇다 (那樣)。" }
+      ]
+    },
+    {
+      "korean": "네 마음을 잘 몰라서",
+      "translation": "因為不太懂你的心",
+      "analysis": [
+        { "point": "네 마음을 잘 몰라서", "explanation": "네 (你的) + 마음을 모르다 (不懂心意) + -아서。" }
+      ]
+    },
+    {
+      "korean": "내 마음도 잘 몰라서",
+      "translation": "也不太懂我的心",
+      "analysis": [
+        { "point": "내 마음도 잘 몰라서", "explanation": "내 (我的) + 마음도 모르다 (也不懂心意) + -아서。" }
+      ]
+    },
+    {
+      "korean": "그래서 그래",
+      "translation": "所以才那樣",
+      "analysis": [
+        { "point": "그래서 그래", "explanation": "그래서 (所以) + 그렇다 (那樣)。" }
+      ]
+    },
+    {
+      "korean": "내가 나라서 그래",
+      "translation": "是啊 因為我就是我",
+      "analysis": [
+        { "point": "내가 나라서 그래", "explanation": "내가 (我) + 나 (我) + -이라서 (因為是) + 그래。" }
+      ]
+    },
+    {
+      "korean": "살기 위해",
+      "translation": "為了活下去",
+      "analysis": [
+        { "point": "살기 위해", "explanation": "살다 (活) 的名詞形 + -기 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "웃기 위해",
+      "translation": "為了笑",
+      "analysis": [
+        { "point": "웃기 위해", "explanation": "웃다 (笑) 的名詞形 + -기 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "나를 위해",
+      "translation": "為了我",
+      "analysis": [
+        { "point": "나를 위해", "explanation": "나를 (我) + 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "그랬어",
+      "translation": "才那樣做了",
+      "analysis": [
+        { "point": "그랬어", "explanation": "그렇다 (那樣做) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "살기 위해",
+      "translation": "為了活下去",
+      "analysis": [
+        { "point": "살기 위해", "explanation": "살다 (活) 的名詞形 + -기 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "웃기 위해",
+      "translation": "為了笑",
+      "analysis": [
+        { "point": "웃기 위해", "explanation": "웃다 (笑) 的名詞形 + -기 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "다 너를 위해",
+      "translation": "全都為了你",
+      "analysis": [
+        { "point": "다 너를 위해", "explanation": "다 (全部) + 너를 (你) + 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "그랬어",
+      "translation": "才那樣做了",
+      "analysis": [
+        { "point": "그랬어", "explanation": "그렇다 (那樣做) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "그랬어",
+      "translation": "才那樣做了",
+      "analysis": [
+        { "point": "그랬어", "explanation": "그렇다 (那樣做) 的過去式。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "못되다", "chinese": "壞的、惡劣的", "pos": "形容詞" },
+    { "korean": "배우다", "chinese": "學習", "pos": "動詞" },
+    { "korean": "짓", "chinese": "行為、勾當", "pos": "名詞" },
+    { "korean": "고르다", "chinese": "挑選", "pos": "動詞" },
+    { "korean": "밉다", "chinese": "討厭、可惡", "pos": "形容詞" },
+    { "korean": "착하다", "chinese": "善良", "pos": "形容詞" },
+    { "korean": "가시 돋치다", "chinese": "長刺、帶刺", "pos": "片語" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "삼키다", "chinese": "吞下", "pos": "動詞" },
+    { "korean": "밀어내다", "chinese": "推出", "pos": "動詞" },
+    { "korean": "선인장", "chinese": "仙人掌", "pos": "名詞" },
+    { "korean": "고장 나다", "chinese": "故障", "pos": "片語" },
+    { "korean": "황폐하다", "chinese": "荒廢、荒蕪", "pos": "形容詞" },
+    { "korean": "무심하다", "chinese": "漠不關心", "pos": "形容詞" },
+    { "korean": "목마르다", "chinese": "口渴、渴望", "pos": "形容詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "미움", "chinese": "憎恨", "pos": "名詞" },
+    { "korean": "동정하다", "chinese": "同情", "pos": "動詞" },
+    { "korean": "엉망이다", "chinese": "一團糟", "pos": "形容詞" },
+    { "korean": "다치다", "chinese": "受傷", "pos": "動詞" },
+    { "korean": "속다", "chinese": "被騙", "pos": "動詞" },
+    { "korean": "물들이다", "chinese": "渲染、染色", "pos": "動詞" },
+    { "korean": "외로움", "chinese": "孤獨", "pos": "名詞" },
+    { "korean": "탓을 돌리다", "chinese": "歸咎", "pos": "片語" },
+    { "korean": "놓아주다", "chinese": "放開", "pos": "動詞" },
+    { "korean": "원망", "chinese": "怨恨", "pos": "名詞" },
+    { "korean": "미련", "chinese": "迷戀、留戀", "pos": "名詞" },
+    { "korean": "뺏기다", "chinese": "被搶走", "pos": "動詞" },
+    { "korean": "능숙히", "chinese": "熟練地", "pos": "副詞" },
+    { "korean": "눈감아주다", "chinese": "睜一隻眼閉一隻眼", "pos": "動詞" },
+    { "korean": "변명", "chinese": "藉口", "pos": "名詞" },
+    { "korean": "위태롭다", "chinese": "岌岌可危", "pos": "形容詞" },
+    { "korean": "용서하다", "chinese": "原諒", "pos": "動詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" }
+  ]
+}

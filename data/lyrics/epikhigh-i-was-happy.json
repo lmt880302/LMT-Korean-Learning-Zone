@@ -1,0 +1,346 @@
+{
+  "id": "epikhigh-i-was-happy",
+  "title": "행복했습니다 (I Was Happy)",
+  "artist": "Epik High (에픽하이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1 (Tablo)",
+      "korean": "난 여기까지 접질린 발목으로 달려왔지",
+      "translation": "我用扭傷的腳踝一路跑到這裡",
+      "analysis": [
+        { "point": "난 여기까지", "explanation": "나는 (我) + 여기까지 (到這裡)。" },
+        { "point": "접질린 발목으로", "explanation": "접질리다 (扭傷) 的過去定語形態 + 발목 (腳踝) + -(으)로 (用)。" },
+        { "point": "달려왔지", "explanation": "달려오다 (跑過來) 的過去式 + -지 (終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "세상 그 무엇도 당연하지 않았던 난 버림받은 길고양이",
+      "translation": "對世上任何事都並非理所當然的我 是隻被拋棄的流浪貓",
+      "analysis": [
+        { "point": "세상 그 무엇도", "explanation": "세상 (世界) + 그 무엇도 (任何事物也)。" },
+        { "point": "당연하지 않았던 난", "explanation": "당연하다 (當然的) 的否定過去定語形態 + 나는 (我)。" },
+        { "point": "버림받은 길고양이", "explanation": "버림받다 (被拋棄) 的過去定語形態 + 길고양이 (流浪貓)。" }
+      ]
+    },
+    {
+      "korean": "난 고향이 없는 거지",
+      "translation": "我是沒有故鄉的人啊",
+      "analysis": [
+        { "point": "난 고향이 없는 거지", "explanation": "나는 (我) + 고향 (故鄉) + -이 (主格) + 없다 (沒有) 的定語形態 + 것이지 (是...啊)。" }
+      ]
+    },
+    {
+      "korean": "어린 시절 외국에선 검은 머리 때문에",
+      "translation": "小時候在國外 因為黑頭髮",
+      "analysis": [
+        { "point": "어린 시절 외국에선", "explanation": "어린 시절 (小時候) + 외국 (外國) + -에서는 (在)。" },
+        { "point": "검은 머리 때문에", "explanation": "검다 (黑的) 定語形態 + 머리 (頭髮) + 때문에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "다들 손가락질했는데",
+      "translation": "大家都對我指指點點",
+      "analysis": [
+        { "point": "다들 손가락질했는데", "explanation": "다들 (大家) + 손가락질하다 (指指點點) 的過去式 + -는데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "여기선 검은 머리 외국인이라네 ha",
+      "translation": "在這裡卻說是黑髮的外國人呢 ha",
+      "analysis": [
+        { "point": "여기선", "explanation": "여기서는 (在這裡) 的縮略。" },
+        { "point": "검은 머리 외국인이라네", "explanation": "검은 머리 (黑髮) + 외국인 (外國人) + -(이)라고 하네 (說是...)。" }
+      ]
+    },
+    {
+      "korean": "내가 왜 미안해",
+      "translation": "我為什麼要抱歉",
+      "analysis": [
+        { "point": "내가 왜 미안해", "explanation": "내가 (我) + 왜 (為何) + 미안하다 (抱歉)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "늘 냉정과 열정 그 사이",
+      "translation": "總是在冷靜與熱情之間",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "냉정과 열정", "explanation": "냉정 (冷靜) + -과 (和) + 열정 (熱情)。" },
+        { "point": "그 사이", "explanation": "그 (那) + 사이 (之間)。" }
+      ]
+    },
+    {
+      "korean": "늘 증명과 증명 그 사이",
+      "translation": "總是在證明與證明之間",
+      "analysis": [
+        { "point": "늘 증명과 증명", "explanation": "늘 (總是) + 증명 (證明) + -과 (和) + 증명 (證明)。" },
+        { "point": "그 사이", "explanation": "그 (那) + 사이 (之間)。" }
+      ]
+    },
+    {
+      "korean": "I know that you want me to lie",
+      "translation": "我知道你要我說謊",
+      "analysis": [
+        { "point": "I know that you want me to lie", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I know that you want me to die",
+      "translation": "我知道你要我去死",
+      "analysis": [
+        { "point": "I know that you want me to die", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "늘 냉정과 열정 그 사이",
+      "translation": "總是在冷靜與熱情之間",
+      "analysis": [
+        { "point": "늘 냉정과 열정 그 사이", "explanation": "總是 + 冷靜和熱情 + 那之間。" }
+      ]
+    },
+    {
+      "korean": "늘 증명과 증명 그 사이",
+      "translation": "總是在證明與證明之間",
+      "analysis": [
+        { "point": "늘 증명과 증명 그 사이", "explanation": "總是 + 證明和證明 + 那之間。" }
+      ]
+    },
+    {
+      "korean": "그립다는 말은 하지 마라",
+      "translation": "不要說想念的話",
+      "analysis": [
+        { "point": "그립다는 말은", "explanation": "그립다 (想念) + -다는 (間接引述) + 말 (話) + -은。" },
+        { "point": "하지 마라", "explanation": "하다 (說) + -지 마라 (不要)。" }
+      ]
+    },
+    {
+      "korean": "When it's time for me to say goodbye, yeah",
+      "translation": "當到了我該說再見的時候, yeah",
+      "analysis": [
+        { "point": "When it's time for me to say goodbye, yeah", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나 잘한 거죠?",
+      "translation": "我做得很好吧？",
+      "analysis": [
+        { "point": "나 잘한 거죠?", "explanation": "나 (我) + 잘하다 (做得好) 的過去定語形態 + 것이죠? (是...吧？)。" }
+      ]
+    },
+    {
+      "korean": "이게 맞는 거죠?",
+      "translation": "這樣是對的吧？",
+      "analysis": [
+        { "point": "이게 맞는 거죠?", "explanation": "이것이 (這個) + 맞다 (對的) 定語形態 + 것이죠? (是...吧？)。" }
+      ]
+    },
+    {
+      "korean": "'Cause I just can't feel anything (anything)",
+      "translation": "因為我什麼都感覺不到了 (任何事)",
+      "analysis": [
+        { "point": "'Cause I just can't feel anything", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "나 잘한 거죠?",
+      "translation": "我做得很好吧？",
+      "analysis": [
+        { "point": "나 잘한 거죠?", "explanation": "나 (我) + 잘하다 (做得好) 的過去定語形態 + 것이죠? (是...吧？)。" }
+      ]
+    },
+    {
+      "korean": "이게 행복인 거죠?",
+      "translation": "這就是幸福吧？",
+      "analysis": [
+        { "point": "이게 행복인 거죠?", "explanation": "이것이 (這個) + 행복 (幸福) + -인 것이죠? (是...吧？)。" }
+      ]
+    },
+    {
+      "korean": "'Cause I just can't feel anything",
+      "translation": "因為我什麼都感覺不到了",
+      "analysis": [
+        { "point": "'Cause I just can't feel anything", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Mithra Jin)",
+      "korean": "위험한 길과 막연한 길",
+      "translation": "危險的路和渺茫的路",
+      "analysis": [
+        { "point": "위험한 길과", "explanation": "위험하다 (危險的) 定語形態 + 길 (路) + -과 (和)。" },
+        { "point": "막연한 길", "explanation": "막연하다 (渺茫的) 定語形態 + 길 (路)。" }
+      ]
+    },
+    {
+      "korean": "가리지 않고 난 달려왔지",
+      "translation": "不加選擇地 我一路跑來",
+      "analysis": [
+        { "point": "가리지 않고", "explanation": "가리다 (挑選、區分) + -지 않고 (不...)。" },
+        { "point": "난 달려왔지", "explanation": "나는 (我) + 달려오다 (跑過來) 的過去式 + -지。" }
+      ]
+    },
+    {
+      "korean": "불편한 감정들 멋쩍은 미소로 감춰왔지",
+      "translation": "不便的情感 用尷尬的微笑一路隱藏過來",
+      "analysis": [
+        { "point": "불편한 감정들", "explanation": "불편하다 (不便的) 定語形態 + 감정 (情感) + -들 (複數)。" },
+        { "point": "멋쩍은 미소로", "explanation": "멋쩍다 (尷尬的) 定語形態 + 미소 (微笑) + -(으)로 (用)。" },
+        { "point": "감춰왔지", "explanation": "감춰오다 (一路隱藏過來) 的過去式 + -지。" }
+      ]
+    },
+    {
+      "korean": "가면 같지 무표정한 얼굴을 발견하지",
+      "translation": "發現了像面具一樣面無表情的臉孔",
+      "analysis": [
+        { "point": "가면 같지", "explanation": "가면 (面具) + 같다 (像) + -지。" },
+        { "point": "무표정한 얼굴을", "explanation": "무표정하다 (面無表情的) 定語形態 + 얼굴 (臉) + -을 (受格)。" },
+        { "point": "발견하지", "explanation": "발견하다 (發現) + -지。" }
+      ]
+    },
+    {
+      "korean": "상처받기, 삼자들 눈에만 당연한 일",
+      "translation": "受傷，只是在第三者眼中理所當然的事",
+      "analysis": [
+        { "point": "상처받기", "explanation": "상처받다 (受傷) 的名詞形。" },
+        { "point": "삼자들 눈에만", "explanation": "삼자 (第三者) + -들 (複數) + 눈 (眼睛) + -에만 (只在...中)。" },
+        { "point": "당연한 일", "explanation": "당연하다 (當然的) 定語形態 + 일 (事)。" }
+      ]
+    },
+    {
+      "korean": "하나같이 날 위해 시작한 일들",
+      "translation": "清一色都是為我而開始的事情",
+      "analysis": [
+        { "point": "하나같이", "explanation": "副詞，如出一轍地、清一色地。" },
+        { "point": "날 위해 시작한 일들", "explanation": "나를 위해 (為了我) + 시작하다 (開始) 的過去定語形態 + 일들 (事情們)。" }
+      ]
+    },
+    {
+      "korean": "어느새 남들의 시선에 맞춰가기도 바쁜 기분",
+      "translation": "不知不覺連迎合他人視線都忙不過來的心情",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "남들의 시선에 맞춰가기도", "explanation": "남들 (他人) + -의 (的) + 시선에 맞춰가다 (迎合視線) + -기도 (連...也)。" },
+        { "point": "바쁜 기분", "explanation": "바쁘다 (忙碌的) 定語形態 + 기분 (心情)。" }
+      ]
+    },
+    {
+      "korean": "익숙해 미소 짓는 것도 내 일이니",
+      "translation": "因為連微笑也是我的工作 所以習慣了",
+      "analysis": [
+        { "point": "익숙해", "explanation": "익숙하다 (習慣) 的非格式體。" },
+        { "point": "미소 짓는 것도", "explanation": "미소를 짓다 (微笑) 的定語形態 + 것도 (連...也)。" },
+        { "point": "내 일이니", "explanation": "내 (我的) + 일 (工作) + -이니 (因為是...)。" }
+      ]
+    },
+    {
+      "korean": "언제든 꺼낼 수 있지만 지금은 싫어",
+      "translation": "雖然隨時都能拿出來 但現在討厭",
+      "analysis": [
+        { "point": "언제든 꺼낼 수 있지만", "explanation": "언제든지 (隨時) + 꺼내다 (拿出) + -(으)ㄹ 수 있다 + -지만。" },
+        { "point": "지금은 싫어", "explanation": "지금 (現在) + -은 (主題) + 싫다 (討厭)。" }
+      ]
+    },
+    {
+      "korean": "기억이 나 스물인가?",
+      "translation": "還記得嗎 是二十歲嗎？",
+      "analysis": [
+        { "point": "기억이 나", "explanation": "기억이 나다 (記得)。" },
+        { "point": "스물인가?", "explanation": "스물 (二十) + -인가? (是...嗎？)。" }
+      ]
+    },
+    {
+      "korean": "내 꿈만 빛나던 어두운 지하",
+      "translation": "只有我的夢在閃耀的黑暗地下室",
+      "analysis": [
+        { "point": "내 꿈만 빛나던", "explanation": "내 (我的) + 꿈 (夢) + -만 (只) + 빛나다 (閃耀) + -던。" },
+        { "point": "어두운 지하", "explanation": "어둡다 (黑暗的) 定語形態 + 지하 (地下室)。" }
+      ]
+    },
+    {
+      "korean": "먼지 덮여 가지만 기억이나",
+      "translation": "雖然漸漸被塵埃覆蓋 但還記得",
+      "analysis": [
+        { "point": "먼지 덮여 가지만", "explanation": "먼지 (塵埃) + 덮이다 (被覆蓋) + -어 가다 (漸漸) + -지만。" },
+        { "point": "기억이나", "explanation": "기억이나 하다 (還是記得) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "서른 지나 행복이 뭐냐고 물었지만",
+      "translation": "過了三十問了幸福是什麼",
+      "analysis": [
+        { "point": "서른 지나", "explanation": "서른 (三十) + 지나다 (經過)。" },
+        { "point": "행복이 뭐냐고 물었지만", "explanation": "행복이 뭐냐고 묻다 (問幸福是什麼) 的過去式 + -지만。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Could you just let me, just let me",
+      "translation": "你能不能就讓我，就讓我",
+      "analysis": [
+        { "point": "Could you just let me, just let me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Stay in the dark (let me stay in the dark)",
+      "translation": "待在黑暗中 (讓我待在黑暗中)",
+      "analysis": [
+        { "point": "Stay in the dark", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "You're breakin', you're breakin'",
+      "translation": "你正在傷，你正在傷",
+      "analysis": [
+        { "point": "You're breakin'", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Breakin' my heart in two (you're breakin' my heart)",
+      "translation": "把我的心傷成兩半 (你正在傷我的心)",
+      "analysis": [
+        { "point": "Breakin' my heart in two", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "뭘 더 바래 내게, 나 어떡해야 돼",
+      "translation": "還對我期望什麼，我該怎麼辦",
+      "analysis": [
+        { "point": "뭘 더 바래 내게", "explanation": "무엇을 (什麼) + 더 (更) + 바라다 (期望) + 내게 (對我)。" },
+        { "point": "나 어떡해야 돼", "explanation": "나 (我) + 어떡해야 되다 (該怎麼辦)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "접질리다", "chinese": "扭傷", "pos": "動詞" },
+    { "korean": "발목", "chinese": "腳踝", "pos": "名詞" },
+    { "korean": "달려오다", "chinese": "跑過來", "pos": "動詞" },
+    { "korean": "당연하다", "chinese": "當然的", "pos": "形容詞" },
+    { "korean": "버림받다", "chinese": "被拋棄", "pos": "動詞" },
+    { "korean": "길고양이", "chinese": "流浪貓", "pos": "名詞" },
+    { "korean": "손가락질하다", "chinese": "指指點點", "pos": "動詞" },
+    { "korean": "냉정", "chinese": "冷靜", "pos": "名詞" },
+    { "korean": "열정", "chinese": "熱情", "pos": "名詞" },
+    { "korean": "증명", "chinese": "證明", "pos": "名詞" },
+    { "korean": "그립다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "행복", "chinese": "幸福", "pos": "名詞" },
+    { "korean": "위험하다", "chinese": "危險的", "pos": "形容詞" },
+    { "korean": "막연하다", "chinese": "渺茫的", "pos": "形容詞" },
+    { "korean": "가리다", "chinese": "挑選、區分", "pos": "動詞" },
+    { "korean": "감추다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "멋쩍다", "chinese": "尷尬的", "pos": "形容詞" },
+    { "korean": "가면", "chinese": "面具", "pos": "名詞" },
+    { "korean": "무표정하다", "chinese": "面無表情的", "pos": "形容詞" },
+    { "korean": "발견하다", "chinese": "發現", "pos": "動詞" },
+    { "korean": "상처받다", "chinese": "受傷", "pos": "動詞" },
+    { "korean": "삼자", "chinese": "第三者", "pos": "名詞" },
+    { "korean": "하나같이", "chinese": "如出一轍地", "pos": "副詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "맞춰가다", "chinese": "迎合", "pos": "動詞" },
+    { "korean": "익숙하다", "chinese": "習慣的", "pos": "形容詞" },
+    { "korean": "지하", "chinese": "地下", "pos": "名詞" },
+    { "korean": "먼지", "chinese": "塵埃", "pos": "名詞" },
+    { "korean": "덮이다", "chinese": "被覆蓋", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "期望", "pos": "動詞" }
+  ]
+}

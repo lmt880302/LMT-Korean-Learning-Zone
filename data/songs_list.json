@@ -86,11 +86,23 @@
     "lyricsFile": "../data/lyrics/epikhigh-love-story.json"
   },
     {
+    "id": "epikhigh-gray-so-gray",
+    "title": "Gray so gray",
+    "artist": "Epik High (Feat. Younha)",
+    "lyricsFile": "../data/lyrics/epikhigh-gray-so-gray.json"
+  },
+    {
+    "id": "epikhigh-one",
+    "title": "One",
+    "artist": "Epik High (Feat. 지선)",
+    "lyricsFile": "../data/lyrics/epikhigh-one.json"
+  },
+    {
     "id": "epikhigh-screen-time",
     "title": "Screen Time",
     "artist": "Epik High",
     "lyricsFile": "../data/lyrics/epikhigh-screen-time.json"
-  },  
+  },    
   {
     "id": "epikhigh-can-you-hear-my-heart",
     "title": "Can You Hear My Heart",
@@ -108,7 +120,13 @@
     "title": "1분 1초 (1 Minute 1 Second)",
     "artist": "Epik High",
     "lyricsFile": "../data/lyrics/epikhigh-1-minute-1-second.json"
-  } ,  
+  } , 
+  {
+    "id": "epikhigh-i-was-happy",
+    "title": "행복했습니다 (I Was Happy)",
+    "artist": "Epik High (에픽하이)", 
+    "lyricsFile": "../data/lyrics/epikhigh-i-was-happy.json"
+  } , 
   {
     "id": "girlsday-something",
     "title": "Something",
@@ -224,11 +242,59 @@
     "lyricsFile": "../data/lyrics/o3ohn-milky-way-between-us.json"
   }, 
   {
+    "id": "girlsday-show-you",
+    "title": "Show you",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-show-you.json"
+  },
+  {
+    "id": "girlsday-hello-bubble",
+    "title": "Hello Bubble",
+    "artist": "Girl's Day (걸스데이)", 
+    "lyricsFile": "../data/lyrics/girlsday-hello-bubble.json"
+  },  
+  {
+    "id": "girlsday-white-day",
+    "title": "White Day",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-white-day.json"
+  }, 
+  {
+    "id": "girlsday-tell-me",
+    "title": "말해줘요 (Tell Me)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-tell-me.json"
+  }, 
+  {
+    "id": "girlsday-nothing-lasts-up",
+    "title": "Nothing Lasts Up (잘해줘봐야)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-nothing-lasts-up.json"
+  }, 
+  {
+    "id": "girlsday-how-about-me",
+    "title": "나 어때 (How about me)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-how-about-me.json"
+  }, 
+  {
     "id": "seventeen-i-dont-know",
     "title": "I Don't Know (글쎄)",
     "artist": "SEVENTEEN (세븐틴)",
     "lyricsFile": "../data/lyrics/seventeen-i-dont-know.json"
-  }, 
+  },
+  {
+    "id": "seventeen-destiny",
+    "title": "운명 (Destiny)",
+    "artist": "SEVENTEEN (세븐틴)(WOOZI Solo)",
+    "lyricsFile": "../data/lyrics/seventeen-destiny.json"
+  },
+  {
+    "id": "seventeen-smile-flower",
+    "title": "웃음꽃 (Smile Flower)",
+    "artist": "SEVENTEEN (세븐틴)",
+    "lyricsFile": "../data/lyrics/seventeen-smile-flower.json"
+  },     
   {
     "id": "aespa-whiplash",
     "title": "Whiplash",

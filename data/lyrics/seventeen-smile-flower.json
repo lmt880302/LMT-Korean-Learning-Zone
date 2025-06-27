@@ -1,0 +1,376 @@
+{
+  "id": "seventeen-smile-flower",
+  "title": "웃음꽃 (Smile Flower)",
+  "artist": "SEVENTEEN (세븐틴)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "그냥 왜인지 모르게 가끔씩 문득",
+      "translation": "就只是不知為何 偶爾會突然",
+      "analysis": [
+        { "point": "그냥 왜인지 모르게", "explanation": "그냥 (就只是) + 왜인지 모르다 (不知道為何) + -게 (副詞形)。" },
+        { "point": "가끔씩", "explanation": "副詞，偶爾。" },
+        { "point": "문득", "explanation": "副詞，突然、猛然。" }
+      ]
+    },
+    {
+      "korean": "그런 생각이 자꾸만 들어 요즘",
+      "translation": "最近總是產生那樣的想法",
+      "analysis": [
+        { "point": "그런 생각이", "explanation": "그런 (那樣的) + 생각 (想法) + -이 (主格)。" },
+        { "point": "자꾸만", "explanation": "副詞 자꾸 (總是) + -만 (強調)。" },
+        { "point": "들어", "explanation": "들다 (產生、進入) 的非格式體。" },
+        { "point": "요즘", "explanation": "名詞，最近。" }
+      ]
+    },
+    {
+      "korean": "이렇게나 행복하고 아름다운 너",
+      "translation": "如此幸福又美麗的你",
+      "analysis": [
+        { "point": "이렇게나", "explanation": "이렇게 (如此地) + -나 (表示程度之深)。" },
+        { "point": "행복하고", "explanation": "행복하다 (幸福) + -고 (連接)。" },
+        { "point": "아름다운 너", "explanation": "아름답다 (美麗的) 定語形態 + 너 (你)。" }
+      ]
+    },
+    {
+      "korean": "그리고 남부럽지 않은 지금의 우리",
+      "translation": "還有不羨慕他人的現在的我們",
+      "analysis": [
+        { "point": "그리고", "explanation": "連接副詞，還有、並且。" },
+        { "point": "남부럽지 않은", "explanation": "남부럽다 (羨慕他人) 的否定定語形態。" },
+        { "point": "지금의 우리", "explanation": "지금 (現在) + -의 (的) + 우리 (我們)。" }
+      ]
+    },
+    {
+      "korean": "그런 우리가",
+      "translation": "那樣的我們",
+      "analysis": [
+        { "point": "그런 우리가", "explanation": "그런 (那樣的) + 우리 (我們) + -가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "정말 언젠가 불행하게도",
+      "translation": "真的在某天不幸地",
+      "analysis": [
+        { "point": "정말 언젠가", "explanation": "정말 (真的) + 언젠가 (某天)。" },
+        { "point": "불행하게도", "explanation": "불행하다 (不幸的) 副詞形 + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "떨어지게 되면",
+      "translation": "如果分開了的話",
+      "analysis": [
+        { "point": "떨어지게 되면", "explanation": "떨어지다 (分開) + -게 되다 (變得...) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "그땐 어떡하지",
+      "translation": "那時該怎麼辦",
+      "analysis": [
+        { "point": "그땐", "explanation": "그때는 (那時候) 的縮略。" },
+        { "point": "어떡하지", "explanation": "어떡하다 (怎麼辦) 的疑問自問形。" }
+      ]
+    },
+    {
+      "korean": "물론 그럴 일 없겠지만",
+      "translation": "當然雖然不會有那種事",
+      "analysis": [
+        { "point": "물론", "explanation": "副詞，當然。" },
+        { "point": "그럴 일 없겠지만", "explanation": "그렇다 (那樣) + -(으)ㄹ 일 없다 (不會有...事) + -겠지만 (雖然...但是，表推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이런 상상은 정말 하기도 싫은데",
+      "translation": "雖然連這種想像都真的不想做",
+      "analysis": [
+        { "point": "이런 상상은", "explanation": "이런 (這種的) + 상상 (想像) + -은 (主題)。" },
+        { "point": "정말 하기도 싫은데", "explanation": "정말 (真的) + 하다 的名詞形 + -도 싫다 (連做都討厭) + -ㄴ데。" }
+      ]
+    },
+    {
+      "korean": "가끔씩 떠올라 넌",
+      "translation": "但偶爾會想起 你啊",
+      "analysis": [
+        { "point": "가끔씩 떠올라", "explanation": "가끔씩 (偶爾) + 떠오르다 (想起)。" },
+        { "point": "넌", "explanation": "너는 (你)。" }
+      ]
+    },
+    {
+      "korean": "부디 이런 생각나지 않길",
+      "translation": "懇切地希望你不要想起這種想法",
+      "analysis": [
+        { "point": "부디", "explanation": "副詞，懇切地、務必。" },
+        { "point": "이런 생각나지 않길", "explanation": "이런 (這種的) + 생각나다 (想起) + -지 않기를 (希望不要...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "함께라서 웃을 수 있고",
+      "translation": "因為在一起所以能笑",
+      "analysis": [
+        { "point": "함께라서", "explanation": "함께 (一起) + -(이)라서 (因為是...)。" },
+        { "point": "웃을 수 있고", "explanation": "웃다 (笑) + -(으)ㄹ 수 있다 (能夠) + -고。" }
+      ]
+    },
+    {
+      "korean": "너라서 울 수도 있어",
+      "translation": "因為是你所以也能哭",
+      "analysis": [
+        { "point": "너라서", "explanation": "너 (你) + -(이)라서 (因為是...)。" },
+        { "point": "울 수도 있어", "explanation": "울다 (哭) + -(으)ㄹ 수도 있다 (也能夠...)。" }
+      ]
+    },
+    {
+      "korean": "그렇게라도 못할 게 어딨어",
+      "translation": "即便是那樣又有什麼不能做的",
+      "analysis": [
+        { "point": "그렇게라도", "explanation": "그렇게 (那樣) + -라도 (即使...也)。" },
+        { "point": "못할 게 어딨어", "explanation": "못하다 (不能做) 的定語形態 + 것이 어디에 있어 (在哪裡) 的縮略，意指「沒有」。" }
+      ]
+    },
+    {
+      "korean": "언제 어디에 있어도",
+      "translation": "無論何時身在何處",
+      "analysis": [
+        { "point": "언제 어디에 있어도", "explanation": "언제 (何時) + 어디에 (在何處) + 있다 (在) + -어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "함께하지 못해도 우린 늘 그렇듯",
+      "translation": "就算無法在一起 我們也一如既往地",
+      "analysis": [
+        { "point": "함께하지 못해도", "explanation": "함께하다 (在一起) + -지 못하다 (無法) + -아도 (即使)。" },
+        { "point": "우린 늘 그렇듯", "explanation": "우리는 (我們) + 늘 (總是) + 그렇다 (那樣) + -듯 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "웃음꽃 피워요",
+      "translation": "綻放笑靨吧",
+      "analysis": [
+        { "point": "웃음꽃 피워요", "explanation": "웃음꽃을 피우다 (綻放笑靨) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "그대 미소에 봄이 돼줄게요",
+      "translation": "我會成為你微笑中的春天",
+      "analysis": [
+        { "point": "그대 미소에", "explanation": "그대 (你) + 미소 (微笑) + -에 (在...中)。" },
+        { "point": "봄이 돼줄게요", "explanation": "봄 (春天) + -이 (主格) + 되어주다 (為...成為) + -(으)ㄹ게요。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "아낌없이 난 늘 너에게",
+      "translation": "我總是毫無保留地對你",
+      "analysis": [
+        { "point": "아낌없이", "explanation": "副詞，毫無保留地、不吝嗇地。" },
+        { "point": "난 늘 너에게", "explanation": "나는 (我) + 늘 (總是) + 너에게 (對你)。" }
+      ]
+    },
+    {
+      "korean": "받기만 하는 것만 같아",
+      "translation": "好像總是在接受",
+      "analysis": [
+        { "point": "받기만 하는 것만 같아", "explanation": "받다 (接受) + -기만 하다 (只做...) + -(으)ㄴ 것만 같다 (好像只是...)。" }
+      ]
+    },
+    {
+      "korean": "그래서 눈물 나도록",
+      "translation": "所以感謝到流淚",
+      "analysis": [
+        { "point": "그래서", "explanation": "副詞，所以。" },
+        { "point": "눈물 나도록", "explanation": "눈물이 나다 (流淚) + -도록 (到...的程度)。" }
+      ]
+    },
+    {
+      "korean": "고맙고 더 미안해",
+      "translation": "感謝又更加抱歉",
+      "analysis": [
+        { "point": "고맙고", "explanation": "고맙다 (感謝) 的連接形。" },
+        { "point": "더 미안해", "explanation": "더 (更) + 미안하다 (抱歉)。" }
+      ]
+    },
+    {
+      "korean": "꽉 안아주고만 싶어도",
+      "translation": "即使只想緊緊抱住你",
+      "analysis": [
+        { "point": "꽉 안아주고만 싶어도", "explanation": "꽉 (緊緊地) + 안아주다 (擁抱) + -고만 싶다 (只想...) + -아도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "왠지 모르는 불안함에",
+      "translation": "在不知名的不安感中",
+      "analysis": [
+        { "point": "왠지 모르는", "explanation": "왠지 모르다 (不知為何) 的定語形態。" },
+        { "point": "불안함에", "explanation": "불안함 (不安感) + -에 (格助詞)。" }
+      ]
+    },
+    {
+      "korean": "망설이는 건 뭔지",
+      "translation": "在猶豫什麼呢",
+      "analysis": [
+        { "point": "망설이는 건 뭔지", "explanation": "망설이다 (猶豫) 的定語形態 + 것은 무엇인지 (是什麼)。" }
+      ]
+    },
+    {
+      "korean": "이러고 싶지 않은데",
+      "translation": "我並不想這樣",
+      "analysis": [
+        { "point": "이러고 싶지 않은데", "explanation": "이러다 (這樣) + -고 싶지 않다 (不想) + -ㄴ데。" }
+      ]
+    },
+    {
+      "korean": "하늘이 높고 바람은 차고",
+      "translation": "天空很高 風很冷",
+      "analysis": [
+        { "point": "하늘이 높고", "explanation": "하늘 (天空) + -이 (主格) + 높다 (高) + -고。" },
+        { "point": "바람은 차고", "explanation": "바람 (風) + -은 (主題) + 차다 (冷) + -고。" }
+      ]
+    },
+    {
+      "korean": "바다가 넓고 푸른 것처럼",
+      "translation": "像大海寬闊又湛藍一樣",
+      "analysis": [
+        { "point": "바다가 넓고", "explanation": "바다 (海) + -가 (主格) + 넓다 (寬闊) + -고。" },
+        { "point": "푸른 것처럼", "explanation": "푸르다 (藍、綠) 的定語形態 + 것처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내 눈에 네가 그저 당연하게 바라봐질까 봐",
+      "translation": "怕我的眼中會只是理所當然地看著你",
+      "analysis": [
+        { "point": "내 눈에 네가", "explanation": "내 눈에 (在我眼中) + 네가 (你)。" },
+        { "point": "그저 당연하게", "explanation": "그저 (只是) + 당연하다 (當然的) 副詞形。" },
+        { "point": "바라봐질까 봐", "explanation": "바라봐지다 (被注視) + -(으)ㄹ까 봐 (擔心會...)。" }
+      ]
+    },
+    {
+      "korean": "그게 불안해서",
+      "translation": "因為那樣而不安",
+      "analysis": [
+        { "point": "그게 불안해서", "explanation": "그것이 (那個) + 불안하다 (不安) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "이러는 것만 같아",
+      "translation": "才好像會這樣",
+      "analysis": [
+        { "point": "이러는 것만 같아", "explanation": "이러다 (這樣) + -는 것만 같다 (好像只是...)。" }
+      ]
+    },
+    {
+      "korean": "널 잃어버릴까 봐",
+      "translation": "怕會失去你",
+      "analysis": [
+        { "point": "널 잃어버릴까 봐", "explanation": "너를 (你) + 잃어버리다 (失去) + -(으)ㄹ까 봐 (擔心會...)。" }
+      ]
+    },
+    {
+      "korean": "부디 넌 나 같지 않기를",
+      "translation": "懇切地希望你不要像我一樣",
+      "analysis": [
+        { "point": "부디 넌", "explanation": "부디 (懇切地) + 너는 (你)。" },
+        { "point": "나 같지 않기를", "explanation": "나 같다 (像我) + -지 않기를 (希望不要...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "마지막이란 말",
+      "translation": "名為最後的話",
+      "analysis": [
+        { "point": "마지막이란 말", "explanation": "마지막 (最後) + -(이)라는 (所謂) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "하지 마 영원히",
+      "translation": "不要說 永遠",
+      "analysis": [
+        { "point": "하지 마", "explanation": "하다 (做/說) + -지 마 (不要)。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" }
+      ]
+    },
+    {
+      "korean": "내가 너의 곁에 남아있을 테니",
+      "translation": "因為我會留在你的身邊",
+      "analysis": [
+        { "point": "내가 너의 곁에", "explanation": "내가 (我) + 너의 (你的) + 곁에 (身邊)。" },
+        { "point": "남아있을 테니", "explanation": "남아있다 (留下) + -(으)ㄹ 테니 (因為將會...)。" }
+      ]
+    },
+    {
+      "korean": "우린 정말 무슨 일 있어도",
+      "translation": "我們真的不管發生什麼事",
+      "analysis": [
+        { "point": "우린 정말", "explanation": "우리는 (我們) + 정말 (真的)。" },
+        { "point": "무슨 일 있어도", "explanation": "무슨 일 (什麼事) + 있다 (有) + -어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "언제나 그랬듯 함께 있을 거예요",
+      "translation": "都會像往常一樣在一起的",
+      "analysis": [
+        { "point": "언제나 그랬듯", "explanation": "언제나 (無論何時) + 그렇다 (那樣) + -듯。" },
+        { "point": "함께 있을 거예요", "explanation": "함께 있다 (在一起) + -(으)ㄹ 것이다 (將會) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "마지막이란 말",
+      "translation": "名為最後的話",
+      "analysis": [
+        { "point": "마지막이란 말", "explanation": "마지막 (最後) + -(이)라는 (所謂) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "하지 마 영원히",
+      "translation": "不要說 永遠",
+      "analysis": [
+        { "point": "하지 마", "explanation": "하다 (做/說) + -지 마 (不要)。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" }
+      ]
+    },
+    {
+      "korean": "무슨 일 있어도 우린 늘 그렇듯",
+      "translation": "不管發生什麼事 我們也一如既往地",
+      "analysis": [
+        { "point": "무슨 일 있어도", "explanation": "무슨 일 (什麼事) + 있다 (有) + -어도 (即使)。" },
+        { "point": "우린 늘 그렇듯", "explanation": "우리는 (我們) + 늘 (總是) + 그렇다 (那樣) + -듯。" }
+      ]
+    },
+    {
+      "korean": "웃음꽃 피워요",
+      "translation": "綻放笑靨吧",
+      "analysis": [
+        { "point": "웃음꽃 피워요", "explanation": "웃음꽃을 피우다 (綻放笑靨) 的尊敬階。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "문득", "chinese": "突然、猛然", "pos": "副詞" },
+    { "korean": "자꾸만", "chinese": "總是", "pos": "副詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "남부럽다", "chinese": "羨慕他人", "pos": "形容詞" },
+    { "korean": "불행하다", "chinese": "不幸的", "pos": "形容詞" },
+    { "korean": "떨어지다", "chinese": "分開", "pos": "動詞" },
+    { "korean": "어떡하다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "상상", "chinese": "想像", "pos": "名詞" },
+    { "korean": "부디", "chinese": "懇切地", "pos": "副詞" },
+    { "korean": "떠오르다", "chinese": "想起、浮現", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "웃음꽃", "chinese": "笑靨、笑容之花", "pos": "名詞" },
+    { "korean": "피우다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "아낌없이", "chinese": "毫無保留地", "pos": "副詞" },
+    { "korean": "고맙다", "chinese": "感謝", "pos": "形容詞" },
+    { "korean": "미안하다", "chinese": "抱歉", "pos": "形容詞" },
+    { "korean": "꽉", "chinese": "緊緊地", "pos": "副詞" },
+    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "불안함", "chinese": "不安感", "pos": "名詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "당연하다", "chinese": "當然的", "pos": "形容詞" },
+    { "korean": "바라봐지다", "chinese": "被注視", "pos": "動詞" },
+    { "korean": "잃어버리다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "남아있다", "chinese": "留下", "pos": "動詞" }
+  ]
+}
