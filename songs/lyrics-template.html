@@ -147,21 +147,21 @@
                 line-height: 1.5;
             }
 
-            /* NEW: Compact styles for expanded analysis on mobile */
+            /* MODIFIED: More compact styles for expanded analysis on mobile */
             .analysis-content-wrapper.open {
                 margin-top: 0.75rem;
                 padding-bottom: 0.25rem;
             }
             .analysis-point {
-                padding: 0.5rem 0.25rem;
+                padding: 0.4rem 0.2rem; /* Reduced padding */
             }
             .analysis-point strong {
-                font-size: 0.9rem;
-                margin-bottom: 0.15rem;
+                font-size: 0.85rem; /* Reduced font size */
+                margin-bottom: 0.1rem; /* Reduced margin */
             }
             .analysis-point span {
-                font-size: 0.825rem;
-                line-height: 1.6;
+                font-size: 0.8rem; /* Reduced font size */
+                line-height: 1.55;
             }
         }
 
@@ -404,8 +404,8 @@
                 if (line.korean) {
                     let mobileAnalysisHTML = '';
                     if (line.analysis && line.analysis.length > 0) {
-                        // This div is now only for mobile view
-                        mobileAnalysisHTML += `<div class="analysis-content-wrapper md:hidden space-y-4">`;
+                        // MODIFIED: Reduced spacing between analysis points on mobile
+                        mobileAnalysisHTML += `<div class="analysis-content-wrapper md:hidden space-y-2">`;
                         line.analysis.forEach(point => {
                             mobileAnalysisHTML += `<div class="analysis-point"><strong>${sanitizeHTML(point.point)}</strong><span>${sanitizeHTML(point.explanation)}</span></div>`;
                         });
