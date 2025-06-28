@@ -1,0 +1,516 @@
+{
+  "id": "epikhigh-based-on-a-true-story",
+  "title": "내 얘기 같아 (Based On A True Story)",
+  "artist": "Epik High (에픽하이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "울어야 할지",
+      "translation": "該哭呢",
+      "analysis": [
+        { "point": "울어야 할지", "explanation": "울다 (哭) + -어야 하다 (必須) + -(으)ㄹ지 (表示不確定的選擇)。" }
+      ]
+    },
+    {
+      "korean": "웃어야 할지",
+      "translation": "還是該笑呢",
+      "analysis": [
+        { "point": "웃어야 할지", "explanation": "웃다 (笑) + -어야 하다 (必須) + -(으)ㄹ지。" }
+      ]
+    },
+    {
+      "korean": "몰라",
+      "translation": "不知道",
+      "analysis": [
+        { "point": "몰라", "explanation": "모르다 (不知道) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "고개만 끄덕",
+      "translation": "只是點頭",
+      "analysis": [
+        { "point": "고개만", "explanation": "고개 (頭) + -만 (只)。" },
+        { "point": "끄덕", "explanation": "副詞，點頭的樣子。" }
+      ]
+    },
+    {
+      "korean": "끄덕거리고 있다",
+      "translation": "不停地點著",
+      "analysis": [
+        { "point": "끄덕거리고 있다", "explanation": "끄덕거리다 (反覆點頭) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이 모든 게",
+      "translation": "這所有的一切",
+      "analysis": [
+        { "point": "이 모든 게", "explanation": "이 (這) + 모든 것 (全部事物) + -이 (主格) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "내 얘기 같아",
+      "translation": "都像我的故事",
+      "analysis": [
+        { "point": "내 얘기 같아", "explanation": "내 (我的) + 얘기 (故事) + 같다 (像)。" }
+      ]
+    },
+    {
+      "korean": "저 화면 속에서",
+      "translation": "在那畫面之中",
+      "analysis": [
+        { "point": "저 화면 속에서", "explanation": "저 (那) + 화면 (畫面) + 속 (裡面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "울고 있는 너",
+      "translation": "哭泣著的你",
+      "analysis": [
+        { "point": "울고 있는 너", "explanation": "울다 (哭) + -고 있다 (正在) 的定語形態 + 너 (你)。" }
+      ]
+    },
+    {
+      "korean": "다 내 마음 같아",
+      "translation": "全都像我的心",
+      "analysis": [
+        { "point": "다 내 마음 같아", "explanation": "다 (全部) + 내 (我的) + 마음 (心) + 같다 (像)。" }
+      ]
+    },
+    {
+      "korean": "눈시울이 붉어져",
+      "translation": "眼眶泛紅",
+      "analysis": [
+        { "point": "눈시울이 붉어져", "explanation": "눈시울 (眼眶) + -이 (主格) + 붉어지다 (變紅)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "TV를 껐다 또 키고",
+      "translation": "關了TV又打開",
+      "analysis": [
+        { "point": "TV를 껐다 또 키고", "explanation": "TV를 끄다 (關電視) 的過去式 + 또 (又) + 켜다 (打開) + -고。" }
+      ]
+    },
+    {
+      "korean": "채널을 계속 돌려도",
+      "translation": "即使不停地轉台",
+      "analysis": [
+        { "point": "채널을 계속 돌려도", "explanation": "채널 (頻道) + -을 (受格) + 계속 (持續) + 돌리다 (轉) + -아도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "마음 아픈 장면만 보이고",
+      "translation": "卻只看見令人心痛的場面",
+      "analysis": [
+        { "point": "마음 아픈 장면만", "explanation": "마음 아프다 (心痛) 的定語形態 + 장면 (場面) + -만 (只)。" },
+        { "point": "보이고", "explanation": "보이다 (被看見) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "라디오를 잠시 틀어도",
+      "translation": "即使暫時打開收音機",
+      "analysis": [
+        { "point": "라디오를 잠시 틀어도", "explanation": "라디오 (收音機) + -를 (受格) + 잠시 (暫時) + 틀다 (打開) + -어도。" }
+      ]
+    },
+    {
+      "korean": "나 같은 사연만 들리고",
+      "translation": "也只聽見和我一樣的故事",
+      "analysis": [
+        { "point": "나 같은 사연만", "explanation": "나 같다 (像我) 的定語形態 + 사연 (故事) + -만 (只)。" },
+        { "point": "들리고", "explanation": "들리다 (被聽見) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "새벽은 어느덧 오고",
+      "translation": "黎明不知不覺到來",
+      "analysis": [
+        { "point": "새벽은 어느덧 오고", "explanation": "새벽 (黎明) + -은 (主題) + 어느덧 (不知不覺) + 오다 (來) + -고。" }
+      ]
+    },
+    {
+      "korean": "눈감아도 네가 보여",
+      "translation": "就算閉上眼也看得見你",
+      "analysis": [
+        { "point": "눈감아도", "explanation": "눈을 감다 (閉眼) + -아도。" },
+        { "point": "네가 보여", "explanation": "네가 (你) + 보이다 (被看見)。" }
+      ]
+    },
+    {
+      "korean": "상실은 날 이기적인 놈 만드네",
+      "translation": "失落把我變成了自私的傢伙",
+      "analysis": [
+        { "point": "상실은", "explanation": "상실 (失落) + -은 (主題)。" },
+        { "point": "날 이기적인 놈 만드네", "explanation": "나를 (我) + 이기적이다 (自私的) 定語形態 + 놈 (傢伙) + 만들다 (製作) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "내 작은 공허 채우겠다고",
+      "translation": "說是要填滿我小小的空虛",
+      "analysis": [
+        { "point": "내 작은 공허", "explanation": "내 (我的) + 작다 (小的) 定語形態 + 공허 (空虛)。" },
+        { "point": "채우겠다고", "explanation": "채우다 (填滿) + -겠다 (意志) + -고 (間接引述)。" }
+      ]
+    },
+    {
+      "korean": "타인의 감정 갈취해",
+      "translation": "勒索他人的感情",
+      "analysis": [
+        { "point": "타인의 감정", "explanation": "타인 (他人) + -의 (的) + 감정 (感情)。" },
+        { "point": "갈취해", "explanation": "갈취하다 (勒索) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "마음에 담고 마는 게",
+      "translation": "終究裝進心裡的是",
+      "analysis": [
+        { "point": "마음에 담고 마는 게", "explanation": "마음에 담다 (裝在心裡) + -고 말다 (終究) 的定語形態 + 게。" }
+      ]
+    },
+    {
+      "korean": "내께 아닌 쓸쓸함과 외로움을",
+      "translation": "不屬於我的孤寂與孤獨",
+      "analysis": [
+        { "point": "내께 아닌", "explanation": "내 것이 아니다 (不是我的) 的口語體。" },
+        { "point": "쓸쓸함과 외로움을", "explanation": "쓸쓸함 (孤寂) + -과 (和) + 외로움 (孤獨) + -을。" }
+      ]
+    },
+    {
+      "korean": "마음과 입에 담아",
+      "translation": "裝在心裡和嘴上",
+      "analysis": [
+        { "point": "마음과 입에 담아", "explanation": "마음과 입에 (在心和嘴上) + 담다 (裝)。" }
+      ]
+    },
+    {
+      "korean": "내 얘기 같다며 공감을 해",
+      "translation": "說著像我的故事而產生共鳴",
+      "analysis": [
+        { "point": "내 얘기 같다며", "explanation": "내 얘기 같다 (像我的故事) + -(으)며 (同時)。" },
+        { "point": "공감을 해", "explanation": "공감을 하다 (產生共鳴)。" }
+      ]
+    },
+    {
+      "korean": "실은 겁이 나",
+      "translation": "其實我很害怕",
+      "analysis": [
+        { "point": "실은", "explanation": "副詞，其實。" },
+        { "point": "겁이 나", "explanation": "겁이 나다 (害怕)。" }
+      ]
+    },
+    {
+      "korean": "온전히 내꺼인 뭘 느낄까 봐",
+      "translation": "怕會感覺到什麼是完全屬於我的",
+      "analysis": [
+        { "point": "온전히 내꺼인 뭘", "explanation": "온전히 (完整地) + 내 것이다 (是我的) 定語形態 + 무엇을 (什麼)。" },
+        { "point": "느낄까 봐", "explanation": "느끼다 (感覺) + -(으)ㄹ까 봐 (擔心會...)。" }
+      ]
+    },
+    {
+      "korean": "삐쳐나온 감정 한 가닥도 싹둑",
+      "translation": "流露出的感情一絲也喀擦剪斷",
+      "analysis": [
+        { "point": "삐쳐나온 감정 한 가닥도", "explanation": "삐쳐나오다 (流露) 的過去定語形態 + 감정 (感情) + 한 가닥 (一絲) + -도。" },
+        { "point": "싹둑", "explanation": "副詞，喀擦一聲(剪斷的樣子)。" }
+      ]
+    },
+    {
+      "korean": "한 올만 당겨져도",
+      "translation": "即使只被拉扯一根線",
+      "analysis": [
+        { "point": "한 올만", "explanation": "한 올 (一根線) + -만 (只)。" },
+        { "point": "당겨져도", "explanation": "당겨지다 (被拉) + -아도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "나라는 이 실타래가 전부 풀릴까 봐",
+      "translation": "怕名為我的這團線會全部散開",
+      "analysis": [
+        { "point": "나라는 이 실타래가", "explanation": "나라는 (所謂我) + 이 (這) + 실타래 (線團) + -가。" },
+        { "point": "전부 풀릴까 봐", "explanation": "전부 (全部) + 풀리다 (散開) + -(으)ㄹ까 봐。" }
+      ]
+    },
+    {
+      "korean": "괜찮다가도 가끔",
+      "translation": "即使好好的也偶爾",
+      "analysis": [
+        { "point": "괜찮다가도", "explanation": "괜찮다 (沒關係) + -다가도 (即使正在...也)。" },
+        { "point": "가끔", "explanation": "副詞，偶爾。" }
+      ]
+    },
+    {
+      "korean": "귀를 스쳐 가는 가사 한 마디에",
+      "translation": "因為一句擦過耳邊的歌詞",
+      "analysis": [
+        { "point": "귀를 스쳐 가는", "explanation": "귀를 스쳐가다 (擦過耳邊) 的定語形態。" },
+        { "point": "가사 한 마디에", "explanation": "가사 (歌詞) + 한 마디 (一句) + -에。" }
+      ]
+    },
+    {
+      "korean": "마음이 무너지곤 해",
+      "translation": "心時常會崩塌",
+      "analysis": [
+        { "point": "마음이 무너지곤 해", "explanation": "마음이 무너지다 (心崩塌) + -곤 하다 (慣用型，時常做...)。" }
+      ]
+    },
+    {
+      "korean": "되돌릴 수가 없다면 더 망가지는 게",
+      "translation": "如果無法挽回 更加毀壞這件事",
+      "analysis": [
+        { "point": "되돌릴 수가 없다면", "explanation": "되돌리다 (挽回) + -(으)ㄹ 수가 없다 (無法) + -면。" },
+        { "point": "더 망가지는 게", "explanation": "더 (更) + 망가지다 (毀壞) 的定語形態 + 게。" }
+      ]
+    },
+    {
+      "korean": "약이 될까 싶어",
+      "translation": "心想會不會成為解藥",
+      "analysis": [
+        { "point": "약이 될까 싶어", "explanation": "약이 되다 (成為藥) + -(으)ㄹ까 싶다 (心想會不會...)。" }
+      ]
+    },
+    {
+      "korean": "쓴 기억을 먹어치우네",
+      "translation": "吞噬掉苦澀的記憶",
+      "analysis": [
+        { "point": "쓴 기억을", "explanation": "쓰다 (苦的) 定語形態 + 기억 (記憶) + -을。" },
+        { "point": "먹어치우네", "explanation": "먹어치우다 (吃光、吞噬) + -네。" }
+      ]
+    },
+    {
+      "korean": "셀 수 없이 본",
+      "translation": "看過無數次的",
+      "analysis": [
+        { "point": "셀 수 없이 본", "explanation": "셀 수 없이 (數不清地) + 보다 (看) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "대사마저 외운",
+      "translation": "連台詞都背下來的",
+      "analysis": [
+        { "point": "대사마저", "explanation": "대사 (台詞) + -마저 (連...都)。" },
+        { "point": "외운", "explanation": "외우다 (背誦) 的過去定語形態。" }
+      ]
+    },
+    {
+      "korean": "이별 장면에 밤새 눈물 쏟아내고",
+      "translation": "在離別場景中徹夜傾瀉淚水",
+      "analysis": [
+        { "point": "이별 장면에", "explanation": "이별 장면 (離別場景) + -에。" },
+        { "point": "밤새 눈물 쏟아내고", "explanation": "밤새 (徹夜) + 눈물을 쏟아내다 (傾瀉淚水) + -고。" }
+      ]
+    },
+    {
+      "korean": "비워낸 만큼 언젠가는 채워질까",
+      "translation": "清空了多少 有朝一日就會被填滿嗎",
+      "analysis": [
+        { "point": "비워낸 만큼", "explanation": "비워내다 (清空) 的過去定語形態 + 만큼 (만큼)。" },
+        { "point": "언젠가는 채워질까", "explanation": "언젠가는 (有朝一日) + 채워지다 (被填滿) + -(으)ㄹ까。" }
+      ]
+    },
+    {
+      "korean": "너의 빈자리 메워줄 슬픔을 쫓아 계속",
+      "translation": "持續追逐著能填補你空位的悲傷",
+      "analysis": [
+        { "point": "너의 빈자리 메워줄", "explanation": "너의 (你的) + 빈자리 (空位) + -를 + 메워주다 (填補) 的定語形態。" },
+        { "point": "슬픔을 쫓아", "explanation": "슬픔 (悲傷) + -을 (受格) + 쫓다 (追逐)。" },
+        { "point": "계속", "explanation": "副詞，持續。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "난 이제서야 보여",
+      "translation": "我事到如今才看見",
+      "analysis": [
+        { "point": "난 이제서야 보여", "explanation": "나는 (我) + 이제서야 (事到如今才) + 보이다 (看見)。" }
+      ]
+    },
+    {
+      "korean": "화면 속 널려있는 비극이",
+      "translation": "畫面中遍佈的悲劇",
+      "analysis": [
+        { "point": "화면 속 널려있는", "explanation": "화면 속에 (在畫面中) + 널려있다 (遍佈) 的定語形態。" },
+        { "point": "비극이", "explanation": "비극 (悲劇) + -이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "곡마다 한 음 한 음 새겨넣은 신음이",
+      "translation": "每首歌曲中一音一音刻下的呻吟",
+      "analysis": [
+        { "point": "곡마다", "explanation": "곡 (歌曲) + -마다 (每)。" },
+        { "point": "한 음 한 음", "explanation": "一音一音。" },
+        { "point": "새겨넣은 신음이", "explanation": "새겨넣다 (刻下) 的過去定語形態 + 신음 (呻吟) + -이。" }
+      ]
+    },
+    {
+      "korean": "세상 다 나처럼 가슴 아파서",
+      "translation": "因為世上都像我一樣心痛",
+      "analysis": [
+        { "point": "세상 다 나처럼", "explanation": "세상 (世界) + 다 (都) + 나처럼 (像我一樣)。" },
+        { "point": "가슴 아파서", "explanation": "가슴 아프다 (心痛) + -아서。" }
+      ]
+    },
+    {
+      "korean": "내 맘 좀 알아달라고 소리 내는 거였어",
+      "translation": "是為了讓人理解我的心而發出的聲音",
+      "analysis": [
+        { "point": "내 맘 좀 알아달라고", "explanation": "내 마음을 알아달라고 (請理解我的心)。" },
+        { "point": "소리 내는 거였어", "explanation": "소리를 내다 (發出聲音) 的定語形態 + 것이었다。" }
+      ]
+    },
+    {
+      "korean": "결국 이별 앞에서 무심했던 나도",
+      "translation": "結果在離別面前漠不關心的我也",
+      "analysis": [
+        { "point": "결국 이별 앞에서", "explanation": "결국 (結果) + 이별 앞에서 (在離別面前)。" },
+        { "point": "무심했던 나도", "explanation": "무심하다 (漠不關心) 的過去定語形態 + 나도。" }
+      ]
+    },
+    {
+      "korean": "무너져 내리잖아",
+      "translation": "崩塌了不是嗎",
+      "analysis": [
+        { "point": "무너져 내리잖아", "explanation": "무너져 내리다 (崩塌) + -잖아。" }
+      ]
+    },
+    {
+      "korean": "우리 인연은 끝나도",
+      "translation": "即使我們的緣分結束了",
+      "analysis": [
+        { "point": "우리 인연은 끝나도", "explanation": "우리 인연은 (我們的緣分) + 끝나다 (結束) + -아도。" }
+      ]
+    },
+    {
+      "korean": "모든 것에 네가 보이니까",
+      "translation": "因為在所有事物中都看得見你",
+      "analysis": [
+        { "point": "모든 것에", "explanation": "모든 것에 (在所有事物中)。" },
+        { "point": "네가 보이니까", "explanation": "네가 보이다 (看見你) + -(으)니까。" }
+      ]
+    },
+    {
+      "korean": "도망치는 날 자꾸만 붙잡으니까",
+      "translation": "因為總是抓住逃跑的我",
+      "analysis": [
+        { "point": "도망치는 날", "explanation": "도망치다 (逃跑) 的定語形態 + 나를 (我)。" },
+        { "point": "자꾸만 붙잡으니까", "explanation": "자꾸만 (總是) + 붙잡다 (抓住) + -(으)니까。" }
+      ]
+    },
+    {
+      "korean": "싫다",
+      "translation": "討厭",
+      "analysis": [
+        { "point": "싫다", "explanation": "形容詞，討厭。" }
+      ]
+    },
+    {
+      "korean": "저게 말이 되나며 비웃던 전개와",
+      "translation": "曾嘲笑著「那像話嗎」的情節和",
+      "analysis": [
+        { "point": "저게 말이 되나며", "explanation": "저것이 말이 되느냐며 (問那像話嗎) 的縮略。" },
+        { "point": "비웃던 전개와", "explanation": "비웃다 (嘲笑) + -던 (過去回想) + 전개 (情節) + -와。" }
+      ]
+    },
+    {
+      "korean": "뻔한 대사들이 내 마음에 콕콕 박히는 게",
+      "translation": "那些老套的台詞深深刺進我心這件事",
+      "analysis": [
+        { "point": "뻔한 대사들이", "explanation": "뻔하다 (老套的) 定語形態 + 대사 (台詞) + -들이。" },
+        { "point": "내 마음에 콕콕 박히는 게", "explanation": "내 마음에 (在我心裡) + 콕콕 (擬態詞，刺) + 박히다 (被刺進) 的定語形態 + 게。" }
+      ]
+    },
+    {
+      "korean": "세상 어디에도 없는 운명 같은 일들",
+      "translation": "世上絕無僅有的像命運般的事",
+      "analysis": [
+        { "point": "세상 어디에도 없는", "explanation": "世上絕無僅有的。" },
+        { "point": "운명 같은 일들", "explanation": "운명 같다 (像命運) 的定語形態 + 일들 (事情們)。" }
+      ]
+    },
+    {
+      "korean": "그 기만에 속고 싶다는 게",
+      "translation": "想要被那欺瞞所騙這件事",
+      "analysis": [
+        { "point": "그 기만에", "explanation": "그 (那) + 기만 (欺瞞) + -에 (格助詞)。" },
+        { "point": "속고 싶다는 게", "explanation": "속다 (被騙) + -고 싶다 (想) 的定語形態 + 게。" }
+      ]
+    },
+    {
+      "korean": "내가 정신이 나갔나?",
+      "translation": "我是不是瘋了？",
+      "analysis": [
+        { "point": "내가 정신이 나갔나?", "explanation": "片語，정신이 나가다 (瘋了) 的過去式疑問形。" }
+      ]
+    },
+    {
+      "korean": "감정이입되는 나",
+      "translation": "產生代入感的我",
+      "analysis": [
+        { "point": "감정이입되는 나", "explanation": "감정이입되다 (產生代入感) 的定語形態 + 나 (我)。" }
+      ]
+    },
+    {
+      "korean": "눈가가 촉촉해지곤 해",
+      "translation": "眼角時常會濕潤",
+      "analysis": [
+        { "point": "눈가가", "explanation": "눈가 (眼角) + -가。" },
+        { "point": "촉촉해지곤 해", "explanation": "촉촉해지다 (變濕潤) + -곤 하다 (時常)。" }
+      ]
+    },
+    {
+      "korean": "울 힘도 없는 나 대신 우는구나",
+      "translation": "原來是代替連哭的力氣都沒有的我而哭啊",
+      "analysis": [
+        { "point": "울 힘도 없는 나", "explanation": "울 (哭的) + 힘도 없다 (連力氣都沒有) + 나 (我)。" },
+        { "point": "대신 우는구나", "explanation": "대신 (代替) + 울다 (哭) + -는구나 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "내가 보고 듣고 느끼는 게 전부 다",
+      "translation": "我所看、所聽、所感受的全部都",
+      "analysis": [
+        { "point": "내가 보고 듣고 느끼는 게", "explanation": "我所看、所聽、所感受的事。" },
+        { "point": "전부 다", "explanation": "副詞，全部都。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "끄덕거리다", "chinese": "不停點頭", "pos": "動詞" },
+    { "korean": "눈시울", "chinese": "眼眶", "pos": "名詞" },
+    { "korean": "붉어지다", "chinese": "變紅", "pos": "動詞" },
+    { "korean": "돌리다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "틀다", "chinese": "打開(收音機/電視)", "pos": "動詞" },
+    { "korean": "사연", "chinese": "故事、緣由", "pos": "名詞" },
+    { "korean": "상실", "chinese": "失落、喪失", "pos": "名詞" },
+    { "korean": "이기적이다", "chinese": "自私的", "pos": "形容詞" },
+    { "korean": "공허", "chinese": "空虛", "pos": "名詞" },
+    { "korean": "갈취하다", "chinese": "勒索", "pos": "動詞" },
+    { "korean": "쓸쓸함", "chinese": "孤寂", "pos": "名詞" },
+    { "korean": "외로움", "chinese": "孤獨", "pos": "名詞" },
+    { "korean": "온전히", "chinese": "完整地", "pos": "副詞" },
+    { "korean": "삐쳐나오다", "chinese": "流露、露出來", "pos": "動詞" },
+    { "korean": "실타래", "chinese": "線團", "pos": "名詞" },
+    { "korean": "풀리다", "chinese": "散開、解開", "pos": "動詞" },
+    { "korean": "스치다", "chinese": "擦過", "pos": "動詞" },
+    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
+    { "korean": "망가지다", "chinese": "毀壞", "pos": "動詞" },
+    { "korean": "먹어치우다", "chinese": "吃光、吞噬", "pos": "動詞" },
+    { "korean": "외우다", "chinese": "背誦", "pos": "動詞" },
+    { "korean": "비워내다", "chinese": "清空", "pos": "動詞" },
+    { "korean": "채워지다", "chinese": "被填滿", "pos": "動詞" },
+    { "korean": "메우다", "chinese": "填補", "pos": "動詞" },
+    { "korean": "쫓다", "chinese": "追逐", "pos": "動詞" },
+    { "korean": "널려있다", "chinese": "遍佈", "pos": "動詞" },
+    { "korean": "비극", "chinese": "悲劇", "pos": "名詞" },
+    { "korean": "새겨넣다", "chinese": "刻下", "pos": "動詞" },
+    { "korean": "신음", "chinese": "呻吟", "pos": "名詞" },
+    { "korean": "인연", "chinese": "緣分", "pos": "名詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "비웃다", "chinese": "嘲笑", "pos": "動詞" },
+    { "korean": "전개", "chinese": "情節、展開", "pos": "名詞" },
+    { "korean": "기만", "chinese": "欺瞞", "pos": "名詞" },
+    { "korean": "정신이 나가다", "chinese": "瘋了", "pos": "片語" },
+    { "korean": "감정이입되다", "chinese": "產生代入感", "pos": "動詞" },
+    { "korean": "눈가", "chinese": "眼角", "pos": "名詞" },
+    { "korean": "촉촉해지다", "chinese": "變濕潤", "pos": "動詞" }
+  ]
+}

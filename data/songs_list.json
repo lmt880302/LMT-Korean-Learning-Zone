@@ -79,6 +79,12 @@
     "artist": "Epik High (feat. 오혁)",
     "lyricsFile": "../data/lyrics/epikhigh-chupda.json"
   },
+  {
+    "id": "epikhigh-based-on-a-true-story",
+    "title": "내 얘기 같아 (Based On A True Story)",
+    "artist": "Epik High (에픽하이)", 
+    "lyricsFile": "../data/lyrics/epikhigh-based-on-a-true-story.json"
+  },
     {
     "id": "epikhigh-love-story",
     "title": "연애소설 (Love Story)",
@@ -99,7 +105,7 @@
   },
     {
     "id": "epikhigh-screen-time",
-    "title": "Screen Time",
+    "title": "Screen Time (에픽하이)",
     "artist": "Epik High",
     "lyricsFile": "../data/lyrics/epikhigh-screen-time.json"
   },    
@@ -112,13 +118,13 @@
   {
     "id": "epikhigh-bioneun-nal-deutgi-joeun-norae",
     "title": "비 오는 날 듣기 좋은 노래",
-    "artist": "Epik High",
+    "artist": "Epik High (에픽하이)",
     "lyricsFile": "../data/lyrics/bioneun-nal-deutgi-joeun-norae.json"
   } ,  
   {
     "id": "epikhigh-1-minute-1-second",
     "title": "1분 1초 (1 Minute 1 Second)",
-    "artist": "Epik High",
+    "artist": "Epik High (에픽하이)",
     "lyricsFile": "../data/lyrics/epikhigh-1-minute-1-second.json"
   } , 
   {
@@ -238,7 +244,7 @@
   {
     "id": "girlsday-apeuda",
     "title": "아프다",
-    "artist": "Girl's Day (걸스데이)(Sojin Solo)",
+    "artist": "Girl's Day (Sojin Solo)",
     "lyricsFile": "../data/lyrics/girlsday-apeuda.json"
   }, 
   {
@@ -298,7 +304,7 @@
   {
     "id": "seventeen-destiny",
     "title": "운명 (Destiny)",
-    "artist": "SEVENTEEN (세븐틴)(WOOZI Solo)",
+    "artist": "SEVENTEEN (WOOZI Solo)",
     "lyricsFile": "../data/lyrics/seventeen-destiny.json"
   },
   {
