@@ -1,0 +1,223 @@
+{
+  "id": "girlsday-two-of-us",
+  "title": "둘이서 (Two Of Us)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "두눈을 감았어 사랑을 몰라서 자꾸 만 내 가슴이",
+      "translation": "閉上了雙眼 因為不懂愛情 我的心總是",
+      "analysis": [
+        { "point": "두눈을 감았어", "explanation": "두 눈을 (雙眼) + 감다 (閉上) 的過去式。" },
+        { "point": "사랑을 몰라서", "explanation": "사랑 (愛) + -을 (受格) + 모르다 (不懂) + -아서 (因為)。" },
+        { "point": "자꾸 만 내 가슴이", "explanation": "자꾸만 (總是) + 내 (我的) + 가슴 (心) + -이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "내맘과 같아서 니맘도 같아서 just one for you",
+      "translation": "因為和我的心一樣 因為和你的心也一樣 just one for you",
+      "analysis": [
+        { "point": "내맘과 같아서", "explanation": "내 마음 (我的心) + -과 같다 (和...一樣) + -아서 (因為)。" },
+        { "point": "니맘도 같아서", "explanation": "네 마음 (你的心) + -도 (也) + 같다 + -아서。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "느낌이 좋았어 사랑을 하면서 널 알아가면서",
+      "translation": "感覺很好 在相愛的過程中 在了解你的過程中",
+      "analysis": [
+        { "point": "느낌이 좋았어", "explanation": "느낌 (感覺) + -이 (主格) + 좋다 (好) 的過去式。" },
+        { "point": "사랑을 하면서", "explanation": "사랑을 하다 (相愛) + -(으)면서 (同時)。" },
+        { "point": "널 알아가면서", "explanation": "너를 (你) + 알아가다 (逐漸了解) + -(으)면서。" }
+      ]
+    },
+    {
+      "korean": "설레임만 남아서 너로 나를 채워서 자꾸 떨려와서",
+      "translation": "只剩下悸動 因為你填滿了我 因為總是顫抖",
+      "analysis": [
+        { "point": "설레임만 남아서", "explanation": "설레임 (悸動) + -만 (只) + 남다 (剩下) + -아서。" },
+        { "point": "너로 나를 채워서", "explanation": "너로 (用你) + 나를 (我) + 채우다 (填滿) + -어서。" },
+        { "point": "자꾸 떨려와서", "explanation": "자꾸 (總是) + 떨려오다 (顫抖起來) + -아서。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너랑 나랑 닮아가나봐 너랑 나랑 잘 어울린데",
+      "translation": "看來你和我越來越像了 大家都說你和我很相配",
+      "analysis": [
+        { "point": "너랑 나랑", "explanation": "너 (你) + -랑 (和) + 나 (我) + -랑 (和)。" },
+        { "point": "닮아가나봐", "explanation": "닮아가다 (越來越像) + -나 보다 (看來...)。" },
+        { "point": "잘 어울린데", "explanation": "잘 어울리다 (很相配) + -ㄴ데 (-ㄴ다고 해 的縮略，間接引述)。" }
+      ]
+    },
+    {
+      "korean": "영원토록 둘이서 단 둘이서 사랑하며",
+      "translation": "直到永遠 兩個人 只有我們倆 相愛著",
+      "analysis": [
+        { "point": "영원토록", "explanation": "副詞，直到永遠。" },
+        { "point": "둘이서 단 둘이서", "explanation": "둘이서 (兩個人) + 단 둘이서 (只有兩個人)。" },
+        { "point": "사랑하며", "explanation": "사랑하다 (愛) + -(으)며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "매일 꿈만 같에 you're my everything 조심스레 다가와줘요",
+      "translation": "每天都像夢一樣 you're my everything 請小心翼翼地靠近我吧",
+      "analysis": [
+        { "point": "매일 꿈만 같에", "explanation": "매일 (每天) + 꿈만 같다 (像夢一樣)。'같에' 是 '같아' 的可愛音變。" },
+        { "point": "조심스레", "explanation": "副詞，小心翼翼地。" },
+        { "point": "다가와줘요", "explanation": "다가와주다 (靠近過來) 的尊敬階命令形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "사랑을 알아서 사랑에 빠져서 이 작은 마음을",
+      "translation": "因為懂得了愛 因為陷入了愛情 這顆小小心臟",
+      "analysis": [
+        { "point": "사랑을 알아서", "explanation": "사랑을 알다 (懂得愛) + -아서。" },
+        { "point": "사랑에 빠져서", "explanation": "사랑에 빠지다 (陷入愛情) + -아서。" },
+        { "point": "이 작은 마음을", "explanation": "이 (這) + 작다 (小的) 定語形態 + 마음 (心) + -을。" }
+      ]
+    },
+    {
+      "korean": "몰래 안아줬던 너 나를 안아줬던 너 너무 사랑스러",
+      "translation": "曾偷偷擁抱我的你 曾擁抱我的你 太可愛了",
+      "analysis": [
+        { "point": "몰래 안아줬던 너", "explanation": "몰래 (偷偷地) + 안아주다 (擁抱) 的過去定語形態 + 너 (你)。" },
+        { "point": "나를 안아줬던 너", "explanation": "나를 (我) + 안아주다 的過去定語形態 + 너。" },
+        { "point": "너무 사랑스러", "explanation": "너무 (太) + 사랑스럽다 (可愛的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너랑 나랑 닮아가나봐 너랑 나랑 잘 어울린데",
+      "translation": "看來你和我越來越像了 大家都說你和我很相配",
+      "analysis": [
+        { "point": "너랑 나랑 닮아가나봐", "explanation": "看來你和我越來越像了。" },
+        { "point": "너랑 나랑 잘 어울린데", "explanation": "大家都說你和我很相配。" }
+      ]
+    },
+    {
+      "korean": "영원토록 둘이서 단 둘이서 사랑하며",
+      "translation": "直到永遠 兩個人 只有我們倆 相愛著",
+      "analysis": [
+        { "point": "영원토록", "explanation": "副詞，直到永遠。" },
+        { "point": "둘이서 단 둘이서", "explanation": "兩個人 只有我們倆。" },
+        { "point": "사랑하며", "explanation": "사랑하다 (愛) + -(으)며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "매일 꿈만같에 you're my everything 조심스레 다가와 줘요",
+      "translation": "每天都像夢一樣 you're my everything 請小心翼翼地靠近我吧",
+      "analysis": [
+        { "point": "매일 꿈만같에", "explanation": "每天都像夢一樣。" },
+        { "point": "조심스레 다가와 줘요", "explanation": "小心翼翼地靠近我吧。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "너무 늦은건 아니지 우리가 시작할 사랑얘기들",
+      "translation": "不算太晚吧 我們將要開始的愛情故事",
+      "analysis": [
+        { "point": "너무 늦은건 아니지", "explanation": "너무 늦은 것은 아니지 (不是太晚了吧)。" },
+        { "point": "우리가 시작할 사랑얘기들", "explanation": "우리가 (我們) + 시작하다 (開始) 的將來時定語形態 + 사랑얘기 (愛情故事) + -들。" }
+      ]
+    },
+    {
+      "korean": "너무나도 꿈꿔왔던걸 이젠 넌 내꺼야",
+      "translation": "曾是那麼夢寐以求的事 如今你是我的了",
+      "analysis": [
+        { "point": "너무나도 꿈꿔왔던걸", "explanation": "너무나도 (非常地) + 꿈꿔오다 (一直夢想) 的過去定語形態 + 것을。" },
+        { "point": "이젠 넌 내꺼야", "explanation": "이제는 (如今) + 너는 (你) + 내 것 + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "you are the only one for me",
+      "translation": "你是我唯一",
+      "analysis": [
+        { "point": "you are the only one for me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너랑나랑 닮아가나봐 너랑나랑 잘어울린데",
+      "translation": "看來你和我越來越像了 大家都說你和我很相配",
+      "analysis": [
+        { "point": "너랑나랑 닮아가나봐", "explanation": "看來你和我越來越像了。" },
+        { "point": "너랑나랑 잘어울린데", "explanation": "大家都說你和我很相配。" }
+      ]
+    },
+    {
+      "korean": "영원토록 둘이서 단 둘이서 사랑하며",
+      "translation": "直到永遠 兩個人 只有我們倆 相愛著",
+      "analysis": [
+        { "point": "영원토록 둘이서 단 둘이서 사랑하며", "explanation": "直到永遠 兩個人 只有我們倆 相愛著。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "매일 꿈만같에 you're my everything",
+      "translation": "每天都像夢一樣 you're my everything",
+      "analysis": [
+        { "point": "매일 꿈만같에", "explanation": "每天都像夢一樣。" }
+      ]
+    },
+    {
+      "korean": "조심스레 다가와 줘요",
+      "translation": "請小心翼翼地靠近我吧",
+      "analysis": [
+        { "point": "조심스레 다가와 줘요", "explanation": "小心翼翼地靠近我吧。" }
+      ]
+    },
+    {
+      "korean": "사랑하면 바보가 된데 너만 보며 바보가 될래",
+      "translation": "聽說戀愛會變傻瓜 我願意只看著你變成傻瓜",
+      "analysis": [
+        { "point": "사랑하면 바보가 된데", "explanation": "사랑하면 (如果相愛) + 바보가 되다 (變成傻瓜) + -ㄴ데 (聽說...)。" },
+        { "point": "너만 보며 바보가 될래", "explanation": "너만 보다 (只看你) + -(으)며 + 바보가 되다 + -(으)ㄹ래 (意願)。" }
+      ]
+    },
+    {
+      "korean": "영원토록 둘이서 단 둘이서 사랑하며",
+      "translation": "直到永遠 兩個人 只有我們倆 相愛著",
+      "analysis": [
+        { "point": "영원토록 둘이서 단 둘이서 사랑하며", "explanation": "直到永遠 兩個人 只有我們倆 相愛著。" }
+      ]
+    },
+    {
+      "korean": "매일 꿈만같에 you're my everything",
+      "translation": "每天都像夢一樣 you're my everything",
+      "analysis": [
+        { "point": "매일 꿈만같에", "explanation": "每天都像夢一樣。" }
+      ]
+    },
+    {
+      "korean": "조심스레 다가갈 께요",
+      "translation": "我會小心翼翼地靠近你",
+      "analysis": [
+        { "point": "조심스레", "explanation": "副詞，小心翼翼地。" },
+        { "point": "다가갈 께요", "explanation": "다가가다 (靠近) + -(으)ㄹ게요 (意志的尊敬階)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "감다", "chinese": "閉上", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "總是", "pos": "副詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "알아가다", "chinese": "逐漸了解", "pos": "動詞" },
+    { "korean": "설레임", "chinese": "悸動", "pos": "名詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "떨려오다", "chinese": "顫抖起來", "pos": "動詞" },
+    { "korean": "닮아가다", "chinese": "越來越像", "pos": "動詞" },
+    { "korean": "어울리다", "chinese": "相配", "pos": "動詞" },
+    { "korean": "영원토록", "chinese": "直到永遠", "pos": "副詞" },
+    { "korean": "조심스럽다", "chinese": "小心翼翼的", "pos": "形容詞" },
+    { "korean": "다가오다", "chinese": "靠近過來", "pos": "動詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "사랑스럽다", "chinese": "可愛的", "pos": "形容詞" },
+    { "korean": "늦다", "chinese": "晚的、遲的", "pos": "形容詞" },
+    { "korean": "꿈꿔오다", "chinese": "一直夢想", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "다가가다", "chinese": "靠近過去", "pos": "動詞" }
+  ]
+}

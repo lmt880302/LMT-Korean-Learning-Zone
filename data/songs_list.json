@@ -183,7 +183,7 @@
   },  
   {
     "id": "girlsday-nareul-itjimayo",
-    "title": "Don't forget me",
+    "title": "나를 잊지마요 (Don't forget me)",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-nareul-itjimayo.json"
   },  
@@ -204,6 +204,12 @@
     "title": "너, 한눈 팔지마!",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-dont-flirt.json"    
+  }, 
+  {
+    "id": "girlsday-two-of-us",
+    "title": "둘이서 (Two Of Us)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-two-of-us.json"    
   }, 
   {
     "id": "girlsday-ring-my-bell",
@@ -228,6 +234,12 @@
     "title": "Oh! My God",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-oh-my-god.json"
+  }, 
+  {
+    "id": "girlsday-apeuda",
+    "title": "아프다",
+    "artist": "Girl's Day (걸스데이)(Sojin Solo)",
+    "lyricsFile": "../data/lyrics/girlsday-apeuda.json"
   }, 
   {
     "id": "kassy-story-of-night-fall",

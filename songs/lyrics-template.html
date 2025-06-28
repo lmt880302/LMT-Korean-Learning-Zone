@@ -26,6 +26,7 @@
             text-transform: uppercase;
             letter-spacing: 0.05em;
         }
+        /* Default (Desktop) Styles */
         .lyrics-line-block {
             background-color: #1E293B; 
             border-radius: 0.75rem; 
@@ -47,16 +48,16 @@
             transform: translateY(-2px);
         }
         .korean-lyric {
-            font-size: 1.25rem; /* MODIFIED: Increased from 1.125rem */
+            font-size: 1.25rem;
             font-weight: 500;
             color: #E0E7FF;
             margin-bottom: 0.25rem; 
-            line-height: 1.7; /* MODIFIED: Increased from 1.6 */
+            line-height: 1.7; 
         }
         .translation-lyric {
-            font-size: 1rem; /* MODIFIED: Increased from 0.875rem */
+            font-size: 1rem;
             color: #94A3B8;
-            line-height: 1.65; /* MODIFIED: Increased from 1.6 */
+            line-height: 1.65;
         }
 
         /* Desktop Learning Panel */
@@ -100,19 +101,19 @@
             display: block;
             color: #A5B4FC; 
             font-weight: 500;
-            font-size: 1rem; /* MODIFIED: Increased from 0.9rem */
+            font-size: 1rem; 
             margin-bottom: 0.25rem;
         }
         .analysis-point span {
-            font-size: 0.9rem; /* MODIFIED: Increased from 0.85rem */
+            font-size: 0.9rem; 
             color: #CBD5E1;
-            line-height: 1.65; /* MODIFIED: Increased from 1.6 */
+            line-height: 1.65;
         }
         .key-vocab-item { margin-bottom: 0.5rem; }
         .key-vocab-ko { font-weight: 500; color: #A5F3FC; }
         .key-vocab-details { 
             color: #CBD5E1; 
-            font-size: 1rem; /* MODIFIED: Increased from 0.9rem */
+            font-size: 1rem;
         }
 
         /* Mobile Accordion Analysis */
@@ -129,6 +130,39 @@
             margin-top: 1rem;
             max-height: 500px; /* Adjust as needed */
             padding: 0 0 0.5rem;
+        }
+        
+        /* MODIFIED: Mobile-specific styles for compactness */
+        @media (max-width: 767px) {
+            .lyrics-line-block {
+                padding: 0.6rem 1rem; /* Further reduced padding */
+                margin-bottom: 0.35rem; /* Further reduced margin */
+            }
+            .korean-lyric {
+                font-size: 1.05rem; /* More compact font size */
+                line-height: 1.55;
+            }
+            .translation-lyric {
+                font-size: 0.875rem; /* More compact font size */
+                line-height: 1.5;
+            }
+
+            /* NEW: Compact styles for expanded analysis on mobile */
+            .analysis-content-wrapper.open {
+                margin-top: 0.75rem;
+                padding-bottom: 0.25rem;
+            }
+            .analysis-point {
+                padding: 0.5rem 0.25rem;
+            }
+            .analysis-point strong {
+                font-size: 0.9rem;
+                margin-bottom: 0.15rem;
+            }
+            .analysis-point span {
+                font-size: 0.825rem;
+                line-height: 1.6;
+            }
         }
 
         /* === ACTION BUTTON STYLE === */
@@ -225,7 +259,6 @@
     </a>
 
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 pt-12">
-        <!-- MODIFIED: Re-introduced grid layout for desktop -->
         <div id="song-details-container" class="grid grid-cols-1 md:grid-cols-3 md:gap-x-12">
             <!-- Lyrics Column -->
             <div class="md:col-span-2" id="lyrics-column">
@@ -234,15 +267,15 @@
             <!-- Desktop Learning Panel Column -->
             <div class="hidden md:block" id="learning-panel-column">
                  <div class="learning-panel">
-                      <div id="analysis-panel" class="learning-card">
-                            <h3 class="learning-card-title">
-                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" /></svg>
-                                <span>單字文法解析</span>
-                            </h3>
-                            <div id="analysis-content">
-                                <p class="text-slate-400 text-sm">請點擊左側任一句歌詞，以查看詳細解析。</p>
-                            </div>
-                      </div>
+                        <div id="analysis-panel" class="learning-card">
+                                <h3 class="learning-card-title">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z" /></svg>
+                                    <span>單字文法解析</span>
+                                </h3>
+                                <div id="analysis-content">
+                                    <p class="text-slate-400 text-sm">請點擊左側任一句歌詞，以查看詳細解析。</p>
+                                </div>
+                        </div>
                  </div>
             </div>
         </div>
@@ -350,7 +383,7 @@
             const songHeaderHTML = `
                 <div class="text-center mb-8 pb-6 border-b border-slate-700">
                     <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-2">${sanitizeHTML(songData.title)}</h1>
-                    <p class="text-xl text-slate-400 mb-6">${sanitizeHTML(songData.artist)}</p>
+                    <p class="text-lg md:text-xl text-slate-400 mb-6">${sanitizeHTML(songData.artist)}</p>
                     <div class="flex justify-center items-center flex-wrap gap-4">
                         <button id="copy-lyrics-btn" class="action-btn text-white bg-gradient-to-r from-blue-500 to-indigo-600 border-transparent shadow-lg shadow-indigo-500/30 hover:shadow-xl hover:shadow-indigo-500/40" title="複製歌名與韓文歌詞">
                             <svg xmlns="http://www.w3.org/2000/svg" class="inline-block h-5 w-5 mr-2 -mt-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" /></svg>
