@@ -240,7 +240,13 @@
     "title": "Oh! My God",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-oh-my-god.json"
-  }, 
+  },  
+  {
+    "id": "girlsday-lets-go",
+    "title": "Let’s Go",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-lets-go.json"
+  },  
   {
     "id": "girlsday-apeuda",
     "title": "아프다",

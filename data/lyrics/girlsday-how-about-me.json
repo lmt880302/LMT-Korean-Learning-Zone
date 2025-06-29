@@ -1,14 +1,14 @@
 {
   "id": "girlsday-how-about-me",
-  "title": "나 어때 (How about me)",
+  "title": "나 어때 (How About Me)",
   "artist": "Girl's Day (걸스데이)",
   "lines": [
     {
       "sectionTitle": "Verse 1",
-      "korean": "솔직하게 정말 어때 어떠니",
-      "translation": "老實說 真的覺得怎樣 怎麼樣呢",
+      "korean": "나 솔직하게 정말 어때 어떠니",
+      "translation": "我 老實說 真的覺得怎樣 怎麼樣呢",
       "analysis": [
-        { "point": "솔직하게", "explanation": "形容詞 솔직하다 (率直的) 的副詞形。" },
+        { "point": "나 솔직하게", "explanation": "나 (我) + 솔직하게 (老實地)。" },
         { "point": "정말 어때 어떠니", "explanation": "정말 (真的) + 어떻다 (怎麼樣) 的疑問形，重複表示強調。" }
       ]
     },
@@ -21,11 +21,11 @@
       ]
     },
     {
-      "korean": "너를 보면 내맘 콩닥콩닥 뛰는걸 어떡해",
+      "korean": "너를 보면 내 맘 콩닥콩닥 뛰는걸 어떡해",
       "translation": "一看到你 我的心就撲通撲通地跳 怎麼辦",
       "analysis": [
         { "point": "너를 보면", "explanation": "너를 (你) + 보다 (看) + -(으)면。" },
-        { "point": "내맘 콩닥콩닥 뛰는걸", "explanation": "내 마음 (我的心) + 콩닥콩닥 (擬態詞，心跳聲) + 뛰다 (跳) + -(는)걸 (感嘆)。" },
+        { "point": "내 맘 콩닥콩닥 뛰는걸", "explanation": "내 마음 (我的心) + 콩닥콩닥 (擬態詞，心跳聲) + 뛰다 (跳) + -(는)걸 (感嘆)。" },
         { "point": "어떡해", "explanation": "어떻게 해 (怎麼辦) 的縮略。" }
       ]
     },
@@ -38,11 +38,18 @@
       ]
     },
     {
-      "korean": "달콤한 내 사랑을 가져가 니가 좋아 (너무좋아)",
-      "translation": "帶走我甜蜜的愛吧 我喜歡你 (太喜歡了)",
+      "korean": "달콤한 내 사랑을 가져가",
+      "translation": "帶走我甜蜜的愛吧",
       "analysis": [
-        { "point": "달콤한 내 사랑을 가져가", "explanation": "달콤하다 (甜蜜的) 定語形態 + 내 사랑 (我的愛) + -을 (受格) + 가져가다 (帶走) 的命令形。" },
-        { "point": "니가 좋아", "explanation": "네가 (你) + 좋다 (喜歡)。" }
+        { "point": "달콤한 내 사랑을 가져가", "explanation": "달콤하다 (甜蜜的) 定語形態 + 내 사랑 (我的愛) + -을 (受格) + 가져가다 (帶走) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "니가 좋아 너무 좋아",
+      "translation": "喜歡你 太喜歡了",
+      "analysis": [
+        { "point": "니가 좋아", "explanation": "네가 (你) + 좋다 (喜歡)。" },
+        { "point": "너무 좋아", "explanation": "너무 (太) + 좋다 (喜歡)。" }
       ]
     },
     {
@@ -56,17 +63,17 @@
     },
     {
       "sectionTitle": "Verse 2",
-      "korean": "조금 그냥 그래 키도 작고",
-      "translation": "就只是有點普通 個子也矮",
+      "korean": "조금 그냥 그래",
+      "translation": "就只是有點普通",
       "analysis": [
-        { "point": "조금 그냥 그래", "explanation": "片語，有點一般、馬馬虎虎。" },
-        { "point": "키도 작고", "explanation": "키 (身高) + -도 (也) + 작다 (矮) + -고。" }
+        { "point": "조금 그냥 그래", "explanation": "片語，有點一般、馬馬虎虎。" }
       ]
     },
     {
-      "korean": "얼굴도 너무 까만 것 같아 (넌안돼~)",
-      "translation": "臉好像也太黑了 (你不行~)",
+      "korean": "키도 작고 얼굴도 너무 까만 것 같아",
+      "translation": "個子也矮 臉好像也太黑了",
       "analysis": [
+        { "point": "키도 작고", "explanation": "키 (身高) + -도 (也) + 작다 (矮) + -고。" },
         { "point": "얼굴도 너무 까만 것 같아", "explanation": "얼굴 (臉) + -도 (也) + 너무 (太) + 까맣다 (黑的) 定語形態 + 것 같다 (好像)。" }
       ]
     },
@@ -95,10 +102,10 @@
       ]
     },
     {
-      "korean": "전화 너무 목소리 너무 멋진 너",
-      "translation": "電話聲音太帥氣的你",
+      "korean": "전화 너머 목소리 너무 멋진 너",
+      "translation": "電話另一頭的聲音太帥氣的你",
       "analysis": [
-        { "point": "전화 너무 목소리", "explanation": "전화 (電話) + 너무 (太) + 목소리 (聲音)。" },
+        { "point": "전화 너머 목소리", "explanation": "전화 (電話) + 너머 (另一頭) + 목소리 (聲音)。" },
         { "point": "너무 멋진 너", "explanation": "너무 (太) + 멋지다 (帥氣的) 定語形態 + 너 (你)。" }
       ]
     },
@@ -112,11 +119,11 @@
     },
     {
       "sectionTitle": "Chorus",
-      "korean": "나 솔직하게 정말 어때어때 어떠니",
-      "translation": "我 老實說 真的覺得怎樣怎樣 怎麼樣呢",
+      "korean": "나 솔직하게 정말 어때 어떠니",
+      "translation": "我 老實說 真的覺得怎樣 怎麼樣呢",
       "analysis": [
         { "point": "나 솔직하게", "explanation": "나 (我) + 솔직하게 (老實地)。" },
-        { "point": "정말 어때어때 어떠니", "explanation": "정말 (真的) + 어떻다 (怎麼樣) 的疑問形，重複表示強調。" }
+        { "point": "정말 어때 어떠니", "explanation": "정말 (真的) + 어떻다 (怎麼樣) 的疑問形，重複表示強調。" }
       ]
     },
     {
@@ -128,11 +135,11 @@
       ]
     },
     {
-      "korean": "너를 보면 내맘 콩닥콩닥 뛰는걸 어떡해",
+      "korean": "너를 보면 내 맘 콩닥콩닥 뛰는걸 어떡해",
       "translation": "一看到你 我的心就撲通撲通地跳 怎麼辦",
       "analysis": [
         { "point": "너를 보면", "explanation": "너를 (你) + 보다 (看) + -(으)면。" },
-        { "point": "내맘 콩닥콩닥 뛰는걸", "explanation": "내 마음 (我的心) + 콩닥콩닥 (擬態詞，心跳聲) + 뛰다 (跳) + -(는)걸 (感嘆)。" },
+        { "point": "내 맘 콩닥콩닥 뛰는걸", "explanation": "내 마음 (我的心) + 콩닥콩닥 (擬態詞，心跳聲) + 뛰다 (跳) + -(는)걸 (感嘆)。" },
         { "point": "어떡해", "explanation": "어떻게 해 (怎麼辦) 的縮略。" }
       ]
     },
@@ -145,11 +152,18 @@
       ]
     },
     {
-      "korean": "달콤한 내 사랑을 가져가 니가 좋아 (너무좋아)",
-      "translation": "帶走我甜蜜的愛吧 我喜歡你 (太喜歡了)",
+      "korean": "달콤한 내 사랑을 가져가",
+      "translation": "帶走我甜蜜的愛吧",
       "analysis": [
-        { "point": "달콤한 내 사랑을 가져가", "explanation": "달콤하다 (甜蜜的) 定語形態 + 내 사랑 (我的愛) + -을 (受格) + 가져가다 (帶走) 的命令形。" },
-        { "point": "니가 좋아", "explanation": "네가 (你) + 좋다 (喜歡)。" }
+        { "point": "달콤한 내 사랑을 가져가", "explanation": "달콤하다 (甜蜜的) 定語形態 + 내 사랑 (我的愛) + -을 (受格) + 가져가다 (帶走) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "니가 좋아 너무 좋아",
+      "translation": "喜歡你 太喜歡了",
+      "analysis": [
+        { "point": "니가 좋아", "explanation": "네가 (你) + 좋다 (喜歡)。" },
+        { "point": "너무 좋아", "explanation": "너무 (太) + 좋다 (喜歡)。" }
       ]
     },
     {
@@ -171,11 +185,11 @@
       ]
     },
     {
-      "korean": "고마워 내게 백마탄 왕자",
+      "korean": "고마워 내겐 백마탄 왕자",
       "translation": "謝謝你 對我來說是白馬王子",
       "analysis": [
         { "point": "고마워", "explanation": "고맙다 (謝謝) 的非格式體。" },
-        { "point": "내게 백마탄 왕자", "explanation": "내게 (對我) + 백마를 탄 (騎著白馬的) + 왕자 (王子)。" }
+        { "point": "내겐 백마탄 왕자", "explanation": "내게는 (對我來說) + 백마를 탄 (騎著白馬的) + 왕자 (王子)。" }
       ]
     },
     {
@@ -195,26 +209,27 @@
       ]
     },
     {
-      "korean": "새하얀 샴푸같은 우린 Bubble bubble bubble rap 후~",
-      "translation": "像雪白洗髮精一樣的我們 Bubble bubble bubble rap 呼~",
+      "korean": "새하얀 샴푸같은 우린 Bubble bubble bubble Love",
+      "translation": "像雪白洗髮精一樣的我們 Bubble bubble bubble Love",
       "analysis": [
         { "point": "새하얀 샴푸같은", "explanation": "새하얗다 (雪白的) 定語形態 + 샴푸 (shampoo) + -같은 (像...一樣)。" },
         { "point": "우린", "explanation": "우리는 (我們)。" }
       ]
     },
     {
-      "korean": "자꾸자꾸 커져가는 너와 나의 사랑은",
-      "translation": "漸漸變大的你和我的愛情是",
+      "korean": "후 자꾸자꾸 커져가는 너와 나의 사랑은",
+      "translation": "呼 漸漸變大的你和我的愛情是",
       "analysis": [
+        { "point": "후", "explanation": "感嘆詞。" },
         { "point": "자꾸자꾸 커져가는", "explanation": "자꾸자꾸 (漸漸) + 커져가다 (變大) 的定語形態。" },
         { "point": "너와 나의 사랑은", "explanation": "너와 나의 (你和我的) + 사랑 (愛) + -은。" }
       ]
     },
     {
-      "korean": "레모네이드처럼 상큼해 You're fresh~",
-      "translation": "像檸檬汽水一樣清爽 You're fresh~",
+      "korean": "레모네이드 처럼 상큼해",
+      "translation": "像檸檬汽水一樣清爽",
       "analysis": [
-        { "point": "레모네이드처럼 상큼해", "explanation": "레모네이드 (lemonade) + -처럼 (像) + 상큼하다 (清爽)。" }
+        { "point": "레모네이드 처럼 상큼해", "explanation": "레모네이드 (lemonade) + -처럼 (像) + 상큼하다 (清爽)。" }
       ]
     },
     {
@@ -235,20 +250,27 @@
       ]
     },
     {
-      "korean": "어쩌면 좋니 이젠 니가 없으면 난 안돼",
-      "translation": "該怎麼辦才好 如今沒有你我就不行",
+      "korean": "어쩌면 좋니",
+      "translation": "該怎麼辦才好",
       "analysis": [
-        { "point": "어쩌면 좋니", "explanation": "片語，該怎麼辦才好。" },
+        { "point": "어쩌면 좋니", "explanation": "片語，該怎麼辦才好。" }
+      ]
+    },
+    {
+      "korean": "이젠 니가 없으면 난 안돼",
+      "translation": "如今沒有你我就不行",
+      "analysis": [
         { "point": "이젠 니가 없으면", "explanation": "이젠 (如今) + 네가 없으면 (如果沒有你)。" },
         { "point": "난 안돼", "explanation": "나는 (我) + 안 되다 (不行)。" }
       ]
     },
     {
-      "sectionTitle": "Chorus",
-      "korean": "널 누구 보다 love you love you 사랑해",
-      "translation": "比誰都 love you love you 愛你",
+      "sectionTitle": "Outro/Chorus",
+      "korean": "널 누구 보다 Love you Love you 사랑해",
+      "translation": "比誰都 Love you Love you 愛你",
       "analysis": [
-        { "point": "널 누구 보다", "explanation": "너를 (你) + 누구보다 (比誰都)。" }
+        { "point": "널 누구 보다", "explanation": "너를 (你) + 누구보다 (比誰都)。" },
+        { "point": "사랑해", "explanation": "사랑하다 (愛)。" }
       ]
     },
     {
@@ -256,16 +278,16 @@
       "translation": "我太喜歡你了 怎麼辦",
       "analysis": [
         { "point": "난 니가 너무 좋아", "explanation": "나는 (我) + 네가 (你) + 너무 (太) + 좋다 (喜歡)。" },
-        { "point": "어떡해", "explanation": "어떻게 해 (怎麼辦) 的縮略。" }
+        { "point": "어떡해", "explanation": "어떻게 해 (怎麼辦)。" }
       ]
     },
     {
-      "korean": "하루라도 나는 니가 없인 못살것 같은데(못살것 같은데)",
-      "translation": "哪怕一天 沒有你我都好像活不下去 (好像活不下去)",
+      "korean": "하루라도 나는 니가 없인 못살 것 같은데",
+      "translation": "哪怕一天 沒有你我都好像活不下去",
       "analysis": [
         { "point": "하루라도 나는", "explanation": "하루 (一天) + -라도 (即使) + 나는。" },
         { "point": "니가 없인", "explanation": "네가 없이는 (沒有你) 的縮略。" },
-        { "point": "못살것 같은데", "explanation": "못살다 (活不下去) + -(으)ㄹ 것 같다 (好像) + -ㄴ데。" }
+        { "point": "못살 것 같은데", "explanation": "못살다 (活不下去) + -(으)ㄹ 것 같다 (好像) + -ㄴ데。" }
       ]
     },
     {
@@ -273,24 +295,30 @@
       "translation": "想見你 心撲通撲通地跳 怎麼辦",
       "analysis": [
         { "point": "널 보고 싶어", "explanation": "너를 (你) + 보고 싶다 (想見)。" },
-        { "point": "두근두근 어떡해", "explanation": "두근두근 (擬態詞，心跳聲) + 어떡해。" }
+        { "point": "두근두근 어떡해", "explanation": "두근두근 (擬態詞) + 어떡해 (怎麼辦)。" }
       ]
     },
     {
-      "korean": "숨기려 해도 나는 잘 안돼 그럼어때 (그럼어때)",
-      "translation": "就算想隱藏 我也做不好 那又怎樣 (那又怎樣)",
+      "korean": "숨기려 해도 나는 잘 안돼",
+      "translation": "就算想隱藏 我也做不好",
       "analysis": [
         { "point": "숨기려 해도", "explanation": "숨기다 (隱藏) + -(으)려고 해도 (就算想...)。" },
-        { "point": "나는 잘 안돼", "explanation": "나는 (我) + 잘 안 되다 (做不好)。" },
-        { "point": "그럼어때", "explanation": "그러면 어때 (那又怎樣) 的縮略。" }
+        { "point": "나는 잘 안돼", "explanation": "나는 (我) + 잘 안 되다 (做不好)。" }
+      ]
+    },
+    {
+      "korean": "그럼 어때",
+      "translation": "那又怎樣",
+      "analysis": [
+        { "point": "그럼 어때", "explanation": "그러면 어때 (那又怎樣) 的縮略。" }
       ]
     },
     {
       "korean": "매일매일 너만을 사랑할꺼야",
       "translation": "每天每天只會愛著你",
       "analysis": [
-        { "point": "매일매일", "explanation": "副詞 매일 (每天) 的重複。" },
-        { "point": "너만을 사랑할꺼야", "explanation": "너만을 (只你) + 사랑하다 (愛) + -(으)ㄹ 것이다 (將會)。" }
+        { "point": "매일매일 너만을", "explanation": "매일매일 (每天) + 너만을 (只你)。" },
+        { "point": "사랑할꺼야", "explanation": "사랑하다 (愛) + -(으)ㄹ 것이다 (將會)。" }
       ]
     },
     {
