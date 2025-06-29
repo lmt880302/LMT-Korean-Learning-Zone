@@ -1,71 +1,81 @@
 [
   {
-    "id": "mind-u-what-was-that",
-    "title": "What Was That",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/what-was-that.json"
-  },  
-  {
-    "id": "mind-u-if-winter-comes",
-    "title": "겨울이 오면 (If Winter Comes)",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-if-winter-comes.json"
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
-    "id": "mind-u-chwihangime",
-    "title": "취한김에",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-chwihangime.json"
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
-    "id": "mind-u-i-am-sorry",
-    "title": "I am sorry (내가 미안해)",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-i-am-sorry.json"
-  },    
-  {
-    "id": "mind-u-maeumeul-beneun-nat",
-    "title": "마음을 베는 낫",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-maeumeul-beneun-nat.json"
-  },  
-  {
-    "id": "mind-u-i-didnt-get-you",
-    "title": "I Didn't Get You",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-i-didnt-get-you.json"
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
-    "id": "mind-u-watch-from-you",
-    "title": "Watch from you",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-watch-from-you.json"
+    "id": "aespa-whiplash",
+    "title": "Whiplash",
+    "artist": "aespa (에스파)",
+    "lyricsFile": "../data/lyrics/aespa-whiplash.json"
   },
   {
-    "id": "mind-u-a-night-full-of-longing",
-    "title": "A night full of longing",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-a-night-full-of-longing.json"
+    "id": "epikhigh-screen-time",
+    "title": "Screen Time (에픽하이)",
+    "artist": "Epik High",
+    "lyricsFile": "../data/lyrics/epikhigh-screen-time.json"
   },
   {
-    "id": "mind-u-wait-a-minute",
-    "title": "Wait a Minute (잠깐만요)",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-wait-a-minute.json"
-  },  
-    
-  {
-    "id": "mind-u-if-i-knew",
-    "title": "If I knew it was our last time",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/epikhigh-if-i-knew.json"
+    "id": "epikhigh-1-minute-1-second",
+    "title": "1분 1초 (1 Minute 1 Second)",
+    "artist": "Epik High (에픽하이)",
+    "lyricsFile": "../data/lyrics/epikhigh-1-minute-1-second.json"
   },
-    
   {
-    "id": "mind-u-the-night-we-parted",
-    "title": "The night we parted (헤어지던 밤)",
-    "artist": "MIND U (마인드유)",
-    "lyricsFile": "../data/lyrics/mind-u-the-night-we-parted.json"
+    "id": "epikhigh-based-on-a-true-story",
+    "title": "내 얘기 같아 (Based On A True Story)",
+    "artist": "Epik High (에픽하이)",
+    "lyricsFile": "../data/lyrics/epikhigh-based-on-a-true-story.json"
+  },
+  {
+    "id": "epikhigh-bioneun-nal-deutgi-joeun-norae",
+    "title": "비 오는 날 듣기 좋은 노래",
+    "artist": "Epik High (에픽하이)",
+    "lyricsFile": "../data/lyrics/bioneun-nal-deutgi-joeun-norae.json"
+  },
+  {
+    "id": "epikhigh-i-was-happy",
+    "title": "행복했습니다 (I Was Happy)",
+    "artist": "Epik High (에픽하이)",
+    "lyricsFile": "../data/lyrics/epikhigh-i-was-happy.json"
+  },
+  {
+    "id": "epikhigh-love-story",
+    "title": "연애소설 (Love Story)",
+    "artist": "Epik High (Feat. IU)",
+    "lyricsFile": "../data/lyrics/epikhigh-love-story.json"
+  },
+  {
+    "id": "epikhigh-gray-so-gray",
+    "title": "Gray so gray",
+    "artist": "Epik High (Feat. Younha)",
+    "lyricsFile": "../data/lyrics/epikhigh-gray-so-gray.json"
+  },
+  {
+    "id": "epikhigh-one",
+    "title": "One",
+    "artist": "Epik High (Feat. 지선)",
+    "lyricsFile": "../data/lyrics/epikhigh-one.json"
+  },
+  {
+    "id": "epikhigh-can-you-hear-my-heart",
+    "title": "Can You Hear My Heart",
+    "artist": "Epik High (feat. 이하이)",
+    "lyricsFile": "../data/lyrics/epikhigh-can-you-hear-my-heart.json"
   },
   {
     "id": "epikhigh-chupda",
@@ -80,191 +90,77 @@
     "lyricsFile": "../data/lyrics/epikhigh-chupda.json"
   },
   {
-    "id": "epikhigh-based-on-a-true-story",
-    "title": "내 얘기 같아 (Based On A True Story)",
-    "artist": "Epik High (에픽하이)", 
-    "lyricsFile": "../data/lyrics/epikhigh-based-on-a-true-story.json"
-  },
-    {
-    "id": "epikhigh-love-story",
-    "title": "연애소설 (Love Story)",
-    "artist": "Epik High (Feat. IU)",
-    "lyricsFile": "../data/lyrics/epikhigh-love-story.json"
-  },
-    {
-    "id": "epikhigh-gray-so-gray",
-    "title": "Gray so gray",
-    "artist": "Epik High (Feat. Younha)",
-    "lyricsFile": "../data/lyrics/epikhigh-gray-so-gray.json"
-  },
-    {
-    "id": "epikhigh-one",
-    "title": "One",
-    "artist": "Epik High (Feat. 지선)",
-    "lyricsFile": "../data/lyrics/epikhigh-one.json"
-  },
-    {
-    "id": "epikhigh-screen-time",
-    "title": "Screen Time (에픽하이)",
-    "artist": "Epik High",
-    "lyricsFile": "../data/lyrics/epikhigh-screen-time.json"
-  },    
-  {
-    "id": "epikhigh-can-you-hear-my-heart",
-    "title": "Can You Hear My Heart",
-    "artist": "Epik High (feat. 이하이)",
-    "lyricsFile": "../data/lyrics/epikhigh-can-you-hear-my-heart.json"
-  }, 
-  {
-    "id": "epikhigh-bioneun-nal-deutgi-joeun-norae",
-    "title": "비 오는 날 듣기 좋은 노래",
-    "artist": "Epik High (에픽하이)",
-    "lyricsFile": "../data/lyrics/bioneun-nal-deutgi-joeun-norae.json"
-  } ,  
-  {
-    "id": "epikhigh-1-minute-1-second",
-    "title": "1분 1초 (1 Minute 1 Second)",
-    "artist": "Epik High (에픽하이)",
-    "lyricsFile": "../data/lyrics/epikhigh-1-minute-1-second.json"
-  } , 
-  {
-    "id": "epikhigh-i-was-happy",
-    "title": "행복했습니다 (I Was Happy)",
-    "artist": "Epik High (에픽하이)", 
-    "lyricsFile": "../data/lyrics/epikhigh-i-was-happy.json"
-  } , 
-  {
-    "id": "girlsday-something",
-    "title": "Something",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-something.json"
-  },  
-  {
-    "id": "girlsday-come-slowly",
-    "title": "Come slowly",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-come-slowly.json"
-  },  
-  {
-    "id": "girlsday-bogosipeo",
-    "title": "보고싶어 (I Miss You)",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-bogosipeo.json"
-  },  
-  {
-    "id": "girlsday-thirsty",
-    "title": "Thirsty",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-thirsty.json"
-  }, 
-  {
-    "id": "girlsday-darling",
-    "title": "Darling",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-darling.json"
-  }, 
-  {
-    "id": "girlsday-look-at-me",
-    "title": "Look At Me",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-look-at-me.json"
-  },  
-  {
-    "id": "girlsday-gidaehae",
-    "title": "기대해",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-gidaehae.json"
-  },  
-  {
     "id": "girlsday-if-you-give-me-your-heart",
     "title": "If you give me your heart",
     "artist": "Girl's Day (Cover)",
     "lyricsFile": "../data/lyrics/girlsday-if-you-give-me-your-heart.json"
-  },  
-  {
-    "id": "girlsday-banjjak-banjjak",
-    "title": "반짝반짝",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-banjjak-banjjak.json"
-  },  
-  {
-    "id": "girlsday-nareul-itjimayo",
-    "title": "나를 잊지마요 (Don't forget me)",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-nareul-itjimayo.json"
-  },  
-  {
-    "id": "girlsday-hanbeonman-anajwo",
-    "title": "한번만 안아줘",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-hanbeonman-anajwo.json"
   },
-  {
-    "id": "girlsday-yeoja-daetongnyeong",
-    "title": "여자대통령 (Female President)",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-yeoja-daetongnyeong.json"    
-  }, 
-  {
-    "id": "girlsday-dont-flirt",
-    "title": "너, 한눈 팔지마!",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-dont-flirt.json"    
-  }, 
-  {
-    "id": "girlsday-two-of-us",
-    "title": "둘이서 (Two Of Us)",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-two-of-us.json"    
-  }, 
-  {
-    "id": "girlsday-ring-my-bell",
-    "title": "링마벨 (Ring My Bell)",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-ring-my-bell.json"
-  }, 
-  {
-    "id": "girlsday-i-dont-mind",
-    "title": "I Don't Mind",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-i-dont-mind.json"
-  },    
-  {
-    "id": "girlsday-love-again",
-    "title": "Love Again",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-love-again.json"
-  }, 
-  {
-    "id": "girlsday-oh-my-god",
-    "title": "Oh! My God",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-oh-my-god.json"
-  },  
-  {
-    "id": "girlsday-lets-go",
-    "title": "Let’s Go",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-lets-go.json"
-  },  
   {
     "id": "girlsday-apeuda",
     "title": "아프다",
     "artist": "Girl's Day (Sojin X ZICO)",
     "lyricsFile": "../data/lyrics/girlsday-apeuda.json"
-  }, 
-  {
-    "id": "kassy-story-of-night-fall",
-     "title": "Story of night fall",
-    "artist": "Kassy",
-    "lyricsFile": "../data/lyrics/mind-u-story-of-night-fall.json"
   },
   {
-    "id": "o3ohn-milky-way-between-us",
-    "title": "Milky Way Between Us",
-    "artist": "O3ohn (오존)",
-    "lyricsFile": "../data/lyrics/o3ohn-milky-way-between-us.json"
-  }, 
+    "id": "girlsday-come-slowly",
+    "title": "Come slowly",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-come-slowly.json"
+  },
+  {
+    "id": "girlsday-cupid",
+    "title": "Cupid",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-cupid.json"
+  },
+  {
+    "id": "girlsday-darling",
+    "title": "Darling",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-darling.json"
+  },
+  {
+    "id": "girlsday-hello-bubble",
+    "title": "Hello Bubble",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-hello-bubble.json"
+  },
+  {
+    "id": "girlsday-i-dont-mind",
+    "title": "I Don't Mind",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-i-dont-mind.json"
+  },
+  {
+    "id": "girlsday-lets-go",
+    "title": "Let’s Go",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-lets-go.json"
+  },
+  {
+    "id": "girlsday-look-at-me",
+    "title": "Look At Me",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-look-at-me.json"
+  },
+  {
+    "id": "girlsday-love-again",
+    "title": "Love Again",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-love-again.json"
+  },
+  {
+    "id": "girlsday-nothing-lasts-up",
+    "title": "Nothing Lasts Up (잘해줘봐야)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-nothing-lasts-up.json"
+  },
+  {
+    "id": "girlsday-oh-my-god",
+    "title": "Oh! My God",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-oh-my-god.json"
+  },
   {
     "id": "girlsday-show-you",
     "title": "Show you",
@@ -272,35 +168,167 @@
     "lyricsFile": "../data/lyrics/girlsday-show-you.json"
   },
   {
-    "id": "girlsday-hello-bubble",
-    "title": "Hello Bubble",
-    "artist": "Girl's Day (걸스데이)", 
-    "lyricsFile": "../data/lyrics/girlsday-hello-bubble.json"
-  },  
+    "id": "girlsday-something",
+    "title": "Something",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-something.json"
+  },
+  {
+    "id": "girlsday-thirsty",
+    "title": "Thirsty",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-thirsty.json"
+  },
   {
     "id": "girlsday-white-day",
     "title": "White Day",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-white-day.json"
-  }, 
+  },
   {
-    "id": "girlsday-tell-me",
-    "title": "말해줘요 (Tell Me)",
+    "id": "girlsday-gidaehae",
+    "title": "기대해",
     "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-tell-me.json"
-  }, 
-  {
-    "id": "girlsday-nothing-lasts-up",
-    "title": "Nothing Lasts Up (잘해줘봐야)",
-    "artist": "Girl's Day (걸스데이)",
-    "lyricsFile": "../data/lyrics/girlsday-nothing-lasts-up.json"
-  }, 
+    "lyricsFile": "../data/lyrics/girlsday-gidaehae.json"
+  },
   {
     "id": "girlsday-how-about-me",
     "title": "나 어때 (How about me)",
     "artist": "Girl's Day (걸스데이)",
     "lyricsFile": "../data/lyrics/girlsday-how-about-me.json"
-  }, 
+  },
+  {
+    "id": "girlsday-nareul-itjimayo",
+    "title": "나를 잊지마요 (Don't forget me)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-nareul-itjimayo.json"
+  },
+  {
+    "id": "girlsday-dont-flirt",
+    "title": "너, 한눈 팔지마!",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-dont-flirt.json"
+  },
+  {
+    "id": "girlsday-two-of-us",
+    "title": "둘이서 (Two Of Us)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-two-of-us.json"
+  },
+  {
+    "id": "girlsday-ring-my-bell",
+    "title": "링마벨 (Ring My Bell)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-ring-my-bell.json"
+  },
+  {
+    "id": "girlsday-tell-me",
+    "title": "말해줘요 (Tell Me)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-tell-me.json"
+  },
+  {
+    "id": "girlsday-banjjak-banjjak",
+    "title": "반짝반짝",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-banjjak-banjjak.json"
+  },
+  {
+    "id": "girlsday-bogosipeo",
+    "title": "보고싶어 (I Miss You)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-bogosipeo.json"
+  },
+  {
+    "id": "girlsday-yeoja-daetongnyeong",
+    "title": "여자대통령 (Female President)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-yeoja-daetongnyeong.json"
+  },
+  {
+    "id": "girlsday-hanbeonman-anajwo",
+    "title": "한번만 안아줘",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-hanbeonman-anajwo.json"
+  },
+  {
+    "id": "kassy-story-of-night-fall",
+    "title": "Story of night fall",
+    "artist": "Kassy",
+    "lyricsFile": "../data/lyrics/mind-u-story-of-night-fall.json"
+  },
+  {
+    "id": "mind-u-a-night-full-of-longing",
+    "title": "A night full of longing",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-a-night-full-of-longing.json"
+  },
+  {
+    "id": "mind-u-i-am-sorry",
+    "title": "I am sorry (내가 미안해)",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-i-am-sorry.json"
+  },
+  {
+    "id": "mind-u-i-didnt-get-you",
+    "title": "I Didn't Get You",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-i-didnt-get-you.json"
+  },
+  {
+    "id": "mind-u-if-i-knew",
+    "title": "If I knew it was our last time",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/epikhigh-if-i-knew.json"
+  },
+  {
+    "id": "mind-u-the-night-we-parted",
+    "title": "The night we parted (헤어지던 밤)",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-the-night-we-parted.json"
+  },
+  {
+    "id": "mind-u-wait-a-minute",
+    "title": "Wait a Minute (잠깐만요)",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-wait-a-minute.json"
+  },
+  {
+    "id": "mind-u-watch-from-you",
+    "title": "Watch from you",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-watch-from-you.json"
+  },
+  {
+    "id": "mind-u-what-was-that",
+    "title": "What Was That",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/what-was-that.json"
+  },
+  {
+    "id": "mind-u-if-winter-comes",
+    "title": "겨울이 오면 (If Winter Comes)",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-if-winter-comes.json"
+  },
+  {
+    "id": "mind-u-maeumeul-beneun-nat",
+    "title": "마음을 베는 낫",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-maeumeul-beneun-nat.json"
+  },
+  {
+    "id": "mind-u-chwihangime",
+    "title": "취한김에",
+    "artist": "MIND U (마인드유)",
+    "lyricsFile": "../data/lyrics/mind-u-chwihangime.json"
+  },
+  {
+    "id": "o3ohn-milky-way-between-us",
+    "title": "Milky Way Between Us",
+    "artist": "O3ohn (오존)",
+    "lyricsFile": "../data/lyrics/o3ohn-milky-way-between-us.json"
+  },
   {
     "id": "seventeen-i-dont-know",
     "title": "I Don't Know (글쎄)",
@@ -308,23 +336,17 @@
     "lyricsFile": "../data/lyrics/seventeen-i-dont-know.json"
   },
   {
+    "id": "seventeen-smile-flower",
+    "title": "웃음꽃 (Smile Flower)",
+    "artist": "SEVENTEEN (세븐틴)",
+    "lyricsFile": "../data/lyrics/seventeen-smile-flower.json"
+  },
+  {
     "id": "seventeen-destiny",
     "title": "운명 (Destiny)",
     "artist": "SEVENTEEN (WOOZI Solo)",
     "lyricsFile": "../data/lyrics/seventeen-destiny.json"
   },
-  {
-    "id": "seventeen-smile-flower",
-    "title": "웃음꽃 (Smile Flower)",
-    "artist": "SEVENTEEN (세븐틴)",
-    "lyricsFile": "../data/lyrics/seventeen-smile-flower.json"
-  },     
-  {
-    "id": "aespa-whiplash",
-    "title": "Whiplash",
-    "artist": "aespa (에스파)",
-    "lyricsFile": "../data/lyrics/aespa-whiplash.json"
-  }, 
   {
     "id": "_____",
     "title": "_____",
