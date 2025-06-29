@@ -1,232 +1,330 @@
 {
-  "id": "girlsday-cupid",
-  "title": "Cupid",
+  "id": "girls-day-cupid",
+  "title": "큐피트 (Cupid)",
   "artist": "Girl's Day (걸스데이)",
   "lines": [
     {
       "sectionTitle": "Intro",
       "korean": "I'm your cupid My boy I love you!",
-      "translation": "我是你的邱比特 我的男孩 我愛你!",
+      "translation": "我是你的邱比特，我的男孩，我愛你！",
       "analysis": [
-        { "point": "I'm your cupid", "explanation": "英文歌詞。" }
+        { "point": "I'm your cupid", "explanation": "英文，表示「我是你的邱比特」。" }
       ]
     },
     {
       "sectionTitle": "Verse 1",
       "korean": "짜릿해진 기분인걸 이런 느낌 처음인걸",
-      "translation": "是觸電般的感覺呢 這種感覺是第一次呢",
+      "translation": "是酥麻的感覺，這種感受是第一次",
       "analysis": [
-        { "point": "짜릿해진 기분인걸", "explanation": "짜릿해지다 (變得酥麻/觸電) 的過去定語形態 + 기분 (感覺) + -인걸 (是...呢)。" },
-        { "point": "이런 느낌 처음인걸", "explanation": "이런 (這樣的) + 느낌 (感覺) + 처음 (第一次) + -인걸。" }
+        { "point": "짜릿해진", "explanation": "由形容詞「짜릿하다 (酥麻的、刺激的)」加上「-아/어지다」構成「짜릿해지다 (變得酥麻)」，再變為過去冠詞形「짜릿해진」來修飾「기분」。" },
+        { "point": "기분인걸", "explanation": "「기분인 것이다」的口語縮寫，由名詞「기분 (心情、感覺)」+「이다」+ 感嘆式終結詞尾「-ㄴ걸」組成。" },
+        { "point": "이런 느낌", "explanation": "指示冠詞「이렇다 (這樣的)」的冠詞形「이런」+ 名詞「느낌 (感覺)」。" },
+        { "point": "처음인걸", "explanation": "「처음인 것이다」的口語縮寫，由名詞「처음 (第一次)」+「이다」+ 感嘆式終結詞尾「-ㄴ걸」組成。" }
       ]
     },
     {
       "korean": "마법에 걸린 것 같아 널 볼 때면",
-      "translation": "像中了魔法一樣 每當看到你時",
+      "translation": "每當見到你時，就好像中了魔法一樣",
       "analysis": [
-        { "point": "마법에 걸린 것 같아", "explanation": "마법에 걸리다 (中了魔法) + -(으)ㄴ 것 같다 (好像...)。" },
-        { "point": "널 볼 때면", "explanation": "너를 (你) + 보다 (看) + -ㄹ 때면 (每當...的時候)。" }
+        { "point": "마법에 걸린 것 같아", "explanation": "片語「마법에 걸리다 (中了魔法)」的過去冠詞形「걸린」+ 不完全名詞「것」+ 助詞「같다 (像...一樣)」。" },
+        { "point": "널 볼 때면", "explanation": "「너를」的縮寫「널」+ 動詞「보다 (看見)」+ 句型「-(으)ㄹ 때면」，表示「每當...的時候」。" }
       ]
     },
     {
       "korean": "콩닥콩닥 설레는 맘 머리부터 발끝까지",
-      "translation": "撲通撲通悸動的心 從頭到腳",
+      "translation": "撲通撲通悸動的心，從頭到腳",
       "analysis": [
-        { "point": "콩닥콩닥", "explanation": "副詞，形容心臟撲通撲通跳的樣子。" },
-        { "point": "설레는 맘", "explanation": "설레다 (心動、悸動) 的定語形態 + 마음 (心)。" },
-        { "point": "머리부터 발끝까지", "explanation": "從頭到腳。" }
+        { "point": "콩닥콩닥", "explanation": "狀聲詞，形容心臟撲通撲通跳的聲音。" },
+        { "point": "설레는 맘", "explanation": "動詞「설레다 (心動、悸動)」的現在冠詞形「설레는」+「마음 (心)」的縮寫「맘」。" },
+        { "point": "머리부터 발끝까지", "explanation": "慣用句，由「머리 (頭)」+「-부터 (從...)」+「발끝 (腳尖)」+「-까지 (到...)」組成，意為「從頭到腳」。" }
       ]
     },
     {
       "korean": "니가 너무 좋아진걸 나도 몰래",
-      "translation": "變得太喜歡你了 連我也不知道",
+      "translation": "不知不覺間，我變得好喜歡你",
       "analysis": [
-        { "point": "니가 너무 좋아진걸", "explanation": "네가 (你) + 너무 (太) + 좋아지다 (變得喜歡) + -(으)ㄴ걸 (感嘆)。" },
-        { "point": "나도 몰래", "explanation": "나도 (我也) + 모르게 (不知不覺地)。" }
+        { "point": "니가 너무 좋아진걸", "explanation": "「네가 너무 좋아진 것이다」的口語縮寫。「니가 (你)」+ 副詞「너무 (太)」+ 動詞「좋아지다 (變得喜歡)」+ 感嘆式終結詞尾「-ㄴ걸」。" },
+        { "point": "나도 몰래", "explanation": "慣用句，由「나 (我)」+「-도 (也)」+ 動詞「모르다 (不知道)」的副詞形「몰래 (偷偷地、不知不覺地)」組成。" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "조심스럽게 다가갈래요",
-      "translation": "想要小心翼翼地靠近你",
+      "translation": "我要小心翼翼地靠近你",
       "analysis": [
-        { "point": "조심스럽게", "explanation": "形容詞 조심스럽다 (小心翼翼的) 的副詞形。" },
-        { "point": "다가갈래요", "explanation": "動詞 다가가다 (靠近) + -(으)ㄹ래요 (表示意願的疑問句)。" }
+        { "point": "조심스럽게", "explanation": "形容詞「조심스럽다 (小心的)」的副詞形。" },
+        { "point": "다가갈래요", "explanation": "動詞「다가가다 (靠近)」詞幹 + 表示意願或詢問意見的終結詞尾「-(으)ㄹ래요」。" }
       ]
     },
     {
       "korean": "Oh! I'm your sweety girl 날 안아줘",
-      "translation": "Oh! 我是你的甜心女孩 抱抱我",
+      "translation": "Oh! 我是你的甜心女孩，抱抱我",
       "analysis": [
-        { "point": "날 안아줘", "explanation": "나를 (我) + 안아주다 (擁抱) 的命令形。" }
+        { "point": "날 안아줘", "explanation": "「나를」的縮寫「날」+ 動詞「안다 (擁抱)」+ 補助動詞「-아/어 주다」的命令型，表示「請為我做...」。" }
       ]
     },
     {
       "korean": "조심스럽게 얘기할래요",
-      "translation": "想要小心翼翼地對你說",
+      "translation": "我要小心翼翼地對你說",
       "analysis": [
-        { "point": "조심스럽게 얘기할래요", "explanation": "小心翼翼地 + 얘기하다 (說話) + -(으)ㄹ래요。" }
+        { "point": "조심스럽게", "explanation": "形容詞「조심스럽다 (小心的)」的副詞形。" },
+        { "point": "얘기할래요", "explanation": "動詞「얘기하다 (說話)」詞幹 + 表示意願或詢問意見的終結詞尾「-(으)ㄹ래요」。" }
       ]
     },
     {
       "korean": "Oh! I'm your lovely girl 니 품에 안긴 채",
-      "translation": "Oh! 我是你的可愛女孩 在你的懷抱中",
+      "translation": "Oh! 我是你的可愛女孩，就這樣被你抱在懷裡",
       "analysis": [
-        { "point": "니 품에 안긴 채", "explanation": "네 (你的) + 품 (懷抱) + -에 + 안기다 (被抱) 的過去定語形態 + -(으)ㄴ 채(로) (保持...的狀態)。" }
+        { "point": "니 품에", "explanation": "「네 (你的)」+ 名詞「품 (懷抱)」+ 場所助詞「-에」。" },
+        { "point": "안긴 채", "explanation": "動詞「안기다 (被抱)」的過去冠詞形「안긴」+ 補助名詞「채」，構成「-(으)ㄴ 채로」句型，表示「在...的狀態下」。" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "Hello Hello you shiny boy!",
-      "translation": "哈囉 哈囉 你這閃亮的男孩!",
+      "translation": "Hello Hello 你這閃亮的男孩！",
       "analysis": [
-        { "point": "Hello Hello you shiny boy!", "explanation": "英文歌詞。" }
+        { "point": "Shiny boy", "explanation": "英文，形容對方是個閃耀的男孩。" }
       ]
     },
     {
       "korean": "큐피트 화살이 내 마음에 콕 들어와",
-      "translation": "邱比特的箭矢콕地射進我心裡",
+      "translation": "邱比特的箭「콕」地射進我的心",
       "analysis": [
-        { "point": "큐피트 화살이", "explanation": "큐피트 (Cupid) + 화살 (箭) + -이 (主格)。" },
-        { "point": "내 마음에", "explanation": "내 마음 (我的心) + -에。" },
-        { "point": "콕 들어와", "explanation": "콕 (擬聲詞，刺入的聲音) + 들어오다 (進來)。" }
+        { "point": "큐피트 화살이", "explanation": "名詞「큐피트 (邱比特)」+ 名詞「화살 (箭)」+ 主格助詞「-이」。" },
+        { "point": "내 마음에", "explanation": "「나의 마음 (我的心)」的縮寫「내 맘」+ 場所助詞「-에」。" },
+        { "point": "콕 들어와", "explanation": "副詞/狀聲詞「콕 (準確刺入的聲音)」+ 動詞「들어오다 (進來)」的連接形。" }
       ]
     },
     {
       "korean": "너를 보면 난 떨려와",
-      "translation": "看著你我就會顫抖",
+      "translation": "看見你我就會顫抖",
       "analysis": [
-        { "point": "너를 보면", "explanation": "너를 (你) + 보다 (看) + -(으)면。" },
-        { "point": "난 떨려와", "explanation": "나는 (我) + 떨려오다 (顫抖起來)。" }
+        { "point": "너를 보면", "explanation": "代名詞「너 (你)」+ 受格助詞「-를」+ 動詞「보다 (看)」+ 假設連接詞尾「-(으)면」。" },
+        { "point": "난 떨려와", "explanation": "「나는」的縮寫「난」+ 動詞「떨리다 (顫抖)」+ 補助動詞「-아/어 오다」，表示動作或狀態的開始並持續。" }
       ]
     },
     {
       "korean": "Hello Hello you shiny boy!",
-      "translation": "哈囉 哈囉 你這閃亮的男孩!",
+      "translation": "Hello Hello 你這閃亮的男孩！",
       "analysis": [
-        { "point": "Hello Hello you shiny boy!", "explanation": "英文歌詞。" }
+        { "point": "Shiny boy", "explanation": "英文，形容對方是個閃耀的男孩。" }
       ]
     },
     {
       "korean": "달콤한 웃음이 내 마음에 쏙 들어와",
-      "translation": "甜蜜的微笑쏙地走進我心裡",
+      "translation": "甜美的微笑「쏙」地進入我心裡",
       "analysis": [
-        { "point": "달콤한 웃음이", "explanation": "달콤하다 (甜蜜的) 定語形態 + 웃음 (微笑) + -이。" },
-        { "point": "내 마음에", "explanation": "我的心裡。" },
-        { "point": "쏙 들어와", "explanation": "쏙 (擬態詞，完全進入的樣子) + 들어오다 (進來)。" }
+        { "point": "달콤한 웃음이", "explanation": "形容詞「달콤하다 (甜美的)」的冠詞形「달콤한」修飾名詞「웃음 (微笑)」，後接主格助詞「-이」。" },
+        { "point": "내 마음에", "explanation": "「나의 마음 (我的心)」的縮寫「내 맘」+ 場所助詞「-에」。" },
+        { "point": "쏙 들어와", "explanation": "副詞/狀聲詞「쏙 (完全進入的模樣)」+ 動詞「들어오다 (進來)」的連接形。" }
       ]
     },
     {
       "korean": "하루 종일 난 떨려와 You got my heart!",
-      "translation": "我一整天都在顫抖 You got my heart!",
+      "translation": "一整天我都在顫抖，你得到了我的心！",
       "analysis": [
-        { "point": "하루 종일 난 떨려와", "explanation": "하루 종일 (一整天) + 나는 (我) + 떨려오다 (顫抖起來)。" }
+        { "point": "하루 종일", "explanation": "慣用句，由名詞「하루 (一天)」和名詞「종일 (整天)」組成，意為「一整天」。" },
+        { "point": "난 떨려와", "explanation": "「나는」的縮寫「난」+ 動詞「떨리다 (顫抖)」+ 補助動詞「-아/어 오다」，表示動作或狀態的開始並持續。" }
       ]
     },
     {
       "sectionTitle": "Post-Chorus",
       "korean": "My love My love My love My boy",
-      "translation": "我的愛 我的愛 我的愛 我的男孩",
+      "translation": "我的愛，我的愛，我的愛，我的男孩",
       "analysis": [
-        { "point": "My love My boy", "explanation": "英文歌詞。" }
+        { "point": "My love, My boy", "explanation": "英文，表示「我的愛、我的男孩」。" }
       ]
     },
     {
-      "sectionTitle": "Rap",
+      "korean": "My love My love My love My boy",
+      "translation": "我的愛，我的愛，我的愛，我的男孩",
+      "analysis": [
+        { "point": "My love, My boy", "explanation": "英文，表示「我的愛、我的男孩」。" }
+      ]
+    },
+    {
+      "korean": "My love My love My love My boy",
+      "translation": "我的愛，我的愛，我的愛，我的男孩",
+      "analysis": [
+        { "point": "My love, My boy", "explanation": "英文，表示「我的愛、我的男孩」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
       "korean": "두근두근 가슴 떨려 니 어깨에 기대어 Come on boy",
-      "translation": "撲通撲通心在跳 倚靠在你肩上 Come on boy",
+      "translation": "心臟噗通噗通地跳，靠在你的肩膀上 Come on boy",
       "analysis": [
-        { "point": "두근두근 가슴 떨려", "explanation": "두근두근 (擬聲詞) + 가슴 (心) + 떨리다 (跳動)。" },
-        { "point": "니 어깨에 기대어", "explanation": "네 어깨에 (在你肩上) + 기대다 (倚靠)。" }
+        { "point": "두근두근", "explanation": "狀聲詞，形容心臟劇烈跳動的聲音。" },
+        { "point": "가슴 떨려", "explanation": "「가슴이 떨리다」的口語形式，名詞「가슴 (胸口、心)」+ 動詞「떨리다 (顫抖)」。" },
+        { "point": "니 어깨에 기대어", "explanation": "「네 (你的)」+ 名詞「어깨 (肩膀)」+ 場所助詞「-에」+ 動詞「기대다 (依靠)」的連接形。" }
       ]
     },
     {
-      "korean": "You're my boy Love my boy",
-      "translation": "你是我的男孩 愛我的男孩",
+      "korean": "You're my boy Love my boy My boy My love My love (My boy)",
+      "translation": "你是我的男孩，愛我的男孩，我的男孩，我的愛，我的愛（我的男孩）",
       "analysis": [
-        { "point": "You're my boy Love my boy", "explanation": "英文歌詞。" }
+        { "point": "You're my boy", "explanation": "英文，表示「你是我的男孩」。" }
       ]
     },
     {
-      "korean": "My boy My love My love (My boy)",
-      "translation": "我的男孩 我的愛 我的愛 (我的男孩)",
+      "sectionTitle": "Pre-Chorus",
+      "korean": "조심스럽게 다가갈래요",
+      "translation": "我要小心翼翼地靠近你",
       "analysis": [
-        { "point": "My boy My love", "explanation": "英文歌詞。" }
+        { "point": "조심스럽게", "explanation": "形容詞「조심스럽다 (小心的)」的副詞形。" },
+        { "point": "다가갈래요", "explanation": "動詞「다가가다 (靠近)」詞幹 + 表示意願或詢問意見的終結詞尾「-(으)ㄹ래요」。" }
+      ]
+    },
+    {
+      "korean": "Oh! I'm your sweety girl 날 안아줘 조심스럽게 얘기할래요",
+      "translation": "Oh! 我是你的甜心女孩，抱抱我，我要小心翼翼地對你說",
+      "analysis": [
+        { "point": "날 안아줘", "explanation": "「나를」的縮寫「날」+ 動詞「안다 (擁抱)」+ 補助動詞「-아/어 주다」的命令型，表示「請為我做...」。" },
+        { "point": "얘기할래요", "explanation": "動詞「얘기하다 (說話)」詞幹 + 表示意願或詢問意見的終結詞尾「-(으)ㄹ래요」。" }
+      ]
+    },
+    {
+      "korean": "Oh! I'm your lovely girl 니 품에 안긴 채",
+      "translation": "Oh! 我是你的可愛女孩，就這樣被你抱在懷裡",
+      "analysis": [
+        { "point": "니 품에", "explanation": "「네 (你的)」+ 名詞「품 (懷抱)」+ 場所助詞「-에」。" },
+        { "point": "안긴 채", "explanation": "動詞「안기다 (被抱)」的過去冠詞形「안긴」+ 補助名詞「채」，構成「-(으)ㄴ 채로」句型，表示「在...的狀態下」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Hello Hello you shiny boy!",
+      "translation": "Hello Hello 你這閃亮的男孩！",
+      "analysis": [
+        { "point": "Shiny boy", "explanation": "英文，形容對方是個閃耀的男孩。" }
+      ]
+    },
+    {
+      "korean": "큐피트 화살이 내 마음에 콕 들어와",
+      "translation": "邱比特的箭「콕」地射進我的心",
+      "analysis": [
+        { "point": "큐피트 화살이", "explanation": "名詞「큐피트 (邱比特)」+ 名詞「화살 (箭)」+ 主格助詞「-이」。" },
+        { "point": "내 마음에", "explanation": "「나의 마음 (我的心)」的縮寫「내 맘」+ 場所助詞「-에」。" },
+        { "point": "콕 들어와", "explanation": "副詞/狀聲詞「콕 (準確刺入的聲音)」+ 動詞「들어오다 (進來)」的連接形。" }
+      ]
+    },
+    {
+      "korean": "너를 보면 난 떨려와",
+      "translation": "看見你我就會顫抖",
+      "analysis": [
+        { "point": "너를 보면", "explanation": "代名詞「너 (你)」+ 受格助詞「-를」+ 動詞「보다 (看)」+ 假設連接詞尾「-(으)면」。" },
+        { "point": "난 떨려와", "explanation": "「나는」的縮寫「난」+ 動詞「떨리다 (顫抖)」+ 補助動詞「-아/어 오다」，表示動作或狀態的開始並持續。" }
+      ]
+    },
+    {
+      "korean": "Hello Hello you shiny boy! 달콤한 웃음이",
+      "translation": "Hello Hello 你這閃亮的男孩！甜美的微笑",
+      "analysis": [
+        { "point": "달콤한 웃음이", "explanation": "形容詞「달콤하다 (甜美的)」的冠詞形「달콤한」修飾名詞「웃음 (微笑)」，後接主格助詞「-이」。" }
+      ]
+    },
+    {
+      "korean": "내 마음에 쏙 들어와 하루 종일 난 떨려와",
+      "translation": "「쏙」地進入我心裡，一整天我都在顫抖",
+      "analysis": [
+        { "point": "쏙 들어와", "explanation": "副詞/狀聲詞「쏙 (完全進入的模樣)」+ 動詞「들어오다 (進來)」的連接形。" },
+        { "point": "하루 종일", "explanation": "慣用句，由名詞「하루 (一天)」和名詞「종일 (整天)」組成，意為「一整天」。" },
+        { "point": "난 떨려와", "explanation": "「나는」的縮寫「난」+ 動詞「떨리다 (顫抖)」+ 補助動詞「-아/어 오다」。" }
+      ]
+    },
+    {
+      "korean": "You got my heart!",
+      "translation": "你得到了我的心！",
+      "analysis": [
+        { "point": "You got my heart!", "explanation": "英文，表示「你擄獲了我的心」。" }
       ]
     },
     {
       "sectionTitle": "Bridge",
-      "korean": "I love you I love you",
-      "translation": "我愛你 我愛你",
+      "korean": "Shiny boy! 큐피트 화살이",
+      "translation": "閃亮的男孩！邱比特的箭",
       "analysis": [
-        { "point": "I love you", "explanation": "英文歌詞。" }
+        { "point": "큐피트 화살이", "explanation": "名詞「큐피트 (邱比特)」+ 名詞「화살 (箭)」+ 主格助詞「-이」。" }
       ]
     },
     {
-      "korean": "난 매일매일 들어도",
-      "translation": "我就算每天每天聽",
+      "korean": "내 마음에 콕 들어와 너를 보면 난 떨려와",
+      "translation": "「콕」地射進我的心，看見你我就會顫抖",
       "analysis": [
-        { "point": "난 매일매일 들어도", "explanation": "나는 (我) + 매일매일 (每天) + 듣다 (聽) + -어도 (即使)。" }
+        { "point": "콕 들어와", "explanation": "副詞/狀聲詞「콕 (準確刺入的聲音)」+ 動詞「들어오다 (進來)」的連接形。" },
+        { "point": "너를 보면", "explanation": "代名詞「너 (你)」+ 受格助詞「-를」+ 動詞「보다 (看)」+ 假設連接詞尾「-(으)면」。" },
+        { "point": "난 떨려와", "explanation": "「나는」的縮寫「난」+ 動詞「떨리다 (顫抖)」+ 補助動詞「-아/어 오다」。" }
       ]
     },
     {
-      "korean": "I love it I love it",
-      "translation": "我愛它 我愛它",
+      "korean": "You got my heart!",
+      "translation": "你得到了我的心！",
       "analysis": [
-        { "point": "I love it", "explanation": "英文歌詞。" }
+        { "point": "You got my heart!", "explanation": "英文，表示「你擄獲了我的心」。" }
       ]
     },
     {
-      "korean": "Boy 오직 너만 할 수 있는 걸",
-      "translation": "Boy 只有你才能做到的事",
+      "sectionTitle": "Outro",
+      "korean": "My love My love My love My love",
+      "translation": "我的愛，我的愛，我的愛，我的愛",
       "analysis": [
-        { "point": "오직 너만", "explanation": "오직 (唯獨) + 너만 (只有你)。" },
-        { "point": "할 수 있는 걸", "explanation": "하다 (做) + -(으)ㄹ 수 있다 (能) + -(으)ㄴ/는 걸 (感嘆)。" }
+        { "point": "My love", "explanation": "英文，表示「我的愛」。" }
       ]
     },
     {
-      "korean": "Bubble oh bubble",
-      "translation": "泡泡 oh 泡泡",
+      "korean": "My love My love My love My boy",
+      "translation": "我的愛，我的愛，我的愛，我的男孩",
       "analysis": [
-        { "point": "Bubble oh bubble", "explanation": "英文歌詞。" }
+        { "point": "My love, My boy", "explanation": "英文，表示「我的愛、我的男孩」。" }
       ]
     },
     {
-      "korean": "처럼 기분이 날아오를 것만 같아",
-      "translation": "心情就像要飛起來一樣",
+      "korean": "My love My love My love My love",
+      "translation": "我的愛，我的愛，我的愛，我的愛",
       "analysis": [
-        { "point": "처럼", "explanation": "助詞，像...一樣。" },
-        { "point": "기분이 날아오를 것만 같아", "explanation": "기분이 날아오르다 (心情飛揚) + -(으)ㄹ 것만 같다 (好像就要...)。" }
+        { "point": "My love", "explanation": "英文，表示「我的愛」。" }
       ]
     },
     {
-      "korean": "오늘 너와 함께 go go go baby",
-      "translation": "今天和你一起 go go go baby",
+      "korean": "My love My love My love My boy",
+      "translation": "我的愛，我的愛，我的愛，我的男孩",
       "analysis": [
-        { "point": "오늘 너와 함께", "explanation": "오늘 (今天) + 너와 (和你) + 함께 (一起)。" }
+        { "point": "My love, My boy", "explanation": "英文，表示「我的愛、我的男孩」。" }
       ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "짜릿하다", "chinese": "酥麻的、觸電般的", "pos": "形容詞" },
-    { "korean": "마법에 걸리다", "chinese": "中了魔法", "pos": "片語" },
+    { "korean": "짜릿하다", "chinese": "酥麻的、刺激的", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "感覺、心情", "pos": "名詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "처음", "chinese": "第一次", "pos": "名詞" },
+    { "korean": "마법", "chinese": "魔法", "pos": "名詞" },
+    { "korean": "걸리다", "chinese": "被掛上、罹患、中(計)", "pos": "動詞" },
     { "korean": "콩닥콩닥", "chinese": "撲通撲通", "pos": "副詞" },
     { "korean": "설레다", "chinese": "心動、悸動", "pos": "動詞" },
+    { "korean": "머리", "chinese": "頭", "pos": "名詞" },
+    { "korean": "발끝", "chinese": "腳尖", "pos": "名詞" },
     { "korean": "좋아지다", "chinese": "變得喜歡", "pos": "動詞" },
-    { "korean": "조심스럽다", "chinese": "小心翼翼的", "pos": "形容詞" },
+    { "korean": "몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "조심스럽다", "chinese": "小心的", "pos": "形容詞" },
     { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
-    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "얘기하다", "chinese": "說話", "pos": "動詞" },
     { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
-    { "korean": "안기다", "chinese": "被抱著", "pos": "動詞" },
+    { "korean": "안기다", "chinese": "被抱", "pos": "動詞" },
+    { "korean": "큐피트", "chinese": "邱比特", "pos": "名詞" },
     { "korean": "화살", "chinese": "箭", "pos": "名詞" },
+    { "korean": "콕", "chinese": "刺入貌、準確地", "pos": "副詞" },
     { "korean": "들어오다", "chinese": "進來", "pos": "動詞" },
-    { "korean": "떨려오다", "chinese": "顫抖起來", "pos": "動詞" },
-    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜美的", "pos": "形容詞" },
     { "korean": "웃음", "chinese": "微笑", "pos": "名詞" },
-    { "korean": "하루 종일", "chinese": "一整天", "pos": "副詞" },
-    { "korean": "두근두근", "chinese": "撲通撲通", "pos": "副詞" },
-    { "korean": "기대다", "chinese": "倚靠", "pos": "動詞" },
-    { "korean": "오직", "chinese": "唯獨", "pos": "副詞" },
-    { "korean": "날아오르다", "chinese": "飛起", "pos": "動詞" }
+    { "korean": "쏙", "chinese": "完全進入貌", "pos": "副詞" },
+    { "korean": "하루 종일", "chinese": "一整天", "pos": "片語" },
+    { "korean": "두근두근", "chinese": "噗通噗通(心跳)", "pos": "副詞" },
+    { "korean": "가슴", "chinese": "胸口、心", "pos": "名詞" },
+    { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" }
   ]
 }
