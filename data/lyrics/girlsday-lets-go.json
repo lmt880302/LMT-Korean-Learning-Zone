@@ -5,66 +5,36 @@
   "lines": [
     {
       "sectionTitle": "Verse 1",
-      "korean": "쏟아지는 햇살에,",
-      "translation": "在傾瀉而下的陽光裡，",
+      "korean": "쏟아지는 햇살에, 시원한 바람까지",
+      "translation": "在傾瀉而下的陽光裡，連同涼爽的風",
       "analysis": [
-        { "point": "쏟아지는", "explanation": "動詞 쏟아지다 (傾瀉) 的現在定語形態，修飾後面的名詞。" },
-        { "point": "햇살에", "explanation": "名詞 햇살 (陽光) + 場所助詞 -에。" }
+        { "point": "쏟아지는 햇살에", "explanation": "쏟아지다 (傾瀉) 的定語形態 + 햇살 (陽光) + -에 (在)。" },
+        { "point": "시원한 바람까지", "explanation": "시원하다 (涼爽的) 定語形態 + 바람 (風) + -까지 (連同)。" }
       ]
     },
     {
-      "korean": "시원한 바람까지",
-      "translation": "連同涼爽的風",
-      "analysis": [
-        { "point": "시원한", "explanation": "形容詞 시원하다 (涼爽的) 的定語形態。" },
-        { "point": "바람까지", "explanation": "名詞 바람 (風) + 補助詞 -까지 (連...都)。" }
-      ]
-    },
-    {
-      "korean": "다 모두 널 위한 거야",
-      "translation": "全都是為了你",
+      "korean": "다 모두 널 위한 거야 자 힘을 내봐",
+      "translation": "全都是為了你 來吧 打起精神試試",
       "analysis": [
         { "point": "다 모두", "explanation": "副詞 다 (都) 和 모두 (全部)，用於強調。" },
-        { "point": "널 위한 거야", "explanation": "너를 위한 (為了你) + 것이다 (是...) 的口語縮略。" }
+        { "point": "널 위한 거야", "explanation": "너를 위한 (為了你) + 것이다 (是...) 的口語縮略。" },
+        { "point": "자 힘을 내봐", "explanation": "자 (來吧) + 힘을 내다 (打起精神) + -아/어 보다 (試試看)。" }
       ]
     },
     {
-      "korean": "자 힘을 내봐",
-      "translation": "來吧，打起精神",
+      "korean": "더는 두려워 말고 다시 털고 일어나",
+      "translation": "別再害怕了 重新振作起來",
       "analysis": [
-        { "point": "자", "explanation": "感嘆詞，用於提議或催促，「來吧」。" },
-        { "point": "힘을 내봐", "explanation": "片語 힘을 내다 (打起精神) + 補助動詞 -아/어 보다 (試試看)。" }
+        { "point": "더는 두려워 말고", "explanation": "더는 (再也) + 두려워하다 (害怕) + -지 말고 (不要...)。" },
+        { "point": "다시 털고 일어나", "explanation": "다시 (再次) + 털다 (抖掉) + -고 일어나다 (起來)。比喻重新振作。" }
       ]
     },
     {
-      "korean": "더는 두려워 말고,",
-      "translation": "別再害怕了，",
+      "korean": "뭐 누구나 한 번쯤은 넘어질 수도 있잖아",
+      "translation": "唉，不管是誰都會有那麼一次可能會跌倒不是嗎",
       "analysis": [
-        { "point": "더는", "explanation": "더 이상은 (再也) 的縮略。" },
-        { "point": "두려워 말고", "explanation": "두려워하다 (害怕) 的詞幹 + -지 말고 (不要...)。" }
-      ]
-    },
-    {
-      "korean": "다시 털고 일어나",
-      "translation": "重新振作起來",
-      "analysis": [
-        { "point": "다시", "explanation": "副詞，再次。" },
-        { "point": "털고 일어나", "explanation": "털다 (抖掉) + -고 + 일어나다 (起來)。比喻抖掉煩惱、重新振作。" }
-      ]
-    },
-    {
-      "korean": "뭐 누구나 한 번쯤은",
-      "translation": "唉，不管是誰都會有那麼一次",
-      "analysis": [
-        { "point": "뭐", "explanation": "感嘆詞，用於緩和語氣。" },
-        { "point": "누구나", "explanation": "代名詞 누구 (誰) + -나 (無論)。" },
-        { "point": "한 번쯤은", "explanation": "한 번쯤 (一次左右) + -은 (主題助詞)。" }
-      ]
-    },
-    {
-      "korean": "넘어질 수도 있잖아",
-      "translation": "也可能會跌倒不是嗎",
-      "analysis": [
+        { "point": "뭐 누구나", "explanation": "感嘆詞 뭐 + 누구나 (無論是誰)。" },
+        { "point": "한 번쯤은", "explanation": "한 번쯤 (一次左右) + -은 (主題)。" },
         { "point": "넘어질 수도 있잖아", "explanation": "넘어지다 (跌倒) + -(으)ㄹ 수도 있다 (也可能) + -잖아 (表確認)。" }
       ]
     },
@@ -80,25 +50,15 @@
       "korean": "천천히 가도 좋아",
       "translation": "慢慢走也很好",
       "analysis": [
-        { "point": "천천히", "explanation": "副詞，慢慢地。" },
-        { "point": "가도 좋아", "explanation": "가다 (走) + -아/어도 좋다 (...也可以/很好)。" }
+        { "point": "천천히 가도 좋아", "explanation": "천천히 (慢慢地) + 가다 (走) + -아/어도 좋다 (...也可以/很好)。" }
       ]
     },
     {
-      "korean": "늘 꿈꿔왔던 그 순간은",
-      "translation": "一直夢想著的那個瞬間",
+      "korean": "늘 꿈꿔왔던 그 순간은 항상 네 곁에 있어",
+      "translation": "一直夢想著的那個瞬間 總是在你身邊",
       "analysis": [
-        { "point": "늘", "explanation": "副詞，總是。" },
-        { "point": "꿈꿔왔던", "explanation": "꿈꿔오다 (一直夢想) 的過去定語形態。" },
-        { "point": "그 순간은", "explanation": "그 (那) + 순간 (瞬間) + -은 (主題助詞)。" }
-      ]
-    },
-    {
-      "korean": "항상 네 곁에 있어",
-      "translation": "總是在你身邊",
-      "analysis": [
-        { "point": "항상", "explanation": "副詞，總是。" },
-        { "point": "네 곁에 있어", "explanation": "네 (你的) + 곁에 있다 (在身邊)。" }
+        { "point": "늘 꿈꿔왔던 그 순간은", "explanation": "늘 (總是) + 꿈꿔오다 (一直夢想) 的過去定語形態 + 그 순간 (那個瞬間) + -은。" },
+        { "point": "항상 네 곁에 있어", "explanation": "항상 (總是) + 네 (你的) + 곁에 있다 (在身邊)。" }
       ]
     },
     {
@@ -127,15 +87,142 @@
       "korean": "아름다운 열정으로",
       "translation": "用美麗的熱情",
       "analysis": [
-        { "point": "아름다운", "explanation": "아름답다 (美麗的) 定語形態。" },
-        { "point": "열정으로", "explanation": "열정 (熱情) + -(으)로 (用)。" }
+        { "point": "아름다운 열정으로", "explanation": "아름답다 (美麗的) 定語形態 + 열정 (熱情) + -(으)로 (用)。" }
       ]
     },
     {
-      "korean": "Let’s Go Let’s Go",
-      "translation": "Let’s Go Let’s Go",
+      "korean": "Let’s Go Let’s Go 달려 보자",
+      "translation": "Let’s Go Let’s Go 跑跑看吧",
       "analysis": [
-        { "point": "Let’s Go", "explanation": "英文歌詞。" }
+        { "point": "달려 보자", "explanation": "달리다 (跑) + -어 보다 (試著做) 的共動形 (-자)。" }
+      ]
+    },
+    {
+      "korean": "Let’s Go Let’s Go 자 힘을 내",
+      "translation": "Let’s Go Let’s Go 來吧 打起精神",
+      "analysis": [
+        { "point": "자 힘을 내", "explanation": "자 (來吧) + 힘을 내다 (打起精神) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "용기 내 보는 거야",
+      "translation": "鼓起勇氣試試看吧",
+      "analysis": [
+        { "point": "용기 내 보는 거야", "explanation": "용기를 내다 (鼓起勇氣) + -아/어 보다 + -(으)ㄴ/는 것이다。" }
+      ]
+    },
+    {
+      "korean": "지금부터 시작이야",
+      "translation": "從現在開始",
+      "analysis": [
+        { "point": "지금부터 시작이야", "explanation": "지금부터 (從現在開始) + 시작 (開始) + -이다。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "가끔 생각지 못한 비바람에 젖어도",
+      "translation": "即使偶爾被意想不到的風雨淋濕",
+      "analysis": [
+        { "point": "가끔 생각지 못한", "explanation": "가끔 (偶爾) + 생각지 못하다 (意想不到) 的定語形態。" },
+        { "point": "비바람에 젖어도", "explanation": "비바람 (風雨) + -에 (被動助詞) + 젖다 (淋濕) + -어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "네 맘의 태양이 널 일으켜 줄 거야",
+      "translation": "你心中的太陽會將你扶起",
+      "analysis": [
+        { "point": "네 맘의 태양이", "explanation": "네 (你的) + 마음 (心) + -의 (的) + 태양 (太陽) + -이。" },
+        { "point": "널 일으켜 줄 거야", "explanation": "너를 (你) + 일으켜 주다 (扶起來) + -(으)ㄹ 거야 (將會)。" }
+      ]
+    },
+    {
+      "korean": "네 꿈이 이루어질 그날을 떠올려봐",
+      "translation": "回想一下你夢想實現的那天吧",
+      "analysis": [
+        { "point": "네 꿈이 이루어질", "explanation": "네 (你的) + 꿈 (夢) + -이 (主格) + 이루어지다 (實現) 的將來時定語形態。" },
+        { "point": "그날을 떠올려봐", "explanation": "그날을 (那天) + 떠올려보다 (回想看看) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "자 하나 둘 상상만으로 가까워지고 있잖아",
+      "translation": "來吧 一二 光靠想像不也正在靠近嗎",
+      "analysis": [
+        { "point": "자 하나 둘", "explanation": "來吧 一 二。" },
+        { "point": "상상만으로", "explanation": "상상 (想像) + -만으로 (只靠)。" },
+        { "point": "가까워지고 있잖아", "explanation": "가까워지다 (變近) + -고 있다 (正在) + -잖아。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2",
+      "korean": "네 곁에 항상 있어줄게",
+      "translation": "我會一直在你身邊",
+      "analysis": [
+        { "point": "네 곁에 항상", "explanation": "네 (你的) + 곁에 (在身邊) + 항상 (總是)。" },
+        { "point": "있어줄게", "explanation": "있어주다 (待在...身邊) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "천천히 가도 좋아",
+      "translation": "慢慢走也很好",
+      "analysis": [
+        { "point": "천천히 가도 좋아", "explanation": "慢慢地走也很好。" }
+      ]
+    },
+    {
+      "korean": "새롭게 펼쳐질 내일이 지금 네 앞에 있어",
+      "translation": "將會全新展開的明天現在就在你眼前",
+      "analysis": [
+        { "point": "새롭게 펼쳐질", "explanation": "새롭게 (全新地) + 펼쳐지다 (展開) 的將來時定語形態。" },
+        { "point": "내일이", "explanation": "내일 (明天) + -이 (主格)。" },
+        { "point": "지금 네 앞에 있어", "explanation": "現在在你眼前。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "지치고 힘들 때 이것만 기억해",
+      "translation": "疲憊辛苦的時候 只要記住這個",
+      "analysis": [
+        { "point": "지치고 힘들 때", "explanation": "지치다 (疲憊) + -고 힘들다 (辛苦) + -ㄹ 때 (的時候)。" },
+        { "point": "이것만 기억해", "explanation": "이것만 (只有這個) + 기억하다 (記得) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "네겐 너무 소중한 꿈이 있다는 것",
+      "translation": "對你而言有著非常珍貴的夢想這件事",
+      "analysis": [
+        { "point": "네겐", "explanation": "너에게는 (對你而言) 的縮略。" },
+        { "point": "너무 소중한 꿈이 있다는 것", "explanation": "너무 (非常) + 소중하다 (珍貴的) 定語形態 + 꿈이 있다 (有夢想) + -는 것。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro/Chorus",
+      "korean": "Let’s Go Let’s Go 함께 가자",
+      "translation": "Let’s Go Let’s Go 一起走吧",
+      "analysis": [
+        { "point": "함께 가자", "explanation": "함께 (一起) + 가다 (走) 的共動形。" }
+      ]
+    },
+    {
+      "korean": "Let’s Go Let’s Go 꿈을 찾아",
+      "translation": "Let’s Go Let’s Go 去尋找夢想",
+      "analysis": [
+        { "point": "꿈을 찾아", "explanation": "꿈 (夢) + -을 (受格) + 찾다 (尋找) 的命令形。" }
+      ]
+    },
+    {
+      "korean": "밝게 빛날 너를 향해",
+      "translation": "向著將會燦爛發光的你",
+      "analysis": [
+        { "point": "밝게 빛날", "explanation": "밝게 (燦爛地) + 빛나다 (發光) 的將來時定語形態。" },
+        { "point": "너를 향해", "explanation": "너를 (你) + 향해 (向著)。" }
+      ]
+    },
+    {
+      "korean": "하늘높이 소리쳐봐",
+      "translation": "向著天空高聲吶喊吧",
+      "analysis": [
+        { "point": "하늘높이", "explanation": "副詞，向著天空高處。" },
+        { "point": "소리쳐봐", "explanation": "소리치다 (吶喊) + -어 보다 (試試看) 的命令形。" }
       ]
     }
   ],
@@ -143,20 +230,29 @@
     { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
     { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
     { "korean": "시원하다", "chinese": "涼爽的", "pos": "形容詞" },
-    { "korean": "바람", "chinese": "風", "pos": "名詞" },
     { "korean": "힘을 내다", "chinese": "打起精神", "pos": "片語" },
     { "korean": "두려워하다", "chinese": "害怕", "pos": "動詞" },
     { "korean": "털고 일어나다", "chinese": "振作起來", "pos": "片語" },
     { "korean": "넘어지다", "chinese": "跌倒", "pos": "動詞" },
     { "korean": "조급해하다", "chinese": "著急", "pos": "動詞" },
-    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
     { "korean": "꿈꿔오다", "chinese": "一直夢想", "pos": "動詞" },
-    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
-    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
-    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
     { "korean": "달리다", "chinese": "跑", "pos": "動詞" },
-    { "korean": "함께하다", "chinese": "在一起", "pos": "動詞" },
-    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
-    { "korean": "열정", "chinese": "熱情", "pos": "名詞" }
+    { "korean": "열정", "chinese": "熱情", "pos": "名詞" },
+    { "korean": "용기", "chinese": "勇氣", "pos": "名詞" },
+    { "korean": "비바람", "chinese": "風雨", "pos": "名詞" },
+    { "korean": "젖다", "chinese": "淋濕", "pos": "動詞" },
+    { "korean": "일으키다", "chinese": "扶起、引起", "pos": "動詞" },
+    { "korean": "이루어지다", "chinese": "實現", "pos": "動詞" },
+    { "korean": "떠올리다", "chinese": "回想", "pos": "動詞" },
+    { "korean": "상상", "chinese": "想像", "pos": "名詞" },
+    { "korean": "가까워지다", "chinese": "變近", "pos": "動詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "기억하다", "chinese": "記得", "pos": "動詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "향하다", "chinese": "向著", "pos": "動詞" },
+    { "korean": "소리치다", "chinese": "吶喊", "pos": "動詞" }
   ]
 }
