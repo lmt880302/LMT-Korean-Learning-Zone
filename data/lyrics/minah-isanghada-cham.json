@@ -1,0 +1,482 @@
+{
+  "id": "minah-isanghada-cham",
+  "title": "이상하다 참",
+  "artist": "MINAH (feat.딘딘)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "요즘 미쳤나봐 뭐든 하는 것 마다",
+      "translation": "最近好像瘋了 不管做什麼",
+      "analysis": [
+        { "point": "요즘", "explanation": "名詞/副詞，最近。" },
+        { "point": "미쳤나봐", "explanation": "미치다 (瘋了) 的詞幹 + -았/었나 보다 (慣用句型，表示「好像...了」的推測)。" },
+        { "point": "뭐든 하는 것 마다", "explanation": "뭐든 (無論什麼) + 하다 (做) 的定語形 + 것 (事情) + -마다 (每...都)。" }
+      ]
+    },
+    {
+      "korean": "니가 내 옆에 있는 상상을 하잖아",
+      "translation": "都會想像你在我身邊不是嗎",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式。" },
+        { "point": "내 옆에 있는", "explanation": "내 옆 (我旁邊) + -에 있다 (在...) 的現在定語形。" },
+        { "point": "상상을 하잖아", "explanation": "상상 (想像) + -을 하다 (做) + -잖아 (表示確認或提醒對方已知事實)。" }
+      ]
+    },
+    {
+      "korean": "만드는 곡부터가 달라 달라",
+      "translation": "連做的曲子都不同 不同",
+      "analysis": [
+        { "point": "만드는 곡부터가", "explanation": "만들다 (製作) 的定語形 + 곡 (曲子) + -부터 (從...開始) + -가 (主格助詞)。" },
+        { "point": "달라", "explanation": "다르다 (不同) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "온통 너 24 hours follow you",
+      "translation": "全都是你 24小時 跟著你",
+      "analysis": [
+        { "point": "온통", "explanation": "副詞，全部、整個。" }
+      ]
+    },
+    {
+      "korean": "새 옷을 주문을 한 것처럼",
+      "translation": "就像訂了新衣服一樣",
+      "analysis": [
+        { "point": "새 옷을", "explanation": "새 (新的) + 옷 (衣服) + -을 (受格助詞)。" },
+        { "point": "주문을 한 것처럼", "explanation": "주문(을) 하다 (訂購) 的過去定語形 + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "널 만나는 날까지 너무 오래걸려",
+      "translation": "到見到你的那天為止 等太久了",
+      "analysis": [
+        { "point": "널 만나는 날까지", "explanation": "널 (你) + 만나다 (見面) 的定語形 + 날 (日子) + -까지 (到...為止)。" },
+        { "point": "너무 오래걸려", "explanation": "너무 (太) + 오래 걸리다 (花很久時間) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "빨리 보고싶고 자랑하고 싶어 그래서",
+      "translation": "想要快點見到你 想要炫耀 所以",
+      "analysis": [
+        { "point": "빨리 보고싶고", "explanation": "빨리 (快點) + 보고 싶다 (想見) + -고 (連接詞尾)。" },
+        { "point": "자랑하고 싶어", "explanation": "자랑하다 (炫耀) + -고 싶다 (想) 的非格式體。" },
+        { "point": "그래서", "explanation": "副詞，所以。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나 사실 매일 밤 우리 사진을 보고",
+      "translation": "我其實每晚都看著我們的照片",
+      "analysis": [
+        { "point": "나 사실", "explanation": "我 其實。" },
+        { "point": "매일 밤", "explanation": "每天 晚上。" },
+        { "point": "우리 사진을 보고", "explanation": "우리 (我們) + 사진 (照片) + -을 (受格助詞) + 보다 (看) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "또 자꾸 매일 밤 나 혼자 미소 짓게 되는걸",
+      "translation": "又總是每晚獨自微笑",
+      "analysis": [
+        { "point": "또 자꾸", "explanation": "又 + 總是/頻繁地。" },
+        { "point": "나 혼자", "explanation": "我 一個人。" },
+        { "point": "미소 짓게 되는걸", "explanation": "미소를 짓다 (微笑) + -게 되다 (變得...) + -는걸 (表示感嘆或陳述事實的終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "Cause I'm loving you",
+      "translation": "因為我正愛著你",
+      "analysis": [
+        { "point": "Cause I'm loving you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Cause I'm loving you",
+      "translation": "因為我正愛著你",
+      "analysis": [
+        { "point": "Cause I'm loving you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "잘 들어봐요 나의 맘을",
+      "translation": "好好聽聽看我的心",
+      "analysis": [
+        { "point": "잘 들어봐요", "explanation": "잘 (好好地) + 듣다 (聽) + -어 보다 (試著...) + -요 (尊敬階)。" },
+        { "point": "나의 맘을", "explanation": "나의 (我的) + 맘 (心) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 맘이 이상하다 참",
+      "translation": "我的心真是奇怪啊",
+      "analysis": [
+        { "point": "내 맘이", "explanation": "내 (我的) + 맘 (心) + -이 (主格助詞)。" },
+        { "point": "이상하다 참", "explanation": "이상하다 (奇怪) + 참 (真是)。" }
+      ]
+    },
+    {
+      "korean": "니 얼굴이 아른거려",
+      "translation": "你的臉龐若隱若現",
+      "analysis": [
+        { "point": "니 얼굴이", "explanation": "니 (你的) + 얼굴 (臉) + -이 (主格助詞)。" },
+        { "point": "아른거려", "explanation": "아른거리다 (若隱若現、閃爍) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "보고 싶을 땐 자꾸 너의 사진 보며 나를 달래고",
+      "translation": "想你的時候就總是看著你的照片安慰自己",
+      "analysis": [
+        { "point": "보고 싶을 땐", "explanation": "보고 싶다 (想見) + -(으)ㄹ 때 (的時候) + -는 的縮寫。" },
+        { "point": "자꾸", "explanation": "副詞，總是、頻繁地。" },
+        { "point": "너의 사진 보며", "explanation": "너의 (你的) + 사진 (照片) + 보다 (看) + -(으)며 (一邊...一邊)。" },
+        { "point": "나를 달래고", "explanation": "나를 (我) + 달래다 (安慰) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "그때 내게 전화라도 오면",
+      "translation": "那時要是你打來電話的話",
+      "analysis": [
+        { "point": "그때", "explanation": "那時候。" },
+        { "point": "내게", "explanation": "나에게 (對我) 的縮寫。" },
+        { "point": "전화라도 오면", "explanation": "전화(가) 오다 (電話來) + -(이)라도 (即使只是...) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "두 볼이 붉은 노을을 닮죠",
+      "translation": "雙頰就會像紅色的晚霞",
+      "analysis": [
+        { "point": "두 볼이", "explanation": "두 (兩) + 볼 (臉頰) + -이 (主格助詞)。" },
+        { "point": "붉은 노을을", "explanation": "붉다 (紅) 的定語形 + 노을 (晚霞) + -을 (受格助詞)。" },
+        { "point": "닮죠", "explanation": "닮다 (相像) + -지요 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 이상하다 참",
+      "translation": "我的心真是奇怪啊",
+      "analysis": [
+        { "point": "내 맘이 이상하다 참", "explanation": "我的心(主格) + 奇怪 + 真是。" }
+      ]
+    },
+    {
+      "korean": "눈을 감고 있을 때면",
+      "translation": "閉上眼睛的時候",
+      "analysis": [
+        { "point": "눈을 감고 있을 때면", "explanation": "눈(을) 감다 (閉眼) + -고 있다 (正在) + -(으)ㄹ 때면 (每當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "따뜻한 바람 스치듯",
+      "translation": "像溫暖的風拂過一般",
+      "analysis": [
+        { "point": "따뜻한 바람", "explanation": "따뜻하다 (溫暖) 的定語形 + 바람 (風)。" },
+        { "point": "스치듯", "explanation": "스치다 (拂過) + -(으)ㄴ/는 듯 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "네가 안에 들어와",
+      "translation": "你走進我心裡",
+      "analysis": [
+        { "point": "네가 안에 들어와", "explanation": "你(主格) + 裡面 + 들어오다 (進來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "말하기는 좀 어렵지만",
+      "translation": "雖然有點難說出口",
+      "analysis": [
+        { "point": "말하기는", "explanation": "말하다 (說) 的名詞形 + -는 (主題助詞)。" },
+        { "point": "좀 어렵지만", "explanation": "좀 (有點) + 어렵다 (困難) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 느끼게끔 날 만들죠",
+      "translation": "但你讓我感受到了愛",
+      "analysis": [
+        { "point": "사랑을 느끼게끔", "explanation": "사랑 (愛) + -을 + 느끼다 (感受) + -게끔 (為了讓...)。" },
+        { "point": "날 만들죠", "explanation": "날 (我) + 만들다 (製造、使) + -지요 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "참 이상하죠",
+      "translation": "真的很奇怪吧",
+      "analysis": [
+        { "point": "참 이상하죠", "explanation": "真是 + 奇怪 + -지요? (吧?)" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "옷장에 많은 옷들 근데 입을 옷은 하나도 없지 요즘 따라",
+      "translation": "衣櫃裡很多衣服 但最近卻一件能穿的都沒有",
+      "analysis": [
+        { "point": "옷장에 많은 옷들", "explanation": "옷장 (衣櫃) + -에 + 많다 (多) 的定語形 + 옷들 (衣服們)。" },
+        { "point": "근데", "explanation": "그런데 (但是) 的縮寫。" },
+        { "point": "입을 옷은", "explanation": "입다 (穿) 的未來定語形 + 옷 (衣服) + -은 (主題助詞)。" },
+        { "point": "하나도 없지", "explanation": "一個也 + 없다 (沒有) + -지。" },
+        { "point": "요즘 따라", "explanation": "最近。" }
+      ]
+    },
+    {
+      "korean": "멋을 더 부려",
+      "translation": "更加打扮",
+      "analysis": [
+        { "point": "멋을 부려", "explanation": "멋(을) 부리다 (打扮) 的非格式體。" },
+        { "point": "더", "explanation": "副詞，更。" }
+      ]
+    },
+    {
+      "korean": "니 새장안에 남자들 거슬려",
+      "translation": "你魚缸裡的男人們很礙眼",
+      "analysis": [
+        { "point": "니 새장안에", "explanation": "니 (你的) + 새장 (鳥籠，比喻) + 안 (裡面) + -에。" },
+        { "point": "남자들", "explanation": "남자 (男人) + -들 (複數)。" },
+        { "point": "거슬려", "explanation": "거슬리다 (礙眼、不順眼) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "몰래 사진들을 보다가 좋아요 눌려",
+      "translation": "偷偷看著照片不小心按了讚",
+      "analysis": [
+        { "point": "몰래", "explanation": "副詞，偷偷地。" },
+        { "point": "사진들을 보다가", "explanation": "照片們 + 보다 (看) + -다가 (動作中途轉換)。" },
+        { "point": "좋아요 눌려", "explanation": "좋아요 (讚) + 눌리다 (被按，是 누르다 的被動形)。" }
+      ]
+    },
+    {
+      "korean": "깜짝 놀라 급히 취소",
+      "translation": "嚇了一跳 急忙取消",
+      "analysis": [
+        { "point": "깜짝 놀라", "explanation": "깜짝 놀라다 (嚇一跳) 的連接形。" },
+        { "point": "급히 취소", "explanation": "급히 (急忙地) + 취소 (取消)。" }
+      ]
+    },
+    {
+      "korean": "지금 이 시간에 연락이 오는 기적을 바래도",
+      "translation": "就算期盼著這個時間點能聯絡我的奇蹟",
+      "analysis": [
+        { "point": "지금 이 시간에", "explanation": "現在這個時間。" },
+        { "point": "연락이 오는 기적을", "explanation": "聯絡來的奇蹟(受格)。" },
+        { "point": "바래도", "explanation": "바라다 (盼望) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "정작 오는건 게임뿐인걸",
+      "translation": "結果來的只有遊戲(通知)",
+      "analysis": [
+        { "point": "정작", "explanation": "副詞，實際上、結果。" },
+        { "point": "오는건", "explanation": "오는 것 (來的東西) 的縮寫。" },
+        { "point": "게임뿐인걸", "explanation": "게임 (遊戲) + -뿐이다 (只有) + -ㄴ걸 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "아마 너에게 fall in love",
+      "translation": "大概對你 fall in love",
+      "analysis": [
+        { "point": "아마", "explanation": "副詞，大概、也許。" },
+        { "point": "너에게", "explanation": "對你。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나 사실 오늘도 네 연락만 기다리고",
+      "translation": "我其實今天也只等著你的聯絡",
+      "analysis": [
+        { "point": "나 사실 오늘도", "explanation": "我 其實 今天也。" },
+        { "point": "네 연락만", "explanation": "你的 聯絡 + -만 (只)。" },
+        { "point": "기다리고", "explanation": "기다리다 (等待) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "아마 내일도 나 혼자 휴대폰만 만질 걸",
+      "translation": "大概明天也只會獨自摸著手機吧",
+      "analysis": [
+        { "point": "아마 내일도", "explanation": "大概 明天也。" },
+        { "point": "나 혼자", "explanation": "我 一個人。" },
+        { "point": "휴대폰만 만질 걸", "explanation": "휴대폰 (手機) + -만 (只) + 만지다 (摸) + -(으)ㄹ 걸 (表示推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 맘이 이상하다 참",
+      "translation": "我的心真是奇怪啊",
+      "analysis": [
+        { "point": "내 맘이 이상하다 참", "explanation": "我的心(主格) + 奇怪 + 真是。" }
+      ]
+    },
+    {
+      "korean": "니 얼굴이 아른거려",
+      "translation": "你的臉龐若隱若現",
+      "analysis": [
+        { "point": "니 얼굴이 아른거려", "explanation": "你的臉(主格) + 若隱若現。" }
+      ]
+    },
+    {
+      "korean": "보고 싶을 땐 자꾸 너의 사진 보며 나를 달래고",
+      "translation": "想你的時候就總是看著你的照片安慰自己",
+      "analysis": [
+        { "point": "보고 싶을 땐 자꾸 너의 사진 보며 나를 달래고", "explanation": "想你的時候 + 總是 + 看著你的照片 + 安慰我。" }
+      ]
+    },
+    {
+      "korean": "그때 내게 전화라도 오면",
+      "translation": "那時要是你打來電話的話",
+      "analysis": [
+        { "point": "그때 내게 전화라도 오면", "explanation": "那時 + 對我 + 即使只是電話來的話。" }
+      ]
+    },
+    {
+      "korean": "두 볼이 붉은 노을을 닮죠",
+      "translation": "雙頰就會像紅色的晚霞",
+      "analysis": [
+        { "point": "두 볼이 붉은 노을을 닮죠", "explanation": "雙頰 + 紅色的晚霞(受格) + 相像吧。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "빨갛게 물들은 하늘의 저녁 노을보다",
+      "translation": "比起染紅了天空的晚霞",
+      "analysis": [
+        { "point": "빨갛게 물들은", "explanation": "빨갛다 (紅) 的副詞形 + 물들다 (被渲染) 的過去定語形。" },
+        { "point": "하늘의 저녁 노을보다", "explanation": "하늘 (天空) + -의 (的) + 저녁 노을 (晚霞) + -보다 (比起)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 더 붉게 물들인 한 사람",
+      "translation": "將我的心染得更紅的一個人",
+      "analysis": [
+        { "point": "내 맘", "explanation": "我的心。" },
+        { "point": "더 붉게", "explanation": "更 紅地。" },
+        { "point": "물들인 한 사람", "explanation": "물들이다 (渲染) 的過去定語形 + 한 사람 (一個人)。" }
+      ]
+    },
+    {
+      "korean": "말이 어렵죠",
+      "translation": "很難說出口吧",
+      "analysis": [
+        { "point": "말이 어렵죠", "explanation": "話 + 困難 + -지요? (吧?)" }
+      ]
+    },
+    {
+      "korean": "너는 모르지 내가 얼마나 행복한 건지 널 만난 후",
+      "translation": "你不知道吧 遇見你之後我有多幸福",
+      "analysis": [
+        { "point": "너는 모르지", "explanation": "你不知道吧。" },
+        { "point": "내가 얼마나 행복한 건지", "explanation": "我多麼幸福這件事。" },
+        { "point": "널 만난 후", "explanation": "見到你之後。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 맘이 이상하다 참",
+      "translation": "我的心真是奇怪啊",
+      "analysis": [
+        { "point": "내 맘이 이상하다 참", "explanation": "我的心(主格) + 奇怪 + 真是。" }
+      ]
+    },
+    {
+      "korean": "니 얼굴이 아른거려",
+      "translation": "你的臉龐若隱若現",
+      "analysis": [
+        { "point": "니 얼굴이 아른거려", "explanation": "你的臉(主格) + 若隱若現。" }
+      ]
+    },
+    {
+      "korean": "보고 싶을 땐 자꾸 너의 사진 보며 나를 달래고",
+      "translation": "想你的時候就總是看著你的照片安慰自己",
+      "analysis": [
+        { "point": "보고 싶을 땐 자꾸 너의 사진 보며 나를 달래고", "explanation": "想你的時候 + 總是 + 看著你的照片 + 安慰我。" }
+      ]
+    },
+    {
+      "korean": "그때 내게 전화라도 오면",
+      "translation": "那時要是你打來電話的話",
+      "analysis": [
+        { "point": "그때 내게 전화라도 오면", "explanation": "那時 + 對我 + 即使只是電話來的話。" }
+      ]
+    },
+    {
+      "korean": "두 볼이 붉은 노을을 닮죠",
+      "translation": "雙頰就會像紅色的晚霞",
+      "analysis": [
+        { "point": "두 볼이 붉은 노을을 닮죠", "explanation": "雙頰 + 紅色的晚霞(受格) + 相像吧。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 이상하다 참",
+      "translation": "我的心真是奇怪啊",
+      "analysis": [
+        { "point": "내 맘이 이상하다 참", "explanation": "我的心(主格) + 奇怪 + 真是。" }
+      ]
+    },
+    {
+      "korean": "눈을 감고 있을 때면",
+      "translation": "閉上眼睛的時候",
+      "analysis": [
+        { "point": "눈을 감고 있을 때면", "explanation": "閉眼的時候。" }
+      ]
+    },
+    {
+      "korean": "따뜻한 바람 스치듯",
+      "translation": "像溫暖的風拂過一般",
+      "analysis": [
+        { "point": "따뜻한 바람 스치듯", "explanation": "溫暖的風 + 拂過一般。" }
+      ]
+    },
+    {
+      "korean": "네가 안에 들어와",
+      "translation": "你走進我心裡",
+      "analysis": [
+        { "point": "네가 안에 들어와", "explanation": "你進到裡面來。" }
+      ]
+    },
+    {
+      "korean": "말하기는 좀 어렵지만",
+      "translation": "雖然有點難說出口",
+      "analysis": [
+        { "point": "말하기는 좀 어렵지만", "explanation": "說出口有點難但是。" }
+      ]
+    },
+    {
+      "korean": "사랑을 느끼게끔 날 만들죠",
+      "translation": "但你讓我感受到了愛",
+      "analysis": [
+        { "point": "사랑을 느끼게끔 날 만들죠", "explanation": "讓我感受到愛。" }
+      ]
+    },
+    {
+      "korean": "참 이상하죠",
+      "translation": "真的很奇怪吧",
+      "analysis": [
+        { "point": "참 이상하죠", "explanation": "真是奇怪吧。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "상상", "chinese": "想像", "pos": "名詞" },
+    { "korean": "온통", "chinese": "全部、整個", "pos": "副詞" },
+    { "korean": "주문하다", "chinese": "訂購", "pos": "動詞" },
+    { "korean": "오래 걸리다", "chinese": "花很久時間", "pos": "片語" },
+    { "korean": "자랑하다", "chinese": "炫耀", "pos": "動詞" },
+    { "korean": "미소 짓다", "chinese": "微笑", "pos": "片語" },
+    { "korean": "이상하다", "chinese": "奇怪", "pos": "形容詞" },
+    { "korean": "아른거리다", "chinese": "若隱若現", "pos": "動詞" },
+    { "korean": "달래다", "chinese": "安慰", "pos": "動詞" },
+    { "korean": "볼", "chinese": "臉頰", "pos": "名詞" },
+    { "korean": "노을", "chinese": "晚霞", "pos": "名詞" },
+    { "korean": "닮다", "chinese": "相像", "pos": "動詞" },
+    { "korean": "스치다", "chinese": "拂過", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "옷장", "chinese": "衣櫃", "pos": "名詞" },
+    { "korean": "멋을 부리다", "chinese": "打扮", "pos": "片語" },
+    { "korean": "거슬리다", "chinese": "礙眼、不順眼", "pos": "動詞" },
+    { "korean": "몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "눌리다", "chinese": "被按", "pos": "動詞" },
+    { "korean": "깜짝 놀라다", "chinese": "嚇一跳", "pos": "片語" },
+    { "korean": "급히", "chinese": "急忙地", "pos": "副詞" },
+    { "korean": "취소", "chinese": "取消", "pos": "名詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "정작", "chinese": "實際上", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "휴대폰", "chinese": "手機", "pos": "名詞" },
+    { "korean": "만지다", "chinese": "觸摸", "pos": "動詞" },
+    { "korean": "물들다", "chinese": "被渲染", "pos": "動詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" }
+  ]
+}

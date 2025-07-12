@@ -1,0 +1,428 @@
+{
+  "id": "minah-my-first-kiss",
+  "title": "My First Kiss",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "나만 모르는 그 기분",
+      "translation": "只有我不知道的那種感覺",
+      "analysis": [
+        { "point": "나만", "explanation": "나 (我) + -만 (助詞，只有)。" },
+        { "point": "모르는 그 기분", "explanation": "모르다 (不知道) 的現在定語形 + 그 (那個) + 기분 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "친구들 이미 모두 알고 있대",
+      "translation": "聽說朋友們都已經知道了",
+      "analysis": [
+        { "point": "친구들", "explanation": "친구 (朋友) + -들 (複數)。" },
+        { "point": "이미 모두", "explanation": "이미 (已經) + 모두 (全部)。" },
+        { "point": "알고 있대", "explanation": "알고 있다 (知道) + -대 (다고 해 的縮略，表示間接引述「聽說...」)。" }
+      ]
+    },
+    {
+      "korean": "아직 어린아이라며",
+      "translation": "說我還是個小孩子",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還、仍然。" },
+        { "point": "어린아이라며", "explanation": "어린아이 (小孩子) + -(이)라며 (-(이)라고 하며 的縮略，引述內容並作為原因)。" }
+      ]
+    },
+    {
+      "korean": "이렇게 다들 나를 놀리잖아",
+      "translation": "大家不都這樣捉弄我嗎",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "다들", "explanation": "副詞，大家、都。" },
+        { "point": "나를 놀리잖아", "explanation": "나를 (我) + 놀리다 (捉弄) + -잖아 (終結語尾，表示提醒對方知道的事實)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "I wanna Know 짜릿한 느낌",
+      "translation": "I wanna Know 酥麻的感覺",
+      "analysis": [
+        { "point": "짜릿한 느낌", "explanation": "짜릿하다 (酥麻的、刺激的) 定語形 + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "가슴터질것 같은 떨림을",
+      "translation": "心臟快要爆炸般的悸動",
+      "analysis": [
+        { "point": "가슴 터질 것 같은", "explanation": "가슴 (心臟、胸口) + 터지다 (爆炸) + -(으)ㄹ 것 같다 (好像要...) 的定語形。" },
+        { "point": "떨림을", "explanation": "떨림 (悸動、顫抖) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "Come On 아까부터 도대체 뭘 망설이는건데",
+      "translation": "Come On 從剛才開始到底在猶豫什麼",
+      "analysis": [
+        { "point": "아까부터", "explanation": "아까 (剛才) + -부터 (從...)。" },
+        { "point": "도대체 뭘", "explanation": "도대체 (到底) + 무엇을 (什麼) 的縮略。" },
+        { "point": "망설이는건데", "explanation": "망설이다 (猶豫) + -는 것인데 (是...呢，帶有疑問或催促的語氣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "오 조금더 다가와봐 조금 더",
+      "translation": "喔 再靠近一點看看 再多一點",
+      "analysis": [
+        { "point": "조금더", "explanation": "조금 (一點) + 더 (更)。" },
+        { "point": "다가와봐", "explanation": "다가오다 (靠近) + -아/어 보다 (試試看)。" }
+      ]
+    },
+    {
+      "korean": "살며시 눈을 감아줄게",
+      "translation": "我會悄悄地閉上眼睛",
+      "analysis": [
+        { "point": "살며시", "explanation": "副詞，悄悄地、輕輕地。" },
+        { "point": "눈을 감아줄게", "explanation": "눈을 감다 (閉上眼睛) + -아/어 주다 (為你做...) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "처음이란 말 살짝 겁나도",
+      "translation": "雖然說第一次有點害怕",
+      "analysis": [
+        { "point": "처음이란 말", "explanation": "처음 (第一次) + -(이)란 (-(이)라는) + 말 (話)。" },
+        { "point": "살짝 겁나도", "explanation": "살짝 (稍微) + 겁나다 (害怕) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "괜찮을거야 너니까",
+      "translation": "但會沒事的 因為是你",
+      "analysis": [
+        { "point": "괜찮을거야", "explanation": "괜찮다 (沒關係) + -(으)ㄹ 거야 (未來式推測)。" },
+        { "point": "너니까", "explanation": "너 (你) + -(이)니까 (因為是...)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘 사이 떨리는 느낌",
+      "translation": "我們倆之間悸動的感覺",
+      "analysis": [
+        { "point": "우리 둘 사이", "explanation": "우리 (我們) + 둘 (倆) + 사이 (之間)。" },
+        { "point": "떨리는 느낌", "explanation": "떨리다 (悸動、顫抖) 的現在定語形 + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "이 어색함을 깨뜨려줘",
+      "translation": "請打破這份尷尬",
+      "analysis": [
+        { "point": "이 어색함을", "explanation": "이 (這) + 어색함 (尷尬) + -을 (受格助詞)。" },
+        { "point": "깨뜨려줘", "explanation": "깨뜨리다 (打破) + -어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "이 순간 네게만 허락된걸",
+      "translation": "這一瞬間只允許了你",
+      "analysis": [
+        { "point": "이 순간", "explanation": "이 (這) + 순간 (瞬間)。" },
+        { "point": "네게만 허락된걸", "explanation": "너에게만 (只對你) 的縮略 + 허락되다 (被允許) 的過去定語形 + 것 (事情) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "지금이야 바보야 나 나나나",
+      "translation": "就是現在啊 傻瓜啊 我 nanana",
+      "analysis": [
+        { "point": "지금이야", "explanation": "지금 (現在) + -이야 (是...)。" },
+        { "point": "바보야", "explanation": "바보 (傻瓜) + -야 (呀)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "1 2 3 & 4 yeah",
+      "translation": "1 2 3 & 4 yeah",
+      "analysis": [
+        { "point": "1 2 3 & 4 yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My first kiss my my my first kiss",
+      "translation": "我的初吻 我的我的我的初吻",
+      "analysis": [
+        { "point": "My first kiss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My first kiss my my my first kiss",
+      "translation": "我的初吻 我的我的我的初吻",
+      "analysis": [
+        { "point": "My first kiss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My first kiss my my my first kiss",
+      "translation": "我的初吻 我的我的我的初吻",
+      "analysis": [
+        { "point": "My first kiss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My first kiss",
+      "translation": "我的初吻",
+      "analysis": [
+        { "point": "My first kiss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "I wanna Know 달콤한 feeling",
+      "translation": "I wanna Know 甜蜜的 feeling",
+      "analysis": [
+        { "point": "달콤한 feeling", "explanation": "달콤하다 (甜蜜的) 定語形 + feeling (感覺)。" }
+      ]
+    },
+    {
+      "korean": "손만 잡아도 빨개지는 나지만",
+      "translation": "雖然我是個光牽手就會臉紅的人",
+      "analysis": [
+        { "point": "손만 잡아도", "explanation": "손 (手) + -만 (只) + 잡다 (牽) + -아도/어도 (即使...)。" },
+        { "point": "빨개지는 나지만", "explanation": "빨개지다 (變紅) 的現在定語形 + 나 (我) + -이지만 (雖然是...)。" }
+      ]
+    },
+    {
+      "korean": "준비됐어 촉촉한 내 입술을 봐봐",
+      "translation": "我準備好了 看看我濕潤的嘴唇",
+      "analysis": [
+        { "point": "준비됐어", "explanation": "준비되다 (被準備好) 的過去式。" },
+        { "point": "촉촉한 내 입술을", "explanation": "촉촉하다 (濕潤的) 定語形 + 내 (我的) + 입술 (嘴唇) + -을 (受格助詞)。" },
+        { "point": "봐봐", "explanation": "보다 (看) + -아/어 보다 (試試看)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "조금 더 다가와봐 조금 더",
+      "translation": "再靠近一點看看 再多一點",
+      "analysis": [
+        { "point": "조금 더", "explanation": "조금 (一點) + 더 (更)。" },
+        { "point": "다가와봐", "explanation": "다가오다 (靠近) + -아/어 보다 (試試看)。" }
+      ]
+    },
+    {
+      "korean": "살며시 눈을 감아줄게",
+      "translation": "我會悄悄地閉上眼睛",
+      "analysis": [
+        { "point": "살며시", "explanation": "副詞，悄悄地、輕輕地。" },
+        { "point": "눈을 감아줄게", "explanation": "눈을 감다 (閉上眼睛) + -아/어 주다 (為你做...) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "처음이란 말 살짝 겁나도",
+      "translation": "雖然說第一次有點害怕",
+      "analysis": [
+        { "point": "처음이란 말", "explanation": "처음 (第一次) + -(이)란 (-(이)라는) + 말 (話)。" },
+        { "point": "살짝 겁나도", "explanation": "살짝 (稍微) + 겁나다 (害怕) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "괜찮을거야 너니까",
+      "translation": "但會沒事的 因為是你",
+      "analysis": [
+        { "point": "괜찮을거야", "explanation": "괜찮다 (沒關係) + -(으)ㄹ 거야 (未來式推測)。" },
+        { "point": "너니까", "explanation": "너 (你) + -(이)니까 (因為是...)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘 사이 떨리는 느낌",
+      "translation": "我們倆之間悸動的感覺",
+      "analysis": [
+        { "point": "우리 둘 사이", "explanation": "우리 (我們) + 둘 (倆) + 사이 (之間)。" },
+        { "point": "떨리는 느낌", "explanation": "떨리다 (悸動、顫抖) 的現在定語形 + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "이 어색함을 깨뜨려줘",
+      "translation": "請打破這份尷尬",
+      "analysis": [
+        { "point": "이 어색함을", "explanation": "이 (這) + 어색함 (尷尬) + -을 (受格助詞)。" },
+        { "point": "깨뜨려줘", "explanation": "깨뜨리다 (打破) + -어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "이 순간 네게만 허락된걸",
+      "translation": "這一瞬間只允許了你",
+      "analysis": [
+        { "point": "이 순간", "explanation": "이 (這) + 순간 (瞬間)。" },
+        { "point": "네게만 허락된걸", "explanation": "너에게만 (只對你) 的縮略 + 허락되다 (被允許) 的過去定語形 + 것 (事情) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "지금이야 바보야 나 나나나",
+      "translation": "就是現在啊 傻瓜啊 我 nanana",
+      "analysis": [
+        { "point": "지금이야", "explanation": "지금 (現在) + -이야 (是...)。" },
+        { "point": "바보야", "explanation": "바보 (傻瓜) + -야 (呀)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I wanna Know",
+      "translation": "I wanna Know",
+      "analysis": [
+        { "point": "I wanna Know", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My first kiss my my my first kiss",
+      "translation": "我的初吻 我的我的我的初吻",
+      "analysis": [
+        { "point": "My first kiss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My first kiss",
+      "translation": "我的初吻",
+      "analysis": [
+        { "point": "My first kiss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤늦게 보고 싶다 했잖아",
+      "translation": "你不是說深夜也想見我嗎",
+      "analysis": [
+        { "point": "밤늦게", "explanation": "副詞，深夜、很晚。" },
+        { "point": "보고 싶다 했잖아", "explanation": "보고 싶다 (想見你) + -고 하다 (說...) 的過去式 + -잖아 (提醒)。" }
+      ]
+    },
+    {
+      "korean": "설레게 만든 건 너잖아",
+      "translation": "讓我心動的人不就是你嗎",
+      "analysis": [
+        { "point": "설레게 만든 건", "explanation": "설레다 (心動) + -게 만들다 (使...) 的過去定語形 + 것 (人/事)。" },
+        { "point": "너잖아", "explanation": "너 (你) + -이잖아 (不就是...嗎)。" }
+      ]
+    },
+    {
+      "korean": "이제와 쭈뼛쭈뼛 하니 넌",
+      "translation": "事到如今你卻猶豫不決",
+      "analysis": [
+        { "point": "이제와", "explanation": "이제 와서 (事到如今)。" },
+        { "point": "쭈뼛쭈뼛 하니", "explanation": "쭈뼛쭈뼛 하다 (猶豫不決、畏縮) + -니 (因為/既然)。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "기다린 나는 어떡해",
+      "translation": "那等待的我該怎麼辦",
+      "analysis": [
+        { "point": "기다린 나는", "explanation": "기다리다 (等待) 的過去定語形 + 나는 (我)。" },
+        { "point": "어떡해", "explanation": "어떡해 (어떻게 해) 的縮略，怎麼辦。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한발 더 다가와봐 조금 더",
+      "translation": "再靠近一步看看 再多一點",
+      "analysis": [
+        { "point": "한발 더", "explanation": "한 (一) + 발 (步) + 더 (更)。" },
+        { "point": "다가와봐", "explanation": "다가오다 (靠近) + -아/어 보다 (試試看)。" }
+      ]
+    },
+    {
+      "korean": "살며시 눈을 감아줄게",
+      "translation": "我會悄悄地閉上眼睛",
+      "analysis": [
+        { "point": "살며시", "explanation": "副詞，悄悄地、輕輕地。" },
+        { "point": "눈을 감아줄게", "explanation": "눈을 감다 (閉上眼睛) + -아/어 주다 (為你做...) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "처음이란 말 살짝 겁나도",
+      "translation": "雖然說第一次有點害怕",
+      "analysis": [
+        { "point": "처음이란 말", "explanation": "처음 (第一次) + -(이)란 (-(이)라는) + 말 (話)。" },
+        { "point": "살짝 겁나도", "explanation": "살짝 (稍微) + 겁나다 (害怕) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "괜찮을거야 너니까",
+      "translation": "但會沒事的 因為是你",
+      "analysis": [
+        { "point": "괜찮을거야", "explanation": "괜찮다 (沒關係) + -(으)ㄹ 거야 (未來式推測)。" },
+        { "point": "너니까", "explanation": "너 (你) + -(이)니까 (因為是...)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘 사이 떨리는 느낌",
+      "translation": "我們倆之間悸動的感覺",
+      "analysis": [
+        { "point": "우리 둘 사이", "explanation": "우리 (我們) + 둘 (倆) + 사이 (之間)。" },
+        { "point": "떨리는 느낌", "explanation": "떨리다 (悸動、顫抖) 的現在定語形 + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "이 어색함을 깨뜨려줘",
+      "translation": "請打破這份尷尬",
+      "analysis": [
+        { "point": "이 어색함을", "explanation": "이 (這) + 어색함 (尷尬) + -을 (受格助詞)。" },
+        { "point": "깨뜨려줘", "explanation": "깨뜨리다 (打破) + -어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "이 순간 네게만 허락된걸",
+      "translation": "這一瞬間只允許了你",
+      "analysis": [
+        { "point": "이 순간", "explanation": "이 (這) + 순간 (瞬間)。" },
+        { "point": "네게만 허락된걸", "explanation": "너에게만 (只對你) 的縮略 + 허락되다 (被允許) 的過去定語形 + 것 (事情) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "지금이야 바보야 나 나나나",
+      "translation": "就是現在啊 傻瓜啊 我 nanana",
+      "analysis": [
+        { "point": "지금이야", "explanation": "지금 (現在) + -이야 (是...)。" },
+        { "point": "바보야", "explanation": "바보 (傻瓜) + -야 (呀)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "멈추지 말아줘 나 나나나",
+      "translation": "請不要停下來 我 nanana",
+      "analysis": [
+        { "point": "멈추지 말아줘", "explanation": "멈추다 (停止) + -지 말다 (不要做...) + -아/어 주다 (請求)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "기분", "chinese": "心情、感覺", "pos": "名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "어린아이", "chinese": "小孩子", "pos": "名詞" },
+    { "korean": "놀리다", "chinese": "捉弄", "pos": "動詞" },
+    { "korean": "짜릿하다", "chinese": "酥麻的、刺激的", "pos": "形容詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "가슴", "chinese": "胸口、心", "pos": "名詞" },
+    { "korean": "터지다", "chinese": "爆炸", "pos": "動詞" },
+    { "korean": "떨림", "chinese": "悸動、顫抖", "pos": "名詞" },
+    { "korean": "도대체", "chinese": "到底", "pos": "副詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "살며시", "chinese": "悄悄地", "pos": "副詞" },
+    { "korean": "눈을 감다", "chinese": "閉上眼睛", "pos": "片語" },
+    { "korean": "처음", "chinese": "第一次", "pos": "名詞" },
+    { "korean": "살짝", "chinese": "稍微", "pos": "副詞" },
+    { "korean": "겁나다", "chinese": "害怕", "pos": "動詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "어색함", "chinese": "尷尬", "pos": "名詞" },
+    { "korean": "깨뜨리다", "chinese": "打破", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "허락되다", "chinese": "被允許", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "牽、抓", "pos": "動詞" },
+    { "korean": "빨개지다", "chinese": "變紅", "pos": "動詞" },
+    { "korean": "준비되다", "chinese": "被準備好", "pos": "動詞" },
+    { "korean": "촉촉하다", "chinese": "濕潤的", "pos": "形容詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "밤늦게", "chinese": "深夜", "pos": "副詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "만들다", "chinese": "製作、使變成", "pos": "動詞" },
+    { "korean": "쭈뼛쭈뼛 하다", "chinese": "猶豫不決、畏縮", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "어떡해", "chinese": "怎麼辦", "pos": "感嘆詞" },
+    { "korean": "한발", "chinese": "一步", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" }
+  ]
+}

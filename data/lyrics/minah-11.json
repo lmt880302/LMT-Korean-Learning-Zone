@@ -1,0 +1,295 @@
+{
+  "id": "minah-11",
+  "title": "11°",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "차가워진 바람 냄새가",
+      "translation": "變冷了的風的味道",
+      "analysis": [
+        { "point": "차가워진", "explanation": "차가워지다 (變冷) 的過去定語形態。由形容詞 차갑다 (冷) + -어지다 (變得...) 組成。" },
+        { "point": "바람 냄새가", "explanation": "바람 (風) + 냄새 (味道、氣味) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너와 같이 있던 그 날을 생각나게 해",
+      "translation": "讓我想起曾和你在一起的那天",
+      "analysis": [
+        { "point": "너와 같이 있던", "explanation": "너 (你) + -와 같이 (和...一起) + 있다 (在) 的過去回想動詞定語形 (-던)。" },
+        { "point": "그 날을", "explanation": "그 날 (那天) + -을 (受格助詞)。" },
+        { "point": "생각나게 해", "explanation": "생각나다 (想起) + -게 하다 (使動用法，讓...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "마치 어제 일같이 아플까",
+      "translation": "會像昨天的事一樣心痛嗎",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，彷彿、好像。" },
+        { "point": "어제 일같이", "explanation": "어제 (昨天) + 일 (事情) + -같이 (像...一樣)。" },
+        { "point": "아플까", "explanation": "아프다 (痛) 的詞幹 + -(으)ㄹ까 (表示推測或疑問的終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "오늘따라 네가 생각이 났어",
+      "translation": "今天格外地想起了你",
+      "analysis": [
+        { "point": "오늘따라", "explanation": "慣用語，唯獨今天、今天格外地。" },
+        { "point": "네가", "explanation": "네 (你) + -가 (主格助詞)。" },
+        { "point": "생각이 났어", "explanation": "생각이 나다 (想起) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "더 이상 기억하질 못할",
+      "translation": "無法再繼續記得的",
+      "analysis": [
+        { "point": "더 이상", "explanation": "副詞片語，再、更。" },
+        { "point": "기억하질 못할", "explanation": "기억하다 (記得) + -지를 못하다 (無法...) 的未來定語形。-지를 是 -지를 的強調形式。" }
+      ]
+    },
+    {
+      "korean": "네가 남겨놓고 간 옷을 버리지 못해",
+      "translation": "無法丟掉你留下後離開的衣服",
+      "analysis": [
+        { "point": "네가 남겨놓고 간", "explanation": "네가 (你) + 남겨놓고 가다 (留下後離開) 的過去定語形。" },
+        { "point": "옷을", "explanation": "옷 (衣服) + -을 (受格助詞)。" },
+        { "point": "버리지 못해", "explanation": "버리다 (丟掉) + -지 못하다 (無法...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "잠이 오지 않을 거 같아",
+      "translation": "好像會睡不著覺",
+      "analysis": [
+        { "point": "잠이 오지 않을 거 같아", "explanation": "잠이 오다 (睡得著) + -지 않다 (否定) + -(으)ㄹ 것 같다 (慣用語，好像會...)。" }
+      ]
+    },
+    {
+      "korean": "오늘따라 네가 생각이 났어",
+      "translation": "今天格外地想起了你",
+      "analysis": [
+        { "point": "오늘따라", "explanation": "慣用語，唯獨今天、今天格外地。" },
+        { "point": "네가", "explanation": "네 (你) + -가 (主格助詞)。" },
+        { "point": "생각이 났어", "explanation": "생각이 나다 (想起) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "보고 싶어서 생각이 난 건지",
+      "translation": "是因為想念才想起的呢",
+      "analysis": [
+        { "point": "보고 싶어서", "explanation": "보고 싶다 (想念) + -어서 (因為)。" },
+        { "point": "생각이 난 건지", "explanation": "생각이 나다 (想起) 的過去定語形 + 것 + -인지 (表示不確定的疑問)。" }
+      ]
+    },
+    {
+      "korean": "생각이 나서 보고 싶은 건지",
+      "translation": "還是因為想起了才想念的呢",
+      "analysis": [
+        { "point": "생각이 나서", "explanation": "생각이 나다 (想起) + -아서 (因為、然後)。" },
+        { "point": "보고 싶은 건지", "explanation": "보고 싶다 (想念) 的現在定語形 + 것 + -인지。" }
+      ]
+    },
+    {
+      "korean": "이럴 줄 알았다면 붙잡았을 텐데",
+      "translation": "早知如此就會挽留你的",
+      "analysis": [
+        { "point": "이럴 줄 알았다면", "explanation": "이렇다 (這樣) + -(으)ㄹ 줄 알다 (知道會...) 的過去條件式。" },
+        { "point": "붙잡았을 텐데", "explanation": "붙잡다 (抓住、挽留) 的過去式 + -(으)ㄹ 텐데 (表示與事實相反的惋惜或推測)。" }
+      ]
+    },
+    {
+      "korean": "언제까지 너를 잊지 못할까",
+      "translation": "要到何時才能忘記你呢",
+      "analysis": [
+        { "point": "언제까지", "explanation": "到什麼時候。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "잊지 못할까", "explanation": "잊다 (忘記) + -지 못하다 (無法) + -(으)ㄹ까 (自問的疑問詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "이 노래를 너는 듣고 있을까",
+      "translation": "你正在聽著這首歌嗎",
+      "analysis": [
+        { "point": "이 노래를", "explanation": "이 (這) + 노래 (歌) + -를 (受格助詞)。" },
+        { "point": "너는", "explanation": "너 (你) + -는 (主題助詞)。" },
+        { "point": "듣고 있을까", "explanation": "듣다 (聽) + -고 있다 (正在進行式) + -(으)ㄹ까 (疑問詞尾)。" }
+      ]
+    },
+    {
+      "korean": "이제 날 생각하지 않을 텐데",
+      "translation": "現在你應該不會想起我了吧",
+      "analysis": [
+        { "point": "이제", "explanation": "副詞，現在。" },
+        { "point": "날", "explanation": "나 (我) + -를 (受格助詞) 的縮略形。" },
+        { "point": "생각하지 않을 텐데", "explanation": "생각하다 (想) + -지 않다 (否定) + -(으)ㄹ 텐데 (表示推測)。" }
+      ]
+    },
+    {
+      "korean": "나보다 더 좋은 사람과 함께였을까",
+      "translation": "是和比我更好的人在一起嗎",
+      "analysis": [
+        { "point": "나보다 더 좋은 사람과", "explanation": "나 (我) + -보다 (比) + 더 (更) + 좋다 (好) 的定語形 + 사람 (人) + -과 (和)。" },
+        { "point": "함께였을까", "explanation": "함께이다 (在一起) 的過去式 + -(으)ㄹ까 (疑問詞尾)。" }
+      ]
+    },
+    {
+      "korean": "이런 날씨였던 것 같아",
+      "translation": "好像就是這樣的天氣",
+      "analysis": [
+        { "point": "이런 날씨였던 것 같아", "explanation": "이런 (這樣的) + 날씨 (天氣) + -이다 (是) 的過去定語形 + 것 같다 (好像)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "따스했던 네 주머니 속",
+      "translation": "你那溫暖的口袋裡",
+      "analysis": [
+        { "point": "따스했던", "explanation": "따스하다 (溫暖) 的過去回想動詞定語形 (-았던)。" },
+        { "point": "네 주머니 속", "explanation": "네 (你的) + 주머니 (口袋) + 속 (裡面)。" }
+      ]
+    },
+    {
+      "korean": "내 손이 너를 기억해",
+      "translation": "我的手還記得你",
+      "analysis": [
+        { "point": "내 손이", "explanation": "내 (我的) + 손 (手) + -이 (主格助詞)。" },
+        { "point": "너를 기억해", "explanation": "너 (你) + -를 (受格助詞) + 기억하다 (記得) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그 사람 몰래 내 생각 한 번은 해줄래",
+      "translation": "瞞著那個人，可以想我一次嗎",
+      "analysis": [
+        { "point": "그 사람 몰래", "explanation": "그 사람 (那個人) + 몰래 (偷偷地)。" },
+        { "point": "내 생각 한 번은", "explanation": "내 생각 (我的想法/想我) + 한 번 (一次) + -은 (主題助詞，有強調意味)。" },
+        { "point": "해줄래", "explanation": "해주다 (為(我)做) + -(으)ㄹ래 (詢問對方意願的非格式體終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "나 아닌 누군가와 있더라도",
+      "translation": "即使你和不是我的某個人在一起",
+      "analysis": [
+        { "point": "나 아닌 누군가와", "explanation": "나 (我) + 아니다 (不是) 的定語形 + 누군가 (某人) + -와 (和)。" },
+        { "point": "있더라도", "explanation": "있다 (在) + -더라도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "내 자존심에 네가 떠나가는 줄도 모르고",
+      "translation": "因為我的自尊心，都不知道你正在離開",
+      "analysis": [
+        { "point": "내 자존심에", "explanation": "내 (我的) + 자존심 (自尊心) + -에 (原因助詞)。" },
+        { "point": "네가 떠나가는 줄도 모르고", "explanation": "네가 (你) + 떠나가다 (離開) + -는 줄도 모르다 (連...都不知道) 的連接形。" }
+      ]
+    },
+    {
+      "korean": "그런 줄도 모르고",
+      "translation": "連那樣都不知道",
+      "analysis": [
+        { "point": "그런 줄도 모르고", "explanation": "그렇다 (那樣) 的定語形 + 줄도 모르다 (連...都不知道) 的連接形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "보고 싶어서 생각이 난 건지",
+      "translation": "是因為想念才想起的呢",
+      "analysis": [
+        { "point": "보고 싶어서", "explanation": "보고 싶다 (想念) + -어서 (因為)。" },
+        { "point": "생각이 난 건지", "explanation": "생각이 나다 (想起) 的過去定語形 + 것 + -인지 (表示不確定的疑問)。" }
+      ]
+    },
+    {
+      "korean": "생각이 나서 보고 싶은 건지",
+      "translation": "還是因為想起了才想念的呢",
+      "analysis": [
+        { "point": "생각이 나서", "explanation": "생각이 나다 (想起) + -아서 (因為、然後)。" },
+        { "point": "보고 싶은 건지", "explanation": "보고 싶다 (想念) 的現在定語形 + 것 + -인지。" }
+      ]
+    },
+    {
+      "korean": "이럴 줄 알았다면 붙잡았을 텐데",
+      "translation": "早知如此就會挽留你的",
+      "analysis": [
+        { "point": "이럴 줄 알았다면", "explanation": "이렇다 (這樣) + -(으)ㄹ 줄 알다 (知道會...) 的過去條件式。" },
+        { "point": "붙잡았을 텐데", "explanation": "붙잡다 (抓住、挽留) 的過去式 + -(으)ㄹ 텐데 (表示與事實相反的惋惜或推測)。" }
+      ]
+    },
+    {
+      "korean": "언제까지 너를 잊지 못할까",
+      "translation": "要到何時才能忘記你呢",
+      "analysis": [
+        { "point": "언제까지", "explanation": "到什麼時候。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "잊지 못할까", "explanation": "잊다 (忘記) + -지 못하다 (無法) + -(으)ㄹ까 (自問的疑問詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "차가워진 바람 냄새가",
+      "translation": "變冷了的風的味道",
+      "analysis": [
+        { "point": "차가워진", "explanation": "차가워지다 (變冷) 的過去定語形態。由形容詞 차갑다 (冷) + -어지다 (變得...) 組成。" },
+        { "point": "바람 냄새가", "explanation": "바람 (風) + 냄새 (味道、氣味) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너와 같이 있던 그 날을 생각나게 해",
+      "translation": "讓我想起曾和你在一起的那天",
+      "analysis": [
+        { "point": "너와 같이 있던", "explanation": "너 (你) + -와 같이 (和...一起) + 있다 (在) 的過去回想動詞定語形 (-던)。" },
+        { "point": "그 날을", "explanation": "그 날 (那天) + -을 (受格助詞)。" },
+        { "point": "생각나게 해", "explanation": "생각나다 (想起) + -게 하다 (使動用法，讓...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "마치 어제 일같이 아플까",
+      "translation": "會像昨天的事一樣心痛嗎",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，彷彿、好像。" },
+        { "point": "어제 일같이", "explanation": "어제 (昨天) + 일 (事情) + -같이 (像...一樣)。" },
+        { "point": "아플까", "explanation": "아프다 (痛) 的詞幹 + -(으)ㄹ까 (表示推測或疑問的終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "언제쯤이면 네가",
+      "translation": "大概到什麼時候你才會",
+      "analysis": [
+        { "point": "언제쯤이면", "explanation": "언제쯤 (大概什麼時候) + -이면 (如果是)。" },
+        { "point": "네가", "explanation": "네 (你) + -가 (主格助詞)。(話未說完)" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "차가워지다", "chinese": "變冷", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "냄새", "chinese": "味道、氣味", "pos": "名詞" },
+    { "korean": "생각나게 하다", "chinese": "讓(人)想起", "pos": "片語" },
+    { "korean": "마치", "chinese": "彷彿、好像", "pos": "副詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "오늘따라", "chinese": "今天格外地", "pos": "副詞" },
+    { "korean": "생각이 나다", "chinese": "想起", "pos": "片語" },
+    { "korean": "더 이상", "chinese": "再也(不)", "pos": "副詞" },
+    { "korean": "기억하다", "chinese": "記得", "pos": "動詞" },
+    { "korean": "남겨놓다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "丟掉", "pos": "動詞" },
+    { "korean": "잠이 오다", "chinese": "想睡、睡得著", "pos": "片語" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "붙잡다", "chinese": "抓住、挽留", "pos": "動詞" },
+    { "korean": "언제까지", "chinese": "到何時", "pos": "副詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "노래", "chinese": "歌曲", "pos": "名詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "함께이다", "chinese": "在一起", "pos": "動詞" },
+    { "korean": "날씨", "chinese": "天氣", "pos": "名詞" },
+    { "korean": "따스하다", "chinese": "溫暖", "pos": "形容詞" },
+    { "korean": "주머니", "chinese": "口袋", "pos": "名詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "누군가", "chinese": "某個人", "pos": "代名詞" },
+    { "korean": "자존심", "chinese": "自尊心", "pos": "名詞" },
+    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "언제쯤", "chinese": "大概什麼時候", "pos": "副詞" }
+  ]
+}

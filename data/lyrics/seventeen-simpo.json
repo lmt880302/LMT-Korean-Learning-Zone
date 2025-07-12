@@ -1,0 +1,399 @@
+{
+  "id": "seventeen-simple",
+  "title": "Simple",
+  "artist": "SEVENTEEN (WOOZI Solo)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "오늘의 마지막 이 길에 서 있다",
+      "translation": "站在今天最後的這條路上",
+      "analysis": [
+        { "point": "오늘의 마지막", "explanation": "오늘 (今天) + -의 (的) + 마지막 (最後)。" },
+        { "point": "이 길에", "explanation": "이 (這) + 길 (路) + -에 (場所助詞)。" },
+        { "point": "서 있다", "explanation": "서다 (站立) + -어 있다 (表示狀態持續)。" }
+      ]
+    },
+    {
+      "korean": "매일은 이렇게 ooh",
+      "translation": "每一天都是這樣 ooh",
+      "analysis": [
+        { "point": "매일은", "explanation": "매일 (每天) + -은 (主題助詞)。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" }
+      ]
+    },
+    {
+      "korean": "드넓은 세상엔 난 먼지만도 못한 걸",
+      "translation": "在寬廣的世界裡 我連塵埃都不如",
+      "analysis": [
+        { "point": "드넓은 세상엔", "explanation": "드넓다 (寬廣的) 定語形 + 세상 (世界) + -에는 (在...裡) 的縮略。" },
+        { "point": "난 먼지만도 못한 걸", "explanation": "나는 (我) + 먼지 (灰塵) + -만도 못하다 (連...都不如) + -ㄴ 걸 (것을 的縮略)。" }
+      ]
+    },
+    {
+      "korean": "잘 알고 있지만",
+      "translation": "雖然我很清楚",
+      "analysis": [
+        { "point": "잘 알고 있지만", "explanation": "잘 (副詞，好好地) + 알다 (知道) + -고 있지만 (雖然正在...)。" }
+      ]
+    },
+    {
+      "korean": "쉬운 일 하나 없는 출구 없는",
+      "translation": "一件容易的事都沒有 沒有出口的",
+      "analysis": [
+        { "point": "쉬운 일 하나 없는", "explanation": "쉽다 (容易的) 定語形 + 일 (事情) + 하나 (一個) + 없다 (沒有) 的定語形。" },
+        { "point": "출구 없는", "explanation": "출구 (出口) + 없다 (沒有) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "미로인듯한 세상",
+      "translation": "像迷宮般的世界",
+      "analysis": [
+        { "point": "미로인듯한 세상", "explanation": "미로 (迷宮) + -인 듯하다 (好像是...) 的定語形 + 세상 (世界)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "행복은 그냥 말만 있는 거고",
+      "translation": "幸福只是空話而已",
+      "analysis": [
+        { "point": "행복은", "explanation": "행복 (幸福) + -은 (主題助詞)。" },
+        { "point": "그냥 말만 있는 거고", "explanation": "그냥 (只是) + 말 (話) + -만 (只) + 있다 (有) + -는 거고 (是...而且)。" }
+      ]
+    },
+    {
+      "korean": "모두가 원하는 Dream일뿐이라고",
+      "translation": "只是所有人都想要的 Dream 而已",
+      "analysis": [
+        { "point": "모두가 원하는", "explanation": "모두 (全部) + -가 (主格助詞) + 원하다 (想要) 的現在定語形。" },
+        { "point": "Dream일뿐이라고", "explanation": "Dream + -(이)ㄹ 뿐이다 (只是...) + -라고 (引述)。" }
+      ]
+    },
+    {
+      "korean": "말도 안 되는 얘긴걸 yeah",
+      "translation": "真是不像話的故事啊 yeah",
+      "analysis": [
+        { "point": "말도 안 되는", "explanation": "慣用語，不像話的、荒唐的。" },
+        { "point": "얘긴걸", "explanation": "얘기인 것을 (是故事啊) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "믿고 싶지도 않아서 yeah",
+      "translation": "連相信都不想 yeah",
+      "analysis": [
+        { "point": "믿고 싶지도 않아서", "explanation": "믿다 (相信) + -고 싶다 (想) + -지도 않다 (連...都不) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "Yeah I just want it SIMPLE SIMPLE oh",
+      "translation": "Yeah I just want it SIMPLE SIMPLE oh",
+      "analysis": [
+        { "point": "Yeah I just want it SIMPLE SIMPLE oh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 숨쉬게 하는 모든 것이",
+      "translation": "讓我得以呼吸的一切",
+      "analysis": [
+        { "point": "나를 숨쉬게 하는", "explanation": "나를 (我) + 숨쉬다 (呼吸) + -게 하다 (使...) 的現在定語形。" },
+        { "point": "모든 것이", "explanation": "모든 것 (一切) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "그저 간단했으면 해",
+      "translation": "希望它能只是簡單的",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "간단했으면 해", "explanation": "간단하다 (簡單的) + -았/었으면 하다 (慣用型，希望...就好了)。" }
+      ]
+    },
+    {
+      "korean": "내게서 멀리 더 멀리 더",
+      "translation": "離我遠去 更遠 更遠",
+      "analysis": [
+        { "point": "내게서", "explanation": "나에게서 (從我這裡) 的縮略。" },
+        { "point": "멀리 더", "explanation": "멀리 (遠遠地) + 더 (更)。" }
+      ]
+    },
+    {
+      "korean": "보이지 않을 때까지",
+      "translation": "直到再也看不見為止",
+      "analysis": [
+        { "point": "보이지 않을 때까지", "explanation": "보이다 (被看見) + -지 않다 (不) + -(으)ㄹ 때까지 (直到...為止)。" }
+      ]
+    },
+    {
+      "korean": "I call you baby yeah",
+      "translation": "I call you baby yeah",
+      "analysis": [
+        { "point": "I call you baby yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Baby's called my happiness yeah",
+      "translation": "Baby's called my happiness yeah",
+      "analysis": [
+        { "point": "Baby's called my happiness yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah I just want it SIMPLE SIMPLE",
+      "translation": "Yeah I just want it SIMPLE SIMPLE",
+      "analysis": [
+        { "point": "Yeah I just want it SIMPLE SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I want it SIMPLE",
+      "translation": "I want it SIMPLE",
+      "analysis": [
+        { "point": "I want it SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "쉬운 일 하나 없는 출구 없는",
+      "translation": "一件容易的事都沒有 沒有出口的",
+      "analysis": [
+        { "point": "쉬운 일 하나 없는", "explanation": "쉽다 (容易的) 定語形 + 일 (事情) + 하나 (一個) + 없다 (沒有) 的定語形。" },
+        { "point": "출구 없는", "explanation": "출구 (出口) + 없다 (沒有) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "미로인 듯한 이 세상",
+      "translation": "像迷宮般的這世界",
+      "analysis": [
+        { "point": "미로인 듯한", "explanation": "미로 (迷宮) + -인 듯하다 (好像是...) 的定語形。" },
+        { "point": "이 세상", "explanation": "이 (這) + 세상 (世界)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "행복은 그냥 말만 있는 거고",
+      "translation": "幸福只是空話而已",
+      "analysis": [
+        { "point": "행복은", "explanation": "행복 (幸福) + -은 (主題助詞)。" },
+        { "point": "그냥 말만 있는 거고", "explanation": "그냥 (只是) + 말 (話) + -만 (只) + 있다 (有) + -는 거고 (是...而且)。" }
+      ]
+    },
+    {
+      "korean": "모두가 원하는 Dream일뿐이라고",
+      "translation": "只是所有人都想要的 Dream 而已",
+      "analysis": [
+        { "point": "모두가 원하는", "explanation": "모두 (全部) + -가 (主格助詞) + 원하다 (想要) 的現在定語形。" },
+        { "point": "Dream일뿐이라고", "explanation": "Dream + -(이)ㄹ 뿐이다 (只是...) + -라고 (引述)。" }
+      ]
+    },
+    {
+      "korean": "말도 안 되는 얘긴걸 yeah",
+      "translation": "真是不像話的故事啊 yeah",
+      "analysis": [
+        { "point": "말도 안 되는", "explanation": "慣用語，不像話的、荒唐的。" },
+        { "point": "얘긴걸", "explanation": "얘기인 것을 (是故事啊) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "믿고 싶지도 않아서 yeah",
+      "translation": "連相信都不想 yeah",
+      "analysis": [
+        { "point": "믿고 싶지도 않아서", "explanation": "믿다 (相信) + -고 싶다 (想) + -지도 않다 (連...都不) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "Yeah I just want it SIMPLE SIMPLE oh",
+      "translation": "Yeah I just want it SIMPLE SIMPLE oh",
+      "analysis": [
+        { "point": "Yeah I just want it SIMPLE SIMPLE oh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 숨쉬게 하는 모든 것이",
+      "translation": "讓我得以呼吸的一切",
+      "analysis": [
+        { "point": "나를 숨쉬게 하는", "explanation": "나를 (我) + 숨쉬다 (呼吸) + -게 하다 (使...) 的現在定語形。" },
+        { "point": "모든 것이", "explanation": "모든 것 (一切) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "그저 간단했으면 해",
+      "translation": "希望它能只是簡單的",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "간단했으면 해", "explanation": "간단하다 (簡單的) + -았/었으면 하다 (慣用型，希望...就好了)。" }
+      ]
+    },
+    {
+      "korean": "내게서 멀리 더 멀리 더",
+      "translation": "離我遠去 更遠 更遠",
+      "analysis": [
+        { "point": "내게서", "explanation": "나에게서 (從我這裡) 的縮略。" },
+        { "point": "멀리 더", "explanation": "멀리 (遠遠地) + 더 (更)。" }
+      ]
+    },
+    {
+      "korean": "보이지 않을 때까지",
+      "translation": "直到再也看不見為止",
+      "analysis": [
+        { "point": "보이지 않을 때까지", "explanation": "보이다 (被看見) + -지 않다 (不) + -(으)ㄹ 때까지 (直到...為止)。" }
+      ]
+    },
+    {
+      "korean": "I call you baby yeah",
+      "translation": "I call you baby yeah",
+      "analysis": [
+        { "point": "I call you baby yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Baby's called my happiness yeah",
+      "translation": "Baby's called my happiness yeah",
+      "analysis": [
+        { "point": "Baby's called my happiness yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah I just want it SIMPLE SIMPLE",
+      "translation": "Yeah I just want it SIMPLE SIMPLE",
+      "analysis": [
+        { "point": "Yeah I just want it SIMPLE SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I want it SIMPLE",
+      "translation": "I want it SIMPLE",
+      "analysis": [
+        { "point": "I want it SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Em I want it simple yeah",
+      "translation": "Em I want it simple yeah",
+      "analysis": [
+        { "point": "Em I want it simple yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내가 틀린 거라고 yeah 모두가 말해도",
+      "translation": "就算所有人都說我錯了 yeah",
+      "analysis": [
+        { "point": "내가 틀린 거라고", "explanation": "내 (我) + -가 (主格助詞) + 틀리다 (錯的) 定語形 + 것이라고 (說是...)。" },
+        { "point": "모두가 말해도", "explanation": "모두 (全部) + -가 (主格助詞) + 말하다 (說) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "이 밤이 지나면 함께 웃을 수 있길",
+      "translation": "希望這夜晚過去後能一起歡笑",
+      "analysis": [
+        { "point": "이 밤이 지나면", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞) + 지나다 (經過) + -(으)면 (如果...的話)。" },
+        { "point": "함께 웃을 수 있길", "explanation": "함께 (一起) + 웃다 (笑) + -(으)ㄹ 수 있다 (能夠) + -길 (기를 的縮略，表示願望)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "나를 숨쉬게 하는 모든 것이",
+      "translation": "讓我得以呼吸的一切",
+      "analysis": [
+        { "point": "나를 숨쉬게 하는", "explanation": "나를 (我) + 숨쉬다 (呼吸) + -게 하다 (使...) 的現在定語形。" },
+        { "point": "모든 것이", "explanation": "모든 것 (一切) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "그저 간단했으면 해",
+      "translation": "希望它能只是簡單的",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "간단했으면 해", "explanation": "간단하다 (簡單的) + -았/었으면 하다 (慣用型，希望...就好了)。" }
+      ]
+    },
+    {
+      "korean": "내게서 멀리 더 멀리 더",
+      "translation": "離我遠去 更遠 更遠",
+      "analysis": [
+        { "point": "내게서", "explanation": "나에게서 (從我這裡) 的縮略。" },
+        { "point": "멀리 더", "explanation": "멀리 (遠遠地) + 더 (更)。" }
+      ]
+    },
+    {
+      "korean": "보이지 않을 때까지",
+      "translation": "直到再也看不見為止",
+      "analysis": [
+        { "point": "보이지 않을 때까지", "explanation": "보이다 (被看見) + -지 않다 (不) + -(으)ㄹ 때까지 (直到...為止)。" }
+      ]
+    },
+    {
+      "korean": "I call you baby yeah",
+      "translation": "I call you baby yeah",
+      "analysis": [
+        { "point": "I call you baby yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Baby's called my happiness",
+      "translation": "Baby's called my happiness",
+      "analysis": [
+        { "point": "Baby's called my happiness", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yeah I just want it SIMPLE SIMPLE",
+      "translation": "Yeah I just want it SIMPLE SIMPLE",
+      "analysis": [
+        { "point": "Yeah I just want it SIMPLE SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I want it SIMPLE",
+      "translation": "I want it SIMPLE",
+      "analysis": [
+        { "point": "I want it SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Oh I want it SIMPLE oh yeah",
+      "translation": "Oh I want it SIMPLE oh yeah",
+      "analysis": [
+        { "point": "Oh I want it SIMPLE oh yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I want it SIMPLE",
+      "translation": "I want it SIMPLE",
+      "analysis": [
+        { "point": "I want it SIMPLE", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "서다", "chinese": "站立", "pos": "動詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "드넓다", "chinese": "寬廣的", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "먼지", "chinese": "灰塵", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "쉽다", "chinese": "容易的", "pos": "形容詞" },
+    { "korean": "일", "chinese": "事情", "pos": "名詞" },
+    { "korean": "출구", "chinese": "出口", "pos": "名詞" },
+    { "korean": "미로", "chinese": "迷宮", "pos": "名詞" },
+    { "korean": "행복", "chinese": "幸福", "pos": "名詞" },
+    { "korean": "그냥", "chinese": "只是", "pos": "副詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "모두", "chinese": "全部", "pos": "代名詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "숨쉬다", "chinese": "呼吸", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是、僅僅", "pos": "副詞" },
+    { "korean": "간단하다", "chinese": "簡單的", "pos": "形容詞" },
+    { "korean": "멀리", "chinese": "遠遠地", "pos": "副詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "틀리다", "chinese": "錯的", "pos": "動詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" }
+  ]
+}

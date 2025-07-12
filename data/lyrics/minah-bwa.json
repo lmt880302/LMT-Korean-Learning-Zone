@@ -1,0 +1,474 @@
+{
+  "id": "minah-bwa",
+  "title": "봐",
+  "artist": "MINAH (feat. 버벌진트)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "봐봐 나를 봐 들어봐",
+      "translation": "看看 看著我 聽聽看",
+      "analysis": [
+        { "point": "봐봐", "explanation": "보다 (看) 的非格式體命令式 봐 重複，表示強調。" },
+        { "point": "나를 봐", "explanation": "나 (我) + -를 (受格助詞) + 보다 (看) 的命令式。" },
+        { "point": "들어봐", "explanation": "듣다 (聽) + -어 보다 (試著...) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "내 말 들어봐",
+      "translation": "聽聽我的話",
+      "analysis": [
+        { "point": "내 말", "explanation": "내 (我的) + 말 (話)。" },
+        { "point": "들어봐", "explanation": "듣다 (聽) + -어 보다 (試著...) 的命令式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "우리 방법을 찾자",
+      "translation": "我們找個方法吧",
+      "analysis": [
+        { "point": "우리", "explanation": "代名詞，我們。" },
+        { "point": "방법을 찾자", "explanation": "방법 (方法) + -을 (受格助詞) + 찾다 (尋找) + -자 (共動式終結詞尾，表示「一起做...吧」)。" }
+      ]
+    },
+    {
+      "korean": "계속 이렇게 저렇게 멀어지다가",
+      "translation": "如果一直這樣那樣地漸行漸遠",
+      "analysis": [
+        { "point": "계속", "explanation": "副詞，繼續、一直。" },
+        { "point": "이렇게 저렇게", "explanation": "副詞片語，這樣那樣。" },
+        { "point": "멀어지다가", "explanation": "멀어지다 (變遠) 的詞幹 + -다가 (表示動作進行中轉換到另一動作)。" }
+      ]
+    },
+    {
+      "korean": "이별 오면 어떡해",
+      "translation": "迎來離別的話該怎麼辦",
+      "analysis": [
+        { "point": "이별 오면", "explanation": "이별 (離別) + 오다 (來) + -(으)면 (如果)。" },
+        { "point": "어떡해", "explanation": "어떻게 해 (怎麼辦) 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "너 없이 사는 법 따윈",
+      "translation": "像是沒有你而活下去的方法之類的",
+      "analysis": [
+        { "point": "너 없이", "explanation": "너 (你) + 없이 (沒有，없다 的副詞形)。" },
+        { "point": "사는 법", "explanation": "살다 (活) 的定語形 + 법 (方法)。" },
+        { "point": "따윈", "explanation": "따위 (之類的，帶有輕視語氣) + -는 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "정말 알고 싶지도 않아",
+      "translation": "我真的一點也不想知道",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "알고 싶지도 않아", "explanation": "알다 (知道) + -고 싶다 (想) + -지도 않다 (連...都不)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 훤히 넌 알잖아",
+      "translation": "我的心你不是很清楚嗎",
+      "analysis": [
+        { "point": "내 맘", "explanation": "我的心。" },
+        { "point": "훤히", "explanation": "副詞，清楚地、明亮地。" },
+        { "point": "넌 알잖아", "explanation": "你 + 知道 + -잖아 (表示提醒對方已知事實)。" }
+      ]
+    },
+    {
+      "korean": "너만 있으면 아무 욕심 없는 나",
+      "translation": "只要有你 我就別無所求",
+      "analysis": [
+        { "point": "너만 있으면", "explanation": "你 + -만 (只) + 있다 (有) + -(으)면 (如果)。" },
+        { "point": "아무 욕심 없는 나", "explanation": "任何 + 욕심 (慾望) + 없다 (沒有) 的定語形 + 나 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I'm In Love With You",
+      "translation": "我愛上了你",
+      "analysis": [
+        { "point": "I'm In Love With You", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "하지만 언제까질까",
+      "translation": "但會到什麼時候呢",
+      "analysis": [
+        { "point": "하지만", "explanation": "副詞，但是。" },
+        { "point": "언제까질까", "explanation": "언제까지 (到何時) + -(이)ㄹ까 (表示疑問或推測)。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑하기 때문에",
+      "translation": "因為愛你",
+      "analysis": [
+        { "point": "너를 사랑하기 때문에", "explanation": "你(受格) + 사랑하다 (愛) + -기 때문에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "때론 실망도 커",
+      "translation": "有時失望也很大",
+      "analysis": [
+        { "point": "때론", "explanation": "때로는 (有時候) 的縮寫。" },
+        { "point": "실망도 커", "explanation": "실망 (失望) + -도 (也) + 크다 (大) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "봐 바로 오늘처럼",
+      "translation": "看吧 就像今天一樣",
+      "analysis": [
+        { "point": "봐", "explanation": "看吧。" },
+        { "point": "바로 오늘처럼", "explanation": "바로 (正是) + 오늘 (今天) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "너와 다툰 이런 날엔",
+      "translation": "在和你吵架的這種日子裡",
+      "analysis": [
+        { "point": "너와 다툰", "explanation": "너와 (和你) + 다투다 (吵架) 的過去定語形。" },
+        { "point": "이런 날엔", "explanation": "這種日子 + -에는 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "너의 빈자릴 채울",
+      "translation": "填補你空位的",
+      "analysis": [
+        { "point": "너의 빈자릴", "explanation": "你的空位(受格)。" },
+        { "point": "채울", "explanation": "채우다 (填補) 的未來定語形。" }
+      ]
+    },
+    {
+      "korean": "나만을 위한 사람 찾게 되잖니",
+      "translation": "不就會去尋找只為我的人嗎",
+      "analysis": [
+        { "point": "나만을 위한 사람", "explanation": "只為我的人。" },
+        { "point": "찾게 되잖니", "explanation": "찾다 (尋找) + -게 되다 (變得...) + -잖니 (-잖아 的一種形式，用於提問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Hook",
+      "korean": "내 맘 잡아줄래 유리처럼",
+      "translation": "能抓住我的心嗎 像玻璃一樣",
+      "analysis": [
+        { "point": "내 맘 잡아줄래", "explanation": "我的心 + 잡아주다 (為我抓住) + -(으)ㄹ래 (詢問意願)。" },
+        { "point": "유리처럼", "explanation": "유리 (玻璃) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "깨지지 않게 말야",
+      "translation": "我是說 不要讓它碎掉",
+      "analysis": [
+        { "point": "깨지지 않게", "explanation": "깨지다 (碎掉) + -지 않게 (為了不讓...)。" },
+        { "point": "말야", "explanation": "말이야 (我是說) 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "네가 채워줄래 누구도",
+      "translation": "你能填滿它嗎 讓任何人都",
+      "analysis": [
+        { "point": "네가 채워줄래", "explanation": "你 + 채워주다 (為我填滿) + -(으)ㄹ래。" },
+        { "point": "누구도", "explanation": "任何人也。" }
+      ]
+    },
+    {
+      "korean": "내 맘속에 못 들어오게",
+      "translation": "無法走進我心裡",
+      "analysis": [
+        { "point": "내 맘속에", "explanation": "我心裡面。" },
+        { "point": "못 들어오게", "explanation": "못 (無法) + 들어오다 (進來) + -게 (為了讓...)。" }
+      ]
+    },
+    {
+      "korean": "내게 필요한 건 너니까",
+      "translation": "因為我需要的是你",
+      "analysis": [
+        { "point": "내게 필요한 건", "explanation": "我需要的東西。" },
+        { "point": "너니까", "explanation": "너 (你) + -(이)니까 (因為是...)。" }
+      ]
+    },
+    {
+      "korean": "내 눈물의 이윤 너니까",
+      "translation": "因為我眼淚的理由是你",
+      "analysis": [
+        { "point": "내 눈물의 이윤", "explanation": "我眼淚的理由。" },
+        { "point": "너니까", "explanation": "因為是你。" }
+      ]
+    },
+    {
+      "korean": "부디 이런 나를 지켜줘",
+      "translation": "拜託請守護這樣的我",
+      "analysis": [
+        { "point": "부디", "explanation": "副詞，懇切地、拜託。" },
+        { "point": "이런 나를 지켜줘", "explanation": "這樣的我 + 지켜주다 (為我守護) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "날 힘들게 하지 마",
+      "translation": "不要讓我難受",
+      "analysis": [
+        { "point": "날 힘들게 하지 마", "explanation": "我(受格) + 힘들게 하다 (使...難受) + -지 마 (不要)。" }
+      ]
+    },
+    {
+      "korean": "Ooh 우리 하나라면",
+      "translation": "Ooh 如果我們是一體",
+      "analysis": [
+        { "point": "우리 하나라면", "explanation": "我們 + 하나 (一) + -(이)라면 (如果是...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap (Verbal Jint)",
+      "korean": "Gotta Find A Solution In This Situation Now",
+      "translation": "現在必須在這情況下找到解決方案",
+      "analysis": [
+        { "point": "Gotta Find A Solution In This Situation Now", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "우리 둘의 관계는",
+      "translation": "我們倆的關係",
+      "analysis": [
+        { "point": "우리 둘의 관계는", "explanation": "我們倆的關係(主題)。" }
+      ]
+    },
+    {
+      "korean": "지금 어디쯤에 있을까",
+      "translation": "現在大概在哪裡呢",
+      "analysis": [
+        { "point": "지금 어디쯤에 있을까", "explanation": "現在 + 哪裡左右 + 在...嗎？" }
+      ]
+    },
+    {
+      "korean": "When You Look Look Look At Me",
+      "translation": "當你看著我時",
+      "analysis": [
+        { "point": "When You Look Look Look At Me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "네 시선에서 난",
+      "translation": "在你的視線中我",
+      "analysis": [
+        { "point": "네 시선에서 난", "explanation": "你的視線中 + 我(主題)。" }
+      ]
+    },
+    {
+      "korean": "어긋남을 느끼네",
+      "translation": "感覺到了分歧",
+      "analysis": [
+        { "point": "어긋남을", "explanation": "어긋남 (分歧、錯位) + -을 (受格助詞)。" },
+        { "point": "느끼네", "explanation": "느끼다 (感覺) + -네 (感嘆終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "No I Don't Wanna Mess Around With Emotions",
+      "translation": "不 我不想玩弄感情",
+      "analysis": [
+        { "point": "No I Don't Wanna Mess Around With Emotions", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "시간이 필요한 걸지도",
+      "translation": "也許是需要時間吧",
+      "analysis": [
+        { "point": "시간이 필요한 걸지도", "explanation": "時間需要的 + 것인지도 모르다 (也許是...) 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "매일 함께한다는 게",
+      "translation": "每天在一起這件事",
+      "analysis": [
+        { "point": "매일 함께한다는 게", "explanation": "每天一起 + -다는 것 (這件事) + -이。" }
+      ]
+    },
+    {
+      "korean": "좋은 것만은 아닐지도 몰라",
+      "translation": "也許不全然是好事",
+      "analysis": [
+        { "point": "좋은 것만은 아닐지도 몰라", "explanation": "好的事 + -만은 아니다 (不只是) + -(으)ㄹ지도 모르다 (也許)。" }
+      ]
+    },
+    {
+      "korean": "So I Suggest To Ya",
+      "translation": "所以我向你建議",
+      "analysis": [
+        { "point": "So I Suggest To Ya", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "각자의 시간을 갖자",
+      "translation": "我們各自擁有自己的時間吧",
+      "analysis": [
+        { "point": "각자의 시간을 갖자", "explanation": "各自的時間 + 갖다 (擁有) + -자 (一起...吧)。" }
+      ]
+    },
+    {
+      "korean": "서로를 위해서야",
+      "translation": "是為了彼此好",
+      "analysis": [
+        { "point": "서로를 위해서야", "explanation": "彼此(受格) + 위하다 (為了) + -서이다 (是為了...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I'm In Love With You",
+      "translation": "我愛上了你",
+      "analysis": [
+        { "point": "I'm In Love With You", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "때로는 자신이 없어",
+      "translation": "有時候沒有自信",
+      "analysis": [
+        { "point": "때로는 자신이 없어", "explanation": "有時候 + 自信 + 沒有。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑하기 때문에",
+      "translation": "因為愛你",
+      "analysis": [
+        { "point": "너를 사랑하기 때문에", "explanation": "因為愛你。" }
+      ]
+    },
+    {
+      "korean": "때론 상처도 커",
+      "translation": "有時傷口也很大",
+      "analysis": [
+        { "point": "때론 상처도 커", "explanation": "有時 + 傷口也 + 大。" }
+      ]
+    },
+    {
+      "korean": "봐 바로 오늘처럼",
+      "translation": "看吧 就像今天一樣",
+      "analysis": [
+        { "point": "봐 바로 오늘처럼", "explanation": "看吧 + 就像今天。" }
+      ]
+    },
+    {
+      "korean": "너 때문에 힘들 때면",
+      "translation": "因為你而難受的時候",
+      "analysis": [
+        { "point": "너 때문에 힘들 때면", "explanation": "因為你 + 辛苦的時候。" }
+      ]
+    },
+    {
+      "korean": "너를 모르던 때로",
+      "translation": "回到不認識你的時候",
+      "analysis": [
+        { "point": "너를 모르던 때로", "explanation": "不認識你的時候(方向)。" }
+      ]
+    },
+    {
+      "korean": "가끔은 돌아가고 싶기도 한걸",
+      "translation": "有時也想回去",
+      "analysis": [
+        { "point": "가끔은 돌아가고 싶기도 한걸", "explanation": "有時 + 想回去 + -기도 하다 (也做...) + -ㄴ걸 (感嘆)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Hook",
+      "korean": "내 맘 잡아줄래",
+      "translation": "能抓住我的心嗎",
+      "analysis": [
+        { "point": "내 맘 잡아줄래", "explanation": "能為我抓住我的心嗎？" }
+      ]
+    },
+    {
+      "korean": "유리처럼 깨지지 않게 말야",
+      "translation": "像玻璃一樣 不要讓它碎掉",
+      "analysis": [
+        { "point": "유리처럼 깨지지 않게 말야", "explanation": "像玻璃一樣 + 為了不讓它碎掉。" }
+      ]
+    },
+    {
+      "korean": "네가 채워줄래 누구도",
+      "translation": "你能填滿它嗎 讓任何人都",
+      "analysis": [
+        { "point": "네가 채워줄래 누구도", "explanation": "你能為我填滿嗎 + 任何人也。" }
+      ]
+    },
+    {
+      "korean": "내 맘속에 못 들어오게",
+      "translation": "無法走進我心裡",
+      "analysis": [
+        { "point": "내 맘속에 못 들어오게", "explanation": "我心裡 + 為了無法進來。" }
+      ]
+    },
+    {
+      "korean": "내게 필요한 건 너니까",
+      "translation": "因為我需要的是你",
+      "analysis": [
+        { "point": "내게 필요한 건 너니까", "explanation": "我需要的東西 + 因為是你。" }
+      ]
+    },
+    {
+      "korean": "내 눈물의 이윤 너니까",
+      "translation": "因為我眼淚的理由是你",
+      "analysis": [
+        { "point": "내 눈물의 이윤 너니까", "explanation": "我眼淚的理由 + 因為是你。" }
+      ]
+    },
+    {
+      "korean": "부디 이런 나를 지켜줘",
+      "translation": "拜託請守護這樣的我",
+      "analysis": [
+        { "point": "부디 이런 나를 지켜줘", "explanation": "拜託 + 這樣的我 + 請為我守護。" }
+      ]
+    },
+    {
+      "korean": "날 힘들게 하지 마",
+      "translation": "不要讓我難受",
+      "analysis": [
+        { "point": "날 힘들게 하지 마", "explanation": "不要使我難受。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Ooh 우리 하나라면",
+      "translation": "Ooh 如果我們是一體",
+      "analysis": [
+        { "point": "Ooh 우리 하나라면", "explanation": "Ooh 如果我們是ㄧ。" }
+      ]
+    },
+    {
+      "korean": "Ooh 우리 하나라면",
+      "translation": "Ooh 如果我們是一體",
+      "analysis": [
+        { "point": "Ooh 우리 하나라면", "explanation": "Ooh 如果我們是ㄧ。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "방법", "chinese": "方法", "pos": "名詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "어떡해", "chinese": "怎麼辦", "pos": "片語" },
+    { "korean": "법", "chinese": "方法", "pos": "名詞" },
+    { "korean": "따위", "chinese": "之類的", "pos": "助詞" },
+    { "korean": "훤히", "chinese": "清楚地", "pos": "副詞" },
+    { "korean": "욕심", "chinese": "慾望", "pos": "名詞" },
+    { "korean": "실망", "chinese": "失望", "pos": "名詞" },
+    { "korean": "다투다", "chinese": "吵架", "pos": "動詞" },
+    { "korean": "빈자리", "chinese": "空位", "pos": "名詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "유리", "chinese": "玻璃", "pos": "名詞" },
+    { "korean": "깨지다", "chinese": "碎掉", "pos": "動詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "부디", "chinese": "拜託、懇切地", "pos": "副詞" },
+    { "korean": "지켜주다", "chinese": "守護", "pos": "動詞" },
+    { "korean": "힘들게 하다", "chinese": "使...難受", "pos": "片語" },
+    { "korean": "관계", "chinese": "關係", "pos": "名詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "어긋남", "chinese": "分歧、錯位", "pos": "名詞" },
+    { "korean": "느끼다", "chinese": "感覺", "pos": "動詞" },
+    { "korean": "각자", "chinese": "各自", "pos": "名詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "代名詞" },
+    { "korean": "자신", "chinese": "自信", "pos": "名詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "가끔", "chinese": "有時候", "pos": "副詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" }
+  ]
+}

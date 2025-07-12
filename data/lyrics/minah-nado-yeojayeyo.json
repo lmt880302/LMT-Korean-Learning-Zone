@@ -1,0 +1,562 @@
+{
+  "id": "minah-nado-yeojayeyo",
+  "title": "나도 여자예요 (I'm a Woman Too)",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "손가락을 짚어서 세어봐",
+      "translation": "屈起手指數數看",
+      "analysis": [
+        { "point": "손가락을", "explanation": "손가락 (手指) + -을 (受格助詞，標示動作的對象)。" },
+        { "point": "짚어서", "explanation": "짚다 (按、짚、屈指) 的詞幹 + -어서，表示動作的先後順序，相當於「...然後...」。" },
+        { "point": "세어봐", "explanation": "세다 (數) 的詞幹 + -어 보다，是一個慣用句型，表示「試著做某事看看」，語氣較為柔和。" }
+      ]
+    },
+    {
+      "korean": "울지 않았던 날을",
+      "translation": "沒有哭泣的日子",
+      "analysis": [
+        { "point": "울지 않았던", "explanation": "울다 (哭) 的詞幹 + -지 않다 (否定形式) 的過去式 + -던 (過去回想的定語詞尾)，用來修飾後面的名詞。" },
+        { "point": "날을", "explanation": "날 (日子) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너를 만나고 행복했냐고?",
+      "translation": "問我遇見你之後幸福嗎？",
+      "analysis": [
+        { "point": "너를 만나고", "explanation": "너 (你) + -를 (受格助詞) + 만나다 (遇見) 的詞幹 + -고 (連接詞尾，表示動作的接續)。" },
+        { "point": "행복했냐고?", "explanation": "행복하다 (幸福) 的過去式 + -냐고?，為間接引述疑問句的終結詞尾，表示轉述他人的問題或自問。" }
+      ]
+    },
+    {
+      "korean": "정말로 사랑은 했냐고?",
+      "translation": "問我真的愛過嗎？",
+      "analysis": [
+        { "point": "정말로", "explanation": "정말 (真的) + -로 (助詞，此處用來加強語氣，形成副詞)。" },
+        { "point": "사랑은", "explanation": "사랑 (愛) + -은 (主題助詞)，在此有強調、對比的語氣。" },
+        { "point": "했냐고?", "explanation": "하다 (做) 的過去式 + -냐고?，間接引述疑問句的終結詞尾。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "그 사람보다 큰 침대 밑에서",
+      "translation": "在比那個人還大的床底下",
+      "analysis": [
+        { "point": "그 사람보다", "explanation": "그 사람 (那個人) + -보다 (比較格助詞，表示「比...」)。" },
+        { "point": "큰", "explanation": "크다 (大) 的定語形態，用來修飾後面的名詞 '침대'。" },
+        { "point": "침대 밑에서", "explanation": "침대 (床) + 밑 (下面) + -에서 (場所助詞，表示動作發生的地點)。" }
+      ]
+    },
+    {
+      "korean": "왜 이리도 아기처럼 울고 있는지 있는지",
+      "translation": "為何如此像個孩子般地哭泣著呢",
+      "analysis": [
+        { "point": "왜 이리도", "explanation": "왜 (為何) + 이리 (如此) + -도 (助詞，表示強調)。" },
+        { "point": "아기처럼", "explanation": "아기 (嬰兒、孩子) + -처럼 (助詞，表示「像...一樣」)。" },
+        { "point": "울고 있는지", "explanation": "울다 (哭) 的詞幹 + -고 있다 (表示動作正在進行) + -는지 (間接疑問或感嘆的語尾)。重複 '있는지' 是為了加強語氣。" }
+      ]
+    },
+    {
+      "korean": "너를 못 잊는지 (I feel you girl)",
+      "translation": "無法忘記你",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "못 잊는지", "explanation": "못 (副詞，表示「無法」，用於動詞前) + 잊다 (忘記) 的詞幹 + -는지 (間接疑問或感嘆的語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "빨래 바구니를 들고 태연한 척",
+      "translation": "提著洗衣籃，裝作若無其事的樣子",
+      "analysis": [
+        { "point": "빨래 바구니를", "explanation": "빨래 바구니 (洗衣籃) + -를 (受格助詞)。" },
+        { "point": "들고", "explanation": "들다 (提、拿) 的詞幹 + -고 (連接詞尾)。" },
+        { "point": "태연한 척", "explanation": "태연하다 (泰然自若) 的定語形 (-ㄴ) + 척 (名詞，表示「樣子」)，'-ㄴ/은/는 척' 為慣用語，意為「假裝...」。" }
+      ]
+    },
+    {
+      "korean": "하루가 어떻게 가는지 모르고",
+      "translation": "不知道一天是如何度過的",
+      "analysis": [
+        { "point": "하루가", "explanation": "하루 (一天) + -가 (主格助詞)。" },
+        { "point": "어떻게 가는지", "explanation": "어떻게 (如何) + 가다 (去、過) 的詞幹 + -는지 (間接疑問語尾)。" },
+        { "point": "모르고", "explanation": "모르다 (不知道) 的詞幹 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "매일을 바쁘게 보내야 할 거야",
+      "translation": "必須每天都忙碌地度過吧",
+      "analysis": [
+        { "point": "매일을", "explanation": "매일 (每天) + -을 (受格助詞)。" },
+        { "point": "바쁘게", "explanation": "바쁘다 (忙碌) 的詞幹 + -게，將形容詞轉為副詞形態。" },
+        { "point": "보내야 할 거야", "explanation": "보내다 (度過) + -아/어야 하다 (必須) + -(으)ㄹ 거야 (表示推測的未來式)。" }
+      ]
+    },
+    {
+      "korean": "넌 내가 늘 강한 줄 알거야 (하지만)",
+      "translation": "你大概以為我總是堅強的 (但是)",
+      "analysis": [
+        { "point": "넌", "explanation": "너 (你) + -는 (主題助詞) 的縮略形。" },
+        { "point": "내가 늘", "explanation": "내 (我) + -가 (主格助詞) + 늘 (總是、一直)。" },
+        { "point": "강한 줄 알거야", "explanation": "강하다 (堅強) 的定語形 (-ㄴ) + 줄 알다 (以為...) 的未來推測形。" }
+      ]
+    },
+    {
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，用於以母音結尾的名詞後，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，用於以母音結尾的名詞後，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "너 땜에 아침에 눈을 뜨면 울고",
+      "translation": "因為你，早上睜開眼就哭",
+      "analysis": [
+        { "point": "너 땜에", "explanation": "너 (你) + 때문에 (因為) 的口語縮略形。" },
+        { "point": "아침에", "explanation": "아침 (早上) + -에 (時間助詞)。" },
+        { "point": "눈을 뜨면", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的詞幹 + -(으)면 (條件形，「如果...」)。" },
+        { "point": "울고", "explanation": "울다 (哭) 的詞幹 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "바람에 스쳐도 다시 울고",
+      "translation": "就算只是風拂過也再次哭泣",
+      "analysis": [
+        { "point": "바람에", "explanation": "바람 (風) + -에 (助詞，此處可解釋為「因...」)。" },
+        { "point": "스쳐도", "explanation": "스치다 (掠過、擦過) 的詞幹 + -아/어도 (表示讓步，「即使...也...」)。" },
+        { "point": "다시 울고", "explanation": "다시 (再次) + 울다 (哭) 的詞幹 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，用於以母音結尾的名詞後，表示「是...」)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "짹깍 거리는 시계",
+      "translation": "滴答作響的時鐘",
+      "analysis": [
+        { "point": "짹깍 거리는", "explanation": "짹깍거리다 (滴答作響) 的現在時定語形 (-는)。'짹깍' 是擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "나도 모르게 너를 기다려",
+      "translation": "不知不覺地等待著你",
+      "analysis": [
+        { "point": "나도 모르게", "explanation": "慣用語，「不知不覺地」。由 나 (我) + -도 (也) + 모르다 (不知道) 的副詞形 (-게) 組成。" },
+        { "point": "너를 기다려", "explanation": "너 (你) + -를 (受格助詞) + 기다리다 (等待) 的非格式體尊敬階終結語尾 (-어/아/여요)。" }
+      ]
+    },
+    {
+      "korean": "티슈 한 박스 는 쓴 거 같아",
+      "translation": "好像用掉了一整盒面紙",
+      "analysis": [
+        { "point": "티슈 한 박스는", "explanation": "티슈 (面紙) + 한 박스 (一盒) + -는 (主題助詞)。" },
+        { "point": "쓴 거 같아", "explanation": "쓰다 (用) 的過去定語形 (-ㄴ/은) + 것 같다 (慣用語，表示「好像...」)。" }
+      ]
+    },
+    {
+      "korean": "눈물이 정말 마를지 몰라",
+      "translation": "眼淚不知道是否真的會乾",
+      "analysis": [
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)。" },
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "마를지 몰라", "explanation": "마르다 (乾) 的詞幹 + -(으)ㄹ지 모르다 (慣用語，表示「不知道是否會...」)。" }
+      ]
+    },
+    {
+      "korean": "(I feel you girl)",
+      "translation": "(我懂妳，女孩)",
+      "analysis": [
+        { "point": "(I feel you girl)", "explanation": "英文歌詞，表示感同身受。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "때 지난 드라마를 보고 태연한 척",
+      "translation": "看著過時的電視劇，裝作若無其事的樣子",
+      "analysis": [
+        { "point": "때 지난", "explanation": "때 (時候) + 지나다 (經過) 的過去定語形，意為「過時的」。" },
+        { "point": "드라마를 보고", "explanation": "드라마 (電視劇) + -를 (受格助詞) + 보다 (看) 的詞幹 + -고 (連接詞尾)。" },
+        { "point": "태연한 척", "explanation": "태연하다 (泰然自若) 的定語形 (-ㄴ) + 척 (名詞，表示「樣子」)，'-ㄴ/은/는 척' 為慣用語，意為「假裝...」。" }
+      ]
+    },
+    {
+      "korean": "하루가 어떻게 가는지 모르고",
+      "translation": "不知道一天是如何度過的",
+      "analysis": [
+        { "point": "하루가", "explanation": "하루 (一天) + -가 (主格助詞)。" },
+        { "point": "어떻게 가는지", "explanation": "어떻게 (如何) + 가다 (去、過) 的詞幹 + -는지 (間接疑問語尾)。" },
+        { "point": "모르고", "explanation": "모르다 (不知道) 的詞幹 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "매일을 바쁘게 보내야 할 거야",
+      "translation": "必須每天都忙碌地度過吧",
+      "analysis": [
+        { "point": "매일을", "explanation": "매일 (每天) + -을 (受格助詞)。" },
+        { "point": "바쁘게", "explanation": "바쁘다 (忙碌) 的詞幹 + -게，將形容詞轉為副詞形態。" },
+        { "point": "보내야 할 거야", "explanation": "보내다 (度過) + -아/어야 하다 (必須) + -(으)ㄹ 거야 (表示推測的未來式)。" }
+      ]
+    },
+    {
+      "korean": "넌 내가 늘 강한 줄 알거야 (하지만..)",
+      "translation": "你大概以為我總是堅強的 (但是..)",
+      "analysis": [
+        { "point": "넌", "explanation": "너 (你) + -는 (主題助詞) 的縮略形。" },
+        { "point": "내가 늘", "explanation": "내 (我) + -가 (主格助詞) + 늘 (總是、一直)。" },
+        { "point": "강한 줄 알거야", "explanation": "강하다 (堅強) 的定語形 (-ㄴ) + 줄 알다 (以為...) 的未來推測形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "너 땜에 아침에 눈을 뜨면 울고",
+      "translation": "因為你，早上睜開眼就哭",
+      "analysis": [
+        { "point": "너 땜에", "explanation": "너 (你) + 때문에 (因為) 的口語縮略形。" },
+        { "point": "아침에", "explanation": "아침 (早上) + -에 (時間助詞)。" },
+        { "point": "눈을 뜨면", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的詞幹 + -(으)면 (條件形，「如果...」)。" },
+        { "point": "울고", "explanation": "울다 (哭) 的詞幹 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "바람에 스쳐도 다시 울고",
+      "translation": "就算只是風拂過也再次哭泣",
+      "analysis": [
+        { "point": "바람에", "explanation": "바람 (風) + -에 (助詞，此處可解釋為「因...」)。" },
+        { "point": "스쳐도", "explanation": "스치다 (掠過、擦過) 的詞幹 + -아/어도 (表示讓步，「即使...也...」)。" },
+        { "point": "다시 울고", "explanation": "다시 (再次) + 울다 (哭) 的詞幹 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "sing it with me now!",
+      "translation": "現在和我一起唱！",
+      "analysis": [
+        { "point": "sing it with me now!", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you",
+      "translation": "我愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "약해지고 있어 난",
+      "translation": "我正在變得軟弱",
+      "analysis": [
+        { "point": "약해지고 있어", "explanation": "약하다 (軟弱) + -아/어지다 (變得...) + -고 있다 (正在進行式)。" },
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略形，放句尾是為了倒裝強調。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you",
+      "translation": "我愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너 없인 못 사는데",
+      "translation": "沒有你我活不下去啊",
+      "analysis": [
+        { "point": "너 없인", "explanation": "너 (你) + 없이 (沒有，없다的副詞形) + -는 的縮略。" },
+        { "point": "못 사는데", "explanation": "못 (無法) + 살다 (活) 的詞幹 + -는데 (表示背景、轉折或感嘆的終結詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "나도 여자예요 baby",
+      "translation": "我也是女人啊 baby",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "여자예요", "explanation": "여자 (女人) + -예요 (非格式體尊敬階終結詞尾，表示「是...」)。" }
+      ]
+    },
+    {
+      "korean": "어서 미안하다고 말해",
+      "translation": "快點說你對不起",
+      "analysis": [
+        { "point": "어서", "explanation": "副詞，快點、趕快。" },
+        { "point": "미안하다고 말해", "explanation": "미안하다 (對不起) + -고 (間接引述) + 말하다 (說) 的非格式體命令式 (-아/어/여라)。" }
+      ]
+    },
+    {
+      "korean": "어서 sing it with me now!",
+      "translation": "快點 現在和我一起唱！",
+      "analysis": [
+        { "point": "어서", "explanation": "副詞，快點、趕快。" },
+        { "point": "sing it with me now!", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you",
+      "translation": "我愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "약해지고 있어 난",
+      "translation": "我正在變得軟弱",
+      "analysis": [
+        { "point": "약해지고 있어", "explanation": "약하다 (軟弱) + -아/어지다 (變得...) + -고 있다 (正在進行式)。" },
+        { "point": "난", "explanation": "나 (我) + -는 (主題助詞) 的縮略形，放句尾是為了倒裝強調。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you",
+      "translation": "我愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "너 없인 못 사는데",
+      "translation": "沒有你我活不下去啊",
+      "analysis": [
+        { "point": "너 없인", "explanation": "너 (你) + 없이 (沒有，없다的副詞形) + -는 的縮略。" },
+        { "point": "못 사는데", "explanation": "못 (無法) + 살다 (活) 的詞幹 + -는데 (表示背景、轉折或感嘆的終結詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "고픈데 보고픈데",
+      "translation": "渴望著 想念著",
+      "analysis": [
+        { "point": "고픈데", "explanation": "고프다 (飢餓、渴望) 的詞幹 + -는데 (連接詞尾，有輕微轉折或提示背景的語氣)。" },
+        { "point": "보고픈데", "explanation": "보고 싶다 (想念) 的縮寫及詩意表達 '보고프다' + -는데。" }
+      ]
+    },
+    {
+      "korean": "그대 사랑이 난 고픈데",
+      "translation": "我渴望著你的愛啊",
+      "analysis": [
+        { "point": "그대 사랑이", "explanation": "그대 (你，較書面/詩意) + 사랑 (愛) + -이 (主格助詞)。" },
+        { "point": "난 고픈데", "explanation": "난 (我是) + 고프다 (渴望) + -는데。" }
+      ]
+    },
+    {
+      "korean": "(I wanna feel the love)",
+      "translation": "(我想要感受這份愛)",
+      "analysis": [
+        { "point": "(I wanna feel the love)", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "아픈데 너무 아픈데",
+      "translation": "心痛著 太心痛了",
+      "analysis": [
+        { "point": "아픈데", "explanation": "아프다 (痛) 的詞幹 + -는데。" },
+        { "point": "너무 아픈데", "explanation": "너무 (太) + 아프다 (痛) 的詞幹 + -는데。" }
+      ]
+    },
+    {
+      "korean": "그댈 좋은 것만 기억해",
+      "translation": "只記得你的好",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대 (你) + -를 (受格助詞) 的縮略形。" },
+        { "point": "좋은 것만", "explanation": "좋다 (好) 的定語形 (-은) + 것 (事情、東西) + -만 (助詞，表示「只」)。" },
+        { "point": "기억해", "explanation": "기억하다 (記得) 的非格式體尊敬階終結語尾。" }
+      ]
+    },
+    {
+      "korean": "(you’re gonna be ok)",
+      "translation": "(你會沒事的)",
+      "analysis": [
+        { "point": "(you’re gonna be ok)", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "고픈데 보고픈데",
+      "translation": "渴望著 想念著",
+      "analysis": [
+        { "point": "고픈데", "explanation": "고프다 (飢餓、渴望) 的詞幹 + -는데 (連接詞尾，有輕微轉折或提示背景的語氣)。" },
+        { "point": "보고픈데", "explanation": "보고 싶다 (想念) 的縮寫及詩意表達 '보고프다' + -는데。" }
+      ]
+    },
+    {
+      "korean": "그대 사랑이 난 고픈데",
+      "translation": "我渴望著你的愛啊",
+      "analysis": [
+        { "point": "그대 사랑이", "explanation": "그대 (你，較書面/詩意) + 사랑 (愛) + -이 (主格助詞)。" },
+        { "point": "난 고픈데", "explanation": "난 (我是) + 고프다 (渴望) + -는데。" }
+      ]
+    },
+    {
+      "korean": "(I wanna feel the love)",
+      "translation": "(我想要感受這份愛)",
+      "analysis": [
+        { "point": "(I wanna feel the love)", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "아픈데 너무 아픈데",
+      "translation": "心痛著 太心痛了",
+      "analysis": [
+        { "point": "아픈데", "explanation": "아프다 (痛) 的詞幹 + -는데。" },
+        { "point": "너무 아픈데", "explanation": "너무 (太) + 아프다 (痛) 的詞幹 + -는데。" }
+      ]
+    },
+    {
+      "korean": "(but what you say)",
+      "translation": "(但你說了什麼)",
+      "analysis": [
+        { "point": "(but what you say)", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I love you love you love you",
+      "translation": "我愛你 愛你 愛你",
+      "analysis": [
+        { "point": "I love you", "explanation": "英文歌詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "손가락", "chinese": "手指", "pos": "名詞" },
+    { "korean": "짚다", "chinese": "按、屈指", "pos": "動詞" },
+    { "korean": "세다", "chinese": "數", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "침대", "chinese": "床", "pos": "名詞" },
+    { "korean": "밑", "chinese": "下面", "pos": "名詞" },
+    { "korean": "아기", "chinese": "嬰兒、孩子", "pos": "名詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "빨래 바구니", "chinese": "洗衣籃", "pos": "名詞" },
+    { "korean": "들다", "chinese": "提、拿", "pos": "動詞" },
+    { "korean": "태연하다", "chinese": "泰然自若", "pos": "形容詞" },
+    { "korean": "척하다", "chinese": "假裝", "pos": "動詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "名詞" },
+    { "korean": "바쁘다", "chinese": "忙碌", "pos": "形容詞" },
+    { "korean": "보내다", "chinese": "度過", "pos": "動詞" },
+    { "korean": "강하다", "chinese": "堅強", "pos": "形容詞" },
+    { "korean": "여자", "chinese": "女人", "pos": "名詞" },
+    { "korean": "눈을 뜨다", "chinese": "睜開眼睛", "pos": "片語" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "掠過、擦過", "pos": "動詞" },
+    { "korean": "시계", "chinese": "時鐘", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "티슈", "chinese": "面紙", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "마르다", "chinese": "乾", "pos": "動詞" },
+    { "korean": "드라마", "chinese": "電視劇", "pos": "名詞" },
+    { "korean": "약해지다", "chinese": "變軟弱", "pos": "動詞" },
+    { "korean": "살다", "chinese": "活", "pos": "動詞" },
+    { "korean": "어서", "chinese": "快點、趕快", "pos": "副詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "고프다", "chinese": "飢餓、渴望", "pos": "形容詞" },
+    { "korean": "보고프다", "chinese": "想念 (보고 싶다的詩意表達)", "pos": "形容詞" },
+    { "korean": "그대", "chinese": "你 (書面/詩意)", "pos": "代名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "기억하다", "chinese": "記得", "pos": "動詞" }
+  ]
+}

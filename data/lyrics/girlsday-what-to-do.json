@@ -1,0 +1,388 @@
+{
+  "id": "girlsday-what-to-do",
+  "title": "어쩜 좋아 (What To Do)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Hey! Girl's! Listen to ma Love story~",
+      "translation": "嘿！女孩們！聽聽我的愛情故事～",
+      "analysis": [
+        { "point": "Listen to ma Love story", "explanation": "英文，「ma」是「my」的口語說法，意為「聽我的愛情故事」。" }
+      ]
+    },
+    {
+      "korean": "This Song for the One & Only~",
+      "translation": "這首歌獻給我的唯一～",
+      "analysis": [
+        { "point": "One & Only", "explanation": "英文，表示「唯一」。" }
+      ]
+    },
+    {
+      "korean": "Girl's Day~ Too Much You're Lovely~",
+      "translation": "Girl's Day～ 你太可愛了～",
+      "analysis": [
+        { "point": "Too Much You're Lovely", "explanation": "英文，意為「你非常可愛」。" }
+      ]
+    },
+    {
+      "korean": "All L.O.V.E",
+      "translation": "全部都是愛",
+      "analysis": [
+        { "point": "L.O.V.E", "explanation": "英文，將「LOVE (愛)」一個字母一個字母念出來。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "눈에 빠져 빠져버린 것 같아",
+      "translation": "好像陷入、完全陷入你的眼眸裡了",
+      "analysis": [
+        { "point": "눈에 빠져", "explanation": "名詞「눈 (眼睛)」+ 場所助詞「-에」+ 動詞「빠지다 (陷入)」。" },
+        { "point": "빠져버린 것 같아", "explanation": "動詞「빠지다」+ 補助動詞「-아/어 버리다 (完全...、...掉了)」構成「빠져버리다」，其過去冠詞形「빠져버린」+ 不完全名詞「것」+ 助詞「같다 (像...一樣)」。" }
+      ]
+    },
+    {
+      "korean": "숨이 녹아 녹아버릴 것 같아",
+      "translation": "呼吸好像要融化、完全融化掉了",
+      "analysis": [
+        { "point": "숨이 녹아", "explanation": "名詞「숨 (呼吸)」+ 主格助詞「-이」+ 動詞「녹다 (融化)」。" },
+        { "point": "녹아버릴 것 같아", "explanation": "動詞「녹다」+ 補助動詞「-아/어 버리다」構成「녹아버리다」，其未來冠詞形「녹아버릴」+ 不完全名詞「것」+ 助詞「같다 (像...一樣)」。" }
+      ]
+    },
+    {
+      "korean": "몰래 다가가서 볼래 알고 싶어 볼래",
+      "translation": "想偷偷靠近看看，想了解看看",
+      "analysis": [
+        { "point": "몰래 다가가서 볼래", "explanation": "副詞「몰래 (偷偷地)」+ 動詞「다가가다 (靠近)」+ 連接詞尾「-아서」+ 動詞「보다 (看)」+ 意願終結詞尾「-(으)ㄹ래」。" },
+        { "point": "알고 싶어 볼래", "explanation": "動詞「알다 (知道)」+ 句型「-고 싶다 (想要...)」+ 補助動詞「-아/어 보다」的意願形。" }
+      ]
+    },
+    {
+      "korean": "내 눈에 꾹꾹 담아볼래",
+      "translation": "想把(你)滿滿地裝進我眼裡",
+      "analysis": [
+        { "point": "내 눈에", "explanation": "「나의 눈에 (在我的眼睛裡)」。" },
+        { "point": "꾹꾹", "explanation": "副詞，形容用力按壓或裝滿的樣子。" },
+        { "point": "담아볼래", "explanation": "動詞「담다 (裝、盛)」+ 補助動詞「-아/어 보다 (試試看)」+ 意願終結詞尾「-(으)ㄹ래」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "부끄 부끄 부끄럽게 몰라요",
+      "translation": "害羞，害羞，害羞地，哎呀不管了",
+      "analysis": [
+        { "point": "부끄 부끄", "explanation": "「부끄럽다 (害羞)」的縮略，重複使用以表示強調。" },
+        { "point": "부끄럽게", "explanation": "形容詞「부끄럽다 (害羞的)」的副詞形。" },
+        { "point": "몰라요", "explanation": "動詞「모르다 (不知道)」，在此有「哎呀不管了」的語氣。" }
+      ]
+    },
+    {
+      "korean": "자꾸 살짝살짝 눈빛에 난 놀라요",
+      "translation": "總是對那不經意的眼神感到驚訝",
+      "analysis": [
+        { "point": "자꾸", "explanation": "副詞，表示「總是、頻繁地」。" },
+        { "point": "살짝살짝", "explanation": "副詞「살짝 (稍微、悄悄地)」的重複，表示多次或輕微的動作。" },
+        { "point": "눈빛에 난 놀라요", "explanation": "名詞「눈빛 (眼神)」+ 場所助詞「-에」+「나는」的縮寫「난」+ 動詞「놀라다 (驚訝)」的敬語形。" }
+      ]
+    },
+    {
+      "korean": "아쿠 이러면 안되는데 (안되는데)",
+      "translation": "哎呀，這樣不行啊 (不行啊)",
+      "analysis": [
+        { "point": "아쿠", "explanation": "感嘆詞，表示驚訝或哎呀的語氣。" },
+        { "point": "이러면 안되는데", "explanation": "「이렇게 하면 안 되는데」的縮寫，表示「這樣做的話不行啊」，帶有擔憂的語氣。" },
+        { "point": "(안되는데)", "explanation": "背景和聲，重複歌詞內容。" }
+      ]
+    },
+    {
+      "korean": "내 맘 보면 어떡해",
+      "translation": "看到我的心意的話怎麼辦",
+      "analysis": [
+        { "point": "내 맘 보면", "explanation": "「내 마음을 보면」的縮寫，如果看到我的心的話。" },
+        { "point": "어떡해", "explanation": "「어떡해」是「어떻게 해」的縮寫，意為「怎麼辦」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "(Oh~) 어머 어쩜 좋아 (어쩜 좋아)",
+      "translation": "(Oh~) 天啊，怎麼這麼好 (怎麼這麼好)",
+      "analysis": [
+        { "point": "어머", "explanation": "感嘆詞，女性常用，表示驚訝，類似「天啊、哎呀」。" },
+        { "point": "어쩜 좋아", "explanation": "「어쩌면 이렇게 좋아」的縮寫，表示「怎麼會這麼好」，帶有強烈感嘆。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 좋아 (난 니가 좋아)",
+      "translation": "太喜歡你了 (我喜歡你)",
+      "analysis": [
+        { "point": "니가 너무 좋아", "explanation": "「네가 너무 좋아」的口語形式，表示「我太喜歡你了」。" }
+      ]
+    },
+    {
+      "korean": "정말 니가 좋아 (니가 좋아)",
+      "translation": "真的喜歡你 (喜歡你)",
+      "analysis": [
+        { "point": "정말 니가 좋아", "explanation": "副詞「정말 (真的)」+「네가 좋아 (喜歡你)」。" }
+      ]
+    },
+    {
+      "korean": "네게 줄께 LOVE 내 맘 가득 LOVE LOVE LOVE",
+      "translation": "要給你 LOVE，我心中滿滿的 LOVE LOVE LOVE",
+      "analysis": [
+        { "point": "네게 줄께", "explanation": "「너에게 줄게」的縮寫，表示「我會給你」。" },
+        { "point": "내 맘 가득", "explanation": "「내 마음 가득」的縮寫，表示「滿滿地在我的心裡」。" }
+      ]
+    },
+    {
+      "korean": "Oh ohoh oh ohohoh oh ohoh oh",
+      "translation": "Oh ohoh oh ohohoh oh ohoh oh",
+      "analysis": [
+        { "point": "Oh ohoh oh", "explanation": "語氣詞，無特定意義。" }
+      ]
+    },
+    {
+      "korean": "두근두근 난 다가오면 난 몰라 꿈인 것 같아",
+      "translation": "撲通撲通，你靠近的話，我不知道了，像在做夢一樣",
+      "analysis": [
+        { "point": "두근두근", "explanation": "狀聲詞，形容心臟劇烈跳動的聲音。" },
+        { "point": "난 다가오면", "explanation": "「나는」的縮寫「난」+ 動詞「다가오다 (靠近)」+ 假設連接詞尾「-(으)면」。" },
+        { "point": "난 몰라", "explanation": "「나는 몰라」的縮寫，我不知道。" },
+        { "point": "꿈인 것 같아", "explanation": "名詞「꿈 (夢)」+「이다」的冠詞形「인」+ 不完全名詞「것」+ 助詞「같다 (像...一樣)」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "Oh ma love babe, 하얀 눈에,",
+      "translation": "Oh my love babe, 在白雪中,",
+      "analysis": [
+        { "point": "하얀 눈에", "explanation": "形容詞「하얗다 (白的)」的冠詞形「하얀」修飾名詞「눈 (雪)」，後接場所助詞「-에」。" }
+      ]
+    },
+    {
+      "korean": "난 또 그대를 생각해",
+      "translation": "我又想起了你",
+      "analysis": [
+        { "point": "난 또", "explanation": "「나는 또」的縮寫，我又...。" },
+        { "point": "그대를 생각해", "explanation": "代名詞「그대 (你)」+ 受格助詞「-를」+ 動詞「생각하다 (想)」。" }
+      ]
+    },
+    {
+      "korean": "Let it slow, 조심스럽게,",
+      "translation": "讓它慢下來，小心翼翼地,",
+      "analysis": [
+        { "point": "조심스럽게", "explanation": "形容詞「조심스럽다 (小心的)」的副詞形。" }
+      ]
+    },
+    {
+      "korean": "가끔씩은 조금 더 빠르게,",
+      "translation": "有時候再快一點點,",
+      "analysis": [
+        { "point": "가끔씩은", "explanation": "副詞「가끔씩 (偶爾)」+ 主題助詞「-은」。" },
+        { "point": "조금 더 빠르게", "explanation": "副詞「조금 (一點)」+ 副詞「더 (更)」+ 形容詞「빠르다 (快的)」的副詞形「빠르게」。" }
+      ]
+    },
+    {
+      "korean": "Tell me babe, 부끄럽지 왜,",
+      "translation": "告訴我寶貝，為什麼害羞呢,",
+      "analysis": [
+        { "point": "부끄럽지 왜", "explanation": "形容詞「부끄럽다 (害羞的)」+ 終結詞尾「-지」+ 疑問副詞「왜 (為什麼)」。" }
+      ]
+    },
+    {
+      "korean": "바보야 Let me hear you say,",
+      "translation": "傻瓜啊，讓我聽你說,",
+      "analysis": [
+        { "point": "바보야", "explanation": "名詞「바보 (傻瓜)」+ 稱呼格助詞「-야」。" }
+      ]
+    },
+    {
+      "korean": "이젠 네게 말해볼래, 그댄 내 맘 녹인 sunshine",
+      "translation": "現在想對你說說看，你融化我心的 sunshine",
+      "analysis": [
+        { "point": "이젠 네게 말해볼래", "explanation": "「이제는 너에게 말해 보다」的意願形，表示「現在想對你說說看」。" },
+        { "point": "그댄 내 맘 녹인 sunshine", "explanation": "「그대는 내 마음을 녹인 sunshine」的縮寫，你是我融化我心的陽光。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어딜 쳐다보니 불안 불안하잖아",
+      "translation": "在看哪裡啊，我很不安啊",
+      "analysis": [
+        { "point": "어딜 쳐다보니", "explanation": "「어디를 쳐다보니」的縮寫，疑問詞「어디 (哪裡)」+ 受格助詞「-를」+ 動詞「쳐다보다 (凝視)」+ 疑問詞尾「-니」。" },
+        { "point": "불안 불안하잖아", "explanation": "「불안하다 (不安的)」的重複，表示強調。後接終結詞尾「-잖아(요)」。" }
+      ]
+    },
+    {
+      "korean": "바보 몰라도 너무 모르잖아",
+      "translation": "傻瓜，你也太不懂了吧",
+      "analysis": [
+        { "point": "몰라도 너무 모르잖아", "explanation": "慣用句，由動詞「모르다 (不知道)」+「-아도/어도 (即使)」+ 副詞「너무 (太)」+「모르다」+「-잖아」組成，表示「就算不懂，也太不懂了」。" }
+      ]
+    },
+    {
+      "korean": "너밖에 없어 너 하나뿐야",
+      "translation": "只有你，就只有你一個",
+      "analysis": [
+        { "point": "너밖에 없어", "explanation": "代名詞「너 (你)」+ 助詞「-밖에 없다 (除了...沒有)」。" },
+        { "point": "너 하나뿐야", "explanation": "「너 하나뿐이다」的口語形式。代名詞「너 (你)」+ 數詞「하나 (一)」+ 助詞「-뿐이다 (只有...)」。" }
+      ]
+    },
+    {
+      "korean": "이 바보야 왜 몰라",
+      "translation": "你這傻瓜，為什麼不懂",
+      "analysis": [
+        { "point": "이 바보야", "explanation": "指示冠詞「이 (這)」+ 名詞「바보 (傻瓜)」+ 稱呼格助詞「-야」。" },
+        { "point": "왜 몰라", "explanation": "疑問副詞「왜 (為什麼)」+ 動詞「모르다 (不知道)」的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "부드런 눈빛 다가오는 건가요",
+      "translation": "溫柔的眼神，是要靠近了嗎",
+      "analysis": [
+        { "point": "부드런 눈빛", "explanation": "形容詞「부드럽다 (溫柔的)」的冠詞形「부드러운」的縮寫 + 名詞「눈빛 (眼神)」。" },
+        { "point": "다가오는 건가요", "explanation": "動詞「다가오다 (靠近)」的現在冠詞形 + 不完全名詞「것」+ 疑問句型「-ㄴ/은가요?」。" }
+      ]
+    },
+    {
+      "korean": "눈 감아봐도 빨게지는 난데",
+      "translation": "即使閉上眼睛也會臉紅的我",
+      "analysis": [
+        { "point": "눈 감아봐도", "explanation": "片語「눈을 감다 (閉眼)」+ 補助動詞「-아/어 보다 (試試看)」+ 連接詞尾「-아도/어도 (即使)」。" },
+        { "point": "빨게지는 난데", "explanation": "「빨개지는 나인데」的口語形式，動詞「빨개지다 (變紅)」的現在冠詞形 +「나 (我)」+「이다」的連接形「-인데」。" }
+      ]
+    },
+    {
+      "korean": "촉촉한 터치의 (입술이)",
+      "translation": "濕潤的觸碰的 (嘴唇)",
+      "analysis": [
+        { "point": "촉촉한 터치의", "explanation": "形容詞「촉촉하다 (濕潤的)」的冠詞形 + 名詞「터치 (touch)」+ 所有格助詞「-의」。" },
+        { "point": "(입술이)", "explanation": "名詞「입술 (嘴唇)」+ 主格助詞「-이」。" }
+      ]
+    },
+    {
+      "korean": "설레는 마음이 (따뜻해)",
+      "translation": "悸動的心 (很溫暖)",
+      "analysis": [
+        { "point": "설레는 마음이", "explanation": "動詞「설레다 (悸動)」的現在冠詞形 + 名詞「마음 (心)」+ 主格助詞「-이」。" },
+        { "point": "(따뜻해)", "explanation": "形容詞「따뜻하다 (溫暖的)」的非格式體。" }
+      ]
+    },
+    {
+      "korean": "스르륵 쓰러져요 오오오",
+      "translation": "悄然地倒下了 oh oh oh",
+      "analysis": [
+        { "point": "스르륵", "explanation": "副詞，形容悄然無聲地移動或倒下的樣子。" },
+        { "point": "쓰러져요", "explanation": "動詞「쓰러지다 (倒下)」的敬語形。" }
+      ]
+    },
+    {
+      "korean": "수줍은 그대의 목소리 퍼지는 종소리 꿈 속에",
+      "translation": "害羞的你的聲音，擴散開來的鐘聲，在夢中",
+      "analysis": [
+        { "point": "수줍은 그대의 목소리", "explanation": "形容詞「수줍다 (害羞的)」的冠詞形 + 代名詞「그대 (你)」+ 所有格助詞「-의」+ 名詞「목소리 (聲音)」。" },
+        { "point": "퍼지는 종소리", "explanation": "動詞「퍼지다 (擴散)」的現在冠詞形 + 名詞「종소리 (鐘聲)」。" },
+        { "point": "꿈 속에", "explanation": "名詞「꿈 (夢)」+ 名詞「속 (裡面)」+ 場所助詞「-에」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "어머 어쩜 좋아 (어쩌면 좋아)",
+      "translation": "天啊，怎麼這麼好 (怎麼辦才好)",
+      "analysis": [
+        { "point": "어머", "explanation": "感嘆詞，女性常用，表示驚訝，類似「天啊、哎呀」。" },
+        { "point": "어쩜 좋아", "explanation": "「어쩌면 이렇게 좋아」的縮寫，表示「怎麼會這麼好」，帶有強烈感嘆。" },
+        { "point": "(어쩌면 좋아)", "explanation": "感嘆句，意為「怎麼辦才好」。" }
+      ]
+    },
+    {
+      "korean": "나도 니가 좋아 (난 니가 좋아)",
+      "translation": "我也喜歡你 (我喜歡你)",
+      "analysis": [
+        { "point": "나도 니가 좋아", "explanation": "「나도 네가 좋아」的口語形式，我也喜歡你。" }
+      ]
+    },
+    {
+      "korean": "정말 나도 좋아 (니가 참 좋아)",
+      "translation": "真的，我也喜歡 (我真的很喜歡你)",
+      "analysis": [
+        { "point": "정말 나도 좋아", "explanation": "副詞「정말 (真的)」+「나도 좋아 (我也喜歡)」。" },
+        { "point": "(니가 참 좋아)", "explanation": "「네가 참 좋아」的口語形式，副詞「참 (真的、很)」表示強調。" }
+      ]
+    },
+    {
+      "korean": "네게 줄께 Beautiful day (Beautiful day~)",
+      "translation": "要給你 Beautiful day (Beautiful day~)",
+      "analysis": [
+        { "point": "네게 줄께", "explanation": "「너에게 줄게」的縮寫，表示「我會給你」。" }
+      ]
+    },
+    {
+      "korean": "어머 어쩜 좋아 (oh ohohohoh oh)",
+      "translation": "天啊，怎麼這麼好 (oh ohohohoh oh)",
+      "analysis": [
+        { "point": "어머 어쩜 좋아", "explanation": "「어쩌면 이렇게 좋아」的縮寫，表示「怎麼會這麼好」。" }
+      ]
+    },
+    {
+      "korean": "나도 니가 좋아 정말 니가 좋아 (어쩌면 좋아)",
+      "translation": "我也喜歡你，真的喜歡你 (怎麼辦才好)",
+      "analysis": [
+        { "point": "나도 니가 좋아 정말 니가 좋아", "explanation": "「나도 네가 좋아, 정말 네가 좋아」的口語形式。" }
+      ]
+    },
+    {
+      "korean": "네게 줄께 LOVE 내 맘 가득 LOVE LOVE LOVE~",
+      "translation": "要給你 LOVE，我心中滿滿的 LOVE LOVE LOVE～",
+      "analysis": [
+        { "point": "네게 줄께", "explanation": "「너에게 줄게」的縮寫，表示「我會給你」。" },
+        { "point": "내 맘 가득", "explanation": "「내 마음 가득」的縮寫，表示「滿滿地在我的心裡」。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "빠지다", "chinese": "陷入、掉進", "pos": "動詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "녹다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "꾹꾹", "chinese": "滿滿地、用力地", "pos": "副詞" },
+    { "korean": "담다", "chinese": "裝、盛", "pos": "動詞" },
+    { "korean": "부끄럽다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "자꾸", "chinese": "總是、頻繁地", "pos": "副詞" },
+    { "korean": "살짝", "chinese": "稍微、悄悄地", "pos": "副詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "놀라다", "chinese": "驚訝", "pos": "動詞" },
+    { "korean": "어떡해", "chinese": "怎麼辦", "pos": "片語" },
+    { "korean": "어머", "chinese": "天啊、哎呀", "pos": "感嘆詞" },
+    { "korean": "어쩜", "chinese": "怎麼會", "pos": "副詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "가득", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "두근두근", "chinese": "撲通撲通", "pos": "副詞" },
+    { "korean": "다가오다", "chinese": "靠近過來", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "하얗다", "chinese": "白的", "pos": "形容詞" },
+    { "korean": "생각하다", "chinese": "想", "pos": "動詞" },
+    { "korean": "조심스럽다", "chinese": "小心的", "pos": "形容詞" },
+    { "korean": "가끔씩", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "빠르다", "chinese": "快的", "pos": "形容詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "쳐다보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "너밖에 없다", "chinese": "只有你", "pos": "片語" },
+    { "korean": "-뿐이다", "chinese": "只有...", "pos": "助詞" },
+    { "korean": "부드럽다", "chinese": "溫柔的", "pos": "形容詞" },
+    { "korean": "눈을 감다", "chinese": "閉眼", "pos": "片語" },
+    { "korean": "빨개지다", "chinese": "變紅", "pos": "動詞" },
+    { "korean": "촉촉하다", "chinese": "濕潤的", "pos": "形容詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "설레다", "chinese": "悸動", "pos": "動詞" },
+    { "korean": "따뜻하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "스르륵", "chinese": "悄然地", "pos": "副詞" },
+    { "korean": "쓰러지다", "chinese": "倒下", "pos": "動詞" },
+    { "korean": "수줍다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "퍼지다", "chinese": "擴散", "pos": "動詞" },
+    { "korean": "종소리", "chinese": "鐘聲", "pos": "名詞" }
+  ]
+}

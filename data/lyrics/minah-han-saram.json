@@ -1,0 +1,286 @@
+{
+  "id": "minah-han-saram",
+  "title": "한 사람",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "눈부신 그대의 미소가",
+      "translation": "你耀眼的微笑",
+      "analysis": [
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼) 的現在定語形。" },
+        { "point": "그대의", "explanation": "그대 (你，較書面/詩意) + -의 (的)。" },
+        { "point": "미소가", "explanation": "미소 (微笑) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "싱그러운 그대의 향기가",
+      "translation": "你清新的香氣",
+      "analysis": [
+        { "point": "싱그러운", "explanation": "싱그럽다 (清新) 的現在定語形。" },
+        { "point": "그대의", "explanation": "그대 (你) + -의 (的)。" },
+        { "point": "향기가", "explanation": "향기 (香氣) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "사랑 숨길 수 없어요",
+      "translation": "無法隱藏這份愛",
+      "analysis": [
+        { "point": "사랑", "explanation": "名詞，愛。" },
+        { "point": "숨길 수 없어요", "explanation": "숨기다 (隱藏) 的詞幹 + -(으)ㄹ 수 없다 (不能) + -어요 (尊敬階終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "내 안에 한 사람",
+      "translation": "我心中的那一個人",
+      "analysis": [
+        { "point": "내 안에", "explanation": "내 (我的) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "한 사람", "explanation": "한 (一) + 사람 (人)。" }
+      ]
+    },
+    {
+      "korean": "그대라는 사람",
+      "translation": "名為你的那個人",
+      "analysis": [
+        { "point": "그대라는 사람", "explanation": "그대 (你) + -(이)라는 (叫做...) + 사람 (人)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "숨 쉴 때마다 온 세상이",
+      "translation": "每當呼吸時 整個世界",
+      "analysis": [
+        { "point": "숨 쉴 때마다", "explanation": "숨(을) 쉬다 (呼吸) 的定語形 + 때 (時候) + -마다 (每...都)。" },
+        { "point": "온 세상이", "explanation": "온 (整個) + 세상 (世界) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "그대로 가득 차서",
+      "translation": "都充滿了你",
+      "analysis": [
+        { "point": "그대로", "explanation": "그대 (你) + -(으)로 (表示工具、方式或方向)。" },
+        { "point": "가득 차서", "explanation": "가득 차다 (充滿) + -아서 (因為、然後)。" }
+      ]
+    },
+    {
+      "korean": "그댈 그리며 말 못하는 맘이",
+      "translation": "想念著你 說不出口的心",
+      "analysis": [
+        { "point": "그댈 그리며", "explanation": "그댈 (你) + 그리다 (想念) + -(으)며 (一邊...一邊)。" },
+        { "point": "말 못하는 맘이", "explanation": "말(을) 못 하다 (說不出口) 的定語形 + 맘 (心) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "자꾸만 커져가",
+      "translation": "總是越來越大",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "자꾸 (總是) + -만 (表示強調)。" },
+        { "point": "커져가", "explanation": "커지다 (變大) + -어/아 가다 (表示變化的持續)。" }
+      ]
+    },
+    {
+      "korean": "그대를 사랑해",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "그대를 사랑해", "explanation": "你(受格) + 사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한 걸음 다가서면 두 걸음 멀어져",
+      "translation": "若靠近一步 就會遠離兩步",
+      "analysis": [
+        { "point": "한 걸음 다가서면", "explanation": "한 걸음 (一步) + 다가서다 (靠近) + -(으)면 (如果)。" },
+        { "point": "두 걸음 멀어져", "explanation": "두 걸음 (兩步) + 멀어지다 (變遠) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이제 난 어떡하죠 이렇게 서툰데",
+      "translation": "現在我該怎麼辦 如此地笨拙",
+      "analysis": [
+        { "point": "이제 난", "explanation": "現在 我。" },
+        { "point": "어떡하죠", "explanation": "어떡하다 (怎麼辦) + -지요 的縮寫。" },
+        { "point": "이렇게 서툰데", "explanation": "이렇게 (如此地) + 서투르다 (笨拙) + -ㄴ데 (表示背景或輕微轉折)。" }
+      ]
+    },
+    {
+      "korean": "하루에도 몇 번씩 그대가 그리워",
+      "translation": "一天裡也會想你好幾次",
+      "analysis": [
+        { "point": "하루에도", "explanation": "하루 (一天) + -에 (在) + -도 (也)。" },
+        { "point": "몇 번씩", "explanation": "몇 번 (幾次) + -씩 (表示均等分配)。" },
+        { "point": "그대가 그리워", "explanation": "你(主格) + 그립다 (想念) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "바보같은 맘이",
+      "translation": "傻瓜般的心",
+      "analysis": [
+        { "point": "바보같은 맘이", "explanation": "바보 (傻瓜) + -같다 (像) 的定語形 + 맘 (心) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "한없이 그대만 찾아",
+      "translation": "無止盡地只尋找著你",
+      "analysis": [
+        { "point": "한없이", "explanation": "副詞，無止盡地。" },
+        { "point": "그대만 찾아", "explanation": "你 + -만 (只) + 찾다 (尋找) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "나 이제 알아요",
+      "translation": "我現在知道了",
+      "analysis": [
+        { "point": "나 이제 알아요", "explanation": "我 現在 知道(尊敬階)。" }
+      ]
+    },
+    {
+      "korean": "가슴 속에 그대만 가득 차서",
+      "translation": "因為心中只充滿了你",
+      "analysis": [
+        { "point": "가슴 속에", "explanation": "가슴 (心) + 속 (裡面) + -에。" },
+        { "point": "그대만 가득 차서", "explanation": "你(只) + 充滿 + 因為。" }
+      ]
+    },
+    {
+      "korean": "사랑인걸요 그대만 보여요",
+      "translation": "是愛情啊 眼裡只有你",
+      "analysis": [
+        { "point": "사랑인걸요", "explanation": "사랑 (愛) + -이다 (是) + -ㄴ걸요 (表示陳述事實並帶有柔和語氣的終結詞尾)。" },
+        { "point": "그대만 보여요", "explanation": "你(只) + 보이다 (被看見) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "세상에 한 사람",
+      "translation": "世上的那一個人",
+      "analysis": [
+        { "point": "세상에 한 사람", "explanation": "世界上 + 一個人。" }
+      ]
+    },
+    {
+      "korean": "그대라는 사람",
+      "translation": "名為你的那個人",
+      "analysis": [
+        { "point": "그대라는 사람", "explanation": "你 + 叫做... + 人。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한 걸음 다가서면 두 걸음 멀어져",
+      "translation": "若靠近一步 就會遠離兩步",
+      "analysis": [
+        { "point": "한 걸음 다가서면 두 걸음 멀어져", "explanation": "靠近一步的話 + 遠離兩步。" }
+      ]
+    },
+    {
+      "korean": "이제 난 어떡하죠 이렇게 서툰데",
+      "translation": "現在我該怎麼辦 如此地笨拙",
+      "analysis": [
+        { "point": "이제 난 어떡하죠 이렇게 서툰데", "explanation": "現在我該怎麼辦 + 如此笨拙。" }
+      ]
+    },
+    {
+      "korean": "하루에도 몇 번씩 그대가 그리워",
+      "translation": "一天裡也會想你好幾次",
+      "analysis": [
+        { "point": "하루에도 몇 번씩 그대가 그리워", "explanation": "一天裡也 + 好幾次 + 想念你。" }
+      ]
+    },
+    {
+      "korean": "바보같은 맘이 한없이 그대만",
+      "translation": "傻瓜般的心無止盡地只(尋找)你",
+      "analysis": [
+        { "point": "바보같은 맘이 한없이 그대만", "explanation": "傻瓜般的心 + 無止盡地 + 只有你。(省略動詞 찾다)" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "그대",
+      "translation": "你",
+      "analysis": [
+        { "point": "그대", "explanation": "代名詞，你。" }
+      ]
+    },
+    {
+      "korean": "내 사랑이라서 힘들고 아파도",
+      "translation": "因為是我的愛 即使辛苦又心痛",
+      "analysis": [
+        { "point": "내 사랑이라서", "explanation": "我的愛 + -(이)라서 (因為是...)。" },
+        { "point": "힘들고 아파도", "explanation": "힘들다 (辛苦) + -고 + 아프다 (痛) + -아도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "이 못난 사랑을 멈출 수가 없어",
+      "translation": "也無法停止這沒出息的愛",
+      "analysis": [
+        { "point": "이 못난 사랑을", "explanation": "這 + 못나다 (沒出息) 的定語形 + 사랑 (愛) + -을。" },
+        { "point": "멈출 수가 없어", "explanation": "멈추다 (停止) + -(으)ㄹ 수 없다 (不能)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "지우고 지워도 가슴에 남아서",
+      "translation": "即使擦了又擦 仍留在心中",
+      "analysis": [
+        { "point": "지우고 지워도", "explanation": "지우다 (擦掉) + -고 + 지우다 + -아도 (即使...也)，重複表示強調。" },
+        { "point": "가슴에 남아서", "explanation": "心裡 + 남다 (留下) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "언제까지나 그댄 내 사랑이라서",
+      "translation": "無論到何時 你都是我的愛",
+      "analysis": [
+        { "point": "언제까지나", "explanation": "副詞，無論到何時。" },
+        { "point": "그댄 내 사랑이라서", "explanation": "你 + 我的愛 + 因為是...。" }
+      ]
+    },
+    {
+      "korean": "얼마나 더 아파야 웃을 수 있을까",
+      "translation": "還要再痛多久 才能笑得出來呢",
+      "analysis": [
+        { "point": "얼마나 더 아파야", "explanation": "多麼 + 更 + 痛 + -아야 (必須...才)。" },
+        { "point": "웃을 수 있을까", "explanation": "웃다 (笑) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "바보같은 나는 오늘도 그대만 원해",
+      "translation": "傻瓜般的我今天也只想要你",
+      "analysis": [
+        { "point": "바보같은 나는", "explanation": "傻瓜般的我。" },
+        { "point": "오늘도", "explanation": "今天也。" },
+        { "point": "그대만 원해", "explanation": "只 + 원하다 (想要) 的非格式體。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈부시다", "chinese": "耀眼", "pos": "形容詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "싱그럽다", "chinese": "清新", "pos": "形容詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "숨을 쉬다", "chinese": "呼吸", "pos": "片語" },
+    { "korean": "온 세상", "chinese": "整個世界", "pos": "片語" },
+    { "korean": "가득 차다", "chinese": "充滿", "pos": "片語" },
+    { "korean": "그리다", "chinese": "想念、描繪", "pos": "動詞" },
+    { "korean": "커져가다", "chinese": "漸漸變大", "pos": "動詞" },
+    { "korean": "다가서다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "어떡하다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "서투르다", "chinese": "笨拙、生疏", "pos": "形容詞" },
+    { "korean": "그립다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "바보같다", "chinese": "像傻瓜一樣", "pos": "形容詞" },
+    { "korean": "한없이", "chinese": "無止盡地", "pos": "副詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "가슴", "chinese": "心、胸口", "pos": "名詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "辛苦", "pos": "形容詞" },
+    { "korean": "못나다", "chinese": "不好、沒出息", "pos": "形容詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "擦掉", "pos": "動詞" },
+    { "korean": "남다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "언제까지나", "chinese": "無論到何時", "pos": "副詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" }
+  ]
+}

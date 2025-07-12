@@ -1,0 +1,372 @@
+{
+  "id": "boynextdoor-123-78",
+  "title": "123-78",
+  "artist": "BOYNEXTDOOR",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Give me straight gin",
+      "translation": "給我純的琴酒",
+      "analysis": [
+        { "point": "Give me straight gin", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "양말 하나 남기지 않고",
+      "translation": "連一隻襪子都沒留下",
+      "analysis": [
+        { "point": "양말 하나", "explanation": "양말 (襪子) + 하나 (一)。" },
+        { "point": "남기지 않고", "explanation": "남기다 (留下) + -지 않고 (不...而且)。" }
+      ]
+    },
+    {
+      "korean": "떠난 널 위해 cheers",
+      "translation": "為離去的你乾杯",
+      "analysis": [
+        { "point": "떠난 널 위해", "explanation": "떠나다 (離開) 的過去定語形 + 널 (你) + 위해 (為了)。" },
+        { "point": "cheers", "explanation": "英文，乾杯。" }
+      ]
+    },
+    {
+      "korean": "Wish you saw this",
+      "translation": "希望你看到了這個",
+      "analysis": [
+        { "point": "Wish you saw this", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "엉망이 돼 버린 내 자태",
+      "translation": "我變得一團糟的姿態",
+      "analysis": [
+        { "point": "엉망이 돼 버린", "explanation": "엉망이 되다 (變得一團糟) + -어 버리다 (表示動作徹底完成) 的過去定語形。" },
+        { "point": "내 자태", "explanation": "내 (我的) + 자태 (姿態)。" }
+      ]
+    },
+    {
+      "korean": "Oh my baby",
+      "translation": "喔 我的寶貝",
+      "analysis": [
+        { "point": "Oh my baby", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "실컷 두들겨 맞은 마음",
+      "translation": "被狠狠敲打的心",
+      "analysis": [
+        { "point": "실컷", "explanation": "副詞，盡情地、狠狠地。" },
+        { "point": "두들겨 맞은 마음", "explanation": "두들겨 맞다 (被敲打) 的過去定語形 + 마음 (心)。" }
+      ]
+    },
+    {
+      "korean": "전부 무너진 꼴 좀 봐",
+      "translation": "看看這全部崩塌的樣子",
+      "analysis": [
+        { "point": "전부", "explanation": "副詞，全部。" },
+        { "point": "무너진 꼴", "explanation": "무너지다 (倒塌、崩潰) 的過去定語形 + 꼴 (樣子，常用於負面語氣)。" },
+        { "point": "좀 봐", "explanation": "좀 (稍微) + 보다 (看) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "이 정도 했음 됐잖아요",
+      "translation": "做到這種程度就行了吧",
+      "analysis": [
+        { "point": "이 정도 했음", "explanation": "이 정도 (這種程度) + 하다 (做) 的過去式 + -(으)면 的縮寫。" },
+        { "point": "됐잖아요", "explanation": "되다 (可以、行) 的過去式 + -잖아요 (表示提醒對方已知事實)。" }
+      ]
+    },
+    {
+      "korean": "Count 1 to 10",
+      "translation": "數1到10",
+      "analysis": [
+        { "point": "Count 1 to 10", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Turn to turn to my heart",
+      "translation": "轉向我的心",
+      "analysis": [
+        { "point": "Turn to turn to my heart", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "123-78",
+      "translation": "123-78",
+      "analysis": [
+        { "point": "123-78", "explanation": "數字。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "My baby Georgia, baby Georgia",
+      "translation": "我的寶貝喬治亞，寶貝喬治亞",
+      "analysis": [
+        { "point": "My baby Georgia, baby Georgia", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Can't take my eyes off you",
+      "translation": "我的視線無法從你身上移開",
+      "analysis": [
+        { "point": "Can't take my eyes off you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "My hometown is only you",
+      "translation": "我的故鄉只有你",
+      "analysis": [
+        { "point": "My hometown is only you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Baby Georgia, baby Georgia",
+      "translation": "寶貝喬治亞，寶貝喬治亞",
+      "analysis": [
+        { "point": "Baby Georgia, baby Georgia", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Don't break my home no more",
+      "translation": "別再破壞我的家",
+      "analysis": [
+        { "point": "Don't break my home no more", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "There is nowhere to go",
+      "translation": "已無處可去",
+      "analysis": [
+        { "point": "There is nowhere to go", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "10초 아니 10년을 세어도",
+      "translation": "即使數了10秒 不 10年",
+      "analysis": [
+        { "point": "10초 아니 10년을", "explanation": "10초 (10秒) + 아니다 (不是) + 10년 (10年) + -을。" },
+        { "point": "세어도", "explanation": "세다 (數) + -어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "All I want is you",
+      "translation": "我想要的全是你",
+      "analysis": [
+        { "point": "All I want is you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "L - o - v - e is you",
+      "translation": "愛就是你",
+      "analysis": [
+        { "point": "L - o - v - e is you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "그 여자를 왜 좋아하냐구요?",
+      "translation": "問我為什麼喜歡那個女人嗎？",
+      "analysis": [
+        { "point": "그 여자를", "explanation": "那個女人(受格)。" },
+        { "point": "왜 좋아하냐구요?", "explanation": "왜 (為何) + 좋아하다 (喜歡) + -냐고요 (間接引述疑問句)。" }
+      ]
+    },
+    {
+      "korean": "딱히 이유랄 게 있을까요",
+      "translation": "能有什麼特別的理由呢",
+      "analysis": [
+        { "point": "딱히", "explanation": "副詞，特別、特地。" },
+        { "point": "이유랄 게 있을까요", "explanation": "이유 (理由) + -(이)라고 할 (叫做...) 的縮寫 + 것 (東西) + -이 + 있을까요 (會有嗎？)。" }
+      ]
+    },
+    {
+      "korean": "그냥 다 좋은데",
+      "translation": "就是全部都喜歡",
+      "analysis": [
+        { "point": "그냥 다 좋은데", "explanation": "그냥 (就只是) + 다 (全部) + 좋다 (好) + -ㄴ데 (表示背景或輕微轉折)。" }
+      ]
+    },
+    {
+      "korean": "뭐 하나를 꼽자면",
+      "translation": "如果要挑一個的話",
+      "analysis": [
+        { "point": "뭐 하나를", "explanation": "什麼 + 一個(受格)。" },
+        { "point": "꼽자면", "explanation": "꼽다 (挑選) + -자면 (如果要...的話)。" }
+      ]
+    },
+    {
+      "korean": "노래를 잘 불러서는 아니고",
+      "translation": "不是因為歌唱得好",
+      "analysis": [
+        { "point": "노래를 잘 불러서는 아니고", "explanation": "歌唱得好 + -어서는 아니다 (不是因為...)。" }
+      ]
+    },
+    {
+      "korean": "Just because it's you",
+      "translation": "就只是因為是你",
+      "analysis": [
+        { "point": "Just because it's you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2",
+      "korean": "비가 주르륵 내린 다음",
+      "translation": "在雨嘩啦啦下過之後",
+      "analysis": [
+        { "point": "비가 주르륵", "explanation": "雨 + 嘩啦啦 (擬態詞)。" },
+        { "point": "내린 다음", "explanation": "내리다 (下) 的過去定語形 + 다음 (之後)。" }
+      ]
+    },
+    {
+      "korean": "눈이 사르르 녹은 다음",
+      "translation": "在雪悄悄融化之後",
+      "analysis": [
+        { "point": "눈이 사르르", "explanation": "雪 + 悄悄地 (擬態詞)。" },
+        { "point": "녹은 다음", "explanation": "녹다 (融化) 的過去定語形 + 다음 (之後)。" }
+      ]
+    },
+    {
+      "korean": "그 정도 하고 돌아와요",
+      "translation": "做到那種程度就回來吧",
+      "analysis": [
+        { "point": "그 정도 하고", "explanation": "那種程度 + 做 + 然後。" },
+        { "point": "돌아와요", "explanation": "돌아오다 (回來) 的尊敬階命令式。" }
+      ]
+    },
+    {
+      "korean": "Count 1 to 10",
+      "translation": "數1到10",
+      "analysis": [
+        { "point": "Count 1 to 10", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Turn to turn to my heart",
+      "translation": "轉向我的心",
+      "analysis": [
+        { "point": "Turn to turn to my heart", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "123-78",
+      "translation": "123-78",
+      "analysis": [
+        { "point": "123-78", "explanation": "數字。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "My baby Georgia, baby Georgia",
+      "translation": "我的寶貝喬治亞，寶貝喬治亞",
+      "analysis": [
+        { "point": "My baby Georgia, baby Georgia", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Can't take my eyes off you",
+      "translation": "我的視線無法從你身上移開",
+      "analysis": [
+        { "point": "Can't take my eyes off you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "My hometown is only you",
+      "translation": "我的故鄉只有你",
+      "analysis": [
+        { "point": "My hometown is only you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Baby Georgia, baby Georgia",
+      "translation": "寶貝喬治亞，寶貝喬治亞",
+      "analysis": [
+        { "point": "Baby Georgia, baby Georgia", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Don't break my home no more",
+      "translation": "別再破壞我的家",
+      "analysis": [
+        { "point": "Don't break my home no more", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "There is nowhere to go",
+      "translation": "已無處可去",
+      "analysis": [
+        { "point": "There is nowhere to go", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "10초 아니 10년을 세어도",
+      "translation": "即使數了10秒 不 10年",
+      "analysis": [
+        { "point": "10초 아니 10년을 세어도", "explanation": "即使數了10秒不10年。" }
+      ]
+    },
+    {
+      "korean": "All I want is you",
+      "translation": "我想要的全是你",
+      "analysis": [
+        { "point": "All I want is you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "L - o - v - e is you",
+      "translation": "愛就是你",
+      "analysis": [
+        { "point": "L - o - v - e is you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "10초 아니 10년을 세어도",
+      "translation": "即使數了10秒 不 10年",
+      "analysis": [
+        { "point": "10초 아니 10년을 세어도", "explanation": "即使數了10秒不10年。" }
+      ]
+    },
+    {
+      "korean": "All I want is you",
+      "translation": "我想要的全是你",
+      "analysis": [
+        { "point": "All I want is you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "L - o - v - e is you",
+      "translation": "愛就是你",
+      "analysis": [
+        { "point": "L - o - v - e is you", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Is you!",
+      "translation": "是你！",
+      "analysis": [
+        { "point": "Is you!", "explanation": "英文歌詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "양말", "chinese": "襪子", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "엉망이 되다", "chinese": "變得一團糟", "pos": "片語" },
+    { "korean": "자태", "chinese": "姿態", "pos": "名詞" },
+    { "korean": "실컷", "chinese": "盡情地", "pos": "副詞" },
+    { "korean": "두들겨 맞다", "chinese": "被敲打", "pos": "片語" },
+    { "korean": "무너지다", "chinese": "倒塌、崩潰", "pos": "動詞" },
+    { "korean": "꼴", "chinese": "樣子(負面)", "pos": "名詞" },
+    { "korean": "세다", "chinese": "數", "pos": "動詞" },
+    { "korean": "딱히", "chinese": "特別", "pos": "副詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "꼽다", "chinese": "挑選", "pos": "動詞" },
+    { "korean": "주르륵", "chinese": "嘩啦啦", "pos": "副詞" },
+    { "korean": "내리다", "chinese": "下(雨/雪)", "pos": "動詞" },
+    { "korean": "사르르", "chinese": "悄悄地", "pos": "副詞" },
+    { "korean": "녹다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" }
+  ]
+}

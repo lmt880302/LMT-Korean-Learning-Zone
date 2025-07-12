@@ -1,0 +1,563 @@
+{
+  "id": "minah-colorful",
+  "title": "colorful",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "내 입술에 내 귓가에 부드럽게",
+      "translation": "在我的嘴唇上 在我的耳邊 溫柔地",
+      "analysis": [
+        { "point": "내 입술에", "explanation": "내 (我的) + 입술 (嘴唇) + -에 (場所助詞，在...上)。" },
+        { "point": "내 귓가에", "explanation": "내 (我的) + 귓가 (耳邊) + -에 (場所助詞，在...上)。" },
+        { "point": "부드럽게", "explanation": "부드럽다 (溫柔的) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "널 볼 때면 난 난 난",
+      "translation": "看著你的時候 我 我 我",
+      "analysis": [
+        { "point": "널 볼 때면", "explanation": "너를 (你) 的縮略 + 보다 (看見) + -(으)ㄹ 때면 (慣用型，每當...的時候)。" },
+        { "point": "난 난 난", "explanation": "나는 (我) 的縮略，重複用以表示緊張或結巴的情緒。" }
+      ]
+    },
+    {
+      "korean": "또 빨개져 so crazy",
+      "translation": "又臉紅了 so crazy",
+      "analysis": [
+        { "point": "또 빨개져", "explanation": "또 (又) + 빨개지다 (變紅)。" }
+      ]
+    },
+    {
+      "korean": "숨길수록 더 더 더",
+      "translation": "越是隱藏 更 更 更",
+      "analysis": [
+        { "point": "숨길수록", "explanation": "숨기다 (隱藏) + -(으)ㄹ수록 (語法，越...越...)。" }
+      ]
+    },
+    {
+      "korean": "난 니 생각만 매일해",
+      "translation": "我每天只想著你",
+      "analysis": [
+        { "point": "난 니 생각만", "explanation": "나는 (我) 的縮略 + 니 (你的，口語) + 생각 (想法/思念) + -만 (助詞，只)。" },
+        { "point": "매일해", "explanation": "매일 (每天) + 하다 (做) 的口語活用形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "우린 보일 듯 말 듯",
+      "translation": "我們若有似無",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "보일 듯 말 듯", "explanation": "보이다 (被看見) + -(으)ㄹ 듯 말 듯 (慣用型，若有似無，好像...又好像不...)。" }
+      ]
+    },
+    {
+      "korean": "닿을 듯 말 듯",
+      "translation": "若即若離",
+      "analysis": [
+        { "point": "닿을 듯 말 듯", "explanation": "닿다 (觸碰) + -(으)ㄹ 듯 말 듯 (慣用型，若有似無，好像...又好像不...)。" }
+      ]
+    },
+    {
+      "korean": "불투명해 baby",
+      "translation": "很不透明 baby",
+      "analysis": [
+        { "point": "불투명해", "explanation": "불투명하다 (不透明的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘을 너의 색으로 칠해줘",
+      "translation": "請用你的顏色填滿我的心",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "너의 색으로", "explanation": "너의 (你的) + 색 (顏色) + -(으)로 (工具/方法助詞)。" },
+        { "point": "칠해줘", "explanation": "칠하다 (塗色) + -아/어 주다 (請求對方為自己做某事)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "bring it on",
+      "translation": "放馬過來",
+      "analysis": [
+        { "point": "bring it on", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "where you at",
+      "translation": "你在哪",
+      "analysis": [
+        { "point": "where you at", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 맘속에",
+      "translation": "在我心中",
+      "analysis": [
+        { "point": "내 맘속에", "explanation": "내 (我的) + 마음속 (心裡) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "넌 보랏빛 향기처럼 물들고 oh!",
+      "translation": "你像紫色香氣般渲染開來 oh!",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "보랏빛 향기처럼", "explanation": "보랏빛 (紫色) + 향기 (香氣) + -처럼 (像...一樣)。" },
+        { "point": "물들고", "explanation": "물들다 (渲染, 染色) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "everyday 난 널 위해",
+      "translation": "everyday 我為了你",
+      "analysis": [
+        { "point": "난 널 위해", "explanation": "나는 (我) 的縮略 + 너를 (你) 的縮略 + -를 위해 (為了...)。" }
+      ]
+    },
+    {
+      "korean": "하늘색 미소로 가득",
+      "translation": "充滿天藍色的微笑",
+      "analysis": [
+        { "point": "하늘색 미소로", "explanation": "하늘색 (天藍色) + 미소 (微笑) + -(으)로 (用...)。" },
+        { "point": "가득", "explanation": "副詞，滿滿地。" }
+      ]
+    },
+    {
+      "korean": "let me blow your mind",
+      "translation": "讓我讓你驚艷",
+      "analysis": [
+        { "point": "let me blow your mind", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I I like the way you are",
+      "translation": "我喜歡你原本的樣子",
+      "analysis": [
+        { "point": "I I like the way you are", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I I like the way you talk",
+      "translation": "我喜歡你說話的方式",
+      "analysis": [
+        { "point": "I I like the way you talk", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "난 너의 모든 게 좋아",
+      "translation": "我喜歡你的一切",
+      "analysis": [
+        { "point": "난 너의 모든 게", "explanation": "나는 (我) 的縮略 + 너의 (你的) + 모든 것 (所有事物) + -이 (主格助詞)。" },
+        { "point": "좋아", "explanation": "좋다 (好的/喜歡) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "니 사랑은 컬러풀",
+      "translation": "你的愛是 colorful",
+      "analysis": [
+        { "point": "니 사랑은", "explanation": "니 (你的，口語) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "나를 밝혀줘 보다 완벽하게",
+      "translation": "照亮我 讓我更加完美",
+      "analysis": [
+        { "point": "나를 밝혀줘", "explanation": "나를 (我) + 밝히다 (照亮) + -아/어 주다 (為我做...)。" },
+        { "point": "보다 완벽하게", "explanation": "보다 (副詞，更加) + 완벽하다 (完美的) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "원더풀 나를 그려준",
+      "translation": "wonderful 描繪出我的",
+      "analysis": [
+        { "point": "나를 그려준", "explanation": "나를 (我) + 그리다 (描繪) + -아/어 주다 (為我做...) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "단 하나의 작품",
+      "translation": "獨一無二的作品",
+      "analysis": [
+        { "point": "단 하나의", "explanation": "단 (僅僅) + 하나 (一) + -의 (的)。" },
+        { "point": "작품", "explanation": "名詞，作品。" }
+      ]
+    },
+    {
+      "korean": "알록달록 달콤한 목소리로",
+      "translation": "用五彩斑斕又甜蜜的聲音",
+      "analysis": [
+        { "point": "알록달록", "explanation": "擬態詞，五彩斑斕、花花綠綠的樣子。" },
+        { "point": "달콤한 목소리로", "explanation": "달콤하다 (甜蜜的) 定語形 + 목소리 (聲音) + -(으)로 (用...)。" }
+      ]
+    },
+    {
+      "korean": "차곡차곡 나의 맘을 채워줘",
+      "translation": "一層一層地填滿我的心",
+      "analysis": [
+        { "point": "차곡차곡", "explanation": "擬態詞，層層疊疊、井然有序地堆放的樣子。" },
+        { "point": "나의 맘을", "explanation": "나의 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "채워줘", "explanation": "채우다 (填滿) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "It’s so right Im so fly a a up away",
+      "translation": "太對了 我飛起來了 a a up away",
+      "analysis": [
+        { "point": "It’s so right Im so fly a a up away", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "hey we like the party",
+      "translation": "嘿 我們喜歡這派對",
+      "analysis": [
+        { "point": "hey we like the party", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "니 목소린 1,2,3",
+      "translation": "你的聲音是 1,2,3",
+      "analysis": [
+        { "point": "니 목소린", "explanation": "니 (你的，口語) + 목소리 (聲音) + -는 (主題助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "날 깨워주는 music",
+      "translation": "將我喚醒的 music",
+      "analysis": [
+        { "point": "날 깨워주는", "explanation": "나를 (我) 的縮略 + 깨우다 (喚醒) + -아/어 주다 (為我做...) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "빨주노초파남보",
+      "translation": "紅橙黃綠藍靛紫",
+      "analysis": [
+        { "point": "빨주노초파남보", "explanation": "빨강, 주황, 노랑, 초록, 파랑, 남색, 보라 (彩虹七色) 的首字縮寫。" }
+      ]
+    },
+    {
+      "korean": "날 채워주는 그림",
+      "translation": "將我填滿的圖畫",
+      "analysis": [
+        { "point": "날 채워주는", "explanation": "나를 (我) 的縮略 + 채우다 (填滿) + -아/어 주다 (為我做...) 的現在定語形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "눈웃음이 좋아",
+      "translation": "喜歡你的笑眼",
+      "analysis": [
+        { "point": "눈웃음이 좋아", "explanation": "눈웃음 (笑眼) + -이 (主格助詞) + 좋다 (喜歡)。" }
+      ]
+    },
+    {
+      "korean": "느낌이 좋아",
+      "translation": "喜歡這種感覺",
+      "analysis": [
+        { "point": "느낌이 좋아", "explanation": "느낌 (感覺) + -이 (主格助詞) + 좋다 (喜歡)。" }
+      ]
+    },
+    {
+      "korean": "니가 해준 말 baby",
+      "translation": "你對我說的話 baby",
+      "analysis": [
+        { "point": "니가 해준 말", "explanation": "네가 (你) + 해주다 (為...做) 的過去定語形 + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "넌 그렇게 날 안아주면 돼",
+      "translation": "你只要那樣抱著我就好",
+      "analysis": [
+        { "point": "넌 그렇게", "explanation": "너는 (你) 的縮略 + 그렇게 (那樣地)。" },
+        { "point": "날 안아주면 돼", "explanation": "나를 (我) 的縮略 + 안아주다 (抱住我) + -(으)면 되다 (慣用型，只要...就可以)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "bring it on",
+      "translation": "放馬過來",
+      "analysis": [
+        { "point": "bring it on", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "where you at",
+      "translation": "你在哪",
+      "analysis": [
+        { "point": "where you at", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 맘속에",
+      "translation": "在我心中",
+      "analysis": [
+        { "point": "내 맘속에", "explanation": "내 (我的) + 마음속 (心裡) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "넌 보랏빛 향기처럼 물들고 oh!",
+      "translation": "你像紫色香氣般渲染開來 oh!",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "보랏빛 향기처럼", "explanation": "보랏빛 (紫色) + 향기 (香氣) + -처럼 (像...一樣)。" },
+        { "point": "물들고", "explanation": "물들다 (渲染, 染色) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "everyday 난 널 위해",
+      "translation": "everyday 我為了你",
+      "analysis": [
+        { "point": "난 널 위해", "explanation": "나는 (我) 的縮略 + 너를 (你) 的縮略 + -를 위해 (為了...)。" }
+      ]
+    },
+    {
+      "korean": "하늘색 미소로 가득",
+      "translation": "充滿天藍色的微笑",
+      "analysis": [
+        { "point": "하늘색 미소로", "explanation": "하늘색 (天藍色) + 미소 (微笑) + -(으)로 (用...)。" },
+        { "point": "가득", "explanation": "副詞，滿滿地。" }
+      ]
+    },
+    {
+      "korean": "let me blow your mind",
+      "translation": "讓我讓你驚艷",
+      "analysis": [
+        { "point": "let me blow your mind", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I I like the way you are",
+      "translation": "我喜歡你原本的樣子",
+      "analysis": [
+        { "point": "I I like the way you are", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I I like the way you talk",
+      "translation": "我喜歡你說話的方式",
+      "analysis": [
+        { "point": "I I like the way you talk", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "난 너의 모든게 좋아",
+      "translation": "我喜歡你的一切",
+      "analysis": [
+        { "point": "난 너의 모든게", "explanation": "나는 (我) 的縮略 + 너의 (你的) + 모든 것 (所有事物) + -이 (主格助詞)。" },
+        { "point": "좋아", "explanation": "좋다 (好的/喜歡) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "니 사랑은 컬러풀",
+      "translation": "你的愛是 colorful",
+      "analysis": [
+        { "point": "니 사랑은", "explanation": "니 (你的，口語) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "나를 밝혀줘 보다 완벽하게",
+      "translation": "照亮我 讓我更加完美",
+      "analysis": [
+        { "point": "나를 밝혀줘", "explanation": "나를 (我) + 밝히다 (照亮) + -아/어 주다 (為我做...)。" },
+        { "point": "보다 완벽하게", "explanation": "보다 (副詞，更加) + 완벽하다 (完美的) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "원더풀 나를 그려준",
+      "translation": "wonderful 描繪出我的",
+      "analysis": [
+        { "point": "나를 그려준", "explanation": "나를 (我) + 그리다 (描繪) + -아/어 주다 (為我做...) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "단 하나의 작품",
+      "translation": "獨一無二的作品",
+      "analysis": [
+        { "point": "단 하나의", "explanation": "단 (僅僅) + 하나 (一) + -의 (的)。" },
+        { "point": "작품", "explanation": "名詞，作品。" }
+      ]
+    },
+    {
+      "korean": "알록달록 달콤한 목소리로",
+      "translation": "用五彩斑斕又甜蜜的聲音",
+      "analysis": [
+        { "point": "알록달록", "explanation": "擬態詞，五彩斑斕、花花綠綠的樣子。" },
+        { "point": "달콤한 목소리로", "explanation": "달콤하다 (甜蜜的) 定語形 + 목소리 (聲音) + -(으)로 (用...)。" }
+      ]
+    },
+    {
+      "korean": "차곡차곡 나의 맘을 채워줘",
+      "translation": "一層一層地填滿我的心",
+      "analysis": [
+        { "point": "차곡차곡", "explanation": "擬態詞，層層疊疊、井然有序地堆放的樣子。" },
+        { "point": "나의 맘을", "explanation": "나의 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "채워줘", "explanation": "채우다 (填滿) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "It’s so right Im so fly a a up away",
+      "translation": "太對了 我飛起來了 a a up away",
+      "analysis": [
+        { "point": "It’s so right Im so fly a a up away", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "hey we like the party",
+      "translation": "嘿 我們喜歡這派對",
+      "analysis": [
+        { "point": "hey we like the party", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "내 입술에 내 귓가에",
+      "translation": "在我的嘴唇上 在我的耳邊",
+      "analysis": [
+        { "point": "내 입술에", "explanation": "내 (我的) + 입술 (嘴唇) + -에 (場所助詞，在...上)。" },
+        { "point": "내 귓가에", "explanation": "내 (我的) + 귓가 (耳邊) + -에 (場所助詞，在...上)。" }
+      ]
+    },
+    {
+      "korean": "부드럽게 사랑을 불어줘",
+      "translation": "溫柔地為我注入愛情",
+      "analysis": [
+        { "point": "부드럽게", "explanation": "부드럽다 (溫柔的) + -게 (副詞形語尾)。" },
+        { "point": "사랑을 불어줘", "explanation": "사랑 (愛) + -을 (受格助詞) + 불다 (吹) + -어 주다 (為我做...)，這裡引申為「注入」。" }
+      ]
+    },
+    {
+      "korean": "I know I know 난 니 맘을 다 알아",
+      "translation": "I know I know 我全都知道你的心",
+      "analysis": [
+        { "point": "난 니 맘을", "explanation": "나는 (我) 的縮略 + 니 (你的，口語) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "다 알아", "explanation": "다 (副詞，都、全部) + 알다 (知道)。" }
+      ]
+    },
+    {
+      "korean": "말로 말로 설명할 수 없지만",
+      "translation": "雖然無法用言語說明",
+      "analysis": [
+        { "point": "말로 말로", "explanation": "말 (話) + -(으)로 (用...)，重複表示強調。" },
+        { "point": "설명할 수 없지만", "explanation": "설명하다 (說明) + -(으)ㄹ 수 없다 (無法...) + -지만 (連接詞尾，但是)。" }
+      ]
+    },
+    {
+      "korean": "baby control me",
+      "translation": "baby control me",
+      "analysis": [
+        { "point": "baby control me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 꼭 안아줘",
+      "translation": "請一定要抱緊我",
+      "analysis": [
+        { "point": "나를 꼭", "explanation": "나를 (我) + 꼭 (副詞，一定、緊緊地)。" },
+        { "point": "안아줘", "explanation": "안다 (擁抱) + -아 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "니 사랑은 컬러풀",
+      "translation": "你的愛是 colorful",
+      "analysis": [
+        { "point": "니 사랑은", "explanation": "니 (你的，口語) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "나를 밝혀줘 보다 완벽하게",
+      "translation": "照亮我 讓我更加完美",
+      "analysis": [
+        { "point": "나를 밝혀줘", "explanation": "나를 (我) + 밝히다 (照亮) + -아/어 주다 (為我做...)。" },
+        { "point": "보다 완벽하게", "explanation": "보다 (副詞，更加) + 완벽하다 (完美的) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "원더풀 나를 그려준",
+      "translation": "wonderful 描繪出我的",
+      "analysis": [
+        { "point": "나를 그려준", "explanation": "나를 (我) + 그리다 (描繪) + -아/어 주다 (為我做...) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "단 하나의 작품",
+      "translation": "獨一無二的作品",
+      "analysis": [
+        { "point": "단 하나의", "explanation": "단 (僅僅) + 하나 (一) + -의 (的)。" },
+        { "point": "작품", "explanation": "名詞，作品。" }
+      ]
+    },
+    {
+      "korean": "알록달록 달콤한 목소리로",
+      "translation": "用五彩斑斕又甜蜜的聲音",
+      "analysis": [
+        { "point": "알록달록", "explanation": "擬態詞，五彩斑斕、花花綠綠的樣子。" },
+        { "point": "달콤한 목소리로", "explanation": "달콤하다 (甜蜜的) 定語形 + 목소리 (聲音) + -(으)로 (用...)。" }
+      ]
+    },
+    {
+      "korean": "차곡차곡 나의 맘을 채워줘",
+      "translation": "一層一層地填滿我的心",
+      "analysis": [
+        { "point": "차곡차곡", "explanation": "擬態詞，層層疊疊、井然有序地堆放的樣子。" },
+        { "point": "나의 맘을", "explanation": "나의 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "채워줘", "explanation": "채우다 (填滿) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "It’s so right Im so fly a a up away",
+      "translation": "太對了 我飛起來了 a a up away",
+      "analysis": [
+        { "point": "It’s so right Im so fly a a up away", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "hey we like the party",
+      "translation": "嘿 我們喜歡這派對",
+      "analysis": [
+        { "point": "hey we like the party", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "귓가", "chinese": "耳邊", "pos": "名詞" },
+    { "korean": "부드럽다", "chinese": "溫柔的", "pos": "形容詞" },
+    { "korean": "빨개지다", "chinese": "變紅", "pos": "動詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法、思念", "pos": "名詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸碰", "pos": "動詞" },
+    { "korean": "불투명하다", "chinese": "不透明的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "색", "chinese": "顏色", "pos": "名詞" },
+    { "korean": "칠하다", "chinese": "塗、漆", "pos": "動詞" },
+    { "korean": "보랏빛", "chinese": "紫色", "pos": "名詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "물들다", "chinese": "渲染、染色", "pos": "動詞" },
+    { "korean": "하늘색", "chinese": "天藍色", "pos": "名詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "가득", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "모든 것", "chinese": "一切、所有事物", "pos": "代名詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "밝히다", "chinese": "照亮", "pos": "動詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "그리다", "chinese": "描繪、畫", "pos": "動詞" },
+    { "korean": "작품", "chinese": "作品", "pos": "名詞" },
+    { "korean": "알록달록", "chinese": "五彩斑斕地", "pos": "副詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "차곡차곡", "chinese": "層層疊疊地", "pos": "副詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "깨우다", "chinese": "喚醒", "pos": "動詞" },
+    { "korean": "그림", "chinese": "圖畫", "pos": "名詞" },
+    { "korean": "눈웃음", "chinese": "笑眼", "pos": "名詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "설명하다", "chinese": "說明", "pos": "動詞" }
+  ]
+}

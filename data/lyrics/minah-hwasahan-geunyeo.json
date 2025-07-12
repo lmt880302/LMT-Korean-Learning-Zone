@@ -1,0 +1,355 @@
+{
+  "id": "minah-hwasahan-geunyeo",
+  "title": "화사한 그녀",
+  "artist": "MINAH (feat. 엄정화)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "여태 너가 아는 나는 내가 아니야",
+      "translation": "至今為止你所認識的我 不是真正的我",
+      "analysis": [
+        { "point": "여태", "explanation": "副詞，至今、到現在。" },
+        { "point": "너가 아는 나는", "explanation": "너가 (你，口語) + 알다 (認識) 的現在定語形 + 나는 (我)。" },
+        { "point": "내가 아니야", "explanation": "慣用型 A는/은 B가 아니다 (A不是B)。" }
+      ]
+    },
+    {
+      "korean": "수없이 많은 내 모습 중 넌 누굴 만난 걸까",
+      "translation": "在我數不清的樣貌中 你遇見的是誰呢",
+      "analysis": [
+        { "point": "수없이 많은", "explanation": "수없다 (數不清) + -이 (副詞化) + 많다 (多) 的定語形。" },
+        { "point": "내 모습 중", "explanation": "내 (我的) + 모습 (模樣) + -중 (之中)。" },
+        { "point": "넌 누굴 만난 걸까", "explanation": "너는 누구를 (你把誰) 的縮略 + 만나다 (遇見) 的過去式 + -(으)ㄴ/ㄹ 걸까 (表示推測的疑問)。" }
+      ]
+    },
+    {
+      "korean": "운이 좋다면 만나게 될지 몰라",
+      "translation": "如果運氣好的話 也許會見到",
+      "analysis": [
+        { "point": "운이 좋다면", "explanation": "운 (運氣) + -이 (主格助詞) + 좋다 (好的) + -다면 (假設語氣，如果...的話)。" },
+        { "point": "만나게 될지 몰라", "explanation": "만나다 (遇見) + -게 되다 (變得...) + -(으)ㄹ지 모르다 (慣用型，也許會...)。" }
+      ]
+    },
+    {
+      "korean": "한번 나올까 말까 한 uh 착한 내 모습을",
+      "translation": "難得一見的 uh 我善良的模樣",
+      "analysis": [
+        { "point": "나올까 말까 한", "explanation": "나오다 (出來) + -(으)ㄹ까 말까 하다 (慣用型，表示猶豫或稀少)。" },
+        { "point": "착한 내 모습을", "explanation": "착하다 (善良的) 定語形 + 내 (我的) + 모습 (模樣) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "원한다면 내게 줘 니가 가진 모든 게 필요해 난 그게 가장 중요해",
+      "translation": "如果想要的話就給我 我需要你擁有的一切 那對我最重要",
+      "analysis": [
+        { "point": "원한다면", "explanation": "원하다 (想要) + -ㄴ다면 (假設語氣)。" },
+        { "point": "내게 줘", "explanation": "나에게 (給我) 的縮略 + 주다 (給) 的命令式。" },
+        { "point": "니가 가진 모든 게", "explanation": "니가 (你) + 가지다 (擁有) 的過去定語形 + 모든 것 (一切) + -이 (主格助詞)。" },
+        { "point": "필요해", "explanation": "필요하다 (需要) 的非格式體。" },
+        { "point": "가장 중요해", "explanation": "가장 (最) + 중요하다 (重要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "싫다 해도 상관없어 어차피 준비된 완벽한 각본 속 이제 시작해 now",
+      "translation": "就算說討厭也沒關係 反正 在準備好的完美劇本中 現在開始 now",
+      "analysis": [
+        { "point": "싫다 해도", "explanation": "싫다고 해도 (就算說討厭) 的縮略。" },
+        { "point": "상관없어", "explanation": "상관없다 (沒關係) 的非格式體。" },
+        { "point": "어차피", "explanation": "副詞，反正、終究。" },
+        { "point": "준비된 완벽한 각본 속", "explanation": "준비되다 (被準備) 的定語形 + 완벽하다 (完美的) 定語形 + 각본 (劇本) + 속 (裡面)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "빛나는 fantasy 불 보듯 뻔하지",
+      "translation": "閃耀的 fantasy 不看也知道",
+      "analysis": [
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的現在定語形。" },
+        { "point": "불 보듯 뻔하지", "explanation": "慣用語，像看火一樣清楚，意指非常明顯、顯而易見。" }
+      ]
+    },
+    {
+      "korean": "백날 뛰어봤자 손바닥 안이지",
+      "translation": "就算跑一百天也還是在手掌心裡",
+      "analysis": [
+        { "point": "백날", "explanation": "一百天，誇飾法，指很長的時間。" },
+        { "point": "뛰어봤자", "explanation": "뛰다 (跑) + -아/어 봤자 (語法，表示即使做了某動作也沒用)。" },
+        { "point": "손바닥 안이지", "explanation": "손바닥 (手掌) + 안 (裡面) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "korean": "인생은 so easy 모조리 내 거지",
+      "translation": "人生 so easy 全都是我的",
+      "analysis": [
+        { "point": "모조리", "explanation": "副詞，全部、一個不剩地。" },
+        { "point": "내 거지", "explanation": "내 것 (我的東西) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "korean": "열심히 해봤자 주인공은 나지",
+      "translation": "就算努力了 主角也是我",
+      "analysis": [
+        { "point": "열심히 해봤자", "explanation": "열심히 하다 (努力做) + -아/어 봤자 (即使...也沒用)。" },
+        { "point": "주인공은 나지", "explanation": "주인공 (主角) + -은 (主題助詞) + 나 (我) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "네 정신 잘 챙겨 내 화려한 모습에",
+      "translation": "你打起精神來 在我華麗的模樣面前",
+      "analysis": [
+        { "point": "네 정신 잘 챙겨", "explanation": "네 (你的) + 정신 (精神) + 잘 (好好地) + 챙기다 (打起、챙겨라 的柔和命令式)。" },
+        { "point": "내 화려한 모습에", "explanation": "내 (我的) + 화려하다 (華麗的) 定語形 + 모습 (模樣) + -에 (因為/面對)。" }
+      ]
+    },
+    {
+      "korean": "넌 전부 잃게 될 거야 그래도 웃고 있네",
+      "translation": "你將會失去一切 卻還在笑呢",
+      "analysis": [
+        { "point": "전부 잃게 될 거야", "explanation": "전부 (全部) + 잃다 (失去) + -게 되다 (將會變得...) + -(으)ㄹ 거야 (推測的未來式)。" },
+        { "point": "그래도 웃고 있네", "explanation": "그래도 (即使如此) + 웃다 (笑) + -고 있다 (正在進行) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "그래 화사한 나를 본 게 어디니",
+      "translation": "是啊 能見到華麗的我有多難得",
+      "analysis": [
+        { "point": "화사한 나를 본 게", "explanation": "화사하다 (華麗、明媚的) 定語形 + 나를 본 것 (看見我這件事)。" },
+        { "point": "어디니", "explanation": "어디 (哪裡) + -이니 (是...呢)，反問語氣，表示「哪有這麼容易」。" }
+      ]
+    },
+    {
+      "korean": "니건 내 꺼 내 것도 내 거 욕심이 난 많아",
+      "translation": "你的是我的 我的也是我的 我很貪心",
+      "analysis": [
+        { "point": "니건 내 꺼", "explanation": "네 것 (你的東西) + -은 (主題助詞) + 내 것 (我的東西)。" },
+        { "point": "내 것도 내 거", "explanation": "내 것 (我的東西) + -도 (也) + 내 것 (我的東西)。" },
+        { "point": "욕심이 난 많아", "explanation": "욕심 (貪心) + -이 (主格助詞) + 나는 (我) + 많다 (多)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "날 위한 게 아냐 착한 건 Hurt me",
+      "translation": "不是為了我 善良會 Hurt me",
+      "analysis": [
+        { "point": "날 위한 게 아냐", "explanation": "나를 위한 것 (為了我的事) + -이 아니다 (不是)。" },
+        { "point": "착한 건", "explanation": "착한 것 (善良的事)。" }
+      ]
+    },
+    {
+      "korean": "주어진 삶대로 날 살라는 건 Bad for me",
+      "translation": "要我照著被賦予的人生去活是 Bad for me",
+      "analysis": [
+        { "point": "주어진 삶대로", "explanation": "주어지다 (被給予) 的定語形 + 삶 (人生) + -대로 (照著...)。" },
+        { "point": "날 살라는 건", "explanation": "나를 (我) + 살다 (活) + -(으)라는 것 (要(我)做...這件事)。" }
+      ]
+    },
+    {
+      "korean": "그게 뭐든 탐난다면 Go for it",
+      "translation": "不管那是什麼 只要覬覦就 Go for it",
+      "analysis": [
+        { "point": "그게 뭐든", "explanation": "그것이 무엇이든 (不管那是甚麼) 的縮略。" },
+        { "point": "탐난다면", "explanation": "탐나다 (覬覦、貪圖) + -ㄴ다면 (假設語氣)。" }
+      ]
+    },
+    {
+      "korean": "준비된 완벽한 각본 속 이제 시작해 now",
+      "translation": "在準備好的完美劇本中 現在開始 now",
+      "analysis": [
+        { "point": "준비된 완벽한 각본 속", "explanation": "준비되다 (被準備) 的定語形 + 완벽하다 (完美的) 定語形 + 각본 (劇本) + 속 (裡面)。" },
+        { "point": "이제 시작해", "explanation": "이제 (現在) + 시작하다 (開始) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "빛나는 fantasy 불 보듯 뻔하지",
+      "translation": "閃耀的 fantasy 不看也知道",
+      "analysis": [
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的現在定語形。" },
+        { "point": "불 보듯 뻔하지", "explanation": "慣用語，像看火一樣清楚，意指非常明顯、顯而易見。" }
+      ]
+    },
+    {
+      "korean": "백날 뛰어봤자 손바닥 안이지",
+      "translation": "就算跑一百天也還是在手掌心裡",
+      "analysis": [
+        { "point": "백날", "explanation": "一百天，誇飾法，指很長的時間。" },
+        { "point": "뛰어봤자", "explanation": "뛰다 (跑) + -아/어 봤자 (語法，表示即使做了某動作也沒用)。" },
+        { "point": "손바닥 안이지", "explanation": "손바닥 (手掌) + 안 (裡面) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "korean": "인생은 so easy 모조리 내 거지",
+      "translation": "人生 so easy 全都是我的",
+      "analysis": [
+        { "point": "모조리", "explanation": "副詞，全部、一個不剩地。" },
+        { "point": "내 거지", "explanation": "내 것 (我的東西) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "korean": "열심히 해봤자 주인공은 나지",
+      "translation": "就算努力了 主角也是我",
+      "analysis": [
+        { "point": "열심히 해봤자", "explanation": "열심히 하다 (努力做) + -아/어 봤자 (即使...也沒用)。" },
+        { "point": "주인공은 나지", "explanation": "주인공 (主角) + -은 (主題助詞) + 나 (我) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "dangerous 후진은 없어",
+      "translation": "dangerous 沒有後退",
+      "analysis": [
+        { "point": "후진은 없어", "explanation": "후진 (後退) + -은 (主題助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "남은 건 지금뿐 no more",
+      "translation": "剩下的只有現在 no more",
+      "analysis": [
+        { "point": "남은 건", "explanation": "남다 (剩下) 的定語形 + 것 (東西)。" },
+        { "point": "지금뿐", "explanation": "지금 (現在) + -뿐 (只有)。" }
+      ]
+    },
+    {
+      "korean": "스릴을 즐겨 지금 now",
+      "translation": "享受刺激 現在 now",
+      "analysis": [
+        { "point": "스릴을 즐겨", "explanation": "스릴 (thrill, 刺激) + -을 (受格助詞) + 즐기다 (享受) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "충고들은 내겐 Siren",
+      "translation": "忠告對我來說是 Siren",
+      "analysis": [
+        { "point": "충고들은", "explanation": "충고 (忠告) + -들 (複數) + -은 (主題助詞)。" },
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "날 포위한대도 뚫고 가 My way",
+      "translation": "就算包圍我 我也要突破走 My way",
+      "analysis": [
+        { "point": "날 포위한대도", "explanation": "나를 (我) + 포위한다고 해도 (就算說要包圍)。" },
+        { "point": "뚫고 가", "explanation": "뚫다 (突破、穿過) + -고 (連接) + 가다 (走)。" }
+      ]
+    },
+    {
+      "korean": "겁먹기보단 겁을 주는 Type",
+      "translation": "比起害怕 是給人恐懼的 Type",
+      "analysis": [
+        { "point": "겁먹기보단", "explanation": "겁먹다 (害怕) + -기보다(는) (比起...)。" },
+        { "point": "겁을 주는", "explanation": "겁 (恐懼) + -을 (受格助詞) + 주다 (給予) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "눈치챘다면 물러서 다",
+      "translation": "如果察覺到了就全都退下",
+      "analysis": [
+        { "point": "눈치챘다면", "explanation": "눈치채다 (察覺) 的過去式 + -다면 (如果...的話)。" },
+        { "point": "물러서", "explanation": "물러서다 (退下) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "가만히 있어도 매력이 흘러넘쳐",
+      "translation": "就算靜靜待著 魅力也滿溢出來",
+      "analysis": [
+        { "point": "가만히 있어도", "explanation": "가만히 (靜靜地) + 있다 (待著) + -아도/어도 (即使...)。" },
+        { "point": "매력이 흘러넘쳐", "explanation": "매력 (魅力) + -이 (主格助詞) + 흘러넘치다 (滿溢出來)。" }
+      ]
+    },
+    {
+      "korean": "발버둥 쳐도 소용없어",
+      "translation": "就算掙扎也沒用",
+      "analysis": [
+        { "point": "발버둥 쳐도", "explanation": "발버둥 치다 (掙扎) + -아도/어도 (即使...)。" },
+        { "point": "소용없어", "explanation": "소용없다 (沒用) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "누구보다 on it 다 내 멋대로 go baby",
+      "translation": "比誰都 on it 全都照我意思 go baby",
+      "analysis": [
+        { "point": "누구보다", "explanation": "누구 (誰) + -보다 (比)。" },
+        { "point": "내 멋대로", "explanation": "내 (我的) + 멋대로 (隨心所欲地)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "빛나는 fantasy 불 보듯 뻔하지",
+      "translation": "閃耀的 fantasy 不看也知道",
+      "analysis": [
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的現在定語形。" },
+        { "point": "불 보듯 뻔하지", "explanation": "慣用語，像看火一樣清楚，意指非常明顯、顯而易見。" }
+      ]
+    },
+    {
+      "korean": "백날 뛰어봤자 손바닥 안이지",
+      "translation": "就算跑一百天也還是在手掌心裡",
+      "analysis": [
+        { "point": "백날", "explanation": "一百天，誇飾法，指很長的時間。" },
+        { "point": "뛰어봤자", "explanation": "뛰다 (跑) + -아/어 봤자 (語法，表示即使做了某動作也沒用)。" },
+        { "point": "손바닥 안이지", "explanation": "손바닥 (手掌) + 안 (裡面) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "korean": "인생은 so easy 모조리 내 거지",
+      "translation": "人生 so easy 全都是我的",
+      "analysis": [
+        { "point": "모조리", "explanation": "副詞，全部、一個不剩地。" },
+        { "point": "내 거지", "explanation": "내 것 (我的東西) + -이지 (是...嘛)。" }
+      ]
+    },
+    {
+      "korean": "열심히 해봤자 주인공은 나지",
+      "translation": "就算努力了 主角也是我",
+      "analysis": [
+        { "point": "열심히 해봤자", "explanation": "열심히 하다 (努力做) + -아/어 봤자 (即使...也沒用)。" },
+        { "point": "주인공은 나지", "explanation": "주인공 (主角) + -은 (主題助詞) + 나 (我) + -이지 (是...嘛)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "여태", "chinese": "至今", "pos": "副詞" },
+    { "korean": "모습", "chinese": "模樣、樣子", "pos": "名詞" },
+    { "korean": "운", "chinese": "運氣", "pos": "名詞" },
+    { "korean": "착하다", "chinese": "善良的", "pos": "形容詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "중요하다", "chinese": "重要的", "pos": "形容詞" },
+    { "korean": "상관없다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "어차피", "chinese": "反正、終究", "pos": "副詞" },
+    { "korean": "준비되다", "chinese": "被準備", "pos": "動詞" },
+    { "korean": "각본", "chinese": "劇本", "pos": "名詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "뻔하다", "chinese": "明顯的", "pos": "形容詞" },
+    { "korean": "뛰다", "chinese": "跑", "pos": "動詞" },
+    { "korean": "손바닥", "chinese": "手掌", "pos": "名詞" },
+    { "korean": "모조리", "chinese": "全部", "pos": "副詞" },
+    { "korean": "주인공", "chinese": "主角", "pos": "名詞" },
+    { "korean": "정신", "chinese": "精神", "pos": "名詞" },
+    { "korean": "챙기다", "chinese": "打理、챙겨라", "pos": "動詞" },
+    { "korean": "화려하다", "chinese": "華麗的", "pos": "形容詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "화사하다", "chinese": "華麗的、明媚的", "pos": "形容詞" },
+    { "korean": "욕심", "chinese": "貪心、慾望", "pos": "名詞" },
+    { "korean": "삶", "chinese": "人生、生活", "pos": "名詞" },
+    { "korean": "탐나다", "chinese": "覬覦、貪圖", "pos": "動詞" },
+    { "korean": "후진", "chinese": "後退", "pos": "名詞" },
+    { "korean": "남다", "chinese": "剩下", "pos": "動詞" },
+    { "korean": "즐기다", "chinese": "享受", "pos": "動詞" },
+    { "korean": "충고", "chinese": "忠告", "pos": "名詞" },
+    { "korean": "포위하다", "chinese": "包圍", "pos": "動詞" },
+    { "korean": "뚫다", "chinese": "突破、穿過", "pos": "動詞" },
+    { "korean": "겁먹다", "chinese": "害怕", "pos": "動詞" },
+    { "korean": "눈치채다", "chinese": "察覺", "pos": "動詞" },
+    { "korean": "물러서다", "chinese": "退下", "pos": "動詞" },
+    { "korean": "가만히", "chinese": "靜靜地", "pos": "副詞" },
+    { "korean": "매력", "chinese": "魅力", "pos": "名詞" },
+    { "korean": "흘러넘치다", "chinese": "滿溢出來", "pos": "動詞" },
+    { "korean": "발버둥 치다", "chinese": "掙扎", "pos": "動詞" },
+    { "korean": "소용없다", "chinese": "沒用", "pos": "形容詞" },
+    { "korean": "멋대로", "chinese": "隨心所欲地", "pos": "副詞" }
+  ]
+}

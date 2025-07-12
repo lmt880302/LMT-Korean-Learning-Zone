@@ -12,17 +12,12 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "boynextdoor-123-78",
+    "title": "123-78",
+    "artist": "BOYNEXTDOOR",
+    "lyricsFile": "../data/lyrics/boynextdoor-123-78.json"
   },
-  {
-    "id": "aespa-whiplash",
-    "title": "Whiplash",
-    "artist": "aespa (에스파)",
-    "lyricsFile": "../data/lyrics/aespa-whiplash.json"
-  },
+
   {
     "id": "epikhigh-screen-time",
     "title": "Screen Time (에픽하이)",
@@ -252,11 +247,91 @@
     "lyricsFile": "../data/lyrics/girlsday-hanbeonman-anajwo.json"
   },
   {
+    "id": "girlsday-what-to-do",
+    "title": "어쩜 좋아 (What To Do)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-what-to-do.json"
+  },  
+  {
     "id": "kassy-story-of-night-fall",
     "title": "Story of night fall",
     "artist": "Kassy",
     "lyricsFile": "../data/lyrics/mind-u-story-of-night-fall.json"
   },
+  {
+    "id": "minah-nado-yeojayeyo",
+    "title": "나도 여자예요 (I'm a Woman Too)",
+    "artist": "MINAH (민아)",
+    "lyricsFile": "../data/lyrics/minah-nado-yeojayeyo.json"
+  },
+  {
+    "id": "minah-11",
+    "title": "11°",
+    "artist": "MINAH (민아)",
+    "lyricsFile": "../data/lyrics/minah-11.json"
+  },  
+  {
+    "id": "minah-niga-naega",
+    "title": "니가내가 (You & I)",
+    "artist": "MINAH (민아)",  
+    "lyricsFile": "../data/lyrics/minah-niga-naega.json"
+  },    
+  {
+    "id": "minah-alge-moreuge",
+    "title": "알게 모르게 (Knowingly Unknowingly)",
+    "artist": "MINAH (민아)",
+    "lyricsFile": "../data/lyrics/minah-alge-moreuge.json"
+  }, 
+  {
+    "id": "minah-isanghada-cham",
+    "title": "이상하다 참",
+    "artist": "MINAH (feat.딘딘)",
+    "lyricsFile": "../data/lyrics/minah-isanghada-cham.json"
+  }, 
+  {
+    "id": "minah-han-saram",
+    "title": "한 사람",
+    "artist": "MINAH (민아)",
+    "lyricsFile": "../data/lyrics/minah-han-saram.json"
+  },        
+  {
+    "id": "minah-sarangieotda",
+    "title": "사랑이었다 (It Was Love)",
+    "artist": "MINAH (feat.정일훈)",
+    "lyricsFile": "../data/lyrics/minah-sarangieotda.json"
+  },   
+  {
+    "id": "minah-bwa",
+    "title": "봐",
+    "artist": "MINAH (feat. 버벌진트)",
+    "lyricsFile": "../data/lyrics/minah-bwa.json"
+  },   
+  {
+    "id": "minah-ani",
+    "title": "아니",
+    "artist": "MINAH (feat. 이민혁)",
+    "lyricsFile": "../data/lyrics/minah-ani.json"
+  },   
+  {
+    "id": "minah-colorful",
+    "title": "Colorful",
+    "artist": "MINAH (민아)",
+    "lyricsFile": "../data/lyrics/minah-colorful.json"
+  },  
+  {
+    "id": "minah-hwasahan-geunyeo",
+    "title": "화사한 그녀",
+    "artist": "MINAH (feat. 엄정화)",
+    "lyricsFile": "../data/lyrics/minah-hwasahan-geunyeo.json"
+  },  
+  {
+    "id": "minah-my-first-kiss",
+    "title": "My First Kiss",
+    "artist": "MINAH (민아)",
+    "lyricsFile": "../data/lyrics/minah-hwasahan-geunyeo.json"
+  },  
+
+
   {
     "id": "mind-u-a-night-full-of-longing",
     "title": "A night full of longing",
@@ -348,10 +423,10 @@
     "lyricsFile": "../data/lyrics/seventeen-destiny.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "seventeen-simple",
+    "title": "Simple",
+    "artist": "SEVENTEEN (WOOZI Solo)",
+    "lyricsFile": "../data/lyrics/seventeen-simple.json"
   }, 
   {
     "id": "_____",

@@ -1,0 +1,333 @@
+{
+  "id": "minah-niga-naega",
+  "title": "니가내가 (You & I)",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "니가 나를 품에 안을때",
+      "translation": "當你將我擁入懷中時",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式，네 (你) + -가 (主格助詞)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "품에", "explanation": "품 (懷抱) + -에 (場所助詞)。" },
+        { "point": "안을때", "explanation": "안다 (擁抱) 的詞幹 + -(으)ㄹ 때 (表示「...的時候」的慣用句型)。" }
+      ]
+    },
+    {
+      "korean": "내가 따스함을 알았고",
+      "translation": "我才懂得了溫暖",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "따스함을", "explanation": "따스함 (溫暖，由形容詞 따스하다 轉化為名詞) + -을 (受格助詞)。" },
+        { "point": "알았고", "explanation": "알다 (知道、懂得) 的過去式 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "니가 내눈을 지켜볼때",
+      "translation": "當你注視著我的雙眼時",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式。" },
+        { "point": "내눈을", "explanation": "내 (我的) + 눈 (眼睛) + -을 (受格助詞)。" },
+        { "point": "지켜볼때", "explanation": "지켜보다 (注視) 的詞幹 + -(으)ㄹ 때 (「...的時候」)。" }
+      ]
+    },
+    {
+      "korean": "내가 소중한걸 알았어",
+      "translation": "我才知道自己是珍貴的",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "소중한걸", "explanation": "소중하다 (珍貴的) 定語形 + 것 (事情) + -을 (受格助詞) 的縮略形。" },
+        { "point": "알았어", "explanation": "알다 (知道) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "니가 나한테 다가올때",
+      "translation": "當你向我走近時",
+      "analysis": [
+        { "point": "니가", "explanation": "네가 (你) 的口語形式。" },
+        { "point": "나한테", "explanation": "나 (我) + -한테 (對...，口語中常用的助詞)。" },
+        { "point": "다가올때", "explanation": "다가오다 (走近) 的詞幹 + -(으)ㄹ 때 (「...的時候」)。" }
+      ]
+    },
+    {
+      "korean": "내가 흔들리고 있었고",
+      "translation": "我曾為你動搖",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "흔들리고 있었고", "explanation": "흔들리다 (動搖) + -고 있다 (正在進行式) 的過去式 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "니가 던진 그말 한마디",
+      "translation": "你拋出的那一句話",
+      "analysis": [
+        { "point": "니가 던진", "explanation": "니가 (你) + 던지다 (拋、丟) 的過去定語形。" },
+        { "point": "그말 한마디", "explanation": "그 (那) + 말 (話) + 한마디 (一句話)。" }
+      ]
+    },
+    {
+      "korean": "내가 여자란걸 알았어",
+      "translation": "我才知道自己是個女人",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "여자란걸", "explanation": "여자 (女人) + -(이)라는 것 (叫做...的事) + -을 (受格助詞) 的縮略形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나를 파고 드는",
+      "translation": "深入我心的",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "파고 드는", "explanation": "파고들다 (鑽入、深入) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "It's your smiley face",
+      "translation": "是你微笑的臉龐",
+      "analysis": [
+        { "point": "It's your smiley face", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "이젠 니가없이 내가 살수없잖아",
+      "translation": "現在沒有你我活不下去不是嗎",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 的縮略形。" },
+        { "point": "니가없이", "explanation": "니가 (你) + 없다 (沒有) 的副詞形。" },
+        { "point": "내가 살수없잖아", "explanation": "내가 (我) + 살다 (活) + -(으)ㄹ 수 없다 (不能) + -잖아 (表示確認或提醒)。" }
+      ]
+    },
+    {
+      "korean": "let's go",
+      "translation": "走吧",
+      "analysis": [
+        { "point": "let's go", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "힘들었던 기억은",
+      "translation": "辛苦的記憶",
+      "analysis": [
+        { "point": "힘들었던", "explanation": "힘들다 (辛苦) 的過去回想動詞定語形。" },
+        { "point": "기억은", "explanation": "기억 (記憶) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "이젠 모두 지워버려",
+      "translation": "現在全部都抹去吧",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 的縮略形。" },
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "지워버려", "explanation": "지우다 (擦掉) + -아/어 버리다 (表示動作徹底完成) 的非格式體命令式。" }
+      ]
+    },
+    {
+      "korean": "눈물났던 날들을",
+      "translation": "曾流淚的日子",
+      "analysis": [
+        { "point": "눈물났던", "explanation": "눈물나다 (流淚) 的過去回想動詞定語形。" },
+        { "point": "날들을", "explanation": "날 (日子) + -들 (複數) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "baby you can wipe the memory",
+      "translation": "寶貝 你可以抹去那段記憶",
+      "analysis": [
+        { "point": "baby you can wipe the memory", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "니가내가 있을땐",
+      "translation": "當有你有我時",
+      "analysis": [
+        { "point": "니가내가", "explanation": "你和我。" },
+        { "point": "있을땐", "explanation": "있다 (在、有) + -(으)ㄹ 때 (的時候) + -는 的縮略形。" }
+      ]
+    },
+    {
+      "korean": "이제 모두 변할꺼야",
+      "translation": "現在一切都會改變",
+      "analysis": [
+        { "point": "이제 모두", "explanation": "現在 全部。" },
+        { "point": "변할꺼야", "explanation": "변하다 (改變) + -(으)ㄹ 거야 (未來式推測的口語形式)。" }
+      ]
+    },
+    {
+      "korean": "슬퍼했던 날들도",
+      "translation": "曾悲傷的日子也",
+      "analysis": [
+        { "point": "슬퍼했던", "explanation": "슬퍼하다 (悲傷) 的過去回想動詞定語形。" },
+        { "point": "날들도", "explanation": "날 (日子) + -들 (複數) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "baby you don't need it anymore",
+      "translation": "寶貝 你再也不需要它了",
+      "analysis": [
+        { "point": "baby you don't need it anymore", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "I can't stop my love for you forever",
+      "translation": "我無法停止永遠愛你",
+      "analysis": [
+        { "point": "I can't stop my love for you forever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I can't stop my love for you forever",
+      "translation": "我無法停止永遠愛你",
+      "analysis": [
+        { "point": "I can't stop my love for you forever", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "니가 내가 너를 얼마나 사랑한다는걸 아는지",
+      "translation": "你可知道我有多麼地愛你",
+      "analysis": [
+        { "point": "니가 내가 너를", "explanation": "你 我 你(受格)。" },
+        { "point": "얼마나", "explanation": "副詞，多麼地。" },
+        { "point": "사랑한다는걸 아는지", "explanation": "사랑하다 (愛) + -는다는 것 (叫做...的事) + -을 (受格) 的縮寫 + 알다 (知道) + -는지 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "니가 바라보는 그녀가 내가 아니란걸 알지만",
+      "translation": "雖然我知道你凝望的那個她不是我",
+      "analysis": [
+        { "point": "니가 바라보는 그녀가", "explanation": "你 + 바라보다 (凝望) 的定語形 + 그녀 (她) + -가 (主格助詞)。" },
+        { "point": "내가 아니란걸", "explanation": "我 + 아니다 (不是) + -(이)라는 것 + -을 的縮寫。" },
+        { "point": "알지만", "explanation": "알다 (知道) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "내가 그녀가 아니지만",
+      "translation": "雖然我不是她",
+      "analysis": [
+        { "point": "내가 그녀가 아니지만", "explanation": "我(主格) + 她(主格) + 아니다 (不是) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "baby I will find a way",
+      "translation": "寶貝 我會找到辦法的",
+      "analysis": [
+        { "point": "baby I will find a way", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "Although we sing two melodies in the same place right now",
+      "translation": "雖然此刻我們在同一個地方唱著不同的旋律",
+      "analysis": [
+        { "point": "Although we sing two melodies in the same place right now", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I know we will find a way somewhere we belong",
+      "translation": "我知道我們會在屬於我們的地方找到出路",
+      "analysis": [
+        { "point": "I know we will find a way somewhere we belong", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "힘들었던 기억은",
+      "translation": "辛苦的記憶",
+      "analysis": [
+        { "point": "힘들었던", "explanation": "힘들다 (辛苦) 的過去回想動詞定語形。" },
+        { "point": "기억은", "explanation": "기억 (記憶) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "이젠 모두 지워버려",
+      "translation": "現在全部都抹去吧",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 的縮略形。" },
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "지워버려", "explanation": "지우다 (擦掉) + -아/어 버리다 (表示動作徹底完成) 的非格式體命令式。" }
+      ]
+    },
+    {
+      "korean": "눈물났던 날들을",
+      "translation": "曾流淚的日子",
+      "analysis": [
+        { "point": "눈물났던", "explanation": "눈물나다 (流淚) 的過去回想動詞定語形。" },
+        { "point": "날들을", "explanation": "날 (日子) + -들 (複數) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "baby you can wipe the memory",
+      "translation": "寶貝 你可以抹去那段記憶",
+      "analysis": [
+        { "point": "baby you can wipe the memory", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "니가내가 있을땐",
+      "translation": "當有你有我時",
+      "analysis": [
+        { "point": "니가내가", "explanation": "你和我。" },
+        { "point": "있을땐", "explanation": "있다 (在、有) + -(으)ㄹ 때 (的時候) + -는 的縮略形。" }
+      ]
+    },
+    {
+      "korean": "이제 모두 변할꺼야",
+      "translation": "現在一切都會改變",
+      "analysis": [
+        { "point": "이제 모두", "explanation": "現在 全部。" },
+        { "point": "변할꺼야", "explanation": "변하다 (改變) + -(으)ㄹ 거야 (未來式推測的口語形式)。" }
+      ]
+    },
+    {
+      "korean": "슬퍼했던 날들도",
+      "translation": "曾悲傷的日子也",
+      "analysis": [
+        { "point": "슬퍼했던", "explanation": "슬퍼하다 (悲傷) 的過去回想動詞定語形。" },
+        { "point": "날들도", "explanation": "날 (日子) + -들 (複數) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "you don't need it anymore",
+      "translation": "你再也不需要它了",
+      "analysis": [
+        { "point": "you don't need it anymore", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "you don't need it anymore",
+      "translation": "你再也不需要它了",
+      "analysis": [
+        { "point": "you don't need it anymore", "explanation": "英文歌詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "따스하다", "chinese": "溫暖", "pos": "形容詞" },
+    { "korean": "알다", "chinese": "知道、懂得", "pos": "動詞" },
+    { "korean": "지켜보다", "chinese": "注視", "pos": "動詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "다가오다", "chinese": "走近", "pos": "動詞" },
+    { "korean": "흔들리다", "chinese": "動搖", "pos": "動詞" },
+    { "korean": "던지다", "chinese": "拋、丟", "pos": "動詞" },
+    { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "여자", "chinese": "女人", "pos": "名詞" },
+    { "korean": "파고들다", "chinese": "鑽入、深入", "pos": "動詞" },
+    { "korean": "살다", "chinese": "活", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "辛苦的", "pos": "形容詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "지우다", "chinese": "擦掉、抹去", "pos": "動詞" },
+    { "korean": "눈물나다", "chinese": "流淚", "pos": "動詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "슬퍼하다", "chinese": "悲傷", "pos": "動詞" },
+    { "korean": "얼마나", "chinese": "多麼", "pos": "副詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "바라보다", "chinese": "凝望", "pos": "動詞" },
+    { "korean": "그녀", "chinese": "她", "pos": "代名詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" }
+  ]
+}

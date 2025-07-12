@@ -1,0 +1,422 @@
+{
+  "id": "minah-alge-moreuge",
+  "title": "알게 모르게 (Knowingly Unknowingly)",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "정말 알다가도 모르겠어",
+      "translation": "真是搞不懂",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的、真是。" },
+        { "point": "알다가도 모르겠어", "explanation": "慣用語，由 알다 (知道) + -다가도 (即使...也) + 모르다 (不知道) 組成，表示「好像懂了卻又不懂」，表達一種混亂、不確定的狀態。" }
+      ]
+    },
+    {
+      "korean": "maybe something happens to me",
+      "translation": "也許我身上發生了什麼事",
+      "analysis": [
+        { "point": "maybe something happens to me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "처음 단어를 배우는 아이같이",
+      "translation": "像個初學單字的孩子一樣",
+      "analysis": [
+        { "point": "처음", "explanation": "名詞/副詞，初次、第一次。" },
+        { "point": "단어를 배우는", "explanation": "단어 (單字) + -를 (受格助詞) + 배우다 (學習) 的現在定語形。" },
+        { "point": "아이같이", "explanation": "아이 (孩子) + -같이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "오 네가 준 감정에",
+      "translation": "喔 對於你給的這份感情",
+      "analysis": [
+        { "point": "네가 준", "explanation": "네가 (你) + 주다 (給予) 的過去定語形。" },
+        { "point": "감정에", "explanation": "감정 (感情、情緒) + -에 (助詞，表示對象)。" }
+      ]
+    },
+    {
+      "korean": "난 또 이름을 붙여",
+      "translation": "我又為它取了名字",
+      "analysis": [
+        { "point": "난 또", "explanation": "난 (我是) + 또 (又、再次)。" },
+        { "point": "이름을 붙여", "explanation": "이름 (名字) + -을 (受格助詞) + 붙이다 (貼上、取名) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "so i call it love",
+      "translation": "所以我稱之為愛",
+      "analysis": [
+        { "point": "so i call it love", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "so i fall in love",
+      "translation": "所以我墜入愛河",
+      "analysis": [
+        { "point": "so i fall in love", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "재미가 없어졌어",
+      "translation": "變得無趣了",
+      "analysis": [
+        { "point": "재미가", "explanation": "재미 (趣味) + -가 (主格助詞)。" },
+        { "point": "없어졌어", "explanation": "없어지다 (消失、變得沒有) 的過去式非格式體。由 없다 (沒有) + -어지다 (變得...) 組成。" }
+      ]
+    },
+    {
+      "korean": "네가 없는 일들이 말야",
+      "translation": "我是說那些沒有你的事啊",
+      "analysis": [
+        { "point": "네가 없는", "explanation": "네가 (你) + 없다 (沒有) 的現在定語形。" },
+        { "point": "일들이 말야", "explanation": "일 (事情) + -들 (複數) + -이 말이야 (口語終結詞尾，用於強調或解釋)，此處縮略為 말야。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이런 내 맘 네가 알게",
+      "translation": "讓你明白我這樣的心意",
+      "analysis": [
+        { "point": "이런 내 맘", "explanation": "이런 (這樣的) + 내 (我的) + 맘 (마음，心) 的縮寫。" },
+        { "point": "네가 알게", "explanation": "네가 (你) + 알다 (知道) + -게 (目的性的副詞形詞尾，為了讓你...)。" }
+      ]
+    },
+    {
+      "korean": "수줍은 상상은 모르게",
+      "translation": "不經意地害羞想像著",
+      "analysis": [
+        { "point": "수줍은", "explanation": "수줍다 (害羞) 的現在定語形。" },
+        { "point": "상상은", "explanation": "상상 (想像) + -은 (主題助詞)。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形詞尾，不經意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "(넌 알게 모르게 넌 알게 모르게)",
+      "translation": "(你若有似無地 你若有似無地)",
+      "analysis": [
+        { "point": "넌 알게 모르게", "explanation": "넌 (你是) + 알게 모르게 (慣用語，有意無意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "너도 사랑인 줄 알게",
+      "translation": "讓你也知道這就是愛",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "사랑인 줄 알게", "explanation": "사랑 (愛) + -이다 (是) + -(ㄴ) 줄 알다 (知道是...) + -게 (目的性的副詞形詞尾)。" }
+      ]
+    },
+    {
+      "korean": "언제 빠졌는진 모르게",
+      "translation": "不知不覺地在不知何時已深陷",
+      "analysis": [
+        { "point": "언제 빠졌는진", "explanation": "언제 (何時) + 빠지다 (陷入) 的過去式 + -는지 (間接疑問) + -는 (主題助詞) 的縮寫。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形詞尾，不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "(넌 알게 모르게 넌 알게 모르게)",
+      "translation": "(你若有似無地 你若有似無地)",
+      "analysis": [
+        { "point": "넌 알게 모르게", "explanation": "넌 (你是) + 알게 모르게 (慣用語，有意無意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "you give me butter butterfly",
+      "translation": "你讓我心如蝶舞",
+      "analysis": [
+        { "point": "you give me butter butterfly", "explanation": "英文歌詞，'butterflies in my stomach' 是指緊張、心動的感覺。" }
+      ]
+    },
+    {
+      "korean": "cause you are my lover",
+      "translation": "因為你是我的愛人",
+      "analysis": [
+        { "point": "cause you are my lover", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "you give me butter butterfly",
+      "translation": "你讓我心如蝶舞",
+      "analysis": [
+        { "point": "you give me butter butterfly", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "you give me you give me",
+      "translation": "你給我 你給我",
+      "analysis": [
+        { "point": "you give me you give me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "정말 알다가도 모르겠어",
+      "translation": "真是搞不懂",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的、真是。" },
+        { "point": "알다가도 모르겠어", "explanation": "慣用語，由 알다 (知道) + -다가도 (即使...也) + 모르다 (不知道) 組成，表示「好像懂了卻又不懂」，表達一種混亂、不確定的狀態。" }
+      ]
+    },
+    {
+      "korean": "maybe something happens to me",
+      "translation": "也許我身上發生了什麼事",
+      "analysis": [
+        { "point": "maybe something happens to me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "문득 빛이 나고 정말 반짝여서",
+      "translation": "突然發著光 真的閃閃發亮",
+      "analysis": [
+        { "point": "문득", "explanation": "副詞，突然、猛然。" },
+        { "point": "빛이 나고", "explanation": "빛 (光) + -이 (主格助詞) + 나다 (發出) + -고 (連接詞尾)。" },
+        { "point": "정말 반짝여서", "explanation": "정말 (真的) + 반짝이다 (閃爍) + -어서 (因為、然後)。" }
+      ]
+    },
+    {
+      "korean": "하루 종일 들여다봐",
+      "translation": "讓我凝視了一整天",
+      "analysis": [
+        { "point": "하루 종일", "explanation": "片語，一整天。" },
+        { "point": "들여다봐", "explanation": "들여다보다 (凝視、窺看) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "닿을지도 몰라",
+      "translation": "說不定能觸碰到",
+      "analysis": [
+        { "point": "닿을지도 몰라", "explanation": "닿다 (觸碰、到達) + -(으)ㄹ지도 모르다 (慣用語，表示「說不定會...」)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "so i call it love",
+      "translation": "所以我稱之為愛",
+      "analysis": [
+        { "point": "so i call it love", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "so i fall in love",
+      "translation": "所以我墜入愛河",
+      "analysis": [
+        { "point": "so i fall in love", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "익숙해지지 않아",
+      "translation": "無法變得熟悉",
+      "analysis": [
+        { "point": "익숙해지지 않아", "explanation": "익숙해지다 (變得熟悉) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "서투른 설렘들이 말야",
+      "translation": "我是說那些生疏的心動啊",
+      "analysis": [
+        { "point": "서투른", "explanation": "서투르다 (生疏、笨拙) 的現在定語形。" },
+        { "point": "설렘들이 말야", "explanation": "설렘 (心動) + -들 (複數) + -이 말이야 (口語終結詞尾，用於強調或解釋)，此處縮略為 말야。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이런 내 맘 네가 알게",
+      "translation": "讓你明白我這樣的心意",
+      "analysis": [
+        { "point": "이런 내 맘", "explanation": "이런 (這樣的) + 내 (我的) + 맘 (마음，心) 的縮寫。" },
+        { "point": "네가 알게", "explanation": "네가 (你) + 알다 (知道) + -게 (目的性的副詞形詞尾，為了讓你...)。" }
+      ]
+    },
+    {
+      "korean": "수줍은 상상은 모르게",
+      "translation": "不經意地害羞想像著",
+      "analysis": [
+        { "point": "수줍은", "explanation": "수줍다 (害羞) 的現在定語形。" },
+        { "point": "상상은", "explanation": "상상 (想像) + -은 (主題助詞)。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形詞尾，不經意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "(넌 알게 모르게 넌 알게 모르게)",
+      "translation": "(你若有似無地 你若有似無地)",
+      "analysis": [
+        { "point": "넌 알게 모르게", "explanation": "넌 (你是) + 알게 모르게 (慣用語，有意無意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "너도 사랑인 줄 알게",
+      "translation": "讓你也知道這就是愛",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "사랑인 줄 알게", "explanation": "사랑 (愛) + -이다 (是) + -(ㄴ) 줄 알다 (知道是...) + -게 (目的性的副詞形詞尾)。" }
+      ]
+    },
+    {
+      "korean": "언제 빠졌는진 모르게",
+      "translation": "不知不覺地在不知何時已深陷",
+      "analysis": [
+        { "point": "언제 빠졌는진", "explanation": "언제 (何時) + 빠지다 (陷入) 的過去式 + -는지 (間接疑問) + -는 (主題助詞) 的縮寫。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形詞尾，不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "(넌 알게 모르게 넌 알게 모르게)",
+      "translation": "(你若有似無地 你若有似無地)",
+      "analysis": [
+        { "point": "넌 알게 모르게", "explanation": "넌 (你是) + 알게 모르게 (慣用語，有意無意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "알 듯 말 듯 해",
+      "translation": "若即若離",
+      "analysis": [
+        { "point": "알 듯 말 듯 해", "explanation": "慣用語，由 알다 (知道) + -(으)ㄹ 듯 말 듯 하다 組成，形容「好像知道又好像不知道」的模糊狀態。" }
+      ]
+    },
+    {
+      "korean": "닿을 듯 말 듯 해 넌 그래 넌",
+      "translation": "若即若離 你就是這樣 你",
+      "analysis": [
+        { "point": "닿을 듯 말 듯 해", "explanation": "慣用語，由 닿다 (觸碰) + -(으)ㄹ 듯 말 듯 하다 組成，形容「好像能碰到又好像碰不到」的狀態。" },
+        { "point": "넌 그래 넌", "explanation": "넌 (你是) + 그렇다 (那樣) 的非格式體 + 넌 (你是)。" }
+      ]
+    },
+    {
+      "korean": "알 듯 말 듯 해",
+      "translation": "若即若離",
+      "analysis": [
+        { "point": "알 듯 말 듯 해", "explanation": "慣用語，由 알다 (知道) + -(으)ㄹ 듯 말 듯 하다 組成，形容「好像知道又好像不知道」的模糊狀態。" }
+      ]
+    },
+    {
+      "korean": "닿을 듯 말 듯 해 넌",
+      "translation": "若即若離的你",
+      "analysis": [
+        { "point": "닿을 듯 말 듯 해", "explanation": "慣用語，由 닿다 (觸碰) + -(으)ㄹ 듯 말 듯 하다 組成，形容「好像能碰到又好像碰不到」的狀態。" },
+        { "point": "넌", "explanation": "너는 (你是) 的縮寫。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이런 내 맘 네가 알게",
+      "translation": "讓你明白我這樣的心意",
+      "analysis": [
+        { "point": "이런 내 맘", "explanation": "이런 (這樣的) + 내 (我的) + 맘 (마음，心) 的縮寫。" },
+        { "point": "네가 알게", "explanation": "네가 (你) + 알다 (知道) + -게 (目的性的副詞形詞尾，為了讓你...)。" }
+      ]
+    },
+    {
+      "korean": "수줍은 상상은 모르게",
+      "translation": "不經意地害羞想像著",
+      "analysis": [
+        { "point": "수줍은", "explanation": "수줍다 (害羞) 的現在定語形。" },
+        { "point": "상상은", "explanation": "상상 (想像) + -은 (主題助詞)。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形詞尾，不經意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "(넌 알게 모르게 넌 알게 모르게)",
+      "translation": "(你若有似無地 你若有似無地)",
+      "analysis": [
+        { "point": "넌 알게 모르게", "explanation": "넌 (你是) + 알게 모르게 (慣用語，有意無意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "너도 사랑인 줄 알게",
+      "translation": "讓你也知道這就是愛",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "사랑인 줄 알게", "explanation": "사랑 (愛) + -이다 (是) + -(ㄴ) 줄 알다 (知道是...) + -게 (目的性的副詞形詞尾)。" }
+      ]
+    },
+    {
+      "korean": "언제 빠졌는진 모르게",
+      "translation": "不知不覺地在不知何時已深陷",
+      "analysis": [
+        { "point": "언제 빠졌는진", "explanation": "언제 (何時) + 빠지다 (陷入) 的過去式 + -는지 (間接疑問) + -는 (主題助詞) 的縮寫。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形詞尾，不知不覺地)。" }
+      ]
+    },
+    {
+      "korean": "(넌 알게 모르게 넌 알게 모르게)",
+      "translation": "(你若有似無地 你若有似無地)",
+      "analysis": [
+        { "point": "넌 알게 모르게", "explanation": "넌 (你是) + 알게 모르게 (慣用語，有意無意地、不知不覺地)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "you give me butter butterfly",
+      "translation": "你讓我心如蝶舞",
+      "analysis": [
+        { "point": "you give me butter butterfly", "explanation": "英文歌詞，'butterflies in my stomach' 是指緊張、心動的感覺。" }
+      ]
+    },
+    {
+      "korean": "cause you are my lover",
+      "translation": "因為你是我的愛人",
+      "analysis": [
+        { "point": "cause you are my lover", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "you give me butter butterfly",
+      "translation": "你讓我心如蝶舞",
+      "analysis": [
+        { "point": "you give me butter butterfly", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "you give me you give me",
+      "translation": "你給我 你給我",
+      "analysis": [
+        { "point": "you give me you give me", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "정말 알다가도 모르겠어",
+      "translation": "真是搞不懂",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的、真是。" },
+        { "point": "알다가도 모르겠어", "explanation": "慣用語，由 알다 (知道) + -다가도 (即使...也) + 모르다 (不知道) 組成，表示「好像懂了卻又不懂」，表達一種混亂、不確定的狀態。" }
+      ]
+    },
+    {
+      "korean": "maybe something happens to me",
+      "translation": "也許我身上發生了什麼事",
+      "analysis": [
+        { "point": "maybe something happens to me", "explanation": "英文歌詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "알다가도 모르다", "chinese": "搞不懂、好像懂又不懂", "pos": "片語" },
+    { "korean": "단어", "chinese": "單字", "pos": "名詞" },
+    { "korean": "배우다", "chinese": "學習", "pos": "動詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "감정", "chinese": "感情、情緒", "pos": "名詞" },
+    { "korean": "이름을 붙이다", "chinese": "取名字", "pos": "片語" },
+    { "korean": "재미", "chinese": "趣味", "pos": "名詞" },
+    { "korean": "없어지다", "chinese": "消失、變得沒有", "pos": "動詞" },
+    { "korean": "수줍다", "chinese": "害羞", "pos": "形容詞" },
+    { "korean": "상상", "chinese": "想像", "pos": "名詞" },
+    { "korean": "알게 모르게", "chinese": "不知不覺地、有意無意地", "pos": "副詞片語" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "문득", "chinese": "突然", "pos": "副詞" },
+    { "korean": "빛이 나다", "chinese": "發光", "pos": "片語" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "하루 종일", "chinese": "一整天", "pos": "副詞片語" },
+    { "korean": "들여다보다", "chinese": "凝視、窺看", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸碰、到達", "pos": "動詞" },
+    { "korean": "익숙해지다", "chinese": "變得熟悉", "pos": "動詞" },
+    { "korean": "서투르다", "chinese": "生疏、笨拙", "pos": "形容詞" },
+    { "korean": "설렘", "chinese": "心動", "pos": "名詞" },
+    { "korean": "알 듯 말 듯 하다", "chinese": "若即若離、似懂非懂", "pos": "片語" },
+    { "korean": "닿을 듯 말 듯 하다", "chinese": "若即若離、似觸非觸", "pos": "片語" }
+  ]
+}

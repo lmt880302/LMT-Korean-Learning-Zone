@@ -1,0 +1,317 @@
+{
+  "id": "minah-sarangieotda",
+  "title": "사랑이었다 (It Was Love)",
+  "artist": "MINAH (feat.정일훈)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "이게 사랑인지 뭔지 난 모르겠어",
+      "translation": "我不知道這究竟是愛還是什麼",
+      "analysis": [
+        { "point": "이게", "explanation": "이것이 (這個是) 的縮寫。" },
+        { "point": "사랑인지 뭔지", "explanation": "사랑 (愛) + -인지 (是否) + 뭐 (什麼) + -인지 (是否)，表示在兩者或多者間不確定。" },
+        { "point": "난 모르겠어", "explanation": "난 (我是) + 모르다 (不知道) 的未來推測式，常用於表達「我不知道」。" }
+      ]
+    },
+    {
+      "korean": "바라보는 눈안에 내가 서있는걸",
+      "translation": "在你凝視的雙眼裡 我看見自己站著",
+      "analysis": [
+        { "point": "바라보는 눈안에", "explanation": "바라보다 (凝視) 的定語形 + 눈 (眼睛) + 안 (裡面) + -에。" },
+        { "point": "내가 서있는걸", "explanation": "내가 (我) + 서 있다 (站著) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑이 아님 뭐가 사랑인건데",
+      "translation": "如果這不是愛 那什麼才是愛呢",
+      "analysis": [
+        { "point": "이게 사랑이 아님", "explanation": "이것이 사랑이 아니다 (這不是愛) + -(으)면 (如果)。" },
+        { "point": "뭐가 사랑인건데", "explanation": "뭐가 (什麼是) + 사랑 (愛) + -인 건데 (是...呢，用於反問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "아무리 또 애를써봐도",
+      "translation": "無論再怎麼努力",
+      "analysis": [
+        { "point": "아무리", "explanation": "副詞，無論如何。" },
+        { "point": "또", "explanation": "副詞，又、再。" },
+        { "point": "애를써봐도", "explanation": "애를 쓰다 (努力) + -어 보다 (試著...) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "아니라고 밀어내도",
+      "translation": "即使說著不是並將你推開",
+      "analysis": [
+        { "point": "아니라고", "explanation": "아니다 (不是) + -라고 (間接引述)。" },
+        { "point": "밀어내도", "explanation": "밀어내다 (推開) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "너는 봄이 돼 내게 분다",
+      "translation": "你化作春天向我吹來",
+      "analysis": [
+        { "point": "너는 봄이 돼", "explanation": "너는 (你是) + 봄 (春天) + -이 되다 (成為) 的連接形。" },
+        { "point": "내게 분다", "explanation": "내게 (對我) + 불다 (吹) 的現在式。" }
+      ]
+    },
+    {
+      "korean": "Blow blow",
+      "translation": "吹拂 吹拂",
+      "analysis": [
+        { "point": "Blow blow", "explanation": "英文單字，擬聲詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "온갖 수식어로 장식된 글 끝에 맺은 실패",
+      "translation": "在用各種修飾語裝飾的文章結尾所得到的失敗",
+      "analysis": [
+        { "point": "온갖 수식어로", "explanation": "온갖 (各種) + 수식어 (修飾語) + -로 (用)。" },
+        { "point": "장식된", "explanation": "장식되다 (被裝飾) 的過去定語形。" },
+        { "point": "글 끝에 맺은 실패", "explanation": "글 (文章) + 끝 (結尾) + -에 + 맺다 (맺다) 的過去定語形 + 실패 (失敗)。" }
+      ]
+    },
+    {
+      "korean": "내겐 그것들과 체감이 다른 마음의 실체",
+      "translation": "對我而言是和那些東西體感不同的心的實體",
+      "analysis": [
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮寫。" },
+        { "point": "그것들과", "explanation": "그것 (那個東西) + -들 (複數) + -과 (和)。" },
+        { "point": "체감이 다른", "explanation": "체감 (體感) + -이 다르다 (不同) 的定語形。" },
+        { "point": "마음의 실체", "explanation": "마음 (心) + -의 (的) + 실체 (實體)。" }
+      ]
+    },
+    {
+      "korean": "둥근 원이 아닌 조금 찌그러지고 날카롭기에",
+      "translation": "因為不是圓圓的圓形 而是有些歪曲且尖銳",
+      "analysis": [
+        { "point": "둥근 원이 아닌", "explanation": "둥글다 (圓) 的定語形 + 원 (圓) + -이 아니다 (不是)。" },
+        { "point": "조금 찌그러지고", "explanation": "조금 (稍微) + 찌그러지다 (歪曲、壓扁) + -고。" },
+        { "point": "날카롭기에", "explanation": "날카롭다 (尖銳) + -기에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "떨어뜨려 놓으면 어디로 튈지 몰라",
+      "translation": "若放手讓它掉落 不知會彈向何方",
+      "analysis": [
+        { "point": "떨어뜨려 놓으면", "explanation": "떨어뜨리다 (使掉落) + -어 놓다 (表示動作後的狀態持續) + -(으)면 (如果)。" },
+        { "point": "어디로 튈지 몰라", "explanation": "어디로 (往哪裡) + 튀다 (彈跳) + -(으)ㄹ지 모르다 (不知道會...)。" }
+      ]
+    },
+    {
+      "korean": "I’m still don’t know why I’m living this cold world",
+      "translation": "我仍然不知道為何我活在這冰冷的世界",
+      "analysis": [
+        { "point": "I’m still don’t know why I’m living this cold world", "explanation": "英文歌詞。文法上 'I don't know' 或 'I'm still wondering' 較常見。" }
+      ]
+    },
+    {
+      "korean": "누군가의 겨울이 내게는 되는 걸까 봄",
+      "translation": "某人的冬天對我而言會成為春天嗎",
+      "analysis": [
+        { "point": "누군가의 겨울이", "explanation": "누군가 (某人) + -의 (的) + 겨울 (冬天) + -이。" },
+        { "point": "내게는 되는 걸까", "explanation": "내게는 (對我來說) + 되다 (成為) + -는 걸까 (會...嗎)。" },
+        { "point": "봄", "explanation": "名詞，春天。" }
+      ]
+    },
+    {
+      "korean": "이 시간이 지나면 오히려 반대가 될지도",
+      "translation": "這段時間過去後 反而可能會變得相反也說不定",
+      "analysis": [
+        { "point": "이 시간이 지나면", "explanation": "這時間 + 經過的話。" },
+        { "point": "오히려", "explanation": "副詞，反而。" },
+        { "point": "반대가 될지도", "explanation": "반대 (相反) + -가 되다 (成為) + -(으)ㄹ지도 (也說不定)。" }
+      ]
+    },
+    {
+      "korean": "확실함보다 뜨거운 불확실속에 I call it love",
+      "translation": "在比確實更炙熱的不確定中 我稱之為愛",
+      "analysis": [
+        { "point": "확실함보다", "explanation": "확실함 (確實，名詞形) + -보다 (比起)。" },
+        { "point": "뜨거운 불확실속에", "explanation": "뜨겁다 (炙熱) 的定語形 + 불확실 (不確定) + 속 (裡面) + -에。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이게 사랑인지 뭔지 난 모르겠어",
+      "translation": "我不知道這究竟是愛還是什麼",
+      "analysis": [
+        { "point": "이게 사랑인지 뭔지 난 모르겠어", "explanation": "這 + 是愛還是什麼 + 我不知道。" }
+      ]
+    },
+    {
+      "korean": "바라보는 눈안에 내가 서있는걸",
+      "translation": "在你凝視的雙眼裡 我看見自己站著",
+      "analysis": [
+        { "point": "바라보는 눈안에 내가 서있는걸", "explanation": "凝視的眼中 + 我站著這件事。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑이 아님 뭐가 사랑인건데",
+      "translation": "如果這不是愛 那什麼才是愛呢",
+      "analysis": [
+        { "point": "이게 사랑이 아님 뭐가 사랑인건데", "explanation": "這不是愛的話 + 什麼是愛呢。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "누가 뭐래도 i would never forget us",
+      "translation": "不管誰說什麼我都不會忘記我們",
+      "analysis": [
+        { "point": "누가 뭐래도", "explanation": "누가 (誰) + 뭐라고 해도 (不管說什麼) 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "언제나 통제를 벗어나 흰 재로 불태워버리네 통째로",
+      "translation": "總是脫離控制 燒成白色的灰燼 全部",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，總是。" },
+        { "point": "통제를 벗어나", "explanation": "통제 (控制) + -를 + 벗어나다 (脫離)。" },
+        { "point": "흰 재로 불태워버리네", "explanation": "희다 (白) 的定語形 + 재 (灰燼) + -로 + 불태워버리다 (燒光) + -네 (感嘆)。" },
+        { "point": "통째로", "explanation": "副詞，整個、全部。" }
+      ]
+    },
+    {
+      "korean": "또 최면에 걸려 꿈꾼 채로 입을 열어 보채듯",
+      "translation": "又被催眠 像在夢中張開嘴哭鬧一般",
+      "analysis": [
+        { "point": "또 최면에 걸려", "explanation": "又 + 최면 (催眠) + -에 걸리다 (被...)。" },
+        { "point": "꿈꾼 채로", "explanation": "꿈(을) 꾸다 (做夢) 的定語形 + -ㄴ 채로 (保持...的狀態)。" },
+        { "point": "입을 열어 보채듯", "explanation": "張開嘴 + 보채다 (哭鬧) + -듯 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "불러보면 니가 나타나 어김없이 따라 추는 춤을",
+      "translation": "呼喚你的話你就會出現 我跟著你跳的舞",
+      "analysis": [
+        { "point": "불러보면", "explanation": "부르다 (呼喚) + -어 보다 (試著) + -(으)면 (如果)。" },
+        { "point": "니가 나타나", "explanation": "你出現。" },
+        { "point": "어김없이", "explanation": "副詞，必定、無誤地。" },
+        { "point": "따라 추는 춤을", "explanation": "따라 추다 (跟著跳) 的定語形 + 춤 (舞) + -을。" }
+      ]
+    },
+    {
+      "korean": "나 또한 따라서 발을 맞춰",
+      "translation": "我也跟著對上舞步",
+      "analysis": [
+        { "point": "나 또한", "explanation": "我也。" },
+        { "point": "따라서", "explanation": "따르다 (跟隨) 的連接形。" },
+        { "point": "발을 맞춰", "explanation": "발(을) 맞추다 (對上腳步) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "파고들면 들수록 복잡한 감정",
+      "translation": "越是深入就越複雜的感情",
+      "analysis": [
+        { "point": "파고들면 들수록", "explanation": "파고들다 (深入) + -(으)면 -(으)ㄹ수록 (越...越...)。" },
+        { "point": "복잡한 감정", "explanation": "복잡하다 (複雜) 的定語形 + 감정 (感情)。" }
+      ]
+    },
+    {
+      "korean": "격렬해지기 시작해 since I found her",
+      "translation": "開始變得激烈 since I found her",
+      "analysis": [
+        { "point": "격렬해지기 시작해", "explanation": "격렬해지다 (變得激烈) 的名詞形 + 시작하다 (開始)。" }
+      ]
+    },
+    {
+      "korean": "비바람을 뚫고 follow",
+      "translation": "衝破風雨 follow",
+      "analysis": [
+        { "point": "비바람을 뚫고", "explanation": "비바람 (風雨) + -을 + 뚫다 (衝破) + -고。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "I'll never forget that your loved",
+      "translation": "我永遠不會忘記你的愛",
+      "analysis": [
+        { "point": "I'll never forget that your loved", "explanation": "英文歌詞。此處 'your loved' 可能意指 'your love' 或 'you are loved'。" }
+      ]
+    },
+    {
+      "korean": "I'll never forget that your loved",
+      "translation": "我永遠不會忘記你的愛",
+      "analysis": [
+        { "point": "I'll never forget that your loved", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I'll never forget that your loved baby",
+      "translation": "寶貝 我永遠不會忘記你的愛",
+      "analysis": [
+        { "point": "I'll never forget that your loved baby", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "I'll never let you go baby",
+      "translation": "寶貝 我永遠不會讓你走",
+      "analysis": [
+        { "point": "I'll never let you go baby", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이게 사랑인지 뭔지 난 모르겠어",
+      "translation": "我不知道這究竟是愛還是什麼",
+      "analysis": [
+        { "point": "이게 사랑인지 뭔지 난 모르겠어", "explanation": "這 + 是愛還是什麼 + 我不知道。" }
+      ]
+    },
+    {
+      "korean": "바라보는 눈안에 내가 서있는걸",
+      "translation": "在你凝視的雙眼裡 我看見自己站著",
+      "analysis": [
+        { "point": "바라보는 눈안에 내가 서있는걸", "explanation": "凝視的眼中 + 我站著這件事。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑이 아님 뭐가 사랑인건데",
+      "translation": "如果這不是愛 那什麼才是愛呢",
+      "analysis": [
+        { "point": "이게 사랑이 아님 뭐가 사랑인건데", "explanation": "這不是愛的話 + 什麼是愛呢。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "서 있다", "chinese": "站著", "pos": "片語" },
+    { "korean": "아무리", "chinese": "無論如何", "pos": "副詞" },
+    { "korean": "애를 쓰다", "chinese": "努力", "pos": "片語" },
+    { "korean": "밀어내다", "chinese": "推開", "pos": "動詞" },
+    { "korean": "봄", "chinese": "春天", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "온갖", "chinese": "各種", "pos": "冠形詞" },
+    { "korean": "수식어", "chinese": "修飾語", "pos": "名詞" },
+    { "korean": "장식되다", "chinese": "被裝飾", "pos": "動詞" },
+    { "korean": "실패", "chinese": "失敗", "pos": "名詞" },
+    { "korean": "체감", "chinese": "體感", "pos": "名詞" },
+    { "korean": "실체", "chinese": "實體", "pos": "名詞" },
+    { "korean": "둥글다", "chinese": "圓的", "pos": "形容詞" },
+    { "korean": "찌그러지다", "chinese": "歪曲、壓扁", "pos": "動詞" },
+    { "korean": "날카롭다", "chinese": "尖銳", "pos": "形容詞" },
+    { "korean": "떨어뜨리다", "chinese": "使掉落", "pos": "動詞" },
+    { "korean": "튀다", "chinese": "彈跳", "pos": "動詞" },
+    { "korean": "겨울", "chinese": "冬天", "pos": "名詞" },
+    { "korean": "오히려", "chinese": "反而", "pos": "副詞" },
+    { "korean": "반대", "chinese": "相反", "pos": "名詞" },
+    { "korean": "확실함", "chinese": "確實(性)", "pos": "名詞" },
+    { "korean": "뜨겁다", "chinese": "炙熱", "pos": "形容詞" },
+    { "korean": "불확실", "chinese": "不確定", "pos": "名詞" },
+    { "korean": "통제", "chinese": "控制", "pos": "名詞" },
+    { "korean": "벗어나다", "chinese": "脫離", "pos": "動詞" },
+    { "korean": "재", "chinese": "灰燼", "pos": "名詞" },
+    { "korean": "불태우다", "chinese": "燒毀", "pos": "動詞" },
+    { "korean": "통째로", "chinese": "整個地", "pos": "副詞" },
+    { "korean": "최면", "chinese": "催眠", "pos": "名詞" },
+    { "korean": "보채다", "chinese": "哭鬧", "pos": "動詞" },
+    { "korean": "어김없이", "chinese": "必定、無誤地", "pos": "副詞" },
+    { "korean": "발을 맞추다", "chinese": "對上舞步", "pos": "片語" },
+    { "korean": "복잡하다", "chinese": "複雜", "pos": "形容詞" },
+    { "korean": "격렬해지다", "chinese": "變得激烈", "pos": "動詞" },
+    { "korean": "비바람", "chinese": "風雨", "pos": "名詞" },
+    { "korean": "뚫다", "chinese": "穿透、衝破", "pos": "動詞" }
+  ]
+}

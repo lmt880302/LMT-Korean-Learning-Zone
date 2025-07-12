@@ -1,0 +1,539 @@
+{
+  "id": "minah-ani",
+  "title": "아니",
+  "artist": "MINAH (feat. 이민혁)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1 (Lee Minhyuk)",
+      "korean": "말이안돼",
+      "translation": "太不像話了",
+      "analysis": [
+        { "point": "말이안돼", "explanation": "말이 안 되다 (不像話、不合理) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어떤 표현도 적당치않네",
+      "translation": "任何表達也都不恰當",
+      "analysis": [
+        { "point": "어떤 표현도", "explanation": "어떤 (任何) + 표현 (表達) + -도 (也)。" },
+        { "point": "적당치않네", "explanation": "적당하지 않네 (不恰當) 的縮寫，由 적당하다 (恰當) + -지 않다 (不) + -네 (感嘆) 組成。" }
+      ]
+    },
+    {
+      "korean": "어떻게 이런 여자가 이 땅에 존재해",
+      "translation": "怎麼會有這樣的女人存在於這片土地上",
+      "analysis": [
+        { "point": "어떻게", "explanation": "副詞，怎麼、如何。" },
+        { "point": "이런 여자가", "explanation": "這樣的女人(主格)。" },
+        { "point": "이 땅에 존재해", "explanation": "這片土地上 + 존재하다 (存在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 형용하기엔 세상의 단어가 참 부족해",
+      "translation": "要形容你 世界上的詞彙真是太貧乏",
+      "analysis": [
+        { "point": "널 형용하기엔", "explanation": "널 (你) + 형용하다 (形容) + -기에는 (對於做...來說)。" },
+        { "point": "세상의 단어가", "explanation": "世界的詞彙(主格)。" },
+        { "point": "참 부족해", "explanation": "真是 + 부족하다 (不足) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 브리핑하는건 애초에 포기상태",
+      "translation": "要簡報你這件事打從一開始就放棄了",
+      "analysis": [
+        { "point": "널 브리핑하는건", "explanation": "你(受格) + briefing + 하다 (做) + -는 것 (這件事)。" },
+        { "point": "애초에 포기상태", "explanation": "애초에 (打從一開始) + 포기 (放棄) + 상태 (狀態)。" }
+      ]
+    },
+    {
+      "korean": "넌 어느 별에서 왔니 분명한건",
+      "translation": "你是從哪個星球來的 肯定的是",
+      "analysis": [
+        { "point": "넌 어느 별에서 왔니", "explanation": "你 + 哪個星球 + 從...來 + -니 (疑問)。" },
+        { "point": "분명한건", "explanation": "분명하다 (分明、肯定) 的定語形 + 것 (事情) + -은。" }
+      ]
+    },
+    {
+      "korean": "너와 나 사이 이별은 별 일 없지",
+      "translation": "你我之間不會有離別這種事吧",
+      "analysis": [
+        { "point": "너와 나 사이", "explanation": "你和我之間。" },
+        { "point": "이별은 별 일 없지", "explanation": "離別(主題) + 별일 없다 (沒什麼特別的事) + -지 (確認)。" }
+      ]
+    },
+    {
+      "korean": "넌 아침을 안아주는 햇살같이",
+      "translation": "你就像擁抱早晨的陽光一樣",
+      "analysis": [
+        { "point": "아침을 안아주는", "explanation": "早晨(受格) + 안아주다 (擁抱) 的定語形。" },
+        { "point": "햇살같이", "explanation": "햇살 (陽光) + -같이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내 마음을 감싸줘 참 따스하게",
+      "translation": "包圍著我的心 真是溫暖",
+      "analysis": [
+        { "point": "내 마음을 감싸줘", "explanation": "我的心(受格) + 감싸주다 (包圍) 的非格式體。" },
+        { "point": "참 따스하게", "explanation": "真是 + 따스하다 (溫暖) 的副詞形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus (Minah)",
+      "korean": "Lonely 내 맘에 너의 온기가",
+      "translation": "Lonely 在我心中 你的溫暖",
+      "analysis": [
+        { "point": "내 맘에", "explanation": "我心裡。" },
+        { "point": "너의 온기가", "explanation": "你的溫暖(主格)。" }
+      ]
+    },
+    {
+      "korean": "Only 나를 향한 너의 숨결이",
+      "translation": "Only 向著我的 你的氣息",
+      "analysis": [
+        { "point": "나를 향한", "explanation": "我(受格) + 향하다 (朝向) 的定語形。" },
+        { "point": "너의 숨결이", "explanation": "你的氣息(主格)。" }
+      ]
+    },
+    {
+      "korean": "눈부신 별처럼 흰 눈꽃처럼",
+      "translation": "像耀眼的星星 像白色的雪花",
+      "analysis": [
+        { "point": "눈부신 별처럼", "explanation": "耀眼的星星 + 像...一樣。" },
+        { "point": "흰 눈꽃처럼", "explanation": "白色的雪花 + 像...一樣。" }
+      ]
+    },
+    {
+      "korean": "하얗게 피어나 사랑이 되고",
+      "translation": "潔白地綻放 成為了愛",
+      "analysis": [
+        { "point": "하얗게 피어나", "explanation": "하얗다 (白) 的副詞形 + 피어나다 (綻放)。" },
+        { "point": "사랑이 되고", "explanation": "愛(主格) + 되다 (成為) + -고。" }
+      ]
+    },
+    {
+      "korean": "꿈꿔온 시간들 멀기만 했던",
+      "translation": "曾夢想的時光 曾只覺遙遠的",
+      "analysis": [
+        { "point": "꿈꿔온 시간들", "explanation": "꿈꾸다 (夢想) + -어 오다 (一直以來) 的定語形 + 시간들 (時光們)。" },
+        { "point": "멀기만 했던", "explanation": "멀다 (遠) + -기만 하다 (只是) 的過去回想動詞定語形。" }
+      ]
+    },
+    {
+      "korean": "행복은 그렇게 내 것이 돼",
+      "translation": "幸福就那樣成為了我的",
+      "analysis": [
+        { "point": "행복은 그렇게", "explanation": "幸福(主題) + 那樣地。" },
+        { "point": "내 것이 돼", "explanation": "我的東西 + 되다 (成為) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Minah)",
+      "korean": "아니..",
+      "translation": "你知道嗎..",
+      "analysis": [
+        { "point": "아니", "explanation": "알다 (知道) + -니 (疑問)，口語中用於提問「你知道嗎？」。" }
+      ]
+    },
+    {
+      "korean": "처음부터 너란 걸",
+      "translation": "從一開始就是你這件事",
+      "analysis": [
+        { "point": "처음부터", "explanation": "從一開始。" },
+        { "point": "너란 걸", "explanation": "너라는 것 (是你這件事) 的縮寫。" }
+      ]
+    },
+    {
+      "korean": "너와 난 운명이란 걸",
+      "translation": "你和我是命運這件事",
+      "analysis": [
+        { "point": "너와 난", "explanation": "你和我。" },
+        { "point": "운명이란 걸", "explanation": "是命運這件事。" }
+      ]
+    },
+    {
+      "korean": "지워낼 틈도 없이 너만 사는 내 맘 아니",
+      "translation": "你知道我心中連抹去的空隙都沒有 只住著你嗎",
+      "analysis": [
+        { "point": "지워낼 틈도 없이", "explanation": "抹去 + 空隙也 + 沒有。" },
+        { "point": "너만 사는 내 맘", "explanation": "只有你 + 住著的 + 我的心。" },
+        { "point": "아니", "explanation": "你知道嗎？" }
+      ]
+    },
+    {
+      "korean": "너를 부르고 너의 품 안에 안길 때",
+      "translation": "呼喚著你 被擁入你懷中時",
+      "analysis": [
+        { "point": "너를 부르고", "explanation": "呼喚你。" },
+        { "point": "너의 품 안에 안길 때", "explanation": "你的懷中 + 被擁抱時。" }
+      ]
+    },
+    {
+      "korean": "내가 알던 세상은 동화 같은 천국이 돼",
+      "translation": "我所知的世界就變成了如童話般的天堂",
+      "analysis": [
+        { "point": "내가 알던 세상은", "explanation": "我所知道的世界。" },
+        { "point": "동화 같은 천국이 돼", "explanation": "像童話一樣的天堂 + 成為。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (Lee Minhyuk)",
+      "korean": "You make me smile again",
+      "translation": "你再次讓我微笑",
+      "analysis": [
+        { "point": "You make me smile again", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "So I just wanna tell you i am",
+      "translation": "所以我只想告訴你我是",
+      "analysis": [
+        { "point": "So I just wanna tell you i am", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "1월의 시작부터 그 해 마지막까지 널 지켜줄게",
+      "translation": "從1月的開始到那年的最後 我都會守護你",
+      "analysis": [
+        { "point": "1월의 시작부터", "explanation": "1月的開始 + 從...。" },
+        { "point": "그 해 마지막까지", "explanation": "那年 + 最後 + 到...為止。" },
+        { "point": "널 지켜줄게", "explanation": "你(受格) + 지켜주다 (守護) + -(으)ㄹ게 (我會...)." }
+      ]
+    },
+    {
+      "korean": "You make me happy again",
+      "translation": "你再次讓我快樂",
+      "analysis": [
+        { "point": "You make me happy again", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "So I just wanna tell you i am",
+      "translation": "所以我只想告訴你我是",
+      "analysis": [
+        { "point": "So I just wanna tell you i am", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "세상이 온통 널 속이더라도 너만을 믿어줄게",
+      "translation": "即使全世界都欺騙你 我也只會相信你",
+      "analysis": [
+        { "point": "세상이 온통", "explanation": "世界 + 全部。" },
+        { "point": "널 속이더라도", "explanation": "你(受格) + 속이다 (欺騙) + -더라도 (即使...也)。" },
+        { "point": "너만을 믿어줄게", "explanation": "只有你(受格) + 믿어주다 (相信) + -(으)ㄹ게 (我會...)." }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus (Minah)",
+      "korean": "어쩜 그칠 수 없는 눈물로",
+      "translation": "也許會因無法停止的眼淚",
+      "analysis": [
+        { "point": "어쩜", "explanation": "어쩌면 (也許) 的縮寫。" },
+        { "point": "그칠 수 없는 눈물로", "explanation": "無法停止的眼淚 + (으)로 (因為)。" }
+      ]
+    },
+    {
+      "korean": "다신 부를 수가 없을 너라도",
+      "translation": "即使是再也無法呼喚的你",
+      "analysis": [
+        { "point": "다신", "explanation": "다시는 (再次) 的縮寫。" },
+        { "point": "부를 수가 없을 너라도", "explanation": "無法呼喚的你 + -(이)라도 (即使是...)。" }
+      ]
+    },
+    {
+      "korean": "후회하지 않게 더 감사하게",
+      "translation": "為了不後悔 更加感謝地",
+      "analysis": [
+        { "point": "후회하지 않게", "explanation": "後悔 + -지 않게 (為了不...)。" },
+        { "point": "더 감사하게", "explanation": "更 + 感謝地。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑하고 널 바라볼게",
+      "translation": "我會愛著你 凝望著你",
+      "analysis": [
+        { "point": "너를 사랑하고", "explanation": "愛你。" },
+        { "point": "널 바라볼게", "explanation": "凝望你 + -(으)ㄹ게 (我會...)." }
+      ]
+    },
+    {
+      "korean": "작은 기적 같은 너와의 모든 순간이 전부가 될 때까지",
+      "translation": "直到與你之間如小小奇蹟般的每個瞬間成為我的全部",
+      "analysis": [
+        { "point": "작은 기적 같은", "explanation": "小小的奇蹟般的。" },
+        { "point": "너와의 모든 순간이", "explanation": "與你的所有瞬間(主格)。" },
+        { "point": "전부가 될 때까지", "explanation": "成為全部 + 到...為止。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Minah)",
+      "korean": "아니..",
+      "translation": "你知道嗎..",
+      "analysis": [
+        { "point": "아니", "explanation": "你知道嗎？" }
+      ]
+    },
+    {
+      "korean": "처음부터 너란 걸",
+      "translation": "從一開始就是你這件事",
+      "analysis": [
+        { "point": "처음부터 너란 걸", "explanation": "從一開始 + 是你這件事。" }
+      ]
+    },
+    {
+      "korean": "너와 난 운명이란 걸",
+      "translation": "你和我是命運這件事",
+      "analysis": [
+        { "point": "너와 난 운명이란 걸", "explanation": "你和我 + 是命運這件事。" }
+      ]
+    },
+    {
+      "korean": "지워낼 틈도 없이 너만 사는 내 맘 아니",
+      "translation": "你知道我心中連抹去的空隙都沒有 只住著你嗎",
+      "analysis": [
+        { "point": "지워낼 틈도 없이 너만 사는 내 맘 아니", "explanation": "連抹去的空隙都沒有 + 只住著你的我的心 + 你知道嗎？" }
+      ]
+    },
+    {
+      "korean": "너를 부르고 너의 품 안에 안길 때",
+      "translation": "呼喚著你 被擁入你懷中時",
+      "analysis": [
+        { "point": "너를 부르고 너의 품 안에 안길 때", "explanation": "呼喚你 + 被擁入你懷中時。" }
+      ]
+    },
+    {
+      "korean": "내가 알던 세상은 동화 같은 천국이 돼",
+      "translation": "我所知的世界就變成了如童話般的天堂",
+      "analysis": [
+        { "point": "내가 알던 세상은 동화 같은 천국이 돼", "explanation": "我所知的世界 + 成為像童話般的天堂。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge (Lee Minhyuk)",
+      "korean": "널 아끼고싶어서 꾹 참아보지만",
+      "translation": "因為想珍惜你 所以試著強忍著",
+      "analysis": [
+        { "point": "널 아끼고싶어서", "explanation": "珍惜你 + -고 싶어서 (因為想)。" },
+        { "point": "꾹 참아보지만", "explanation": "強忍 + -아 보다 (試著) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "차마 거짓말은 못하겠다 널 안고싶어",
+      "translation": "實在無法說謊 我想擁抱你",
+      "analysis": [
+        { "point": "차마", "explanation": "副詞，(因於心不忍而)無法、實在。" },
+        { "point": "거짓말은 못하겠다", "explanation": "謊言(主題) + 無法做。" },
+        { "point": "널 안고싶어", "explanation": "想擁抱你。" }
+      ]
+    },
+    {
+      "korean": "내 품안에서 수줍게 피어오른 그대여",
+      "translation": "在我懷中害羞地綻放的你啊",
+      "analysis": [
+        { "point": "내 품안에서", "explanation": "在我懷中。" },
+        { "point": "수줍게 피어오른", "explanation": "害羞地 + 綻放的。" },
+        { "point": "그대여", "explanation": "你啊 (呼格)。" }
+      ]
+    },
+    {
+      "korean": "발그레한 네 두 볼을 살짝 꼬집고싶어",
+      "translation": "想輕輕地捏一下你紅通通的雙頰",
+      "analysis": [
+        { "point": "발그레한", "explanation": "발그레하다 (紅通通) 的定語形。" },
+        { "point": "네 두 볼을", "explanation": "你的雙頰(受格)。" },
+        { "point": "살짝 꼬집고싶어", "explanation": "輕輕地 + 想捏。" }
+      ]
+    },
+    {
+      "korean": "그래 넌 물음표만 가득했던 내게 느낌표를 줘",
+      "translation": "是啊 你給了曾充滿問號的我一個驚嘆號",
+      "analysis": [
+        { "point": "그래 넌", "explanation": "是啊 你。" },
+        { "point": "물음표만 가득했던 내게", "explanation": "只充滿問號的我에게。" },
+        { "point": "느낌표를 줘", "explanation": "驚嘆號(受格) + 給予。" }
+      ]
+    },
+    {
+      "korean": "숨가쁘게 달리기만했던 내게 쉼표를 줘",
+      "translation": "給了曾只會喘不過氣地奔跑的我一個逗號",
+      "analysis": [
+        { "point": "숨가쁘게 달리기만했던 내게", "explanation": "曾只會喘不過氣地奔跑的我에게。" },
+        { "point": "쉼표를 줘", "explanation": "逗號(受格) + 給予。" }
+      ]
+    },
+    {
+      "korean": "내 마침표가 돼줘",
+      "translation": "成為我的句點吧",
+      "analysis": [
+        { "point": "내 마침표가 돼줘", "explanation": "我的句點 + 成為(命令式)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 너로 정의해줘",
+      "translation": "用你來定義愛情吧",
+      "analysis": [
+        { "point": "사랑을 너로 정의해줘", "explanation": "愛情(受格) + 用你 + 定義(命令式)。" }
+      ]
+    },
+    {
+      "korean": "영원히 서로가 서로의 현재이기를 바라고 또 믿어",
+      "translation": "永遠盼望並相信著彼此是彼此的現在",
+      "analysis": [
+        { "point": "영원히", "explanation": "永遠地。" },
+        { "point": "서로가 서로의 현재이기를", "explanation": "彼此是彼此的現在這件事。" },
+        { "point": "바라고 또 믿어", "explanation": "盼望著又相信著。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus (Minah)",
+      "korean": "아니..",
+      "translation": "你知道嗎..",
+      "analysis": [
+        { "point": "아니", "explanation": "你知道嗎？" }
+      ]
+    },
+    {
+      "korean": "선물 같은 오늘이",
+      "translation": "像禮物般的今天",
+      "analysis": [
+        { "point": "선물 같은 오늘이", "explanation": "像禮物般的今天(主格)。" }
+      ]
+    },
+    {
+      "korean": "꿈만 같은 이 행복이",
+      "translation": "如夢般的這份幸福",
+      "analysis": [
+        { "point": "꿈만 같은 이 행복이", "explanation": "如夢般的這份幸福(主格)。" }
+      ]
+    },
+    {
+      "korean": "나에겐 고맙도록 눈물 나는 일이란 걸",
+      "translation": "對我而言是感謝到流淚的事",
+      "analysis": [
+        { "point": "나에겐", "explanation": "對我而言。" },
+        { "point": "고맙도록", "explanation": "感謝到...的程度。" },
+        { "point": "눈물 나는 일이란 걸", "explanation": "流淚的事這件事。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑해",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "너를 사랑해", "explanation": "我愛你。" }
+      ]
+    },
+    {
+      "korean": "내 맘 깊이 쌓여가는",
+      "translation": "在我心中深深堆積的",
+      "analysis": [
+        { "point": "내 맘 깊이", "explanation": "我心中深深地。" },
+        { "point": "쌓여가는", "explanation": "쌓이다 (堆積) + -어 가다 (持續進行)。" }
+      ]
+    },
+    {
+      "korean": "소리 없이 내리는",
+      "translation": "無聲地降下的",
+      "analysis": [
+        { "point": "소리 없이 내리는", "explanation": "無聲地 + 降下的。" }
+      ]
+    },
+    {
+      "korean": "어느 겨울 흰 눈처럼",
+      "translation": "像某個冬天的白雪一樣",
+      "analysis": [
+        { "point": "어느 겨울 흰 눈처럼", "explanation": "某個冬天 + 白雪 + 像...一樣。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro (Lee Minhyuk & Minah)",
+      "korean": "You make me smile again",
+      "translation": "你再次讓我微笑",
+      "analysis": [
+        { "point": "You make me smile again", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "So I just wanna tell you i am",
+      "translation": "所以我只想告訴你我是",
+      "analysis": [
+        { "point": "So I just wanna tell you i am", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "1월의 시작부터 그 해 마지막까지 널 지켜줄게",
+      "translation": "從1月的開始到那年的最後 我都會守護你",
+      "analysis": [
+        { "point": "1월의 시작부터 그 해 마지막까지 널 지켜줄게", "explanation": "從1月開始到那年最後都會守護你。" }
+      ]
+    },
+    {
+      "korean": "You make me happy again",
+      "translation": "你再次讓我快樂",
+      "analysis": [
+        { "point": "You make me happy again", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "So I just wanna tell you i am",
+      "translation": "所以我只想告訴你我是",
+      "analysis": [
+        { "point": "So I just wanna tell you i am", "explanation": "英文歌詞。" }
+      ]
+    },
+    {
+      "korean": "세상이 온통 널 속이더라도 너만을 믿어줄게",
+      "translation": "即使全世界都欺騙你 我也只會相信你",
+      "analysis": [
+        { "point": "세상이 온통 널 속이더라도 너만을 믿어줄게", "explanation": "即使世界都欺騙你我也只會相信你。" }
+      ]
+    },
+    {
+      "korean": "내 맘 아니",
+      "translation": "你知道我的心嗎",
+      "analysis": [
+        { "point": "내 맘 아니", "explanation": "我的心 + 你知道嗎？" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "말이 안 되다", "chinese": "不像話、不合理", "pos": "片語" },
+    { "korean": "적당하다", "chinese": "恰當", "pos": "形容詞" },
+    { "korean": "존재하다", "chinese": "存在", "pos": "動詞" },
+    { "korean": "형용하다", "chinese": "形容", "pos": "動詞" },
+    { "korean": "부족하다", "chinese": "不足", "pos": "形容詞" },
+    { "korean": "애초에", "chinese": "打從一開始", "pos": "副詞" },
+    { "korean": "분명하다", "chinese": "分明、肯定", "pos": "形容詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "감싸다", "chinese": "包圍、呵護", "pos": "動詞" },
+    { "korean": "온기", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "숨결", "chinese": "氣息", "pos": "名詞" },
+    { "korean": "눈부시다", "chinese": "耀眼", "pos": "形容詞" },
+    { "korean": "눈꽃", "chinese": "雪花", "pos": "名詞" },
+    { "korean": "피어나다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "꿈꾸다", "chinese": "夢想", "pos": "動詞" },
+    { "korean": "운명", "chinese": "命運", "pos": "名詞" },
+    { "korean": "틈", "chinese": "空隙", "pos": "名詞" },
+    { "korean": "안기다", "chinese": "被擁抱", "pos": "動詞" },
+    { "korean": "동화", "chinese": "童話", "pos": "名詞" },
+    { "korean": "천국", "chinese": "天堂", "pos": "名詞" },
+    { "korean": "지켜주다", "chinese": "守護", "pos": "動詞" },
+    { "korean": "속이다", "chinese": "欺騙", "pos": "動詞" },
+    { "korean": "믿어주다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "그치다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
+    { "korean": "감사하다", "chinese": "感謝", "pos": "動詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "아끼다", "chinese": "珍惜", "pos": "動詞" },
+    { "korean": "차마", "chinese": "(不忍心而)無法", "pos": "副詞" },
+    { "korean": "수줍다", "chinese": "害羞", "pos": "形容詞" },
+    { "korean": "발그레하다", "chinese": "紅通通", "pos": "形容詞" },
+    { "korean": "꼬집다", "chinese": "捏", "pos": "動詞" },
+    { "korean": "물음표", "chinese": "問號", "pos": "名詞" },
+    { "korean": "느낌표", "chinese": "驚嘆號", "pos": "名詞" },
+    { "korean": "쉼표", "chinese": "逗號", "pos": "名詞" },
+    { "korean": "마침표", "chinese": "句點", "pos": "名詞" },
+    { "korean": "정의하다", "chinese": "定義", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "선물", "chinese": "禮物", "pos": "名詞" },
+    { "korean": "쌓이다", "chinese": "堆積", "pos": "動詞" }
+  ]
+}
