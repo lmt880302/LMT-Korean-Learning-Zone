@@ -8,18 +8,8 @@
 │   └── style.css                  # CSS 樣式
 ├── data/
 │   ├── lyrics/                    # 歌詞 JSON 檔案
-│   │   ├── mind-u-chwihangime.json
-│   │   ├── mind-u-geuge-mworago.json
-│   │   ├── mind-u-maeumeul-beneun-nat.json
-│   │   ├── another-song.json
-│   │   ├── epikhigh-chupda.json
-│   │   ├── epikhigh-nae-maeum-deullinayo.json
-│   │   ├── girlsday-bogosipeo.json
-│   │   ├── girlsday-come-slowly.json
-│   │   ├── girlsday-gidaehae.json
-│   │   ├── girlsday-if-you-give-me-your-heart.json
-│   │   ├── girlsday-something.json
-│   │   ├── girlsday-thirsty.json
+│   │   ├── __________________.json
+│   │   ├── __________________.json
 │   ├── grammar.json               # 文法資料
 │   ├── songs_list.json            # 歌曲列表
 │   └── vocabulary.json            # 單字資料
