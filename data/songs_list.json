@@ -278,9 +278,9 @@
   },    
   {
     "id": "minah-alge-moreuge",
-    "title": "Butterfly(알게 모르게)",
+    "title": "Butterfly (알게 모르게)",
     "artist": "MINAH (민아)",
-    "lyricsFile": "../data/lyrics/minah-alge-moreuge.json"
+    "lyricsFile": "../data/lyrics/butterfly.json"
   }, 
   {
     "id": "minah-isanghada-cham",
