@@ -11,12 +11,12 @@
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
   },
-  {
+  /*{
     "id": "boynextdoor-123-78",
     "title": "123-78",
     "artist": "BOYNEXTDOOR",
     "lyricsFile": "../data/lyrics/boynextdoor-123-78.json"
-  },
+  },*/
 
   {
     "id": "epikhigh-screen-time",
