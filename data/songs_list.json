@@ -248,6 +248,12 @@
     "lyricsFile": "../data/lyrics/girlsday-what-to-do.json"
   },  
   {
+    "id": "girlsday-macaron",
+    "title": "마카롱 (Macaron)",
+    "artist": "Girl's Day (걸스데이)",  
+    "lyricsFile": "../data/lyrics/girlsday-macaron.json"
+  },  
+  {
     "id": "kassy-story-of-night-fall",
     "title": "Story of night fall",
     "artist": "Kassy",
@@ -325,8 +331,12 @@
     "artist": "MINAH (민아)",
     "lyricsFile": "../data/lyrics/minah-hwasahan-geunyeo.json"
   },  
-
-
+  {
+  "id": "minah-once-again",
+  "title": "한 번만 들어줘 (Once again)",
+  "artist": "MINAH (민아)",
+  "lyricsFile": "../data/lyrics/minah-once-again.json"
+  },  
   {
     "id": "mind-u-a-night-full-of-longing",
     "title": "A night full of longing",

@@ -1,0 +1,402 @@
+{
+  "id": "minah-once-again",
+  "title": "한 번만 들어줘 (Once again)",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "오늘은 날이 좋아서",
+      "translation": "今天天氣很好",
+      "analysis": [
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "날이 좋아서", "explanation": "날씨가 좋다 (天氣好) 的縮略 + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "혼자서 나와봤어",
+      "translation": "獨自一人出來走走",
+      "analysis": [
+        { "point": "혼자서", "explanation": "副詞，獨自地。" },
+        { "point": "나와봤어", "explanation": "나오다 (出來) + -아/어 보다 (試著做...) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "구름 한 점 없는 하늘 멍해지더라",
+      "translation": "萬里無雲的天空 讓我放空了起來",
+      "analysis": [
+        { "point": "구름 한 점 없는", "explanation": "구름 (雲) + 한 점 (一點) + 없다 (沒有) 的定語形。" },
+        { "point": "하늘", "explanation": "名詞，天空。" },
+        { "point": "멍해지더라", "explanation": "멍해지다 (變得呆滯、放空) + -더라 (表示過去回想的語尾)。" }
+      ]
+    },
+    {
+      "korean": "생각 없이 걷다 보면",
+      "translation": "漫無目的地走著走著",
+      "analysis": [
+        { "point": "생각 없이", "explanation": "생각 (想法) + 없이 (沒有地)。" },
+        { "point": "걷다 보면", "explanation": "걷다 (走路) + -다 보면 (慣用型，持續做某動作的話)。" }
+      ]
+    },
+    {
+      "korean": "눈시울이 뜨거워지면서",
+      "translation": "眼眶一邊發熱",
+      "analysis": [
+        { "point": "눈시울이", "explanation": "눈시울 (眼眶) + -이 (主格助詞)。" },
+        { "point": "뜨거워지면서", "explanation": "뜨거워지다 (變熱) + -(으)면서 (同時)。" }
+      ]
+    },
+    {
+      "korean": "또 네 생각이 났어",
+      "translation": "又想起了你",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "네 생각이 났어", "explanation": "네 (你的) + 생각 (想法) + -이 나다 (想起) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "네가 없는 내 모습이",
+      "translation": "沒有你的我的模樣",
+      "analysis": [
+        { "point": "네가 없는", "explanation": "네가 (你) + 없다 (沒有) 的定語形。" },
+        { "point": "내 모습이", "explanation": "내 (我的) + 모습 (模樣) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "익숙하지가 않아서",
+      "translation": "因為還不習慣",
+      "analysis": [
+        { "point": "익숙하지가 않아서", "explanation": "익숙하다 (習慣) + -지가 않다 (否定形式) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "아직 널 잊지 못해서",
+      "translation": "因為還無法忘記你",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "널 잊지 못해서", "explanation": "너를 (你) 的縮略 + 잊다 (忘記) + -지 못하다 (無法) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "보고 싶어져서 찾아갔어",
+      "translation": "因為變得想念而去找你了",
+      "analysis": [
+        { "point": "보고 싶어져서", "explanation": "보고 싶어지다 (變得想念) + -아서 (因為)。" },
+        { "point": "찾아갔어", "explanation": "찾아가다 (去找) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈물은 왜 흘러나와",
+      "translation": "眼淚為什麼流下來",
+      "analysis": [
+        { "point": "눈물은", "explanation": "눈물 (眼淚) + -은 (主題助詞)。" },
+        { "point": "왜 흘러나와", "explanation": "왜 (為什麼) + 흘러나오다 (流出來)。" }
+      ]
+    },
+    {
+      "korean": "뭐라고 한 마디도 못하게",
+      "translation": "讓我一句話也說不出口",
+      "analysis": [
+        { "point": "뭐라고", "explanation": "代名詞，什麼。" },
+        { "point": "한 마디도", "explanation": "한 (一) + 마디 (句) + -도 (也)。" },
+        { "point": "못하게", "explanation": "못하다 (不能) + -게 (使役形，使得...)。" }
+      ]
+    },
+    {
+      "korean": "입술이 또 떨려와서",
+      "translation": "嘴唇又顫抖起來",
+      "analysis": [
+        { "point": "입술이", "explanation": "입술 (嘴唇) + -이 (主格助詞)。" },
+        { "point": "또 떨려와서", "explanation": "또 (又) + 떨려오다 (顫抖起來) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "네 옷깃만 붙잡았어",
+      "translation": "只抓住了你的衣領",
+      "analysis": [
+        { "point": "네 옷깃만", "explanation": "네 (你的) + 옷깃 (衣領) + -만 (只)。" },
+        { "point": "붙잡았어", "explanation": "붙잡다 (抓住) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "제발 내 말을 좀 들어봐줘",
+      "translation": "拜託請聽我說句話",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託。" },
+        { "point": "내 말을 좀", "explanation": "내 (我的) + 말 (話) + -을 (受格助詞) + 좀 (稍微)。" },
+        { "point": "들어봐줘", "explanation": "들어보다 (聽聽看) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "가지 말란 말도 못 했던 내가",
+      "translation": "連不要走這句話都說不出口的我",
+      "analysis": [
+        { "point": "가지 말란", "explanation": "가지 말라는 (叫你不要走) 的縮略。" },
+        { "point": "말도 못 했던 내가", "explanation": "말 (話) + -도 (也) + 못 하다 (不能) 的過去定語形 + 내가 (我)。" }
+      ]
+    },
+    {
+      "korean": "이제 와서 후회해도",
+      "translation": "事到如今才後悔也好",
+      "analysis": [
+        { "point": "이제 와서", "explanation": "慣用型，事到如今。" },
+        { "point": "후회해도", "explanation": "후회하다 (後悔) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "미련해 보여도",
+      "translation": "看起來很迷戀也好",
+      "analysis": [
+        { "point": "미련해 보여도", "explanation": "미련하다 (迷戀、依戀不捨) + -아/어 보이다 (看起來) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "꼭 한 번만 내 얘길 들어줘",
+      "translation": "請務必聽我說一次",
+      "analysis": [
+        { "point": "꼭 한 번만", "explanation": "꼭 (務必) + 한 번 (一次) + -만 (只)。" },
+        { "point": "내 얘길 들어줘", "explanation": "내 얘기 (我的故事/話) + -를 (受格助詞) + 들어주다 (傾聽)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "너라는 사람이 내게",
+      "translation": "名為你的這個人對我而言",
+      "analysis": [
+        { "point": "너라는 사람이", "explanation": "너 (你) + -(이)라는 (名為...) + 사람 (人) + -이 (主格助詞)。" },
+        { "point": "내게", "explanation": "나에게 (對我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "소중한 줄도 모르고",
+      "translation": "都不知道有多麼珍貴",
+      "analysis": [
+        { "point": "소중한 줄도 모르고", "explanation": "소중하다 (珍貴的) 定語形 + 줄 (方法/事實) + -도 (也) + 모르다 (不知道) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "모든 걸 잃은 것 같이",
+      "translation": "就像失去了一切",
+      "analysis": [
+        { "point": "모든 걸", "explanation": "모든 것 (所有事) + -을 (受格助詞)。" },
+        { "point": "잃은 것 같이", "explanation": "잃다 (失去) 的過去定語形 + 것 같이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "가슴이 아려와 또 울었어",
+      "translation": "心痛起來又哭了",
+      "analysis": [
+        { "point": "가슴이 아려와", "explanation": "가슴 (心) + -이 (主格助詞) + 아려오다 (痛起來)。" },
+        { "point": "또 울었어", "explanation": "또 (又) + 울다 (哭) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈물은 왜 흘러나와",
+      "translation": "眼淚為什麼流下來",
+      "analysis": [
+        { "point": "눈물은", "explanation": "눈물 (眼淚) + -은 (主題助詞)。" },
+        { "point": "왜 흘러나와", "explanation": "왜 (為什麼) + 흘러나오다 (流出來)。" }
+      ]
+    },
+    {
+      "korean": "뭐라고 한 마디도 못하게",
+      "translation": "讓我一句話也說不出口",
+      "analysis": [
+        { "point": "뭐라고", "explanation": "代名詞，什麼。" },
+        { "point": "한 마디도", "explanation": "한 (一) + 마디 (句) + -도 (也)。" },
+        { "point": "못하게", "explanation": "못하다 (不能) + -게 (使役形，使得...)。" }
+      ]
+    },
+    {
+      "korean": "입술이 또 떨려와서",
+      "translation": "嘴唇又顫抖起來",
+      "analysis": [
+        { "point": "입술이", "explanation": "입술 (嘴唇) + -이 (主格助詞)。" },
+        { "point": "또 떨려와서", "explanation": "또 (又) + 떨려오다 (顫抖起來) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "네 옷깃만 붙잡았어",
+      "translation": "只抓住了你的衣領",
+      "analysis": [
+        { "point": "네 옷깃만", "explanation": "네 (你的) + 옷깃 (衣領) + -만 (只)。" },
+        { "point": "붙잡았어", "explanation": "붙잡다 (抓住) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "제발 내 말을 좀 들어봐줘",
+      "translation": "拜託請聽我說句話",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託。" },
+        { "point": "내 말을 좀", "explanation": "내 (我的) + 말 (話) + -을 (受格助詞) + 좀 (稍微)。" },
+        { "point": "들어봐줘", "explanation": "들어보다 (聽聽看) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "가지 말란 말도 못 했던 내가",
+      "translation": "連不要走這句話都說不出口的我",
+      "analysis": [
+        { "point": "가지 말란", "explanation": "가지 말라는 (叫你不要走) 的縮略。" },
+        { "point": "말도 못 했던 내가", "explanation": "말 (話) + -도 (也) + 못 하다 (不能) 的過去定語形 + 내가 (我)。" }
+      ]
+    },
+    {
+      "korean": "이제 와서 후회해도",
+      "translation": "事到如今才後悔也好",
+      "analysis": [
+        { "point": "이제 와서", "explanation": "慣用型，事到如今。" },
+        { "point": "후회해도", "explanation": "후회하다 (後悔) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "미련해 보여도",
+      "translation": "看起來很迷戀也好",
+      "analysis": [
+        { "point": "미련해 보여도", "explanation": "미련하다 (迷戀、依戀不捨) + -아/어 보이다 (看起來) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "꼭 한 번만 내 얘길 들어줘",
+      "translation": "請務必聽我說一次",
+      "analysis": [
+        { "point": "꼭 한 번만", "explanation": "꼭 (務必) + 한 번 (一次) + -만 (只)。" },
+        { "point": "내 얘길 들어줘", "explanation": "내 얘기 (我的故事/話) + -를 (受格助詞) + 들어주다 (傾聽)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "밀어내고 싶어도",
+      "translation": "即使想推開",
+      "analysis": [
+        { "point": "밀어내고 싶어도", "explanation": "밀어내다 (推開) + -고 싶다 (想) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 참아줘",
+      "translation": "今天就請忍耐一下",
+      "analysis": [
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "참아줘", "explanation": "참다 (忍耐) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "더는 멀어지지 마",
+      "translation": "不要再走遠了",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再。" },
+        { "point": "멀어지지 마", "explanation": "멀어지다 (變遠) + -지 마 (否定命令式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "용기를 못 냈던 나를",
+      "translation": "沒能鼓起勇氣的我",
+      "analysis": [
+        { "point": "용기를 못 냈던", "explanation": "용기를 내다 (鼓起勇氣) + 못 (不能) 的過去定語形。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "이해해 달란 말은 안 할게",
+      "translation": "我不會說請你理解我這種話",
+      "analysis": [
+        { "point": "이해해 달란 말은", "explanation": "이해해 달라는 (請求理解) + 말 (話) + -은 (主題助詞)。" },
+        { "point": "안 할게", "explanation": "안 (不) + 하다 (做) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "조금만 아주 조금만 더 이대로",
+      "translation": "只要一點點 再多一點點 就這樣",
+      "analysis": [
+        { "point": "조금만", "explanation": "조금 (一點點) + -만 (只)。" },
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "더 이대로", "explanation": "더 (更) + 이대로 (就這樣)。" }
+      ]
+    },
+    {
+      "korean": "날 안아줘",
+      "translation": "擁抱我",
+      "analysis": [
+        { "point": "날 안아줘", "explanation": "나를 (我) 的縮略 + 안아주다 (擁抱我)。" }
+      ]
+    },
+    {
+      "korean": "제발 내 말을 좀 들어봐줘",
+      "translation": "拜託請聽我說句話",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託。" },
+        { "point": "내 말을 좀", "explanation": "내 (我的) + 말 (話) + -을 (受格助詞) + 좀 (稍微)。" },
+        { "point": "들어봐줘", "explanation": "들어보다 (聽聽看) + -아/어 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "korean": "가지 말란 말도 못 했던 내가",
+      "translation": "連不要走這句話都說不出口的我",
+      "analysis": [
+        { "point": "가지 말란", "explanation": "가지 말라는 (叫你不要走) 的縮略。" },
+        { "point": "말도 못 했던 내가", "explanation": "말 (話) + -도 (也) + 못 하다 (不能) 的過去定語形 + 내가 (我)。" }
+      ]
+    },
+    {
+      "korean": "이제 와서 후회해도",
+      "translation": "事到如今才後悔也好",
+      "analysis": [
+        { "point": "이제 와서", "explanation": "慣用型，事到如今。" },
+        { "point": "후회해도", "explanation": "후회하다 (後悔) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "미련해 보여도",
+      "translation": "看起來很迷戀也好",
+      "analysis": [
+        { "point": "미련해 보여도", "explanation": "미련하다 (迷戀、依戀不捨) + -아/어 보이다 (看起來) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "꼭 한 번만 내 얘길 들어줘",
+      "translation": "請務必聽我說一次",
+      "analysis": [
+        { "point": "꼭 한 번만", "explanation": "꼭 (務必) + 한 번 (一次) + -만 (只)。" },
+        { "point": "내 얘길 들어줘", "explanation": "내 얘기 (我的故事/話) + -를 (受格助詞) + 들어주다 (傾聽)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "날이 좋다", "chinese": "天氣好", "pos": "片語" },
+    { "korean": "혼자서", "chinese": "獨自地", "pos": "副詞" },
+    { "korean": "나오다", "chinese": "出來", "pos": "動詞" },
+    { "korean": "구름", "chinese": "雲", "pos": "名詞" },
+    { "korean": "멍해지다", "chinese": "變得呆滯、放空", "pos": "動詞" },
+    { "korean": "걷다", "chinese": "走路", "pos": "動詞" },
+    { "korean": "눈시울", "chinese": "眼眶", "pos": "名詞" },
+    { "korean": "뜨거워지다", "chinese": "變熱", "pos": "動詞" },
+    { "korean": "생각이 나다", "chinese": "想起", "pos": "片語" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "익숙하다", "chinese": "習慣、熟悉", "pos": "形容詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "찾아가다", "chinese": "去找", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "흘러나오다", "chinese": "流出來", "pos": "動詞" },
+    { "korean": "마디", "chinese": "句", "pos": "名詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "떨려오다", "chinese": "顫抖起來", "pos": "動詞" },
+    { "korean": "옷깃", "chinese": "衣領", "pos": "名詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
+    { "korean": "미련하다", "chinese": "迷戀、依戀不捨", "pos": "形容詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "가슴", "chinese": "心、胸口", "pos": "名詞" },
+    { "korean": "아려오다", "chinese": "痛起來", "pos": "動詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "밀어내다", "chinese": "推開", "pos": "動詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "용기를 내다", "chinese": "鼓起勇氣", "pos": "片語" },
+    { "korean": "이해하다", "chinese": "理解", "pos": "動詞" },
+    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" }
+  ]
+}

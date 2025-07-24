@@ -1,0 +1,475 @@
+{
+  "id": "girlsday-macaron",
+  "title": "마카롱 (Macaron)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "korean": "Hey hey hey hey",
+      "translation": "Hey hey hey hey",
+      "analysis": [
+        { "point": "Hey hey hey hey", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Kiss me 입술이 참 부드러 꿀 발랐니",
+      "translation": "Kiss me 嘴唇真柔軟 是塗了蜂蜜嗎",
+      "analysis": [
+        { "point": "입술이 참 부드러", "explanation": "입술 (嘴唇) + -이 (主格助詞) + 참 (副詞，真) + 부드럽다 (柔軟) 的縮略形。" },
+        { "point": "꿀 발랐니", "explanation": "꿀 (蜂蜜) + 바르다 (塗抹) 的過去式 + -니 (疑問終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "Lovely 사탕보다 달콤해 so 판타스틱",
+      "translation": "Lovely 比糖果還甜蜜 so fantastic",
+      "analysis": [
+        { "point": "사탕보다 달콤해", "explanation": "사탕 (糖果) + -보다 (比較助詞，比...) + 달콤하다 (甜蜜的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "살금살금 다가와",
+      "translation": "悄悄地靠近",
+      "analysis": [
+        { "point": "살금살금", "explanation": "擬態詞，形容小心翼翼、偷偷摸摸的樣子。" },
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "한 순간에 훔쳐가",
+      "translation": "在一瞬間偷走",
+      "analysis": [
+        { "point": "한 순간에", "explanation": "한 (一) + 순간 (瞬間) + -에 (場所/時間助詞)。" },
+        { "point": "훔쳐가", "explanation": "훔치다 (偷) + -어 가다 (表示動作的延續或完成)。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 난리난걸 티가 나서 어쩌니",
+      "translation": "我的心亂了套 太明顯了怎麼辦",
+      "analysis": [
+        { "point": "내 맘이 난리난걸", "explanation": "내 마음 (我的心) + -이 (主格助詞) + 난리가 나다 (亂了套) 的過去定語形 + 것을。" },
+        { "point": "티가 나서", "explanation": "티가 나다 (露出馬腳、很明顯) + -아서 (因為)。" },
+        { "point": "어쩌니", "explanation": "어쩌다 (怎麼辦) + -니 (疑問終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "이 밤에 우리 둘이 오 boogie woogie boogie",
+      "translation": "這晚我們倆 Oh boogie woogie boogie",
+      "analysis": [
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (時間助詞)。" },
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (倆) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "아주 비밀스럽게 (음 아)",
+      "translation": "非常秘密地 (嗯 啊)",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "비밀스럽게", "explanation": "비밀 (秘密) + -스럽다 (帶有...的性質) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사랑에 춤을 추듯이",
+      "translation": "像在愛情中跳舞一般",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑 (愛) + -에 (場所助詞)。" },
+        { "point": "춤을 추듯이", "explanation": "춤을 추다 (跳舞) + -듯이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "살살 녹여주는 넌",
+      "translation": "輕輕融化我的你",
+      "analysis": [
+        { "point": "살살", "explanation": "擬態詞，輕輕地、溫柔地。" },
+        { "point": "녹여주는 넌", "explanation": "녹이다 (融化) + -어 주다 (為我做...) 的現在定語形 + 너는 (你)。" }
+      ]
+    },
+    {
+      "korean": "눈빛마저 tasty",
+      "translation": "連眼神都很 tasty",
+      "analysis": [
+        { "point": "눈빛마저", "explanation": "눈빛 (眼神) + -마저 (助詞，連...都)。" }
+      ]
+    },
+    {
+      "korean": "Im going, going crazy",
+      "translation": "I'm going, going crazy",
+      "analysis": [
+        { "point": "Im going, going crazy", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "따라와요 baby",
+      "translation": "跟著我 baby",
+      "analysis": [
+        { "point": "따라와요", "explanation": "따라오다 (跟來) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "같이 춤을 춰요 baby",
+      "translation": "一起跳舞吧 baby",
+      "analysis": [
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "춤을 춰요", "explanation": "춤을 추다 (跳舞) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "눈빛마저 tasty",
+      "translation": "連眼神都很 tasty",
+      "analysis": [
+        { "point": "눈빛마저", "explanation": "눈빛 (眼神) + -마저 (助詞，連...都)。" }
+      ]
+    },
+    {
+      "korean": "Im going, going crazy",
+      "translation": "I'm going, going crazy",
+      "analysis": [
+        { "point": "Im going, going crazy", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Hook",
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "korean": "Hey hey hey hey",
+      "translation": "Hey hey hey hey",
+      "analysis": [
+        { "point": "Hey hey hey hey", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "korean": "우리 둘이 우리 둘이",
+      "translation": "我們倆 我們倆",
+      "analysis": [
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (倆) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "랄랄라 라랄랄라라라 랄랄 라라라",
+      "translation": "Lalala lalalala lala lalalala",
+      "analysis": [
+        { "point": "랄랄라", "explanation": "無意義的哼唱聲。" }
+      ]
+    },
+    {
+      "korean": "(너무 달콤해)",
+      "translation": "(太甜蜜了)",
+      "analysis": [
+        { "point": "너무 달콤해", "explanation": "너무 (太) + 달콤하다 (甜蜜的)。" }
+      ]
+    },
+    {
+      "korean": "랄랄라 라랄랄라라라 랄랄 라라라",
+      "translation": "Lalala lalalala lala lalalala",
+      "analysis": [
+        { "point": "랄랄라", "explanation": "無意義的哼唱聲。" }
+      ]
+    },
+    {
+      "korean": "(너무 달콤해)",
+      "translation": "(太甜蜜了)",
+      "analysis": [
+        { "point": "너무 달콤해", "explanation": "너무 (太) + 달콤하다 (甜蜜的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "살금살금 다가와",
+      "translation": "悄悄地靠近",
+      "analysis": [
+        { "point": "살금살금", "explanation": "擬態詞，形容小心翼翼、偷偷摸摸的樣子。" },
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "한 순간에 훔쳐가",
+      "translation": "在一瞬間偷走",
+      "analysis": [
+        { "point": "한 순간에", "explanation": "한 (一) + 순간 (瞬間) + -에 (場所/時間助詞)。" },
+        { "point": "훔쳐가", "explanation": "훔치다 (偷) + -어 가다 (表示動作的延續或完成)。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 난리난걸 티가 나서 어쩌니",
+      "translation": "我的心亂了套 太明顯了怎麼辦",
+      "analysis": [
+        { "point": "내 맘이 난리난걸", "explanation": "내 마음 (我的心) + -이 (主格助詞) + 난리가 나다 (亂了套) 的過去定語形 + 것을。" },
+        { "point": "티가 나서", "explanation": "티가 나다 (露出馬腳、很明顯) + -아서 (因為)。" },
+        { "point": "어쩌니", "explanation": "어쩌다 (怎麼辦) + -니 (疑問終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "이 밤에 우리 둘이 오 boogie woogie boogie",
+      "translation": "這晚我們倆 Oh boogie woogie boogie",
+      "analysis": [
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (時間助詞)。" },
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (倆) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "아주 비밀스럽게 (음 아)",
+      "translation": "非常秘密地 (嗯 啊)",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "비밀스럽게", "explanation": "비밀 (秘密) + -스럽다 (帶有...的性質) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사랑에 춤을 추듯이",
+      "translation": "像在愛情中跳舞一般",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑 (愛) + -에 (場所助詞)。" },
+        { "point": "춤을 추듯이", "explanation": "춤을 추다 (跳舞) + -듯이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "살살 녹여주는 넌",
+      "translation": "輕輕融化我的你",
+      "analysis": [
+        { "point": "살살", "explanation": "擬態詞，輕輕地、溫柔地。" },
+        { "point": "녹여주는 넌", "explanation": "녹이다 (融化) + -어 주다 (為我做...) 的現在定語形 + 너는 (你)。" }
+      ]
+    },
+    {
+      "korean": "눈빛마저 tasty",
+      "translation": "連眼神都很 tasty",
+      "analysis": [
+        { "point": "눈빛마저", "explanation": "눈빛 (眼神) + -마저 (助詞，連...都)。" }
+      ]
+    },
+    {
+      "korean": "Im going, going crazy",
+      "translation": "I'm going, going crazy",
+      "analysis": [
+        { "point": "Im going, going crazy", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "따라와요 baby",
+      "translation": "跟著我 baby",
+      "analysis": [
+        { "point": "따라와요", "explanation": "따라오다 (跟來) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "같이 춤을 춰요 baby",
+      "translation": "一起跳舞吧 baby",
+      "analysis": [
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "춤을 춰요", "explanation": "춤을 추다 (跳舞) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "눈빛마저 tasty",
+      "translation": "連眼神都很 tasty",
+      "analysis": [
+        { "point": "눈빛마저", "explanation": "눈빛 (眼神) + -마저 (助詞，連...都)。" }
+      ]
+    },
+    {
+      "korean": "Im going, going crazy",
+      "translation": "I'm going, going crazy",
+      "analysis": [
+        { "point": "Im going, going crazy", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "입술 위에 남긴 네가 있던 자리 다시 또 날 유혹해",
+      "translation": "留在嘴唇上 你待過的位置 再次誘惑我",
+      "analysis": [
+        { "point": "입술 위에 남긴", "explanation": "입술 (嘴唇) + 위 (上面) + -에 (場所助詞) + 남기다 (留下) 的過去定語形。" },
+        { "point": "네가 있던 자리", "explanation": "네가 (你) + 있다 (在) 的過去定語形 + 자리 (位置)。" },
+        { "point": "다시 또 날 유혹해", "explanation": "다시 또 (又再地) + 나를 (我) 的縮略 + 유혹하다 (誘惑)。" }
+      ]
+    },
+    {
+      "korean": "진한 달빛 아래 날 위한 노래로",
+      "translation": "在深邃的月光下 用為我而唱的歌",
+      "analysis": [
+        { "point": "진한 달빛 아래", "explanation": "진하다 (深的、濃的) 定語形 + 달빛 (月光) + 아래 (下面)。" },
+        { "point": "날 위한 노래로", "explanation": "나를 위한 (為了我的) + 노래 (歌) + -(으)로 (用...)。" }
+      ]
+    },
+    {
+      "korean": "나를 채워줘 나를 안아줘",
+      "translation": "填滿我 擁抱我",
+      "analysis": [
+        { "point": "나를 채워줘", "explanation": "나를 (我) + 채우다 (填滿) + -어 주다 (為我做...)。" },
+        { "point": "나를 안아줘", "explanation": "나를 (我) + 안다 (擁抱) + -아 주다 (為我做...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사랑에 춤을 추듯이",
+      "translation": "像在愛情中跳舞一般",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑 (愛) + -에 (場所助詞)。" },
+        { "point": "춤을 추듯이", "explanation": "춤을 추다 (跳舞) + -듯이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "살살 녹여주는 넌",
+      "translation": "輕輕融化我的你",
+      "analysis": [
+        { "point": "살살", "explanation": "擬態詞，輕輕地、溫柔地。" },
+        { "point": "녹여주는 넌", "explanation": "녹이다 (融化) + -어 주다 (為我做...) 的現在定語形 + 너는 (你)。" }
+      ]
+    },
+    {
+      "korean": "눈빛마저 tasty",
+      "translation": "連眼神都很 tasty",
+      "analysis": [
+        { "point": "눈빛마저", "explanation": "눈빛 (眼神) + -마저 (助詞，連...都)。" }
+      ]
+    },
+    {
+      "korean": "Im going, going crazy",
+      "translation": "I'm going, going crazy",
+      "analysis": [
+        { "point": "Im going, going crazy", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "따라와요 baby",
+      "translation": "跟著我 baby",
+      "analysis": [
+        { "point": "따라와요", "explanation": "따라오다 (跟來) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "같이 춤을 춰요 baby",
+      "translation": "一起跳舞吧 baby",
+      "analysis": [
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "춤을 춰요", "explanation": "춤을 추다 (跳舞) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "눈빛마저 tasty",
+      "translation": "連眼神都很 tasty",
+      "analysis": [
+        { "point": "눈빛마저", "explanation": "눈빛 (眼神) + -마저 (助詞，連...都)。" }
+      ]
+    },
+    {
+      "korean": "Im going, going crazy",
+      "translation": "I'm going, going crazy",
+      "analysis": [
+        { "point": "Im going, going crazy", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Hook",
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "korean": "Hey hey hey hey",
+      "translation": "Hey hey hey hey",
+      "analysis": [
+        { "point": "Hey hey hey hey", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "korean": "Hey hey hey hey",
+      "translation": "Hey hey hey hey",
+      "analysis": [
+        { "point": "Hey hey hey hey", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "두빠두빠 두비두비 마카롱",
+      "translation": "Doob-ba-doob-ba doobie-doobie macaron",
+      "analysis": [
+        { "point": "두빠두빠 두비두비", "explanation": "擬聲詞，無特定意義，用以創造活潑輕快的節奏感。" }
+      ]
+    },
+    {
+      "korean": "우리 둘이 우리 둘이",
+      "translation": "我們倆 我們倆",
+      "analysis": [
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (倆) + -이 (主格助詞)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "부드럽다", "chinese": "柔軟的", "pos": "形容詞" },
+    { "korean": "꿀", "chinese": "蜂蜜", "pos": "名詞" },
+    { "korean": "바르다", "chinese": "塗抹", "pos": "動詞" },
+    { "korean": "사탕", "chinese": "糖果", "pos": "名詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "살금살금", "chinese": "悄悄地", "pos": "副詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "훔치다", "chinese": "偷", "pos": "動詞" },
+    { "korean": "난리가 나다", "chinese": "亂了套、出大事", "pos": "片語" },
+    { "korean": "티가 나다", "chinese": "露出馬腳、很明顯", "pos": "片語" },
+    { "korean": "어쩌다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "비밀스럽다", "chinese": "秘密的", "pos": "形容詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "춤을 추다", "chinese": "跳舞", "pos": "片語" },
+    { "korean": "살살", "chinese": "輕輕地", "pos": "副詞" },
+    { "korean": "녹이다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "따라오다", "chinese": "跟來", "pos": "動詞" },
+    { "korean": "같이", "chinese": "一起", "pos": "副詞" },
+    { "korean": "자리", "chinese": "位置、地方", "pos": "名詞" },
+    { "korean": "유혹하다", "chinese": "誘惑", "pos": "動詞" },
+    { "korean": "진하다", "chinese": "深的、濃的", "pos": "形容詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "노래", "chinese": "歌曲", "pos": "名詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" }
+  ]
+}
