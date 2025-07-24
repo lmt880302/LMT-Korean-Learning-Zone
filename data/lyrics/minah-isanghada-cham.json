@@ -290,6 +290,27 @@
         { "point": "나 혼자", "explanation": "我 一個人。" },
         { "point": "휴대폰만 만질 걸", "explanation": "휴대폰 (手機) + -만 (只) + 만지다 (摸) + -(으)ㄹ 걸 (表示推測)。" }
       ]
+    },    {
+      "korean": "Cause I'm loving you",
+      "translation": "Cause I'm loving you",
+      "analysis": [
+        { "point": "Cause I'm loving you", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Cause I'm loving you",
+      "translation": "Cause I'm loving you",
+      "analysis": [
+        { "point": "Cause I'm loving you", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "잘 들어봐요 나의 맘을",
+      "translation": "請好好聽聽我的心",
+      "analysis": [
+        { "point": "잘 들어봐요", "explanation": "잘 (好好地) + 듣다 (聽) + -어 보다 (試試看) + -아요 (尊敬階)。" },
+        { "point": "나의 맘을", "explanation": "나의 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" }
+      ]
     },
     {
       "sectionTitle": "Chorus",
