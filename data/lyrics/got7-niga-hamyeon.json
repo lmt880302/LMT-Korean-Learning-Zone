@@ -1,0 +1,568 @@
+{
+  "id": "got7-niga-hamyeon",
+  "title": "니가 하면 (If You Do)",
+  "artist": "GOT7 (갓세븐)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "니가 하면 GOOD 내가 하면 끝",
+      "translation": "你做的話就 GOOD，我做的話就完蛋",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件「如果...的話」)" },
+        { "point": "GOOD", "explanation": "英語單字，好的意思。" },
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (表示條件「如果...的話」)" },
+        { "point": "끝", "explanation": "名詞，結束、完蛋。" }
+      ]
+    },
+    {
+      "korean": "어떻게 매일 내가 틀렸다고 말하는데",
+      "translation": "怎麼能每天都說我錯了呢",
+      "analysis": [
+        { "point": "어떻게", "explanation": "副詞，怎麼、如何。" },
+        { "point": "매일", "explanation": "名詞/副詞，每天。" },
+        { "point": "내가 틀렸다고", "explanation": "내가 (我) + 틀리다 (錯) 的過去式 + -다고 (間接引述)。" },
+        { "point": "말하는데", "explanation": "말하다 (說) 的詞幹 + -는데 (連接詞尾，用於提示背景或輕微轉折)。" }
+      ]
+    },
+    {
+      "korean": "이기려고만 하지",
+      "translation": "只想要贏",
+      "analysis": [
+        { "point": "이기려고만 하지", "explanation": "이기다 (贏) + -(으)려고 하다 (想要做...) + -만 (只) + -지 (終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "눈물이 너의 무기지 않니",
+      "translation": "眼淚不就是你的武器嗎？",
+      "analysis": [
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)。" },
+        { "point": "너의", "explanation": "너 (你) + -의 (所有格助詞)。" },
+        { "point": "무기지 않니", "explanation": "무기 (武器) + -이다 的詞幹 + -지 않니 (用於確認的疑問句「不是...嗎？」)。" }
+      ]
+    },
+    {
+      "korean": "처음엔 당당해서 끌렸어",
+      "translation": "一開始因為你理直氣壯而被吸引",
+      "analysis": [
+        { "point": "처음엔", "explanation": "처음 (開始/初次) + -에는 (在...時/方面) 的縮略。" },
+        { "point": "당당해서", "explanation": "당당하다 (理直氣壯/堂堂正正) 的詞幹 + -아서/어서 (表示原因)。" },
+        { "point": "끌렸어", "explanation": "끌리다 (被吸引) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "하지만 매일 난 무릎 꿇었어",
+      "translation": "但是我每天都屈服下跪",
+      "analysis": [
+        { "point": "하지만", "explanation": "連接副詞，但是。" },
+        { "point": "매일 난", "explanation": "매일 (每天) + 난 (나는 的縮略，我是)。" },
+        { "point": "무릎 꿇었어", "explanation": "무릎을 꿇다 (下跪/屈服) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "조금 잘못한 것도 부풀려서",
+      "translation": "一點點小錯也被你誇大",
+      "analysis": [
+        { "point": "조금", "explanation": "副詞，一點點。" },
+        { "point": "잘못한 것도", "explanation": "잘못하다 (做錯) 的過去定語形 + 것 (事情) + -도 (也)。" },
+        { "point": "부풀려서", "explanation": "부풀리다 (誇大/使其膨脹) 的詞幹 + -어서 (表示動作的先後順序)。" }
+      ]
+    },
+    {
+      "korean": "날 절벽으로 밀어 부쳤어",
+      "translation": "把我推向了懸崖",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我，受格) 的縮略。" },
+        { "point": "절벽으로", "explanation": "절벽 (懸崖) + -(으)로 (方向助詞，往...)。" },
+        { "point": "밀어 부쳤어", "explanation": "밀어붙이다 (猛推/逼迫) 的過去式非格式體。'부쳤어' 是 '붙였어' 的口語化寫法。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "혹시 몰라 그래도 널 사랑하니까",
+      "translation": "或許你不知道，即便如此也因為愛你",
+      "analysis": [
+        { "point": "혹시 몰라", "explanation": "혹시 (或許/萬一) + 모르다 (不知道)。" },
+        { "point": "그래도", "explanation": "副詞，即使如此、然而。" },
+        { "point": "널 사랑하니까", "explanation": "널 (너를 的縮略，你) + 사랑하다 (愛) 的詞幹 + -(으)니까 (表示原因)。" }
+      ]
+    },
+    {
+      "korean": "참을 수 있었어",
+      "translation": "我才能夠忍受",
+      "analysis": [
+        { "point": "참을 수 있었어", "explanation": "참다 (忍耐) 的詞幹 + -(으)ㄹ 수 있다 (能夠...) 的過去式形態。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Every day every night feel like a fool",
+      "translation": "每天每夜都感覺像個傻瓜",
+      "analysis": [
+        { "point": "Every day every night", "explanation": "英語，每天每夜。" },
+        { "point": "feel like a fool", "explanation": "英語，感覺像個傻瓜。" }
+      ]
+    },
+    {
+      "korean": "You gotta know",
+      "translation": "你必須知道",
+      "analysis": [
+        { "point": "You gotta know", "explanation": "英語口語，是 'You have got to know' 的縮寫，你必須知道。" }
+      ]
+    },
+    {
+      "korean": "넌 내게 왜왜왜 또 화만 내내내",
+      "translation": "你為什麼為什麼為什麼又只對我發火發火發火",
+      "analysis": [
+        { "point": "넌 내게", "explanation": "넌 (너는 的縮略，你) + 내게 (나에게 的縮略，對我)。" },
+        { "point": "왜왜왜", "explanation": "왜 (為什麼)，重複三次表示強烈的不解與不滿。" },
+        { "point": "또", "explanation": "副詞，又、再次。" },
+        { "point": "화만 내내내", "explanation": "화(를) 내다 (生氣/發火) + -만 (只)。動詞詞幹 '내' 重複三次以強調動作的持續與強度。" }
+      ]
+    },
+    {
+      "korean": "우리 다시 돌아갈 수 있을까",
+      "translation": "我們還能再回去嗎？",
+      "analysis": [
+        { "point": "우리", "explanation": "代名詞，我們。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "돌아갈 수 있을까", "explanation": "돌아가다 (回去) 的詞幹 + -(으)ㄹ 수 있다 (能夠...) + -(으)ㄹ까 (表示疑問或推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 하면 다 맞는 말이 돼",
+      "translation": "只要是你做的就都變成對的話",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件)。" },
+        { "point": "다", "explanation": "副詞，全部、都。" },
+        { "point": "맞는 말이 돼", "explanation": "맞다 (對的) 的定語形 + 말 (話) + 이/가 되다 (變成...)。" }
+      ]
+    },
+    {
+      "korean": "니가 하면 난 이기지 못하는데",
+      "translation": "只要是你做的我就贏不了",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "이기지 못하는데", "explanation": "이기다 (贏) 的詞幹 + -지 못하다 (不能...) + -는데 (連接詞尾，表示對比或背景)。" }
+      ]
+    },
+    {
+      "korean": "갑자기 넌 딴 사람이 돼",
+      "translation": "你突然就變成另外一個人",
+      "analysis": [
+        { "point": "갑자기", "explanation": "副詞，突然。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "딴 사람이 돼", "explanation": "딴 (別的/其他的) + 사람 (人) + 이/가 되다 (變成...)" }
+      ]
+    },
+    {
+      "korean": "좋을 때 더 나를 불안하게 해",
+      "translation": "在好的時候反而更讓我感到不安",
+      "analysis": [
+        { "point": "좋을 때", "explanation": "좋다 (好) 的未來定語形 + 때 (時候)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "불안하게 해", "explanation": "불안하다 (不安) 的詞幹 + -게 하다 (使...變得...)。" }
+      ]
+    },
+    {
+      "korean": "내가 하면 넌 내가 하면",
+      "translation": "我做的話，你(就)... 我做的話",
+      "analysis": [
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "뭔 말만 하면 넌 매일 헤어져",
+      "translation": "只要我一說什麼 你就每天說分手",
+      "analysis": [
+        { "point": "뭔 말만 하면", "explanation": "뭔 (무슨 的縮略，什麼) + 말 (話) + -만 (只) + 하면 (하다 + -면，如果說)。" },
+        { "point": "넌 매일", "explanation": "넌 (你) + 매일 (每天)。" },
+        { "point": "헤어져", "explanation": "헤어지다 (分手) 的非格式體，此處意指「(你說)分手吧」。" }
+      ]
+    },
+    {
+      "korean": "내가 더 다가가지 못하게",
+      "translation": "讓我無法再更靠近",
+      "analysis": [
+        { "point": "내가 더", "explanation": "내가 (我) + 더 (更)。" },
+        { "point": "다가가지 못하게", "explanation": "다가가다 (靠近) 的詞幹 + -지 못하게 (使...無法...)。" }
+      ]
+    },
+    {
+      "korean": "더 사랑하지 못하게 해",
+      "translation": "讓我無法更愛你",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "사랑하지 못하게 해", "explanation": "사랑하다 (愛) 的詞幹 + -지 못하게 하다 (使...無法...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap Verse",
+      "korean": "니 전공은 했던 얘기 또 하기",
+      "translation": "你的專長就是把說過的話再說一次",
+      "analysis": [
+        { "point": "니 전공은", "explanation": "니 (你的) + 전공 (專業/專長) + -은 (主題助詞)。" },
+        { "point": "했던 얘기 또 하기", "explanation": "하다 的過去定語形 + 얘기 (故事/話) + 또 (又) + 하기 (做...這件事)。" }
+      ]
+    },
+    {
+      "korean": "옆구리 찔러서 절 받기",
+      "translation": "旁敲側擊地索取感謝",
+      "analysis": [
+        { "point": "옆구리 찔러서 절 받기", "explanation": "慣用語，字面是「戳肋骨收到鞠躬」，引申為「旁敲側擊地索取稱讚或感謝」。" }
+      ]
+    },
+    {
+      "korean": "이미 정해진 재판 받기 지쳤어",
+      "translation": "對接受已經內定的審判，我累了",
+      "analysis": [
+        { "point": "이미", "explanation": "副詞，已經。" },
+        { "point": "정해진 재판 받기", "explanation": "정해지다 (被定下) 的過去定語形 + 재판 (審判) + 받기 (接受...這件事)。" },
+        { "point": "지쳤어", "explanation": "지치다 (疲憊/厭倦) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "벗어나고 싶어 절박히",
+      "translation": "迫切地想要擺脫",
+      "analysis": [
+        { "point": "벗어나고 싶어", "explanation": "벗어나다 (擺脫) 的詞幹 + -고 싶다 (想要...) + -어 (非格式體終結詞尾)。" },
+        { "point": "절박히", "explanation": "副詞，迫切地。" }
+      ]
+    },
+    {
+      "korean": "너한테는 친구",
+      "translation": "對你來說是朋友",
+      "analysis": [
+        { "point": "너한테는", "explanation": "너 (你) + -한테 (對...) + -는 (主題助詞，表示對比)。" },
+        { "point": "친구", "explanation": "名詞，朋友。" }
+      ]
+    },
+    {
+      "korean": "내겐 바람을 피울 수 있는",
+      "translation": "對我而言是可能會劈腿的",
+      "analysis": [
+        { "point": "내겐", "explanation": "내게는 (對我來說是) 的縮略。" },
+        { "point": "바람을 피울 수 있는", "explanation": "바람을 피우다 (劈腿) + -(으)ㄹ 수 있다 (能夠...) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "불안한 종자들일 뿐",
+      "translation": "令人不安的傢伙們罷了",
+      "analysis": [
+        { "point": "불안한", "explanation": "불안하다 (不安的) 的定語形。" },
+        { "point": "종자들일 뿐", "explanation": "종자 (傢伙，貶義) + -들 (複數) + -(이)ㄹ 뿐이다 (只是...罷了)。" }
+      ]
+    },
+    {
+      "korean": "또 다른 실수 니가 하면 ok",
+      "translation": "又是另一個失誤，你做的話就 ok",
+      "analysis": [
+        { "point": "또 다른 실수", "explanation": "또 (又) + 다르다 (不同/其他的) 的定語形 + 실수 (失誤)。" },
+        { "point": "니가 하면 ok", "explanation": "니가 (你) + 하다 (做) + -면 (如果...的話) + ok (好的)。" }
+      ]
+    },
+    {
+      "korean": "내가 하면 huh",
+      "translation": "我做的話就 huh",
+      "analysis": [
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" },
+        { "point": "huh", "explanation": "英語感嘆詞，表示不滿或疑問。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "난 제발 적당히 하기를 바래도",
+      "translation": "就算我拜託你適可而止",
+      "analysis": [
+        { "point": "난 제발", "explanation": "난 (나는 的縮略) + 제발 (拜託)。" },
+        { "point": "적당히 하기를", "explanation": "적당히 (適當地) + 하다 (做) + -기 (名詞化) + -를 (受格助詞)。" },
+        { "point": "바래도", "explanation": "바라다 (希望) 的詞幹 + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "넌 끊지 못하네",
+      "translation": "你也戒不掉啊",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "끊지 못하네", "explanation": "끊다 (戒掉/斷絕) 的詞幹 + -지 못하다 (無法...) + -네 (感嘆終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "자다가 툭 치면 나오는 말 잘할게",
+      "translation": "睡到一半被輕碰一下就會脫口而出的話「我會做好的」",
+      "analysis": [
+        { "point": "자다가", "explanation": "자다 (睡覺) 的詞幹 + -다가 (動作進行中轉換)。" },
+        { "point": "툭 치면", "explanation": "툭 (擬聲/態詞，輕輕一碰) + 치다 (打/碰) + -면 (如果...的話)。" },
+        { "point": "나오는 말", "explanation": "나오다 (出來) 的定語形 + 말 (話)。" },
+        { "point": "잘할게", "explanation": "잘하다 (做得好) 的詞幹 + -(으)ㄹ게 (表示意志的約定)。" }
+      ]
+    },
+    {
+      "korean": "할 말 없을 땐 꼭 나 잘게",
+      "translation": "沒話說的時候就一定說「我要睡了」",
+      "analysis": [
+        { "point": "할 말 없을 땐", "explanation": "하다 (說) 的未來定語形 + 말 (話) + 없다 (沒有) 的未來定語形 + 때 (時候) + -엔 (-에는 的縮略)。" },
+        { "point": "꼭", "explanation": "副詞，一定。" },
+        { "point": "나 잘게", "explanation": "나 (我) + 자다 (睡覺) + -(으)ㄹ게 (表示意志的約定)。" }
+      ]
+    },
+    {
+      "korean": "답답해 누구에게 한탄해",
+      "translation": "好鬱悶，該向誰感嘆呢",
+      "analysis": [
+        { "point": "답답해", "explanation": "답답하다 (鬱悶/憋屈) 的非格式體。" },
+        { "point": "누구에게", "explanation": "누구 (誰) + -에게 (向...)。" },
+        { "point": "한탄해", "explanation": "한탄하다 (感嘆/嘆息) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "가끔 갇힌 것처럼 착각해",
+      "translation": "偶爾會錯覺自己像是被困住了一樣",
+      "analysis": [
+        { "point": "가끔", "explanation": "副詞，偶爾。" },
+        { "point": "갇힌 것처럼", "explanation": "갇히다 (被關/被困) 的過去定語形 + -처럼 (像...一樣)。" },
+        { "point": "착각해", "explanation": "착각하다 (錯覺) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 하면 다 맞는 말이 돼",
+      "translation": "只要是你做的就都變成對的話",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件)。" },
+        { "point": "다", "explanation": "副詞，全部、都。" },
+        { "point": "맞는 말이 돼", "explanation": "맞다 (對的) 的定語形 + 말 (話) + 이/가 되다 (變成...)。" }
+      ]
+    },
+    {
+      "korean": "니가 하면 난 이기지 못하는데",
+      "translation": "只要是你做的我就贏不了",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "이기지 못하는데", "explanation": "이기다 (贏) 的詞幹 + -지 못하다 (不能...) + -는데 (連接詞尾，表示對比或背景)。" }
+      ]
+    },
+    {
+      "korean": "갑자기 넌 딴 사람이 돼",
+      "translation": "你突然就變成另外一個人",
+      "analysis": [
+        { "point": "갑자기", "explanation": "副詞，突然。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "딴 사람이 돼", "explanation": "딴 (別的/其他的) + 사람 (人) + 이/가 되다 (變成...)" }
+      ]
+    },
+    {
+      "korean": "좋을 때 더 나를 불안하게 해",
+      "translation": "在好的時候反而更讓我感到不安",
+      "analysis": [
+        { "point": "좋을 때", "explanation": "좋다 (好) 的未來定語形 + 때 (時候)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "불안하게 해", "explanation": "불안하다 (不安) 的詞幹 + -게 하다 (使...變得...)。" }
+      ]
+    },
+    {
+      "korean": "내가 하면 넌 내가 하면",
+      "translation": "我做的話，你(就)... 我做的話",
+      "analysis": [
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "뭔 말만 하면 넌 매일 헤어져",
+      "translation": "只要我一說什麼 你就每天說分手",
+      "analysis": [
+        { "point": "뭔 말만 하면", "explanation": "뭔 (무슨 的縮略，什麼) + 말 (話) + -만 (只) + 하면 (하다 + -면，如果說)。" },
+        { "point": "넌 매일", "explanation": "넌 (你) + 매일 (每天)。" },
+        { "point": "헤어져", "explanation": "헤어지다 (分手) 的非格式體，此處意指「(你說)分手吧」。" }
+      ]
+    },
+    {
+      "korean": "내가 더 다가가지 못하게",
+      "translation": "讓我無法再更靠近",
+      "analysis": [
+        { "point": "내가 더", "explanation": "내가 (我) + 더 (更)。" },
+        { "point": "다가가지 못하게", "explanation": "다가가다 (靠近) 的詞幹 + -지 못하게 (使...無法...)。" }
+      ]
+    },
+    {
+      "korean": "더 사랑하지 못하게 해",
+      "translation": "讓我無法更愛你",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "사랑하지 못하게 해", "explanation": "사랑하다 (愛) 的詞幹 + -지 못하게 하다 (使...無法...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Every day every night feel like a fool",
+      "translation": "每天每夜都感覺像個傻瓜",
+      "analysis": [
+        { "point": "Every day every night", "explanation": "英語，每天每夜。" },
+        { "point": "feel like a fool", "explanation": "英語，感覺像個傻瓜。" }
+      ]
+    },
+    {
+      "korean": "You gotta know",
+      "translation": "你必須知道",
+      "analysis": [
+        { "point": "You gotta know", "explanation": "英語口語，是 'You have got to know' 的縮寫，你必須知道。" }
+      ]
+    },
+    {
+      "korean": "넌 내게 왜왜왜 또 화만 내내내",
+      "translation": "你為什麼為什麼為什麼又只對我發火發火發火",
+      "analysis": [
+        { "point": "넌 내게", "explanation": "넌 (너는 的縮略，你) + 내게 (나에게 的縮略，對我)。" },
+        { "point": "왜왜왜", "explanation": "왜 (為什麼)，重複三次表示強烈的不解與不滿。" },
+        { "point": "또", "explanation": "副詞，又、再次。" },
+        { "point": "화만 내내내", "explanation": "화(를) 내다 (生氣/發火) + -만 (只)。動詞詞幹 '내' 重複三次以強調動作的持續與強度。" }
+      ]
+    },
+    {
+      "korean": "우리 다시 돌아갈 수 있을까",
+      "translation": "我們還能再回去嗎？",
+      "analysis": [
+        { "point": "우리", "explanation": "代名詞，我們。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "돌아갈 수 있을까", "explanation": "돌아가다 (回去) 的詞幹 + -(으)ㄹ 수 있다 (能夠...) + -(으)ㄹ까 (表示疑問或推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "니가 하면 다 맞는 말이 돼",
+      "translation": "只要是你做的就都變成對的話",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件)。" },
+        { "point": "다", "explanation": "副詞，全部、都。" },
+        { "point": "맞는 말이 돼", "explanation": "맞다 (對的) 的定語形 + 말 (話) + 이/가 되다 (變成...)。" }
+      ]
+    },
+    {
+      "korean": "니가 하면 난 이기지 못하는데",
+      "translation": "只要是你做的我就贏不了",
+      "analysis": [
+        { "point": "니가 하면", "explanation": "니가 (你，主格) + 하다 (做) 的詞幹 + -면 (表示條件)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "이기지 못하는데", "explanation": "이기다 (贏) 的詞幹 + -지 못하다 (不能...) + -는데 (連接詞尾，表示對比或背景)。" }
+      ]
+    },
+    {
+      "korean": "갑자기 넌 딴 사람이 돼",
+      "translation": "你突然就變成另外一個人",
+      "analysis": [
+        { "point": "갑자기", "explanation": "副詞，突然。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "딴 사람이 돼", "explanation": "딴 (別的/其他的) + 사람 (人) + 이/가 되다 (變成...)" }
+      ]
+    },
+    {
+      "korean": "좋을 때 더 나를 불안하게 해",
+      "translation": "在好的時候反而更讓我感到不安",
+      "analysis": [
+        { "point": "좋을 때", "explanation": "좋다 (好) 的未來定語形 + 때 (時候)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "불안하게 해", "explanation": "불안하다 (不安) 的詞幹 + -게 하다 (使...變得...)。" }
+      ]
+    },
+    {
+      "korean": "내가 하면 넌 내가 하면",
+      "translation": "我做的話，你(就)... 我做的話",
+      "analysis": [
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "내가 하면", "explanation": "내가 (我，主格) + 하다 (做) 的詞幹 + -면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "뭔 말만 하면 넌 매일 헤어져",
+      "translation": "只要我一說什麼 你就每天說分手",
+      "analysis": [
+        { "point": "뭔 말만 하면", "explanation": "뭔 (무슨 的縮略，什麼) + 말 (話) + -만 (只) + 하면 (하다 + -면，如果說)。" },
+        { "point": "넌 매일", "explanation": "넌 (你) + 매일 (每天)。" },
+        { "point": "헤어져", "explanation": "헤어지다 (分手) 的非格式體，此處意指「(你說)分手吧」。" }
+      ]
+    },
+    {
+      "korean": "내가 더 다가가지 못하게",
+      "translation": "讓我無法再更靠近",
+      "analysis": [
+        { "point": "내가 더", "explanation": "내가 (我) + 더 (更)。" },
+        { "point": "다가가지 못하게", "explanation": "다가가다 (靠近) 的詞幹 + -지 못하게 (使...無法...)。" }
+      ]
+    },
+    {
+      "korean": "더 사랑하지 못하게 해",
+      "translation": "讓我無法更愛你",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "사랑하지 못하게 해", "explanation": "사랑하다 (愛) 的詞幹 + -지 못하게 하다 (使...無法...)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "하다", "chinese": "做", "pos": "動詞" },
+    { "korean": "끝", "chinese": "結束", "pos": "名詞" },
+    { "korean": "어떻게", "chinese": "怎麼", "pos": "副詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "틀리다", "chinese": "錯的", "pos": "形容詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "이기다", "chinese": "贏", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "무기", "chinese": "武器", "pos": "名詞" },
+    { "korean": "처음", "chinese": "初次/開始", "pos": "名詞" },
+    { "korean": "당당하다", "chinese": "理直氣壯的", "pos": "形容詞" },
+    { "korean": "끌리다", "chinese": "被吸引", "pos": "動詞" },
+    { "korean": "하지만", "chinese": "但是", "pos": "副詞" },
+    { "korean": "무릎을 꿇다", "chinese": "下跪/屈服", "pos": "動詞片語" },
+    { "korean": "조금", "chinese": "一點點", "pos": "副詞" },
+    { "korean": "잘못하다", "chinese": "做錯", "pos": "動詞" },
+    { "korean": "부풀리다", "chinese": "誇大", "pos": "動詞" },
+    { "korean": "절벽", "chinese": "懸崖", "pos": "名詞" },
+    { "korean": "밀어붙이다", "chinese": "猛推/逼迫", "pos": "動詞" },
+    { "korean": "혹시", "chinese": "或許", "pos": "副詞" },
+    { "korean": "그래도", "chinese": "即使如此", "pos": "副詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "왜", "chinese": "為什麼", "pos": "副詞" },
+    { "korean": "또", "chinese": "又", "pos": "副詞" },
+    { "korean": "화를 내다", "chinese": "生氣/發火", "pos": "動詞片語" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "맞다", "chinese": "對的", "pos": "形容詞" },
+    { "korean": "되다", "chinese": "變成", "pos": "動詞" },
+    { "korean": "갑자기", "chinese": "突然", "pos": "副詞" },
+    { "korean": "딴", "chinese": "別的/其他的", "pos": "冠形詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "헤어지다", "chinese": "分手", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "전공", "chinese": "專業/專長", "pos": "名詞" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "정해지다", "chinese": "被定下來", "pos": "動詞" },
+    { "korean": "재판", "chinese": "審判", "pos": "名詞" },
+    { "korean": "지치다", "chinese": "疲憊/厭倦", "pos": "動詞" },
+    { "korean": "벗어나다", "chinese": "擺脫", "pos": "動詞" },
+    { "korean": "절박히", "chinese": "迫切地", "pos": "副詞" },
+    { "korean": "바람을 피우다", "chinese": "劈腿", "pos": "動詞片語" },
+    { "korean": "실수", "chinese": "失誤", "pos": "名詞" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "적당히", "chinese": "適當地", "pos": "副詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" },
+    { "korean": "끊다", "chinese": "戒掉/斷絕", "pos": "動詞" },
+    { "korean": "자다", "chinese": "睡覺", "pos": "動詞" },
+    { "korean": "꼭", "chinese": "一定", "pos": "副詞" },
+    { "korean": "답답하다", "chinese": "鬱悶的", "pos": "形容詞" },
+    { "korean": "한탄하다", "chinese": "感嘆", "pos": "動詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "갇히다", "chinese": "被困住", "pos": "動詞" },
+    { "korean": "착각하다", "chinese": "錯覺", "pos": "動詞" }
+  ]
+}

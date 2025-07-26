@@ -252,7 +252,21 @@
     "title": "마카롱 (Macaron)",
     "artist": "Girl's Day (걸스데이)",  
     "lyricsFile": "../data/lyrics/girlsday-macaron.json"
-  },  
+  },
+  
+  
+
+
+  {
+    "id": "got7-niga-hamyeon",
+    "title": "니가 하면 (If You Do)",
+    "artist": "GOT7 (갓세븐)",
+    "lyricsFile": "../data/lyrics/got7-niga-hamyeon.json"
+  },
+
+
+
+
   {
     "id": "kassy-story-of-night-fall",
     "title": "Story of night fall",
