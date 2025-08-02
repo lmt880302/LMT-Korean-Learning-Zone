@@ -1,0 +1,741 @@
+{
+  "id": "btob-friend",
+  "title": "Friend",
+  "artist": "BTOB (비투비)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "살아간다는 생각에 잠겨있는 동안",
+      "translation": "沉浸在要活下去的想法中的這段期間",
+      "analysis": [
+        {
+          "point": "살아간다는 생각에",
+          "explanation": "살아가다 (活下去) + -는다는 (引述形) + 생각 (想法) + -에 (場所助詞，在...之中)。"
+        },
+        {
+          "point": "잠겨있는 동안",
+          "explanation": "잠기다 (沉浸) + -어 있다 (表示狀態持續) + -는 (現在冠詞形) + 동안 (期間)。"
+        }
+      ]
+    },
+    {
+      "korean": "내가 잃어버린 건",
+      "translation": "我所失去的",
+      "analysis": [
+        {
+          "point": "내가 잃어버린 건",
+          "explanation": "내가 (我) + 잃어버리다 (失去) + -(으)ㄴ (過去冠詞形) + 것 (事物) + -은 (主格助詞)。"
+        }
+      ]
+    },
+    {
+      "korean": "이젠 너무 아득하게만 느껴지는 걸",
+      "translation": "如今只感覺到無比遙遠",
+      "analysis": [
+        {
+          "point": "이젠",
+          "explanation": "이제 (如今) + -는 (主格助詞) 的縮略形。"
+        },
+        {
+          "point": "너무 아득하게만",
+          "explanation": "너무 (副詞，太) + 아득하다 (遙遠) + -게 (副詞形語尾) + -만 (助詞，只)。"
+        },
+        {
+          "point": "느껴지는 걸",
+          "explanation": "느껴지다 (被感覺到) + -는 (現在冠詞形) + 것 (事物) + -을 (受格助詞) 的口語縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "추억을 더듬어봐도",
+      "translation": "即使摸索著回憶",
+      "analysis": [
+        {
+          "point": "추억을",
+          "explanation": "추억 (回憶) + -을 (受格助詞)。"
+        },
+        {
+          "point": "더듬어봐도",
+          "explanation": "더듬다 (摸索) + -어 보다 (試著...) + -아/어도 (即使...也)。"
+        }
+      ]
+    },
+    {
+      "korean": "아직 모두 다 여전한 건지",
+      "translation": "是否一切都依然如故",
+      "analysis": [
+        {
+          "point": "아직 모두 다",
+          "explanation": "아직 (副詞，還) + 모두 (全部) + 다 (副詞，都)。"
+        },
+        {
+          "point": "여전한 건지",
+          "explanation": "여전하다 (依舊) + -(으)ㄴ (過去冠詞形) + 것 (事物) + -인지 (疑問形語尾，是否是...)。"
+        }
+      ]
+    },
+    {
+      "korean": "그때 우리 참 많이 다퉜지",
+      "translation": "那時我們真的吵了很多架吧",
+      "analysis": [
+        {
+          "point": "그때 우리",
+          "explanation": "그때 (那時) + 우리 (我們)。"
+        },
+        {
+          "point": "참 많이 다퉜지",
+          "explanation": "참 (副詞，真) + 많이 (很多地) + 다투다 (爭吵) 的過去式 + -지 (終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "잊지 못해 모든 게 변한 대도",
+      "translation": "無法忘記 即使一切都變了",
+      "analysis": [
+        {
+          "point": "잊지 못해",
+          "explanation": "잊다 (忘記) + -지 못하다 (無法...)。"
+        },
+        {
+          "point": "모든 게",
+          "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略形。"
+        },
+        {
+          "point": "변한 대도",
+          "explanation": "변하다 (改變) 的過去冠詞形 + -(ㄴ/는)다고 해도 (即使說...) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "내 삶이 끝날 때 곁에 있는 건",
+      "translation": "在我生命結束時 陪在身邊的",
+      "analysis": [
+        {
+          "point": "내 삶이 끝날 때",
+          "explanation": "내 (我的) + 삶 (人生) + -이 (主格助詞) + 끝나다 (結束) + -(으)ㄹ 때 (時候)。"
+        },
+        {
+          "point": "곁에 있는 건",
+          "explanation": "곁 (身邊) + -에 (場所助詞) + 있다 (在) + -는 (現在冠詞形) + 것 (人/事) + -은 (主格助詞)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "우린 몰랐을지 몰라 살아가는 동안",
+      "translation": "我們或許不知道 在活著的這段期間",
+      "analysis": [
+        {
+          "point": "우린 몰랐을지 몰라",
+          "explanation": "우리는 (我們) 的縮略形 + 모르다 (不知道) 的過去式 + -(으)ㄹ지 모르다 (語法，也許會...)。"
+        },
+        {
+          "point": "살아가는 동안",
+          "explanation": "살아가다 (活下去) + -는 (現在冠詞形) + 동안 (期間)。"
+        }
+      ]
+    },
+    {
+      "korean": "조금씩 가까워지던 우리 어느새 자라서",
+      "translation": "曾一點點靠近的我們 不知不覺長大了",
+      "analysis": [
+        {
+          "point": "조금씩 가까워지던 우리",
+          "explanation": "조금씩 (一點點地) + 가까워지다 (變親近) + -던 (過去冠詞形) + 우리 (我們)。"
+        },
+        {
+          "point": "어느새 자라서",
+          "explanation": "어느새 (不知不覺) + 자라다 (長大) + -아서 (連接語尾，然後)。"
+        }
+      ]
+    },
+    {
+      "korean": "굳이 안녕이란 말도 필요 없을 것 같아",
+      "translation": "似乎連「再見」這樣的話也沒必要說了",
+      "analysis": [
+        {
+          "point": "굳이",
+          "explanation": "굳이 (副詞，硬要、非得)。"
+        },
+        {
+          "point": "안녕이란 말도",
+          "explanation": "안녕 (再見) + -(이)라는 (叫做...) + 말 (話) + -도 (也)。"
+        },
+        {
+          "point": "필요 없을 것 같아",
+          "explanation": "필요 없다 (不需要) + -(으)ㄹ 것 같다 (語法，好像...)。"
+        }
+      ]
+    },
+    {
+      "korean": "벅찬 이 세상에 I need you",
+      "translation": "在這艱辛的世界裡 I need you",
+      "analysis": [
+        {
+          "point": "벅찬 이 세상에",
+          "explanation": "벅차다 (吃力的、滿溢的) 的冠詞形 + 이 (這) + 세상 (世界) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "F R I E N D S",
+      "translation": "F R I E N D S",
+      "analysis": [
+        {
+          "point": "F R I E N D S",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "지겹도록 오래된",
+      "translation": "令人厭煩般長久",
+      "analysis": [
+        {
+          "point": "지겹도록",
+          "explanation": "지겹다 (厭煩) + -도록 (語法，到...的程度)。"
+        },
+        {
+          "point": "오래된",
+          "explanation": "오래되다 (長久) 的冠詞形。"
+        }
+      ]
+    },
+    {
+      "korean": "I know I love my best friends",
+      "translation": "我知道我愛我最好的朋友們",
+      "analysis": [
+        {
+          "point": "I know I love my best friends",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "몇 명이면 난 족해",
+      "translation": "只要有幾個人我就滿足了",
+      "analysis": [
+        {
+          "point": "몇 명이면",
+          "explanation": "몇 명 (幾個人) + -이면 (如果是...)。"
+        },
+        {
+          "point": "난 족해",
+          "explanation": "나는 (我) 的縮略形 + 족하다 (足夠) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "I said F R I E N D friend",
+      "translation": "我說 F R I E N D 朋友",
+      "analysis": [
+        {
+          "point": "I said F R I E N D friend",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "난 볼 거야 평생",
+      "translation": "我會見一輩子",
+      "analysis": [
+        {
+          "point": "난 볼 거야",
+          "explanation": "나는 (我) 的縮略形 + 보다 (見面) + -(으)ㄹ 것이다 (將會) 的口語形。"
+        },
+        {
+          "point": "평생",
+          "explanation": "평생 (名詞，一生、一輩子)。"
+        }
+      ]
+    },
+    {
+      "korean": "벅찬 이 세상에서 I need you",
+      "translation": "在這艱辛的世界裡 I need you",
+      "analysis": [
+        {
+          "point": "벅찬 이 세상에서",
+          "explanation": "벅차다 (吃力的、滿溢的) 的冠詞形 + 이 (這) + 세상 (世界) + -에서 (在)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "You're my B E to the S T (Best)",
+      "translation": "你是我的 B E S T (最好)",
+      "analysis": [
+        {
+          "point": "You're my B E to the S T (Best)",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "F R I E N D (Friend)",
+      "translation": "F R I E N D (朋友)",
+      "analysis": [
+        {
+          "point": "F R I E N D (Friend)",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "어쩌면 가족보다",
+      "translation": "也許比家人",
+      "analysis": [
+        {
+          "point": "어쩌면",
+          "explanation": "어쩌면 (副詞，也許)。"
+        },
+        {
+          "point": "가족보다",
+          "explanation": "가족 (家人) + -보다 (比較助詞，比...)"
+        }
+      ]
+    },
+    {
+      "korean": "나를 더 잘 알 수 있지 (Maybe)",
+      "translation": "更能了解我 (Maybe)",
+      "analysis": [
+        {
+          "point": "나를 더 잘 알 수 있지",
+          "explanation": "나를 (我) + 더 (更) + 잘 (好好地) + 알다 (了解) + -(으)ㄹ 수 있다 (能夠) + -지 (終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "다른 표현으로 말하면 (What what)",
+      "translation": "換個方式說的話 (What what)",
+      "analysis": [
+        {
+          "point": "다른 표현으로 말하면",
+          "explanation": "다르다 (不同) 的冠詞形 + 표현 (表現、說法) + -(으)로 (以...) + 말하다 (說) + -(으)면 (如果...的話)。"
+        }
+      ]
+    },
+    {
+      "korean": "You're my brother from another mother",
+      "translation": "你是我來自另一個母親的兄弟",
+      "analysis": [
+        {
+          "point": "You're my brother from another mother",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "Sister from another mister",
+      "translation": "來自另一個先生的姐妹",
+      "analysis": [
+        {
+          "point": "Sister from another mister",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "피는 안 섞였지만 별다를 건 없어",
+      "translation": "雖然沒有血緣關係 但也沒什麼不同",
+      "analysis": [
+        {
+          "point": "피는 안 섞였지만",
+          "explanation": "피 (血) + -는 (主格助詞) + 안 (否定副詞) + 섞이다 (混合) 的過去式 + -지만 (雖然...但是)。"
+        },
+        {
+          "point": "별다를 건 없어",
+          "explanation": "별다르다 (特別不同) + -(으)ㄹ 것 (事物) + -은 (主格助詞) 的縮略形 + 없다 (沒有)。"
+        }
+      ]
+    },
+    {
+      "korean": "Got each other's backs",
+      "translation": "互相支持",
+      "analysis": [
+        {
+          "point": "Got each other's backs",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "No matter what happens",
+      "translation": "無論發生什麼事",
+      "analysis": [
+        {
+          "point": "No matter what happens",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "When I'm down when I'm up",
+      "translation": "當我低落時 當我高興時",
+      "analysis": [
+        {
+          "point": "When I'm down when I'm up",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "어떤 상황이어도",
+      "translation": "無論是什麼情況",
+      "analysis": [
+        {
+          "point": "어떤 상황이어도",
+          "explanation": "어떤 (什麼樣的) + 상황 (狀況) + 이다 (是) + -어/아도 (即使...也)。"
+        }
+      ]
+    },
+    {
+      "korean": "내가 확실한 건",
+      "translation": "我能確定的是",
+      "analysis": [
+        {
+          "point": "내가 확실한 건",
+          "explanation": "내가 (我) + 확실하다 (確定) 的冠詞形 + 것 (事物) + -은 (主格助詞)。"
+        }
+      ]
+    },
+    {
+      "korean": "I can always count on ya",
+      "translation": "我永遠可以依靠你",
+      "analysis": [
+        {
+          "point": "I can always count on ya",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "우린 몰랐을지 몰라 살아가는 동안",
+      "translation": "我們或許不知道 在活著的這段期間",
+      "analysis": [
+        {
+          "point": "우린 몰랐을지 몰라",
+          "explanation": "우리는 (我們) 的縮略形 + 모르다 (不知道) 的過去式 + -(으)ㄹ지 모르다 (語法，也許會...)。"
+        },
+        {
+          "point": "살아가는 동안",
+          "explanation": "살아가다 (活下去) + -는 (現在冠詞形) + 동안 (期間)。"
+        }
+      ]
+    },
+    {
+      "korean": "조금씩 가까워지던 우리 어느새 자라서",
+      "translation": "曾一點點靠近的我們 不知不覺長大了",
+      "analysis": [
+        {
+          "point": "조금씩 가까워지던 우리",
+          "explanation": "조금씩 (一點點地) + 가까워지다 (變親近) + -던 (過去冠詞形) + 우리 (我們)。"
+        },
+        {
+          "point": "어느새 자라서",
+          "explanation": "어느새 (不知不覺) + 자라다 (長大) + -아서 (連接語尾，然後)。"
+        }
+      ]
+    },
+    {
+      "korean": "굳이 안녕이란 말도 필요 없을 것 같아",
+      "translation": "似乎連「再見」這樣的話也沒必要說了",
+      "analysis": [
+        {
+          "point": "굳이",
+          "explanation": "굳이 (副詞，硬要、非得)。"
+        },
+        {
+          "point": "안녕이란 말도",
+          "explanation": "안녕 (再見) + -(이)라는 (叫做...) + 말 (話) + -도 (也)。"
+        },
+        {
+          "point": "필요 없을 것 같아",
+          "explanation": "필요 없다 (不需要) + -(으)ㄹ 것 같다 (語法，好像...)。"
+        }
+      ]
+    },
+    {
+      "korean": "벅찬 이 세상에 I need you",
+      "translation": "在這艱辛的世界裡 I need you",
+      "analysis": [
+        {
+          "point": "벅찬 이 세상에",
+          "explanation": "벅차다 (吃力的、滿溢的) 的冠詞形 + 이 (這) + 세상 (世界) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "작은 꿈에서 비롯된",
+      "translation": "源自於小小的夢想",
+      "analysis": [
+        {
+          "point": "작은 꿈에서 비롯된",
+          "explanation": "작다 (小) 的冠詞形 + 꿈 (夢想) + -에서 (從) + 비롯되다 (源自於) 的過去冠詞形。"
+        }
+      ]
+    },
+    {
+      "korean": "그날을 생생히 기억해",
+      "translation": "生動地記得那一天",
+      "analysis": [
+        {
+          "point": "그날을",
+          "explanation": "그 (那) + 날 (天) + -을 (受格助詞)。"
+        },
+        {
+          "point": "생생히 기억해",
+          "explanation": "생생히 (副詞，生動地) + 기억하다 (記得) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "별이 되고 싶었던 아이 우연한 어떤 날",
+      "translation": "曾想成為星星的孩子 在偶然的某一天",
+      "analysis": [
+        {
+          "point": "별이 되고 싶었던 아이",
+          "explanation": "별 (星星) + -이 (主格助詞) + 되다 (成為) + -고 싶다 (想) + -었던 (過去冠詞形) + 아이 (孩子)。"
+        },
+        {
+          "point": "우연한 어떤 날",
+          "explanation": "우연하다 (偶然) 的冠詞形 + 어떤 (某個) + 날 (天)。"
+        }
+      ]
+    },
+    {
+      "korean": "시간의 파도를 타고 떠나",
+      "translation": "乘著時間的波浪離去",
+      "analysis": [
+        {
+          "point": "시간의 파도를 타고",
+          "explanation": "시간 (時間) + -의 (的所有格助詞) + 파도 (波浪) + -를 (受格助詞) + 타다 (搭乘) + -고 (連接語尾)。"
+        },
+        {
+          "point": "떠나",
+          "explanation": "떠나다 (離開) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "너와 나의 드라마 엔딩은 없어 잘 봐",
+      "translation": "你和我的戲劇沒有結局 好好地看著",
+      "analysis": [
+        {
+          "point": "너와 나의 드라마",
+          "explanation": "너 (你) + -와 (和) + 나의 (我的) + 드라마 (戲劇)。"
+        },
+        {
+          "point": "엔딩은 없어",
+          "explanation": "엔딩 (結局) + -은 (主格助詞) + 없다 (沒有)。"
+        },
+        {
+          "point": "잘 봐",
+          "explanation": "잘 (好好地) + 보다 (看) 的命令形。"
+        }
+      ]
+    },
+    {
+      "korean": "We'll make it alright 그래 살아가는 동안",
+      "translation": "我們會沒事的 是啊 在活著的這段期間",
+      "analysis": [
+        {
+          "point": "그래",
+          "explanation": "그래 (連接詞，是啊)。"
+        },
+        {
+          "point": "살아가는 동안",
+          "explanation": "살아가다 (活下去) + -는 (現在冠詞形) + 동안 (期間)。"
+        }
+      ]
+    },
+    {
+      "korean": "넌 누구보다 빛나 이제 내 손을 잡아",
+      "translation": "你比誰都耀眼 現在抓住我的手",
+      "analysis": [
+        {
+          "point": "넌 누구보다 빛나",
+          "explanation": "너는 (你) 的縮略形 + 누구 (誰) + -보다 (比) + 빛나다 (閃耀) 的非格式體。"
+        },
+        {
+          "point": "이제 내 손을 잡아",
+          "explanation": "이제 (現在) + 내 (我的) + 손 (手) + -을 (受格助詞) + 잡다 (抓住) 的命令形。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "우린 몰랐을지 몰라 살아가는 동안",
+      "translation": "我們或許不知道 在活著的這段期間",
+      "analysis": [
+        {
+          "point": "우린 몰랐을지 몰라",
+          "explanation": "우리는 (我們) 的縮略形 + 모르다 (不知道) 的過去式 + -(으)ㄹ지 모르다 (語法，也許會...)。"
+        },
+        {
+          "point": "살아가는 동안",
+          "explanation": "살아가다 (活下去) + -는 (現在冠詞形) + 동안 (期間)。"
+        }
+      ]
+    },
+    {
+      "korean": "조금씩 가까워지던 우리 어느새 자라서",
+      "translation": "曾一點點靠近的我們 不知不覺長大了",
+      "analysis": [
+        {
+          "point": "조금씩 가까워지던 우리",
+          "explanation": "조금씩 (一點點地) + 가까워지다 (變親近) + -던 (過去冠詞形) + 우리 (我們)。"
+        },
+        {
+          "point": "어느새 자라서",
+          "explanation": "어느새 (不知不覺) + 자라다 (長大) + -아서 (連接語尾，然後)。"
+        }
+      ]
+    },
+    {
+      "korean": "굳이 안녕이란 말도 필요 없을 것 같아",
+      "translation": "似乎連「再見」這樣的話也沒必要說了",
+      "analysis": [
+        {
+          "point": "굳이",
+          "explanation": "굳이 (副詞，硬要、非得)。"
+        },
+        {
+          "point": "안녕이란 말도",
+          "explanation": "안녕 (再見) + -(이)라는 (叫做...) + 말 (話) + -도 (也)。"
+        },
+        {
+          "point": "필요 없을 것 같아",
+          "explanation": "필요 없다 (不需要) + -(으)ㄹ 것 같다 (語法，好像...)。"
+        }
+      ]
+    },
+    {
+      "korean": "벅찬 이 세상에 I need you",
+      "translation": "在這艱辛的世界裡 I need you",
+      "analysis": [
+        {
+          "point": "벅찬 이 세상에",
+          "explanation": "벅차다 (吃力的、滿溢的) 的冠詞形 + 이 (這) + 세상 (世界) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "F R I E N D S",
+      "translation": "F R I E N D S",
+      "analysis": [
+        {
+          "point": "F R I E N D S",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "지겹도록 오래된",
+      "translation": "令人厭煩般長久",
+      "analysis": [
+        {
+          "point": "지겹도록",
+          "explanation": "지겹다 (厭煩) + -도록 (語法，到...的程度)。"
+        },
+        {
+          "point": "오래된",
+          "explanation": "오래되다 (長久) 的冠詞形。"
+        }
+      ]
+    },
+    {
+      "korean": "I know I love my best friends",
+      "translation": "我知道我愛我最好的朋友們",
+      "analysis": [
+        {
+          "point": "I know I love my best friends",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "몇 명이면 난 족해",
+      "translation": "只要有幾個人我就滿足了",
+      "analysis": [
+        {
+          "point": "몇 명이면",
+          "explanation": "몇 명 (幾個人) + -이면 (如果是...)。"
+        },
+        {
+          "point": "난 족해",
+          "explanation": "나는 (我) 的縮略形 + 족하다 (足夠) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "I said F R I E N D friend",
+      "translation": "我說 F R I E N D 朋友",
+      "analysis": [
+        {
+          "point": "I said F R I E N D friend",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "난 볼 거야 평생",
+      "translation": "我會見一輩子",
+      "analysis": [
+        {
+          "point": "난 볼 거야",
+          "explanation": "나는 (我) 的縮略形 + 보다 (見面) + -(으)ㄹ 것이다 (將會) 的口語形。"
+        },
+        {
+          "point": "평생",
+          "explanation": "평생 (名詞，一生、一輩子)。"
+        }
+      ]
+    },
+    {
+      "korean": "벅찬 이 세상에서 I need you",
+      "translation": "在這艱辛的世界裡 I need you",
+      "analysis": [
+        {
+          "point": "벅찬 이 세상에서",
+          "explanation": "벅차다 (吃力的、滿溢的) 的冠詞形 + 이 (這) + 세상 (世界) + -에서 (在)。"
+        }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "살아가다", "chinese": "活下去", "pos": "動詞" },
+    { "korean": "잠기다", "chinese": "沉浸", "pos": "動詞" },
+    { "korean": "잃어버리다", "chinese": "失去、弄丟", "pos": "動詞" },
+    { "korean": "아득하다", "chinese": "遙遠的", "pos": "形容詞" },
+    { "korean": "느껴지다", "chinese": "被感覺到", "pos": "動詞" },
+    { "korean": "더듬다", "chinese": "摸索", "pos": "動詞" },
+    { "korean": "여전하다", "chinese": "依舊", "pos": "形容詞" },
+    { "korean": "다투다", "chinese": "爭吵", "pos": "動詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "삶", "chinese": "人生", "pos": "名詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "가까워지다", "chinese": "變親近", "pos": "動詞" },
+    { "korean": "자라다", "chinese": "長大", "pos": "動詞" },
+    { "korean": "굳이", "chinese": "硬要、非得", "pos": "副詞" },
+    { "korean": "벅차다", "chinese": "吃力的、滿溢的", "pos": "形容詞" },
+    { "korean": "지겹다", "chinese": "厭煩的", "pos": "形容詞" },
+    { "korean": "오래되다", "chinese": "長久的", "pos": "動詞" },
+    { "korean": "족하다", "chinese": "足夠的", "pos": "形容詞" },
+    { "korean": "평생", "chinese": "一生、一輩子", "pos": "名詞" },
+    { "korean": "표현", "chinese": "表現、說法", "pos": "名詞" },
+    { "korean": "섞이다", "chinese": "混合", "pos": "動詞" },
+    { "korean": "별다르다", "chinese": "特別不同的", "pos": "形容詞" },
+    { "korean": "상황", "chinese": "狀況", "pos": "名詞" },
+    { "korean": "확실하다", "chinese": "確定的", "pos": "形容詞" },
+    { "korean": "비롯되다", "chinese": "源自於", "pos": "動詞" },
+    { "korean": "생생히", "chinese": "生動地", "pos": "副詞" },
+    { "korean": "우연하다", "chinese": "偶然的", "pos": "形容詞" },
+    { "korean": "파도", "chinese": "波浪", "pos": "名詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "id": "btob-insane",
+  "title": "Insane (비밀)",
+  "artist": "BTOB (비투비)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "(Oh, oh, oh, oh, oh, oh, oh, baby, without you)",
+      "translation": "(喔, 喔, 喔, 喔, 喔, 喔, 喔, baby, without you)",
+      "analysis": [
+        {
+          "point": "without you",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "널 데려다 줬던 집도 다른 남자의 집이었고",
+      "translation": "送你回的家也是別的男人的家",
+      "analysis": [
+        {
+          "point": "널 데려다 줬던 집도",
+          "explanation": "너를 (你) 的縮略 + 데려다 주다 (送...回去) + -았/었던 (過去冠詞形) + 집 (家) + -도 (助詞，也)。"
+        },
+        {
+          "point": "다른 남자의 집이었고",
+          "explanation": "다르다 (不同) 的冠詞形 + 남자 (男人) + -의 (的所有格助詞) + 집 (家) + 이다 (是) 的過去式 + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "사람 많은 곳에선 좀 떨어져 걷는 느낌이었어",
+      "translation": "在人多的地方 感覺會稍微保持距離地走",
+      "analysis": [
+        {
+          "point": "사람 많은 곳에선",
+          "explanation": "사람 (人) + 많다 (多) 的冠詞形 + 곳 (地方) + -에서 (在) + -는 (主題助詞)。"
+        },
+        {
+          "point": "좀 떨어져",
+          "explanation": "좀 (副詞，稍微) + 떨어지다 (分開、保持距離) 的連接形。"
+        },
+        {
+          "point": "걷는 느낌이었어",
+          "explanation": "걷다 (走) + -는 (現在冠詞形) + 느낌 (感覺) + 이다 (是) 的過去式非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "우린 커다랗게 부풀었던 풍선이",
+      "translation": "我們曾像巨大膨脹的氣球",
+      "analysis": [
+        {
+          "point": "우린",
+          "explanation": "우리는 (我們) 的縮略形。"
+        },
+        {
+          "point": "커다랗게 부풀었던 풍선이",
+          "explanation": "커다랗다 (巨大) + -게 (副詞形語尾) + 부풀다 (膨脹) + -았/었던 (過去冠詞形) + 풍선 (氣球) + -이 (主格助詞)。"
+        }
+      ]
+    },
+    {
+      "korean": "쪼그라들 듯 식었지",
+      "translation": "像洩了氣般冷卻了",
+      "analysis": [
+        {
+          "point": "쪼그라들 듯",
+          "explanation": "쪼그라들다 (縮小、洩氣) + -(으)ㄴ/는 듯 (語法，好像...一樣)。"
+        },
+        {
+          "point": "식었지",
+          "explanation": "식다 (冷卻) + -었- (過去式) + -지 (非格式體終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "답답한 마음을 감출 수가 없어 난",
+      "translation": "我無法隱藏鬱悶的心情",
+      "analysis": [
+        {
+          "point": "답답한 마음을",
+          "explanation": "답답하다 (鬱悶) 的冠詞形 + 마음 (心) + -을 (受格助詞)。"
+        },
+        {
+          "point": "감출 수가 없어",
+          "explanation": "감추다 (隱藏) + -(으)ㄹ 수 없다 (語法，無法...)."
+        },
+        {
+          "point": "난",
+          "explanation": "나는 (我) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "뭐가 잘못된 거지",
+      "translation": "是哪裡出錯了呢",
+      "analysis": [
+        {
+          "point": "뭐가",
+          "explanation": "뭣 (什麼) + -이 (主格助詞) 的縮略形。"
+        },
+        {
+          "point": "잘못된 거지",
+          "explanation": "잘못되다 (出錯) 的過去冠詞形 + 것 (事情) + 이다 (是) 的疑問形。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "지난 밤과 항상 똑같아",
+      "translation": "和昨晚總是一樣",
+      "analysis": [
+        {
+          "point": "지난 밤과",
+          "explanation": "지나다 (經過) 的過去冠詞形 + 밤 (夜晚) + -과 (助詞，和)。"
+        },
+        {
+          "point": "항상 똑같아",
+          "explanation": "항상 (副詞，總是) + 똑같다 (一樣) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "너는 외면하고",
+      "translation": "你視而不見",
+      "analysis": [
+        {
+          "point": "너는 외면하고",
+          "explanation": "너 (你) + -는 (主格助詞) + 외면하다 (無視、別過臉) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "나만 매달리는 사이는 이젠 지쳤다고",
+      "translation": "只有我單方面糾纏的關係 現在已經累了",
+      "analysis": [
+        {
+          "point": "나만 매달리는 사이는",
+          "explanation": "나 (我) + -만 (助詞，只有) + 매달리다 (糾纏) + -는 (現在冠詞形) + 사이 (關係) + -는 (主格助詞)。"
+        },
+        {
+          "point": "이젠 지쳤다고",
+          "explanation": "이제 (現在) + -는 (主格助詞) 的縮略形 + 지치다 (疲憊) + -었- (過去式) + -다고 (間接引述)。"
+        }
+      ]
+    },
+    {
+      "korean": "항상 난 너였기에",
+      "translation": "因為我一直以來只有你",
+      "analysis": [
+        {
+          "point": "항상 난 너였기에",
+          "explanation": "항상 (總是) + 나는 (我) 的縮略形 + 너 (你) + 이다 (是) 的過去式 + -었기에 (語法，因為...)。"
+        }
+      ]
+    },
+    {
+      "korean": "너를 믿었던 나기에",
+      "translation": "因為是那個曾相信你的我",
+      "analysis": [
+        {
+          "point": "너를 믿었던 나기에",
+          "explanation": "너를 (你) + 믿다 (相信) + -았/었던 (過去冠詞形) + 나 (我) + 이기에 (語法，因為是...)。"
+        }
+      ]
+    },
+    {
+      "korean": "매일 밤 외로워 괴로워 지겨워",
+      "translation": "每晚都孤單 痛苦 厭煩",
+      "analysis": [
+        {
+          "point": "매일 밤",
+          "explanation": "매일 (每天) + 밤 (夜晚)。"
+        },
+        {
+          "point": "외로워 괴로워 지겨워",
+          "explanation": "외롭다 (孤單), 괴롭다 (痛苦), 지겹다 (厭煩) 的非格式體連接。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내가 떠나줄게 니가 싫어지게",
+      "translation": "我會離開你 讓你討厭我",
+      "analysis": [
+        {
+          "point": "내가 떠나줄게",
+          "explanation": "내가 (我) + 떠나다 (離開) + -아/어 주다 (為...做某事) + -(으)ㄹ게 (意志形語尾)。"
+        },
+        {
+          "point": "니가 싫어지게",
+          "explanation": "네가 (你) 的口語 + 싫어지다 (變得討厭) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "이제 더는 귀찮게 매달리지 않게",
+      "translation": "現在不會再麻煩地糾纏你了",
+      "analysis": [
+        {
+          "point": "이제 더는",
+          "explanation": "이제 (現在) + 더는 (副詞，再也(不)...)。"
+        },
+        {
+          "point": "귀찮게",
+          "explanation": "귀찮다 (麻煩) + -게 (副詞形語尾)。"
+        },
+        {
+          "point": "매달리지 않게",
+          "explanation": "매달리다 (糾纏) + -지 않다 (否定) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "I'm gonna be better",
+      "translation": "我會變得更好",
+      "analysis": [
+        {
+          "point": "I'm gonna be better",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "차라리 없는게 더",
+      "translation": "倒不如沒有更好",
+      "analysis": [
+        {
+          "point": "차라리",
+          "explanation": "차라리 (副詞，倒不如、寧可)。"
+        },
+        {
+          "point": "없는게 더",
+          "explanation": "없다 (沒有) + -는 것 (名詞化) + -이 (主格助詞) 的縮略形 + 더 (副詞，更)。"
+        }
+      ]
+    },
+    {
+      "korean": "오늘따라 비밀이 너무 많은 너",
+      "translation": "今天格外多秘密的你",
+      "analysis": [
+        {
+          "point": "오늘따라",
+          "explanation": "오늘 (今天) + -따라 (助詞，唯獨、格外)。"
+        },
+        {
+          "point": "비밀이 너무 많은 너",
+          "explanation": "비밀 (秘密) + -이 (主格助詞) + 너무 (副詞，太) + 많다 (多) 的冠詞形 + 너 (你)。"
+        }
+      ]
+    },
+    {
+      "korean": "You make me go insane (insane)",
+      "translation": "你快讓我瘋了 (瘋了)",
+      "analysis": [
+        {
+          "point": "You make me go insane",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "She gives me so much pain (pain)",
+      "translation": "她給我太多痛苦 (痛苦)",
+      "analysis": [
+        {
+          "point": "She gives me so much pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I won't be back again",
+      "translation": "我不會再回來",
+      "analysis": [
+        {
+          "point": "I won't be back again",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I wanna hate you",
+      "translation": "我想要恨你",
+      "analysis": [
+        {
+          "point": "I wanna hate you",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "You make me go insane (insane)",
+      "translation": "你快讓我瘋了 (瘋了)",
+      "analysis": [
+        {
+          "point": "You make me go insane",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "She gives me so much pain (pain)",
+      "translation": "她給我太多痛苦 (痛苦)",
+      "analysis": [
+        {
+          "point": "She gives me so much pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I won't be back again, oh yeah",
+      "translation": "我不會再回來, oh yeah",
+      "analysis": [
+        {
+          "point": "I won't be back again",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "매일 밤 똑같이 넌 외면하지만",
+      "translation": "雖然每晚你都同樣地視而不見",
+      "analysis": [
+        {
+          "point": "매일 밤 똑같이",
+          "explanation": "매일 (每天) + 밤 (夜晚) + 똑같이 (一樣地)。"
+        },
+        {
+          "point": "넌 외면하지만",
+          "explanation": "너는 (你) 的縮略形 + 외면하다 (無視) + -지만 (轉折語尾，雖然...但是)。"
+        }
+      ]
+    },
+    {
+      "korean": "(널 만나기 전으로 ridin' now, say goodbye)",
+      "translation": "(回到遇見你之前 ridin' now, say goodbye)",
+      "analysis": [
+        {
+          "point": "널 만나기 전으로",
+          "explanation": "너를 (你) 的縮略形 + 만나다 (遇見) + -기 전 (語法，在...之前) + -(으)로 (格助詞，往)。"
+        }
+      ]
+    },
+    {
+      "korean": "후회 없이 보내는 게 힘들지만",
+      "translation": "雖然要了無後悔地送走你很困難",
+      "analysis": [
+        {
+          "point": "후회 없이",
+          "explanation": "후회 (後悔) + 없이 (沒有地)。"
+        },
+        {
+          "point": "보내는 게 힘들지만",
+          "explanation": "보내다 (送走) + -는 것 (名詞化) + -이 (主格助詞) 的縮略形 + 힘들다 (困難) + -지만 (轉折語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "네 모습이 아직 잘 실감이 나질 않아 난",
+      "translation": "你的模樣我至今仍沒有真實感",
+      "analysis": [
+        {
+          "point": "네 모습이",
+          "explanation": "네 (你的) + 모습 (模樣) + -이 (主格助詞)。"
+        },
+        {
+          "point": "아직 잘 실감이 나질 않아",
+          "explanation": "아직 (副詞，還) + 잘 (副詞，好好地) + 실감이 나다 (有真實感) + -지 않다 (否定)。"
+        }
+      ]
+    },
+    {
+      "korean": "우리 한 약속은 바람과 함께 사라졌어",
+      "translation": "我們的約定隨風消逝了",
+      "analysis": [
+        {
+          "point": "우리 한 약속은",
+          "explanation": "우리 (我們) + 하다 (做) 的過去冠詞形 + 약속 (約定) + -은 (主格助詞)。"
+        },
+        {
+          "point": "바람과 함께",
+          "explanation": "바람 (風) + -과 함께 (和...一起)。"
+        },
+        {
+          "point": "사라졌어",
+          "explanation": "사라지다 (消失) 的過去式非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "남은 건 너의 차가운 시선",
+      "translation": "剩下的 是你冰冷的視線",
+      "analysis": [
+        {
+          "point": "남은 건",
+          "explanation": "남다 (剩下) 的過去冠詞形 + 것 (東西) + -은 (主格助詞)。"
+        },
+        {
+          "point": "너의 차가운 시선",
+          "explanation": "너의 (你的) + 차갑다 (冰冷) 的冠詞形 + 시선 (視線)。"
+        }
+      ]
+    },
+    {
+      "korean": "거지 같이 여전히 네 미소를 그리워하는",
+      "translation": "像個乞丐一樣 依舊思念著你的微笑",
+      "analysis": [
+        {
+          "point": "거지 같이",
+          "explanation": "거지 (乞丐) + 같이 (像...一樣)。"
+        },
+        {
+          "point": "여전히",
+          "explanation": "여전히 (副詞，依舊)。"
+        },
+        {
+          "point": "네 미소를 그리워하는",
+          "explanation": "네 (你的) + 미소 (微笑) + -를 (受格助詞) + 그리워하다 (思念) + -는 (現在冠詞形)。"
+        }
+      ]
+    },
+    {
+      "korean": "내가 미워 이젠 정말 너와는",
+      "translation": "討厭這樣的我 現在真的和你",
+      "analysis": [
+        {
+          "point": "내가 미워",
+          "explanation": "내가 (我) + 밉다 (討厭) 的非格式體。"
+        },
+        {
+          "point": "이젠 정말 너와는",
+          "explanation": "이제 (現在) + -는 (主格助詞) 的縮略形 + 정말 (真的) + 너 (你) + -와 (和) + -는 (主格助詞)。"
+        }
+      ]
+    },
+    {
+      "korean": "끝이란 걸 인정 못해 죽겠어",
+      "translation": "無法承認結束了 真是要死了",
+      "analysis": [
+        {
+          "point": "끝이란 걸",
+          "explanation": "끝 (結束) + -이라는 것 (叫做...的事) 的縮略形 + -을 (受格助詞)。"
+        },
+        {
+          "point": "인정 못해",
+          "explanation": "인정 (承認) + 못 하다 (無法做)。"
+        },
+        {
+          "point": "죽겠어",
+          "explanation": "죽다 (死) + -겠- (語法，表示強烈感受或推測，快要...)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내가 떠나줄게 니가 싫어지게",
+      "translation": "我會離開你 讓你討厭我",
+      "analysis": [
+        {
+          "point": "내가 떠나줄게",
+          "explanation": "내가 (我) + 떠나다 (離開) + -아/어 주다 (為...做某事) + -(으)ㄹ게 (意志形語尾)。"
+        },
+        {
+          "point": "니가 싫어지게",
+          "explanation": "네가 (你) 的口語 + 싫어지다 (變得討厭) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "이제 더는 귀찮게 매달리지 않게",
+      "translation": "現在不會再麻煩地糾纏你了",
+      "analysis": [
+        {
+          "point": "이제 더는",
+          "explanation": "이제 (現在) + 더는 (副詞，再也(不)...)。"
+        },
+        {
+          "point": "귀찮게",
+          "explanation": "귀찮다 (麻煩) + -게 (副詞形語尾)。"
+        },
+        {
+          "point": "매달리지 않게",
+          "explanation": "매달리다 (糾纏) + -지 않다 (否定) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "I'm gonna be better",
+      "translation": "我會變得更好",
+      "analysis": [
+        {
+          "point": "I'm gonna be better",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "차라리 없는게 더",
+      "translation": "倒不如沒有更好",
+      "analysis": [
+        {
+          "point": "차라리",
+          "explanation": "차라리 (副詞，倒不如、寧可)。"
+        },
+        {
+          "point": "없는게 더",
+          "explanation": "없다 (沒有) + -는 것 (名詞化) + -이 (主格助詞) 的縮略形 + 더 (副詞，更)。"
+        }
+      ]
+    },
+    {
+      "korean": "오늘따라 비밀이 너무 많은 너",
+      "translation": "今天格外多秘密的你",
+      "analysis": [
+        {
+          "point": "오늘따라",
+          "explanation": "오늘 (今天) + -따라 (助詞，唯獨、格外)。"
+        },
+        {
+          "point": "비밀이 너무 많은 너",
+          "explanation": "비밀 (秘密) + -이 (主格助詞) + 너무 (副詞，太) + 많다 (多) 的冠詞形 + 너 (你)。"
+        }
+      ]
+    },
+    {
+      "korean": "You make me go insane (insane)",
+      "translation": "你快讓我瘋了 (瘋了)",
+      "analysis": [
+        {
+          "point": "You make me go insane",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "She gives me so much pain (pain)",
+      "translation": "她給我太多痛苦 (痛苦)",
+      "analysis": [
+        {
+          "point": "She gives me so much pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I won't be back again",
+      "translation": "我不會再回來",
+      "analysis": [
+        {
+          "point": "I won't be back again",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I wanna hate you",
+      "translation": "我想要恨你",
+      "analysis": [
+        {
+          "point": "I wanna hate you",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "You make me go insane (insane)",
+      "translation": "你快讓我瘋了 (瘋了)",
+      "analysis": [
+        {
+          "point": "You make me go insane",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "She gives me so much pain (pain)",
+      "translation": "她給我太多痛苦 (痛苦)",
+      "analysis": [
+        {
+          "point": "She gives me so much pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I won't be back again, oh yeah",
+      "translation": "我不會再回來, oh yeah",
+      "analysis": [
+        {
+          "point": "I won't be back again",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "널 첨 본 기억은 흐릿하고",
+      "translation": "初次見你的記憶很模糊",
+      "analysis": [
+        {
+          "point": "널 첨 본 기억은",
+          "explanation": "너를 (你) 的縮略形 + 처음 (初次) 的縮略形 + 보다 (看見) 的過去冠詞形 + 기억 (記憶) + -은 (主格助詞)。"
+        },
+        {
+          "point": "흐릿하고",
+          "explanation": "흐릿하다 (模糊) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑이란 그네는 멈췄고",
+      "translation": "名為愛情的鞦韆停止了",
+      "analysis": [
+        {
+          "point": "사랑이란 그네는",
+          "explanation": "사랑 (愛情) + -(이)라는 (叫做...) + 그네 (鞦韆) + -는 (主格助詞)。"
+        },
+        {
+          "point": "멈췄고",
+          "explanation": "멈추다 (停止) 的過去式 + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "다신 돌아오지 않을 기찰 타고",
+      "translation": "搭上不會再回來的火車",
+      "analysis": [
+        {
+          "point": "다신",
+          "explanation": "다시는 (再也) 的縮略形。"
+        },
+        {
+          "point": "돌아오지 않을 기찰 타고",
+          "explanation": "돌아오다 (回來) + -지 않다 (否定) + -(으)ㄹ (未來冠詞形) + 기차를 (火車) 的口語 + 타다 (搭乘) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "I'll let you go",
+      "translation": "我會放你走",
+      "analysis": [
+        {
+          "point": "I'll let you go",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I'll let you go",
+      "translation": "我會放你走",
+      "analysis": [
+        {
+          "point": "I'll let you go",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "내가 다 버릴게 이젠 다 놓을게",
+      "translation": "我會全部丟掉 現在會全部放下",
+      "analysis": [
+        {
+          "point": "내가 다 버릴게",
+          "explanation": "내가 (我) + 다 (全部) + 버리다 (丟棄) + -(으)ㄹ게 (意志形語尾)。"
+        },
+        {
+          "point": "이젠 다 놓을게",
+          "explanation": "이제 (現在) + -는 (主格助詞) 的縮略形 + 다 (全部) + 놓다 (放下) + -(으)ㄹ게 (意志形語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "그만 떠나도 돼",
+      "translation": "你可以離開了",
+      "analysis": [
+        {
+          "point": "그만",
+          "explanation": "그만 (副詞，到此為止、停止)。"
+        },
+        {
+          "point": "떠나도 돼",
+          "explanation": "떠나다 (離開) + -아/어도 되다 (語法，可以...)."
+        }
+      ]
+    },
+    {
+      "korean": "다신 날 찾지마 마음은 아프지만",
+      "translation": "別再找我了 雖然心很痛",
+      "analysis": [
+        {
+          "point": "다신 날 찾지마",
+          "explanation": "다시는 (再也) 的縮略形 + 나를 (我) 的縮略形 + 찾다 (尋找) + -지 마 (命令句否定)。"
+        },
+        {
+          "point": "마음은 아프지만",
+          "explanation": "마음 (心) + -은 (主格助詞) + 아프다 (痛) + -지만 (轉折語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "잊어버릴 수 있게",
+      "translation": "好讓我能夠忘記",
+      "analysis": [
+        {
+          "point": "잊어버릴 수 있게",
+          "explanation": "잊어버리다 (忘掉) + -(으)ㄹ 수 있다 (能夠) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "내가 떠나줄게 니가 싫어지게",
+      "translation": "我會離開你 讓你討厭我",
+      "analysis": [
+        {
+          "point": "내가 떠나줄게",
+          "explanation": "내가 (我) + 떠나다 (離開) + -아/어 주다 (為...做某事) + -(으)ㄹ게 (意志形語尾)。"
+        },
+        {
+          "point": "니가 싫어지게",
+          "explanation": "네가 (你) 的口語 + 싫어지다 (變得討厭) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "이제 더는 귀찮게 매달리지 않게",
+      "translation": "現在不會再麻煩地糾纏你了",
+      "analysis": [
+        {
+          "point": "이제 더는",
+          "explanation": "이제 (現在) + 더는 (副詞，再也(不)...)。"
+        },
+        {
+          "point": "귀찮게",
+          "explanation": "귀찮다 (麻煩) + -게 (副詞形語尾)。"
+        },
+        {
+          "point": "매달리지 않게",
+          "explanation": "매달리다 (糾纏) + -지 않다 (否定) + -게 (目的語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "I'm gonna be better",
+      "translation": "我會變得更好",
+      "analysis": [
+        {
+          "point": "I'm gonna be better",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "차라리 없는게 더",
+      "translation": "倒不如沒有更好",
+      "analysis": [
+        {
+          "point": "차라리",
+          "explanation": "차라리 (副詞，倒不如、寧可)。"
+        },
+        {
+          "point": "없는게 더",
+          "explanation": "없다 (沒有) + -는 것 (名詞化) + -이 (主格助詞) 的縮略形 + 더 (副詞，更)。"
+        }
+      ]
+    },
+    {
+      "korean": "오늘따라 비밀이 너무 많은 너",
+      "translation": "今天格外多秘密的你",
+      "analysis": [
+        {
+          "point": "오늘따라",
+          "explanation": "오늘 (今天) + -따라 (助詞，唯獨、格外)。"
+        },
+        {
+          "point": "비밀이 너무 많은 너",
+          "explanation": "비밀 (秘密) + -이 (主格助詞) + 너무 (副詞，太) + 많다 (多) 的冠詞形 + 너 (你)。"
+        }
+      ]
+    },
+    {
+      "korean": "You make me go insane (insane)",
+      "translation": "你快讓我瘋了 (瘋了)",
+      "analysis": [
+        {
+          "point": "You make me go insane",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "She gives me so much pain (pain)",
+      "translation": "她給我太多痛苦 (痛苦)",
+      "analysis": [
+        {
+          "point": "She gives me so much pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I won't be back again",
+      "translation": "我不會再回來",
+      "analysis": [
+        {
+          "point": "I won't be back again",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I wanna hate you",
+      "translation": "我想要恨你",
+      "analysis": [
+        {
+          "point": "I wanna hate you",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "You make me go insane (insane)",
+      "translation": "你快讓我瘋了 (瘋了)",
+      "analysis": [
+        {
+          "point": "You make me go insane",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "She gives me so much pain (pain)",
+      "translation": "她給我太多痛苦 (痛苦)",
+      "analysis": [
+        {
+          "point": "She gives me so much pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I won't be back again, oh no, oh no",
+      "translation": "我不會再回來, oh no, oh no",
+      "analysis": [
+        {
+          "point": "I won't be back again",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "데려다 주다", "chinese": "送...回去", "pos": "片語" },
+    { "korean": "떨어지다", "chinese": "分開、保持距離", "pos": "動詞" },
+    { "korean": "부풀다", "chinese": "膨脹", "pos": "動詞" },
+    { "korean": "식다", "chinese": "冷卻", "pos": "動詞" },
+    { "korean": "답답하다", "chinese": "鬱悶的", "pos": "形容詞" },
+    { "korean": "감추다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "잘못되다", "chinese": "出錯", "pos": "動詞" },
+    { "korean": "외면하다", "chinese": "無視、別過臉", "pos": "動詞" },
+    { "korean": "매달리다", "chinese": "糾纏、吊著", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "외롭다", "chinese": "孤單的", "pos": "形容詞" },
+    { "korean": "괴롭다", "chinese": "痛苦的", "pos": "形容詞" },
+    { "korean": "지겹다", "chinese": "厭煩的", "pos": "形容詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "싫어지다", "chinese": "變得討厭", "pos": "動詞" },
+    { "korean": "귀찮다", "chinese": "麻煩的", "pos": "形容詞" },
+    { "korean": "비밀", "chinese": "秘密", "pos": "名詞" },
+    { "korean": "후회", "chinese": "後悔", "pos": "名詞" },
+    { "korean": "실감이 나다", "chinese": "有真實感", "pos": "片語" },
+    { "korean": "약속", "chinese": "約定", "pos": "名詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "그리워하다", "chinese": "思念", "pos": "動詞" },
+    { "korean": "밉다", "chinese": "討厭的", "pos": "形容詞" },
+    { "korean": "인정하다", "chinese": "承認", "pos": "動詞" },
+    { "korean": "흐릿하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "버리다", "chinese": "拋棄、丟掉", "pos": "動詞" },
+    { "korean": "놓다", "chinese": "放下", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "잊어버리다", "chinese": "忘掉", "pos": "動詞" }
+  ]
+}
