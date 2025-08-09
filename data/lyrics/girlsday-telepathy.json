@@ -1,0 +1,634 @@
+{
+  "id": "girlsday-telepathy",
+  "title": "텔레파시 (Telepathy)",
+  "artist": "Girl's Day (걸스데이)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "저기 저기 가는 boy",
+      "translation": "那裡 那裡走過去的 boy",
+      "analysis": [
+        {
+          "point": "저기 저기",
+          "explanation": "저기 (那裡)，重複用以強調。"
+        },
+        {
+          "point": "가는 boy",
+          "explanation": "가다 (走) + -는 (現在冠詞形) + boy (男孩)。"
+        }
+      ]
+    },
+    {
+      "korean": "몰라 날 슬쩍 보네",
+      "translation": "哎呀 偷偷地看了我一眼",
+      "analysis": [
+        {
+          "point": "몰라",
+          "explanation": "몰라 (感嘆詞，哎呀、天啊)。"
+        },
+        {
+          "point": "날 슬쩍 보네",
+          "explanation": "나를 (我) 的縮略形 + 슬쩍 (副詞，偷偷地) + 보다 (看) + -네 (感嘆語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "아마 본능이었겠지",
+      "translation": "大概是本能吧",
+      "analysis": [
+        {
+          "point": "아마",
+          "explanation": "아마 (副詞，大概)。"
+        },
+        {
+          "point": "본능이었겠지",
+          "explanation": "본능 (本能) + 이다 (是) 的過去式 + -었겠지 (語法，表示對過去的推測)。"
+        }
+      ]
+    },
+    {
+      "korean": "Girl like me 놓칠 리가 없지",
+      "translation": "像我這樣的女孩 不可能錯過吧",
+      "analysis": [
+        {
+          "point": "Girl like me",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        },
+        {
+          "point": "놓칠 리가 없지",
+          "explanation": "놓치다 (錯過) + -(으)ㄹ 리가 없다 (語法，不可能...) + -지 (終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "One step 시크한 walking",
+      "translation": "One step 時髦的 walking",
+      "analysis": [
+        {
+          "point": "시크한 walking",
+          "explanation": "시크하다 (時髦、高冷) 的冠詞形 + walking (走路)。"
+        }
+      ]
+    },
+    {
+      "korean": "Two step 향기가 흘러",
+      "translation": "Two step 香氣飄散",
+      "analysis": [
+        {
+          "point": "향기가 흘러",
+          "explanation": "향기 (香氣) + -가 (主格助詞) + 흐르다 (流動、飄散) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "틱.탁. 손끝만 스쳐도",
+      "translation": "滴.答. 即使只是指尖擦過",
+      "analysis": [
+        {
+          "point": "손끝만 스쳐도",
+          "explanation": "손끝 (指尖) + -만 (只) + 스치다 (擦過) + -아/어도 (即使...也)。"
+        }
+      ]
+    },
+    {
+      "korean": "굳어버릴 my body",
+      "translation": "就會僵住的 my body",
+      "analysis": [
+        {
+          "point": "굳어버릴",
+          "explanation": "굳다 (僵硬) + -어 버리다 (表示動作完成) + -(으)ㄹ (未來冠詞形)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "올 듯 말 듯 머뭇머뭇",
+      "translation": "欲來又止 猶豫不決",
+      "analysis": [
+        {
+          "point": "올 듯 말 듯",
+          "explanation": "오다 (來) + -(으)ㄹ 듯 말 듯 (慣用句，似...非...、欲...又止)。"
+        },
+        {
+          "point": "머뭇머뭇",
+          "explanation": "머뭇거리다 (猶豫) 的擬態詞。"
+        }
+      ]
+    },
+    {
+      "korean": "맘은 두근두근",
+      "translation": "心撲通撲通地跳",
+      "analysis": [
+        {
+          "point": "맘은",
+          "explanation": "마음 (心) + -은 (主格助詞)。"
+        },
+        {
+          "point": "두근두근",
+          "explanation": "두근거리다 (心跳加速) 的擬態詞。"
+        }
+      ]
+    },
+    {
+      "korean": "텔레파시라도 쏴볼까",
+      "translation": "要不要試著發射心電感應呢",
+      "analysis": [
+        {
+          "point": "텔레파시라도",
+          "explanation": "텔레파시 (心電感應) + -(이)라도 (即使是...也好)。"
+        },
+        {
+          "point": "쏴볼까",
+          "explanation": "쏘다 (發射) + -아/어 보다 (試著...) + -(으)ㄹ까(요)? (自問或詢問意見)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Come on baby, Come on baby, Come on baby",
+      "translation": "Come on baby, Come on baby, Come on baby",
+      "analysis": [
+        {
+          "point": "Come on baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑에 빠져라",
+      "translation": "陷入愛情吧",
+      "analysis": [
+        {
+          "point": "사랑에 빠져라",
+          "explanation": "사랑 (愛情) + -에 (在) + 빠지다 (陷入) + -아/어라 (命令形)。"
+        }
+      ]
+    },
+    {
+      "korean": "Love me baby, Love me baby, Love me baby",
+      "translation": "Love me baby, Love me baby, Love me baby",
+      "analysis": [
+        {
+          "point": "Love me baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "아이 들켜 버렸다",
+      "translation": "哎呀 被發現了",
+      "analysis": [
+        {
+          "point": "아이",
+          "explanation": "아이 (感嘆詞，哎呀)。"
+        },
+        {
+          "point": "들켜 버렸다",
+          "explanation": "들키다 (被發現) + -어 버리다 (表示動作完成) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "Come on baby, Come on baby, Come on baby",
+      "translation": "Come on baby, Come on baby, Come on baby",
+      "analysis": [
+        {
+          "point": "Come on baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "내게로 다가온다",
+      "translation": "向我走來",
+      "analysis": [
+        {
+          "point": "내게로",
+          "explanation": "내게 (向我) + -(으)로 (方向助詞)。"
+        },
+        {
+          "point": "다가온다",
+          "explanation": "다가오다 (走近、靠近) 的書面體。"
+        }
+      ]
+    },
+    {
+      "korean": "어느새 내 눈앞에",
+      "translation": "不知不覺間 在我眼前",
+      "analysis": [
+        {
+          "point": "어느새",
+          "explanation": "어느새 (副詞，不知不覺間)。"
+        },
+        {
+          "point": "내 눈앞에",
+          "explanation": "내 (我的) + 눈앞 (眼前) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "korean": "숨이 멎을 것 같아",
+      "translation": "呼吸好像要停止了",
+      "analysis": [
+        {
+          "point": "숨이 멎을 것 같아",
+          "explanation": "숨 (呼吸) + -이 (主格助詞) + 멎다 (停止) + -(으)ㄹ 것 같다 (好像要...)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "짜릿짜릿한 눈빛",
+      "translation": "酥麻酥麻的眼神",
+      "analysis": [
+        {
+          "point": "짜릿짜릿한 눈빛",
+          "explanation": "짜릿하다 (酥麻、刺激) 的擬態詞 + 눈빛 (眼神)。"
+        }
+      ]
+    },
+    {
+      "korean": "Feelin 느낌이 오니",
+      "translation": "Feelin 有感覺了嗎",
+      "analysis": [
+        {
+          "point": "느낌이 오니",
+          "explanation": "느낌 (感覺) + -이 (主格助詞) + 오다 (來) + -니? (疑問語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "Waitin 먼저 올 때까지",
+      "translation": "Waitin 直到你先過來為止",
+      "analysis": [
+        {
+          "point": "먼저 올 때까지",
+          "explanation": "먼저 (副詞，先) + 오다 (來) + -(으)ㄹ 때까지 (直到...的時候)。"
+        }
+      ]
+    },
+    {
+      "korean": "Tic toc 완벽한 timing",
+      "translation": "Tic toc 完美的 timing",
+      "analysis": [
+        {
+          "point": "완벽한 timing",
+          "explanation": "완벽하다 (完美) 的冠詞形 + timing (時機)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "갈 듯 말 듯 쭈삣쭈삣",
+      "translation": "欲走又止 猶豫不決",
+      "analysis": [
+        {
+          "point": "갈 듯 말 듯",
+          "explanation": "가다 (走) + -(으)ㄹ 듯 말 듯 (慣用句，似...非...、欲...又止)。"
+        },
+        {
+          "point": "쭈삣쭈삣",
+          "explanation": "쭈삣거리다 (猶豫、畏縮) 的擬態詞。"
+        }
+      ]
+    },
+    {
+      "korean": "맘은 두근두근",
+      "translation": "心撲通撲通地跳",
+      "analysis": [
+        {
+          "point": "맘은",
+          "explanation": "마음 (心) + -은 (主格助詞)。"
+        },
+        {
+          "point": "두근두근",
+          "explanation": "두근거리다 (心跳加速) 的擬態詞。"
+        }
+      ]
+    },
+    {
+      "korean": "텔레파시라도 쏴볼까",
+      "translation": "要不要試著發射心電感應呢",
+      "analysis": [
+        {
+          "point": "텔레파시라도",
+          "explanation": "텔레파시 (心電感應) + -(이)라도 (即使是...也好)。"
+        },
+        {
+          "point": "쏴볼까",
+          "explanation": "쏘다 (發射) + -아/어 보다 (試著...) + -(으)ㄹ까(요)? (自問或詢問意見)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Come on baby, Come on baby, Come on baby",
+      "translation": "Come on baby, Come on baby, Come on baby",
+      "analysis": [
+        {
+          "point": "Come on baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑에 빠져라",
+      "translation": "陷入愛情吧",
+      "analysis": [
+        {
+          "point": "사랑에 빠져라",
+          "explanation": "사랑 (愛情) + -에 (在) + 빠지다 (陷入) + -아/어라 (命令形)。"
+        }
+      ]
+    },
+    {
+      "korean": "Love me baby, Love me baby, Love me baby",
+      "translation": "Love me baby, Love me baby, Love me baby",
+      "analysis": [
+        {
+          "point": "Love me baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "아이 들켜 버렸다",
+      "translation": "哎呀 被發現了",
+      "analysis": [
+        {
+          "point": "아이",
+          "explanation": "아이 (感嘆詞，哎呀)。"
+        },
+        {
+          "point": "들켜 버렸다",
+          "explanation": "들키다 (被發現) + -어 버리다 (表示動作完成) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "Come on baby, Come on baby, Come on baby",
+      "translation": "Come on baby, Come on baby, Come on baby",
+      "analysis": [
+        {
+          "point": "Come on baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "내게로 다가온다",
+      "translation": "向我走來",
+      "analysis": [
+        {
+          "point": "내게로",
+          "explanation": "내게 (向我) + -(으)로 (方向助詞)。"
+        },
+        {
+          "point": "다가온다",
+          "explanation": "다가오다 (走近、靠近) 的書面體。"
+        }
+      ]
+    },
+    {
+      "korean": "어느새 내 눈앞에",
+      "translation": "不知不覺間 在我眼前",
+      "analysis": [
+        {
+          "point": "어느새",
+          "explanation": "어느새 (副詞，不知不覺間)。"
+        },
+        {
+          "point": "내 눈앞에",
+          "explanation": "내 (我的) + 눈앞 (眼前) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "korean": "숨이 멎을 것 같아",
+      "translation": "呼吸好像要停止了",
+      "analysis": [
+        {
+          "point": "숨이 멎을 것 같아",
+          "explanation": "숨 (呼吸) + -이 (主格助詞) + 멎다 (停止) + -(으)ㄹ 것 같다 (好像要...)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Everybody knows you",
+      "translation": "大家都認識你",
+      "analysis": [
+        {
+          "point": "Everybody knows you",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "우리 그렇고 그런 issue",
+      "translation": "我們是那樣那樣的 issue",
+      "analysis": [
+        {
+          "point": "우리 그렇고 그런 issue",
+          "explanation": "우리 (我們) + 그렇고 그렇다 (那樣那樣的) + issue (議題)。"
+        }
+      ]
+    },
+    {
+      "korean": "Sorry but you're ma style 몽타주",
+      "translation": "Sorry but you're my style 蒙太奇",
+      "analysis": [
+        {
+          "point": "몽타주",
+          "explanation": "몽타주 (法語 Montage，蒙太奇)。"
+        }
+      ]
+    },
+    {
+      "korean": "(your eyes~) 내게 말해, Need you",
+      "translation": "(your eyes~) 對我說, Need you",
+      "analysis": [
+        {
+          "point": "내게 말해",
+          "explanation": "내게 (對我) + 말하다 (說) 的命令形。"
+        }
+      ]
+    },
+    {
+      "korean": "도망칠 수도 없을걸",
+      "translation": "你連逃跑都做不到的",
+      "analysis": [
+        {
+          "point": "도망칠 수도 없을걸",
+          "explanation": "도망치다 (逃跑) + -(으)ㄹ 수 (能夠) + -도 (也) + 없다 (沒有) + -(으)ㄹ걸(요) (表示推測的終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "내꺼라 소문내 버린걸",
+      "translation": "我已經放出風聲說你是我的了",
+      "analysis": [
+        {
+          "point": "내꺼라",
+          "explanation": "내 것 (我的東西) + -(이)라고 (引述) 的縮略形。"
+        },
+        {
+          "point": "소문내 버린걸",
+          "explanation": "소문내다 (放出風聲) + -어 버리다 (動作完成) + -(으)ㄴ걸(요) (表示感嘆或說明)。"
+        }
+      ]
+    },
+    {
+      "korean": "NOW 더는 WHAT YOU DO",
+      "translation": "NOW 別再 WHAT YOU DO",
+      "analysis": [
+        {
+          "point": "더는",
+          "explanation": "더 (再) + -는 (主格助詞)。"
+        }
+      ]
+    },
+    {
+      "korean": "망설이지 마",
+      "translation": "不要猶豫",
+      "analysis": [
+        {
+          "point": "망설이지 마",
+          "explanation": "망설이다 (猶豫) + -지 마 (命令句否定)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Come on baby, Come on baby, Come on baby",
+      "translation": "Come on baby, Come on baby, Come on baby",
+      "analysis": [
+        {
+          "point": "Come on baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑에 빠져라",
+      "translation": "陷入愛情吧",
+      "analysis": [
+        {
+          "point": "사랑에 빠져라",
+          "explanation": "사랑 (愛情) + -에 (在) + 빠지다 (陷入) + -아/어라 (命令形)。"
+        }
+      ]
+    },
+    {
+      "korean": "Love me baby, Love me baby, Love me baby",
+      "translation": "Love me baby, Love me baby, Love me baby",
+      "analysis": [
+        {
+          "point": "Love me baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "아이 들켜 버렸다",
+      "translation": "哎呀 被發現了",
+      "analysis": [
+        {
+          "point": "아이",
+          "explanation": "아이 (感嘆詞，哎呀)。"
+        },
+        {
+          "point": "들켜 버렸다",
+          "explanation": "들키다 (被發現) + -어 버리다 (表示動作完成) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "Come on baby, Come on baby, Come on baby",
+      "translation": "Come on baby, Come on baby, Come on baby",
+      "analysis": [
+        {
+          "point": "Come on baby",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "내게로 다가온다",
+      "translation": "向我走來",
+      "analysis": [
+        {
+          "point": "내게로",
+          "explanation": "내게 (向我) + -(으)로 (方向助詞)。"
+        },
+        {
+          "point": "다가온다",
+          "explanation": "다가오다 (走近、靠近) 的書面體。"
+        }
+
+      ]
+    },
+    {
+      "korean": "어느새 내 눈앞에",
+      "translation": "不知不覺間 在我眼前",
+      "analysis": [
+        {
+          "point": "어느새",
+          "explanation": "어느새 (副詞，不知不覺間)。"
+        },
+        {
+          "point": "내 눈앞에",
+          "explanation": "내 (我的) + 눈앞 (眼前) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "korean": "숨이 멎을 것 같아",
+      "translation": "呼吸好像要停止了",
+      "analysis": [
+        {
+          "point": "숨이 멎을 것 같아",
+          "explanation": "숨 (呼吸) + -이 (主格助詞) + 멎다 (停止) + -(으)ㄹ 것 같다 (好像要...)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Yeah, yeah, yeah!",
+      "translation": "Yeah, yeah, yeah!",
+      "analysis": [
+        {
+          "point": "Yeah, yeah, yeah!",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "슬쩍", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "본능", "chinese": "本能", "pos": "名詞" },
+    { "korean": "놓치다", "chinese": "錯過", "pos": "動詞" },
+    { "korean": "시크하다", "chinese": "時髦、高冷的", "pos": "形容詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流動、飄散", "pos": "動詞" },
+    { "korean": "손끝", "chinese": "指尖", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "擦過", "pos": "動詞" },
+    { "korean": "굳다", "chinese": "僵硬", "pos": "動詞" },
+    { "korean": "머뭇거리다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "두근거리다", "chinese": "心跳加速", "pos": "動詞" },
+    { "korean": "텔레파시", "chinese": "心電感應", "pos": "名詞" },
+    { "korean": "쏘다", "chinese": "發射", "pos": "動詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "들키다", "chinese": "被發現", "pos": "動詞" },
+    { "korean": "다가오다", "chinese": "走近、靠近", "pos": "動詞" },
+    { "korean": "눈앞", "chinese": "眼前", "pos": "名詞" },
+    { "korean": "멎다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "짜릿하다", "chinese": "酥麻的、刺激的", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "쭈삣거리다", "chinese": "猶豫、畏縮", "pos": "動詞" },
+    { "korean": "도망치다", "chinese": "逃跑", "pos": "動詞" },
+    { "korean": "소문내다", "chinese": "放出風聲", "pos": "動詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "id": "btob-beautiful-pain",
+  "title": "Beautiful Pain",
+  "artist": "BTOB (비투비)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "사랑을 만나 이별을 하고",
+      "translation": "遇見了愛情 又迎來了離別",
+      "analysis": [
+        {
+          "point": "사랑을 만나",
+          "explanation": "사랑 (愛情) + -을 (受格助詞) + 만나다 (遇見) + -고 (連接語尾)。"
+        },
+        {
+          "point": "이별을 하고",
+          "explanation": "이별 (離別) + -을 (受格助詞) + 하다 (做、經歷) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "수없이 많은 날을 울고 웃었다",
+      "translation": "在無數個日子裡哭過也笑過",
+      "analysis": [
+        {
+          "point": "수없이 많은 날을",
+          "explanation": "수없이 (無數地) + 많다 (多) 的冠詞形 + 날 (日子) + -을 (受格助詞)。"
+        },
+        {
+          "point": "울고 웃었다",
+          "explanation": "울다 (哭) + -고 (和) + 웃다 (笑) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "시간이란 건 순간이란 게",
+      "translation": "所謂時間 所謂瞬間",
+      "analysis": [
+        {
+          "point": "시간이란 건",
+          "explanation": "시간 (時間) + -(이)란 것 (所謂...) 的縮略形。"
+        },
+        {
+          "point": "순간이란 게",
+          "explanation": "순간 (瞬間) + -(이)란 것 (所謂...) + -이 (主格助詞) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "아름답고도 아프구나",
+      "translation": "既美麗又痛苦啊",
+      "analysis": [
+        {
+          "point": "아름답고도",
+          "explanation": "아름답다 (美麗) + -고도 (既...也...)。"
+        },
+        {
+          "point": "아프구나",
+          "explanation": "아프다 (痛苦) + -구나 (感嘆語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "낭만 잃은 시인 거의 시체 같아",
+      "translation": "失去浪漫的詩人 幾乎像個屍體",
+      "analysis": [
+        {
+          "point": "낭만 잃은 시인",
+          "explanation": "낭만 (浪漫) + -을 (受格助詞) + 잃다 (失去) 的冠詞形 + 시인 (詩人)。"
+        },
+        {
+          "point": "거의 시체 같아",
+          "explanation": "거의 (幾乎) + 시체 (屍體) + 같다 (像) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "바라고 있어 막연한 보답",
+      "translation": "期盼著渺茫的回報",
+      "analysis": [
+        {
+          "point": "바라고 있어",
+          "explanation": "바라다 (盼望) + -고 있다 (狀態持續)。"
+        },
+        {
+          "point": "막연한 보답",
+          "explanation": "막연하다 (渺茫) 的冠詞形 + 보답 (回報)。"
+        }
+      ]
+    },
+    {
+      "korean": "아픔을 피해 또 다른 아픔을 만나",
+      "translation": "躲開了痛苦 又遇見了另一個痛苦",
+      "analysis": [
+        {
+          "point": "아픔을 피해",
+          "explanation": "아픔 (痛苦) + -을 (受格助詞) + 피하다 (躲避) 的連接形。"
+        },
+        {
+          "point": "또 다른 아픔을 만나",
+          "explanation": "또 (又) + 다르다 (不同) 的冠詞形 + 아픔 (痛苦) + -을 (受格助詞) + 만나다 (遇見)。"
+        }
+      ]
+    },
+    {
+      "korean": "옆에 있던 행복을 못 찾았을까",
+      "translation": "難道沒能找到身旁的幸福嗎",
+      "analysis": [
+        {
+          "point": "옆에 있던 행복을",
+          "explanation": "옆 (旁邊) + -에 (在) + 있다 (在) 的過去冠詞形 + 행복 (幸福) + -을 (受格助詞)。"
+        },
+        {
+          "point": "못 찾았을까",
+          "explanation": "못 (無法) + 찾다 (尋找) 的過去式 + -(으)ㄹ까(요)? (疑問)。"
+        }
+      ]
+    },
+    {
+      "korean": "너를 보내고 얼마나",
+      "translation": "送走你之後 有多麼地",
+      "analysis": [
+        {
+          "point": "너를 보내고",
+          "explanation": "너를 (你) + 보내다 (送走) + -고 (然後)。"
+        },
+        {
+          "point": "얼마나",
+          "explanation": "얼마나 (副詞，多麼地)。"
+        }
+      ]
+    },
+    {
+      "korean": "나 많이 후회했는지 몰라",
+      "translation": "不知道我有多後悔",
+      "analysis": [
+        {
+          "point": "나 많이 후회했는지",
+          "explanation": "나 (我) + 많이 (很) + 후회하다 (後悔) 的過去式 + -는지 (間接疑問)。"
+        },
+        {
+          "point": "몰라",
+          "explanation": "모르다 (不知道) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "지금 이 순간에도 많은 걸",
+      "translation": "即使在現在這個瞬間 很多事",
+      "analysis": [
+        {
+          "point": "지금 이 순간에도",
+          "explanation": "지금 (現在) + 이 (這) + 순간 (瞬間) + -에 (在) + -도 (也)。"
+        },
+        {
+          "point": "많은 걸",
+          "explanation": "많다 (多) 的冠詞形 + 것을 (事物) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "놓치고 있는데 말이야",
+      "translation": "也正在錯過啊",
+      "analysis": [
+        {
+          "point": "놓치고 있는데",
+          "explanation": "놓치다 (錯過) + -고 있다 (正在) + -는데 (說明背景)。"
+        },
+        {
+          "point": "말이야",
+          "explanation": "말이다 (是說) 的口語體，用於語氣強調。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시간은 또 흘러 여기까지 왔네요",
+      "translation": "時間又流逝 走到了這裡呢",
+      "analysis": [
+        {
+          "point": "시간은 또 흘러",
+          "explanation": "시간 (時間) + -은 (主格助詞) + 또 (又) + 흐르다 (流逝) 的連接形。"
+        },
+        {
+          "point": "여기까지 왔네요",
+          "explanation": "여기까지 (到這裡) + 오다 (來) 的過去式 + -네요 (感嘆語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "지금도 결국 추억으로 남겠죠",
+      "translation": "現在最終也只會留下回憶吧",
+      "analysis": [
+        {
+          "point": "지금도 결국",
+          "explanation": "지금 (現在) + -도 (也) + 결국 (終究)。"
+        },
+        {
+          "point": "추억으로 남겠죠",
+          "explanation": "추억 (回憶) + -(으)로 (作為) + 남다 (留下) + -겠죠 (推測語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "다시 시작하는 게 이젠 두려운걸요",
+      "translation": "如今要重新開始 令人害怕啊",
+      "analysis": [
+        {
+          "point": "다시 시작하는 게",
+          "explanation": "다시 (再次) + 시작하다 (開始) + -는 것 (名詞化) + -이 (主格助詞) 的縮略形。"
+        },
+        {
+          "point": "이젠 두려운걸요",
+          "explanation": "이제 (如今) + -는 (主格助詞) 的縮略形 + 두렵다 (害怕) + -(으)ㄴ걸요 (終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "이별을 만나 아플까 봐",
+      "translation": "怕遇見離別會心痛",
+      "analysis": [
+        {
+          "point": "이별을 만나",
+          "explanation": "이별 (離別) + -을 (受格助詞) + 만나다 (遇見)。"
+        },
+        {
+          "point": "아플까 봐",
+          "explanation": "아프다 (痛) + -(으)ㄹ까 봐 (擔心會...)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사랑을 만나 이별을 하고",
+      "translation": "遇見了愛情 又迎來了離別",
+      "analysis": [
+        {
+          "point": "사랑을 만나",
+          "explanation": "사랑 (愛情) + -을 (受格助詞) + 만나다 (遇見) + -고 (連接語尾)。"
+        },
+        {
+          "point": "이별을 하고",
+          "explanation": "이별 (離別) + -을 (受格助詞) + 하다 (做、經歷) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "수없이 많은 날을 울고 웃었다",
+      "translation": "在無數個日子裡哭過也笑過",
+      "analysis": [
+        {
+          "point": "수없이 많은 날을",
+          "explanation": "수없이 (無數地) + 많다 (多) 的冠詞形 + 날 (日子) + -을 (受格助詞)。"
+        },
+        {
+          "point": "울고 웃었다",
+          "explanation": "울다 (哭) + -고 (和) + 웃다 (笑) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "시간이란 건 순간이란 게",
+      "translation": "所謂時間 所謂瞬間",
+      "analysis": [
+        {
+          "point": "시간이란 건",
+          "explanation": "시간 (時間) + -(이)란 것 (所謂...) 的縮略形。"
+        },
+        {
+          "point": "순간이란 게",
+          "explanation": "순간 (瞬間) + -(이)란 것 (所謂...) + -이 (主格助詞) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "아름답고도 아프구나",
+      "translation": "既美麗又痛苦啊",
+      "analysis": [
+        {
+          "point": "아름답고도",
+          "explanation": "아름답다 (美麗) + -고도 (既...也...)。"
+        },
+        {
+          "point": "아프구나",
+          "explanation": "아프다 (痛苦) + -구나 (感嘆語尾)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Yeah love then pain love then pain",
+      "translation": "Yeah love then pain love then pain",
+      "analysis": [
+        {
+          "point": "love then pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "Yeah let's learn from our mistakes",
+      "translation": "Yeah let's learn from our mistakes",
+      "analysis": [
+        {
+          "point": "learn from our mistakes",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "우린 실패로부터 성장해 (성장해)",
+      "translation": "我們從失敗中成長 (成長)",
+      "analysis": [
+        {
+          "point": "우린",
+          "explanation": "우리는 (我們) 的縮略形。"
+        },
+        {
+          "point": "실패로부터 성장해",
+          "explanation": "실패 (失敗) + -(으)로부터 (從) + 성장하다 (成長) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑은 하고 싶지만",
+      "translation": "雖然想談戀愛",
+      "analysis": [
+        {
+          "point": "사랑은 하고 싶지만",
+          "explanation": "사랑 (愛情) + -은 (主格助詞) + 하다 (做) + -고 싶다 (想) + -지만 (但是)。"
+        }
+      ]
+    },
+    {
+      "korean": "Nobody wants to deal with the pain",
+      "translation": "Nobody wants to deal with the pain",
+      "analysis": [
+        {
+          "point": "deal with the pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "That follows no",
+      "translation": "That follows no",
+      "analysis": [
+        {
+          "point": "That follows no",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "I understand them though",
+      "translation": "I understand them though",
+      "analysis": [
+        {
+          "point": "I understand them though",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "korean": "Yeah 이해돼 이해돼 사랑이라는 게",
+      "translation": "Yeah 可以理解 可以理解 所謂愛情這回事",
+      "analysis": [
+        {
+          "point": "이해돼",
+          "explanation": "이해되다 (被理解) 的非格式體。"
+        },
+        {
+          "point": "사랑이라는 게",
+          "explanation": "사랑 (愛情) + -(이)라는 것 (所謂...) + -이 (主格助詞) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "매일 웃게 하던 게",
+      "translation": "曾每天讓我笑的事",
+      "analysis": [
+        {
+          "point": "매일 웃게 하던 게",
+          "explanation": "매일 (每天) + 웃다 (笑) + -게 하다 (使...) + -던 (過去冠詞形) + 것 (事物) + -이 (主格助詞) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "이제는 매일 괴롭게 해 (괴로워)",
+      "translation": "如今每天都讓我痛苦 (好痛苦)",
+      "analysis": [
+        {
+          "point": "이제는 매일",
+          "explanation": "이제 (如今) + -는 (主格助詞) + 매일 (每天)。"
+        },
+        {
+          "point": "괴롭게 해",
+          "explanation": "괴롭다 (痛苦) + -게 (副詞形) + 하다 (使...) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "아픈 건 없어지겠지만",
+      "translation": "痛苦會消失",
+      "analysis": [
+        {
+          "point": "아픈 건",
+          "explanation": "아프다 (痛) 的冠詞形 + 것 (事物) + -은 (主格助詞)。"
+        },
+        {
+          "point": "없어지겠지만",
+          "explanation": "없어지다 (消失) + -겠지만 (雖然會...但是)。"
+        }
+      ]
+    },
+    {
+      "korean": "상처들은 영원해",
+      "translation": "傷痕卻是永遠的",
+      "analysis": [
+        {
+          "point": "상처들은",
+          "explanation": "상처 (傷痕) + -들 (們) + -은 (主格助詞)。"
+        },
+        {
+          "point": "영원해",
+          "explanation": "영원하다 (永遠) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "But that's why it's called Beautiful pain",
+      "translation": "But that's why it's called Beautiful pain",
+      "analysis": [
+        {
+          "point": "Beautiful pain",
+          "explanation": "英文歌詞，無韓文文法解析。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시간은 슬프게 기다리질 않네요",
+      "translation": "時間悲傷地不等任何人呢",
+      "analysis": [
+        {
+          "point": "시간은 슬프게",
+          "explanation": "시간 (時間) + -은 (主格助詞) + 슬프다 (悲傷) + -게 (副詞形)。"
+        },
+        {
+          "point": "기다리질 않네요",
+          "explanation": "기다리다 (等待) + -지를 않다 (否定強調) + -네요 (感嘆語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "오늘도 결국 어제가 되겠죠",
+      "translation": "今天最終也會成為昨天吧",
+      "analysis": [
+        {
+          "point": "오늘도 결국",
+          "explanation": "오늘 (今天) + -도 (也) + 결국 (終究)。"
+        },
+        {
+          "point": "어제가 되겠죠",
+          "explanation": "어제 (昨天) + -가 (主格助詞) + 되다 (成為) + -겠죠 (推測語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "다시 시작하는 게 너무나 힘든걸요",
+      "translation": "重新開始是如此地困難啊",
+      "analysis": [
+        {
+          "point": "다시 시작하는 게",
+          "explanation": "다시 (再次) + 시작하다 (開始) + -는 것 (名詞化) + -이 (主格助詞) 的縮略形。"
+        },
+        {
+          "point": "너무나 힘든걸요",
+          "explanation": "너무나 (非常) + 힘들다 (困難) + -(으)ㄴ걸요 (終結語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "어김없이 끝이 날까 봐",
+      "translation": "怕又會毫無例外地結束",
+      "analysis": [
+        {
+          "point": "어김없이",
+          "explanation": "어김없이 (副詞，毫無例外地)。"
+        },
+        {
+          "point": "끝이 날까 봐",
+          "explanation": "끝이 나다 (結束) + -(으)ㄹ까 봐 (擔心會...)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "사랑을 만나 이별을 하고",
+      "translation": "遇見了愛情 又迎來了離別",
+      "analysis": [
+        {
+          "point": "사랑을 만나",
+          "explanation": "사랑 (愛情) + -을 (受格助詞) + 만나다 (遇見) + -고 (連接語尾)。"
+        },
+        {
+          "point": "이별을 하고",
+          "explanation": "이별 (離別) + -을 (受格助詞) + 하다 (做、經歷) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "수없이 많은 날을 울고 웃었다",
+      "translation": "在無數個日子裡哭過也笑過",
+      "analysis": [
+        {
+          "point": "수없이 많은 날을",
+          "explanation": "수없이 (無數地) + 많다 (多) 的冠詞形 + 날 (日子) + -을 (受格助詞)。"
+        },
+        {
+          "point": "울고 웃었다",
+          "explanation": "울다 (哭) + -고 (和) + 웃다 (笑) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "시간이란 건 순간이란 게",
+      "translation": "所謂時間 所謂瞬間",
+      "analysis": [
+        {
+          "point": "시간이란 건",
+          "explanation": "시간 (時間) + -(이)란 것 (所謂...) 的縮略形。"
+        },
+        {
+          "point": "순간이란 게",
+          "explanation": "순간 (瞬間) + -(이)란 것 (所謂...) + -이 (主格助詞) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "아름답고도 아프구나",
+      "translation": "既美麗又痛苦啊",
+      "analysis": [
+        {
+          "point": "아름답고도",
+          "explanation": "아름답다 (美麗) + -고도 (既...也...)。"
+        },
+        {
+          "point": "아프구나",
+          "explanation": "아프다 (痛苦) + -구나 (感嘆語尾)。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "사랑이란 건 멈출 수 없다",
+      "translation": "所謂愛情是無法停止的",
+      "analysis": [
+        {
+          "point": "사랑이란 건",
+          "explanation": "사랑 (愛情) + -(이)란 것 (所謂...) 的縮略形。"
+        },
+        {
+          "point": "멈출 수 없다",
+          "explanation": "멈추다 (停止) + -(으)ㄹ 수 없다 (無法)。"
+        }
+      ]
+    },
+    {
+      "korean": "아픔은 반복돼",
+      "translation": "痛苦反覆著",
+      "analysis": [
+        {
+          "point": "아픔은 반복돼",
+          "explanation": "아픔 (痛苦) + -은 (主格助詞) + 반복되다 (被反覆) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "이렇게도 아픈데 또 찾아와",
+      "translation": "即使這麼痛 卻又找上門來",
+      "analysis": [
+        {
+          "point": "이렇게도 아픈데",
+          "explanation": "이렇게 (這樣) + -도 (也) + 아프다 (痛) + -는데 (轉折)。"
+        },
+        {
+          "point": "또 찾아와",
+          "explanation": "또 (又) + 찾아오다 (找來) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑은 남몰래",
+      "translation": "愛情偷偷地",
+      "analysis": [
+        {
+          "point": "사랑은 남몰래",
+          "explanation": "사랑 (愛情) + -은 (主格助詞) + 남몰래 (副詞，偷偷地)。"
+        }
+      ]
+    },
+    {
+      "korean": "우린 누구나가 바보가 돼",
+      "translation": "我們任何人都會變成傻瓜",
+      "analysis": [
+        {
+          "point": "우린 누구나가",
+          "explanation": "우리는 (我們) 的縮略形 + 누구나 (任何人) + -가 (主格助詞)。"
+        },
+        {
+          "point": "바보가 돼",
+          "explanation": "바보 (傻瓜) + -가 (主格助詞) + 되다 (變成) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "korean": "무기력하게도 한순간에",
+      "translation": "無力地 在一瞬間",
+      "analysis": [
+        {
+          "point": "무기력하게도",
+          "explanation": "무기력하다 (無力) + -게 (副詞形) + -도 (也)。"
+        },
+        {
+          "point": "한순간에",
+          "explanation": "한순간 (一瞬間) + -에 (在)。"
+        }
+      ]
+    },
+    {
+      "korean": "오래도록 기다렸다는 듯",
+      "translation": "像是等待了許久一般",
+      "analysis": [
+        {
+          "point": "오래도록",
+          "explanation": "오래도록 (副詞，長久地)。"
+        },
+        {
+          "point": "기다렸다는 듯",
+          "explanation": "기다리다 (等待) 的過去式 + -다는 듯 (像是...一樣)。"
+        }
+      ]
+    },
+    {
+      "korean": "아픈 사랑 앞에 물들어가",
+      "translation": "在痛苦的愛情面前被渲染",
+      "analysis": [
+        {
+          "point": "아픈 사랑 앞에",
+          "explanation": "아프다 (痛) 的冠詞形 + 사랑 (愛情) + 앞 (前面) + -에 (在)。"
+        },
+        {
+          "point": "물들어가",
+          "explanation": "물들어가다 (被渲染、被染色) 的非格式體。"
+        }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "그대를 만나 사랑을 하고",
+      "translation": "遇見了你 談了戀愛",
+      "analysis": [
+        {
+          "point": "그대를 만나",
+          "explanation": "그대 (你) + -를 (受格助詞) + 만나다 (遇見) + -고 (連接)。"
+        },
+        {
+          "point": "사랑을 하고",
+          "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做) + -고 (連接)。"
+        }
+      ]
+    },
+    {
+      "korean": "그 어떤 순간보다 행복했었다",
+      "translation": "比任何瞬間都還要幸福過",
+      "analysis": [
+        {
+          "point": "그 어떤 순간보다",
+          "explanation": "그 어떤 (任何) + 순간 (瞬間) + -보다 (比)。"
+        },
+        {
+          "point": "행복했었다",
+          "explanation": "행복하다 (幸福) 的過去完成式。"
+        }
+      ]
+    },
+    {
+      "korean": "그대는 부디 아프지 말고",
+      "translation": "你千萬不要心痛",
+      "analysis": [
+        {
+          "point": "그대는 부디",
+          "explanation": "그대 (你) + -는 (主格助詞) + 부디 (副詞，千萬、務必)。"
+        },
+        {
+          "point": "아프지 말고",
+          "explanation": "아프다 (痛) + -지 말고 (不要...而且...)。"
+        }
+      ]
+    },
+    {
+      "korean": "아름다웠길 바란다",
+      "translation": "希望你曾是美麗的",
+      "analysis": [
+        {
+          "point": "아름다웠길",
+          "explanation": "아름답다 (美麗) 的過去式 + -기를 (名詞化) 的縮略形。"
+        },
+        {
+          "point": "바란다",
+          "explanation": "바라다 (盼望) 的書面體。"
+        }
+      ]
+    },
+    {
+      "korean": "사랑을 만나 이별을 하고",
+      "translation": "遇見了愛情 又迎來了離別",
+      "analysis": [
+        {
+          "point": "사랑을 만나",
+          "explanation": "사랑 (愛情) + -을 (受格助詞) + 만나다 (遇見) + -고 (連接語尾)。"
+        },
+        {
+          "point": "이별을 하고",
+          "explanation": "이별 (離別) + -을 (受格助詞) + 하다 (做、經歷) + -고 (連接語尾)。"
+        }
+      ]
+    },
+    {
+      "korean": "수없이 많은 날을 울고 웃었다",
+      "translation": "在無數個日子裡哭過也笑過",
+      "analysis": [
+        {
+          "point": "수없이 많은 날을",
+          "explanation": "수없이 (無數地) + 많다 (多) 的冠詞形 + 날 (日子) + -을 (受格助詞)。"
+        },
+        {
+          "point": "울고 웃었다",
+          "explanation": "울다 (哭) + -고 (和) + 웃다 (笑) 的過去式。"
+        }
+      ]
+    },
+    {
+      "korean": "시간이란 건 순간이란 게",
+      "translation": "所謂時間 所謂瞬間",
+      "analysis": [
+        {
+          "point": "시간이란 건",
+          "explanation": "시간 (時間) + -(이)란 것 (所謂...) 的縮略形。"
+        },
+        {
+          "point": "순간이란 게",
+          "explanation": "순간 (瞬間) + -(이)란 것 (所謂...) + -이 (主格助詞) 的縮略形。"
+        }
+      ]
+    },
+    {
+      "korean": "아름답고도 아프구나",
+      "translation": "既美麗又痛苦啊",
+      "analysis": [
+        {
+          "point": "아름답고도",
+          "explanation": "아름답다 (美麗) + -고도 (既...也...)。"
+        },
+        {
+          "point": "아프구나",
+          "explanation": "아프다 (痛苦) + -구나 (感嘆語尾)。"
+        }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "수없이", "chinese": "無數地", "pos": "副詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "아프다", "chinese": "痛苦的、痛的", "pos": "形容詞" },
+    { "korean": "낭만", "chinese": "浪漫", "pos": "名詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "시체", "chinese": "屍體", "pos": "名詞" },
+    { "korean": "바라다", "chinese": "盼望", "pos": "動詞" },
+    { "korean": "막연하다", "chinese": "渺茫的", "pos": "形容詞" },
+    { "korean": "보답", "chinese": "回報", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
+    { "korean": "놓치다", "chinese": "錯過", "pos": "動詞" },
+    { "korean": "흐르다", "chinese": "流逝", "pos": "動詞" },
+    { "korean": "결국", "chinese": "終究", "pos": "副詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "두렵다", "chinese": "害怕的", "pos": "形容詞" },
+    { "korean": "실패", "chinese": "失敗", "pos": "名詞" },
+    { "korean": "성장하다", "chinese": "成長", "pos": "動詞" },
+    { "korean": "이해되다", "chinese": "被理解", "pos": "動詞" },
+    { "korean": "괴롭다", "chinese": "痛苦的", "pos": "形容詞" },
+    { "korean": "없어지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷痕", "pos": "名詞" },
+    { "korean": "영원하다", "chinese": "永遠的", "pos": "形容詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "어김없이", "chinese": "毫無例外地", "pos": "副詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "반복되다", "chinese": "被反覆", "pos": "動詞" },
+    { "korean": "찾아오다", "chinese": "找來", "pos": "動詞" },
+    { "korean": "남몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "무기력하다", "chinese": "無力的", "pos": "形容詞" },
+    { "korean": "오래도록", "chinese": "長久地", "pos": "副詞" },
+    { "korean": "물들어가다", "chinese": "被渲染", "pos": "動詞" },
+    { "korean": "부디", "chinese": "千萬、務必", "pos": "副詞" }
+  ]
+}

@@ -253,6 +253,34 @@
     "artist": "Girl's Day (걸스데이)",  
     "lyricsFile": "../data/lyrics/girlsday-macaron.json"
   },
+  {
+    "id": "girlsday-blue-rain",
+    "title": "Blue Rain",
+    "artist": "Girl's Day (Cover)",
+    "lyricsFile": "../data/lyrics/girlsday-blue-rain.json"
+  },  
+  {
+    "id": "girlsday-telepathy",
+    "title": "텔레파시 (Telepathy)",
+    "artist": "Girl's Day (걸스데이)",
+    "lyricsFile": "../data/lyrics/girlsday-telepathy.json"
+  },
+  {
+    "id": "simon-dominic-lonely-night",
+    "title": "Lonely Night",
+    "artist": "Simon Dominic (feat. ELO)",
+    "lyricsFile": "../data/lyrics/simon-dominic-lonely-night.json"
+  },
+  {
+    "id": "btob-beautiful-pain",
+    "title": "Beautiful Pain",
+    "artist": "BTOB (비투비)",
+    "lyricsFile": "../data/lyrics/btob-beautiful-pain.json"
+  },
+
+
+
+    
   
   
 
