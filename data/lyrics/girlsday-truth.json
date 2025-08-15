@@ -1,0 +1,265 @@
+{
+  "id": "girlsday-truth",
+  "title": "Truth",
+  "artist": "Girl's Day (MINAH solo)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "네 앞에만 서면 난",
+      "translation": "只要一站在你面前 我就",
+      "analysis": [
+        { "point": "네 앞에만 서면", "explanation": "네 (你的) + 앞 (前面) + -에만 (只在...) + 서다 (站立) + -(으)면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "또 자신이 없어져",
+      "translation": "又會失去自信",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "자신이 없어져", "explanation": "자신 (自信) + -이 (主格助詞) + 없어지다 (消失)。" }
+      ]
+    },
+    {
+      "korean": "너는 자꾸 내 민낯을 드러내",
+      "translation": "你總是揭露我素顏的樣子",
+      "analysis": [
+        { "point": "너는 자꾸", "explanation": "너는 (你) + 자꾸 (總是)。" },
+        { "point": "내 민낯을", "explanation": "내 (我的) + 민낯 (素顏) + -을 (受格助詞)。" },
+        { "point": "드러내", "explanation": "드러내다 (揭露、展現) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나를 미워 하게해",
+      "translation": "讓我討厭自己",
+      "analysis": [
+        { "point": "나를 미워 하게해", "explanation": "나를 (我) + 미워하다 (討厭) + -게 하다 (使...變得)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Oh 난 나를 숨긴 채",
+      "translation": "Oh 我在隱藏著自己的狀態下",
+      "analysis": [
+        { "point": "나를 숨긴 채", "explanation": "나를 (我) + 숨기다 (隱藏) 的過去定語形 + -ㄴ/은 채(로) (在...的狀態下)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 말해 왔고",
+      "translation": "一直說著愛",
+      "analysis": [
+        { "point": "사랑을 말해 왔고", "explanation": "사랑 (愛) + -을 (受格助詞) + 말해 오다 (一直說過來) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "시선들이 무서워",
+      "translation": "害怕那些視線",
+      "analysis": [
+        { "point": "시선들이", "explanation": "시선 (視線) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "무서워", "explanation": "무섭다 (害怕的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "난 숨었어",
+      "translation": "我躲了起來",
+      "analysis": [
+        { "point": "난 숨었어", "explanation": "나는 (我) 的縮略 + 숨다 (躲藏) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "전부 무너진 내 Broken heart",
+      "translation": "全部崩塌的我 Broken heart",
+      "analysis": [
+        { "point": "전부 무너진", "explanation": "전부 (全部) + 무너지다 (倒塌、崩塌) 的過去定語形。" },
+        { "point": "내 Broken heart", "explanation": "내 (我的) + Broken heart。" }
+      ]
+    },
+    {
+      "korean": "그냥 사랑 받고 싶었어",
+      "translation": "只是想被愛而已",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞，只是、就這樣。" },
+        { "point": "사랑 받고 싶었어", "explanation": "사랑(을) 받다 (被愛) + -고 싶다 (想要) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "거울 속에 있는건",
+      "translation": "鏡子裡的是",
+      "analysis": [
+        { "point": "거울 속에 있는건", "explanation": "거울 (鏡子) + 속 (裡面) + -에 있다 (在...) 的現在定語形 + 것은。" }
+      ]
+    },
+    {
+      "korean": "잘 만들어진 마네킹",
+      "translation": "被精心打造的人體模型",
+      "analysis": [
+        { "point": "잘 만들어진", "explanation": "잘 (好好地) + 만들어지다 (被製作) 的過去定語形。" },
+        { "point": "마네킹", "explanation": "名詞，人體模型 (mannequin)。" }
+      ]
+    },
+    {
+      "korean": "웃고 웃고 또 웃는 내 얼굴이",
+      "translation": "笑著 笑著 又笑著的我的臉",
+      "analysis": [
+        { "point": "웃고 웃고 또 웃는", "explanation": "웃다 (笑) + -고 (連接)，重複表示持續動作。" },
+        { "point": "내 얼굴이", "explanation": "내 (我的) + 얼굴 (臉) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "내가 아녔음 좋겠어",
+      "translation": "如果不是我就好了",
+      "analysis": [
+        { "point": "내가 아녔음 좋겠어", "explanation": "내가 아니다 (不是我) + -았/었으면 좋겠다 (希望是...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "돌아가고 싶었어",
+      "translation": "想要回去",
+      "analysis": [
+        { "point": "돌아가고 싶었어", "explanation": "돌아가다 (回去) + -고 싶다 (想要) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "매일 밤의 눈물도",
+      "translation": "每晚的眼淚也好",
+      "analysis": [
+        { "point": "매일 밤의", "explanation": "매일 (每天) + 밤 (夜晚) + -의 (的)。" },
+        { "point": "눈물도", "explanation": "눈물 (眼淚) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "공허한 외로움도",
+      "translation": "空虛的孤獨也好",
+      "analysis": [
+        { "point": "공허한 외로움도", "explanation": "공허하다 (空虛的) 定語形 + 외로움 (孤獨) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "소용없어",
+      "translation": "都沒有用",
+      "analysis": [
+        { "point": "소용없어", "explanation": "소용없다 (沒用) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "전부 깨져버린 Broken heart",
+      "translation": "全部破碎的 Broken heart",
+      "analysis": [
+        { "point": "전부 깨져버린", "explanation": "전부 (全部) + 깨져 버리다 (破碎掉) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "떠나버린 너는 far away",
+      "translation": "離我而去的你 far away",
+      "analysis": [
+        { "point": "떠나버린 너는", "explanation": "떠나 버리다 (離開了) 的過去定語形 + 너는 (你)。" }
+      ]
+    },
+    {
+      "korean": "나는 말할 수가 없었어",
+      "translation": "我說不出口",
+      "analysis": [
+        { "point": "나는 말할 수가 없었어", "explanation": "나는 (我) + 말하다 (說) + -(으)ㄹ 수가 없다 (無法) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "그냥 사랑 받고 싶었어",
+      "translation": "只是想被愛而已",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞，只是、就這樣。" },
+        { "point": "사랑 받고 싶었어", "explanation": "사랑(을) 받다 (被愛) + -고 싶다 (想要) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "네가 알고 있는 난",
+      "translation": "你所認識的我",
+      "analysis": [
+        { "point": "네가 알고 있는 난", "explanation": "네가 (你) + 알다 (知道) + -고 있다 (正在) 的現在定語形 + 나는 (我)。" }
+      ]
+    },
+    {
+      "korean": "그저 웃고 있을 뿐",
+      "translation": "只是在笑著而已",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "웃고 있을 뿐", "explanation": "웃다 (笑) + -고 있다 (正在) + -(으)ㄹ 뿐 (只是...而已)。" }
+      ]
+    },
+    {
+      "korean": "너를 실망 시키고 싶지 않아",
+      "translation": "不想讓你失望",
+      "analysis": [
+        { "point": "너를 실망 시키고 싶지 않아", "explanation": "너를 (你) + 실망시키다 (使失望) + -고 싶지 않다 (不想)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "전부 깨져버린 Broken heart",
+      "translation": "全部破碎的 Broken heart",
+      "analysis": [
+        { "point": "전부 깨져버린", "explanation": "전부 (全部) + 깨져 버리다 (破碎掉) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "떠나버린 너는 far away",
+      "translation": "離我而去的你 far away",
+      "analysis": [
+        { "point": "떠나버린 너는", "explanation": "떠나 버리다 (離開了) 的過去定語形 + 너는 (你)。" }
+      ]
+    },
+    {
+      "korean": "나는 말할 수가 없었어",
+      "translation": "我說不出口",
+      "analysis": [
+        { "point": "나는 말할 수가 없었어", "explanation": "나는 (我) + 말하다 (說) + -(으)ㄹ 수가 없다 (無法) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "그냥 사랑 받고 싶었어",
+      "translation": "只是想被愛而已",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞，只是、就這樣。" },
+        { "point": "사랑 받고 싶었어", "explanation": "사랑(을) 받다 (被愛) + -고 싶다 (想要) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "난 그냥 사랑 받고 싶었어",
+      "translation": "我只是想被愛而已",
+      "analysis": [
+        { "point": "난 그냥", "explanation": "나는 (我) 的縮略 + 그냥 (只是)。" },
+        { "point": "사랑 받고 싶었어", "explanation": "사랑(을) 받다 (被愛) + -고 싶다 (想要) 的過去式。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "자신", "chinese": "自信", "pos": "名詞" },
+    { "korean": "없어지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "總是、一直", "pos": "副詞" },
+    { "korean": "민낯", "chinese": "素顏", "pos": "名詞" },
+    { "korean": "드러내다", "chinese": "揭露、展現", "pos": "動詞" },
+    { "korean": "미워하다", "chinese": "討厭", "pos": "動詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "무섭다", "chinese": "害怕的", "pos": "形容詞" },
+    { "korean": "숨다", "chinese": "躲藏", "pos": "動詞" },
+    { "korean": "무너지다", "chinese": "倒塌、崩塌", "pos": "動詞" },
+    { "korean": "사랑 받다", "chinese": "被愛", "pos": "片語" },
+    { "korean": "거울", "chinese": "鏡子", "pos": "名詞" },
+    { "korean": "만들어지다", "chinese": "被製作", "pos": "動詞" },
+    { "korean": "마네킹", "chinese": "人體模型", "pos": "名詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "공허하다", "chinese": "空虛的", "pos": "形容詞" },
+    { "korean": "외로움", "chinese": "孤獨", "pos": "名詞" },
+    { "korean": "소용없다", "chinese": "沒用", "pos": "形容詞" },
+    { "korean": "깨지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是、僅僅", "pos": "副詞" },
+    { "korean": "실망시키다", "chinese": "使失望", "pos": "動詞" }
+  ]
+}

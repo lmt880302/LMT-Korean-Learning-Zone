@@ -1,0 +1,431 @@
+{
+  "id": "mc-mong-whatever",
+  "title": "Whatever (feat. MINAH)",
+  "artist": "MC몽 (MC Mong)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Rumor 퍼트린 놈들아",
+      "translation": "散播 Rumor 的傢伙們啊",
+      "analysis": [
+        { "point": "퍼트린", "explanation": "퍼트리다 (散播) 的過去定語形。" },
+        { "point": "놈들아", "explanation": "놈 (傢伙) + -들 (複數) + -아 (呼格助詞)。" }
+      ]
+    },
+    {
+      "korean": "숨어 you don't know me like that",
+      "translation": "躲起來吧 you don't know me like that",
+      "analysis": [
+        { "point": "숨어", "explanation": "숨다 (躲藏) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "loser들의 타고난 특기",
+      "translation": "loser 們與生俱來的特長",
+      "analysis": [
+        { "point": "loser들의", "explanation": "loser + -들 (複數) + -의 (的)。" },
+        { "point": "타고난 특기", "explanation": "타고나다 (與生俱來) 的過去定語形 + 특기 (特長)。" }
+      ]
+    },
+    {
+      "korean": "직업 정신으로 물어뜯기",
+      "translation": "用職業精神來詆毀",
+      "analysis": [
+        { "point": "직업 정신으로", "explanation": "직업 정신 (職業精神) + -(으)로 (用...)。" },
+        { "point": "물어뜯기", "explanation": "물어뜯다 (詆毀、撕咬) 的名詞形。" }
+      ]
+    },
+    {
+      "korean": "허 참 무서워",
+      "translation": "真是可怕啊",
+      "analysis": [
+        { "point": "허 참", "explanation": "感嘆詞，表示無奈或荒唐。" },
+        { "point": "무서워", "explanation": "무섭다 (可怕的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "같은 남자로서 참 우스워",
+      "translation": "同為男人 真是可笑",
+      "analysis": [
+        { "point": "같은 남자로서", "explanation": "같다 (相同的) 定語形 + 남자 (男人) + -(으)로서 (作為...)。" },
+        { "point": "참 우스워", "explanation": "참 (真) + 우습다 (可笑的)。" }
+      ]
+    },
+    {
+      "korean": "남 잘 되는 꼴을 못 봐",
+      "translation": "見不得別人好",
+      "analysis": [
+        { "point": "남 잘 되는 꼴을 못 봐", "explanation": "慣用語，字面意思是「看不慣別人好的樣子」。" }
+      ]
+    },
+    {
+      "korean": "왜 매를 벌까",
+      "translation": "為什麼要討打呢",
+      "analysis": [
+        { "point": "왜 매를 벌까", "explanation": "왜 (為什麼) + 매를 벌다 (討打) + -(으)ㄹ까 (表示疑問)。" }
+      ]
+    },
+    {
+      "korean": "제발 골 좀 막지 마 bro come on",
+      "translation": "拜託別來搗亂 bro come on",
+      "analysis": [
+        { "point": "골 좀 막지 마", "explanation": "골 (球門，引申為好事) + 좀 (稍微) + 막다 (阻擋) + -지 마 (否定命令式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "don't listen to the hater",
+      "translation": "don't listen to the hater",
+      "analysis": [
+        { "point": "don't listen to the hater", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "시간낭비는 see you later",
+      "translation": "浪費時間就 see you later",
+      "analysis": [
+        { "point": "시간낭비는", "explanation": "시간낭비 (浪費時間) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "소곤소곤 소문 내며",
+      "translation": "竊竊私語地散播謠言",
+      "analysis": [
+        { "point": "소곤소곤", "explanation": "擬態詞，竊竊私語的樣子。" },
+        { "point": "소문 내며", "explanation": "소문을 내다 (散播謠言) + -(으)며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "why you wanna see me break up",
+      "translation": "why you wanna see me break up",
+      "analysis": [
+        { "point": "why you wanna see me break up", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아주 갈라 낼라고 난리네",
+      "translation": "簡直是鬧翻了天想把我們拆散",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "갈라 낼라고", "explanation": "갈라놓으려고 (想要拆散) 的口語縮略形。" },
+        { "point": "난리네", "explanation": "난리 (亂、騷動) + -이네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "내 여자 친군 귀가 얇았네",
+      "translation": "我的女朋友耳根子真軟",
+      "analysis": [
+        { "point": "내 여자 친군", "explanation": "내 여자 친구는 (我的女朋友) 的縮略。" },
+        { "point": "귀가 얇았네", "explanation": "귀가 얇다 (耳根子軟) 的過去式 + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "우리 불행을 빌어 everyday",
+      "translation": "詛咒我們的不幸 everyday",
+      "analysis": [
+        { "point": "우리 불행을", "explanation": "우리 (我們) + 불행 (不幸) + -을 (受格助詞)。" },
+        { "point": "빌어", "explanation": "빌다 (祈求、詛咒) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그만 move get get out the way",
+      "translation": "夠了 move get get out the way",
+      "analysis": [
+        { "point": "그만", "explanation": "副詞，停止、到此為止。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우리 둘 사이를 왜 갈라놓으려 해요",
+      "translation": "為什麼要離間我們倆呢",
+      "analysis": [
+        { "point": "우리 둘 사이를", "explanation": "우리 둘 사이 (我們倆之間) + -를 (受格助詞)。" },
+        { "point": "왜 갈라놓으려 해요", "explanation": "왜 (為什麼) + 갈라놓다 (離間) + -(으)려 하다 (想要做...) 的尊敬階。" }
+      ]
+    },
+    {
+      "korean": "불안해 말아줘 사랑은 그대뿐",
+      "translation": "請不要不安 我的愛只有你",
+      "analysis": [
+        { "point": "불안해 말아줘", "explanation": "불안해하다 (感到不安) + -지 말아 줘 (請求不要...)" },
+        { "point": "사랑은 그대뿐", "explanation": "사랑 (愛) + -은 (主題助詞) + 그대 (你) + -뿐 (只有)。" }
+      ]
+    },
+    {
+      "korean": "뭐라고 하던 난 그대만을",
+      "translation": "無論別人說什麼 我都只",
+      "analysis": [
+        { "point": "뭐라고 하던", "explanation": "無論說什麼。" },
+        { "point": "난 그대만을", "explanation": "나는 (我) + 그대 (你) + -만 (只) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "사랑해 사랑해 오직 난 그대뿐야",
+      "translation": "愛你 愛你 我只有你",
+      "analysis": [
+        { "point": "오직", "explanation": "副詞，只、唯有。" },
+        { "point": "난 그대뿐야", "explanation": "나는 (我) + 그대 (你) + -뿐이야 (只有...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "what what whatever",
+      "translation": "what what whatever",
+      "analysis": [
+        { "point": "what what whatever", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "they can say whatever baby",
+      "translation": "they can say whatever baby",
+      "analysis": [
+        { "point": "they can say whatever baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "난 그대만을 믿어 그대만을 lady",
+      "translation": "我只相信你 只相信你 lady",
+      "analysis": [
+        { "point": "난 그대만을 믿어", "explanation": "나는 (我) + 그대 (你) + -만 (只) + -을 (受格助詞) + 믿다 (相信)。" }
+      ]
+    },
+    {
+      "korean": "what what whatever",
+      "translation": "what what whatever",
+      "analysis": [
+        { "point": "what what whatever", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "they can say whatever baby",
+      "translation": "they can say whatever baby",
+      "analysis": [
+        { "point": "they can say whatever baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "사랑해 사랑해 오직 난 그대뿐야",
+      "translation": "愛你 愛你 我只有你",
+      "analysis": [
+        { "point": "오직", "explanation": "副詞，只、唯有。" },
+        { "point": "난 그대뿐야", "explanation": "나는 (我) + 그대 (你) + -뿐이야 (只有...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "club에서 누구랑 봤대",
+      "translation": "聽說在 club 看到我跟誰在一起",
+      "analysis": [
+        { "point": "club에서", "explanation": "club + -에서 (在)。" },
+        { "point": "누구랑 봤대", "explanation": "누구 (誰) + -랑 (和) + 보다 (看見) + -았대 (聽說...)。" }
+      ]
+    },
+    {
+      "korean": "부비 부비적하다 둘이 나갔대",
+      "translation": "聽說貼身熱舞後兩人一起出去了",
+      "analysis": [
+        { "point": "부비 부비적하다", "explanation": "부비부비하다 (貼身熱舞) 的口語形。" },
+        { "point": "둘이 나갔대", "explanation": "둘이 (兩個人) + 나가다 (出去) + -았대 (聽說...)。" }
+      ]
+    },
+    {
+      "korean": "워 워 잠깐 뭐가 뭐 어째",
+      "translation": "哇 哇 等等 什麼跟什麼啊",
+      "analysis": [
+        { "point": "잠깐", "explanation": "副詞，等等。" },
+        { "point": "뭐가 뭐 어째", "explanation": "慣用句，表示困惑或荒唐，「這都什麼跟什麼啊」。" }
+      ]
+    },
+    {
+      "korean": "개똥 같은 소리하네 bulls#!t",
+      "translation": "簡直是胡說八道 bulls#!t",
+      "analysis": [
+        { "point": "개똥 같은 소리하네", "explanation": "慣用語，像狗屎一樣的話，指胡說八道。" }
+      ]
+    },
+    {
+      "korean": "이게 뭔 함정이야 네가 탐정이야",
+      "translation": "這是什麼陷阱啊 你是偵探嗎",
+      "analysis": [
+        { "point": "이게 뭔 함정이야", "explanation": "이것이 무슨 (這是什麼) + 함정 (陷阱) + -이야 (是...嗎)。" },
+        { "point": "네가 탐정이야", "explanation": "네가 (你) + 탐정 (偵探) + -이야 (是...嗎)。" }
+      ]
+    },
+    {
+      "korean": "왜 자꾸 사사건건 참견이야",
+      "translation": "為什麼老是事事都要插手",
+      "analysis": [
+        { "point": "왜 자꾸", "explanation": "왜 (為什麼) + 자꾸 (總是)。" },
+        { "point": "사사건건", "explanation": "副詞，事事、每件事。" },
+        { "point": "참견이야", "explanation": "참견 (插手、干涉) + -이야 (是...嗎)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 찔리면 당당하게 붙어봐",
+      "translation": "那麼心虛的話就堂堂正正地來較量啊",
+      "analysis": [
+        { "point": "그렇게 찔리면", "explanation": "그렇게 (那樣地) + 찔리다 (心虛) + -(으)면 (如果)。" },
+        { "point": "당당하게 붙어봐", "explanation": "당당하게 (堂堂正正地) + 붙다 (較量) + -어 봐 (試試看)。" }
+      ]
+    },
+    {
+      "korean": "네가 친오빠 아님 남편이야",
+      "translation": "你是親哥哥還是老公啊",
+      "analysis": [
+        { "point": "네가 친오빠", "explanation": "네가 (你) + 친오빠 (親哥哥)。" },
+        { "point": "아님 남편이야", "explanation": "아니면 (或者) + 남편 (老公) + -이야 (是...嗎)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나보다 swagger 딸리냐",
+      "translation": "你的 swagger 不如我嗎",
+      "analysis": [
+        { "point": "나보다", "explanation": "나 (我) + -보다 (比)。" },
+        { "point": "swagger 딸리냐", "explanation": "swagger + 달리다 (不足、不如) + -냐 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "아니면 날 보면 기가 빨리냐",
+      "translation": "還是看到我就被吸走氣勢了",
+      "analysis": [
+        { "point": "아니면", "explanation": "或者。" },
+        { "point": "날 보면", "explanation": "나를 (我) + 보다 (看見) + -(으)면 (如果)。" },
+        { "point": "기가 빨리냐", "explanation": "기가 빨다 (被吸走氣勢) + -리다 (被動) + -냐 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "우린 불행을 빌어 everyday",
+      "translation": "詛咒我們的不幸 everyday",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그만 move get get out the way",
+      "translation": "夠了 move get get out the way",
+      "analysis": [
+        { "point": "그만", "explanation": "副詞，停止、到此為止。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "아주 미치겠어",
+      "translation": "真是要瘋了",
+      "analysis": [
+        { "point": "아주 미치겠어", "explanation": "아주 (非常) + 미치겠다 (快要瘋了)。" }
+      ]
+    },
+    {
+      "korean": "너만 보면 자꾸 훔치고 싶어져서",
+      "translation": "一看到你就總想把你偷走",
+      "analysis": [
+        { "point": "너만 보면", "explanation": "너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果)。" },
+        { "point": "자꾸 훔치고 싶어져서", "explanation": "자꾸 (總是) + 훔치다 (偷) + -고 싶어지다 (變得想做...) + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "이러다 죽겠어 사방이 막혀",
+      "translation": "再這樣下去會死的 四面都被堵住了",
+      "analysis": [
+        { "point": "이러다 죽겠어", "explanation": "이러다가 (再這樣下去) + 죽겠다 (快要死了)。" },
+        { "point": "사방이 막혀", "explanation": "사방 (四方) + -이 (主格助詞) + 막히다 (被堵住)。" }
+      ]
+    },
+    {
+      "korean": "숨 쉴 공간이 없어",
+      "translation": "沒有呼吸的空間",
+      "analysis": [
+        { "point": "숨 쉴 공간이 없어", "explanation": "숨(을) 쉬다 (呼吸) 的未來定語形 + 공간 (空間) + -이 (主格助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "꿈 깨라 꿈 다른 남자의 품",
+      "translation": "快醒醒吧 別做夢了 其他男人的懷抱",
+      "analysis": [
+        { "point": "꿈 깨라", "explanation": "꿈(을) 깨다 (醒來) 的命令式。" },
+        { "point": "다른 남자의 품", "explanation": "다른 (別的) + 남자 (男人) + -의 (的) + 품 (懷抱)。" }
+      ]
+    },
+    {
+      "korean": "돌아와라 부메랑 부메랑",
+      "translation": "回來吧 迴力鏢 迴力鏢",
+      "analysis": [
+        { "point": "돌아와라", "explanation": "돌아오다 (回來) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "제발 좀 날 믿어줘 oh",
+      "translation": "拜託請相信我 oh",
+      "analysis": [
+        { "point": "제발 좀", "explanation": "拜託。" },
+        { "point": "날 믿어줘", "explanation": "나를 (我) + 믿어 주다 (相信我)。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해 날 믿어줘 oh",
+      "translation": "我愛你 請相信我 oh",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛)。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해 오늘부터 난 너 하나만 원할게",
+      "translation": "我愛你 從今天起我只想要你一個",
+      "analysis": [
+        { "point": "오늘부터", "explanation": "今天開始。" },
+        { "point": "난 너 하나만 원할게", "explanation": "나는 (我) + 너 하나만 (只有你一個) + 원하다 (想要) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "Welcome Welcome 매일 Welcome",
+      "translation": "Welcome Welcome 每天 Welcome",
+      "analysis": [
+        { "point": "매일", "explanation": "副詞，每天。" }
+      ]
+    },
+    {
+      "korean": "just can this way",
+      "translation": "just can this way",
+      "analysis": [
+        { "point": "just can this way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "퍼트리다", "chinese": "散播", "pos": "動詞" },
+    { "korean": "숨다", "chinese": "躲藏", "pos": "動詞" },
+    { "korean": "타고나다", "chinese": "與生俱來", "pos": "動詞" },
+    { "korean": "특기", "chinese": "特長", "pos": "名詞" },
+    { "korean": "물어뜯다", "chinese": "詆毀、撕咬", "pos": "動詞" },
+    { "korean": "무섭다", "chinese": "可怕的", "pos": "形容詞" },
+    { "korean": "우스워", "chinese": "可笑的", "pos": "形容詞" },
+    { "korean": "매를 벌다", "chinese": "討打", "pos": "片語" },
+    { "korean": "막다", "chinese": "阻擋", "pos": "動詞" },
+    { "korean": "시간낭비", "chinese": "浪費時間", "pos": "名詞" },
+    { "korean": "소문", "chinese": "謠言", "pos": "名詞" },
+    { "korean": "갈라놓다", "chinese": "離間、拆散", "pos": "動詞" },
+    { "korean": "귀가 얇다", "chinese": "耳根子軟", "pos": "片語" },
+    { "korean": "불행", "chinese": "不幸", "pos": "名詞" },
+    { "korean": "빌다", "chinese": "祈求、詛咒", "pos": "動詞" },
+    { "korean": "불안해하다", "chinese": "感到不安", "pos": "動詞" },
+    { "korean": "오직", "chinese": "只、唯有", "pos": "副詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "함정", "chinese": "陷阱", "pos": "名詞" },
+    { "korean": "탐정", "chinese": "偵探", "pos": "名詞" },
+    { "korean": "사사건건", "chinese": "事事", "pos": "副詞" },
+    { "korean": "참견", "chinese": "插手、干涉", "pos": "名詞" },
+    { "korean": "찔리다", "chinese": "心虛", "pos": "動詞" },
+    { "korean": "당당하다", "chinese": "堂堂正正的", "pos": "形容詞" },
+    { "korean": "달리다", "chinese": "不足、不如", "pos": "動詞" },
+    { "korean": "미치다", "chinese": "瘋狂", "pos": "動詞" },
+    { "korean": "훔치다", "chinese": "偷", "pos": "動詞" },
+    { "korean": "사방", "chinese": "四方", "pos": "名詞" },
+    { "korean": "막히다", "chinese": "被堵住", "pos": "動詞" },
+    { "korean": "공간", "chinese": "空間", "pos": "名詞" },
+    { "korean": "꿈 깨다", "chinese": "醒來", "pos": "片語" },
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" }
+  ]
+}

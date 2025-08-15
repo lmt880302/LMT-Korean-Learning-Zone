@@ -1,0 +1,450 @@
+
+
+  {
+  "id": "girlsday-tkumbaya",
+  "title": "Kumbaya",
+  "artist": "Girl's Day (SOJIN solo)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "혼자 있는게 제일 싫어",
+      "translation": "最討厭獨自一人",
+      "analysis": [
+        { "point": "혼자 있는게", "explanation": "혼자 있다 (獨自一人) + -는 것 (名詞化) + -이 (主格助詞)。" },
+        { "point": "제일 싫어", "explanation": "제일 (副詞，最) + 싫다 (討厭) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너도 이런 날 잘 알잖아",
+      "translation": "你也明知道我是這樣的人不是嗎",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "이런 날", "explanation": "이렇다 (這樣的) 定語形 + 나를 (我)。" },
+        { "point": "잘 알잖아", "explanation": "잘 (好好地) + 알다 (知道) + -잖아 (終結語尾，表示提醒對方知道的事實)。" }
+      ]
+    },
+    {
+      "korean": "어쩜 전화 한 통을 안 해",
+      "translation": "怎麼能連一通電話都不打",
+      "analysis": [
+        { "point": "어쩜", "explanation": "어쩌면 (怎麼能) 的縮略。" },
+        { "point": "전화 한 통을", "explanation": "전화 (電話) + 한 통 (一通) + -을 (受格助詞)。" },
+        { "point": "안 해", "explanation": "안 (不) + 하다 (做)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "태연한 척 잘 지내는 척",
+      "translation": "假裝泰然自若 假裝過得很好",
+      "analysis": [
+        { "point": "태연한 척", "explanation": "태연하다 (泰然自若的) 定語形 + -는 척 (假裝)。" },
+        { "point": "잘 지내는 척", "explanation": "잘 지내다 (過得好) + -는 척 (假裝)。" }
+      ]
+    },
+    {
+      "korean": "한 번을 솔직하질 못해",
+      "translation": "一次也無法坦率",
+      "analysis": [
+        { "point": "한 번을", "explanation": "한 번 (一次) + -을 (助詞，用以強調)。" },
+        { "point": "솔직하질 못해", "explanation": "솔직하다 (坦率) + -질 못하다 (-지 못하다 的強調形)。" }
+      ]
+    },
+    {
+      "korean": "돌아오란 말이 어렵니",
+      "translation": "「回來吧」這句話很難嗎",
+      "analysis": [
+        { "point": "돌아오란 말이", "explanation": "돌아오라는 (叫你回來) 的縮略 + 말 (話) + -이 (主格助詞)。" },
+        { "point": "어렵니", "explanation": "어렵다 (困難的) + -니 (疑問終結詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "뜻대로 되는 게 없어",
+      "translation": "沒有一件事能如願",
+      "analysis": [
+        { "point": "뜻대로", "explanation": "副詞，隨心所欲地、如願地。" },
+        { "point": "되는 게 없어", "explanation": "되다 (成功、實現) 的定語形 + 것 (事情) + -이 (主格助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "너 하나 잡는 게",
+      "translation": "抓住你一個人這件事",
+      "analysis": [
+        { "point": "너 하나", "explanation": "你一個人。" },
+        { "point": "잡는 게", "explanation": "잡다 (抓住) 的名詞形。" }
+      ]
+    },
+    {
+      "korean": "뭐 이렇게 힘들어",
+      "translation": "怎麼這麼辛苦",
+      "analysis": [
+        { "point": "뭐 이렇게", "explanation": "뭐 (感嘆詞) + 이렇게 (這樣地)。" },
+        { "point": "힘들어", "explanation": "힘들다 (辛苦的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Oh now that it’s over",
+      "translation": "Oh now that it’s over",
+      "analysis": [
+        { "point": "Oh now that it’s over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "sometimes I wonder",
+      "translation": "sometimes I wonder",
+      "analysis": [
+        { "point": "sometimes I wonder", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "헤어지자 네 말에",
+      "translation": "在你說「分手吧」的時候",
+      "analysis": [
+        { "point": "헤어지자", "explanation": "헤어지다 (分手) 的共動式。" },
+        { "point": "네 말에", "explanation": "네 (你的) + 말 (話) + -에 (在...時)。" }
+      ]
+    },
+    {
+      "korean": "애써 끄덕였을까",
+      "translation": "我為何要努力地點頭呢",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，努力地、費力地。" },
+        { "point": "끄덕였을까", "explanation": "끄덕이다 (點頭) 的過去式 + -(으)ㄹ까 (表示後悔或疑問)。" }
+      ]
+    },
+    {
+      "korean": "Story’s not over",
+      "translation": "Story’s not over",
+      "analysis": [
+        { "point": "Story’s not over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너 내게 돌아와",
+      "translation": "你回到我身邊吧",
+      "analysis": [
+        { "point": "너 내게", "explanation": "너 (你) + 나에게 (對我) 的縮略。" },
+        { "point": "돌아와", "explanation": "돌아오다 (回來) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "우리 이별이 아닌",
+      "translation": "希望我們的不是離別",
+      "analysis": [
+        { "point": "우리 이별이 아닌", "explanation": "우리 (我們) + 이별 (離別) + -이 아니다 (不是) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "함께 하는 밤이길",
+      "translation": "而是在一起的夜晚",
+      "analysis": [
+        { "point": "함께 하는 밤이길", "explanation": "함께 하다 (在一起) 的定語形 + 밤 (夜晚) + -이길 (이기를 바라다 的縮略，希望是...)。" }
+      ]
+    },
+    {
+      "korean": "Kumbaya saying Kumbaya",
+      "translation": "Kumbaya saying Kumbaya",
+      "analysis": [
+        { "point": "Kumbaya saying Kumbaya", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "한 걸음 늦은 내가 미워진 밤",
+      "translation": "討厭慢了一步的我的夜晚",
+      "analysis": [
+        { "point": "한 걸음 늦은", "explanation": "한 걸음 (一步) + 늦다 (晚、遲) 的過去定語形。" },
+        { "point": "내가 미워진 밤", "explanation": "내가 (我) + 미워지다 (變得討厭) 的過去定語形 + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "알 수 없게 구는 게 싫어",
+      "translation": "討厭你那樣讓人捉摸不透",
+      "analysis": [
+        { "point": "알 수 없게 구는 게", "explanation": "알 수 없다 (無法知道) + -게 굴다 (表現得...) 的名詞形。" },
+        { "point": "싫어", "explanation": "싫다 (討厭) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "떠나고서 왜 날 맴돌아",
+      "translation": "離開了又為何在我身邊徘徊",
+      "analysis": [
+        { "point": "떠나고서", "explanation": "떠나다 (離開) + -고서 (之後)。" },
+        { "point": "왜 날 맴돌아", "explanation": "왜 (為什麼) + 나를 (我) + 맴돌다 (徘徊)。" }
+      ]
+    },
+    {
+      "korean": "어쩜 너답지 않게 이래",
+      "translation": "怎麼這麼不像你",
+      "analysis": [
+        { "point": "어쩜", "explanation": "어쩌면 (怎麼能) 的縮略。" },
+        { "point": "너답지 않게", "explanation": "너답다 (像你) + -지 않게 (不像...地)。" },
+        { "point": "이래", "explanation": "이러하다 (這樣) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "모르는 척 넌 안 그런 척",
+      "translation": "你假裝不知道 假裝不是那樣",
+      "analysis": [
+        { "point": "모르는 척", "explanation": "모르다 (不知道) 的定語形 + -는 척 (假裝)。" },
+        { "point": "안 그런 척", "explanation": "안 그렇다 (不是那樣) + -ㄴ 척 (假裝)。" }
+      ]
+    },
+    {
+      "korean": "한 번을 솔직하질 못해",
+      "translation": "一次也無法坦率",
+      "analysis": [
+        { "point": "한 번을", "explanation": "한 번 (一次) + -을 (助詞，用以強調)。" },
+        { "point": "솔직하질 못해", "explanation": "솔직하다 (坦率) + -질 못하다 (-지 못하다 的強調形)。" }
+      ]
+    },
+    {
+      "korean": "그리웠단 말이 어렵니",
+      "translation": "「想你了」這句話很難嗎",
+      "analysis": [
+        { "point": "그리웠단 말이", "explanation": "그리웠다는 (說想念) 的縮略 + 말 (話) + -이 (主格助詞)。" },
+        { "point": "어렵니", "explanation": "어렵다 (困難的) + -니 (疑問終結詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "뭐하나 되는 게 없어",
+      "translation": "沒有一件事能成功",
+      "analysis": [
+        { "point": "뭐하나", "explanation": "連一件事。" },
+        { "point": "되는 게 없어", "explanation": "되다 (成功、實現) 的定語形 + 것 (事情) + -이 (主格助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "널 보내주는 게",
+      "translation": "放你走這件事",
+      "analysis": [
+        { "point": "널 보내주는 게", "explanation": "너를 (你) + 보내주다 (放走、送走) 的名詞形。" }
+      ]
+    },
+    {
+      "korean": "뭐 이렇게 힘들어",
+      "translation": "怎麼這麼辛苦",
+      "analysis": [
+        { "point": "뭐 이렇게", "explanation": "뭐 (感嘆詞) + 이렇게 (這樣地)。" },
+        { "point": "힘들어", "explanation": "힘들다 (辛苦的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Oh now that it’s over",
+      "translation": "Oh now that it’s over",
+      "analysis": [
+        { "point": "Oh now that it’s over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "sometimes I wonder",
+      "translation": "sometimes I wonder",
+      "analysis": [
+        { "point": "sometimes I wonder", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "헤어지자 네 말에",
+      "translation": "在你說「分手吧」的時候",
+      "analysis": [
+        { "point": "헤어지자", "explanation": "헤어지다 (分手) 的共動式。" },
+        { "point": "네 말에", "explanation": "네 (你的) + 말 (話) + -에 (在...時)。" }
+      ]
+    },
+    {
+      "korean": "애써 끄덕였을까",
+      "translation": "我為何要努力地點頭呢",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，努力地、費力地。" },
+        { "point": "끄덕였을까", "explanation": "끄덕이다 (點頭) 的過去式 + -(으)ㄹ까 (表示後悔或疑問)。" }
+      ]
+    },
+    {
+      "korean": "Story’s not over",
+      "translation": "Story’s not over",
+      "analysis": [
+        { "point": "Story’s not over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너 내게 돌아와",
+      "translation": "你回到我身邊吧",
+      "analysis": [
+        { "point": "너 내게", "explanation": "너 (你) + 나에게 (對我) 的縮略。" },
+        { "point": "돌아와", "explanation": "돌아오다 (回來) 的命令式。" }
+      ]
+    },
+    {
+      "korean": "우리 이별이 아닌",
+      "translation": "希望我們的不是離別",
+      "analysis": [
+        { "point": "우리 이별이 아닌", "explanation": "우리 (我們) + 이별 (離別) + -이 아니다 (不是) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "함께 하는 밤이길",
+      "translation": "而是在一起的夜晚",
+      "analysis": [
+        { "point": "함께 하는 밤이길", "explanation": "함께 하다 (在一起) 的定語形 + 밤 (夜晚) + -이길 (이기를 바라다 的縮略，希望是...)。" }
+      ]
+    },
+    {
+      "korean": "Kumbaya saying Kumbaya",
+      "translation": "Kumbaya saying Kumbaya",
+      "analysis": [
+        { "point": "Kumbaya saying Kumbaya", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "한 걸음 늦은 내가 미워진 밤",
+      "translation": "討厭慢了一步的我的夜晚",
+      "analysis": [
+        { "point": "한 걸음 늦은", "explanation": "한 걸음 (一步) + 늦다 (晚、遲) 的過去定語形。" },
+        { "point": "내가 미워진 밤", "explanation": "내가 (我) + 미워지다 (變得討厭) 的過去定語形 + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Kumbaya saying kumbaya",
+      "translation": "Kumbaya saying kumbaya",
+      "analysis": [
+        { "point": "Kumbaya saying kumbaya", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I pray we'll be back together",
+      "translation": "I pray we'll be back together",
+      "analysis": [
+        { "point": "I pray we'll be back together", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "가끔 네가 미워져",
+      "translation": "偶爾會討厭你",
+      "analysis": [
+        { "point": "가끔", "explanation": "副詞，偶爾。" },
+        { "point": "네가 미워져", "explanation": "네가 (你) + 미워지다 (變得討厭)。" }
+      ]
+    },
+    {
+      "korean": "but I search for higher ground",
+      "translation": "but I search for higher ground",
+      "analysis": [
+        { "point": "but I search for higher ground", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "붙잡아 널 안을래",
+      "translation": "我要抓住你 擁抱你",
+      "analysis": [
+        { "point": "붙잡아", "explanation": "붙잡다 (抓住) + -아/어 (連接)。" },
+        { "point": "널 안을래", "explanation": "너를 (你) + 안다 (擁抱) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "cuz love is not over",
+      "translation": "cuz love is not over",
+      "analysis": [
+        { "point": "cuz love is not over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "조금 멀어져도",
+      "translation": "即使稍微遠離了",
+      "analysis": [
+        { "point": "조금 멀어져도", "explanation": "조금 (稍微) + 멀어지다 (變遠) + -아도/어도 (即使...)。" }
+      ]
+    },
+    {
+      "korean": "돌아오는 그 길이",
+      "translation": "回來的那條路",
+      "analysis": [
+        { "point": "돌아오는 그 길이", "explanation": "돌아오다 (回來) 的定語形 + 그 (那) + 길 (路) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "어렵지 않을거야",
+      "translation": "不會困難的",
+      "analysis": [
+        { "point": "어렵지 않을거야", "explanation": "어렵다 (困難的) + -지 않을 것이다 (不會...)。" }
+      ]
+    },
+    {
+      "korean": "Story’s not over",
+      "translation": "Story’s not over",
+      "analysis": [
+        { "point": "Story’s not over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "나 여기 머물러",
+      "translation": "我會停留在此",
+      "analysis": [
+        { "point": "나 여기", "explanation": "나 (我) + 여기 (這裡)。" },
+        { "point": "머물러", "explanation": "머무르다 (停留) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다시 너를 부를게",
+      "translation": "會再次呼喚你",
+      "analysis": [
+        { "point": "다시 너를", "explanation": "다시 (再次) + 너를 (你)。" },
+        { "point": "부를게", "explanation": "부르다 (呼喚) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "이 노랠 듣는다면",
+      "translation": "如果聽見這首歌的話",
+      "analysis": [
+        { "point": "이 노랠 듣는다면", "explanation": "이 (這) + 노래를 (歌) + 듣다 (聽) + -는다면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "Come by here singing Come by here",
+      "translation": "Come by here singing Come by here",
+      "analysis": [
+        { "point": "Come by here singing Come by here", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 온기가 불어와 따스한 밤",
+      "translation": "你的溫氣吹來 溫暖的夜晚",
+      "analysis": [
+        { "point": "네 온기가", "explanation": "네 (你的) + 온기 (溫氣) + -가 (主格助詞)。" },
+        { "point": "불어와", "explanation": "불어오다 (吹來)。" },
+        { "point": "따스한 밤", "explanation": "따스하다 (溫暖的) 定語形 + 밤 (夜晚)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "태연하다", "chinese": "泰然自若的", "pos": "形容詞" },
+    { "korean": "솔직하다", "chinese": "坦率的", "pos": "形容詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "어렵다", "chinese": "困難的", "pos": "形容詞" },
+    { "korean": "뜻대로", "chinese": "如願地", "pos": "副詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "辛苦的", "pos": "形容詞" },
+    { "korean": "헤어지다", "chinese": "分手", "pos": "動詞" },
+    { "korean": "애써", "chinese": "努力地", "pos": "副詞" },
+    { "korean": "끄덕이다", "chinese": "點頭", "pos": "動詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "늦다", "chinese": "晚、遲", "pos": "動詞" },
+    { "korean": "미워지다", "chinese": "變得討厭", "pos": "動詞" },
+    { "korean": "맴돌다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "너답다", "chinese": "像你", "pos": "形容詞" },
+    { "korean": "그립다", "chinese": "想念的", "pos": "形容詞" },
+    { "korean": "보내주다", "chinese": "放走、送走", "pos": "動詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "머무르다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "부르다", "chinese": "呼喚、唱", "pos": "動詞" },
+    { "korean": "온기", "chinese": "溫氣", "pos": "名詞" },
+    { "korean": "따스하다", "chinese": "溫暖的", "pos": "形容詞" }
+  ]
+}

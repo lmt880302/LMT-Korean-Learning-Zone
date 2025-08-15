@@ -266,6 +266,26 @@
     "lyricsFile": "../data/lyrics/girlsday-telepathy.json"
   },
   {
+    "id": "girlsday-truth",
+    "title": "Truth",
+    "artist": "Girl's Day (MINAH solo)",
+    "lyricsFile": "../data/lyrics/girlsday-truth.json"
+  },
+  {
+    "id": "girlsday-kumbaya",
+    "title": "Kumbaya",
+    "artist": "Girl's Day (SOJIN solo)",
+    "lyricsFile": "../data/lyrics/girlsday-kumbaya.json"
+  },
+
+  {
+    "id": "mc-mong-whatever",
+    "title": "Whatever (feat. MINAH)",
+    "artist": "MC몽 (MC Mong)",
+    "lyricsFile": "../data/lyrics/mc-mong-whatever.json"
+  },
+  
+  {
     "id": "simon-dominic-lonely-night",
     "title": "Lonely Night",
     "artist": "Simon Dominic (feat. ELO)",
