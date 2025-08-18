@@ -286,6 +286,13 @@
   },
   
   {
+    "id": "damiano-skyfall",
+    "title": "Skyfall (feat. MINAH)",
+    "artist": "Damiano (다미아노)",
+    "lyricsFile": "../data/lyrics/damiano-skyfall.json"
+  },
+
+  {
     "id": "simon-dominic-lonely-night",
     "title": "Lonely Night",
     "artist": "Simon Dominic (feat. ELO)",
