@@ -1,0 +1,673 @@
+{
+  "id": "henney-feeling-feeling",
+  "title": "느낌적인 느낌 (feat. MINAH)",
+  "artist": "HENNEY (헤니)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Okay 난 철저하게 분석해",
+      "translation": "Okay 我徹底地分析",
+      "analysis": [
+        { "point": "난 철저하게", "explanation": "나는 (我) 的縮略 + 철저하게 (徹底地)。" },
+        { "point": "분석해", "explanation": "분석하다 (分析) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "처음 보는 널",
+      "translation": "初次見到的你",
+      "analysis": [
+        { "point": "처음 보는 널", "explanation": "처음 (第一次) + 보다 (看見) + -는 (現在定語形) + 너를 (你) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "눈을 깜빡이는 속도부터",
+      "translation": "從眨眼的速度開始",
+      "analysis": [
+        { "point": "눈을 깜빡이는", "explanation": "눈 (眼睛) + -을 (受格助詞) + 깜빡이다 (眨眼) + -는 (現在定語形)。" },
+        { "point": "속도부터", "explanation": "속도 (速度) + -부터 (從...開始)。" }
+      ]
+    },
+    {
+      "korean": "또 너의 걸음걸이",
+      "translation": "還有你的步伐",
+      "analysis": [
+        { "point": "또 너의", "explanation": "또 (又、還有) + 너의 (你的)。" },
+        { "point": "걸음걸이", "explanation": "名詞，步伐、走路的樣子。" }
+      ]
+    },
+    {
+      "korean": "지나칠 정도로 말이야",
+      "translation": "到了過分的程度",
+      "analysis": [
+        { "point": "지나칠 정도로", "explanation": "지나치다 (過分) + -(으)ㄹ 정도로 (到...的程度)。" },
+        { "point": "말이야", "explanation": "慣用語，語氣詞，用以強調。" }
+      ]
+    },
+    {
+      "korean": "관찰해 모든 걸",
+      "translation": "觀察你的一切",
+      "analysis": [
+        { "point": "관찰해", "explanation": "관찰하다 (觀察) 的非格式體。" },
+        { "point": "모든 걸", "explanation": "모든 것 (所有事物) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "너한테 끌리는 이 이유를",
+      "translation": "被你吸引的這個理由",
+      "analysis": [
+        { "point": "너한테 끌리는", "explanation": "너한테 (對你) + 끌리다 (被吸引) + -는 (現在定語形)。" },
+        { "point": "이 이유를", "explanation": "이 (這個) + 이유 (理由) + -를 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "꼭 알아야겠거든 Girl",
+      "translation": "我一定要知道才行 Girl",
+      "analysis": [
+        { "point": "꼭 알아야겠거든", "explanation": "꼭 (一定) + 알다 (知道) + -아야겠다 (必須、得) + -거든 (說明理由)。" }
+      ]
+    },
+    {
+      "korean": "하지만 단서는 없어",
+      "translation": "但是沒有任何線索",
+      "analysis": [
+        { "point": "하지만", "explanation": "副詞，但是。" },
+        { "point": "단서는 없어", "explanation": "단서 (線索) + -는 (主題助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "이건 아마도 눈으로",
+      "translation": "這大概不是用眼睛",
+      "analysis": [
+        { "point": "이건 아마도", "explanation": "이것은 (這個是) 的縮略 + 아마도 (大概)。" },
+        { "point": "눈으로", "explanation": "눈 (眼睛) + -(으)로 (用...)。" }
+      ]
+    },
+    {
+      "korean": "볼 수 있는게 아닐 수도",
+      "translation": "能看見的東西",
+      "analysis": [
+        { "point": "볼 수 있는게", "explanation": "보다 (看) + -(으)ㄹ 수 있다 (能夠) + -는 것 (名詞化) + -이 (主格助詞)。" },
+        { "point": "아닐 수도", "explanation": "아니다 (不是) + -(으)ㄹ 수도 (也可能...)。" }
+      ]
+    },
+    {
+      "korean": "하지만 넌 그 누구도",
+      "translation": "但是你，是任何人都",
+      "analysis": [
+        { "point": "하지만 넌", "explanation": "하지만 (但是) + 너는 (你) 的縮略。" },
+        { "point": "그 누구도", "explanation": "그 누구 (任何人) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "쉽게 눈 뗄 수가 없는 얼굴을 가졌지",
+      "translation": "擁有讓人無法輕易移開視線的臉龐",
+      "analysis": [
+        { "point": "쉽게", "explanation": "쉽다 (容易的) + -게 (副詞形語尾)。" },
+        { "point": "눈 뗄 수가 없는", "explanation": "눈(을) 떼다 (移開視線) + -(으)ㄹ 수 없다 (無法) + -는 (現在定語形)。" },
+        { "point": "얼굴을 가졌지", "explanation": "얼굴 (臉) + -을 (受格助詞) + 가지다 (擁有) 的過去式 + -지 (確認)。" }
+      ]
+    },
+    {
+      "korean": "사실은 여름을 기다려온",
+      "translation": "事實上是為了夏天而準備",
+      "analysis": [
+        { "point": "사실은", "explanation": "사실 (事實) + -은 (主題助詞)。" },
+        { "point": "여름을 기다려온", "explanation": "여름 (夏天) + -을 (受格助詞) + 기다려오다 (一直等待) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "준비된 너의 멋진 다리도",
+      "translation": "你那準備好的帥氣雙腿也是",
+      "analysis": [
+        { "point": "준비된", "explanation": "준비되다 (被準備) 的過去定語形。" },
+        { "point": "너의 멋진 다리도", "explanation": "너의 (你的) + 멋진 (帥氣的) + 다리 (腿) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "그렇지만 철벽같은 내 맘을",
+      "translation": "雖然如此，但我那像鐵壁般的心",
+      "analysis": [
+        { "point": "그렇지만", "explanation": "副詞，雖然如此。" },
+        { "point": "철벽같은", "explanation": "철벽같다 (像鐵壁一樣) 的定語形。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "뚫은 무기라고 말을",
+      "translation": "要說是攻破的武器的話",
+      "analysis": [
+        { "point": "뚫은 무기라고", "explanation": "뚫다 (戳破) 的過去定語形 + 무기 (武器) + -(이)라고 (引述)。" },
+        { "point": "말을", "explanation": "말을 하다 (說話) 的一部分。" }
+      ]
+    },
+    {
+      "korean": "하기엔 전 여자친구들도",
+      "translation": "對我來說，前女友們",
+      "analysis": [
+        { "point": "하기엔", "explanation": "하다 (做、說) + -기에는 (對於做...來說)。" },
+        { "point": "전 여자친구들도", "explanation": "전 (前任) + 여자친구 (女朋友) + -들 (們) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "이 정도는 했었다고 다들",
+      "translation": "大家也都有這種程度",
+      "analysis": [
+        { "point": "이 정도는", "explanation": "이 정도 (這種程度) + -는 (主題助詞)。" },
+        { "point": "했었다고", "explanation": "하다 (做) 的過去完成式 + -고 (連接)。" },
+        { "point": "다들", "explanation": "代名詞，大家。" }
+      ]
+    },
+    {
+      "korean": "정말 난 알 수가 없어 완전히 꽂혔어",
+      "translation": "我真的無法理解，完全迷上你了",
+      "analysis": [
+        { "point": "정말 난", "explanation": "정말 (真的) + 나는 (我) 的縮略。" },
+        { "point": "알 수가 없어", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法)。" },
+        { "point": "완전히 꽂혔어", "explanation": "완전히 (完全地) + 꽂히다 (꽂다的被動，原意為插入，引申為迷上)。" }
+      ]
+    },
+    {
+      "korean": "너의 느낌적인 느낌 Girl I'm in love",
+      "translation": "你那種感覺性的感覺 Girl I'm in love",
+      "analysis": [
+        { "point": "너의 느낌적인 느낌", "explanation": "너의 (你的) + 느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。這是一種強調說法，指難以言喻的感覺。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "You got me feeling-feeling",
+      "translation": "你讓我感覺到了",
+      "analysis": [
+        { "point": "You got me feeling-feeling", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "그 특별함을 느껴",
+      "translation": "感受到那份特別",
+      "analysis": [
+        { "point": "그 특별함을", "explanation": "그 (那) + 특별함 (特別) + -을 (受格助詞)。" },
+        { "point": "느껴", "explanation": "느끼다 (感覺) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지금 이 느낌 느낌 줄 수 없어 누구도",
+      "translation": "現在這種感覺，誰也給不了",
+      "analysis": [
+        { "point": "지금 이 느낌 느낌", "explanation": "지금 (現在) + 이 (這個) + 느낌 (感覺)，重複表示強調。" },
+        { "point": "줄 수 없어 누구도", "explanation": "주다 (給予) + -(으)ㄹ 수 없다 (無法) + 누구 (誰) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "철벽같은 나의 맘 뚫어버린 너만의",
+      "translation": "攻破我鐵壁般內心的只屬於你的",
+      "analysis": [
+        { "point": "철벽같은", "explanation": "철벽같다 (像鐵壁一樣) 的定語形。" },
+        { "point": "나의 맘", "explanation": "나의 (我的) + 마음 (心) 的縮略。" },
+        { "point": "뚫어버린", "explanation": "뚫어버리다 (攻破) 的過去定語形。" },
+        { "point": "너만의", "explanation": "너만 (只有你) + -의 (的)。" }
+      ]
+    },
+    {
+      "korean": "무기 그건 너만의 Boy Girl",
+      "translation": "武器 那就是只屬於你的 Boy Girl",
+      "analysis": [
+        { "point": "무기 그건", "explanation": "무기 (武器) + 그것은 (那個是) 的縮略。" },
+        { "point": "너만의", "explanation": "너만 (只有你) + -의 (的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "You know that I'm in love",
+      "translation": "你知道我戀愛了",
+      "analysis": [
+        { "point": "You know that I'm in love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "You know that I'm in love",
+      "translation": "你知道我戀愛了",
+      "analysis": [
+        { "point": "You know that I'm in love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "출구가 없어 어디에도",
+      "translation": "沒有出口 哪裡都沒有",
+      "analysis": [
+        { "point": "출구가 없어", "explanation": "출구 (出口) + -가 (主格助詞) + 없다 (沒有)。" },
+        { "point": "어디에도", "explanation": "어디 (哪裡) + -에 (在) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "달콤한 미로 같아 Girl 알지? 너에게는",
+      "translation": "就像甜蜜的迷宮一樣 Girl 知道吧？對你來說",
+      "analysis": [
+        { "point": "달콤한 미로 같아", "explanation": "달콤하다 (甜蜜的) 定語形 + 미로 (迷宮) + 같다 (像...一樣)。" },
+        { "point": "알지?", "explanation": "알다 (知道) + -지 (確認疑問)。" },
+        { "point": "너에게는", "explanation": "너에게 (對你) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "특별한 무언가가 있어",
+      "translation": "有著某種特別的東西",
+      "analysis": [
+        { "point": "특별한 무언가가", "explanation": "특별하다 (特別的) 定語形 + 무언가 (某物) + -가 (主格助詞)。" },
+        { "point": "있어", "explanation": "있다 (有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "분명하지만 아직도",
+      "translation": "雖然很明顯 但到現在還是",
+      "analysis": [
+        { "point": "분명하지만", "explanation": "분명하다 (分明的) + -지만 (但是)。" },
+        { "point": "아직도", "explanation": "副詞，仍然、還。" }
+      ]
+    },
+    {
+      "korean": "못 찾고 있어",
+      "translation": "找不到",
+      "analysis": [
+        { "point": "못 찾고 있어", "explanation": "못 (無法) + 찾다 (尋找) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "네가 입고 있는 레이어링 향기도",
+      "translation": "你身上穿的層次香氣也",
+      "analysis": [
+        { "point": "네가 입고 있는", "explanation": "네가 (你) + 입다 (穿) + -고 있다 (正在) + -는 (定語形)。" },
+        { "point": "레이어링 향기도", "explanation": "레이어링 (layering) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "좋지만 너한테 끌리는 이윤 그게 아닌 걸",
+      "translation": "雖然很好，但我被你吸引的理由並不是那個",
+      "analysis": [
+        { "point": "좋지만", "explanation": "좋다 (好的) + -지만 (但是)。" },
+        { "point": "너한테 끌리는 이윤", "explanation": "너한테 (對你) + 끌리다 (被吸引) + -는 (定語形) + 이유는 (理由是) 的縮略。" },
+        { "point": "그게 아닌 걸", "explanation": "그것이 (那個是) 的縮略 + 아니다 (不是) + -(으)ㄴ 걸 (慣用語氣)。" }
+      ]
+    },
+    {
+      "korean": "너만 괜찮다면 그걸 천천히 알아가기로",
+      "translation": "只要你沒關係的話，就慢慢地去了解那個吧",
+      "analysis": [
+        { "point": "너만 괜찮다면", "explanation": "너만 (只有你) + 괜찮다 (沒關係) + -(으)면 (如果)。" },
+        { "point": "그걸 천천히", "explanation": "그것을 (那個) 的縮略 + 천천히 (慢慢地)。" },
+        { "point": "알아가기로", "explanation": "알아가다 (逐漸了解) + -기로 하다 (決定要...)。" }
+      ]
+    },
+    {
+      "korean": "가기로 해 너도 버벌진트를 좋아하는지",
+      "translation": "決定了 你是否也喜歡Verbal Jint",
+      "analysis": [
+        { "point": "가기로 해", "explanation": "가다 (走、進行) + -기로 하다 (決定要...) 的非格式體。" },
+        { "point": "너도 버벌진트를", "explanation": "너도 (你也) + 버벌진트 (Verbal Jint) + -를 (受格助詞)。" },
+        { "point": "좋아하는지", "explanation": "좋아하다 (喜歡) + -는지 (間接疑問)。" }
+      ]
+    },
+    {
+      "korean": "난 궁금해 너도 산책하기를 좋아하는지",
+      "translation": "我很好奇 你是否也喜歡散步",
+      "analysis": [
+        { "point": "난 궁금해", "explanation": "나는 (我) 的縮略 + 궁금하다 (好奇)。" },
+        { "point": "너도 산책하기를", "explanation": "너도 (你也) + 산책하기 (散步這件事) + -를 (受格助詞)。" },
+        { "point": "좋아하는지", "explanation": "좋아하다 (喜歡) + -는지 (間接疑問)。" }
+      ]
+    },
+    {
+      "korean": "밀고 당기는 게 난 정말로 필요한건지",
+      "translation": "欲擒故縱這種事對我來說是否真的需要",
+      "analysis": [
+        { "point": "밀고 당기는 게", "explanation": "밀고 당기다 (推拉、欲擒故縱) + -는 것 (名詞化) + -이 (主格助詞)。" },
+        { "point": "난 정말로", "explanation": "나는 (我) 的縮略 + 정말로 (真的)。" },
+        { "point": "필요한건지", "explanation": "필요하다 (需要) + -(으)ㄴ 것 (名詞化) + -인지 (是否)。" }
+      ]
+    },
+    {
+      "korean": "모르겠어 God damn",
+      "translation": "我不知道 God damn",
+      "analysis": [
+        { "point": "모르겠어", "explanation": "모르다 (不知道) + -겠- (意志/推測)。" }
+      ]
+    },
+    {
+      "korean": "나는 널 당기기만 하고 싶지",
+      "translation": "我只想拉近你",
+      "analysis": [
+        { "point": "나는 널", "explanation": "나는 (我) + 너를 (你) 的縮略。" },
+        { "point": "당기기만 하고 싶지", "explanation": "당기다 (拉) + -기만 하다 (只做...) + -고 싶다 (想...) + -지 (語氣詞)。" }
+      ]
+    },
+    {
+      "korean": "밀었다가 널 놓치고 싶지는 않은 걸",
+      "translation": "我並不想推開後又錯過你",
+      "analysis": [
+        { "point": "밀었다가", "explanation": "밀다 (推) 的過去式 + -다가 (動作轉換)。" },
+        { "point": "널 놓치고 싶지는 않은 걸", "explanation": "너를 (你) 的縮略 + 놓치다 (錯過) + -고 싶다 (想...) + -지는 않다 (並不...) + -(으)ㄴ 걸 (慣用語氣)。" }
+      ]
+    },
+    {
+      "korean": "너의 느낌적인 느낌 Girl I'm in love",
+      "translation": "你那種感覺性的感覺 Girl I'm in love",
+      "analysis": [
+        { "point": "너의 느낌적인 느낌", "explanation": "너의 (你的) + 느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "You got me feeling-feeling",
+      "translation": "你讓我感覺到了",
+      "analysis": [
+        { "point": "You got me feeling-feeling", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "그 특별함을 느껴",
+      "translation": "感受到那份特別",
+      "analysis": [
+        { "point": "그 특별함을", "explanation": "그 (那) + 특별함 (特別) + -을 (受格助詞)。" },
+        { "point": "느껴", "explanation": "느끼다 (感覺) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지금 이 느낌 느낌 줄 수 없어 누구도",
+      "translation": "現在這種感覺，誰也給不了",
+      "analysis": [
+        { "point": "지금 이 느낌 느낌", "explanation": "지금 (現在) + 이 (這個) + 느낌 (感覺)，重複表示強調。" },
+        { "point": "줄 수 없어 누구도", "explanation": "주다 (給予) + -(으)ㄹ 수 없다 (無法) + 누구 (誰) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "철벽같은 나의 맘 뚫어버린 너만의",
+      "translation": "攻破我鐵壁般內心的只屬於你的",
+      "analysis": [
+        { "point": "철벽같은", "explanation": "철벽같다 (像鐵壁一樣) 的定語形。" },
+        { "point": "나의 맘", "explanation": "나의 (我的) + 마음 (心) 的縮略。" },
+        { "point": "뚫어버린", "explanation": "뚫어버리다 (攻破) 的過去定語形。" },
+        { "point": "너만의", "explanation": "너만 (只有你) + -의 (的)。" }
+      ]
+    },
+    {
+      "korean": "무기 그건 너만의 Boy Girl",
+      "translation": "武器 那就是只屬於你的 Boy Girl",
+      "analysis": [
+        { "point": "무기 그건", "explanation": "무기 (武器) + 그것은 (那個是) 的縮略。" },
+        { "point": "너만의", "explanation": "너만 (只有你) + -의 (的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "You know that I'm in love",
+      "translation": "你知道我戀愛了",
+      "analysis": [
+        { "point": "You know that I'm in love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "You know that I'm in love",
+      "translation": "你知道我戀愛了",
+      "analysis": [
+        { "point": "You know that I'm in love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Uh uh uh-uh uh uh",
+      "translation": "Uh uh uh-uh uh uh",
+      "analysis": [
+        { "point": "Uh uh uh-uh uh uh", "explanation": "語氣詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "난 너에게 끌려 왜인지는 몰라도 Girl",
+      "translation": "我被你吸引 雖然不知道為什麼 Girl",
+      "analysis": [
+        { "point": "난 너에게 끌려", "explanation": "나는 (我) 的縮略 + 너에게 (對你) + 끌리다 (被吸引)。" },
+        { "point": "왜인지는 몰라도", "explanation": "왜 (為什麼) + -이다 (是) + -는지는 모르다 (不知道是否...)。" }
+      ]
+    },
+    {
+      "korean": "Uh uh uh-uh uh uh",
+      "translation": "Uh uh uh-uh uh uh",
+      "analysis": [
+        { "point": "Uh uh uh-uh uh uh", "explanation": "語氣詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나도 너에게 끌려 왜인지는 몰라도 Boy",
+      "translation": "我也被你吸引 雖然不知道為什麼 Boy",
+      "analysis": [
+        { "point": "나도 너에게 끌려", "explanation": "나도 (我也) + 너에게 (對你) + 끌리다 (被吸引)。" },
+        { "point": "왜인지는 몰라도", "explanation": "왜 (為什麼) + -이다 (是) + -는지는 모르다 (不知道是否...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "You got me feeling-feeling",
+      "translation": "你讓我感覺到了",
+      "analysis": [
+        { "point": "You got me feeling-feeling", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "그 특별함을 느껴",
+      "translation": "感受到那份特別",
+      "analysis": [
+        { "point": "그 특별함을", "explanation": "그 (那) + 특별함 (特別) + -을 (受格助詞)。" },
+        { "point": "느껴", "explanation": "느끼다 (感覺) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지금 이 느낌 느낌 줄 수 없어 누구도",
+      "translation": "現在這種感覺，誰也給不了",
+      "analysis": [
+        { "point": "지금 이 느낌 느낌", "explanation": "지금 (現在) + 이 (這個) + 느낌 (感覺)，重複表示強調。" },
+        { "point": "줄 수 없어 누구도", "explanation": "주다 (給予) + -(으)ㄹ 수 없다 (無法) + 누구 (誰) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "철벽같은 나의 맘 뚫어버린 너만의",
+      "translation": "攻破我鐵壁般內心的只屬於你的",
+      "analysis": [
+        { "point": "철벽같은", "explanation": "철벽같다 (像鐵壁一樣) 的定語形。" },
+        { "point": "나의 맘", "explanation": "나의 (我的) + 마음 (心) 的縮略。" },
+        { "point": "뚫어버린", "explanation": "뚫어버리다 (攻破) 的過去定語形。" },
+        { "point": "너만의", "explanation": "너만 (只有你) + -의 (的)。" }
+      ]
+    },
+    {
+      "korean": "무기 그건 너만의 Boy Girl",
+      "translation": "武器 那就是只屬於你的 Boy Girl",
+      "analysis": [
+        { "point": "무기 그건", "explanation": "무기 (武器) + 그것은 (那個是) 的縮略。" },
+        { "point": "너만의", "explanation": "너만 (只有你) + -의 (的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "You know that I'm in love",
+      "translation": "你知道我戀愛了",
+      "analysis": [
+        { "point": "You know that I'm in love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "느낌적인 느낌",
+      "translation": "感覺性的感覺",
+      "analysis": [
+        { "point": "느낌적인 느낌", "explanation": "느낌적 (感覺性的) + -인 (定語形) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "You know that I'm in love",
+      "translation": "你知道我戀愛了",
+      "analysis": [
+        { "point": "You know that I'm in love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "철저하다", "chinese": "徹底的", "pos": "形容詞" },
+    { "korean": "분석하다", "chinese": "分析", "pos": "動詞" },
+    { "korean": "깜빡이다", "chinese": "眨(眼)", "pos": "動詞" },
+    { "korean": "속도", "chinese": "速度", "pos": "名詞" },
+    { "korean": "걸음걸이", "chinese": "步伐", "pos": "名詞" },
+    { "korean": "지나치다", "chinese": "過分、過度", "pos": "動詞" },
+    { "korean": "관찰하다", "chinese": "觀察", "pos": "動詞" },
+    { "korean": "끌리다", "chinese": "被吸引", "pos": "動詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "단서", "chinese": "線索", "pos": "名詞" },
+    { "korean": "떼다", "chinese": "移開、撕下", "pos": "動詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "준비되다", "chinese": "被準備好", "pos": "動詞" },
+    { "korean": "멋지다", "chinese": "帥氣的", "pos": "形容詞" },
+    { "korean": "다리", "chinese": "腿", "pos": "名詞" },
+    { "korean": "철벽", "chinese": "鐵壁", "pos": "名詞" },
+    { "korean": "뚫다", "chinese": "戳破、穿透", "pos": "動詞" },
+    { "korean": "무기", "chinese": "武器", "pos": "名詞" },
+    { "korean": "꽂히다", "chinese": "迷上", "pos": "動詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "특별함", "chinese": "特別", "pos": "名詞" },
+    { "korean": "느끼다", "chinese": "感覺", "pos": "動詞" },
+    { "korean": "출구", "chinese": "出口", "pos": "名詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "미로", "chinese": "迷宮", "pos": "名詞" },
+    { "korean": "무언가", "chinese": "某物", "pos": "代名詞" },
+    { "korean": "분명하다", "chinese": "分明的", "pos": "形容詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "입다", "chinese": "穿", "pos": "動詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
+    { "korean": "알아가다", "chinese": "逐漸了解", "pos": "動詞" },
+    { "korean": "궁금하다", "chinese": "好奇", "pos": "形容詞" },
+    { "korean": "산책하다", "chinese": "散步", "pos": "動詞" },
+    { "korean": "밀고 당기다", "chinese": "推拉、欲擒故縱", "pos": "片語" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "당기다", "chinese": "拉", "pos": "動詞" },
+    { "korean": "놓치다", "chinese": "錯過", "pos": "動詞" }
+  ]
+}

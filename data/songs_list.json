@@ -81,8 +81,8 @@
   },
   {
     "id": "girlsday-if-you-give-me-your-heart",
-    "title": "If you give me your heart",
-    "artist": "Girl's Day (Cover)",
+    "title": "If you give me your heart (*Cover)",
+    "artist": "Girl's Day",
     "lyricsFile": "../data/lyrics/girlsday-if-you-give-me-your-heart.json"
   },
   {
@@ -255,8 +255,8 @@
   },
   {
     "id": "girlsday-blue-rain",
-    "title": "Blue Rain",
-    "artist": "Girl's Day (Cover)",
+    "title": "Blue Rain (*Cover)",
+    "artist": "Girl's Day",
     "lyricsFile": "../data/lyrics/girlsday-blue-rain.json"
   },  
   {
@@ -372,10 +372,22 @@
   },   
   {
     "id": "minah-bwa",
-    "title": "봐",
-    "artist": "MINAH (feat. 버벌진트)(Cover)",
+    "title": "봐 (*Cover)",
+    "artist": "MINAH (feat. 버벌진트)",
     "lyricsFile": "../data/lyrics/minah-bwa.json"
   },   
+  {
+  "id": "minah-cry-me-out",
+  "title": "Cry Me Out (*Cover)",
+  "artist": "MINAH (민아)",
+  "lyricsFile": "../data/lyrics/minah-cry-me-out.json"
+  }, 
+  {
+  "id": "minah-a-guy-like-me",
+  "title": "A Guy Like Me (나란놈이란) (*Cover)",
+  "artist": "MINAH (민아)",
+  "lyricsFile": "../data/lyrics/minah-a-guy-like-me.json"  
+  }, 
   {
     "id": "minah-ani",
     "title": "아니",
@@ -503,10 +515,10 @@
     "lyricsFile": "../data/lyrics/seventeen-simple.json"
   }, 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "henney-feeling-feeling",
+    "title": "느낌적인 느낌 (feat. MINAH)",
+    "artist": "HENNEY (헤니)",
+    "lyricsFile": "../data/lyrics/henney-feeling-feeling.json"
   }, 
   {
     "id": "_____",

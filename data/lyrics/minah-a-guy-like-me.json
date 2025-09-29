@@ -1,0 +1,204 @@
+{
+  "id": "minah-a-guy-like-me",
+  "title": "A Guy Like Me (나란놈이란) (*Cover)",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "그대를 잊는다는 건",
+      "translation": "要忘記你這件事",
+      "analysis": [
+        { "point": "그대를", "explanation": "그대 (你，較文雅的說法) + -를 (受格助詞)。" },
+        { "point": "잊는다는 건", "explanation": "잊다 (忘記) + -는다는 것 (將引述的動作名詞化，...這件事) 的縮略形。" }
+      ]
+    },
+    {
+      "korean": "지금의 나로선 좀 힘들 거 같아",
+      "translation": "對現在的我來說 似乎有點困難",
+      "analysis": [
+        { "point": "지금의 나로선", "explanation": "지금 (現在) + -의 (的) + 나 (我) + -(으)로선 (以...的立場來看)。" },
+        { "point": "좀 힘들 거 같아", "explanation": "좀 (有點) + 힘들다 (困難) + -(으)ㄹ 것 같다 (推測，似乎會...)。" }
+      ]
+    },
+    {
+      "korean": "아무리 원망을 해도",
+      "translation": "無論再怎麼埋怨",
+      "analysis": [
+        { "point": "아무리", "explanation": "副詞，無論如何、再怎麼...。" },
+        { "point": "원망을 해도", "explanation": "원망 (埋怨) + -을 (受格助詞) + 하다 (做) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "어느새 흐르는 눈물 나도 모르게",
+      "translation": "不知不覺流下的眼淚 連我也不知道",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "흐르는 눈물", "explanation": "흐르다 (流淌) + -는 (現在定語形) + 눈물 (眼淚)。" },
+        { "point": "나도 모르게", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) + -게 (副詞形語尾，...地)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그리워 그 목소리 보고 싶어 일어설 수도 없어",
+      "translation": "好想念 那個聲音 好想你 連站都站不起來",
+      "analysis": [
+        { "point": "그리워", "explanation": "그립다 (想念) 的非格式體。" },
+        { "point": "그 목소리", "explanation": "그 (那) + 목소리 (聲音)。" },
+        { "point": "보고 싶어", "explanation": "보다 (看見) + -고 싶다 (想要)。" },
+        { "point": "일어설 수도 없어", "explanation": "일어서다 (站起來) + -(으)ㄹ 수 없다 (無法...)。" }
+      ]
+    },
+    {
+      "korean": "시간은 잊으라 하는데 오히려 선명해진 얼굴",
+      "translation": "時間要我忘記 但反而更清晰的臉龐",
+      "analysis": [
+        { "point": "시간은 잊으라 하는데", "explanation": "시간 (時間) + -은 (主題助詞) + 잊다 (忘記) + -(으)라 하다 (間接命令) + -는데 (轉折)。" },
+        { "point": "오히려", "explanation": "副詞，反而、倒不如。" },
+        { "point": "선명해진 얼굴", "explanation": "선명해지다 (變得鮮明) 的過去定語形 + 얼굴 (臉龐)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "그날은 그대 모습이",
+      "translation": "那天你的模樣",
+      "analysis": [
+        { "point": "그날은", "explanation": "그날 (那天) + -은 (主題助詞)。" },
+        { "point": "그대 모습이", "explanation": "그대 (你) + 모습 (模樣) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "떠난다는 말을 하려던 것 같아",
+      "translation": "像是本來打算說要離開的話",
+      "analysis": [
+        { "point": "떠난다는 말을", "explanation": "떠나다 (離開) + -는다는 (引述定語形) + 말 (話) + -을 (受格助詞)。" },
+        { "point": "하려던 것 같아", "explanation": "하다 (說) + -(으)려던 것 같다 (慣用型，好像原本打算要...)。" }
+      ]
+    },
+    {
+      "korean": "초라한 나의 어깨에",
+      "translation": "在我那憔悴的肩膀上",
+      "analysis": [
+        { "point": "초라한", "explanation": "초라하다 (寒酸的、憔悴的) 的定語形。" },
+        { "point": "나의 어깨에", "explanation": "나의 (我的) + 어깨 (肩膀) + -에 (在...上)。" }
+      ]
+    },
+    {
+      "korean": "차마 말을 못했었나봐 그랬나봐",
+      "translation": "看來是於心不忍才沒說出口 看來是那樣吧",
+      "analysis": [
+        { "point": "차마", "explanation": "副詞，(因於心不忍而)無法...。" },
+        { "point": "말을 못했었나봐", "explanation": "말을 못하다 (無法說出口) 的過去完成式 + -나 보다 (推測)。" },
+        { "point": "그랬나봐", "explanation": "그렇다 (那樣) 的過去式 + -나 보다 (推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그리워 그 목소리 가끔은 힘들던 잔소리마저",
+      "translation": "好想念 那個聲音 連有時讓人疲憊的嘮叨也是",
+      "analysis": [
+        { "point": "그리워 그 목소리", "explanation": "그립다 (想念) + 그 (那) + 목소리 (聲音)。" },
+        { "point": "가끔은 힘들던", "explanation": "가끔 (有時) + -은 (主題助詞) + 힘들다 (累人的) + -던 (過去持續定語形)。" },
+        { "point": "잔소리마저", "explanation": "잔소리 (嘮叨) + -마저 (連...都)。" }
+      ]
+    },
+    {
+      "korean": "잔인한 이별이 있던 날 그날조차 이젠 그리워",
+      "translation": "殘酷離別的那一天 連那天如今都好想念",
+      "analysis": [
+        { "point": "잔인한 이별이 있던 날", "explanation": "잔인하다 (殘忍的) 定語形 + 이별 (離別) + -이 있다 (有) + -던 (過去持續定語形) + 날 (天)。" },
+        { "point": "그날조차", "explanation": "그날 (那天) + -조차 (連...也)。" },
+        { "point": "이젠 그리워", "explanation": "이제는 (如今) 的縮略 + 그립다 (想念)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "잘 지내라는 행복하라는",
+      "translation": "要我好好過 要我幸福",
+      "analysis": [
+        { "point": "잘 지내라는", "explanation": "잘 지내다 (過得好) + -(으)라는 (間接命令定語形)。" },
+        { "point": "행복하라는", "explanation": "행복하다 (幸福) + -(으)라는 (間接命令定語形)。" }
+      ]
+    },
+    {
+      "korean": "그 흔한 이별의 위로마저도 없이",
+      "translation": "連那常見的離別安慰都沒有",
+      "analysis": [
+        { "point": "그 흔한", "explanation": "그 (那) + 흔하다 (常見的) 定語形。" },
+        { "point": "이별의 위로마저도", "explanation": "이별 (離別) + -의 (的) + 위로 (安慰) + -마저도 (連...都)。" },
+        { "point": "없이", "explanation": "副詞，沒有地。" }
+      ]
+    },
+    {
+      "korean": "마지막 인사도 못했던 우리의 이별",
+      "translation": "連最後的問候都沒能說的我們的離別",
+      "analysis": [
+        { "point": "마지막 인사도", "explanation": "마지막 (最後) + 인사 (問候、道別) + -도 (也)。" },
+        { "point": "못했던", "explanation": "못하다 (沒能做) 的過去定語形。" },
+        { "point": "우리의 이별", "explanation": "우리 (我們) + -의 (的) + 이별 (離別)。" }
+      ]
+    },
+    {
+      "korean": "나를 떠난 그 이유마저",
+      "translation": "連離開我的那個理由也是",
+      "analysis": [
+        { "point": "나를 떠난", "explanation": "나를 (我) + 떠나다 (離開) 的過去定語形。" },
+        { "point": "그 이유마저", "explanation": "그 (那) + 이유 (理由) + -마저 (連...都)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "그대가 두고 떠난 그대 인생의 절반은 나란 말",
+      "translation": "你拋下後離開的 你人生的一半是我 這句話",
+      "analysis": [
+        { "point": "그대가 두고 떠난", "explanation": "그대가 (你) + 두다 (放下) + -고 (連接) + 떠나다 (離開) 的過去定語形。" },
+        { "point": "그대 인생의 절반은", "explanation": "그대 (你) + 인생 (人生) + -의 (的) + 절반 (一半) + -은 (主題助詞)。" },
+        { "point": "나란 말", "explanation": "나 (我) + -(이)라는 (叫做...) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "이제는 잊어야 할 텐데 오히려 선명해진 그 말",
+      "translation": "如今應該要忘記才對 反而更清晰的那句話",
+      "analysis": [
+        { "point": "이제는 잊어야 할 텐데", "explanation": "이제는 (如今) + 잊다 (忘記) + -어야 하다 (必須) + -(으)ㄹ 텐데 (理應...但)。" },
+        { "point": "오히려 선명해진 그 말", "explanation": "오히려 (反而) + 선명해지다 (變得鮮明) 的過去定語形 + 그 (那) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "여전히 선명한 목소리",
+      "translation": "依然清晰的聲音",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然、仍舊。" },
+        { "point": "선명한 목소리", "explanation": "선명하다 (鮮明的) 定語形 + 목소리 (聲音)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "힘들다", "chinese": "辛苦的、困難的", "pos": "形容詞" },
+    { "korean": "원망", "chinese": "埋怨、怨恨", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流淌", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "그립다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "일어서다", "chinese": "站起來", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "선명하다", "chinese": "鮮明的", "pos": "形容詞" },
+    { "korean": "얼굴", "chinese": "臉龐", "pos": "名詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "초라하다", "chinese": "寒酸的、憔悴的", "pos": "形容詞" },
+    { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
+    { "korean": "차마", "chinese": "(於心不忍而)無法", "pos": "副詞" },
+    { "korean": "잔소리", "chinese": "嘮叨", "pos": "名詞" },
+    { "korean": "잔인하다", "chinese": "殘忍的", "pos": "形容詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "흔하다", "chinese": "常見的", "pos": "形容詞" },
+    { "korean": "위로", "chinese": "安慰", "pos": "名詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "인사", "chinese": "問候、道別", "pos": "名詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "인생", "chinese": "人生", "pos": "名詞" },
+    { "korean": "절반", "chinese": "一半", "pos": "名詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" }
+  ]
+}
