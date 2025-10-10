@@ -1,0 +1,508 @@
+{
+  "id": "minah-sonman-jabeulge",
+  "title": "손만 잡을게 (feat. DINDIN)",
+  "artist": "MINAH (민아)",
+  "lines": [
+    {
+      "sectionTitle": "Intro: Minah",
+      "korean": "너를 좋아하지만 너의 마음 모두 다 알지만",
+      "translation": "雖然喜歡你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "너를 좋아하지만", "explanation": "너 (你) + -를 (受格助詞) + 좋아하다 (喜歡) + -지만 (連接詞尾，雖然...但是)。" },
+        { "point": "너의 마음 모두 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 모두 다 (全部都) + 알다 (知道) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 내가 손만 잡을게",
+      "translation": "今天我只會牽你的手",
+      "analysis": [
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "내가 손만 잡을게", "explanation": "내 (我) + -가 (主格助詞) + 손 (手) + -만 (助詞，只) + 잡다 (抓住、牽) + -(으)ㄹ게 (表示意志的未來式語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1: DINDIN",
+      "korean": "손만 잡을게란 말에 도대체",
+      "translation": "對於「只牽手」這句話 到底",
+      "analysis": [
+        { "point": "손만 잡을게란 말에", "explanation": "손만 잡을게 (只牽手) + -(이)란 (叫做...的) + 말 (話) + -에 (對於)。" },
+        { "point": "도대체", "explanation": "副詞，到底。" }
+      ]
+    },
+    {
+      "korean": "어떻게 할진 모르겠지만 일단 girl",
+      "translation": "雖然不知道該怎麼辦 但總之 girl",
+      "analysis": [
+        { "point": "어떻게 할진", "explanation": "어떻게 (怎樣) + 하다 (做) + -(으)ㄹ지 (未來不確定性) + -는 (的縮略)。" },
+        { "point": "모르겠지만", "explanation": "모르다 (不知道) + -겠지만 (雖然...但是，表推測)。" },
+        { "point": "일단", "explanation": "副詞，首先、暫時。" }
+      ]
+    },
+    {
+      "korean": "긴장 풀고 일로와 힘들어 나는 밀당",
+      "translation": "放鬆點過來吧 我對欲擒故縱感到很累",
+      "analysis": [
+        { "point": "긴장 풀고", "explanation": "긴장 (緊張) + -을 (受格助詞) + 풀다 (解開) + -고 (連接詞尾)。" },
+        { "point": "일로와", "explanation": "이리로 와 (到這邊來) 的口語縮略形。" },
+        { "point": "힘들어 나는 밀당", "explanation": "힘들다 (累) + 나는 (我) + 밀당 (推拉，指感情中的欲擒故縱)。" }
+      ]
+    },
+    {
+      "korean": "다가서는 만큼을 왜 물러서니 항상",
+      "translation": "為何我靠近多少 你就總是後退多少",
+      "analysis": [
+        { "point": "다가서는 만큼을", "explanation": "다가서다 (靠近) + -는 만큼 (的程度) + -을 (受格助詞)。" },
+        { "point": "왜 물러서니", "explanation": "왜 (為什麼) + 물러서다 (後退) + -니 (疑問語尾)。" },
+        { "point": "항상", "explanation": "副詞，總是。" }
+      ]
+    },
+    {
+      "korean": "좀 밀고 당기지마 웃고 말지좀마",
+      "translation": "別再推拉了 別只是笑笑就算了",
+      "analysis": [
+        { "point": "좀 밀고 당기지마", "explanation": "좀 (稍微) + 밀다 (推) + -고 (和) + 당기다 (拉) + -지 마 (否定命令型，不要...)。" },
+        { "point": "웃고 말지좀마", "explanation": "웃다 (笑) + -고 말다 (做完某事) + -지 좀 마 (拜託不要...)。" }
+      ]
+    },
+    {
+      "korean": "자꾸 나를 조그만 그 손으로 막지좀마",
+      "translation": "別一直用那小小的手來擋我",
+      "analysis": [
+        { "point": "자꾸", "explanation": "副詞，一直、總是。" },
+        { "point": "조그만 그 손으로", "explanation": "조그맣다 (小的) 定語形 + 그 (那) + 손 (手) + -(으)로 (工具助詞，用...)。" },
+        { "point": "막지좀마", "explanation": "막다 (擋住) + -지 좀 마 (拜託不要...)。" }
+      ]
+    },
+    {
+      "korean": "너 때문에 어색해져가는 이 시간",
+      "translation": "因為你而漸漸變得尷尬的這個時間",
+      "analysis": [
+        { "point": "너 때문에", "explanation": "너 (你) + 때문에 (因為)。" },
+        { "point": "어색해져가는", "explanation": "어색해지다 (變得尷尬) + -아/어 가다 (表示過程的持續) 的定語形。" },
+        { "point": "이 시간", "explanation": "이 (這) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "정말 어떻할거야 girl don't let me down",
+      "translation": "真的要怎麼辦 girl don't let me down",
+      "analysis": [
+        { "point": "정말 어떡할거야", "explanation": "정말 (真的) + 어떡하다 (怎麼辦) + -(으)ㄹ 거야 (未來式)。" }
+      ]
+    },
+    {
+      "korean": "늘 말해왔잖아 사랑은 맘만으론 안돼",
+      "translation": "不是一直都這麼說嗎 愛情不能只有心意",
+      "analysis": [
+        { "point": "늘 말해왔잖아", "explanation": "늘 (總是) + 말해오다 (一直說過來) 的過去式 + -잖아 (語氣詞，不是嗎)。" },
+        { "point": "맘만으론 안돼", "explanation": "맘 (心) + -만 (只) + -(으)론 (用...的話) + 안되다 (不行)。" }
+      ]
+    },
+    {
+      "korean": "날 좋아하잖아 더 이상 말만으론 안돼",
+      "translation": "你不是喜歡我嗎 不能再光說不練了",
+      "analysis": [
+        { "point": "날 좋아하잖아", "explanation": "나 (我) + -를 (受格助詞) + 좋아하다 (喜歡) + -잖아 (不是嗎)。" },
+        { "point": "더 이상", "explanation": "副詞片語，再...以上。" }
+      ]
+    },
+    {
+      "korean": "더 알고 싶다고, 원래 이러냐고",
+      "translation": "說想更了解、問我本來就這樣嗎",
+      "analysis": [
+        { "point": "더 알고 싶다고", "explanation": "더 (更) + 알다 (知道) + -고 싶다 (想) + -고 (間接引用)。" },
+        { "point": "원래 이러냐고", "explanation": "원래 (本來) + 이렇다 (這樣) + -냐고 (間接疑問引用)。" }
+      ]
+    },
+    {
+      "korean": "너무 빠른거 아니냐고 질문 좀 그만해",
+      "translation": "別再問是不是太快了這種問題",
+      "analysis": [
+        { "point": "너무 빠른거 아니냐고", "explanation": "너무 (太) + 빠르다 (快) 的定語形 + 것 (事情) + 아니다 (不是) + -냐고 (間接疑問引用)。" },
+        { "point": "질문 좀 그만해", "explanation": "질문 (問題) + 좀 (稍微) + 그만하다 (停止)。" }
+      ]
+    },
+    {
+      "korean": "느낌 알잖아 지금이 답이야",
+      "translation": "你知道那種感覺的 現在就是答案",
+      "analysis": [
+        { "point": "느낌 알잖아", "explanation": "느낌 (感覺) + 알다 (知道) + -잖아 (不是嗎)。" },
+        { "point": "지금이 답이야", "explanation": "지금 (現在) + -이 (主格助詞) + 답 (答案) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "오늘 밤이야 기회는 마지막",
+      "translation": "就是今晚 機會是最後一次",
+      "analysis": [
+        { "point": "오늘 밤이야", "explanation": "오늘 (今天) + 밤 (夜晚) + -이야 (是)。" },
+        { "point": "기회는 마지막", "explanation": "기회 (機會) + -는 (主題助詞) + 마지막 (最後)。" }
+      ]
+    },
+    {
+      "korean": "So just close your eyes 가까이 더 와 babe",
+      "translation": "So just close your eyes 再靠近一點 babe",
+      "analysis": [
+        { "point": "가까이 더 와", "explanation": "가까이 (靠近地) + 더 (更) + 오다 (來)。" }
+      ]
+    },
+    {
+      "korean": "진짜 손만 잡을게 다가와 더 한 발",
+      "translation": "真的只牽手 再靠近一步吧",
+      "analysis": [
+        { "point": "진짜 손만 잡을게", "explanation": "진짜 (真的) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" },
+        { "point": "다가와 더 한 발", "explanation": "다가오다 (靠近過來) + 더 (更) + 한 (一) + 발 (步)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus: Minah, DINDIN",
+      "korean": "너를 좋아하지만 너의 마음 모두 다 알지만",
+      "translation": "雖然喜歡你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "너를 좋아하지만", "explanation": "너 (你) + -를 (受格助詞) + 좋아하다 (喜歡) + -지만 (連接詞尾，雖然...但是)。" },
+        { "point": "너의 마음 모두 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 모두 다 (全部都) + 알다 (知道) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 내가 손만 잡을게 (nah it doesn't make sense girl)",
+      "translation": "今天我只會牽你的手 (nah it doesn't make sense girl)",
+      "analysis": [
+        { "point": "오늘은 내가 손만 잡을게", "explanation": "오늘 (今天) + -은 (主題助詞) + 내 (我) + -가 (主格助詞) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" }
+      ]
+    },
+    {
+      "korean": "나도 사랑하지만 너의 마음전부 다 알지만",
+      "translation": "雖然我也愛你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "나도 사랑하지만", "explanation": "나 (我) + -도 (也) + 사랑하다 (愛) + -지만 (但是)。" },
+        { "point": "너의 마음전부 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 전부 다 (全部都) + 알다 (知道) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 나 손만 잡을게 (light so what you gonna say now)",
+      "translation": "今天我只會牽你的手 (light so what you gonna say now)",
+      "analysis": [
+        { "point": "오늘은 나 손만 잡을게", "explanation": "오늘 (今天) + -은 (主題助詞) + 나 (我) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" }
+      ]
+    },
+    {
+      "korean": "네 곁에서 나의 가슴은 하루종일 두근거려",
+      "translation": "在你身邊 我的心一整天都撲通直跳",
+      "analysis": [
+        { "point": "네 곁에서", "explanation": "네 (你) + 곁 (身邊) + -에서 (場所助詞)。" },
+        { "point": "나의 가슴은", "explanation": "나의 (我的) + 가슴 (心、胸口) + -은 (主題助詞)。" },
+        { "point": "하루종일 두근거려", "explanation": "하루종일 (一整天) + 두근거리다 (撲通跳)。" }
+      ]
+    },
+    {
+      "korean": "사실은 나도 네 맘 전부 다 알아 (아는데 왜 대체 넌 왜그래)",
+      "translation": "其實我也全都明白你的心 (既然知道 到底你為什麼那樣)",
+      "analysis": [
+        { "point": "사실은 나도 네 맘 전부 다 알아", "explanation": "사실 (事實) + -은 (主題助詞) + 나 (我) + -도 (也) + 네 (你) + 맘 (心) + 전부 다 (全部都) + 알다 (知道)。" },
+        { "point": "아는데 왜 대체 넌 왜그래", "explanation": "알다 (知道) + -는데 (但是) + 왜 (為何) + 대체 (到底) + 너 (你) + -는 (는) + 왜 그렇다 (為何那樣)。" }
+      ]
+    },
+    {
+      "korean": "그렇지만 조금 천천히 한걸음씩 다가와줘",
+      "translation": "但是請再慢一點 一步一步地靠近我",
+      "analysis": [
+        { "point": "그렇지만", "explanation": "連接詞，但是。" },
+        { "point": "조금 천천히", "explanation": "조금 (稍微) + 천천히 (慢慢地)。" },
+        { "point": "한걸음씩 다가와줘", "explanation": "한 (一) + 걸음 (步) + -씩 (表示單位重複) + 다가오다 (靠近) + -아/어 주다 (請求，為我做...)。" }
+      ]
+    },
+    {
+      "korean": "이런 나를 알아주면 좋겠어(okay i copy that shawty)",
+      "translation": "希望你能理解這樣的我 (okay i copy that shawty)",
+      "analysis": [
+        { "point": "이런 나를", "explanation": "이렇다 (這樣) 的定語形 + 나 (我) + -를 (受格助詞)。" },
+        { "point": "알아주면 좋겠어", "explanation": "알아주다 (理解我) + -(으)면 좋겠다 (慣用型，如果...就好了)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2: DINDIN",
+      "korean": "손 시리잖아 주머니 속 내 손 잡고",
+      "translation": "手很冰不是嗎 到口袋裡牽我的手",
+      "analysis": [
+        { "point": "손 시리잖아", "explanation": "손 (手) + 시리다 (冰冷) + -잖아 (不是嗎)。" },
+        { "point": "주머니 속 내 손 잡고", "explanation": "주머니 (口袋) + 속 (裡面) + 내 (我的) + 손 (手) + 잡다 (牽) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "몸 떨리면 나를 안아 옷 껴입지 말고",
+      "translation": "身體發抖的話就抱著我 別多穿衣服",
+      "analysis": [
+        { "point": "몸 떨리면", "explanation": "몸 (身體) + 떨리다 (發抖) + -(으)면 (如果)。" },
+        { "point": "나를 안아", "explanation": "나 (我) + -를 (受格助詞) + 안다 (擁抱)。" },
+        { "point": "옷 껴입지 말고", "explanation": "옷 (衣服) + 껴입다 (多穿) + -지 말고 (否定連接，不要...而要...)。" }
+      ]
+    },
+    {
+      "korean": "밤 공기가 차다 내 차로 가서 앉고",
+      "translation": "夜裡的空氣很冷 到我車上去坐吧",
+      "analysis": [
+        { "point": "밤 공기가 차다", "explanation": "밤 (夜晚) + 공기 (空氣) + -가 (主格助詞) + 차다 (冷)。" },
+        { "point": "내 차로 가서 앉고", "explanation": "내 (我的) + 차 (車) + -(으)로 (方向助詞) + 가다 (去) + -서 (然後) + 앉다 (坐) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "노래 틀어줄까? '이 밤의 끝을 잡고'",
+      "translation": "要為你放首歌嗎？ '抓住這夜晚的盡頭'",
+      "analysis": [
+        { "point": "노래 틀어줄까?", "explanation": "노래 (歌) + 틀다 (播放) + -어 주다 (為你做...) + -(으)ㄹ까 (疑問語尾，表意向)。" }
+      ]
+    },
+    {
+      "korean": "이 정도면 완벽해 내 상탠 긴급해",
+      "translation": "這種程度的話很完美 我的狀態很緊急",
+      "analysis": [
+        { "point": "이 정도면 완벽해", "explanation": "이 (這) + 정도 (程度) + -(이)면 (的話) + 완벽하다 (完美)。" },
+        { "point": "내 상탠 긴급해", "explanation": "내 (我的) + 상태 (狀態) + -는 (는) 的縮略 + 긴급하다 (緊急)。" }
+      ]
+    },
+    {
+      "korean": "그런데 때가 아니라니 내가 뭐가 돼?",
+      "translation": "但你卻說時機不對 那我算什麼？",
+      "analysis": [
+        { "point": "그런데", "explanation": "連接詞，但是。" },
+        { "point": "때가 아니라니", "explanation": "때 (時機) + -가 (主格助詞) + 아니다 (不是) + -라니 (表示驚訝或不敢相信的引用)。" },
+        { "point": "내가 뭐가 돼?", "explanation": "내 (我) + -가 (主格助詞) + 무엇 (什麼) + -이 (이) + 되다 (變成) + -어 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "너란 여잔 최고 난이도의 문제집",
+      "translation": "叫做『你』的這個女人是最高難度的問題集",
+      "analysis": [
+        { "point": "너란 여잔", "explanation": "너 (你) + -(이)란 (叫做...的) + 여자 (女人) + -는 (는) 的縮略。" },
+        { "point": "최고 난이도의 문제집", "explanation": "최고 (最高) + 난이도 (難度) + -의 (的) + 문제집 (問題集)。" }
+      ]
+    },
+    {
+      "korean": "넌 엑스만 치고 항상 나만 원하지",
+      "translation": "你只會打叉 卻又總是只想要我",
+      "analysis": [
+        { "point": "넌 엑스만 치고", "explanation": "너 (你) + -는 (는) + 엑스 (X) + -만 (只) + 치다 (打) + -고 (連接詞尾)。" },
+        { "point": "항상 나만 원하지", "explanation": "항상 (總是) + 나 (我) + -만 (只) + 원하다 (想要)。" }
+      ]
+    },
+    {
+      "korean": "no more, just stop 두근대는 가슴이",
+      "translation": "no more, just stop 撲通跳的心臟",
+      "analysis": [
+        { "point": "두근대는 가슴이", "explanation": "두근대다 (撲通跳) 的定語形 + 가슴 (心) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "신홀 주잖아 더욱 가까워질 타이밍",
+      "translation": "不是在給信號嗎 這是更加靠近的時機",
+      "analysis": [
+        { "point": "신홀 주잖아", "explanation": "신호 (信號) + -를 (를) + 주다 (給) + -잖아 (不是嗎)。" },
+        { "point": "더욱 가까워질 타이밍", "explanation": "더욱 (更加) + 가까워지다 (變近) 的未來定語形 + 타이밍 (時機)。" }
+      ]
+    },
+    {
+      "korean": "so just close your eyes 가까이 더 와 babe",
+      "translation": "so just close your eyes 再靠近一點 babe",
+      "analysis": [
+        { "point": "가까이 더 와", "explanation": "가까이 (靠近地) + 더 (更) + 오다 (來)。" }
+      ]
+    },
+    {
+      "korean": "진짜 손만 잡을게 다가와 더 한 발",
+      "translation": "真的只牽手 再靠近一步吧",
+      "analysis": [
+        { "point": "진짜 손만 잡을게", "explanation": "진짜 (真的) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" },
+        { "point": "다가와 더 한 발", "explanation": "다가오다 (靠近過來) + 더 (更) + 한 (一) + 발 (步)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus: Minah, DINDIN",
+      "korean": "너를 좋아하지만 너의 마음 모두 다 알지만",
+      "translation": "雖然喜歡你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "너를 좋아하지만", "explanation": "너 (你) + -를 (受格助詞) + 좋아하다 (喜歡) + -지만 (連接詞尾，雖然...但是)。" },
+        { "point": "너의 마음 모두 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 모두 다 (全部都) + 알다 (知道) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 내가 손만 잡을게 (nah it doesn't make sense)",
+      "translation": "今天我只會牽你的手 (nah it doesn't make sense)",
+      "analysis": [
+        { "point": "오늘은 내가 손만 잡을게", "explanation": "오늘 (今天) + -은 (主題助詞) + 내 (我) + -가 (主格助詞) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" }
+      ]
+    },
+    {
+      "korean": "나도 사랑하지만 너의 마음전부 다 알지만",
+      "translation": "雖然我也愛你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "나도 사랑하지만", "explanation": "나 (我) + -도 (也) + 사랑하다 (愛) + -지만 (但是)。" },
+        { "point": "너의 마음전부 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 전부 다 (全部都) + 알다 (知道) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 나 손만 잡을게 (light so what you gonna say now)",
+      "translation": "今天我只會牽你的手 (light so what you gonna say now)",
+      "analysis": [
+        { "point": "오늘은 나 손만 잡을게", "explanation": "오늘 (今天) + -은 (主題助詞) + 나 (我) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge: Minah, DINDIN",
+      "korean": "나도 너만큼 설레이고 있어",
+      "translation": "我也像你一樣心動不已",
+      "analysis": [
+        { "point": "나도 너만큼", "explanation": "나 (我) + -도 (也) + 너 (你) + -만큼 (像...一樣)。" },
+        { "point": "설레이고 있어", "explanation": "설레다 (心動) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "이미 내 맘속엔 네가 전부야",
+      "translation": "我的心裡早已全都是你",
+      "analysis": [
+        { "point": "이미 내 맘속엔", "explanation": "이미 (已經) + 내 (我的) + 맘속 (心裡) + -에는 (에는)。" },
+        { "point": "네가 전부야", "explanation": "네 (你) + -가 (主格助詞) + 전부 (全部) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Oh my god 난 너를 원해",
+      "translation": "Oh my god 我想要你",
+      "analysis": [
+        { "point": "난 너를 원해", "explanation": "나 (我) + -는 (는) + 너 (你) + -를 (受格助詞) + 원하다 (想要)。" }
+      ]
+    },
+    {
+      "korean": "오늘밤이 가기전에",
+      "translation": "在今晚逝去之前",
+      "analysis": [
+        { "point": "오늘밤이 가기전에", "explanation": "오늘밤 (今晚) + -이 (主格助詞) + 가다 (去、流逝) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "(그렇지만 지금은 아냐)",
+      "translation": "(但是現在還不行)",
+      "analysis": [
+        { "point": "그렇지만 지금은 아냐", "explanation": "그렇지만 (但是) + 지금 (現在) + -은 (主題助詞) + 아니다 (不是) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus: Minah, DINDIN",
+      "korean": "너를 좋아하지만 너의 마음 모두 다 알지만",
+      "translation": "雖然喜歡你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "너를 좋아하지만", "explanation": "너 (你) + -를 (受格助詞) + 좋아하다 (喜歡) + -지만 (連接詞尾，雖然...但是)。" },
+        { "point": "너의 마음 모두 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 모두 다 (全部都) + 알다 (知道) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 내가 손만 잡을게 (nah it doesn't make sense girl)",
+      "translation": "今天我只會牽你的手 (nah it doesn't make sense girl)",
+      "analysis": [
+        { "point": "오늘은 내가 손만 잡을게", "explanation": "오늘 (今天) + -은 (主題助詞) + 내 (我) + -가 (主格助詞) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" }
+      ]
+    },
+    {
+      "korean": "나도 사랑하지만 너의 마음전부 다 알지만",
+      "translation": "雖然我也愛你 雖然全都明白你的心意",
+      "analysis": [
+        { "point": "나도 사랑하지만", "explanation": "나 (我) + -도 (也) + 사랑하다 (愛) + -지만 (但是)。" },
+        { "point": "너의 마음전부 다 알지만", "explanation": "너의 (你的) + 마음 (心) + 전부 다 (全部都) + 알다 (知道) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "오늘은 나 손만 잡을게 (light so what you gonna say now)",
+      "translation": "今天我只會牽你的手 (light so what you gonna say now)",
+      "analysis": [
+        { "point": "오늘은 나 손만 잡을게", "explanation": "오늘 (今天) + -은 (主題助詞) + 나 (我) + 손 (手) + -만 (只) + 잡다 (牽) + -(으)ㄹ게 (將會)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro: DINDIN, Minah",
+      "korean": "(너를 좋아하지만) 좋은데 왜그래?",
+      "translation": "(雖然喜歡你) 喜歡的話為什麼那樣？",
+      "analysis": [
+        { "point": "좋은데 왜그래?", "explanation": "좋다 (喜歡、好) + -는데 (但是) + 왜 그렇다 (為何那樣)。" }
+      ]
+    },
+    {
+      "korean": "(너의 맘을 알지만) 아는데 뭐야 왜?",
+      "translation": "(雖然明白你的心) 既然知道 那是怎樣 為何？",
+      "analysis": [
+        { "point": "아는데 뭐야 왜?", "explanation": "알다 (知道) + -는데 (但是) + 뭐 (什麼) + -야 (呀) + 왜 (為何)。" }
+      ]
+    },
+    {
+      "korean": "(오늘은 내가 손만 잡을게) 자꾸 두근대는 내 가슴은 어떡해?",
+      "translation": "(今天我只會牽你的手) 不停撲通跳的我的心該怎麼辦？",
+      "analysis": [
+        { "point": "자꾸 두근대는 내 가슴은", "explanation": "자꾸 (一直) + 두근대다 (撲通跳) 的定語形 + 내 (我的) + 가슴 (心) + -은 (主題助詞)。" },
+        { "point": "어떡해?", "explanation": "어떡해 (怎麼辦) 的疑問形。" }
+      ]
+    },
+    {
+      "korean": "(나도 사랑하지만) 그런데 왜그래?",
+      "translation": "(雖然我也愛你) 但是為什麼那樣？",
+      "analysis": [
+        { "point": "그런데 왜그래?", "explanation": "그런데 (但是) + 왜 그렇다 (為何那樣)。" }
+      ]
+    },
+    {
+      "korean": "(네 맘 전부 알지만) 아는데 뭐야 왜?",
+      "translation": "(雖然全都明白你的心) 既然知道 那是怎樣 為何？",
+      "analysis": [
+        { "point": "아는데 뭐야 왜?", "explanation": "알다 (知道) + -는데 (但是) + 뭐 (什麼) + -야 (呀) + 왜 (為何)。" }
+      ]
+    },
+    {
+      "korean": "(오늘은 나 손만 잡을게)",
+      "translation": "(今天我只會牽你的手)",
+      "analysis": []
+    },
+    {
+      "korean": "Come on it doesn't make sense girl",
+      "translation": "Come on it doesn't make sense girl",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓、牽", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道、明白", "pos": "動詞" },
+    { "korean": "긴장", "chinese": "緊張", "pos": "名詞" },
+    { "korean": "풀다", "chinese": "解開", "pos": "動詞" },
+    { "korean": "밀당", "chinese": "推拉、欲擒故縱", "pos": "名詞" },
+    { "korean": "다가서다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "물러서다", "chinese": "後退", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "一直、總是", "pos": "副詞" },
+    { "korean": "막다", "chinese": "擋住", "pos": "動詞" },
+    { "korean": "어색하다", "chinese": "尷尬", "pos": "形容詞" },
+    { "korean": "질문", "chinese": "問題", "pos": "名詞" },
+    { "korean": "그만하다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "기회", "chinese": "機會", "pos": "名詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "靠近過來", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "가슴", "chinese": "心、胸口", "pos": "名詞" },
+    { "korean": "하루종일", "chinese": "一整天", "pos": "副詞" },
+    { "korean": "두근거리다", "chinese": "撲通跳", "pos": "動詞" },
+    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
+    { "korean": "걸음", "chinese": "步", "pos": "名詞" },
+    { "korean": "알아주다", "chinese": "理解、認可", "pos": "動詞" },
+    { "korean": "시리다", "chinese": "冰冷", "pos": "形容詞" },
+    { "korean": "떨리다", "chinese": "發抖", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "껴입다", "chinese": "多穿(衣服)", "pos": "動詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "차다", "chinese": "冷、涼", "pos": "形容詞" },
+    { "korean": "틀다", "chinese": "播放", "pos": "動詞" },
+    { "korean": "완벽하다", "chinese": "完美", "pos": "形容詞" },
+    { "korean": "상태", "chinese": "狀態", "pos": "名詞" },
+    { "korean": "긴급하다", "chinese": "緊急", "pos": "形容詞" },
+    { "korean": "때", "chinese": "時候、時機", "pos": "名詞" },
+    { "korean": "난이도", "chinese": "難度", "pos": "名詞" },
+    { "korean": "문제집", "chinese": "問題集", "pos": "名詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "신호", "chinese": "信號", "pos": "名詞" },
+    { "korean": "가까워지다", "chinese": "變近", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" }
+  ]
+}
