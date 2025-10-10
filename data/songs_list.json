@@ -387,7 +387,19 @@
   "title": "A Guy Like Me (나란놈이란) (*Cover)",
   "artist": "MINAH (민아)",
   "lyricsFile": "../data/lyrics/minah-a-guy-like-me.json"  
-  }, 
+  },
+  {
+  "id": "minah-sonman-jabeulge",
+  "title": "손만 잡을게 (feat. DINDIN)",
+  "artist": "MINAH (민아)",
+  "lyricsFile": "../data/lyrics/minah-sonman-jabeulge.json"  
+  },
+  {
+  "id": "vixx-geuman-beotigo",
+  "title": "그만 버티고 (Stop Resisting)",
+  "artist": "VIXX (빅스) (feat. MINAH)", 
+  "lyricsFile": "../data/lyrics/vixx-geuman-beotigo.json"  
+  },
   {
     "id": "minah-ani",
     "title": "아니",
