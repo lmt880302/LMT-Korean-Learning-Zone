@@ -305,11 +305,28 @@
     "lyricsFile": "../data/lyrics/btob-beautiful-pain.json"
   },
 
+  {
+    "id": "btob-someday",
+    "title": "SOMEDAY (언젠가)",
+    "artist": "BTOB (비투비)",
+    "lyricsFile": "../data/lyrics/btob-someday.json"
+  },
 
+  {
+    "id": "btob-blooming_day",
+    "title": "Blooming Day (봄이 피어나)",
+    "artist": "BTOB (비투비)",
+    "lyricsFile": "../data/lyrics/btob-blooming_day.json"
+  },
 
     
-  
-  
+
+  {
+    "id": "davii-trial_and_error",
+    "title": "Trial and Error (시행착오)",
+    "artist": "DAVII (다비) (Feat. 베이빌론, MINAH)",
+    "lyricsFile": "../data/lyrics/davii-trial_and_error.json"
+  },
 
 
   {
@@ -395,10 +412,10 @@
   "lyricsFile": "../data/lyrics/minah-sonman-jabeulge.json"  
   },
   {
-  "id": "vixx-geuman-beotigo",
+  "id": "vixx-stop_resisting",
   "title": "그만 버티고 (Stop Resisting)",
-  "artist": "VIXX (빅스) (feat. MINAH)", 
-  "lyricsFile": "../data/lyrics/vixx-geuman-beotigo.json"  
+  "artist": "VIXX (빅스) (feat. MINAH)",
+  "lyricsFile": "../data/lyrics/vixx-stop_resisting.json"  
   },
   {
     "id": "minah-ani",

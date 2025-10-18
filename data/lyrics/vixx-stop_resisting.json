@@ -1,0 +1,629 @@
+{
+  "id": "vixx-stop_resisting",
+  "title": "그만 버티고 (Stop Resisting)",
+  "artist": "VIXX (빅스) (feat. MINAH)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Go shawty",
+      "translation": "Go shawty",
+      "analysis": [
+        { "point": "Go shawty", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "go shawty shawty",
+      "translation": "go shawty shawty",
+      "analysis": [
+        { "point": "go shawty shawty", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 밤이 밤이 다 가기 전에",
+      "translation": "在這夜晚結束之前",
+      "analysis": [
+        { "point": "이 밤이", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "다 가기 전에", "explanation": "다 (全部) + 가다 (去、流逝) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "집에 돌려보내지마",
+      "translation": "別送我回家",
+      "analysis": [
+        { "point": "집에", "explanation": "집 (家) + -에 (場所助詞，往)。" },
+        { "point": "돌려보내지마", "explanation": "돌려보내다 (送回去) + -지 마 (否定命令句，不要...)。" }
+      ]
+    },
+    {
+      "korean": "아직 할 일이 많이 남았잖아",
+      "translation": "不是還有很多事要做嗎",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還、尚。" },
+        { "point": "할 일이", "explanation": "하다 (做) + -(으)ㄹ (未來式定語詞尾) + 일 (事情) + -이 (主格助詞)。" },
+        { "point": "많이 남았잖아", "explanation": "많이 (很多地) + 남다 (剩下) 的過去式 + -잖아 (確認對方也知道的事實，不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "Go go shawty shawty",
+      "translation": "Go go shawty shawty",
+      "analysis": [
+        { "point": "Go go shawty shawty", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 맘이 변하기 전에",
+      "translation": "在我心意改變之前",
+      "analysis": [
+        { "point": "내 맘이", "explanation": "내 (我的) + 마음 (心) 的縮略 + -이 (主格助詞)。" },
+        { "point": "변하기 전에", "explanation": "변하다 (改變) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "더는 튕기려 하지마",
+      "translation": "別再欲擒故縱了",
+      "analysis": [
+        { "point": "더는", "explanation": "더 (再、更) + -는 (主題助詞)，表示「再也」。" },
+        { "point": "튕기려 하지마", "explanation": "튕기다 (推託、欲擒故縱) + -(으)려 하다 (意圖做...) + -지 마 (不要...)。" }
+      ]
+    },
+    {
+      "korean": "내가 용기를 내서 꺼낸 말이잖아 girl",
+      "translation": "這不是我鼓起勇氣才說出口的話嗎 girl",
+      "analysis": [
+        { "point": "내가 용기를 내서", "explanation": "내가 (我) + 용기 (勇氣) + -를 (受格助詞) + 내다 (拿出) + -아서 (表示原因或順序)。" },
+        { "point": "꺼낸 말이잖아", "explanation": "꺼내다 (拿出、說出) 的過去定語形 + 말 (話) + -이잖아 (是...啊)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "요즘 난 그래",
+      "translation": "最近我就是這樣",
+      "analysis": [
+        { "point": "요즘 난 그래", "explanation": "요즘 (最近) + 나는 (我) 的縮略 + 그렇다 (那樣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너를 의심해",
+      "translation": "懷疑著你",
+      "analysis": [
+        { "point": "너를 의심해", "explanation": "너를 (你) + 의심하다 (懷疑) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "날 진짜 사랑하는 사람 맞는지",
+      "translation": "你是不是真的愛我的人",
+      "analysis": [
+        { "point": "날 진짜 사랑하는", "explanation": "나를 (我) 的縮略 + 진짜 (真的) + 사랑하다 (愛) + -는 (現在式定語詞尾)。" },
+        { "point": "사람 맞는지", "explanation": "사람 (人) + 맞다 (是的) + -(으)ㄴ지 (用於名詞後，表示不確定的疑問)。" }
+      ]
+    },
+    {
+      "korean": "좀 가만히 있어줘",
+      "translation": "請安靜待著",
+      "analysis": [
+        { "point": "좀 가만히", "explanation": "좀 (請、稍微) + 가만히 (安靜地、靜靜地)。" },
+        { "point": "있어줘", "explanation": "있다 (在、待著) + -아/어 주다 (請求對方為自己做某事)。" }
+      ]
+    },
+    {
+      "korean": "깊어질 기회를 줘",
+      "translation": "給我個讓關係更深入的機會",
+      "analysis": [
+        { "point": "깊어질 기회를", "explanation": "깊어지다 (變深) + -(으)ㄹ (未來式定語詞尾) + 기회 (機會) + -를 (受格助詞)。" },
+        { "point": "줘", "explanation": "주다 (給) 的非格式體命令型。" }
+      ]
+    },
+    {
+      "korean": "좀 겉도는 우리 둘 사이가",
+      "translation": "我們兩人之間有點겉도는(겉도는)",
+      "analysis": [
+        { "point": "좀 겉도는", "explanation": "좀 (有點) + 겉돌다 (겉도는、無法融入) + -는 (現在式定語詞尾)。" },
+        { "point": "우리 둘 사이가", "explanation": "우리 (我們) + 둘 (倆) + 사이 (之間) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "오늘은 그만 그만",
+      "translation": "今天就到此為止",
+      "analysis": [
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "그만", "explanation": "副詞，到此為止、停止。" }
+      ]
+    },
+    {
+      "korean": "진도는 여기까지만",
+      "translation": "進度就到這裡為止",
+      "analysis": [
+        { "point": "진도는", "explanation": "진도 (進度) + -는 (主題助詞)。" },
+        { "point": "여기까지만", "explanation": "여기까지 (到這裡) + -만 (助詞，只)。" }
+      ]
+    },
+    {
+      "korean": "우린 서로를 알기 위해 시간이 필요해",
+      "translation": "我們需要時間來了解彼此",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "서로를 알기 위해", "explanation": "서로 (彼此) + -를 (受格助詞) + 알다 (了解) + -기 위해 (為了...)." },
+        { "point": "시간이 필요해", "explanation": "시간 (時間) + -이 (主格助詞) + 필요하다 (需要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑하지만 네가 너무 좋지만",
+      "translation": "雖然我愛你 雖然我非常喜歡你",
+      "analysis": [
+        { "point": "너를 사랑하지만", "explanation": "너를 (你) + 사랑하다 (愛) + -지만 (連接詞尾，雖然...但是...)." },
+        { "point": "네가 너무 좋지만", "explanation": "네가 (你) + 너무 (非常) + 좋다 (喜歡) + -지만 (雖然...但是...)." }
+      ]
+    },
+    {
+      "korean": "사실 조금은 걱정이 돼",
+      "translation": "其實有點擔心",
+      "analysis": [
+        { "point": "사실 조금은", "explanation": "사실 (其實) + 조금 (一點) + -은 (主題助詞)。" },
+        { "point": "걱정이 돼", "explanation": "걱정 (擔心) + -이 (主格助詞) + 되다 (變得) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우린 너무 급해",
+      "translation": "我們太急了",
+      "analysis": [
+        { "point": "우린 너무 급해", "explanation": "우리는 (我們) 的縮略 + 너무 (太) + 급하다 (急) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "hello hello 그만 좀 버티고",
+      "translation": "hello hello 別再撐了",
+      "analysis": [
+        { "point": "그만 좀 버티고", "explanation": "그만 (停止) + 좀 (請、稍微) + 버티다 (堅持、硬撐) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "hello hello 적당히 튕기고",
+      "translation": "hello hello 適當地欲擒故縱",
+      "analysis": [
+        { "point": "적당히 튕기고", "explanation": "적당히 (適當地) + 튕기다 (欲擒故縱) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "우린 다 컸어 왜 이래",
+      "translation": "我們都長大了 為什麼這樣",
+      "analysis": [
+        { "point": "우린 다 컸어", "explanation": "우리는 (我們) 的縮略 + 다 (都) + 크다 (長大) 的過去式。" },
+        { "point": "왜 이래", "explanation": "왜 (為什麼) + 이렇다 (這樣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "제발 내게 와 baby",
+      "translation": "拜託到我身邊來 baby",
+      "analysis": [
+        { "point": "제발 내게 와", "explanation": "제발 (拜託) + 내게 (向我，나에게的縮略) + 오다 (來) 的命令型。" }
+      ]
+    },
+    {
+      "korean": "별로 별로 난 아직 고민돼",
+      "translation": "不怎麼 不怎麼 我還在猶豫",
+      "analysis": [
+        { "point": "별로", "explanation": "副詞，(與否定詞連用)不怎麼樣、不太。" },
+        { "point": "난 아직 고민돼", "explanation": "나는 (我) 的縮略 + 아직 (還) + 고민되다 (感到苦惱) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "별게 별게 난 아직 걱정돼",
+      "translation": "什麼的 什麼的 我還在擔心",
+      "analysis": [
+        { "point": "별게", "explanation": "별것이 (特別的事物) 的口語縮略，在這裡表示「各種事情」。" },
+        { "point": "난 아직 걱정돼", "explanation": "나는 (我) 的縮略 + 아직 (還) + 걱정되다 (感到擔心) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "엄마 얼굴이 떠올라",
+      "translation": "媽媽的臉浮現在腦海",
+      "analysis": [
+        { "point": "엄마 얼굴이 떠올라", "explanation": "엄마 (媽媽) + 얼굴 (臉) + -이 (主格助詞) + 떠오르다 (浮現) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 복잡해",
+      "translation": "我的心好複雜",
+      "analysis": [
+        { "point": "내 맘이 복잡해", "explanation": "내 (我的) + 마음 (心) 的縮略 + -이 (主格助詞) + 복잡하다 (複雜) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "그만 좀 버텨",
+      "translation": "別再撐了",
+      "analysis": [
+        { "point": "그만 좀 버텨", "explanation": "그만 (停止) + 좀 (請、稍微) + 버티다 (堅持、硬撐) 的非格式體命令型。" }
+      ]
+    },
+    {
+      "korean": "네가 이렇게나 예쁜데",
+      "translation": "你這麼漂亮",
+      "analysis": [
+        { "point": "네가 이렇게나", "explanation": "네가 (你) + 이렇게나 (如此地、這麼地)。" },
+        { "point": "예쁜데", "explanation": "예쁘다 (漂亮) + -(으)ㄴ데 (連接詞尾，表示背景或轉折)。" }
+      ]
+    },
+    {
+      "korean": "어떻게 견뎌",
+      "translation": "要怎麼忍耐",
+      "analysis": [
+        { "point": "어떻게 견뎌", "explanation": "어떻게 (怎麼) + 견디다 (忍耐、承受) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "난 못 견뎌",
+      "translation": "我忍不住",
+      "analysis": [
+        { "point": "난 못 견뎌", "explanation": "나는 (我) 的縮略 + 못 (副詞，無法) + 견디다 (忍耐)。" }
+      ]
+    },
+    {
+      "korean": "인내란 어려워",
+      "translation": "所謂忍耐很難",
+      "analysis": [
+        { "point": "인내란", "explanation": "인내 (忍耐) + -(이)란 (所謂...，表示定義或強調)。" },
+        { "point": "어려워", "explanation": "어렵다 (困難的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너를 다 가질 수가 없어서 서러워",
+      "translation": "因為無法完全擁有你而難過",
+      "analysis": [
+        { "point": "너를 다 가질 수가 없어서", "explanation": "너를 (你) + 다 (都) + 가지다 (擁有) + -(으)ㄹ 수 없다 (無法...) + -아서 (因為)。" },
+        { "point": "서러워", "explanation": "서럽다 (委屈、難過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "섹시한 그 입술에 실례야",
+      "translation": "對那性感的嘴唇是失禮的",
+      "analysis": [
+        { "point": "섹시한 그 입술에", "explanation": "섹시하다 (性感的) 的定語形 + 그 (那) + 입술 (嘴唇) + -에 (對象助詞)。" },
+        { "point": "실례야", "explanation": "실례 (失禮) + -이다 (是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "가만 놔두는 게 더 큰 실례야",
+      "translation": "就這樣放著是更大的失禮",
+      "analysis": [
+        { "point": "가만 놔두는 게", "explanation": "가만 (靜靜地) + 놔두다 (放著) + -는 것 (將動詞名詞化) 的縮略。" },
+        { "point": "더 큰 실례야", "explanation": "더 (更) + 크다 (大) 的定語形 + 실례 (失禮) + -이다 (是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Hey excuse me",
+      "translation": "Hey excuse me",
+      "analysis": [
+        { "point": "Hey excuse me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "그만 좀 버티고",
+      "translation": "別再撐了",
+      "analysis": [
+        { "point": "그만 좀 버티고", "explanation": "그만 (停止) + 좀 (請、稍微) + 버티다 (堅持、硬撐) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "이젠 좀 내게 와",
+      "translation": "現在就到我身邊來吧",
+      "analysis": [
+        { "point": "이젠 좀", "explanation": "이제는 (現在) 的縮略 + 좀 (請、稍微)。" },
+        { "point": "내게 와", "explanation": "내게 (向我) + 오다 (來) 的命令型。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "오늘은 그만 그만",
+      "translation": "今天就到此為止",
+      "analysis": [
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "그만", "explanation": "副詞，到此為止、停止。" }
+      ]
+    },
+    {
+      "korean": "진도는 여기까지만",
+      "translation": "進度就到這裡為止",
+      "analysis": [
+        { "point": "진도는", "explanation": "진도 (進度) + -는 (主題助詞)。" },
+        { "point": "여기까지만", "explanation": "여기까지 (到這裡) + -만 (助詞，只)。" }
+      ]
+    },
+    {
+      "korean": "우린 서로를 알기 위해 시간이 필요해",
+      "translation": "我們需要時間來了解彼此",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "서로를 알기 위해", "explanation": "서로 (彼此) + -를 (受格助詞) + 알다 (了解) + -기 위해 (為了...)." },
+        { "point": "시간이 필요해", "explanation": "시간 (時間) + -이 (主格助詞) + 필요하다 (需要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑하지만 네가 너무 좋지만",
+      "translation": "雖然我愛你 雖然我非常喜歡你",
+      "analysis": [
+        { "point": "너를 사랑하지만", "explanation": "너를 (你) + 사랑하다 (愛) + -지만 (連接詞尾，雖然...但是...)." },
+        { "point": "네가 너무 좋지만", "explanation": "네가 (你) + 너무 (非常) + 좋다 (喜歡) + -지만 (雖然...但是...)." }
+      ]
+    },
+    {
+      "korean": "사실 조금은 걱정이 돼",
+      "translation": "其實有點擔心",
+      "analysis": [
+        { "point": "사실 조금은", "explanation": "사실 (其實) + 조금 (一點) + -은 (主題助詞)。" },
+        { "point": "걱정이 돼", "explanation": "걱정 (擔心) + -이 (主格助詞) + 되다 (變得) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우린 너무 급해",
+      "translation": "我們太急了",
+      "analysis": [
+        { "point": "우린 너무 급해", "explanation": "우리는 (我們) 的縮略 + 너무 (太) + 급하다 (急) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "hello hello 그만 좀 버티고",
+      "translation": "hello hello 別再撐了",
+      "analysis": [
+        { "point": "그만 좀 버티고", "explanation": "그만 (停止) + 좀 (請、稍微) + 버티다 (堅持、硬撐) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "hello hello 적당히 튕기고",
+      "translation": "hello hello 適當地欲擒故縱",
+      "analysis": [
+        { "point": "적당히 튕기고", "explanation": "적당히 (適當地) + 튕기다 (欲擒故縱) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "우린 다 컸어 왜 이래",
+      "translation": "我們都長大了 為什麼這樣",
+      "analysis": [
+        { "point": "우린 다 컸어", "explanation": "우리는 (我們) 的縮略 + 다 (都) + 크다 (長大) 的過去式。" },
+        { "point": "왜 이래", "explanation": "왜 (為什麼) + 이렇다 (這樣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "제발 내게 와 baby",
+      "translation": "拜託到我身邊來 baby",
+      "analysis": [
+        { "point": "제발 내게 와", "explanation": "제발 (拜託) + 내게 (向我，나에게的縮略) + 오다 (來) 的命令型。" }
+      ]
+    },
+    {
+      "korean": "별로 별로 난 아직 고민돼",
+      "translation": "不怎麼 不怎麼 我還在猶豫",
+      "analysis": [
+        { "point": "별로", "explanation": "副詞，(與否定詞連用)不怎麼樣、不太。" },
+        { "point": "난 아직 고민돼", "explanation": "나는 (我) 的縮略 + 아직 (還) + 고민되다 (感到苦惱) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "별게 별게 난 아직 걱정돼",
+      "translation": "什麼的 什麼的 我還在擔心",
+      "analysis": [
+        { "point": "별게", "explanation": "별것이 (特別的事物) 的口語縮略，在這裡表示「各種事情」。" },
+        { "point": "난 아직 걱정돼", "explanation": "나는 (我) 的縮略 + 아직 (還) + 걱정되다 (感到擔心) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "엄마 얼굴이 떠올라",
+      "translation": "媽媽的臉浮現在腦海",
+      "analysis": [
+        { "point": "엄마 얼굴이 떠올라", "explanation": "엄마 (媽媽) + 얼굴 (臉) + -이 (主格助詞) + 떠오르다 (浮現) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 복잡해",
+      "translation": "我的心好複雜",
+      "analysis": [
+        { "point": "내 맘이 복잡해", "explanation": "내 (我的) + 마음 (心) 的縮略 + -이 (主格助詞) + 복잡하다 (複雜) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "여기서 멈추면 난 어떡하라고",
+      "translation": "在這裡停下來的話我要怎麼辦",
+      "analysis": [
+        { "point": "여기서 멈추면", "explanation": "여기서 (在這裡) + 멈추다 (停下) + -(으)면 (如果)。" },
+        { "point": "난 어떡하라고", "explanation": "나는 (我) 的縮略 + 어떡하다 (怎麼辦) + -(으)라고 (間接引用命令，此處為反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "오늘 나 밤새도록 잠 못 자라고",
+      "translation": "是要我今天整晚都睡不著嗎",
+      "analysis": [
+        { "point": "오늘 나 밤새도록", "explanation": "오늘 (今天) + 나 (我) + 밤새도록 (整晚)。" },
+        { "point": "잠 못 자라고", "explanation": "잠 (覺) + 못 (無法) + 자다 (睡) + -(으)라고 (間接引用命令，此處為反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "말뿐인 대화는 이젠 지겨워",
+      "translation": "只是說說的對話現在膩了",
+      "analysis": [
+        { "point": "말뿐인 대화는", "explanation": "말뿐이다 (只是說說) 的定語形 + 대화 (對話) + -는 (主題助詞)。" },
+        { "point": "이젠 지겨워", "explanation": "이제는 (現在) 的縮略 + 지겹다 (厭煩、膩了) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "정말 넌 내 맘 몰라",
+      "translation": "你真的不懂我的心",
+      "analysis": [
+        { "point": "정말 넌", "explanation": "정말 (真的) + 너는 (你) 的縮略。" },
+        { "point": "내 맘 몰라", "explanation": "내 (我的) + 마음 (心) 的縮略 + 모르다 (不知道) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "hello hello 그만 좀 버티고",
+      "translation": "hello hello 別再撐了",
+      "analysis": [
+        { "point": "그만 좀 버티고", "explanation": "그만 (停止) + 좀 (請、稍微) + 버티다 (堅持、硬撐) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "hello hello 적당히 튕기고",
+      "translation": "hello hello 適當地欲擒故縱",
+      "analysis": [
+        { "point": "적당히 튕기고", "explanation": "적당히 (適當地) + 튕기다 (欲擒故縱) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "우린 다 컸어 왜 이래",
+      "translation": "我們都長大了 為什麼這樣",
+      "analysis": [
+        { "point": "우린 다 컸어", "explanation": "우리는 (我們) 的縮略 + 다 (都) + 크다 (長大) 的過去式。" },
+        { "point": "왜 이래", "explanation": "왜 (為什麼) + 이렇다 (這樣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "제발 내게 와 baby",
+      "translation": "拜託到我身邊來 baby",
+      "analysis": [
+        { "point": "제발 내게 와", "explanation": "제발 (拜託) + 내게 (向我，나에게的縮略) + 오다 (來) 的命令型。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "서로 서로 너무 사랑하는데",
+      "translation": "明明彼此那麼相愛",
+      "analysis": [
+        { "point": "서로 너무 사랑하는데", "explanation": "서로 (彼此) + 너무 (非常) + 사랑하다 (愛) + -는데 (連接詞尾，表示背景或轉折)。" }
+      ]
+    },
+    {
+      "korean": "가로 세로 뭘 그리 자꾸 재",
+      "translation": "橫的豎的 你總是在衡量些什麼",
+      "analysis": [
+        { "point": "가로 세로", "explanation": "名詞，橫、豎，引申為「瞻前顧後、多方衡量」。" },
+        { "point": "뭘 그리 자꾸 재", "explanation": "뭘 (무엇을，什麼) + 그리 (那樣地) + 자꾸 (總是、一直) + 재다 (測量、衡量) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 눈을 피하지마",
+      "translation": "別避開我的眼神",
+      "analysis": [
+        { "point": "내 눈을", "explanation": "내 (我的) + 눈 (眼睛) + -을 (受格助詞)。" },
+        { "point": "피하지마", "explanation": "피하다 (躲避) + -지 마 (不要...)。" }
+      ]
+    },
+    {
+      "korean": "넌 끌리고 있어",
+      "translation": "你正被我吸引",
+      "analysis": [
+        { "point": "넌 끌리고 있어", "explanation": "너는 (你) 의 축약형 + 끌리다 (被吸引) + -고 있다 (現在進行式)。" }
+      ]
+    },
+    {
+      "korean": "You're mine you're mine",
+      "translation": "You're mine you're mine",
+      "analysis": [
+        { "point": "You're mine you're mine", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "you're mine girl",
+      "translation": "you're mine girl",
+      "analysis": [
+        { "point": "you're mine girl", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이미 넌 내꺼",
+      "translation": "你早就是我的了",
+      "analysis": [
+        { "point": "이미 넌 내꺼", "explanation": "이미 (已經) + 너는 (你) 的縮略 + 내 것 (我的東西) 的口語。" }
+      ]
+    },
+    {
+      "korean": "난 정말 네가 좋아",
+      "translation": "我真的很喜歡你",
+      "analysis": [
+        { "point": "난 정말 네가 좋아", "explanation": "나는 (我) 的縮略 + 정말 (真的) + 네가 (你) + 좋다 (喜歡)。" }
+      ]
+    },
+    {
+      "korean": "이젠 널 믿어 볼까",
+      "translation": "現在該試著相信你嗎",
+      "analysis": [
+        { "point": "이젠 널", "explanation": "이제는 (現在) 的縮略 + 너를 (你) 的縮略。" },
+        { "point": "믿어 볼까", "explanation": "믿다 (相信) + -아/어 보다 (試試看) + -(으)ㄹ까 (疑問句，...嗎)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "가다", "chinese": "去、(時間)流逝", "pos": "動詞" },
+    { "korean": "돌려보내다", "chinese": "送回去", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還、尚", "pos": "副詞" },
+    { "korean": "일", "chinese": "事情、工作", "pos": "名詞" },
+    { "korean": "남다", "chinese": "剩下", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心、心意", "pos": "名詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "더", "chinese": "更、再", "pos": "副詞" },
+    { "korean": "튕기다", "chinese": "推託、欲擒故縱", "pos": "動詞" },
+    { "korean": "용기", "chinese": "勇氣", "pos": "名詞" },
+    { "korean": "내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "꺼내다", "chinese": "拿出、說出", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "요즘", "chinese": "最近", "pos": "名詞" },
+    { "korean": "의심하다", "chinese": "懷疑", "pos": "動詞" },
+    { "korean": "진짜", "chinese": "真的", "pos": "副詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" },
+    { "korean": "맞다", "chinese": "對的、是的", "pos": "形容詞" },
+    { "korean": "가만히", "chinese": "安靜地、靜靜地", "pos": "副詞" },
+    { "korean": "깊어지다", "chinese": "變深", "pos": "動詞" },
+    { "korean": "기회", "chinese": "機會", "pos": "名詞" },
+    { "korean": "주다", "chinese": "給", "pos": "動詞" },
+    { "korean": "겉돌다", "chinese": "겉도는、無法融入", "pos": "動詞" },
+    { "korean": "사이", "chinese": "之間、關係", "pos": "名詞" },
+    { "korean": "그만", "chinese": "停止、到此為止", "pos": "副詞" },
+    { "korean": "진도", "chinese": "進度", "pos": "名詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "代名詞" },
+    { "korean": "알다", "chinese": "知道、了解", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "너무", "chinese": "非常、太", "pos": "副詞" },
+    { "korean": "사실", "chinese": "事實、其實", "pos": "副詞" },
+    { "korean": "조금", "chinese": "一點", "pos": "副詞" },
+    { "korean": "걱정되다", "chinese": "感到擔心", "pos": "動詞" },
+    { "korean": "급하다", "chinese": "急", "pos": "形容詞" },
+    { "korean": "버티다", "chinese": "堅持、硬撐", "pos": "動詞" },
+    { "korean": "적당히", "chinese": "適當地", "pos": "副詞" },
+    { "korean": "크다", "chinese": "大、長大", "pos": "動詞" },
+    { "korean": "왜", "chinese": "為什麼", "pos": "副詞" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "별로", "chinese": "不怎麼樣", "pos": "副詞" },
+    { "korean": "고민되다", "chinese": "感到苦惱", "pos": "動詞" },
+    { "korean": "엄마", "chinese": "媽媽", "pos": "名詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "떠오르다", "chinese": "浮現", "pos": "動詞" },
+    { "korean": "복잡하다", "chinese": "複雜", "pos": "形容詞" },
+    { "korean": "예쁘다", "chinese": "漂亮", "pos": "形容詞" },
+    { "korean": "어떻게", "chinese": "怎麼", "pos": "副詞" },
+    { "korean": "견디다", "chinese": "忍耐、承受", "pos": "動詞" },
+    { "korean": "인내", "chinese": "忍耐", "pos": "名詞" },
+    { "korean": "어렵다", "chinese": "困難的", "pos": "形容詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "서럽다", "chinese": "委屈、難過", "pos": "形容詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "실례", "chinese": "失禮", "pos": "名詞" },
+    { "korean": "놔두다", "chinese": "放著", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停下", "pos": "動詞" },
+    { "korean": "밤새도록", "chinese": "整晚", "pos": "副詞" },
+    { "korean": "자다", "chinese": "睡覺", "pos": "動詞" },
+    { "korean": "대화", "chinese": "對話", "pos": "名詞" },
+    { "korean": "지겹다", "chinese": "厭煩、膩了", "pos": "形容詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "재다", "chinese": "測量、衡量", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "끌리다", "chinese": "被吸引", "pos": "動詞" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" }
+  ]
+}

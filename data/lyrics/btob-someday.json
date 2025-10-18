@@ -1,0 +1,411 @@
+{
+  "id": "btob-someday",
+  "title": "SOMEDAY (언젠가)",
+  "artist": "BTOB (비투비)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "날 만지던 너의 그 두 손이",
+      "translation": "曾撫摸我的你的那雙手",
+      "analysis": [
+        { "point": "날 만지던", "explanation": "나를 (我) 的縮略 + 만지다 (撫摸) + -던 (過去持續回想的定語詞尾)。" },
+        { "point": "너의 그 두 손이", "explanation": "너의 (你的) + 그 (那) + 두 (兩) + 손 (手) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "날 부르던 너의 목소리가",
+      "translation": "曾呼喚我的你的聲音",
+      "analysis": [
+        { "point": "날 부르던", "explanation": "나를 (我) 的縮略 + 부르다 (呼喚) + -던 (過去持續回想的定語詞尾)。" },
+        { "point": "너의 목소리가", "explanation": "너의 (你的) + 목소리 (聲音) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "아직도 선명해 여전히 맴돌아",
+      "translation": "至今仍鮮明 依舊在縈繞",
+      "analysis": [
+        { "point": "아직도 선명해", "explanation": "아직도 (仍然、至今) + 선명하다 (鮮明) 的非格式體。" },
+        { "point": "여전히 맴돌아", "explanation": "여전히 (依然) + 맴돌다 (縈繞、盤旋) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "왜 네가 있을 때 최선을 다하지 못했을까",
+      "translation": "為什麼有你在的時候 沒能盡全力呢",
+      "analysis": [
+        { "point": "네가 있을 때", "explanation": "네가 (你) + 있다 (在) + -(으)ㄹ 때 (…的時候)。" },
+        { "point": "최선을 다하지 못했을까", "explanation": "최선을 다하다 (盡全力) + -지 못하다 (無法…) + -았/었을까 (對過去的推測或後悔的疑問)。" }
+      ]
+    },
+    {
+      "korean": "더 강했더라면 끝까지 널 붙잡았을 텐데",
+      "translation": "如果當初更堅強的話 就會抓著你直到最後了",
+      "analysis": [
+        { "point": "더 강했더라면", "explanation": "더 (更) + 강하다 (堅強) + -았/었더라면 (表示與過去事實相反的假設與後悔)。" },
+        { "point": "끝까지 널 붙잡았을 텐데", "explanation": "끝까지 (直到最後) + 너를 (你) 的縮略 + 붙잡다 (抓住) + -았/었을 텐데 (表示對過去的推測與惋惜)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "별생각 없이 잘 지내고 있다가도",
+      "translation": "即使漫不經心地過得很好",
+      "analysis": [
+        { "point": "별생각 없이", "explanation": "별생각 (特別的想法) + 없이 (沒有地)，表示「沒多想、漫不經心」。" },
+        { "point": "잘 지내고 있다가도", "explanation": "잘 지내다 (過得好) + -고 있다가도 (即使正在做某事…也…)。" }
+      ]
+    },
+    {
+      "korean": "잊혀진 기억은 찾아와 딜레마로",
+      "translation": "被遺忘的記憶也會找上門來 成為兩難",
+      "analysis": [
+        { "point": "잊혀진 기억은", "explanation": "잊혀지다 (被遺忘) 的過去定語形 + 기억 (記憶) + -은 (主題助詞)。" },
+        { "point": "찾아와 딜레마로", "explanation": "찾아오다 (找來) + 딜레마 (dilemma) + -(으)로 (以…的身分/方式)。" }
+      ]
+    },
+    {
+      "korean": "네가 있는 나와 네가 없는 나는 전혀 다른",
+      "translation": "有你的我和沒你的我 完全是不同的",
+      "analysis": [
+        { "point": "네가 있는 나와 네가 없는 나는", "explanation": "네가 있다/없다 (有/沒有你) + -는 (現在定語詞尾) + 나 (我) + 와 (和)。" },
+        { "point": "전혀 다른", "explanation": "전혀 (完全) + 다르다 (不同) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "두 사람이란 것만 알아둬",
+      "translation": "只要知道是兩個人就好",
+      "analysis": [
+        { "point": "두 사람이란 것만", "explanation": "두 사람 (兩個人) + -(이)란 것 (…這件事) + -만 (只)。" },
+        { "point": "알아둬", "explanation": "알아두다 (記住) 的命令型。" }
+      ]
+    },
+    {
+      "korean": "온갖 망상에 더 짙어지는 매캐한 공기",
+      "translation": "在各種妄想中更濃厚的刺鼻空氣",
+      "analysis": [
+        { "point": "온갖 망상에", "explanation": "온갖 (各種) + 망상 (妄想) + -에 (原因助詞)。" },
+        { "point": "더 짙어지는 매캐한 공기", "explanation": "더 (更) + 짙어지다 (變濃) + -는 (現在定語) + 매캐하다 (刺鼻的) 的定語形 + 공기 (空氣)。" }
+      ]
+    },
+    {
+      "korean": "First time first love 처음치고는 꽤 좋았지",
+      "translation": "First time first love 作為初次算是相當不錯了",
+      "analysis": [
+        { "point": "처음치고는", "explanation": "처음 (第一次) + -치고는 (慣用型，作為…來說)。" },
+        { "point": "꽤 좋았지", "explanation": "꽤 (相當) + 좋다 (好) 的過去式 + -지 (口語終結詞尾)。" }
+      ]
+    },
+    {
+      "korean": "전쟁 통에 엉망진창이 됐어 어느새 But someday",
+      "translation": "在戰爭中不知不覺變得一團亂 But someday",
+      "analysis": [
+        { "point": "전쟁 통에", "explanation": "전쟁 (戰爭) + 통 (期間、當中) + -에 (場所助詞)。" },
+        { "point": "엉망진창이 됐어", "explanation": "엉망진창 (一團亂) + -이 되다 (變得) 的過去式非格式體。" },
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "언젠가 다시 만나 우리 더 좋은 날에 우리",
+      "translation": "某天再次相遇吧 我們 在更好的日子裡 我們",
+      "analysis": [
+        { "point": "언젠가 다시 만나", "explanation": "언젠가 (某天) + 다시 (再次) + 만나다 (遇見)。" },
+        { "point": "더 좋은 날에", "explanation": "더 (更) + 좋다 (好) 的定語形 + 날 (日子) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "좀 더 행복하게 좀 더 시원하게 파도치는 바다 같을 때",
+      "translation": "在我們更幸福 更舒暢 如同波濤洶湧的大海那時",
+      "analysis": [
+        { "point": "좀 더 행복하게", "explanation": "좀 더 (再多一點) + 행복하다 (幸福) + -게 (副詞形語尾)。" },
+        { "point": "좀 더 시원하게", "explanation": "좀 더 (再多一點) + 시원하다 (涼爽、舒暢) + -게 (副詞形語尾)。" },
+        { "point": "파도치는 바다 같을 때", "explanation": "파도치다 (波濤洶湧) + -는 (現在定語) + 바다 (大海) + 같다 (像…) + -(으)ㄹ 때 (…的時候)。" }
+      ]
+    },
+    {
+      "korean": "꼭 다시 만나 우리 난 기다릴게 우리를",
+      "translation": "一定要再次相遇 我們 我會等待的 我們",
+      "analysis": [
+        { "point": "꼭 다시 만나", "explanation": "꼭 (一定) + 다시 (再次) + 만나다 (遇見)。" },
+        { "point": "난 기다릴게", "explanation": "나는 (我) 的縮略 + 기다리다 (等待) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "좀 더 행복하게 좀 더 차분하게",
+      "translation": "更幸福地 更平靜地",
+      "analysis": [
+        { "point": "좀 더 행복하게", "explanation": "좀 더 (再多一點) + 행복하다 (幸福) + -게 (副詞形語尾)。" },
+        { "point": "좀 더 차분하게", "explanation": "좀 더 (再多一點) + 차분하다 (沉著、平靜) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "설레는 햇빛 아래서 언젠가",
+      "translation": "在令人心動的陽光下 某一天",
+      "analysis": [
+        { "point": "설레는 햇빛 아래서", "explanation": "설레다 (心動、激動) + -는 (現在定語) + 햇빛 (陽光) + 아래서 (在…之下)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "널 떠나보내던 날에 아주 어리석었었던 탓에",
+      "translation": "因為在送你走的那天 我非常地愚蠢",
+      "analysis": [
+        { "point": "널 떠나보내던 날에", "explanation": "너를 (你) 的縮略 + 떠나보내다 (送走) + -던 (過去回想) + 날 (日子) + -에 (在…)。" },
+        { "point": "아주 어리석었었던 탓에", "explanation": "아주 (非常) + 어리석다 (愚蠢) 的雙過去式(強調過去的狀態) + -(으)ㄴ 탓에 (因為…的錯)。" }
+      ]
+    },
+    {
+      "korean": "다 너를 탓하고 원망하고 미워했어",
+      "translation": "全都怪你、埋怨你、討厭你",
+      "analysis": [
+        { "point": "다 너를 탓하고", "explanation": "다 (都) + 너를 (你) + 탓하다 (責怪) + -고 (和)。" },
+        { "point": "원망하고 미워했어", "explanation": "원망하다 (埋怨) + -고 (和) + 미워하다 (討厭) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "찢기듯 아프고 아파서 널 지워냈어",
+      "translation": "如撕裂般地痛了又痛 所以抹去了你",
+      "analysis": [
+        { "point": "찢기듯 아프고", "explanation": "찢기다 (被撕裂) + -듯 (如同…) + 아프다 (痛) + -고 (和)。" },
+        { "point": "아파서 널 지워냈어", "explanation": "아프다 (痛) + -아서 (因為) + 너를 (你) 的縮略 + 지워내다 (抹去) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "이제 와 돌이킬 수 없단 걸 모르는 바보라서",
+      "translation": "因為是事到如今才明白無法挽回的傻瓜",
+      "analysis": [
+        { "point": "이제 와", "explanation": "慣用語，事到如今。" },
+        { "point": "돌이킬 수 없단 걸", "explanation": "돌이키다 (挽回) + -(으)ㄹ 수 없다 (無法) + -는 것 (…的事) + -을 (受格助詞) 的縮略。" },
+        { "point": "모르는 바보라서", "explanation": "모르다 (不知道) + -는 (現在定語) + 바보 (傻瓜) + -(이)라서 (因為是…)。" }
+      ]
+    },
+    {
+      "korean": "어린 날의 내가 아닌 더 강해지는 날에",
+      "translation": "在不是年幼的我 而是變得更堅強的那天",
+      "analysis": [
+        { "point": "어린 날의 내가 아닌", "explanation": "어리다 (年幼) 的定語形 + 날의 (日子的) + 내가 아닌 (不是我)。" },
+        { "point": "더 강해지는 날에", "explanation": "더 (更) + 강해지다 (變堅強) + -는 (現在定語) + 날에 (在那天)。" }
+      ]
+    },
+    {
+      "korean": "그때 다시 한번 네 손 잡는다면 부디",
+      "translation": "到時候如果能再次牽起你的手 懇請",
+      "analysis": [
+        { "point": "그때 다시 한번", "explanation": "그때 (那時) + 다시 한번 (再一次)。" },
+        { "point": "네 손 잡는다면", "explanation": "네 (你的) + 손 (手) + 잡다 (抓住) + -는다면 (如果…的話)。" },
+        { "point": "부디", "explanation": "副詞，懇請、務必。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "언젠가 다시 만나 우리 더 좋은 날에 우리",
+      "translation": "某天再次相遇吧 我們 在更好的日子裡 我們",
+      "analysis": [
+        { "point": "언젠가 다시 만나", "explanation": "언젠가 (某天) + 다시 (再次) + 만나다 (遇見)。" },
+        { "point": "더 좋은 날에", "explanation": "더 (更) + 좋다 (好) 的定語形 + 날 (日子) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "좀 더 행복하게 좀 더 시원하게 파도치는 바다 같을 때",
+      "translation": "在我們更幸福 更舒暢 如同波濤洶湧的大海那時",
+      "analysis": [
+        { "point": "좀 더 행복하게", "explanation": "좀 더 (再多一點) + 행복하다 (幸福) + -게 (副詞形語尾)。" },
+        { "point": "좀 더 시원하게", "explanation": "좀 더 (再多一點) + 시원하다 (涼爽、舒暢) + -게 (副詞形語尾)。" },
+        { "point": "파도치는 바다 같을 때", "explanation": "파도치다 (波濤洶湧) + -는 (現在定語) + 바다 (大海) + 같다 (像…) + -(으)ㄹ 때 (…的時候)。" }
+      ]
+    },
+    {
+      "korean": "꼭 다시 만나 우리 난 기다릴게 우리를",
+      "translation": "一定要再次相遇 我們 我會等待的 我們",
+      "analysis": [
+        { "point": "꼭 다시 만나", "explanation": "꼭 (一定) + 다시 (再次) + 만나다 (遇見)。" },
+        { "point": "난 기다릴게", "explanation": "나는 (我) 的縮略 + 기다리다 (等待) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "좀 더 행복하게 좀 더 차분하게",
+      "translation": "更幸福地 更平靜地",
+      "analysis": [
+        { "point": "좀 더 행복하게", "explanation": "좀 더 (再多一點) + 행복하다 (幸福) + -게 (副詞形語尾)。" },
+        { "point": "좀 더 차분하게", "explanation": "좀 더 (再多一點) + 차분하다 (沉著、平靜) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "설레는 햇빛 아래서 언젠가",
+      "translation": "在令人心動的陽光下 某一天",
+      "analysis": [
+        { "point": "설레는 햇빛 아래서", "explanation": "설레다 (心動、激動) + -는 (現在定語) + 햇빛 (陽光) + 아래서 (在…之下)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "솔직히 말할게 나 정말 후회해",
+      "translation": "坦白說 我真的很後悔",
+      "analysis": [
+        { "point": "솔직히 말할게", "explanation": "솔직히 (坦白地) + 말하다 (說) + -(으)ㄹ게 (我將會…)。" },
+        { "point": "나 정말 후회해", "explanation": "나 (我) + 정말 (真的) + 후회하다 (後悔) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "미안하다는 한마디만 하면 됐는데",
+      "translation": "只要說一句對不起就好了",
+      "analysis": [
+        { "point": "미안하다는 한마디만", "explanation": "미안하다 (對不起) + -는 (引述) + 한마디 (一句話) + -만 (只)。" },
+        { "point": "하면 됐는데", "explanation": "하다 (做、說) + -(으)면 되다 (…的話就可以) 的過去式 + -(으)ㄴ데 (表示惋惜的連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "솔직히 말할게 내 탓인 거 인정해",
+      "translation": "坦白說 我承認是我的錯",
+      "analysis": [
+        { "point": "솔직히 말할게", "explanation": "솔직히 (坦白地) + 말하다 (說) + -(으)ㄹ게 (我將會…)。" },
+        { "point": "내 탓인 거 인정해", "explanation": "내 (我的) + 탓 (錯) + -인 것 (…這件事) 的縮略 + 인정하다 (承認) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나 때문에 우리가 서로 갈라져 버린 게",
+      "translation": "因為我 我們才會分開",
+      "analysis": [
+        { "point": "나 때문에", "explanation": "나 (我) + 때문에 (因為)。" },
+        { "point": "우리가 서로 갈라져 버린 게", "explanation": "우리 (我們) + -가 (主格助詞) + 서로 (彼此) + 갈라지다 (分開) + -아/어 버리다 (表示動作完成且無法挽回) 的定語形 + 게 (것이 的縮略)。" }
+      ]
+    },
+    {
+      "korean": "이제는 말할게 나 정말 미안해",
+      "translation": "現在我要說 我真的很抱歉",
+      "analysis": [
+        { "point": "이제는 말할게", "explanation": "이제는 (現在) + 말하다 (說) + -(으)ㄹ게 (我將會…)。" },
+        { "point": "나 정말 미안해", "explanation": "나 (我) + 정말 (真的) + 미안하다 (抱歉) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우리가 서로 다시 볼 수 있게 매일 기도해",
+      "translation": "為了我們能再次相見 我每天祈禱",
+      "analysis": [
+        { "point": "우리가 서로 다시 볼 수 있게", "explanation": "우리 (我們) + -가 (主格助詞) + 서로 (彼此) + 다시 (再次) + 보다 (見面) + -(으)ㄹ 수 있다 (能夠) + -게 (為了…)。" },
+        { "point": "매일 기도해", "explanation": "매일 (每天) + 기도하다 (祈禱) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "I pray for you every night and day",
+      "translation": "I pray for you every night and day",
+      "analysis": [
+        { "point": "I pray for you every night and day", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "hoping to see you face to face again someday",
+      "translation": "hoping to see you face to face again someday",
+      "analysis": [
+        { "point": "hoping to see you face to face again someday", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "언젠가 다시 만나 우리 더 좋은 날에 우리",
+      "translation": "某天再次相遇吧 我們 在更好的日子裡 我們",
+      "analysis": [
+        { "point": "언젠가 다시 만나", "explanation": "언젠가 (某天) + 다시 (再次) + 만나다 (遇見)。" },
+        { "point": "더 좋은 날에", "explanation": "더 (更) + 좋다 (好) 的定語形 + 날 (日子) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "좀 더 행복하게 좀 더 시원하게 파도치는 바다 같을 때",
+      "translation": "在我們更幸福 更舒暢 如同波濤洶湧的大海那時",
+      "analysis": [
+        { "point": "좀 더 행복하게", "explanation": "좀 더 (再多一點) + 행복하다 (幸福) + -게 (副詞形語尾)。" },
+        { "point": "좀 더 시원하게", "explanation": "좀 더 (再多一點) + 시원하다 (涼爽、舒暢) + -게 (副詞形語尾)。" },
+        { "point": "파도치는 바다 같을 때", "explanation": "파도치다 (波濤洶湧) + -는 (現在定語) + 바다 (大海) + 같다 (像…) + -(으)ㄹ 때 (…的時候)。" }
+      ]
+    },
+    {
+      "korean": "꼭 다시 만나 우리 난 기다릴게 우리를",
+      "translation": "一定要再次相遇 我們 我會等待的 我們",
+      "analysis": [
+        { "point": "꼭 다시 만나", "explanation": "꼭 (一定) + 다시 (再次) + 만나다 (遇見)。" },
+        { "point": "난 기다릴게", "explanation": "나는 (我) 的縮略 + 기다리다 (等待) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "좀 더 행복하게 좀 더 차분하게",
+      "translation": "更幸福地 更平靜地",
+      "analysis": [
+        { "point": "좀 더 행복하게", "explanation": "좀 더 (再多一點) + 행복하다 (幸福) + -게 (副詞形語尾)。" },
+        { "point": "좀 더 차분하게", "explanation": "좀 더 (再多一點) + 차분하다 (沉著、平靜) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "설레는 햇빛 아래서",
+      "translation": "在令人心動的陽光下",
+      "analysis": [
+        { "point": "설레는 햇빛 아래서", "explanation": "설레다 (心動、激動) + -는 (現在定語) + 햇빛 (陽光) + 아래서 (在…之下)。" }
+      ]
+    },
+    {
+      "korean": "언젠가",
+      "translation": "某一天",
+      "analysis": [
+        { "point": "언젠가", "explanation": "副詞，總有一天、某一天。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "만지다", "chinese": "撫摸", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "부르다", "chinese": "呼喚", "pos": "動詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "아직도", "chinese": "仍然", "pos": "副詞" },
+    { "korean": "선명하다", "chinese": "鮮明", "pos": "形容詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "맴돌다", "chinese": "縈繞", "pos": "動詞" },
+    { "korean": "최선을 다하다", "chinese": "盡全力", "pos": "片語" },
+    { "korean": "강하다", "chinese": "堅強", "pos": "形容詞" },
+    { "korean": "끝까지", "chinese": "直到最後", "pos": "副詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "지내다", "chinese": "度過、過日子", "pos": "動詞" },
+    { "korean": "잊혀지다", "chinese": "被遺忘", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "찾아오다", "chinese": "找來", "pos": "動詞" },
+    { "korean": "전혀", "chinese": "完全", "pos": "副詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "알아두다", "chinese": "記住", "pos": "動詞" },
+    { "korean": "온갖", "chinese": "各種", "pos": "冠形詞" },
+    { "korean": "망상", "chinese": "妄想", "pos": "名詞" },
+    { "korean": "짙어지다", "chinese": "變濃", "pos": "動詞" },
+    { "korean": "매캐하다", "chinese": "刺鼻的", "pos": "形容詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "처음", "chinese": "第一次", "pos": "名詞" },
+    { "korean": "꽤", "chinese": "相當", "pos": "副詞" },
+    { "korean": "엉망진창", "chinese": "一團亂", "pos": "名詞" },
+    { "korean": "어느새", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "언젠가", "chinese": "某一天", "pos": "副詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "시원하다", "chinese": "舒暢、涼爽", "pos": "形容詞" },
+    { "korean": "파도치다", "chinese": "波濤洶湧", "pos": "動詞" },
+    { "korean": "바다", "chinese": "大海", "pos": "名詞" },
+    { "korean": "꼭", "chinese": "一定", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "차분하다", "chinese": "平靜、沉著", "pos": "形容詞" },
+    { "korean": "설레다", "chinese": "心動、激動", "pos": "動詞" },
+    { "korean": "햇빛", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "떠나보내다", "chinese": "送走", "pos": "動詞" },
+    { "korean": "어리석다", "chinese": "愚蠢", "pos": "形容詞" },
+    { "korean": "탓하다", "chinese": "責怪", "pos": "動詞" },
+    { "korean": "원망하다", "chinese": "埋怨", "pos": "動詞" },
+    { "korean": "미워하다", "chinese": "討厭", "pos": "動詞" },
+    { "korean": "찢기다", "chinese": "被撕裂", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "지워내다", "chinese": "抹去", "pos": "動詞" },
+    { "korean": "돌이키다", "chinese": "挽回", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "어리다", "chinese": "年幼", "pos": "形容詞" },
+    { "korean": "부디", "chinese": "懇請、務必", "pos": "副詞" },
+    { "korean": "솔직히", "chinese": "坦白地", "pos": "副詞" },
+    { "korean": "후회하다", "chinese": "後悔", "pos": "動詞" },
+    { "korean": "인정하다", "chinese": "承認", "pos": "動詞" },
+    { "korean": "갈라지다", "chinese": "分開", "pos": "動詞" },
+    { "korean": "미안하다", "chinese": "抱歉", "pos": "形容詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "기도하다", "chinese": "祈禱", "pos": "動詞" }
+  ]
+}

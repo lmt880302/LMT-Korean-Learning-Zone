@@ -1,0 +1,351 @@
+{
+  "id": "davii-trial_and_error",
+  "title": "Trial and Error (시행착오)",
+  "artist": "DAVII (다비) (Feat. 베이빌론, MINAH)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "더 이상의 실수는 없게",
+      "translation": "為了不再有更多的失誤",
+      "analysis": [
+        { "point": "더 이상의", "explanation": "더 (更) + 이상 (以上) + -의 (的)，表示「更多的」。" },
+        { "point": "실수는 없게", "explanation": "실수 (失誤) + -는 (主題助詞) + 없다 (沒有) + -게 (目的或結果的連接詞尾，為了讓...)。" }
+      ]
+    },
+    {
+      "korean": "내 마음의 문을 굳게 Close",
+      "translation": "將我心門緊緊地 Close",
+      "analysis": [
+        { "point": "내 마음의 문을", "explanation": "내 (我的) + 마음 (心) + -의 (的) + 문 (門) + -을 (受格助詞)。" },
+        { "point": "굳게", "explanation": "굳다 (堅固的) + -게 (副詞形語尾)，表示「緊緊地」。" }
+      ]
+    },
+    {
+      "korean": "We were so close but now but now",
+      "translation": "我們曾經如此靠近 但現在 但現在",
+      "analysis": [
+        { "point": "We were so close but now but now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이미 너와 나의 시계는",
+      "translation": "你和我的時鐘早已",
+      "analysis": [
+        { "point": "이미", "explanation": "副詞，已經。" },
+        { "point": "너와 나의 시계는", "explanation": "너 (你) + -와 (和) + 나의 (我的) + 시계 (時鐘) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "동서남북이 엇갈렸지",
+      "translation": "東西南北交錯了",
+      "analysis": [
+        { "point": "동서남북이", "explanation": "동서남북 (東西南北) + -이 (主格助詞)。" },
+        { "point": "엇갈렸지", "explanation": "엇갈리다 (交錯) 的過去式 + -지 (口語終結詞尾，表示確認)。" }
+      ]
+    },
+    {
+      "korean": "영원이란 무게가",
+      "translation": "名為永恆的重量",
+      "analysis": [
+        { "point": "영원이란", "explanation": "영원 (永遠) + -(이)란 (所謂...，表示定義或強調)。" },
+        { "point": "무게가", "explanation": "무게 (重量) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "견디기 버거웠나 봐",
+      "translation": "看來難以承受",
+      "analysis": [
+        { "point": "견디기", "explanation": "견디다 (承受) + -기 (將動詞名詞化)。" },
+        { "point": "버거웠나 봐", "explanation": "버겁다 (吃力、費力) 的過去式 + -았/었나 보다 (慣用型，看來...、好像...)。" }
+      ]
+    },
+    {
+      "korean": "네가 남긴 흔적들은 다",
+      "translation": "你留下的痕跡全都",
+      "analysis": [
+        { "point": "네가 남긴 흔적들은", "explanation": "네가 (你) + 남기다 (留下) 的過去定語形 + 흔적 (痕跡) + -들 (表示複數) + -은 (主題助詞)。" },
+        { "point": "다", "explanation": "副詞，全都。" }
+      ]
+    },
+    {
+      "korean": "내 맘에 얼룩만 번져가",
+      "translation": "只在我心中暈開成斑駁",
+      "analysis": [
+        { "point": "내 맘에", "explanation": "내 (我的) + 마음 (心) 的縮略 + -에 (場所助詞)。" },
+        { "point": "얼룩만", "explanation": "얼룩 (斑點、污漬) + -만 (助詞，只)。" },
+        { "point": "번져가", "explanation": "번지다 (暈開、擴散) + -아/어 가다 (表示動作持續進行)。" }
+      ]
+    },
+    {
+      "korean": "날 웃게 하던 너의 기억",
+      "translation": "曾讓我微笑的你的記憶",
+      "analysis": [
+        { "point": "날 웃게 하던", "explanation": "나를 (我) 的縮略 + 웃다 (笑) + -게 하다 (使役形，使...) + -던 (過去持續的定語詞尾)。" },
+        { "point": "너의 기억", "explanation": "너의 (你的) + 기억 (記憶)。" }
+      ]
+    },
+    {
+      "korean": "모두 무너뜨려 놔",
+      "translation": "全都摧毀了",
+      "analysis": [
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "무너뜨려 놔", "explanation": "무너뜨리다 (摧毀、弄垮) + -아/어 놓다 (表示動作完成後的狀態持續)。" }
+      ]
+    },
+    {
+      "korean": "착각은 오해만 남겨서",
+      "translation": "錯覺只留下了誤會",
+      "analysis": [
+        { "point": "착각은", "explanation": "착각 (錯覺) + -은 (主題助詞)。" },
+        { "point": "오해만 남겨서", "explanation": "오해 (誤會) + -만 (助詞，只) + 남기다 (留下) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "뻔한 실수만 반복했어",
+      "translation": "只重複著顯而易見的失誤",
+      "analysis": [
+        { "point": "뻔한 실수만", "explanation": "뻔하다 (明顯的) 的定語形 + 실수 (失誤) + -만 (只)。" },
+        { "point": "반복했어", "explanation": "반복하다 (重複) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "저 달도 이젠 답이 없어",
+      "translation": "那月亮現在也沒了答案",
+      "analysis": [
+        { "point": "저 달도", "explanation": "저 (那) + 달 (月亮) + -도 (也)。" },
+        { "point": "이젠 답이 없어", "explanation": "이제는 (現在) 的縮略 + 답 (答案) + -이 (主格助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "쳐다도 이젠 볼 수 없어",
+      "translation": "現在連看都不能看",
+      "analysis": [
+        { "point": "쳐다도", "explanation": "쳐다보다 (仰望、凝視) 的詞根 + -도 (也)，這裡強調動作本身。" },
+        { "point": "이젠 볼 수 없어", "explanation": "이제는 (現在) 的縮略 + 보다 (看) + -(으)ㄹ 수 없다 (無法...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "더 이상의 실수는 없게",
+      "translation": "為了不再有更多的失誤",
+      "analysis": [
+        { "point": "더 이상의", "explanation": "더 (更) + 이상 (以上) + -의 (的)，表示「更多的」。" },
+        { "point": "실수는 없게", "explanation": "실수 (失誤) + -는 (主題助詞) + 없다 (沒有) + -게 (目的或結果的連接詞尾，為了讓...)。" }
+      ]
+    },
+    {
+      "korean": "내 마음의 문을 굳게 Close",
+      "translation": "將我心門緊緊地 Close",
+      "analysis": [
+        { "point": "내 마음의 문을", "explanation": "내 (我的) + 마음 (心) + -의 (的) + 문 (門) + -을 (受格助詞)。" },
+        { "point": "굳게", "explanation": "굳다 (堅固的) + -게 (副詞形語尾)，表示「緊緊地」。" }
+      ]
+    },
+    {
+      "korean": "We were so close but now but now",
+      "translation": "我們曾經如此靠近 但現在 但現在",
+      "analysis": [
+        { "point": "We were so close but now but now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 생각을 쉴 수 없기에",
+      "translation": "因為無法停止想你",
+      "analysis": [
+        { "point": "네 생각을", "explanation": "네 (你的) + 생각 (想法) + -을 (受格助詞)。" },
+        { "point": "쉴 수 없기에", "explanation": "쉬다 (休息) + -(으)ㄹ 수 없다 (無法) + -기에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "기억에서 지워 널 비울게",
+      "translation": "我會從記憶中抹去 將你掏空",
+      "analysis": [
+        { "point": "기억에서 지워", "explanation": "기억 (記憶) + -에서 (從...) + 지우다 (抹去) + -어 (連接詞尾)。" },
+        { "point": "널 비울게", "explanation": "너를 (你) 的縮略 + 비우다 (清空) + -(으)ㄹ게 (表示意志的終結詞尾，我會...)。" }
+      ]
+    },
+    {
+      "korean": "Let me sober right now right now",
+      "translation": "讓我清醒吧 right now right now",
+      "analysis": [
+        { "point": "Let me sober right now right now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "뒤돌아도 네가 없는 게",
+      "translation": "即使轉身 你也不在",
+      "analysis": [
+        { "point": "뒤돌아도", "explanation": "뒤돌다 (轉身) + -아/어도 (即使...也...)。" },
+        { "point": "네가 없는 게", "explanation": "네가 (你) + 없다 (沒有) + -는 것 (將動詞名詞化) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "불러봐도 대답 없는 게",
+      "translation": "即使呼喊 也沒有回應",
+      "analysis": [
+        { "point": "불러봐도", "explanation": "부르다 (呼喊) + -아/어 보다 (試著...) + -아/어도 (即使...也...)。" },
+        { "point": "대답 없는 게", "explanation": "대답 (回答) + 없다 (沒有) + -는 것 (將動詞名詞化) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "가끔은 그래 나 혼자 있다가도",
+      "translation": "偶爾會這樣 即使獨自待著",
+      "analysis": [
+        { "point": "가끔은 그래", "explanation": "가끔 (偶爾) + -은 (主題助詞) + 그렇다 (那樣) 的非格式體。" },
+        { "point": "나 혼자 있다가도", "explanation": "나 (我) + 혼자 (獨自) + 있다 (在) + -다가도 (即使正在做某事...也...)。" }
+      ]
+    },
+    {
+      "korean": "네 생각에 머리가 아프기도 해",
+      "translation": "也會因為想你而頭痛",
+      "analysis": [
+        { "point": "네 생각에", "explanation": "네 (你的) + 생각 (想法) + -에 (原因助詞)。" },
+        { "point": "머리가 아프기도 해", "explanation": "머리 (頭) + -가 (主格助詞) + 아프다 (痛) + -기도 하다 (慣用型，也會...)。" }
+      ]
+    },
+    {
+      "korean": "내 생각엔 우리가 잘 안 맞는 게",
+      "translation": "在我看來 我們合不來這件事",
+      "analysis": [
+        { "point": "내 생각엔", "explanation": "내 (我的) + 생각 (想法) + -에는 (在...方面) 的縮略。" },
+        { "point": "우리가 잘 안 맞는 게", "explanation": "우리 (我們) + -가 (主格助詞) + 잘 (好好地) + 안 (不) + 맞다 (合得來) + -는 것 (名詞化) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "다르다는 걸 인정하기 싫어서 일까",
+      "translation": "是因為不想承認我們是不同的嗎",
+      "analysis": [
+        { "point": "다르다는 걸", "explanation": "다르다 (不同的) + -는 것 (名詞化) + -을 (受格助詞) 的縮略。" },
+        { "point": "인정하기 싫어서", "explanation": "인정하다 (承認) + -기 싫다 (不想...) + -어서 (因為)。" },
+        { "point": "일까", "explanation": "-(이)다 (是) + -(으)ㄹ까 (疑問句，...嗎)。" }
+      ]
+    },
+    {
+      "korean": "착함은 바보와 같아서",
+      "translation": "善良與傻瓜無異",
+      "analysis": [
+        { "point": "착함은", "explanation": "착하다 (善良的) + -(으)ㅁ (將形容詞名詞化) + -은 (主題助詞)。" },
+        { "point": "바보와 같아서", "explanation": "바보 (傻瓜) + -와 같다 (和...一樣) + -아서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "매일 아픔은 무뎌졌어",
+      "translation": "每天的傷痛都變得遲鈍",
+      "analysis": [
+        { "point": "매일 아픔은", "explanation": "매일 (每天) + 아픔 (痛苦) + -은 (主題助詞)。" },
+        { "point": "무뎌졌어", "explanation": "무뎌지다 (變遲鈍) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "더 봐도 뻔한 답이었어",
+      "translation": "再看下去也是顯而易見的答案",
+      "analysis": [
+        { "point": "더 봐도", "explanation": "더 (更) + 보다 (看) + -아/어도 (即使...也...)。" },
+        { "point": "뻔한 답이었어", "explanation": "뻔하다 (明顯的) 的定語形 + 답 (答案) + -이었다 (是) 的過去式非格式體。" }
+      ]
+    },
+    {
+      "korean": "이젠 되돌아갈 수 없어",
+      "translation": "如今已無法回頭",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "되돌아갈 수 없어", "explanation": "되돌아가다 (回去) + -(으)ㄹ 수 없다 (無法...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "더 이상의 실수는 없게",
+      "translation": "為了不再有更多的失誤",
+      "analysis": [
+        { "point": "더 이상의", "explanation": "더 (更) + 이상 (以上) + -의 (的)，表示「更多的」。" },
+        { "point": "실수는 없게", "explanation": "실수 (失誤) + -는 (主題助詞) + 없다 (沒有) + -게 (目的或結果的連接詞尾，為了讓...)。" }
+      ]
+    },
+    {
+      "korean": "내 마음의 문을 굳게 Close",
+      "translation": "將我心門緊緊地 Close",
+      "analysis": [
+        { "point": "내 마음의 문을", "explanation": "내 (我的) + 마음 (心) + -의 (的) + 문 (門) + -을 (受格助詞)。" },
+        { "point": "굳게", "explanation": "굳다 (堅固的) + -게 (副詞形語尾)，表示「緊緊地」。" }
+      ]
+    },
+    {
+      "korean": "We were so close but now but now",
+      "translation": "我們曾經如此靠近 但現在 但現在",
+      "analysis": [
+        { "point": "We were so close but now but now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 생각이 쉴 수 없기에",
+      "translation": "因為無法停止想你",
+      "analysis": [
+        { "point": "네 생각이", "explanation": "네 (你的) + 생각 (想法) + -이 (主格助詞)。" },
+        { "point": "쉴 수 없기에", "explanation": "쉬다 (休息) + -(으)ㄹ 수 없다 (無法) + -기에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "기억에서 지워 널 비울게",
+      "translation": "我會從記憶中抹去 將你掏空",
+      "analysis": [
+        { "point": "기억에서 지워", "explanation": "기억 (記憶) + -에서 (從...) + 지우다 (抹去) + -어 (連接詞尾)。" },
+        { "point": "널 비울게", "explanation": "너를 (你) 的縮略 + 비우다 (清空) + -(으)ㄹ게 (表示意志的終結詞尾，我會...)。" }
+      ]
+    },
+    {
+      "korean": "Let me sober right now right now",
+      "translation": "讓我清醒吧 right now right now",
+      "analysis": [
+        { "point": "Let me sober right now right now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "실수", "chinese": "失誤", "pos": "名詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "문", "chinese": "門", "pos": "名詞" },
+    { "korean": "굳다", "chinese": "堅固的", "pos": "形容詞" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "시계", "chinese": "時鐘", "pos": "名詞" },
+    { "korean": "엇갈리다", "chinese": "交錯", "pos": "動詞" },
+    { "korean": "영원", "chinese": "永遠", "pos": "名詞" },
+    { "korean": "무게", "chinese": "重量", "pos": "名詞" },
+    { "korean": "견디다", "chinese": "承受、忍耐", "pos": "動詞" },
+    { "korean": "버겁다", "chinese": "吃力的、費力的", "pos": "形容詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "흔적", "chinese": "痕跡", "pos": "名詞" },
+    { "korean": "얼룩", "chinese": "斑點、污漬", "pos": "名詞" },
+    { "korean": "번지다", "chinese": "暈開、擴散", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "무너뜨리다", "chinese": "摧毀、弄垮", "pos": "動詞" },
+    { "korean": "착각", "chinese": "錯覺", "pos": "名詞" },
+    { "korean": "오해", "chinese": "誤會", "pos": "名詞" },
+    { "korean": "뻔하다", "chinese": "明顯的、顯而易見的", "pos": "形容詞" },
+    { "korean": "반복하다", "chinese": "重複", "pos": "動詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "답", "chinese": "答案", "pos": "名詞" },
+    { "korean": "쳐다보다", "chinese": "仰望、凝視", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "쉬다", "chinese": "休息", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "抹去", "pos": "動詞" },
+    { "korean": "비우다", "chinese": "清空、掏空", "pos": "動詞" },
+    { "korean": "뒤돌다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "부르다", "chinese": "呼喊、唱", "pos": "動詞" },
+    { "korean": "대답", "chinese": "回答", "pos": "名詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "머리", "chinese": "頭", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "맞다", "chinese": "合得來、對", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "인정하다", "chinese": "承認", "pos": "動詞" },
+    { "korean": "착하다", "chinese": "善良的", "pos": "形容詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "아픔", "chinese": "痛苦", "pos": "名詞" },
+    { "korean": "무뎌지다", "chinese": "變遲鈍", "pos": "動詞" },
+    { "korean": "되돌아가다", "chinese": "回去、返回", "pos": "動詞" }
+  ]
+}
