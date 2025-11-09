@@ -319,6 +319,19 @@
     "lyricsFile": "../data/lyrics/btob-blooming_day.json"
   },
 
+  {
+    "id": "btob-blooming_day",
+    "title": "Blooming Day (봄이 피어나)",
+    "artist": "BTOB (비투비)",
+    "lyricsFile": "../data/lyrics/btob-blooming_day.json"
+  },
+
+  {
+    "id": "trouble-maker-now",
+    "title": "내일은 없어 (Now)",
+    "artist": "Trouble Maker",
+    "lyricsFile": "../data/lyrics/trouble-maker-now.json"
+  },
     
 
   {

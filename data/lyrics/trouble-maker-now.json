@@ -1,0 +1,414 @@
+{
+  "id": "trouble-maker-now",
+  "title": "내일은 없어 (Now)",
+  "artist": "Trouble Maker",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "우우우우 Tell me now now now",
+      "translation": "Ooh ooh ooh ooh Tell me now now now",
+      "analysis": []
+    },
+    {
+      "korean": "우우우우 Tell me now now now",
+      "translation": "Ooh ooh ooh ooh Tell me now now now",
+      "analysis": []
+    },
+    {
+      "korean": "우우우우 오늘이 끝나기 전에",
+      "translation": "Ooh ooh ooh ooh 在今天結束之前",
+      "analysis": [
+        { "point": "오늘이", "explanation": "오늘 (今天) + -이 (主格助詞)。" },
+        { "point": "끝나기 전에", "explanation": "끝나다 (結束) + -기 전에 (語法，在...之前)。" }
+      ]
+    },
+    {
+      "korean": "Tell me now now now now now now",
+      "translation": "Tell me now now now now now now",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "그대로 멈춘 네가 날 또 망설이게 하고",
+      "translation": "就那樣停住的你 又讓我開始猶豫",
+      "analysis": [
+        { "point": "그대로 멈춘 네가", "explanation": "그대로 (就那樣) + 멈추다 (停止) 的過去定語形 + 네가 (你，네 + -가 主格助詞)。" },
+        { "point": "날 또", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 또 (又)。" },
+        { "point": "망설이게 하고", "explanation": "망설이다 (猶豫) + -게 하다 (使動形，讓...) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "아무 말도 안 하는 넌 그저 어제와 같아",
+      "translation": "什麼話都不說的你 依舊和昨天一樣",
+      "analysis": [
+        { "point": "아무 말도 안 하는 넌", "explanation": "아무 말도 안 하다 (什麼話都不說) 的現在定語形 + 너 (你) + -는 (主題助詞)。" },
+        { "point": "그저", "explanation": "副詞，只是、依舊。" },
+        { "point": "어제와 같아", "explanation": "어제 (昨天) + -와 (和) + 같다 (一樣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "여과 없이 말해 봐 내 눈을 좀 바라봐 봐",
+      "translation": "別再過濾了 說吧 試著看看我的眼睛",
+      "analysis": [
+        { "point": "여과 없이", "explanation": "여과 (過濾) + -이 (助詞) + 없이 (沒有地)。" },
+        { "point": "말해 봐", "explanation": "말하다 (說話) + -아/어 보다 (試試看)。" },
+        { "point": "내 눈을 좀 바라봐 봐", "explanation": "내 (我的) + 눈 (眼睛) + -을 (受格助詞) + 좀 (稍微) + 바라보다 (凝視) + -아/어 보다 (試試看)。" }
+      ]
+    },
+    {
+      "korean": "이 밤이 가버리기 전에 불빛이 사라지기 전에",
+      "translation": "在這夜晚逝去之前 在這燈光消失之前",
+      "analysis": [
+        { "point": "이 밤이 가버리기 전에", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞) + 가버리다 (離去) + -기 전에 (在...之前)。" },
+        { "point": "불빛이 사라지기 전에", "explanation": "불빛 (燈光) + -이 (主格助詞) + 사라지다 (消失) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이렇게는 떠나가지 말자",
+      "translation": "我們不要就這樣離開",
+      "analysis": [
+        { "point": "이렇게는", "explanation": "이렇게 (這樣地) + -는 (強調助詞)。" },
+        { "point": "떠나가지 말자", "explanation": "떠나가다 (離開) + -지 말자 (否定勸誘型，我們不要...)。" }
+      ]
+    },
+    {
+      "korean": "망설이는 동안 시간은 또 간다 고고고고",
+      "translation": "在猶豫的期間 時間又流逝了 Go go go go",
+      "analysis": [
+        { "point": "망설이는 동안", "explanation": "망설이다 (猶豫) 的現在定語形 + 동안 (期間)。" },
+        { "point": "시간은 또 간다", "explanation": "시간 (時間) + -은 (主題助詞) + 또 (又) + 가다 (流逝) 的陳述形。" }
+      ]
+    },
+    {
+      "korean": "I don't wanna go",
+      "translation": "I don't wanna go",
+      "analysis": []
+    },
+    {
+      "korean": "이게 마지막 지금이 마지막이라고오오오오",
+      "translation": "這是最後了 現在就是最後了 喔喔喔喔",
+      "analysis": [
+        { "point": "이게 마지막", "explanation": "이것 (這個) + -이 (主格助詞) 的縮略 + 마지막 (最後)。" },
+        { "point": "지금이 마지막이라고", "explanation": "지금 (現在) + -이 (主格助詞) + 마지막 (最後) + -(이)라고 (間接引用，表示強調)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "지금 나에게 와 말해 줘 우리에게 내일은 없어",
+      "translation": "現在來到我身邊 告訴我 我們沒有明天",
+      "analysis": [
+        { "point": "지금 나에게 와", "explanation": "지금 (現在) + 나에게 (對我) + 오다 (來)。" },
+        { "point": "말해 줘", "explanation": "말하다 (說) + -아/어 주다 (為我做...)。" },
+        { "point": "우리에게 내일은 없어", "explanation": "우리 (我們) + -에게 (對於) + 내일 (明天) + -은 (主題助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "망설이지 마",
+      "translation": "不要猶豫",
+      "analysis": [
+        { "point": "망설이지 마", "explanation": "망설이다 (猶豫) + -지 마 (否定命令型)。" }
+      ]
+    },
+    {
+      "korean": "더 늦기 전에 Now",
+      "translation": "在為時已晚之前 Now",
+      "analysis": [
+        { "point": "더 늦기 전에", "explanation": "더 (更) + 늦다 (晚) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "더 멀리 더 멀리 날 밀어내지 말고",
+      "translation": "不要把我推得更遠 更遠",
+      "analysis": [
+        { "point": "더 멀리", "explanation": "더 (更) + 멀리 (遠地)。" },
+        { "point": "날 밀어내지 말고", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 밀어내다 (推開) + -지 말고 (否定連接，不要...而要...)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘이 지금 여기서",
+      "translation": "我們兩人在現在 在這裡",
+      "analysis": [
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (二) + -이 (助詞)。" },
+        { "point": "지금 여기서", "explanation": "지금 (現在) + 여기 (這裡) + -서 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "사라지기 전에",
+      "translation": "在消失之前",
+      "analysis": [
+        { "point": "사라지기 전에", "explanation": "사라지다 (消失) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "우우우우 Tell me now now now",
+      "translation": "Ooh ooh ooh ooh Tell me now now now",
+      "analysis": []
+    },
+    {
+      "korean": "우우우우 Tell me now now now",
+      "translation": "Ooh ooh ooh ooh Tell me now now now",
+      "analysis": []
+    },
+    {
+      "korean": "우우우우 오늘이 끝나기 전에",
+      "translation": "Ooh ooh ooh ooh 在今天結束之前",
+      "analysis": [
+        { "point": "오늘이", "explanation": "오늘 (今天) + -이 (主格助詞)。" },
+        { "point": "끝나기 전에", "explanation": "끝나다 (結束) + -기 전에 (語法，在...之前)。" }
+      ]
+    },
+    {
+      "korean": "Tell me now now now now now now",
+      "translation": "Tell me now now now now now now",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 2 (Rap)",
+      "korean": "더 이상 우리에겐 없어 내일은 내일은",
+      "translation": "我們再也沒有明天了 明天",
+      "analysis": [
+        { "point": "더 이상", "explanation": "副詞片語，再...以上。" },
+        { "point": "우리에겐 없어", "explanation": "우리 (我們) + -에게 (對於) + -는 (的縮略) + 없다 (沒有)。" },
+        { "point": "내일은", "explanation": "내일 (明天) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "그러니까 불러줘 어 Call my name 내 이름",
+      "translation": "所以 呼喚我吧 Uh Call my name 我的名字",
+      "analysis": [
+        { "point": "그러니까", "explanation": "連接詞，所以。" },
+        { "point": "불러줘", "explanation": "부르다 (呼喚) + -어 주다 (為我做...)。" },
+        { "point": "내 이름", "explanation": "내 (我的) + 이름 (名字)。" }
+      ]
+    },
+    {
+      "korean": "지금 당장 네 입에서 꺼내 털어놔 이 길에서",
+      "translation": "就是現在 立刻從你嘴裡說出來 在這條路上",
+      "analysis": [
+        { "point": "지금 당장", "explanation": "지금 (現在) + 당장 (馬上)。" },
+        { "point": "네 입에서", "explanation": "네 (你的) + 입 (嘴) + -에서 (從...)。" },
+        { "point": "꺼내 털어놔", "explanation": "꺼내다 (拿出) + 털어놓다 (全盤托出)。" },
+        { "point": "이 길에서", "explanation": "이 (這) + 길 (路) + -에서 (在...)。" }
+      ]
+    },
+    {
+      "korean": "나 그냥 네게 기대고만 싶어 기대고 싶어",
+      "translation": "我只是想依靠你 想要依靠你",
+      "analysis": [
+        { "point": "나 그냥", "explanation": "나 (我) + 그냥 (只是)。" },
+        { "point": "네게 기대고만 싶어", "explanation": "네게 (對你) + 기대다 (依靠) + -고만 싶다 (只是想...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이렇게 또 멀어지지 말자",
+      "translation": "我們不要就這樣再次疏遠",
+      "analysis": [
+        { "point": "이렇게 또", "explanation": "이렇게 (這樣地) + 또 (又)。" },
+        { "point": "멀어지지 말자", "explanation": "멀어지다 (變遠、疏遠) + -지 말자 (否定勸誘型，我們不要...)。" }
+      ]
+    },
+    {
+      "korean": "망설이는 동안 시간은 또 간다고고고고",
+      "translation": "在猶豫的期間 時間又流逝了 Go go go go",
+      "analysis": [
+        { "point": "망설이는 동안", "explanation": "망설이다 (猶豫) 的現在定語形 + 동안 (期間)。" },
+        { "point": "시간은 또 간다", "explanation": "시간 (時間) + -은 (主題助詞) + 또 (又) + 가다 (流逝) 的陳述形。" }
+      ]
+    },
+    {
+      "korean": "I don't wanna go",
+      "translation": "I don't wanna go",
+      "analysis": []
+    },
+    {
+      "korean": "여기가 마지막 오늘이 마지막이라고오오오오",
+      "translation": "這裡就是最後了 今天就是最後了 喔喔喔喔",
+      "analysis": [
+        { "point": "여기가 마지막", "explanation": "여기 (這裡) + -가 (主格助詞) + 마지막 (最後)。" },
+        { "point": "오늘이 마지막이라고", "explanation": "오늘 (今天) + -이 (主格助詞) + 마지막 (最後) + -(이)라고 (間接引用，表示強調)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "지금 나에게 와 말해 줘 우리에게 내일은 없어",
+      "translation": "現在來到我身邊 告訴我 我們沒有明天",
+      "analysis": [
+        { "point": "지금 나에게 와", "explanation": "지금 (現在) + 나에게 (對我) + 오다 (來)。" },
+        { "point": "말해 줘", "explanation": "말하다 (說) + -아/어 주다 (為我做...)。" },
+        { "point": "우리에게 내일은 없어", "explanation": "우리 (我們) + -에게 (對於) + 내일 (明天) + -은 (主題助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "망설이지 마",
+      "translation": "不要猶豫",
+      "analysis": [
+        { "point": "망설이지 마", "explanation": "망설이다 (猶豫) + -지 마 (否定命令型)。" }
+      ]
+    },
+    {
+      "korean": "더 늦기 전에 Now",
+      "translation": "在為時已晚之前 Now",
+      "analysis": [
+        { "point": "더 늦기 전에", "explanation": "더 (更) + 늦다 (晚) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "더 멀리 더 멀리 날 밀어내지 말고",
+      "translation": "不要把我推得更遠 更遠",
+      "analysis": [
+        { "point": "더 멀리", "explanation": "더 (更) + 멀리 (遠地)。" },
+        { "point": "날 밀어내지 말고", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 밀어내다 (推開) + -지 말고 (否定連接，不要...而要...)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘이 지금 여기서",
+      "translation": "我們兩人在現在 在這裡",
+      "analysis": [
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (二) + -이 (助詞)。" },
+        { "point": "지금 여기서", "explanation": "지금 (現在) + 여기 (這裡) + -서 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "사라지기 전에",
+      "translation": "在消失之前",
+      "analysis": [
+        { "point": "사라지기 전에", "explanation": "사라지다 (消失) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "우리 같이 있는 이 미로 속에",
+      "translation": "在我們同在的這個迷宮中",
+      "analysis": [
+        { "point": "우리 같이 있는", "explanation": "우리 (我們) + 같이 (一起) + 있다 (在) 的現在定語形。" },
+        { "point": "이 미로 속에", "explanation": "이 (這) + 미로 (迷宮) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "기댈 수 있는 건 너뿐이야",
+      "translation": "能夠依靠的 只有你而已",
+      "analysis": [
+        { "point": "기댈 수 있는 건", "explanation": "기대다 (依靠) + -(으)ㄹ 수 있다 (能夠) 的定語形 + 것 (事物) + -은 (主題助詞) 的縮略。" },
+        { "point": "너뿐이야", "explanation": "너 (你) + -뿐이다 (只有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈 감아 내게 안겨 내일은 또 없으니까",
+      "translation": "閉上眼 抱緊我 因為明天又不存在了",
+      "analysis": [
+        { "point": "눈 감아", "explanation": "눈 (眼睛) + -을 (受格助詞) + 감다 (閉上)。" },
+        { "point": "내게 안겨", "explanation": "내게 (對我) + 안기다 (被抱著，此處為主動的「抱我」)。" },
+        { "point": "내일은 또 없으니까", "explanation": "내일 (明天) + -은 (主題助詞) + 또 (又) + 없다 (沒有) + -(으)니까 (因為)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "지금 나에게 와 말해 줘 우리에게 내일은 없어",
+      "translation": "現在來到我身邊 告訴我 我們沒有明天",
+      "analysis": [
+        { "point": "지금 나에게 와", "explanation": "지금 (現在) + 나에게 (對我) + 오다 (來)。" },
+        { "point": "말해 줘", "explanation": "말하다 (說) + -아/어 주다 (為我做...)。" },
+        { "point": "우리에게 내일은 없어", "explanation": "우리 (我們) + -에게 (對於) + 내일 (明天) + -은 (主題助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "망설이지 마",
+      "translation": "不要猶豫",
+      "analysis": [
+        { "point": "망설이지 마", "explanation": "망설이다 (猶豫) + -지 마 (否定命令型)。" }
+      ]
+    },
+    {
+      "korean": "더 늦기 전에 Now",
+      "translation": "在為時已晚之前 Now",
+      "analysis": [
+        { "point": "더 늦기 전에", "explanation": "더 (更) + 늦다 (晚) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "더 멀리 더 멀리 날 밀어내지 말고",
+      "translation": "不要把我推得更遠 更遠",
+      "analysis": [
+        { "point": "더 멀리", "explanation": "더 (更) + 멀리 (遠地)。" },
+        { "point": "날 밀어내지 말고", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 밀어내다 (推開) + -지 말고 (否定連接，不要...而要...)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘이 지금 여기서",
+      "translation": "我們兩人在現在 在這裡",
+      "analysis": [
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (二) + -이 (助詞)。" },
+        { "point": "지금 여기서", "explanation": "지금 (現在) + 여기 (這裡) + -서 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "사라지기 전에",
+      "translation": "在消失之前",
+      "analysis": [
+        { "point": "사라지기 전에", "explanation": "사라지다 (消失) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "우우우우 Tell me now now now",
+      "translation": "Ooh ooh ooh ooh Tell me now now now",
+      "analysis": []
+    },
+    {
+      "korean": "우우우우 Tell me now now now",
+      "translation": "Ooh ooh ooh ooh Tell me now now now",
+      "analysis": []
+    },
+    {
+      "korean": "우우우우 오늘이 끝나기 전에",
+      "translation": "Ooh ooh ooh ooh 在今天結束之前",
+      "analysis": [
+        { "point": "오늘이", "explanation": "오늘 (今天) + -이 (主格助詞)。" },
+        { "point": "끝나기 전에", "explanation": "끝나다 (結束) + -기 전에 (語法，在...之前)。" }
+      ]
+    },
+    {
+      "korean": "Tell me now now now now now now",
+      "translation": "Tell me now now now now now now",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "끝나다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是、依舊", "pos": "副詞" },
+    { "korean": "같다", "chinese": "一樣", "pos": "形容詞" },
+    { "korean": "여과", "chinese": "過濾", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "가버리다", "chinese": "離去", "pos": "動詞" },
+    { "korean": "불빛", "chinese": "燈光", "pos": "名詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "동안", "chinese": "期間", "pos": "名詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "늦다", "chinese": "晚、遲", "pos": "形容詞" },
+    { "korean": "밀어내다", "chinese": "推開", "pos": "動詞" },
+    { "korean": "이상", "chinese": "以上", "pos": "名詞" },
+    { "korean": "그러니까", "chinese": "所以", "pos": "副詞" },
+    { "korean": "부르다", "chinese": "呼喚", "pos": "動詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "당장", "chinese": "馬上、立刻", "pos": "副詞" },
+    { "korean": "입", "chinese": "嘴", "pos": "名詞" },
+    { "korean": "털어놓다", "chinese": "全盤托出", "pos": "動詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠、疏遠", "pos": "動詞" },
+    { "korean": "미로", "chinese": "迷宮", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉(眼)", "pos": "動詞" },
+    { "korean": "안기다", "chinese": "被抱著", "pos": "動詞" }
+  ]
+}
