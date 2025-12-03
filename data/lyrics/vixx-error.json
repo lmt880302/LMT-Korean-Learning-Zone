@@ -1,0 +1,554 @@
+{
+  "id": "vixx-error",
+  "title": "Error",
+  "artist": "VIXX (빅스)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "어쩔 수 없어서 버렸어",
+      "translation": "因為沒辦法 所以拋棄了",
+      "analysis": [
+        { "point": "어쩔 수 없어서", "explanation": "어쩔 수 없다 (沒辦法) + -어서 (因為)。" },
+        { "point": "버렸어", "explanation": "버리다 (拋棄/丟掉) + -었어 (過去式)。" }
+      ]
+    },
+    {
+      "korean": "모든 감정을 지웠어",
+      "translation": "把所有感情都抹去了",
+      "analysis": [
+        { "point": "모든 감정을", "explanation": "모든 (所有的) + 감정 (感情) + -을 (受格助詞)。" },
+        { "point": "지웠어", "explanation": "지우다 (抹去/刪除) + -었어 (過去式)。" }
+      ]
+    },
+    {
+      "korean": "널 애써 지울 수 없어서",
+      "translation": "因為無法費盡心思將你抹去",
+      "analysis": [
+        { "point": "널 애써", "explanation": "너를 (你) 的縮略 + 애쓰다 (費心/努力) 的活用形(此處作副詞用，意指費力地)。" },
+        { "point": "지울 수 없어서", "explanation": "지우다 (抹去) + -(으)ㄹ 수 없다 (無法) + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "Let me free",
+      "translation": "Let me free",
+      "analysis": []
+    },
+    {
+      "korean": "내 맘이 안쓰러워서",
+      "translation": "因為我的心太令人心疼",
+      "analysis": [
+        { "point": "내 맘이", "explanation": "내 (我的) + 맘 (心) + -이 (主格助詞)。" },
+        { "point": "안쓰러워서", "explanation": "안쓰럽다 (心疼/可憐) + -어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "Let me breathe",
+      "translation": "Let me breathe",
+      "analysis": []
+    },
+    {
+      "korean": "이대로 살면 돼 숨 쉬면 돼",
+      "translation": "就這樣活著就好 呼吸就好",
+      "analysis": [
+        { "point": "이대로 살면 돼", "explanation": "이대로 (就這樣) + 살다 (活) + -(으)면 되다 (只要...就好)。" },
+        { "point": "숨 쉬면 돼", "explanation": "숨 쉬다 (呼吸) + -(으)면 되다 (只要...就好)。" }
+      ]
+    },
+    {
+      "korean": "살아있기만 하면 돼 왜 안돼",
+      "translation": "只要活著就好 為什麼不行",
+      "analysis": [
+        { "point": "살아있기만 하면 돼", "explanation": "살아있다 (活著) + -기만 하면 되다 (只要...就好)。" },
+        { "point": "왜 안돼", "explanation": "왜 (為什麼) + 안되다 (不行) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내가 괜찮다는데",
+      "translation": "我說我都沒關係了",
+      "analysis": [
+        { "point": "내가 괜찮다는데", "explanation": "내 (我) + -가 (主格助詞) + 괜찮다 (沒關係) + -는데 (引用/背景，表示我這麼說...)。" }
+      ]
+    },
+    {
+      "korean": "Let me free",
+      "translation": "Let me free",
+      "analysis": []
+    },
+    {
+      "korean": "내가 이게 더 나은데",
+      "translation": "我覺得這樣更好",
+      "analysis": [
+        { "point": "내가 이게", "explanation": "내 (我) + -가 (主格助詞) + 이것 (這個) + -이 (主格助詞) 的縮略。" },
+        { "point": "더 나은데", "explanation": "더 (更) + 낫다 (好) 的定語形 + -는데 (語尾，表示看法)。" }
+      ]
+    },
+    {
+      "korean": "Let me breathe",
+      "translation": "Let me breathe",
+      "analysis": []
+    },
+    {
+      "korean": "oh Ye",
+      "translation": "oh Ye",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "칼날 같은 네 말에 베일까",
+      "translation": "怕被你那像刀刃一樣的話語割傷",
+      "analysis": [
+        { "point": "칼날 같은", "explanation": "칼날 (刀刃) + 같다 (像) 的定語形。" },
+        { "point": "네 말에", "explanation": "네 (你的) + 말 (話) + -에 (被...所...)。" },
+        { "point": "베일까", "explanation": "베이다 (被割傷) + -(으)ㄹ까 (推測/擔心)。" }
+      ]
+    },
+    {
+      "korean": "두려웠어 난",
+      "translation": "我很害怕",
+      "analysis": [
+        { "point": "두려웠어 난", "explanation": "두렵다 (害怕) 的過去式 + 나 (我) + -는 (主題助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "숨 쉬고 밥을 먹는 채로",
+      "translation": "就這樣呼吸著 吃著飯",
+      "analysis": [
+        { "point": "숨 쉬고", "explanation": "숨 쉬다 (呼吸) + -고 (連接詞尾)。" },
+        { "point": "밥을 먹는 채로", "explanation": "밥 (飯) + -을 (受格助詞) + 먹다 (吃) + -(으)ㄴ 채로 (保持著某種狀態)。" }
+      ]
+    },
+    {
+      "korean": "그냥 버티기만 해",
+      "translation": "只是硬撐著",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞，只是、就那樣。" },
+        { "point": "버티기만 해", "explanation": "버티다 (堅持/撐著) + -기만 하다 (只做...)。" }
+      ]
+    },
+    {
+      "korean": "나는 비겁했어 버티고 싶었어",
+      "translation": "我很卑鄙 我想撐下去",
+      "analysis": [
+        { "point": "나는 비겁했어", "explanation": "나 (我) + -는 (主題助詞) + 비겁하다 (卑鄙/膽怯) 的過去式。" },
+        { "point": "버티고 싶었어", "explanation": "버티다 (堅持) + -고 싶다 (想) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "내 손에 내 가슴을 쥐고",
+      "translation": "手裡緊握著我的心",
+      "analysis": [
+        { "point": "내 손에", "explanation": "내 (我的) + 손 (手) + -에 (場所助詞)。" },
+        { "point": "내 가슴을 쥐고", "explanation": "내 (我的) + 가슴 (心/胸口) + -을 (受格助詞) + 쥐다 (握住) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "나를 위하는 삶을 선택했어 난",
+      "translation": "我選擇了為我而活的人生",
+      "analysis": [
+        { "point": "나를 위하는 삶을", "explanation": "나 (我) + -를 (受格助詞) + 위하다 (為了) 的定語形 + 삶 (人生) + -을 (受格助詞)。" },
+        { "point": "선택했어 난", "explanation": "선택하다 (選擇) 的過去式 + 난 (我是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 놓치기 싫어",
+      "translation": "不想錯過我自己",
+      "analysis": [
+        { "point": "나를 놓치기 싫어", "explanation": "나 (我) + -를 (受格助詞) + 놓치다 (錯過/失去) + -기 싫다 (不想...)。" }
+      ]
+    },
+    {
+      "korean": "나를 더 망치기 싫어",
+      "translation": "不想再毀掉我自己",
+      "analysis": [
+        { "point": "나를 더 망치기 싫어", "explanation": "나 (我) + -를 (受格助詞) + 더 (更/再) + 망치다 (毀掉) + -기 싫다 (不想...)。" }
+      ]
+    },
+    {
+      "korean": "끝나도 끝나지 않는 기억에",
+      "translation": "在即使結束也未曾結束的記憶裡",
+      "analysis": [
+        { "point": "끝나도", "explanation": "끝나다 (結束) + -아/어도 (即使...)。" },
+        { "point": "끝나지 않는 기억에", "explanation": "끝나다 (結束) + -지 않다 (否定) 的定語形 + 기억 (記憶) + -에 (在...之中)。" }
+      ]
+    },
+    {
+      "korean": "이길 자신이 난 없어",
+      "translation": "我沒有信心戰勝",
+      "analysis": [
+        { "point": "이길 자신이", "explanation": "이기다 (戰勝/贏) 的未來定語形 + 자신 (自信) + -이 (主格助詞)。" },
+        { "point": "난 없어", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "사랑 같은 건 결국",
+      "translation": "愛情這種東西 終究",
+      "analysis": [
+        { "point": "사랑 같은 건", "explanation": "사랑 (愛) + 같다 (像...一樣) 的定語形 + 것 (東西) + -은 (主題助詞) 的縮略。" },
+        { "point": "결국", "explanation": "副詞，終究、結果。" }
+      ]
+    },
+    {
+      "korean": "한 사람에겐 거짓말",
+      "translation": "對一個人來說是謊言",
+      "analysis": [
+        { "point": "한 사람에겐", "explanation": "한 (一/某) + 사람 (人) + -에게는 (對...來說) 的縮略。" },
+        { "point": "거짓말", "explanation": "名詞，謊言。" }
+      ]
+    },
+    {
+      "korean": "이젠 널 잊는 나를 지켜봐",
+      "translation": "現在看著將你遺忘的我吧",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (主題助詞) 的縮略。" },
+        { "point": "널 잊는 나를", "explanation": "너를 (你) + 잊다 (忘記) 的現在定語形 + 나 (我) + -를 (受格助詞)。" },
+        { "point": "지켜봐", "explanation": "지켜보다 (注視/觀察) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 눈 똑바로 뜨고서",
+      "translation": "睜大雙眼",
+      "analysis": [
+        { "point": "두 눈 똑바로 뜨고서", "explanation": "두 (兩) + 눈 (眼) + 똑바로 (端正地/直直地) + 뜨다 (睜開) + -고서 (連接詞尾，表示動作後的狀態)。" }
+      ]
+    },
+    {
+      "korean": "넌 절대 날 잊지 마",
+      "translation": "你絕對不要忘記我",
+      "analysis": [
+        { "point": "넌 절대", "explanation": "너 (你) + -는 (主題助詞) 的縮略 + 절대 (絕對)。" },
+        { "point": "날 잊지 마", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 잊다 (忘記) + -지 마 (否定命令型)。" }
+      ]
+    },
+    {
+      "korean": "넌 나를 지우지 마",
+      "translation": "你不要將我抹去",
+      "analysis": [
+        { "point": "넌 나를", "explanation": "너는 (你) + 나를 (我)。" },
+        { "point": "지우지 마", "explanation": "지우다 (抹去/刪除) + -지 마 (否定命令型)。" }
+      ]
+    },
+    {
+      "korean": "Ah Ah Ah Ah Ah Ah",
+      "translation": "Ah Ah Ah Ah Ah Ah",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "심장을 절뚝거리다",
+      "translation": "心臟跛行著",
+      "analysis": [
+        { "point": "심장을 절뚝거리다", "explanation": "심장 (心臟) + -을 (受格助詞) + 절뚝거리다 (跛行/一瘸一拐)。" }
+      ]
+    },
+    {
+      "korean": "이 길의 끝은 여기야",
+      "translation": "這條路的盡頭就是這裡",
+      "analysis": [
+        { "point": "이 길의 끝은", "explanation": "이 (這) + 길 (路) + -의 (的) + 끝 (盡頭) + -은 (主題助詞)。" },
+        { "point": "여기야", "explanation": "여기 (這裡) + -야 (是)。" }
+      ]
+    },
+    {
+      "korean": "라고 단정 짓고 숨 한 모금",
+      "translation": "這樣斷定後 吸一口氣",
+      "analysis": [
+        { "point": "라고 단정 짓고", "explanation": "-라고 (引用) + 단정 짓다 (下定論/斷定) + -고 (連接詞尾)。" },
+        { "point": "숨 한 모금", "explanation": "숨 (氣) + 한 (一) + 모금 (口)。" }
+      ]
+    },
+    {
+      "korean": "들이쉬고 나서는 깊은 한숨을 내쉬며",
+      "translation": "吸氣之後 吐出深深的嘆息",
+      "analysis": [
+        { "point": "들이쉬고 나서는", "explanation": "들이쉬다 (吸入) + -고 나서는 (在做完...之後)。" },
+        { "point": "깊은 한숨을 내쉬며", "explanation": "깊다 (深) 的定語形 + 한숨 (嘆息) + -을 (受格助詞) + 내쉬다 (呼出) + -며 (一邊...一邊...)。" }
+      ]
+    },
+    {
+      "korean": "가슴에 그녀를 다 찢어",
+      "translation": "把心裡的她全都撕碎",
+      "analysis": [
+        { "point": "가슴에", "explanation": "가슴 (心) + -에 (場所助詞)。" },
+        { "point": "그녀를 다 찢어", "explanation": "그녀 (她) + -를 (受格助詞) + 다 (全) + 찢다 (撕碎) 的活用形。" }
+      ]
+    },
+    {
+      "korean": "소리 없는 비명을 지르다가",
+      "translation": "發出無聲的悲鳴",
+      "analysis": [
+        { "point": "소리 없는 비명을", "explanation": "소리 (聲音) + 없다 (沒有) 的定語形 + 비명 (悲鳴/尖叫) + -을 (受格助詞)。" },
+        { "point": "지르다가", "explanation": "지르다 (喊叫) + -다가 (表示動作的轉換)。" }
+      ]
+    },
+    {
+      "korean": "이리저리 떠다니는 잔상을 지워",
+      "translation": "抹去四處漂浮的殘像",
+      "analysis": [
+        { "point": "이리저리 떠다니는", "explanation": "이리저리 (這裡那裡/四處) + 떠다니다 (漂浮) 的現在定語形。" },
+        { "point": "잔상을 지워", "explanation": "잔상 (殘像) + -을 (受格助詞) + 지우다 (抹去) 的活用形。" }
+      ]
+    },
+    {
+      "korean": "남아있는 추억들을",
+      "translation": "將留下的回憶們",
+      "analysis": [
+        { "point": "남아있는 추억들을", "explanation": "남아있다 (留下) 的現在定語形 + 추억 (回憶) + -들 (複數) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "하늘 위로 불태워 burn",
+      "translation": "在天空中燃燒 burn",
+      "analysis": [
+        { "point": "하늘 위로", "explanation": "하늘 (天空) + 위 (上) + -(으)로 (方向助詞)。" },
+        { "point": "불태워", "explanation": "불태우다 (燃燒) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 놓치기 싫어",
+      "translation": "不想錯過我自己",
+      "analysis": [
+        { "point": "나를 놓치기 싫어", "explanation": "나 (我) + -를 (受格助詞) + 놓치다 (錯過/失去) + -기 싫다 (不想...)。" }
+      ]
+    },
+    {
+      "korean": "나를 더 망치기 싫어",
+      "translation": "不想再毀掉我自己",
+      "analysis": [
+        { "point": "나를 더 망치기 싫어", "explanation": "나 (我) + -를 (受格助詞) + 더 (更/再) + 망치다 (毀掉) + -기 싫다 (不想...)。" }
+      ]
+    },
+    {
+      "korean": "끝나도 끝나지 않는 기억에",
+      "translation": "在即使結束也未曾結束的記憶裡",
+      "analysis": [
+        { "point": "끝나도", "explanation": "끝나다 (結束) + -아/어도 (即使...)。" },
+        { "point": "끝나지 않는 기억에", "explanation": "끝나다 (結束) + -지 않다 (否定) 的定語形 + 기억 (記憶) + -에 (在...之中)。" }
+      ]
+    },
+    {
+      "korean": "이길 자신이 난 없어",
+      "translation": "我沒有信心戰勝",
+      "analysis": [
+        { "point": "이길 자신이", "explanation": "이기다 (戰勝/贏) 的未來定語形 + 자신 (自信) + -이 (主格助詞)。" },
+        { "point": "난 없어", "explanation": "나 (我) + -는 (主題助詞) 的縮略 + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "사랑 같은 건 결국",
+      "translation": "愛情這種東西 終究",
+      "analysis": [
+        { "point": "사랑 같은 건", "explanation": "사랑 (愛) + 같다 (像...一樣) 的定語形 + 것 (東西) + -은 (主題助詞) 的縮略。" },
+        { "point": "결국", "explanation": "副詞，終究、結果。" }
+      ]
+    },
+    {
+      "korean": "한 사람에겐 거짓말",
+      "translation": "對一個人來說是謊言",
+      "analysis": [
+        { "point": "한 사람에겐", "explanation": "한 (一/某) + 사람 (人) + -에게는 (對...來說) 的縮略。" },
+        { "point": "거짓말", "explanation": "名詞，謊言。" }
+      ]
+    },
+    {
+      "korean": "이젠 널 잊는 나를 지켜봐",
+      "translation": "現在看著將你遺忘的我吧",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (主題助詞) 的縮略。" },
+        { "point": "널 잊는 나를", "explanation": "너를 (你) + 잊다 (忘記) 的現在定語形 + 나 (我) + -를 (受格助詞)。" },
+        { "point": "지켜봐", "explanation": "지켜보다 (注視/觀察) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 눈 똑바로 뜨고서",
+      "translation": "睜大雙眼",
+      "analysis": [
+        { "point": "두 눈 똑바로 뜨고서", "explanation": "두 (兩) + 눈 (眼) + 똑바로 (端正地/直直地) + 뜨다 (睜開) + -고서 (連接詞尾，表示動作後的狀態)。" }
+      ]
+    },
+    {
+      "korean": "넌 절대 날 잊지 마",
+      "translation": "你絕對不要忘記我",
+      "analysis": [
+        { "point": "넌 절대", "explanation": "너 (你) + -는 (主題助詞) 的縮略 + 절대 (絕對)。" },
+        { "point": "날 잊지 마", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 잊다 (忘記) + -지 마 (否定命令型)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "널 다시 만났어 울었어",
+      "translation": "再次遇見了你 哭了",
+      "analysis": [
+        { "point": "널 다시 만났어", "explanation": "너를 (你) + 다시 (再次) + 만나다 (遇見) 的過去式。" },
+        { "point": "울었어", "explanation": "울다 (哭) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "뭔가 잘못돼 버렸어",
+      "translation": "好像哪裡出錯了",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某事/有些東西) 的縮略。" },
+        { "point": "잘못돼 버렸어", "explanation": "잘못되다 (出錯/變得糟糕) + -아/어 버리다 (表示遺憾或動作完成) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "가슴이 기억하고 있어",
+      "translation": "心還記得",
+      "analysis": [
+        { "point": "가슴이", "explanation": "가슴 (心) + -이 (主格助詞)。" },
+        { "point": "기억하고 있어", "explanation": "기억하다 (記憶) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "Let me free",
+      "translation": "Let me free",
+      "analysis": []
+    },
+    {
+      "korean": "전부 그대로였어",
+      "translation": "全部都和原來一樣",
+      "analysis": [
+        { "point": "전부", "explanation": "名詞，全部。" },
+        { "point": "그대로였어", "explanation": "그대로 (原樣/依舊) + -이었다 (是) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "Let me breathe",
+      "translation": "Let me breathe",
+      "analysis": []
+    },
+    {
+      "korean": "더 피할 곳이 없어 너를",
+      "translation": "再也沒有地方可以躲避你了",
+      "analysis": [
+        { "point": "더 피할 곳이 없어", "explanation": "더 (再) + 피하다 (躲避) 的未來定語形 + 곳 (地方) + -이 (主格助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "너를 잡으면 아픈",
+      "translation": "抓住你會痛",
+      "analysis": [
+        { "point": "너를 잡으면", "explanation": "너를 (你) + 잡다 (抓住) + -(으)면 (如果)。" },
+        { "point": "아픈", "explanation": "아프다 (痛) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "놓아도 더 아픈 나를",
+      "translation": "放手會更痛的我",
+      "analysis": [
+        { "point": "놓아도", "explanation": "놓다 (放手) + -아/어도 (即使)。" },
+        { "point": "더 아픈 나를", "explanation": "더 (更) + 아프다 (痛) 的定語形 + 나 (我) + -를 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "꿈 속의 꿈보다 깊은 이 곳을",
+      "translation": "比夢中夢還要深的這個地方",
+      "analysis": [
+        { "point": "꿈 속의 꿈보다", "explanation": "꿈 (夢) + 속 (裡面) + -의 (的) + 꿈 (夢) + -보다 (比...更)。" },
+        { "point": "깊은 이 곳을", "explanation": "깊다 (深) 的定語形 + 이 (這) + 곳 (地方) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "벗어날 자신이 없어",
+      "translation": "沒有信心逃離",
+      "analysis": [
+        { "point": "벗어날 자신이 없어", "explanation": "벗어나다 (逃離/擺脫) 的未來定語形 + 자신 (自信) + -이 (主格助詞) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잊는다는 건 전부",
+      "translation": "說要忘記這件事 全部",
+      "analysis": [
+        { "point": "잊는다는 건", "explanation": "잊다 (忘記) + -는다는 것 (所謂...這件事) 的縮略。" },
+        { "point": "전부", "explanation": "名詞，全部。" }
+      ]
+    },
+    {
+      "korean": "남겨진 나의 거짓말",
+      "translation": "都是我留下的謊言",
+      "analysis": [
+        { "point": "남겨진", "explanation": "남겨지다 (被留下) 的過去定語形。" },
+        { "point": "나의 거짓말", "explanation": "나의 (我的) + 거짓말 (謊言)。" }
+      ]
+    },
+    {
+      "korean": "가슴에 다시 번지는 얼굴",
+      "translation": "心裡再次蔓延開來的臉龐",
+      "analysis": [
+        { "point": "가슴에", "explanation": "가슴 (心) + -에 (在...裡)。" },
+        { "point": "다시 번지는 얼굴", "explanation": "다시 (再次) + 번지다 (蔓延/擴散) 的現在定語形 + 얼굴 (臉)。" }
+      ]
+    },
+    {
+      "korean": "전보다 아픈 것 같아",
+      "translation": "好像比以前更痛了",
+      "analysis": [
+        { "point": "전보다", "explanation": "전 (以前) + -보다 (比...更)。" },
+        { "point": "아픈 것 같아", "explanation": "아프다 (痛) + -(으)ㄴ 것 같다 (好像...)。" }
+      ]
+    },
+    {
+      "korean": "더 그리운 것 같아",
+      "translation": "好像更想念了",
+      "analysis": [
+        { "point": "더 그리운 것 같아", "explanation": "더 (更) + 그리다 (思念) 的活用形 그리운 + 것 같다 (好像...)。" }
+      ]
+    },
+    {
+      "korean": "더 해로운 것 같아",
+      "translation": "好像更有害了",
+      "analysis": [
+        { "point": "더 해로운 것 같아", "explanation": "더 (更) + 해롭다 (有害) 的活用形 해로운 + 것 같다 (好像...)。" }
+      ]
+    },
+    {
+      "korean": "Ah Ah Ah Ah Ah Ah",
+      "translation": "Ah Ah Ah Ah Ah Ah",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "어쩔 수 없다", "chinese": "沒辦法、無可奈何", "pos": "片語" },
+    { "korean": "버리다", "chinese": "拋棄、丟掉", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "抹去、刪除", "pos": "動詞" },
+    { "korean": "애쓰다", "chinese": "費心、努力", "pos": "動詞" },
+    { "korean": "안쓰럽다", "chinese": "心疼、可憐", "pos": "形容詞" },
+    { "korean": "살다", "chinese": "活著", "pos": "動詞" },
+    { "korean": "숨 쉬다", "chinese": "呼吸", "pos": "動詞" },
+    { "korean": "괜찮다", "chinese": "沒關係、不錯", "pos": "形容詞" },
+    { "korean": "낫다", "chinese": "更好、痊癒", "pos": "形容詞" },
+    { "korean": "칼날", "chinese": "刀刃", "pos": "名詞" },
+    { "korean": "베이다", "chinese": "被割傷", "pos": "動詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "버티다", "chinese": "堅持、撐著", "pos": "動詞" },
+    { "korean": "비겁하다", "chinese": "卑鄙、膽怯", "pos": "形容詞" },
+    { "korean": "쥐다", "chinese": "握住", "pos": "動詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "선택하다", "chinese": "選擇", "pos": "動詞" },
+    { "korean": "놓치다", "chinese": "錯過、失去", "pos": "動詞" },
+    { "korean": "망치다", "chinese": "毀掉", "pos": "動詞" },
+    { "korean": "이기다", "chinese": "戰勝、贏", "pos": "動詞" },
+    { "korean": "거짓말", "chinese": "謊言", "pos": "名詞" },
+    { "korean": "지켜보다", "chinese": "注視、觀察", "pos": "動詞" },
+    { "korean": "똑바로", "chinese": "端正地、直直地", "pos": "副詞" },
+    { "korean": "뜨다", "chinese": "睜開(眼)", "pos": "動詞" },
+    { "korean": "절뚝거리다", "chinese": "跛行、一瘸一拐", "pos": "動詞" },
+    { "korean": "단정 짓다", "chinese": "下定論、斷定", "pos": "動詞" },
+    { "korean": "들이쉬다", "chinese": "吸入", "pos": "動詞" },
+    { "korean": "내쉬다", "chinese": "呼出", "pos": "動詞" },
+    { "korean": "찢다", "chinese": "撕碎", "pos": "動詞" },
+    { "korean": "비명", "chinese": "悲鳴、尖叫", "pos": "名詞" },
+    { "korean": "지르다", "chinese": "喊叫", "pos": "動詞" },
+    { "korean": "떠다니다", "chinese": "漂浮", "pos": "動詞" },
+    { "korean": "잔상", "chinese": "殘像", "pos": "名詞" },
+    { "korean": "불태우다", "chinese": "燃燒", "pos": "動詞" },
+    { "korean": "잘못되다", "chinese": "出錯、變得糟糕", "pos": "動詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "벗어나다", "chinese": "逃離、擺脫", "pos": "動詞" },
+    { "korean": "남겨지다", "chinese": "被留下", "pos": "動詞" },
+    { "korean": "번지다", "chinese": "蔓延、擴散", "pos": "動詞" },
+    { "korean": "해롭다", "chinese": "有害", "pos": "形容詞" }
+  ]
+}

@@ -6,12 +6,17 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "apink-nonono",
+    "title": "NoNoNo",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-nonono.json"
   },
-
+  {
+    "id": "apink-luv",
+    "title": "LUV",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-luv.json"
+  },
 
   {
     "id": "epikhigh-screen-time",
@@ -305,12 +310,6 @@
     "lyricsFile": "../data/lyrics/btob-beautiful-pain.json"
   },
 
-  {
-    "id": "btob-someday",
-    "title": "SOMEDAY (언젠가)",
-    "artist": "BTOB (비투비)",
-    "lyricsFile": "../data/lyrics/btob-someday.json"
-  },
 
   {
     "id": "btob-blooming_day",
@@ -425,11 +424,25 @@
   "lyricsFile": "../data/lyrics/minah-sonman-jabeulge.json"  
   },
   {
+  "id": "yura-remember",
+  "title": "Remember",
+  "artist": "Yura (유라)",
+  "lyricsFile": "../data/lyrics/yura-remember.json"  
+  },
+
+  {
   "id": "vixx-stop_resisting",
   "title": "그만 버티고 (Stop Resisting)",
   "artist": "VIXX (빅스) (feat. MINAH)",
   "lyricsFile": "../data/lyrics/vixx-stop_resisting.json"  
   },
+  {
+  "id": "vixx-error",
+  "title": "Error",
+  "artist": "VIXX (빅스)",
+  "lyricsFile": "../data/lyrics/vixx-stop_resisting.json"  
+  },
+
   {
     "id": "minah-ani",
     "title": "아니",

@@ -1,0 +1,331 @@
+{
+  "id": "apink-nonono",
+  "title": "NoNoNo",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "슬퍼하지마 No No No 혼자가 아냐 No No No",
+      "translation": "別難過 No No No 你不是一個人 No No No",
+      "analysis": [
+        { "point": "슬퍼하지마", "explanation": "슬퍼하다 (悲傷/難過) + -지 마 (否定命令型，不要...)。" },
+        { "point": "혼자가 아냐", "explanation": "혼자 (獨自) + -가 (主格助詞) + 아니다 (不是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "언제나나나 내게 항상 빛이 돼준 그대",
+      "translation": "無論何時 總是成為我的光芒的你",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，總是、無論何時。" },
+        { "point": "내게", "explanation": "나 (我) + -에게 (對象助詞) 的縮略。" },
+        { "point": "빛이 돼준 그대", "explanation": "빛 (光) + -이 되다 (成為...) + -아/어 주다 (為我做...) 的過去定語形 + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "내 손을 잡아요 이제 지금 다가와 기대",
+      "translation": "抓住我的手 現在靠近我依靠我吧",
+      "analysis": [
+        { "point": "내 손을 잡아요", "explanation": "내 (我的) + 손 (手) + -을 (受格助詞) + 잡다 (抓) + -아요 (尊敬語尾)。" },
+        { "point": "다가와 기대", "explanation": "다가오다 (靠近) + -아/어 (連接詞尾) + 기대다 (依靠)。" }
+      ]
+    },
+    {
+      "korean": "언제나 힘이 되줄게",
+      "translation": "我會永遠成為你的力量",
+      "analysis": [
+        { "point": "힘이 되줄게", "explanation": "힘 (力量) + -이 되다 (成為...) + -아/어 주다 (為我做...) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "내가 힘이 들 때 내게 다가온 그대",
+      "translation": "當我感到疲憊時 走向我的你",
+      "analysis": [
+        { "point": "내가 힘이 들 때", "explanation": "내 (我) + -가 (主格助詞) + 힘이 들다 (吃力/疲憊) + -(으)ㄹ 때 (當...的時候)。" },
+        { "point": "내게 다가온 그대", "explanation": "내게 (向我) + 다가오다 (靠近) 的過去定語形 + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "살며시 내게로 와 입맞춰준 그대",
+      "translation": "悄悄來到我身邊 親吻我的你",
+      "analysis": [
+        { "point": "살며시", "explanation": "副詞，悄悄地、輕輕地。" },
+        { "point": "내게로 와", "explanation": "내게 (向我) + -(으)로 (方向助詞) + 오다 (來)。" },
+        { "point": "입맞춰준 그대", "explanation": "입맞추다 (親吻) + -아/어 주다 (為我做...) 的過去定語形 + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "마치 마법처럼 날 감싸준",
+      "translation": "就像魔法一樣包容我的",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，彷彿、就像。" },
+        { "point": "마법처럼", "explanation": "마법 (魔法) + -처럼 (像...一樣)。" },
+        { "point": "날 감싸준", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 감싸다 (包容/擁抱) + -아/어 주다 (為我做...) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "정말 이런 기분 처음이야",
+      "translation": "這種感覺真的是第一次",
+      "analysis": [
+        { "point": "이런 기분", "explanation": "이렇다 (這樣) 的定語形 + 기분 (心情/感覺)。" },
+        { "point": "처음이야", "explanation": "처음 (第一次) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "가끔씩은 그대도 힘든가요",
+      "translation": "偶爾你也會覺得累嗎",
+      "analysis": [
+        { "point": "가끔씩은", "explanation": "가끔 (偶爾) + -씩 (接尾辭) + -은 (主題助詞)。" },
+        { "point": "힘든가요", "explanation": "힘들다 (累/辛苦) + -(으)ㄴ가요 (溫和的疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 혼자 슬퍼하면 어떡해",
+      "translation": "如果那樣獨自悲傷該怎麼辦",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "슬퍼하면", "explanation": "슬퍼하다 (悲傷) + -(으)면 (如果)。" },
+        { "point": "어떡해", "explanation": "어떡하다 (怎麼辦) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "하나둘씩 불이 꺼져가는 공간 속에",
+      "translation": "在燈光一盞盞熄滅的空間裡",
+      "analysis": [
+        { "point": "하나둘씩", "explanation": "하나 (一) + 둘 (二) + -씩 (表示逐個)。" },
+        { "point": "불이 꺼져가는", "explanation": "불 (燈/火) + -이 (主格助詞) + 꺼지다 (熄滅) + -아/어 가다 (表示過程的持續) 的定語形。" },
+        { "point": "공간 속에", "explanation": "공간 (空間) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "내가 널 비춰줄게 (Oh)",
+      "translation": "我會照亮你 (Oh)",
+      "analysis": [
+        { "point": "내가 널", "explanation": "내 (我) + -가 (主格助詞) + 너 (你) + -를 (受格助詞) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照亮) + -아/어 주다 (給予) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "슬퍼하지마 No No No 혼자가 아냐 No No No",
+      "translation": "別難過 No No No 你不是一個人 No No No",
+      "analysis": [
+        { "point": "슬퍼하지마", "explanation": "슬퍼하다 (悲傷/難過) + -지 마 (否定命令型，不要...)。" },
+        { "point": "혼자가 아냐", "explanation": "혼자 (獨自) + -가 (主格助詞) + 아니다 (不是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "언제나나나 내게 항상 빛이 돼준 그대",
+      "translation": "無論何時 總是成為我的光芒的你",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，總是、無論何時。" },
+        { "point": "내게", "explanation": "나 (我) + -에게 (對象助詞) 的縮略。" },
+        { "point": "빛이 돼준 그대", "explanation": "빛 (光) + -이 되다 (成為...) + -아/어 주다 (為我做...) 的過去定語形 + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "내 손을 잡아요 이제 지금 다가와 기대",
+      "translation": "抓住我的手 現在靠近我依靠我吧",
+      "analysis": [
+        { "point": "내 손을 잡아요", "explanation": "내 (我的) + 손 (手) + -을 (受格助詞) + 잡다 (抓) + -아요 (尊敬語尾)。" },
+        { "point": "다가와 기대", "explanation": "다가오다 (靠近) + -아/어 (連接詞尾) + 기대다 (依靠)。" }
+      ]
+    },
+    {
+      "korean": "언제나 힘이 되줄게",
+      "translation": "我會永遠成為你的力量",
+      "analysis": [
+        { "point": "힘이 되줄게", "explanation": "힘 (力量) + -이 되다 (成為...) + -아/어 주다 (為我做...) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "꿈이 많던 그댄 너무 떨리던 그때에",
+      "translation": "夢想很多的你 在曾經非常顫抖的那時",
+      "analysis": [
+        { "point": "꿈이 많던 그댄", "explanation": "꿈 (夢) + -이 (主格助詞) + 많다 (多) + -던 (回想過去的定語形) + 그대 (你) + -는 (主題助詞) 的縮略。" },
+        { "point": "떨리던 그때에", "explanation": "떨리다 (顫抖/緊張) + -던 (回想過去的定語形) + 그때 (那時) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "수많은 시련 속에 기적을 바랬고",
+      "translation": "在無數的試煉中 盼望著奇蹟",
+      "analysis": [
+        { "point": "수많은 시련 속에", "explanation": "수많은 (無數的) + 시련 (試煉) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "기적을 바랬고", "explanation": "기적 (奇蹟) + -을 (受格助詞) + 바라다 (盼望) 的過去式(口語常用바랬다) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "갈수록 불어오는 바람에 흔들리는 모습 처음이야",
+      "translation": "第一次看到你在愈發猛烈的風中動搖的樣子",
+      "analysis": [
+        { "point": "갈수록", "explanation": "가다 (去) + -(으)ㄹ수록 (越...越...)，意指隨著時間經過。" },
+        { "point": "불어오는 바람에", "explanation": "불어오다 (吹來) 的現在定語形 + 바람 (風) + -에 (因為/在...之中)。" },
+        { "point": "흔들리는 모습", "explanation": "흔들리다 (動搖/搖晃) 的現在定語形 + 모습 (樣子)。" }
+      ]
+    },
+    {
+      "korean": "오랫동안 많이도 참았나요",
+      "translation": "長久以來忍耐了很多嗎",
+      "analysis": [
+        { "point": "오랫동안", "explanation": "名詞，長久以來。" },
+        { "point": "많이도", "explanation": "많이 (很多) + -도 (強調助詞)。" },
+        { "point": "참았나요", "explanation": "참다 (忍耐) 的過去式 + -나요 (溫和的疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "아무말 않고 고개 떨구면 어떡해",
+      "translation": "若不發一語地低著頭該怎麼辦",
+      "analysis": [
+        { "point": "아무말 않고", "explanation": "아무말 (什麼話都沒) + 않고 (不做...，않다 + -고)。" },
+        { "point": "고개 떨구면", "explanation": "고개 (頭/頸) + 떨구다 (低垂) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "하나둘씩 곁을 떠나가는 세상 속에",
+      "translation": "在人們一個個離你而去的世界裡",
+      "analysis": [
+        { "point": "곁을 떠나가는", "explanation": "곁 (身邊) + -을 (受格助詞) + 떠나가다 (離開) 的現在定語形。" },
+        { "point": "세상 속에", "explanation": "세상 (世界) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "내가 널 비춰줄게 (Oh)",
+      "translation": "我會照亮你 (Oh)",
+      "analysis": [
+        { "point": "내가 널", "explanation": "내 (我) + -가 (主格助詞) + 너 (你) + -를 (受格助詞) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照亮) + -아/어 주다 (給予) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "슬퍼하지마 No No No 혼자가 아냐 No No No",
+      "translation": "別難過 No No No 你不是一個人 No No No",
+      "analysis": [
+        { "point": "슬퍼하지마", "explanation": "슬퍼하다 (悲傷/難過) + -지 마 (否定命令型，不要...)。" },
+        { "point": "혼자가 아냐", "explanation": "혼자 (獨自) + -가 (主格助詞) + 아니다 (不是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "언제나나나 내게 항상 빛이 돼준 그대",
+      "translation": "無論何時 總是成為我的光芒的你",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，總是、無論何時。" },
+        { "point": "내게", "explanation": "나 (我) + -에게 (對象助詞) 的縮略。" },
+        { "point": "빛이 돼준 그대", "explanation": "빛 (光) + -이 되다 (成為...) + -아/어 주다 (為我做...) 的過去定語形 + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "내 손을 잡아요 이제 지금 다가와 기대",
+      "translation": "抓住我的手 現在靠近我依靠我吧",
+      "analysis": [
+        { "point": "내 손을 잡아요", "explanation": "내 (我的) + 손 (手) + -을 (受格助詞) + 잡다 (抓) + -아요 (尊敬語尾)。" },
+        { "point": "다가와 기대", "explanation": "다가오다 (靠近) + -아/어 (連接詞尾) + 기대다 (依靠)。" }
+      ]
+    },
+    {
+      "korean": "언제나 힘이 되줄게",
+      "translation": "我會永遠成為你的力量",
+      "analysis": [
+        { "point": "힘이 되줄게", "explanation": "힘 (力量) + -이 되다 (成為...) + -아/어 주다 (為我做...) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "가장 내게 힘이 돼주었던",
+      "translation": "曾經給我最大力量的",
+      "analysis": [
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "힘이 돼주었던", "explanation": "힘이 되다 (成為力量) + -아/어 주다 (給予) + -었던 (回想過去的定語形)。" }
+      ]
+    },
+    {
+      "korean": "나를 언제나 믿어주던 그대",
+      "translation": "總是相信著我的你",
+      "analysis": [
+        { "point": "믿어주던 그대", "explanation": "믿다 (相信) + -아/어 주다 (給予) + -던 (回想過去的定語形) + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "다들 그만해 라고 말할 때",
+      "translation": "當大家都說「算了吧」的時候",
+      "analysis": [
+        { "point": "다들", "explanation": "名詞，大家。" },
+        { "point": "그만해", "explanation": "그만하다 (停止/算了) 的非格式體。" },
+        { "point": "라고 말할 때", "explanation": "-(이)라고 (引用助詞) + 말하다 (說) + -(으)ㄹ 때 (的時候)。" }
+      ]
+    },
+    {
+      "korean": "마지막 니가 바라볼 사랑 이젠 내가 돼줄게",
+      "translation": "你最後眺望的愛情 現在換我來當",
+      "analysis": [
+        { "point": "바라볼 사랑", "explanation": "바라보다 (注視/眺望) 的未來定語形 + 사랑 (愛情)。" },
+        { "point": "이젠 내가 돼줄게", "explanation": "이제 (現在) + -는 (主題助詞) + 내가 (我) + 되다 (成為) + -아/어 주다 (給予) + -(으)ㄹ게 (意志未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "슬퍼하지마 No No No 혼자가 아냐 No No No",
+      "translation": "別難過 No No No 你不是一個人 No No No",
+      "analysis": [
+        { "point": "슬퍼하지마", "explanation": "슬퍼하다 (悲傷/難過) + -지 마 (否定命令型，不要...)。" },
+        { "point": "혼자가 아냐", "explanation": "혼자 (獨自) + -가 (主格助詞) + 아니다 (不是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "언제나나나 내게 항상 빛이 돼준 그대",
+      "translation": "無論何時 總是成為我的光芒的你",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，總是、無論何時。" },
+        { "point": "내게", "explanation": "나 (我) + -에게 (對象助詞) 的縮略。" },
+        { "point": "빛이 돼준 그대", "explanation": "빛 (光) + -이 되다 (成為...) + -아/어 주다 (為我做...) 的過去定語形 + 그대 (你)。" }
+      ]
+    },
+    {
+      "korean": "내 손을 잡아요 이제 지금 다가와 기대 (I love you)",
+      "translation": "抓住我的手 現在靠近我依靠我吧 (I love you)",
+      "analysis": [
+        { "point": "내 손을 잡아요", "explanation": "내 (我的) + 손 (手) + -을 (受格助詞) + 잡다 (抓) + -아요 (尊敬語尾)。" },
+        { "point": "다가와 기대", "explanation": "다가오다 (靠近) + -아/어 (連接詞尾) + 기대다 (依靠)。" }
+      ]
+    },
+    {
+      "korean": "언제나 힘이 되줄게",
+      "translation": "我會永遠成為你的力量",
+      "analysis": [
+        { "point": "힘이 되줄게", "explanation": "힘 (力量) + -이 되다 (成為...) + -아/어 주다 (為我做...) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "슬퍼하다", "chinese": "悲傷、難過", "pos": "動詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "名詞" },
+    { "korean": "언제나", "chinese": "總是", "pos": "副詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓、牽", "pos": "動詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" },
+    { "korean": "힘", "chinese": "力量", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "입맞추다", "chinese": "親吻", "pos": "動詞" },
+    { "korean": "마법", "chinese": "魔法", "pos": "名詞" },
+    { "korean": "감싸다", "chinese": "包容、擁抱", "pos": "動詞" },
+    { "korean": "처음", "chinese": "第一次", "pos": "名詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "힘들다", "chinese": "累、辛苦", "pos": "形容詞" },
+    { "korean": "공간", "chinese": "空間", "pos": "名詞" },
+    { "korean": "비추다", "chinese": "照亮", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢想", "pos": "名詞" },
+    { "korean": "떨리다", "chinese": "顫抖、緊張", "pos": "動詞" },
+    { "korean": "시련", "chinese": "試煉", "pos": "名詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "바라다", "chinese": "盼望", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "흔들리다", "chinese": "動搖、搖晃", "pos": "動詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "고개", "chinese": "頭、頸", "pos": "名詞" },
+    { "korean": "떨구다", "chinese": "低垂", "pos": "動詞" },
+    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" }
+  ]
+}

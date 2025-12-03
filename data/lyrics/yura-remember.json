@@ -1,0 +1,216 @@
+{
+  "id": "yura-remember",
+  "title": "Remember",
+  "artist": "Yura (유라)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Wrote you a letter, 너를 남긴",
+      "translation": "Wrote you a letter, 留下你的",
+      "analysis": [
+        { "point": "너를 남긴", "explanation": "너 (你) + -를 (受格助詞) + 남기다 (留下) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "내 깊은 마음에 tonight",
+      "translation": "在我深處的心裡 tonight",
+      "analysis": [
+        { "point": "내 깊은 마음에", "explanation": "내 (我的) + 깊다 (深) 的定語形 + 마음 (心) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "너를 보던 날 밀어내던 너",
+      "translation": "看著你的我 推開我的你",
+      "analysis": [
+        { "point": "너를 보던 날", "explanation": "너 (你) + -를 (受格助詞) + 보다 (看) + -던 (回想過去的定語形) + 나 (我) + -를 (受格助詞) 的縮略。" },
+        { "point": "밀어내던 너", "explanation": "밀어내다 (推開) + -던 (回想過去的定語形) + 너 (你)。" }
+      ]
+    },
+    {
+      "korean": "나만 다른 시간에 머물던 밤",
+      "translation": "只有我停留在不同時間的夜晚",
+      "analysis": [
+        { "point": "나만", "explanation": "나 (我) + -만 (只)。" },
+        { "point": "다른 시간에", "explanation": "다르다 (不同) 的定語形 + 시간 (時間) + -에 (在...裡)。" },
+        { "point": "머물던 밤", "explanation": "머물다 (停留) + -던 (回想過去的定語形) + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "You said I'm too late, 애를 써도 왜",
+      "translation": "You said I'm too late, 即使費盡心思 為什麼",
+      "analysis": [
+        { "point": "애를 써도", "explanation": "애를 쓰다 (費心/努力) + -아/어도 (即使)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "The days of love for all, never gonna leave",
+      "translation": "The days of love for all, never gonna leave",
+      "analysis": []
+    },
+    {
+      "korean": "숱한 날에 날 웃게 한 눈빛",
+      "translation": "在無數的日子裡 讓我微笑的眼神",
+      "analysis": [
+        { "point": "숱한 날에", "explanation": "숱하다 (很多/無數) 的定語形 + 날 (日子) + -에 (時間助詞)。" },
+        { "point": "날 웃게 한", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 웃다 (笑) + -게 하다 (使役形，讓...) + -(으)ㄴ (過去定語形)。" },
+        { "point": "눈빛", "explanation": "名詞，眼神。" }
+      ]
+    },
+    {
+      "korean": "나에겐 truly, love",
+      "translation": "對我來說 truly, love",
+      "analysis": [
+        { "point": "나에겐", "explanation": "나 (我) + -에게는 (對...來說) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Will you remember the love we used to have?",
+      "translation": "Will you remember the love we used to have?",
+      "analysis": []
+    },
+    {
+      "korean": "Will you remember the love we used to share?",
+      "translation": "Will you remember the love we used to share?",
+      "analysis": []
+    },
+    {
+      "korean": "닿을 수 없는 말이 더 차올라",
+      "translation": "無法觸及的話語 更加湧上心頭",
+      "analysis": [
+        { "point": "닿을 수 없는", "explanation": "닿다 (觸及) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "말이", "explanation": "말 (話) + -이 (主格助詞)。" },
+        { "point": "더 차올라", "explanation": "더 (更) + 차오르다 (湧上/充滿) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Just one last question, what was our love?",
+      "translation": "Just one last question, what was our love?",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "Oh",
+      "translation": "Oh",
+      "analysis": []
+    },
+    {
+      "korean": "What was our love?",
+      "translation": "What was our love?",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "잊혀질까 봐 꺼내 둔 이름",
+      "translation": "怕被遺忘而拿出來的名字",
+      "analysis": [
+        { "point": "잊혀질까 봐", "explanation": "잊혀지다 (被遺忘) + -(으)ㄹ까 보다 (擔心/怕...)。" },
+        { "point": "꺼내 둔", "explanation": "꺼내다 (拿出) + -아/어 두다 (表示動作完成後狀態的持續) 的過去定語形。" },
+        { "point": "이름", "explanation": "名詞，名字。" }
+      ]
+    },
+    {
+      "korean": "Now it haunts me in the crowd, 아직도 날",
+      "translation": "Now it haunts me in the crowd, 依然將我",
+      "analysis": [
+        { "point": "아직도", "explanation": "副詞，仍然、還。" },
+        { "point": "날", "explanation": "나 (我) + -를 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "You said I'm too late, 애를 써도 왜",
+      "translation": "You said I'm too late, 即使費盡心思 為什麼",
+      "analysis": [
+        { "point": "애를 써도", "explanation": "애를 쓰다 (費心/努力) + -아/어도 (即使)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "The days of love for all, never gonna leave",
+      "translation": "The days of love for all, never gonna leave",
+      "analysis": []
+    },
+    {
+      "korean": "숱한 날에 날 웃게 한 눈빛",
+      "translation": "在無數的日子裡 讓我微笑的眼神",
+      "analysis": [
+        { "point": "숱한 날에", "explanation": "숱하다 (很多/無數) 的定語形 + 날 (日子) + -에 (時間助詞)。" },
+        { "point": "날 웃게 한", "explanation": "나 (我) + -를 (受格助詞) 的縮略 + 웃다 (笑) + -게 하다 (使役形，讓...) + -(으)ㄴ (過去定語形)。" },
+        { "point": "눈빛", "explanation": "名詞，眼神。" }
+      ]
+    },
+    {
+      "korean": "나에겐 truly, love",
+      "translation": "對我來說 truly, love",
+      "analysis": [
+        { "point": "나에겐", "explanation": "나 (我) + -에게는 (對...來說) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Will you remеmber the love wе used to have?",
+      "translation": "Will you remеmber the love wе used to have?",
+      "analysis": []
+    },
+    {
+      "korean": "Will you remember the love we used to share?",
+      "translation": "Will you remember the love we used to share?",
+      "analysis": []
+    },
+    {
+      "korean": "닿을 수 없는 말이 더 차올라",
+      "translation": "無法觸及的話語 更加湧上心頭",
+      "analysis": [
+        { "point": "닿을 수 없는", "explanation": "닿다 (觸及) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "말이", "explanation": "말 (話) + -이 (主格助詞)。" },
+        { "point": "더 차올라", "explanation": "더 (更) + 차오르다 (湧上/充滿) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Just one last question, what was us?",
+      "translation": "Just one last question, what was us?",
+      "analysis": []
+    },
+    {
+      "korean": "Will you remember the way we used to care?",
+      "translation": "Will you remember the way we used to care?",
+      "analysis": []
+    },
+    {
+      "korean": "Will you remember the way we used to bare?",
+      "translation": "Will you remember the way we used to bare?",
+      "analysis": []
+    },
+    {
+      "korean": "닿을 수 없는 말이 더 차올라",
+      "translation": "無法觸及的話語 更加湧上心頭",
+      "analysis": [
+        { "point": "닿을 수 없는", "explanation": "닿다 (觸及) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "말이", "explanation": "말 (話) + -이 (主格助詞)。" },
+        { "point": "더 차올라", "explanation": "더 (更) + 차오르다 (湧上/充滿) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Just one last whisper, that was our love",
+      "translation": "Just one last whisper, that was our love",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "깊다", "chinese": "深", "pos": "形容詞" },
+    { "korean": "밀어내다", "chinese": "推開", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "애를 쓰다", "chinese": "費心、努力", "pos": "片語" },
+    { "korean": "숱하다", "chinese": "很多、無數", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸及、到達", "pos": "動詞" },
+    { "korean": "차오르다", "chinese": "湧上、充滿", "pos": "動詞" },
+    { "korean": "잊혀지다", "chinese": "被遺忘", "pos": "動詞" },
+    { "korean": "꺼내다", "chinese": "拿出", "pos": "動詞" }
+  ]
+}

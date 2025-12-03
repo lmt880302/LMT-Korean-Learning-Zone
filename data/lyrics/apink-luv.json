@@ -1,0 +1,353 @@
+{
+  "id": "apink-luv",
+  "title": "LUV",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "기억하나요 우리 함께 했던 시간 L.O.V.E (LUV)",
+      "translation": "還記得嗎 我們曾在一起的時間 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (溫和的疑問語尾)。" },
+        { "point": "함께 했던 시간", "explanation": "함께 (一起) + 하다 (做) + -였던 (回想過去的定語形，曾是...) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "설레이나요 한 땐 모든 것이었던 L.O.V.E (LUV)",
+      "translation": "還會心動嗎 曾是彼此一切的 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "설레이나요", "explanation": "설레이다 (心動，설레다的口語形) + -나요 (溫和的疑問語尾)。" },
+        { "point": "한 땐", "explanation": "한 때 (曾經、某個時候) + -는 (主題助詞) 的縮略。" },
+        { "point": "모든 것이었던", "explanation": "모든 것 (一切) + -이다 (是) + -였던 (回想過去的定語形，曾是...)。" }
+      ]
+    },
+    {
+      "korean": "이제는 가끔 생각나는 그때 L.O.V.E (LUV)",
+      "translation": "現在偶爾會想起的那時候 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (主題助詞)。" },
+        { "point": "생각나는 그때", "explanation": "생각나다 (想起) 的現在定語形 + 그때 (那時)。" }
+      ]
+    },
+    {
+      "korean": "시간을 되돌릴 수는 없나요",
+      "translation": "無法讓時光倒流嗎",
+      "analysis": [
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "되돌릴 수는 없나요", "explanation": "되돌리다 (倒轉、挽回) + -(으)ㄹ 수 없다 (無法...) + -나요 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "믿을 수가 없어 한참 지나버린 우리 얘기",
+      "translation": "無法相信 已經過了好久的我們的故事",
+      "analysis": [
+        { "point": "믿을 수가 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (無法...) 的非格式體。" },
+        { "point": "한참 지나버린", "explanation": "한참 (好一陣子) + 지나다 (經過) + -아/어 버리다 (表示動作完全結束) 的過去定語形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "(MY LOVE) 유난히 지치고 길었었던 하루에",
+      "translation": "(MY LOVE) 在格外疲憊且漫長的一天裡",
+      "analysis": [
+        { "point": "유난히", "explanation": "副詞，格外地、特別地。" },
+        { "point": "지치고", "explanation": "지치다 (疲憊) + -고 (連接詞尾)。" },
+        { "point": "길었었던 하루에", "explanation": "길다 (長) + -었었- (大過去時制，強調過去的狀態) + -던 (回想冠形詞尾) + 하루 (一天) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "(MY LOVE) 내 편은 하나도 없죠 (L.O.V.E LUV)",
+      "translation": "(MY LOVE) 沒有一個是站在我這邊的吧 (L.O.V.E LUV)",
+      "analysis": [
+        { "point": "내 편은", "explanation": "내 (我的) + 편 (邊、同伴) + -은 (主題助詞)。" },
+        { "point": "하나도 없죠", "explanation": "하나 (一) + -도 (連...也) + 없다 (沒有) + -죠 (語氣詞，吧)。" }
+      ]
+    },
+    {
+      "korean": "잠시라도 누군가에게 기대어서 울고 싶죠 Yeah",
+      "translation": "哪怕只是暫時 也想依靠著誰哭一場 Yeah",
+      "analysis": [
+        { "point": "잠시라도", "explanation": "잠시 (暫時) + -(이)라도 (哪怕是...也)。" },
+        { "point": "누군가에게", "explanation": "누군가 (某人) + -에게 (對象助詞)。" },
+        { "point": "기대어서", "explanation": "기대다 (依靠) + -어서 (表示方式/順序)。" },
+        { "point": "울고 싶죠", "explanation": "울다 (哭) + -고 싶다 (想) + -죠 (語氣詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "너와 나 두렵지가 않던 그 시간",
+      "translation": "你和我 曾經無所畏懼的那段時間",
+      "analysis": [
+        { "point": "두렵지가 않던", "explanation": "두렵다 (害怕) + -지 않다 (否定) + -던 (回想過去的定語形)。" },
+        { "point": "그 시간", "explanation": "그 (那) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "서로 손을 잡을 때면 Yeah",
+      "translation": "每當彼此牽手的時候 Yeah",
+      "analysis": [
+        { "point": "서로", "explanation": "副詞，彼此、互相。" },
+        { "point": "손을 잡을 때면", "explanation": "손 (手) + -을 (受格助詞) + 잡다 (抓) + -(으)ㄹ 때면 (每當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "너 하나 너만 내 옆에 있어주면",
+      "translation": "只要有你 只要你在我身邊",
+      "analysis": [
+        { "point": "너만", "explanation": "너 (你) + -만 (只)。" },
+        { "point": "내 옆에", "explanation": "내 (我的) + 옆 (旁邊) + -에 (場所助詞)。" },
+        { "point": "있어주면", "explanation": "있다 (在) + -아/어 주다 (為我做...) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "아무것도 필요 없던 그날을",
+      "translation": "什麼都不需要的那一天",
+      "analysis": [
+        { "point": "아무것도", "explanation": "아무것 (任何東西) + -도 (也)。" },
+        { "point": "필요 없던", "explanation": "필요 없다 (不需要) + -던 (回想過去的定語形)。" },
+        { "point": "그날을", "explanation": "그날 (那一天) + -을 (受格助詞，此處省略了後續動詞，意指懷念那一天)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "기억하나요 우리 함께 했던 시간 L.O.V.E (LUV)",
+      "translation": "還記得嗎 我們曾在一起的時間 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (溫和的疑問語尾)。" },
+        { "point": "함께 했던 시간", "explanation": "함께 (一起) + 하다 (做) + -였던 (回想過去的定語形，曾是...) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "설레이나요 한 땐 모든 것이었던 L.O.V.E (LUV)",
+      "translation": "還會心動嗎 曾是彼此一切的 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "설레이나요", "explanation": "설레이다 (心動，설레다的口語形) + -나요 (溫和的疑問語尾)。" },
+        { "point": "한 땐", "explanation": "한 때 (曾經、某個時候) + -는 (主題助詞) 的縮略。" },
+        { "point": "모든 것이었던", "explanation": "모든 것 (一切) + -이다 (是) + -였던 (回想過去的定語形，曾是...)。" }
+      ]
+    },
+    {
+      "korean": "이제는 가끔 생각나는 그때 L.O.V.E (LUV)",
+      "translation": "現在偶爾會想起的那時候 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (主題助詞)。" },
+        { "point": "생각나는 그때", "explanation": "생각나다 (想起) 的現在定語形 + 그때 (那時)。" }
+      ]
+    },
+    {
+      "korean": "시간을 되돌릴 수는 없나요",
+      "translation": "無法讓時光倒流嗎",
+      "analysis": [
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "되돌릴 수는 없나요", "explanation": "되돌리다 (倒轉、挽回) + -(으)ㄹ 수 없다 (無法...) + -나요 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "믿을 수가 없어 한참 지나버린 우리 얘기",
+      "translation": "無法相信 已經過了好久的我們的故事",
+      "analysis": [
+        { "point": "믿을 수가 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (無法...) 的非格式體。" },
+        { "point": "한참 지나버린", "explanation": "한참 (好一陣子) + 지나다 (經過) + -아/어 버리다 (表示動作完全結束) 的過去定語形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "(MY LOVE) 수없이 마주치는 사람들 속에서",
+      "translation": "(MY LOVE) 在無數次擦肩而過的人群中",
+      "analysis": [
+        { "point": "수없이", "explanation": "수없다 (數不清) + -이 (副詞化)，無數地。" },
+        { "point": "마주치는", "explanation": "마주치다 (偶遇、擦肩而過) 的現在定語形。" },
+        { "point": "사람들 속에서", "explanation": "사람 (人) + -들 (複數) + 속 (裡面) + -에서 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "(MY LOVE) 점점 잊혀져 가겠죠 (L.O.V.E LUV)",
+      "translation": "(MY LOVE) 會漸漸被遺忘吧 (L.O.V.E LUV)",
+      "analysis": [
+        { "point": "점점", "explanation": "副詞，漸漸。" },
+        { "point": "잊혀져 가겠죠", "explanation": "잊혀지다 (被遺忘) + -어 가다 (表示過程的持續) + -겠- (推測) + -죠 (語氣詞)。" }
+      ]
+    },
+    {
+      "korean": "그래도 가끔 그때 생각엔",
+      "translation": "即使那樣 偶爾想起那時候",
+      "analysis": [
+        { "point": "그래도", "explanation": "連接詞，即使那樣、雖然如此。" },
+        { "point": "그때 생각엔", "explanation": "그때 (那時) + 생각 (想法/想起) + -에는 (在...的時候) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "여전히 웃음만 나죠 Yeah",
+      "translation": "依然只會露出笑容 Yeah",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然、依舊。" },
+        { "point": "웃음만 나죠", "explanation": "웃음 (笑/笑容) + -만 (只) + 나다 (出現/發生) + -죠 (語氣詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "너와 나 너무 행복했던 그 시간",
+      "translation": "你和我 曾經非常幸福的那段時間",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "행복했던", "explanation": "행복하다 (幸福) + -였던 (回想過去的定語形)。" }
+      ]
+    },
+    {
+      "korean": "서롤 마주 볼 때면 Yeah",
+      "translation": "每當彼此對視的時候 Yeah",
+      "analysis": [
+        { "point": "서롤", "explanation": "서로를 (彼此) 的縮略。" },
+        { "point": "마주 볼 때면", "explanation": "마주 보다 (面對面看、對視) + -(으)ㄹ 때면 (每當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "너 하나 너만 나를 믿어 준다면",
+      "translation": "只要有你 只要你相信我",
+      "analysis": [
+        { "point": "믿어 준다면", "explanation": "믿다 (相信) + -아/어 주다 (給予) + -(으)ㄴ다면 (如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "세상 가장 힘이 됐던 그대가 날",
+      "translation": "世上曾給我最大力量的你",
+      "analysis": [
+        { "point": "세상 가장", "explanation": "세상 (世上) + 가장 (最)。" },
+        { "point": "힘이 됐던", "explanation": "힘 (力量) + -이 되다 (成為...) + -었던 (回想過去的定語形)。" },
+        { "point": "그대가 날", "explanation": "그대 (你) + -가 (主格助詞) + 나 (我) + -를 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "기억하나요 우리 함께 했던 시간 L.O.V.E (LUV)",
+      "translation": "還記得嗎 我們曾在一起的時間 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (溫和的疑問語尾)。" },
+        { "point": "함께 했던 시간", "explanation": "함께 (一起) + 하다 (做) + -였던 (回想過去的定語形，曾是...) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "설레이나요 한 땐 모든 것이었던 L.O.V.E (LUV)",
+      "translation": "還會心動嗎 曾是彼此一切的 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "설레이나요", "explanation": "설레이다 (心動，설레다的口語形) + -나요 (溫和的疑問語尾)。" },
+        { "point": "한 땐", "explanation": "한 때 (曾經、某個時候) + -는 (主題助詞) 的縮略。" },
+        { "point": "모든 것이었던", "explanation": "모든 것 (一切) + -이다 (是) + -였던 (回想過去的定語形，曾是...)。" }
+      ]
+    },
+    {
+      "korean": "이제는 가끔 생각나는 그때 L.O.V.E (LUV)",
+      "translation": "現在偶爾會想起的那時候 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (主題助詞)。" },
+        { "point": "생각나는 그때", "explanation": "생각나다 (想起) 的現在定語形 + 그때 (那時)。" }
+      ]
+    },
+    {
+      "korean": "시간을 되돌릴 수는 없나요",
+      "translation": "無法讓時光倒流嗎",
+      "analysis": [
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "되돌릴 수는 없나요", "explanation": "되돌리다 (倒轉、挽回) + -(으)ㄹ 수 없다 (無法...) + -나요 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "믿을 수가 없어 한참 지나버린 우리 얘기",
+      "translation": "無法相信 已經過了好久的我們的故事",
+      "analysis": [
+        { "point": "믿을 수가 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (無法...) 的非格式體。" },
+        { "point": "한참 지나버린", "explanation": "한참 (好一陣子) + 지나다 (經過) + -아/어 버리다 (表示動作完全結束) 的過去定語形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "(넌 날) 그리워하나요 (넌 날) 그리워하나요",
+      "translation": "(你) 想念(我)嗎 (你) 想念(我)嗎",
+      "analysis": [
+        { "point": "그리워하나요", "explanation": "그리워하다 (想念、懷念) + -나요 (溫和的疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "(난 널) 그리워하고 있죠 (그리워해요)",
+      "translation": "(我) 正在想念(你) 吧 (正在想念)",
+      "analysis": [
+        { "point": "그리워하고 있죠", "explanation": "그리워하다 (想念) + -고 있다 (正在...) + -죠 (語氣詞)。" },
+        { "point": "그리워해요", "explanation": "그리워하다 (想念) 的格式體。" }
+      ]
+    },
+    {
+      "korean": "넌 나의 기억 속에 추억 어딘가",
+      "translation": "你在我記憶中回憶的某個角落",
+      "analysis": [
+        { "point": "기억 속에", "explanation": "기억 (記憶) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "어딘가", "explanation": "어디 (哪裡) + -(이)ㄴ가 (不確定的某處)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 남아있죠",
+      "translation": "就那樣留存著吧",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "남아있죠", "explanation": "남아있다 (留下來、剩下) + -죠 (語氣詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "기억하나요 우리 함께 했던 시간 L.O.V.E (LUV)",
+      "translation": "還記得嗎 我們曾在一起的時間 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (溫和的疑問語尾)。" },
+        { "point": "함께 했던 시간", "explanation": "함께 (一起) + 하다 (做) + -였던 (回想過去的定語形，曾是...) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "설레이나요 한 땐 모든 것이었던 L.O.V.E (LUV)",
+      "translation": "還會心動嗎 曾是彼此一切的 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "설레이나요", "explanation": "설레이다 (心動，설레다的口語形) + -나요 (溫和的疑問語尾)。" },
+        { "point": "한 땐", "explanation": "한 때 (曾經、某個時候) + -는 (主題助詞) 的縮略。" },
+        { "point": "모든 것이었던", "explanation": "모든 것 (一切) + -이다 (是) + -였던 (回想過去的定語形，曾是...)。" }
+      ]
+    },
+    {
+      "korean": "이제는 가끔 생각나는 그때 L.O.V.E (LUV)",
+      "translation": "現在偶爾會想起的那時候 L.O.V.E (LUV)",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (主題助詞)。" },
+        { "point": "생각나는 그때", "explanation": "생각나다 (想起) 的現在定語形 + 그때 (那時)。" }
+      ]
+    },
+    {
+      "korean": "시간을 되돌릴 수는 없나요",
+      "translation": "無法讓時光倒流嗎",
+      "analysis": [
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "되돌릴 수는 없나요", "explanation": "되돌리다 (倒轉、挽回) + -(으)ㄹ 수 없다 (無法...) + -나요 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "믿을 수가 없어 한참 지나버린 우리 얘기",
+      "translation": "無法相信 已經過了好久的我們的故事",
+      "analysis": [
+        { "point": "믿을 수가 없어", "explanation": "믿다 (相信) + -(으)ㄹ 수 없다 (無法...) 的非格式體。" },
+        { "point": "한참 지나버린", "explanation": "한참 (好一陣子) + 지나다 (經過) + -아/어 버리다 (表示動作完全結束) 的過去定語形。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "기억하다", "chinese": "記得", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "되돌리다", "chinese": "倒轉、挽回", "pos": "動詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "유난히", "chinese": "格外地", "pos": "副詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" },
+    { "korean": "두렵다", "chinese": "害怕", "pos": "形容詞" },
+    { "korean": "마주치다", "chinese": "偶遇、擦肩而過", "pos": "動詞" },
+    { "korean": "잊혀지다", "chinese": "被遺忘", "pos": "動詞" },
+    { "korean": "여전히", "chinese": "依然、依舊", "pos": "副詞" },
+    { "korean": "그리워하다", "chinese": "想念、懷念", "pos": "動詞" },
+    { "korean": "남다", "chinese": "留下、剩下", "pos": "動詞" }
+  ]
+}
