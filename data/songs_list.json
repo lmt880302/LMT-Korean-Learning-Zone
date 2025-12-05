@@ -6,6 +6,26 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
+    "id": "apink-mr-chu",
+    "title": "Mr. Chu",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-mr-chu.json"
+  },
+  {
+    "id": "apink-five",
+    "title": "Five",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-five.json"
+  },
+
+  {
+    "id": "apink-remember",
+    "title": "Remember",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-remember.json"
+  },
+
+  {
     "id": "apink-nonono",
     "title": "NoNoNo",
     "artist": "Apink (에이핑크)",
@@ -318,12 +338,6 @@
     "lyricsFile": "../data/lyrics/btob-blooming_day.json"
   },
 
-  {
-    "id": "btob-blooming_day",
-    "title": "Blooming Day (봄이 피어나)",
-    "artist": "BTOB (비투비)",
-    "lyricsFile": "../data/lyrics/btob-blooming_day.json"
-  },
 
   {
     "id": "trouble-maker-now",

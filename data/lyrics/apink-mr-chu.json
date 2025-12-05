@@ -1,0 +1,317 @@
+{
+  "id": "apink-mr-chu",
+  "title": "Mr. Chu",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "한 번 보면 두 번 더 보고 싶어",
+      "translation": "看一次的話 就會想再看兩次",
+      "analysis": [
+        { "point": "한 번 보면", "explanation": "한 번 (一次) + 보다 (看) + -(으)면 (條件語尾，如果...的話)。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想做...) + -어 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "두 번 세 번 보면 너를 더 안고 싶어",
+      "translation": "看兩次三次的話 就更想擁抱你",
+      "analysis": [
+        { "point": "두 번 세 번", "explanation": "두 (兩) + 번 (次) + 세 (三) + 번 (次)。" },
+        { "point": "안고 싶어", "explanation": "안다 (抱/擁抱) + -고 싶다 (想做...) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "너와 커플링 커플링 손에 끼고서",
+      "translation": "和你戴著情侶戒 手上戴著",
+      "analysis": [
+        { "point": "너와", "explanation": "너 (你) + -와 (和/跟)。" },
+        { "point": "끼고서", "explanation": "끼다 (戴[戒指/手套]) + -고서 (連接語尾，表示動作後保持狀態或連接)。" }
+      ]
+    },
+    {
+      "korean": "함께 이 길을 걷고 싶어 난",
+      "translation": "我想一起走這條路 我",
+      "analysis": [
+        { "point": "걷고 싶어", "explanation": "걷다 (走) + -고 싶다 (想...)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "매일 매일 봐도 난 더 좋아져",
+      "translation": "即使每天每天看 我也更喜歡你",
+      "analysis": [
+        { "point": "봐도", "explanation": "보다 (看) + -아/어도 (讓步連接語尾，即使...也)。" },
+        { "point": "좋아져", "explanation": "좋다 (好) + -아/어지다 (變得...) -> 좋아지다 (變得喜歡/變好) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "두 번 세 번 나의 볼을 꼬집어 봐도",
+      "translation": "即使捏兩次三次我的臉頰試試",
+      "analysis": [
+        { "point": "볼을", "explanation": "볼 (臉頰) + -을 (受格助詞)。" },
+        { "point": "꼬집어 봐도", "explanation": "꼬집다 (捏) + -아/어 보다 (嘗試做...) + -도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "마치 Dreaming Dreaming 꿈을 꾸는 듯",
+      "translation": "就像 Dreaming Dreaming 做夢一樣",
+      "analysis": [
+        { "point": "꿈을 꾸는 듯", "explanation": "꿈을 꾸다 (做夢) + -는 (現在冠詞形) + 듯 (依存名詞，好像/似乎)。" }
+      ]
+    },
+    {
+      "korean": "생각만 해도 난 미소가",
+      "translation": "光是想像 我也會微笑",
+      "analysis": [
+        { "point": "생각만 해도", "explanation": "생각하다 (想/思考) + -만 (只) + -아/어도 (即使)；慣用句「光是...就...」。" },
+        { "point": "미소가", "explanation": "미소 (微笑) + -가 (主格助詞)。後句省略了「지어지다 (浮現/產生)」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Mr. Chu 입술 위에 Chu 달콤하게 Chu",
+      "translation": "Mr. Chu 在嘴唇上 Chu 甜蜜地 Chu",
+      "analysis": [
+        { "point": "입술 위에", "explanation": "입술 (嘴唇) + 위 (上面) + -에 (場所助詞)。" },
+        { "point": "달콤하게", "explanation": "달콤하다 (甜蜜) + -게 (副詞形語尾，...地)。" }
+      ]
+    },
+    {
+      "korean": "온몸에 난 힘이 풀려",
+      "translation": "我全身無力 (直譯：全身力量被解開)",
+      "analysis": [
+        { "point": "온몸에", "explanation": "온 (全部/整個) + 몸 (身體) + -에 (場所助詞)。" },
+        { "point": "힘이 풀려", "explanation": "힘 (力量) + -이 (主格助詞) + 풀리다 (被解開/鬆開，풀다的被動) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 흔들 흔들어 날 흔들어 놔요",
+      "translation": "搖晃我的心 把我動搖",
+      "analysis": [
+        { "point": "맘", "explanation": "마음 (心) 的縮略。" },
+        { "point": "흔들어 놔요", "explanation": "흔들다 (搖晃) + -아/어 놓다 (輔助動詞，表示動作完成後狀態持續) + -아요 (尊敬語尾)。" }
+      ]
+    },
+    {
+      "korean": "I’m falling falling for your love",
+      "translation": "I’m falling falling for your love",
+      "analysis": []
+    },
+    {
+      "korean": "Hey you 입술 위에 Chu Everyday with you",
+      "translation": "Hey you 在嘴唇上 Chu Everyday with you",
+      "analysis": [
+        { "point": "입술 위에", "explanation": "입술 (嘴唇) + 위 (上面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "널 보면 내 눈이 감겨",
+      "translation": "看著你 我的眼睛就會閉上",
+      "analysis": [
+        { "point": "널 보면", "explanation": "너를 (你) + 보다 (看) + -(으)면 (如果...的話)。" },
+        { "point": "눈이 감겨", "explanation": "눈 (眼睛) + 감기다 (被閉上，감다的被動) + -어 (終結語尾)。表示不由自主地閉上眼。" }
+      ]
+    },
+    {
+      "korean": "몰래 살짝 다가와 또 키스해 줄래",
+      "translation": "偷偷地 輕輕地 靠近 再給我一個吻好嗎",
+      "analysis": [
+        { "point": "다가와", "explanation": "다가오다 (靠近/走近) + -아 (連接語尾)。" },
+        { "point": "키스해 줄래", "explanation": "키스하다 (KISS) + -아/어 주다 (為某人做...) + -(으)ㄹ래? (意圖/請求終結語尾，要...嗎？)。" }
+      ]
+    },
+    {
+      "korean": "내 꿈결 같은 넌 나만의 Mr. Chu",
+      "translation": "像我夢境一般的你 專屬我的 Mr. Chu",
+      "analysis": [
+        { "point": "꿈결 같은", "explanation": "꿈결 (夢境/夢寐) + 같다 (像...一樣) + -은 (形容詞修飾形)。" },
+        { "point": "나만의", "explanation": "나 (我) + -만 (只/專屬) + -의 (所有格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "부드러운 감촉 잊을 수 없어",
+      "translation": "溫柔的觸感 無法忘記",
+      "analysis": [
+        { "point": "부드러운", "explanation": "부드럽다 (溫柔/柔軟) + -(으)ㄴ (修飾形，不規則變化 ㅂ -> 우)。" },
+        { "point": "잊을 수 없어", "explanation": "잊다 (忘記) + -(으)ㄹ 수 없다 (無法/不能)。" }
+      ]
+    },
+    {
+      "korean": "화끈거리는 내 얼굴 빨개지는 걸",
+      "translation": "發燙的我的臉 變紅了",
+      "analysis": [
+        { "point": "화끈거리는", "explanation": "화끈거리다 (發燙/火辣) + -는 (現在冠詞形)。" },
+        { "point": "빨개지는 걸", "explanation": "빨개지다 (變紅) + -는 (冠詞形) + 걸 (것을的縮略，強調事實或感嘆)。" }
+      ]
+    },
+    {
+      "korean": "It’s so lovely lovely 사랑스러워",
+      "translation": "It’s so lovely lovely 好可愛",
+      "analysis": [
+        { "point": "사랑스러워", "explanation": "사랑스럽다 (可愛/值得愛) + -어 (終結語尾，ㅂ不規則變化 -> 워)。" }
+      ]
+    },
+    {
+      "korean": "난 네가 자꾸만 좋아져",
+      "translation": "我總是越來越喜歡你",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "자꾸 (總是/頻繁) + -만 (強調助詞)。" },
+        { "point": "좋아져", "explanation": "좋아지다 (變得喜歡) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Mr. Chu 입술 위에 Chu 달콤하게 Chu",
+      "translation": "Mr. Chu 在嘴唇上 Chu 甜蜜地 Chu",
+      "analysis": [
+        { "point": "입술 위에", "explanation": "입술 (嘴唇) + 위 (上面) + -에 (場所助詞)。" },
+        { "point": "달콤하게", "explanation": "달콤하다 (甜蜜) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "온몸에 난 힘이 풀려",
+      "translation": "我全身無力",
+      "analysis": [
+        { "point": "힘이 풀려", "explanation": "힘 (力氣) + 풀리다 (鬆開/被解開) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 흔들 흔들어 날 흔들어 놔요",
+      "translation": "搖晃我的心 把我動搖",
+      "analysis": [
+        { "point": "흔들어 놔요", "explanation": "흔들다 (搖晃) + -아/어 놓다 (輔助動詞，保持狀態)。" }
+      ]
+    },
+    {
+      "korean": "I’m falling falling for your love",
+      "translation": "I’m falling falling for your love",
+      "analysis": []
+    },
+    {
+      "korean": "Hey you 입술 위에 Chu Everyday with you",
+      "translation": "Hey you 在嘴唇上 Chu Everyday with you",
+      "analysis": [
+        { "point": "입술 위에", "explanation": "입술 (嘴唇) + 위 (上面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "널 보면 내 눈이 감겨",
+      "translation": "看著你 我的眼睛就會閉上",
+      "analysis": [
+        { "point": "눈이 감겨", "explanation": "눈 (眼睛) + 감기다 (被閉上) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "몰래 살짝 다가와 또 키스해 줄래",
+      "translation": "偷偷地 輕輕地 靠近 再給我一個吻好嗎",
+      "analysis": [
+        { "point": "다가와", "explanation": "다가오다 (靠近) + -아 (連接語尾)。" },
+        { "point": "키스해 줄래", "explanation": "키스하다 (KISS) + -아/어 주다 (給予) + -(으)ㄹ래 (請求/意願)。" }
+      ]
+    },
+    {
+      "korean": "내 꿈결 같은 넌 나만의",
+      "translation": "像我夢境一般的你 專屬我的",
+      "analysis": [
+        { "point": "꿈결 같은", "explanation": "꿈결 (夢境) + 같다 (像...一樣) + -은 (冠詞形)。" },
+        { "point": "나만의", "explanation": "나 (我) + -만 (只) + -의 (所有格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "내 소원을 들어줘요 영원한 사랑 이뤄 주길",
+      "translation": "請聽聽我的願望 希望能實現永恆的愛",
+      "analysis": [
+        { "point": "들어줘요", "explanation": "들어주다 (聽取/答應請求) + -어요 (尊敬語尾)。" },
+        { "point": "영원한", "explanation": "영원하다 (永遠的) + -ㄴ (修飾形)。" },
+        { "point": "이뤄 주길", "explanation": "이루어 주다 (幫忙實現) + -기 (名詞化) + -를 (受格助詞) 的縮略。結尾省略了「바라요 (希望)」。" }
+      ]
+    },
+    {
+      "korean": "짜릿짜릿한 느낌 절대 맘 변하지 않기",
+      "translation": "酥酥麻麻的感覺 絕對不要變心",
+      "analysis": [
+        { "point": "짜릿짜릿한", "explanation": "짜릿짜릿하다 (酥麻/刺激) + -ㄴ (修飾形)。" },
+        { "point": "변하지 않기", "explanation": "변하다 (改變) + -지 않다 (否定) + -기 (名詞化，此處用於約定或願望列表)。" }
+      ]
+    },
+    {
+      "korean": "평생 나만 바라봐 줘 Baby",
+      "translation": "一輩子只看著我 Baby",
+      "analysis": [
+        { "point": "나만", "explanation": "나 (我) + -만 (只)。" },
+        { "point": "바라봐 줘", "explanation": "바라보다 (注視) + -아/어 주다 (請求/為某人做) + -어 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Mr. Chu 입술 위에 Chu 달콤하게 Chu",
+      "translation": "Mr. Chu 在嘴唇上 Chu 甜蜜地 Chu",
+      "analysis": [
+        { "point": "달콤하게", "explanation": "달콤하다 (甜蜜) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "온몸에 난 힘이 풀려",
+      "translation": "我全身無力",
+      "analysis": [
+        { "point": "힘이 풀려", "explanation": "풀리다 (鬆開/解開) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 흔들 흔들어 날 흔들어 놔요",
+      "translation": "搖晃我的心 把我動搖",
+      "analysis": [
+        { "point": "흔들어 놔요", "explanation": "흔들다 (搖晃) + -아/어 놓다 (輔助動詞)。" }
+      ]
+    },
+    {
+      "korean": "I’m falling falling for your love",
+      "translation": "I’m falling falling for your love",
+      "analysis": []
+    },
+    {
+      "korean": "Hey you 입술 위에 Chu Everyday with you",
+      "translation": "Hey you 在嘴唇上 Chu Everyday with you",
+      "analysis": [
+        { "point": "입술 위에", "explanation": "입술 (嘴唇) + 위 (上面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "널 보면 내 눈이 감겨",
+      "translation": "看著你 我的眼睛就會閉上",
+      "analysis": [
+        { "point": "눈이 감겨", "explanation": "눈 (眼睛) + 감기다 (被閉上) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "몰래 살짝 다가와 또 키스해 줄래",
+      "translation": "偷偷地 輕輕地 靠近 再給我一個吻好嗎",
+      "analysis": [
+        { "point": "다가와", "explanation": "다가오다 (靠近) + -아 (連接語尾)。" },
+        { "point": "키스해 줄래", "explanation": "키스하다 (KISS) + -아/어 주다 (給予) + -(으)ㄹ래 (請求)。" }
+      ]
+    },
+    {
+      "korean": "내 꿈결 같은 넌 나만의 Mr. Chu",
+      "translation": "像我夢境一般的你 專屬我的 Mr. Chu",
+      "analysis": [
+        { "point": "꿈결 같은", "explanation": "꿈결 (夢境) + 같다 (像...一樣) + -은 (修飾形)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "끼다", "chinese": "戴(戒指/手套/眼鏡)", "pos": "動詞" },
+    { "korean": "꼬집다", "chinese": "捏、擰", "pos": "動詞" },
+    { "korean": "풀리다", "chinese": "鬆開、解開", "pos": "動詞" },
+    { "korean": "흔들다", "chinese": "搖晃", "pos": "動詞" },
+    { "korean": "감기다", "chinese": "被纏繞、(眼睛)閉上", "pos": "動詞" },
+    { "korean": "다가오다", "chinese": "靠近、接近", "pos": "動詞" },
+    { "korean": "부드럽다", "chinese": "溫柔的、柔軟的", "pos": "形容詞" },
+    { "korean": "이루다", "chinese": "實現、完成", "pos": "動詞" }
+  ]
+}
