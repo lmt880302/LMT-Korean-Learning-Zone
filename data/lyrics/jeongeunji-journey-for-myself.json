@@ -1,0 +1,256 @@
+{
+  "id": "jeongeunji-journey-for-myself",
+  "title": "Journey For Myself (나에게로 떠나는 여행)",
+  "artist": "Jeong Eun Ji (정은지)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Far away, you're my sunshine, we were together",
+      "translation": "Far away, you're my sunshine, we were together",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "나는 사랑보다 좋은 추억 알게 될 거야",
+      "translation": "我將會明白 比愛情更美好的回憶",
+      "analysis": [
+        { "point": "사랑보다", "explanation": "사랑 (愛情) + -보다 (比較助詞，比...)。" },
+        { "point": "좋은", "explanation": "좋다 (好) + -은 (形容詞修飾形)。" },
+        { "point": "알게 될 거야", "explanation": "알다 (知道) + -게 되다 (變得.../逐漸...) + -(으)ㄹ 거야 (未來式終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "텀블러 한 잔에 널 털어 넘기고",
+      "translation": "在一杯隨行杯裡 將你一口氣喝下",
+      "analysis": [
+        { "point": "한 잔에", "explanation": "한 (一) + 잔 (杯/盞) + -에 (單位/場所助詞)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略形。" },
+        { "point": "털어 넘기고", "explanation": "털다 (抖/甩) + 넘기다 (吞下/翻過) + -고 (連接語尾)。「털어 넘기다」意指豪邁地一口氣喝下。" }
+      ]
+    },
+    {
+      "korean": "이젠 나를 좀 더 사랑할 거야",
+      "translation": "現在我會稍微更愛我自己",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略形。" },
+        { "point": "좀 더", "explanation": "좀 (稍微) + 더 (更)。" },
+        { "point": "사랑할 거야", "explanation": "사랑하다 (愛) + -(으)ㄹ 거야 (未來意志，將會...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저 푸른 바다 끝까지 말을 달리면",
+      "translation": "若策馬奔馳 直到那蔚藍大海的盡頭",
+      "analysis": [
+        { "point": "푸른", "explanation": "푸르다 (蔚藍/青翠) + -ㄴ (形容詞修飾形)。" },
+        { "point": "끝까지", "explanation": "끝 (盡頭/結束) + -까지 (直到...為止)。" },
+        { "point": "말을 달리면", "explanation": "말 (馬) + -을 (受格助詞) + 달리다 (跑/奔馳) + -(으)면 (條件語尾，如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "소금 같은 별이 떠 있고",
+      "translation": "像鹽粒一樣的星星懸掛著",
+      "analysis": [
+        { "point": "소금 같은", "explanation": "소금 (鹽) + 같다 (像...一樣) + -은 (形容詞修飾形)。" },
+        { "point": "떠 있고", "explanation": "뜨다 (升起/浮) + -어 있다 (表示動作完成後的狀態持續) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "사막엔 낙타만이 가는 길",
+      "translation": "沙漠裡只有駱駝行走的如",
+      "analysis": [
+        { "point": "사막엔", "explanation": "사막에는 (在沙漠裡) 的縮略。" },
+        { "point": "낙타만이", "explanation": "낙타 (駱駝) + -만 (只) + -이 (主格助詞)。" },
+        { "point": "가는 길", "explanation": "가다 (走) + -는 (現在冠詞形) + 길 (路)。" }
+      ]
+    },
+    {
+      "korean": "무수한 사랑 길이 되어 열어줄 거야",
+      "translation": "無數的愛將化作道路 為我敞開",
+      "analysis": [
+        { "point": "무수한", "explanation": "무수하다 (無數的) + -ㄴ (修飾形)。" },
+        { "point": "길이 되어", "explanation": "길 (路) + -이 되다 (成為...) + -어 (連接語尾)。" },
+        { "point": "열어줄 거야", "explanation": "열다 (打開) + -아/어 주다 (為某人做...) + -(으)ㄹ 거야 (未來意志)。" }
+      ]
+    },
+    {
+      "korean": "낡은 하모니카 손에 익은 기타",
+      "translation": "陳舊的口琴 熟悉的吉他",
+      "analysis": [
+        { "point": "낡은", "explanation": "낡다 (陳舊/老舊) + -은 (修飾形)。" },
+        { "point": "손에 익은", "explanation": "손 (手) + -에 (助詞) + 익다 (熟悉/熟練) + -은 (修飾形)；慣用語，指用得很順手、習慣的。" }
+      ]
+    },
+    {
+      "korean": "Your melody (나는 떠날래)",
+      "translation": "Your melody (我要離開)",
+      "analysis": [
+        { "point": "떠날래", "explanation": "떠나다 (離開) + -(으)ㄹ래 (意志終結語尾，想要...)。" }
+      ]
+    },
+    {
+      "korean": "어린 왕자 Your melody 찾아 떠날래 (Go go go)",
+      "translation": "小王子 Your melody 我要啟程去尋找 (Go go go)",
+      "analysis": [
+        { "point": "찾아", "explanation": "찾다 (尋找) + -아 (連接語尾，表示目的或方式)。" },
+        { "point": "떠날래", "explanation": "떠나다 (離開/啟程) + -(으)ㄹ래 (意志語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Far away, you're my sunshine, we were together",
+      "translation": "Far away, you're my sunshine, we were together",
+      "analysis": []
+    },
+    {
+      "korean": "나는 사랑보다 좋은 추억 알게 될 거야",
+      "translation": "我將會明白 比愛情更美好的回憶",
+      "analysis": [
+        { "point": "사랑보다", "explanation": "사랑 (愛情) + -보다 (比...)。" },
+        { "point": "알게 될 거야", "explanation": "알다 (知道) + -게 되다 (變得...) + -(으)ㄹ 거야 (未來式)。" }
+      ]
+    },
+    {
+      "korean": "텀블러 한 잔에 널 털어 넘기고",
+      "translation": "在一杯隨行杯裡 將你一口氣喝下",
+      "analysis": [
+        { "point": "털어 넘기고", "explanation": "털다 (抖/甩) + 넘기다 (吞下) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "이젠 나를 좀 더 사랑할 거야",
+      "translation": "現在我會稍微更愛我自己",
+      "analysis": [
+        { "point": "사랑할 거야", "explanation": "사랑하다 (愛) + -(으)ㄹ 거야 (未來意志)。" }
+      ]
+    },
+    {
+      "korean": "저 끓어 넘친 태양은 부글거리고",
+      "translation": "那沸騰溢出的太陽 咕嚕咕嚕地滾動",
+      "analysis": [
+        { "point": "끓어 넘친", "explanation": "끓다 (沸騰) + -어 넘치다 (溢出) + -ㄴ (過去/完成修飾形)。" },
+        { "point": "부글거리고", "explanation": "부글거리다 (液體沸騰聲或樣子，咕嚕咕嚕) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "오랜 꿈은 삐꺽거리고",
+      "translation": "長久的夢想 嘎吱作響",
+      "analysis": [
+        { "point": "오랜", "explanation": "오래다 (長久) + -ㄴ (修飾形)。" },
+        { "point": "삐꺽거리고", "explanation": "삐꺽거리다 (物體摩擦發出的聲音，嘎吱嘎吱) + -고 (連接語尾)。隱喻夢想遭遇困難或不順。" }
+      ]
+    },
+    {
+      "korean": "쿨럭인 자동차를 타고서 꿈의 날개로 구름 속을 산책할 거야",
+      "translation": "坐上咳咳作響的汽車 用夢的翅膀在雲端散步",
+      "analysis": [
+        { "point": "쿨럭인", "explanation": "쿨럭이다 (咳嗽/引擎發出怪聲) + -ㄴ (修飾形)。" },
+        { "point": "타고서", "explanation": "타다 (乘坐) + -고서 (連接語尾，表示動作後保持狀態)。" },
+        { "point": "산책할 거야", "explanation": "산책하다 (散步) + -(으)ㄹ 거야 (未來意志)。" }
+      ]
+    },
+    {
+      "korean": "낡은 하모니카 손에 익은 기타",
+      "translation": "陳舊的口琴 熟悉的吉他",
+      "analysis": [
+        { "point": "낡은", "explanation": "낡다 (陳舊) + -은 (修飾形)。" },
+        { "point": "손에 익은", "explanation": "익다 (熟練/習慣) + -은 (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "Your melody (나는 떠날래)",
+      "translation": "Your melody (我要離開)",
+      "analysis": [
+        { "point": "떠날래", "explanation": "떠나다 (離開) + -(으)ㄹ래 (意志語尾)。" }
+      ]
+    },
+    {
+      "korean": "어린 왕자 Your melody 찾아 떠날래 (Go go go)",
+      "translation": "小王子 Your melody 我要啟程去尋找 (Go go go)",
+      "analysis": [
+        { "point": "찾아", "explanation": "찾다 (尋找) + -아 (連接語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Far away, you're my sunshine, we were together",
+      "translation": "Far away, you're my sunshine, we were together",
+      "analysis": []
+    },
+    {
+      "korean": "나는 사랑보다 좋은 추억 알게 될 거야",
+      "translation": "我將會明白 比愛情更美好的回憶",
+      "analysis": [
+        { "point": "알게 될 거야", "explanation": "알다 (知道) + -게 되다 (變得...) + -(으)ㄹ 거야 (未來意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "For my life (Life) Find my life (Life)",
+      "translation": "For my life (Life) Find my life (Life)",
+      "analysis": []
+    },
+    {
+      "korean": "찾아 누릴 천국에",
+      "translation": "在我將尋得並享受的天堂裡",
+      "analysis": [
+        { "point": "찾아", "explanation": "찾다 (尋找) + -아 (連接語尾)。" },
+        { "point": "누릴", "explanation": "누리다 (享受) + -(으)ㄹ (未來修飾形)。" },
+        { "point": "천국에", "explanation": "천국 (天堂) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "지지 않을 너를 안게 될 거야",
+      "translation": "我將擁抱那不會落下(西沉)的你",
+      "analysis": [
+        { "point": "지지 않을", "explanation": "지다 (落下/西沉，指太陽) + -지 않다 (否定) + -(으)ㄹ (未來修飾形)。呼應前面的 Sunshine。" },
+        { "point": "안게 될 거야", "explanation": "안다 (擁抱) + -게 되다 (變得.../將會...) + -(으)ㄹ 거야 (未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Far away, you're my sunshine, we were together",
+      "translation": "Far away, you're my sunshine, we were together",
+      "analysis": []
+    },
+    {
+      "korean": "나는 사랑보다 좋은 추억 알게 될 거야",
+      "translation": "我將會明白 比愛情更美好的回憶",
+      "analysis": [
+        { "point": "알게 될 거야", "explanation": "알다 (知道) + -게 되다 (變得...) + -(으)ㄹ 거야 (未來意志)。" }
+      ]
+    },
+    {
+      "korean": "For my life (Life) Find my life (Life)",
+      "translation": "For my life (Life) Find my life (Life)",
+      "analysis": []
+    },
+    {
+      "korean": "찾아 누릴 천국에",
+      "translation": "在我將尋得並享受的天堂裡",
+      "analysis": [
+        { "point": "누릴", "explanation": "누리다 (享受) + -(으)ㄹ (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "지지 않을 너를 안게 될 거야",
+      "translation": "我將擁抱那不會落下的你",
+      "analysis": [
+        { "point": "지지 않을", "explanation": "지다 (落下) + -지 않다 (否定) + -(으)ㄹ (修飾形)。" },
+        { "point": "안게 될 거야", "explanation": "안다 (擁抱) + -게 되다 (將會...) + -(으)ㄹ 거야 (未來式)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "털다", "chinese": "抖落、甩掉", "pos": "動詞" },
+    { "korean": "넘기다", "chinese": "吞下、翻過", "pos": "動詞" },
+    { "korean": "달리다", "chinese": "奔跑、奔馳", "pos": "動詞" },
+    { "korean": "뜨다", "chinese": "升起、浮", "pos": "動詞" },
+    { "korean": "무수하다", "chinese": "無數的", "pos": "形容詞" },
+    { "korean": "낡다", "chinese": "陳舊、老舊", "pos": "形容詞" },
+    { "korean": "익다", "chinese": "熟練、成熟", "pos": "動詞" },
+    { "korean": "끓다", "chinese": "沸騰", "pos": "動詞" },
+    { "korean": "누리다", "chinese": "享受", "pos": "動詞" }
+  ]
+}

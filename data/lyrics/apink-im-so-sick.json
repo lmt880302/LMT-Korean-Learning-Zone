@@ -1,0 +1,275 @@
+{
+  "id": "apink-im-so-sick",
+  "title": "I'm So Sick (1도 없어)",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "I'm so sick of lying You gotta know that",
+      "translation": "I'm so sick of lying You gotta know that",
+      "analysis": []
+    },
+    {
+      "korean": "잘 지내 잘 지내 잘 지내 Day day",
+      "translation": "過得很好 過得很好 過得很好 Day day",
+      "analysis": [
+        { "point": "잘 지내", "explanation": "잘 (好地) + 지내 (過日子/生活)；這裡是半語形式。" }
+      ]
+    },
+    {
+      "korean": "Now I'm feeling",
+      "translation": "Now I'm feeling",
+      "analysis": []
+    },
+    {
+      "korean": "일부러 일부러 일부러 Baby",
+      "translation": "故意的 故意的 故意的 Baby",
+      "analysis": [
+        { "point": "일부러", "explanation": "일부러 (副詞，故意地/特意地)。" }
+      ]
+    },
+    {
+      "korean": "I'm a liar",
+      "translation": "I'm a liar",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "사실 보고 싶단 말에 조금 흔들려",
+      "translation": "其實對於想念我這句話 稍微動搖了",
+      "analysis": [
+        { "point": "보고 싶단", "explanation": "보고 싶다는 (說想念/想看) 的縮略形。보고 싶다 (想念) + -다는 (間接引用修飾形)。" },
+        { "point": "말에", "explanation": "말 (話) + -에 (原因/對象助詞)。" },
+        { "point": "흔들려", "explanation": "흔들리다 (動搖/被搖晃) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "예전처럼 네게 안겨서 꼭 갇히고 싶어",
+      "translation": "想像以前一樣被你抱著 緊緊被困住",
+      "analysis": [
+        { "point": "예전처럼", "explanation": "예전 (以前/往日) + -처럼 (像...一樣)。" },
+        { "point": "안겨서", "explanation": "안기다 (被抱) + -어서 (連接語尾)。" },
+        { "point": "갇히고 싶어", "explanation": "갇히다 (被關/被困) + -고 싶다 (想...) + -어 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "아닌 척을 해 목소리가 떨려도 Woo",
+      "translation": "裝作不是那樣 即使聲音在顫抖 Woo",
+      "analysis": [
+        { "point": "아닌 척을 해", "explanation": "아니다 (不是) + -(으)ㄴ 척하다 (裝作...的樣子) + -어 (終結語尾)。" },
+        { "point": "떨려도", "explanation": "떨리다 (顫抖) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "1도 없어 예전의 느낌",
+      "translation": "一點也沒有 以前的感覺",
+      "analysis": [
+        { "point": "1도", "explanation": "讀作 일도。일 (一) + -도 (連...也)。1도 없다 是流行語，強調「真的一點也沒有」。" },
+        { "point": "없어", "explanation": "없다 (沒有) + -어 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "그때의 감정이 단 1도 없어",
+      "translation": "那時的感情 真的一點也沒有",
+      "analysis": [
+        { "point": "그때의", "explanation": "그때 (那時) + -의 (所有格助詞)。" },
+        { "point": "단", "explanation": "단 (副詞，單單/只)。" }
+      ]
+    },
+    {
+      "korean": "매일 밤 전화해 맨정신도 아닌데",
+      "translation": "每晚都打電話來 明明也不是清醒的狀態",
+      "analysis": [
+        { "point": "맨정신", "explanation": "맨 (純粹/沒有別的) + 정신 (精神)；指未喝酒、清醒的狀態。" },
+        { "point": "아닌데", "explanation": "아니다 (不是) + -(으)ㄴ데 (表示背景/轉折)。" }
+      ]
+    },
+    {
+      "korean": "1도 없는 진심 So baby bye bye bye",
+      "translation": "一點也沒有的真心 So baby bye bye bye",
+      "analysis": [
+        { "point": "없는", "explanation": "없다 (沒有) + -는 (形容詞修飾形)。" },
+        { "point": "진심", "explanation": "진심 (真心)。" }
+      ]
+    },
+    {
+      "korean": "Bye bye bye",
+      "translation": "Bye bye bye",
+      "analysis": []
+    },
+    {
+      "korean": "1도 없는 진심 So baby bye bye bye",
+      "translation": "一點也沒有的真心 So baby bye bye bye",
+      "analysis": [
+        { "point": "없는", "explanation": "없다 (沒有) + -는 (修飾形)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "달콤해 달콤해 달콤해 Day day",
+      "translation": "很甜蜜 很甜蜜 很甜蜜 Day day",
+      "analysis": [
+        { "point": "달콤해", "explanation": "달콤하다 (甜蜜) + -해 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "Now I'm feeling",
+      "translation": "Now I'm feeling",
+      "analysis": []
+    },
+    {
+      "korean": "힘들어 힘들어 힘들어 Baby",
+      "translation": "很累 很累 很累 Baby",
+      "analysis": [
+        { "point": "힘들어", "explanation": "힘들다 (辛苦/累) + -어 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "I'm a liar",
+      "translation": "I'm a liar",
+      "analysis": []
+    },
+    {
+      "korean": "Do you love me?",
+      "translation": "Do you love me?",
+      "analysis": []
+    },
+    {
+      "korean": "사실 사랑한단 말이 조금 헷갈려",
+      "translation": "其實對於說愛我這句話 稍微感到混淆",
+      "analysis": [
+        { "point": "사랑한단", "explanation": "사랑한다는 (說愛...) 的縮略形。" },
+        { "point": "헷갈려", "explanation": "헷갈리다 (混淆/搞混) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "자꾸 흔들리는 내 모습이 너무 미워져",
+      "translation": "總是動搖的我的樣子 變得好討厭",
+      "analysis": [
+        { "point": "자꾸", "explanation": "자꾸 (副詞，總是/屢次)。" },
+        { "point": "미워져", "explanation": "밉다 (討厭) + -어지다 (變得...) -> 미워지다 + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "들키지 않게 뻔한 거짓말을 해 Woo",
+      "translation": "為了不被發現 說著明顯的謊言 Woo",
+      "analysis": [
+        { "point": "들키지 않게", "explanation": "들키다 (被發現/被拆穿) + -지 않게 (為了不.../否定副詞形)。" },
+        { "point": "뻔한", "explanation": "뻔하다 (明顯的/顯而易見的) + -ㄴ (修飾形)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "1도 없어 예전의 느낌",
+      "translation": "一點也沒有 以前的感覺",
+      "analysis": [
+        { "point": "1도", "explanation": "讀作 일도。" },
+        { "point": "없어", "explanation": "없다 (沒有) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "그때의 감정이 단 1도 없어",
+      "translation": "那時的感情 真的一點也沒有",
+      "analysis": [
+        { "point": "그때의", "explanation": "그때 (那時) + -의 (所有格)。" }
+      ]
+    },
+    {
+      "korean": "매일 밤 전화해 맨정신도 아닌데",
+      "translation": "每晚都打電話來 明明也不是清醒的狀態",
+      "analysis": [
+        { "point": "맨정신", "explanation": "맨 (沒有別的) + 정신 (精神) -> 清醒狀態。" }
+      ]
+    },
+    {
+      "korean": "1도 없는 진심 So baby bye bye bye",
+      "translation": "一點也沒有的真心 So baby bye bye bye",
+      "analysis": [
+        { "point": "없는", "explanation": "없다 (沒有) + -는 (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "Bye bye bye",
+      "translation": "Bye bye bye",
+      "analysis": []
+    },
+    {
+      "korean": "1도 없는 진심 So baby bye bye bye",
+      "translation": "一點也沒有的真心 So baby bye bye bye",
+      "analysis": [
+        { "point": "진심", "explanation": "진심 (真心)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "솔직히 매일 너의 목소리 기다리고 있어",
+      "translation": "說實話 每天都在等待你的聲音",
+      "analysis": [
+        { "point": "솔직히", "explanation": "솔직히 (坦白地/說實話)。" },
+        { "point": "기다리고 있어", "explanation": "기다리다 (等待) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "처음처럼 맘을 훔쳐줘 너무 늦기 전에",
+      "translation": "像最初一樣 偷走我的心吧 在太遲之前",
+      "analysis": [
+        { "point": "훔쳐줘", "explanation": "훔치다 (偷) + -아/어 주다 (為某人做) + -어 (命令/請求)。" },
+        { "point": "늦기 전에", "explanation": "늦다 (遲/晚) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "1도 없어 예전의 느낌",
+      "translation": "一點也沒有 以前的感覺",
+      "analysis": [
+        { "point": "1도 없어", "explanation": "一點也沒有 (流行語)。" }
+      ]
+    },
+    {
+      "korean": "그때의 감정이 단 1도 없어",
+      "translation": "那時的感情 真的一點也沒有",
+      "analysis": [
+        { "point": "단", "explanation": "단 (僅/只)。" }
+      ]
+    },
+    {
+      "korean": "매일 밤 전화해 맨정신도 아닌데",
+      "translation": "每晚都打電話來 明明也不是清醒的狀態",
+      "analysis": [
+        { "point": "맨정신", "explanation": "清醒的狀態。" }
+      ]
+    },
+    {
+      "korean": "1도 없는 진심 So baby bye bye bye",
+      "translation": "一點也沒有的真心 So baby bye bye bye",
+      "analysis": [
+        { "point": "없는", "explanation": "없다 (沒有) + -는 (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "Bye bye bye",
+      "translation": "Bye bye bye",
+      "analysis": []
+    },
+    {
+      "korean": "1도 없는 진심 So baby bye bye bye",
+      "translation": "一點也沒有的真心 So baby bye bye bye",
+      "analysis": [
+        { "point": "진심", "explanation": "진심 (真心)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "지내다", "chinese": "過日子、生活", "pos": "動詞" },
+    { "korean": "일부러", "chinese": "故意地、特意地", "pos": "副詞" },
+    { "korean": "흔들리다", "chinese": "動搖、搖晃", "pos": "動詞" },
+    { "korean": "안기다", "chinese": "被抱", "pos": "動詞" },
+    { "korean": "갇히다", "chinese": "被關、被困", "pos": "動詞" },
+    { "korean": "맨정신", "chinese": "清醒的精神(未醉)", "pos": "名詞" },
+    { "korean": "헷갈리다", "chinese": "混淆、搞混", "pos": "動詞" },
+    { "korean": "밉다", "chinese": "討厭、可恨", "pos": "形容詞" },
+    { "korean": "들키다", "chinese": "被發現、被拆穿", "pos": "動詞" },
+    { "korean": "훔치다", "chinese": "偷竊", "pos": "動詞" }
+  ]
+}

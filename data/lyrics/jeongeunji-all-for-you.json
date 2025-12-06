@@ -1,0 +1,334 @@
+{
+  "id": "jeongeunji-all-for-you",
+  "title": "All For You",
+  "artist": "Jeong Eun Ji (정은지) & Seo In Guk (서인국)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "All for you",
+      "translation": "All for you",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "벌써 며칠째 전화도 없는 너",
+      "translation": "已經好幾天沒有來電話的你",
+      "analysis": [
+        { "point": "며칠째", "explanation": "며칠 (幾天) + -째 (接尾辭，表示期間或次序)。" },
+        { "point": "없는", "explanation": "없다 (沒有) + -는 (現在冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "얼마 후면 나의 생일이란 걸 아는지",
+      "translation": "不知道你是否知道過不久就是我的生日",
+      "analysis": [
+        { "point": "얼마 후면", "explanation": "얼마 (多少/些許) + 후 (後) + -(이)면 (如果/到了...的時候)。" },
+        { "point": "생일이란 걸", "explanation": "생일 (生日) + -(이)란 (所謂/叫做...的) + 걸 (것을的縮略)；指「是生日這件事」。" },
+        { "point": "아는지", "explanation": "알다 (知道) + -는지 (疑問/推測終結語尾，是否...)。" }
+      ]
+    },
+    {
+      "korean": "눈치도 없이 시간은 자꾸만 흘러가고",
+      "translation": "時間真是不識相地總是流逝",
+      "analysis": [
+        { "point": "눈치도 없이", "explanation": "눈치 (眼力/眼色) + -도 (連...也) + 없이 (沒有)；慣用語，指「白目、不識相、沒眼力」。" },
+        { "point": "자꾸만", "explanation": "자꾸 (總是/頻繁) + -만 (強調助詞)。" },
+        { "point": "흘러가고", "explanation": "흘러가다 (流逝/流走) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "난 미움보다 걱정스런 맘에",
+      "translation": "比起討厭 我更懷著擔心的心情",
+      "analysis": [
+        { "point": "미움보다", "explanation": "미움 (討厭/憎恨，밉다的名詞形) + -보다 (比較助詞，比...)。" },
+        { "point": "걱정스런", "explanation": "걱정스럽다 (令人擔心的) + -ㄴ (修飾形，ㅂ不規則變化)。" },
+        { "point": "맘에", "explanation": "맘 (心意，마음的縮略) + -에 (因為.../原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "무작정 찾아간 너의 골목 어귀에서",
+      "translation": "在沒有計畫就找去的你的巷口",
+      "analysis": [
+        { "point": "무작정", "explanation": "무작정 (無計畫地/盲目地)。" },
+        { "point": "찾아간", "explanation": "찾아가다 (找去/拜訪) + -ㄴ (過去冠詞形)。" },
+        { "point": "골목 어귀", "explanation": "골목 (巷子) + 어귀 (入口/路口)。" }
+      ]
+    },
+    {
+      "korean": "생각지 못한 웃으며 반기는 너를 봤어",
+      "translation": "看見了意想不到地 笑著歡迎我的你",
+      "analysis": [
+        { "point": "생각지 못한", "explanation": "생각하다 (想) + -지 못하다 (無法/沒能) + -ㄴ (修飾形)；意指「意想不到的」。" },
+        { "point": "반기는", "explanation": "반기다 (高興地迎接/歡迎) + -는 (冠詞形)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "사실은 말야 나 많이 고민했어",
+      "translation": "其實啊 我煩惱了很久",
+      "analysis": [
+        { "point": "말야", "explanation": "말이야 (是說.../話說...) 的縮略，用於引起注意或強調。" },
+        { "point": "고민했어", "explanation": "고민하다 (煩惱) + -았/었어 (過去式半語)。" }
+      ]
+    },
+    {
+      "korean": "네게 아무것도 해 줄 수 없는걸",
+      "translation": "因為我什麼都無法為你做",
+      "analysis": [
+        { "point": "네게", "explanation": "너에게 (對你) 的縮略。" },
+        { "point": "해 줄 수 없는걸", "explanation": "하다 (做) + -아/어 주다 (給予) + -(으)ㄹ 수 없다 (無法) + -는걸 (感嘆/遺憾語尾)。" }
+      ]
+    },
+    {
+      "korean": "아주 많이 모자라도 가진 것 없어도",
+      "translation": "雖然我很不足 雖然一無所有",
+      "analysis": [
+        { "point": "모자라도", "explanation": "모자라다 (不足/缺乏) + -아/어도 (即使...也)。" },
+        { "point": "가진 것", "explanation": "가지다 (擁有) + -ㄴ (修飾形) + 것 (東西)。" },
+        { "point": "없어도", "explanation": "없다 (沒有) + -어/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "이런 나라도 받아 줄래",
+      "translation": "這樣的我也願意接受嗎",
+      "analysis": [
+        { "point": "나라도", "explanation": "나 (我) + -(이)라도 (就算是...也)。" },
+        { "point": "받아 줄래", "explanation": "받다 (接受) + -아/어 주다 (為某人做) + -(으)ㄹ래 (願意...嗎/請求)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 위해서 너만을 위해서",
+      "translation": "為了你 只為了你",
+      "analysis": [
+        { "point": "위해서", "explanation": "위하다 (為了) + -어서 (連接語尾)；常省略為 위해。" },
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "난 세상 모든 걸 다 안겨 주지는 못하지만",
+      "translation": "雖然我無法將世上的一切都給你 (抱給你)",
+      "analysis": [
+        { "point": "안겨 주지는", "explanation": "안기다 (使...抱/給予擁抱) + -어 주다 (給予) + -지 (強調否定) + -는 (強調助詞)。直譯是「讓懷裡抱滿東西」，引申為給予很多東西。" },
+        { "point": "못하지만", "explanation": "못하다 (不能/無法) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "난 너에게만 이제 약속할게",
+      "translation": "我現在只對你承諾",
+      "analysis": [
+        { "point": "약속할게", "explanation": "약속하다 (約定/承諾) + -(으)ㄹ게 (意志/承諾終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "오직 너를 위한 내가 될게",
+      "translation": "我會成為只為了你的我",
+      "analysis": [
+        { "point": "위한", "explanation": "위하다 (為了) + -ㄴ (修飾形)。" },
+        { "point": "될게", "explanation": "되다 (成為) + -(으)ㄹ게 (意志/承諾)。" }
+      ]
+    },
+    {
+      "korean": "Is only for you Just wanna be for you",
+      "translation": "Is only for you Just wanna be for you",
+      "analysis": []
+    },
+    {
+      "korean": "넌 그렇게 지금 모습 그대로 내 곁에 있으면 돼",
+      "translation": "你只要像那樣 照現在的樣子 待在我身邊就好",
+      "analysis": [
+        { "point": "모습 그대로", "explanation": "모습 (樣子) + 그대로 (原樣/照舊)。" },
+        { "point": "곁에", "explanation": "곁 (身邊/旁邊) + -에 (場所助詞)。" },
+        { "point": "있으면 돼", "explanation": "있다 (在) + -(으)면 되다 (只要...就行/就可以)。" }
+      ]
+    },
+    {
+      "korean": "난 다시 태어나도 영원히 너만 바라볼게",
+      "translation": "我即使再次重生 也會永遠只注視著你",
+      "analysis": [
+        { "point": "태어나도", "explanation": "태어나다 (出生) + -아/어도 (即使...也)。" },
+        { "point": "바라볼게", "explanation": "바라보다 (注視/看著) + -(으)ㄹ게 (意志/承諾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "넌 모르지만 조금은 힘들었어",
+      "translation": "雖然你不知道 但我稍微覺得累過",
+      "analysis": [
+        { "point": "모르지만", "explanation": "모르다 (不知道) + -지만 (但是)。" },
+        { "point": "힘들었어", "explanation": "힘들다 (累/辛苦) + -었어 (過去式)。" }
+      ]
+    },
+    {
+      "korean": "네게 어울리는 사람이 나인지",
+      "translation": "和你相配的人是否是我",
+      "analysis": [
+        { "point": "어울리는", "explanation": "어울리다 (相配/適合) + -는 (冠詞形)。" },
+        { "point": "나인지", "explanation": "나 (我) + -인지 (是...是否/是不是)。" }
+      ]
+    },
+    {
+      "korean": "그건 내가 아니라도 다른 누구라도",
+      "translation": "那即使不是我 即使是其他任何人",
+      "analysis": [
+        { "point": "그건", "explanation": "그것은 (那個) 的縮略。" },
+        { "point": "아니라도", "explanation": "아니다 (不是) + -(이)라도 (即使...也)。" },
+        { "point": "누구라도", "explanation": "누구 (誰) + -(이)라도 (無論是...也)。" }
+      ]
+    },
+    {
+      "korean": "이젠 그런 마음 버릴래",
+      "translation": "現在我要拋棄那種心態",
+      "analysis": [
+        { "point": "버릴래", "explanation": "버리다 (拋棄/丟掉) + -(으)ㄹ래 (意志語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 위해서 너만을 위해서",
+      "translation": "為了你 只為了你",
+      "analysis": [
+        { "point": "위해서", "explanation": "위하다 (為了) + -어서 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "난 세상 모든 걸 다 안겨 주지는 못하지만",
+      "translation": "雖然我無法將世上的一切都給你",
+      "analysis": [
+        { "point": "모든 걸", "explanation": "모든 (所有的) + 것을 (東西-受格) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "난 너에게만 이제 약속할게",
+      "translation": "我現在只對你承諾",
+      "analysis": [
+        { "point": "약속할게", "explanation": "약속하다 (約定) + -(으)ㄹ게 (承諾)。" }
+      ]
+    },
+    {
+      "korean": "오직 너를 위한 내가 될게",
+      "translation": "我會成為只為了你的我",
+      "analysis": [
+        { "point": "될게", "explanation": "되다 (成為) + -(으)ㄹ게 (承諾)。" }
+      ]
+    },
+    {
+      "korean": "Is only for you Just wanna be for you",
+      "translation": "Is only for you Just wanna be for you",
+      "analysis": []
+    },
+    {
+      "korean": "넌 그렇게 지금 모습 그대로 내 곁에 있으면 돼",
+      "translation": "你只要像那樣 照現在的樣子 待在我身邊就好",
+      "analysis": [
+        { "point": "있으면 돼", "explanation": "있다 (在) + -(으)면 되다 (只要...就行)。" }
+      ]
+    },
+    {
+      "korean": "난 다시 태어나도 영원히 너만 바라볼게",
+      "translation": "我即使再次重生 也會永遠只注視著你",
+      "analysis": [
+        { "point": "바라볼게", "explanation": "바라보다 (注視) + -(으)ㄹ게 (承諾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Love 내 작은 맘속을",
+      "translation": "Love 我的小小內心裡",
+      "analysis": [
+        { "point": "맘속을", "explanation": "마음 (心) + 속 (裡面) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "Oh love 네 향기로 채울래",
+      "translation": "Oh love 我要用你的香氣填滿",
+      "analysis": [
+        { "point": "향기로", "explanation": "향기 (香氣) + -로 (工具助詞，用...)。" },
+        { "point": "채울래", "explanation": "채우다 (填滿) + -(으)ㄹ래 (意志語尾)。" }
+      ]
+    },
+    {
+      "korean": "그 속에 영원히 갇혀 버린대도",
+      "translation": "即使永遠被困在其中",
+      "analysis": [
+        { "point": "그 속에", "explanation": "그 (那) + 속 (裡面) + -에 (場所)。" },
+        { "point": "갇혀 버린대도", "explanation": "갇히다 (被關) + -아/어 버리다 (完全...) + -ㄴ대도 (-(느)ㄴ다고 해도的縮略，即使說...也/就算...也)。" }
+      ]
+    },
+    {
+      "korean": "난 행복할 수 있도록",
+      "translation": "讓我能夠幸福",
+      "analysis": [
+        { "point": "행복할 수 있도록", "explanation": "행복하다 (幸福) + -(으)ㄹ 수 있다 (能夠) + -도록 (為了/使得.../讓...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 위해서",
+      "translation": "為了你",
+      "analysis": [
+        { "point": "위해서", "explanation": "위하다 (為了) + -어서。" }
+      ]
+    },
+    {
+      "korean": "너를 위해서 너만을 위해서",
+      "translation": "為了你 只為了你",
+      "analysis": [
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "난 세상 모든 걸 다 안겨 주지는 못하지만",
+      "translation": "雖然我無法將世上的一切都給你",
+      "analysis": [
+        { "point": "안겨 주지는", "explanation": "안기다 (給予擁抱/使抱著) + -어 주다 (給予)。" }
+      ]
+    },
+    {
+      "korean": "난 너에게만 이제 약속할게",
+      "translation": "我現在只對你承諾",
+      "analysis": [
+        { "point": "약속할게", "explanation": "약속하다 (約定) + -(으)ㄹ게 (承諾)。" }
+      ]
+    },
+    {
+      "korean": "오직 너를 위한 내가 될게",
+      "translation": "我會成為只為了你的我",
+      "analysis": [
+        { "point": "위한", "explanation": "위하다 (為了) + -ㄴ (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "Is only for you Just wanna be for you",
+      "translation": "Is only for you Just wanna be for you",
+      "analysis": []
+    },
+    {
+      "korean": "넌 그렇게 지금 모습 그대로 내 곁에 있으면 돼",
+      "translation": "你只要像那樣 照現在的樣子 待在我身邊就好",
+      "analysis": [
+        { "point": "모습 그대로", "explanation": "모습 (樣子) + 그대로 (原樣)。" }
+      ]
+    },
+    {
+      "korean": "난 다시 태어나도 영원히 너만 바라볼게",
+      "translation": "我即使再次重生 也會永遠只注視著你",
+      "analysis": [
+        { "point": "바라볼게", "explanation": "바라보다 (注視) + -(으)ㄹ게 (承諾)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈치", "chinese": "眼力、眼色", "pos": "名詞" },
+    { "korean": "미움", "chinese": "討厭、憎恨", "pos": "名詞" },
+    { "korean": "무작정", "chinese": "盲目地、無計畫地", "pos": "副詞" },
+    { "korean": "어귀", "chinese": "入口、路口", "pos": "名詞" },
+    { "korean": "반기다", "chinese": "欣喜地迎接", "pos": "動詞" },
+    { "korean": "모자라다", "chinese": "不足、缺乏", "pos": "動詞" },
+    { "korean": "안기다", "chinese": "被抱、使...抱、交給", "pos": "動詞" },
+    { "korean": "바라보다", "chinese": "注視、凝望", "pos": "動詞" },
+    { "korean": "어울리다", "chinese": "相配、適合", "pos": "動詞" },
+    { "korean": "채우다", "chinese": "填滿、充滿", "pos": "動詞" }
+  ]
+}

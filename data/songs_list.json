@@ -6,6 +6,39 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
+    "id": "jeongeunji-seoinguk-couple",
+    "title": "Couple",
+    "artist": "Jeong Eun Ji (정은지) & Seo In Guk (서인국)",
+    "lyricsFile": "../data/lyrics/jeongeunji-seoinguk-couple.json"
+  },
+  {
+    "id": "jeongeunji-all-for-you",
+    "title": "All For You",
+    "artist": "Jeong Eun Ji (정은지) & Seo In Guk (서인국)",  
+    "lyricsFile": "../data/lyrics/jeongeunji-all-for-you.json"
+  },  
+
+  {
+    "id": "jeongeunji-journey-for-myself",
+    "title": "Journey For Myself (나에게로 떠나는 여행)",
+    "artist": "Jeong Eun Ji (정은지)",
+    "lyricsFile": "../data/lyrics/jeongeunji-journey-for-myself.json"
+  },  
+
+  {
+    "id": "apink-im-so-sick",
+    "title": "I'm So Sick (1도 없어)",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-im-so-sick.json"
+  },
+  {
+    "id": "apink-the-wave",
+    "title": "The Wave (네가 손짓해주면)",
+   "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-the-wave.json"
+  },  
+    
+  {
     "id": "apink-mr-chu",
     "title": "Mr. Chu",
     "artist": "Apink (에이핑크)",

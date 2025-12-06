@@ -1,0 +1,162 @@
+{
+  "id": "jeongeunji-seoinguk-couple",
+  "title": "Couple",
+  "artist": "Jeong Eun Ji (정은지) & Seo In Guk (서인국)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "예전보다 지금 네가 더욱 괜찮을 거야",
+      "translation": "比起以前 現在的你將會更好",
+      "analysis": [
+        { "point": "예전보다", "explanation": "예전 (以前) + -보다 (比較助詞，比...)。" },
+        { "point": "괜찮을 거야", "explanation": "괜찮다 (不錯/沒關係) + -(으)ㄹ 거야 (未來推測，將會...)。" }
+      ]
+    },
+    {
+      "korean": "허전했던 나의 빈 곳을 이젠 채워줬으니",
+      "translation": "曾經空虛的我的空位 現在已經填滿了",
+      "analysis": [
+        { "point": "허전했던", "explanation": "허전하다 (空虛/寂寞) + -였 (過去式) + -던 (回想過去的修飾語尾)。" },
+        { "point": "빈 곳을", "explanation": "비다 (空) + -ㄴ (修飾形) + 곳 (地方) + -을 (受格助詞)。" },
+        { "point": "채워줬으니", "explanation": "채우다 (填滿) + -어 주다 (給予/為某人做) + -었 (過去式) + -(으)니 (因為.../既然...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "아름다운 세상에서 많이 외로워하며",
+      "translation": "在美麗的世界裡 曾經感到非常孤單",
+      "analysis": [
+        { "point": "아름다운", "explanation": "아름답다 (美麗) + -은 (形容詞修飾形，ㅂ不規則變化)。" },
+        { "point": "외로워하며", "explanation": "외로워하다 (感到孤單，動詞) + -(으)며 (連接語尾，一邊...一邊.../表示狀態並列)。" }
+      ]
+    },
+    {
+      "korean": "내 반쪽을 찾아 헤맨 건 모두 옛날 얘긴 걸",
+      "translation": "尋找我的另一半而徘徊 那些都是往事了",
+      "analysis": [
+        { "point": "헤맨 건", "explanation": "헤매다 (徘徊/徬徨) + -ㄴ (過去修飾形) + 건 (것은的縮略)。" },
+        { "point": "옛날 얘긴 걸", "explanation": "옛날 (從前/往日) + 얘기 (故事/事情) + -(이)ㄴ 걸 (是...啊/感嘆語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "내 생에 이 시간만을 얼마나 기다렸는지",
+      "translation": "我的一生中 等待這個時刻多久了",
+      "analysis": [
+        { "point": "생에", "explanation": "생 (生/一生) + -에 (時間助詞)。" },
+        { "point": "기다렸는지", "explanation": "기다리다 (等待) + -었 (過去式) + -는지 (疑問/感嘆語尾，表示不確定程度或強調)。" }
+      ]
+    },
+    {
+      "korean": "마치 꿈만 같은 걸",
+      "translation": "就像做夢一樣",
+      "analysis": [
+        { "point": "꿈만 같은 걸", "explanation": "꿈 (夢) + -만 (只/光是) + 같다 (像...一樣) + -은 걸 (感嘆語尾)。直譯為「只像夢一樣」。" }
+      ]
+    },
+    {
+      "korean": "이젠 나 혼자가 아닌 너와 함께하는 거야",
+      "translation": "現在不再是我獨自一人 而是和你在一起",
+      "analysis": [
+        { "point": "아닌", "explanation": "아니다 (不是) + -ㄴ (修飾形)。" },
+        { "point": "함께하는 거야", "explanation": "함께하다 (在一起/共度) + -는 (現在冠詞形) + 거야 (是...的)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Oh LOVE (Oh LOVE) 왜 이제서야 (이제서야)",
+      "translation": "Oh LOVE (Oh LOVE) 為什麼現在才 (現在才)",
+      "analysis": [
+        { "point": "이제서야", "explanation": "이제 (現在) + -서야 (強調助詞，到了...才...)。意指「怎麼拖到現在才...」。" }
+      ]
+    },
+    {
+      "korean": "많이 외롭던 나를 찾아온 거야",
+      "translation": "找到了曾經非常孤單的我",
+      "analysis": [
+        { "point": "외롭던", "explanation": "외롭다 (孤單) + -던 (回想過去的修飾語尾)。" },
+        { "point": "찾아온 거야", "explanation": "찾아오다 (找來/拜訪) + -ㄴ (過去冠詞形) + 거야 (是...的)。" }
+      ]
+    },
+    {
+      "korean": "Oh LOVE (Oh LOVE) 너를 사랑해 (널 사랑해)",
+      "translation": "Oh LOVE (Oh LOVE) 我愛你 (我愛你)",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略形。" }
+      ]
+    },
+    {
+      "korean": "이제 모든 시간들을 나와 함께해",
+      "translation": "現在所有的時間都和我一起度過吧",
+      "analysis": [
+        { "point": "함께해", "explanation": "함께하다 (在一起) + -아/어 (半語命令/勸誘語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "과거 따윈 모두 잊고 나와 함께 할",
+      "translation": "忘掉過去那些 和我一起",
+      "analysis": [
+        { "point": "과거 따윈", "explanation": "과거 (過去) + 따위 (之類的東西，帶有輕視或不重要的語氣) + -는 (主題助詞) 的縮略。" },
+        { "point": "함께 할", "explanation": "함께하다 (在一起) + -(으)ㄹ (未來修飾形)。" }
+      ]
+    },
+    {
+      "korean": "많은 시간을 추억으로 만들어",
+      "translation": "將許多的時間變成回憶吧",
+      "analysis": [
+        { "point": "추억으로", "explanation": "추억 (回憶) + -으로 (變化方向助詞，成為...)。" },
+        { "point": "만들어", "explanation": "만들다 (製造/創造) + -어 (半語命令/勸誘)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Oh LOVE 왜 이제서야",
+      "translation": "Oh LOVE 為什麼現在才",
+      "analysis": [
+        { "point": "이제서야", "explanation": "이제 (現在) + -서야 (到了...才)。" }
+      ]
+    },
+    {
+      "korean": "Oh LOVE 왜 이제서야 (이제서야)",
+      "translation": "Oh LOVE 為什麼現在才 (現在才)",
+      "analysis": [
+        { "point": "이제서야", "explanation": "強調「直到現在才...」。" }
+      ]
+    },
+    {
+      "korean": "많이 외롭던 나를 찾아온 거야",
+      "translation": "找到了曾經非常孤單的我",
+      "analysis": [
+        { "point": "외롭던", "explanation": "외롭다 (孤單) + -던 (回想修飾)。" },
+        { "point": "찾아온 거야", "explanation": "찾아오다 (找來) + -ㄴ (過去修飾) + 거야 (是...)。" }
+      ]
+    },
+    {
+      "korean": "Oh LOVE 너를 사랑해 (널 사랑해)",
+      "translation": "Oh LOVE 我愛你 (我愛你)",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "이제 모든 시간들을 나와 함께해",
+      "translation": "現在所有的時間都和我一起度過吧",
+      "analysis": [
+        { "point": "함께해", "explanation": "함께하다 (在一起) + -아/어 (勸誘)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "허전하다", "chinese": "空虛、寂寞", "pos": "形容詞" },
+    { "korean": "채우다", "chinese": "填滿、充實", "pos": "動詞" },
+    { "korean": "헤매다", "chinese": "徘徊、徬徨", "pos": "動詞" },
+    { "korean": "반쪽", "chinese": "一半、另一半(伴侶)", "pos": "名詞" },
+    { "korean": "생", "chinese": "生、人生", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "외롭다", "chinese": "孤單、寂寞", "pos": "形容詞" },
+    { "korean": "찾아오다", "chinese": "找來、拜訪", "pos": "動詞" },
+    { "korean": "과거", "chinese": "過去", "pos": "名詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" }
+  ]
+}
