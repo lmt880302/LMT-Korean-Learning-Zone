@@ -1,0 +1,342 @@
+{
+  "id": "jeongeunji-hopefully-sky",
+  "title": "Hopefully Sky (하늘바라기)",
+  "artist": "Jeong Eun Ji (정은지)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "꽃잎이 내 맘을 흔들고",
+      "translation": "花瓣搖曳著我的心",
+      "analysis": [
+        { "point": "꽃잎이", "explanation": "꽃 (花) + 잎 (葉/瓣) -> 꽃잎 (花瓣) + -이 (主格助詞)。發音為 [꼰니피]。" },
+        { "point": "흔들고", "explanation": "흔들다 (搖晃/搖曳) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "꽃잎이 내 눈을 적시고",
+      "translation": "花瓣浸濕了我的雙眼",
+      "analysis": [
+        { "point": "적시고", "explanation": "적시다 (弄濕/浸濕) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "아름다운 기억",
+      "translation": "美麗的回憶",
+      "analysis": [
+        { "point": "아름다운", "explanation": "아름답다 (美麗) + -은 (形容詞修飾形，ㅂ不規則變化)。" }
+      ]
+    },
+    {
+      "korean": "푸른 하늘만 바라본다",
+      "translation": "只望著蔚藍的天空",
+      "analysis": [
+        { "point": "푸른", "explanation": "푸르다 (藍色/青色) + -ㄴ (形容詞修飾形)。" },
+        { "point": "하늘만", "explanation": "하늘 (天空) + -만 (只/僅)。" },
+        { "point": "바라본다", "explanation": "바라보다 (望著/注視) + -ㄴ다 (現在式基本階)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "꼬마야 약해지지 마",
+      "translation": "孩子啊 不要變得軟弱",
+      "analysis": [
+        { "point": "꼬마야", "explanation": "꼬마 (小孩子) + -야 (呼格助詞，稱呼語)。這裡是指小時候的自己或對父親的親暱稱呼。" },
+        { "point": "약해지지 마", "explanation": "약하다 (弱) + -아/어지다 (變得...) + -지 마 (禁止命令，不要...)。" }
+      ]
+    },
+    {
+      "korean": "슬픔을 혼자 안고 살지는 마",
+      "translation": "不要獨自抱著悲傷活下去",
+      "analysis": [
+        { "point": "안고", "explanation": "안다 (抱/擁抱) + -고 (連接語尾)。" },
+        { "point": "살지는 마", "explanation": "살다 (活) + -지 (強調) + -는 (輔助助詞) + 마 (不要)；「-지 마」中間加入「는」表示強調禁止的內容。" }
+      ]
+    },
+    {
+      "korean": "아빠야 어디를 가야",
+      "translation": "爸爸啊 要去哪裡",
+      "analysis": [
+        { "point": "아빠야", "explanation": "아빠 (爸爸) + -야 (呼格助詞)。" },
+        { "point": "가야", "explanation": "가다 (去) + -아야/어야 (必須...才...)。這裡連接下句，指「要去哪裡才能...」。" }
+      ]
+    },
+    {
+      "korean": "당신의 마음처럼 살 수 있을까",
+      "translation": "才能像你的心一樣生活呢",
+      "analysis": [
+        { "point": "당신의", "explanation": "당신 (您/你) + -의 (所有格)。" },
+        { "point": "마음처럼", "explanation": "마음 (心) + -처럼 (像...一樣)。" },
+        { "point": "살 수 있을까", "explanation": "살다 (活) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (推測/疑問語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "가장 큰 별이 보이는 우리 동네",
+      "translation": "能看見最大星星的我們小區",
+      "analysis": [
+        { "point": "가장", "explanation": "가장 (最)。" },
+        { "point": "보이는", "explanation": "보이다 (被看見/能看見) + -는 (現在冠詞形)。" },
+        { "point": "동네", "explanation": "동네 (小區/鄰里)。" }
+      ]
+    },
+    {
+      "korean": "따뜻한 햇살 꽃이 피는 봄에",
+      "translation": "在溫暖陽光 花朵盛開的春天裡",
+      "analysis": [
+        { "point": "따뜻한", "explanation": "따뜻하다 (溫暖) + -ㄴ (形容詞修飾形)。" },
+        { "point": "피는", "explanation": "피다 (開花) + -는 (現在冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "그댈 위로해요 그댈 사랑해요",
+      "translation": "安慰著你 愛著你",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你-受格) 的縮略。" },
+        { "point": "위로해요", "explanation": "위로하다 (安慰) + -여요 (尊敬終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "그대만의 노래로",
+      "translation": "用只屬於你的歌",
+      "analysis": [
+        { "point": "그대만의", "explanation": "그대 (你) + -만 (只/專屬) + -의 (所有格)。" },
+        { "point": "노래로", "explanation": "노래 (歌) + -로 (手段/工具助詞，用...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "뚜루뚜뚜두 두두두",
+      "translation": "Du-ru-du-tu-du du-du-du",
+      "analysis": []
+    },
+    {
+      "korean": "뚜루뚜뚜두 두두두",
+      "translation": "Du-ru-du-tu-du du-du-du",
+      "analysis": []
+    },
+    {
+      "korean": "뚜루뚜뚜두 두두두",
+      "translation": "Du-ru-du-tu-du du-du-du",
+      "analysis": []
+    },
+    {
+      "korean": "하늘바라기 하늘만 멍하니",
+      "translation": "仰望天空 (向日葵) 呆呆地只望著天空",
+      "analysis": [
+        { "point": "하늘바라기", "explanation": "하늘 (天空) + 바라기 (只望著某物的人/事物)；也指「向日葵 (해바라기)」。" },
+        { "point": "멍하니", "explanation": "멍하다 (發呆/發愣) + -니 (副詞化)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "가장 큰 하늘이 있잖아",
+      "translation": "不是有最大的天空嗎",
+      "analysis": [
+        { "point": "있잖아", "explanation": "있다 (有) + -잖아 (不是...嘛/強調)。" }
+      ]
+    },
+    {
+      "korean": "그대가 내 하늘이잖아",
+      "translation": "你就是我的天空啊",
+      "analysis": [
+        { "point": "하늘이잖아", "explanation": "하늘 (天空) + -이 (體詞連接語尾) + -잖아 (強調)。" }
+      ]
+    },
+    {
+      "korean": "후회 없는 삶들",
+      "translation": "沒有後悔的人生",
+      "analysis": [
+        { "point": "후회 없는", "explanation": "후회 (後悔) + 없다 (沒有) + -는 (修飾形)。" },
+        { "point": "삶들", "explanation": "삶 (人生/生活) + -들 (複數接尾辭)。" }
+      ]
+    },
+    {
+      "korean": "가난했던 추억",
+      "translation": "曾經貧窮的回憶",
+      "analysis": [
+        { "point": "가난했던", "explanation": "가난하다 (貧窮) + -였 (過去式) + -던 (回想過去的修飾語尾)。" }
+      ]
+    },
+    {
+      "korean": "난 행복했다",
+      "translation": "我很幸福",
+      "analysis": [
+        { "point": "행복했다", "explanation": "행복하다 (幸福) + -였 (過去式) + -다 (基本階終結)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "아빠야 약해지지 마",
+      "translation": "爸爸啊 不要變得軟弱",
+      "analysis": [
+        { "point": "약해지지 마", "explanation": "약해지다 (變得軟弱) + -지 마 (禁止)。" }
+      ]
+    },
+    {
+      "korean": "빗속을 걸어도 난 감사하니깐",
+      "translation": "即使走在雨中 我也心懷感謝",
+      "analysis": [
+        { "point": "빗속을", "explanation": "비 (雨) + 속 (裡面) -> 빗속 (雨中) + -을 (受格)。" },
+        { "point": "걸어도", "explanation": "걷다 (走) + -아/어도 (即使...也)。" },
+        { "point": "감사하니깐", "explanation": "감사하다 (感謝) + -(으)니까 (因為...) + -ㄴ (強調) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "아빠야 어디를 가야",
+      "translation": "爸爸啊 要去哪裡",
+      "analysis": [
+        { "point": "가야", "explanation": "가다 (去) + -아야 (必須...才)。" }
+      ]
+    },
+    {
+      "korean": "당신의 마음처럼 살 수 있을까",
+      "translation": "才能像你的心一樣生活呢",
+      "analysis": [
+        { "point": "살 수 있을까", "explanation": "살다 (活) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "가장 큰 별이 보이는 우리 동네",
+      "translation": "能看見最大星星的我們小區",
+      "analysis": [
+        { "point": "보이는", "explanation": "보이다 (被看見) + -는 (冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "따뜻한 햇살 꽃이 피는 봄에",
+      "translation": "在溫暖陽光 花朵盛開的春天裡",
+      "analysis": [
+        { "point": "피는", "explanation": "피다 (開花) + -는 (冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "그댈 위로해요 그댈 사랑해요",
+      "translation": "安慰著你 愛著你",
+      "analysis": [
+        { "point": "위로해요", "explanation": "위로하다 (安慰) + -여요 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "그대만의 노래로",
+      "translation": "用只屬於你的歌",
+      "analysis": [
+        { "point": "그대만의", "explanation": "그대 (你) + -만 (只) + -의 (所有格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "따뜻한 바람이 부는 봄 내음",
+      "translation": "吹著暖風的春天氣息",
+      "analysis": [
+        { "point": "부는", "explanation": "불다 (吹) + -는 (冠詞形，ㄹ脫落)。" },
+        { "point": "봄 내음", "explanation": "봄 (春天) + 내음 (氣味/氣息，냄새的詩意說法)。" }
+      ]
+    },
+    {
+      "korean": "그대와 이 길을 함께 걷네",
+      "translation": "和你一起走在這條路上",
+      "analysis": [
+        { "point": "걷네", "explanation": "걷다 (走) + -네 (感嘆終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "아련한 내 맘이 겨우 닿는 곳에",
+      "translation": "在我朦朧的心好不容易觸及的地方",
+      "analysis": [
+        { "point": "아련한", "explanation": "아련하다 (模糊/朦朧/隱約) + -ㄴ (修飾形)。" },
+        { "point": "겨우", "explanation": "겨우 (副詞，好不容易/勉強)。" },
+        { "point": "닿는", "explanation": "닿다 (觸及/到達) + -는 (冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "익숙한 골목 뒤에 숨어 있다가",
+      "translation": "躲在熟悉的巷子後面",
+      "analysis": [
+        { "point": "익숙한", "explanation": "익숙하다 (熟悉) + -ㄴ (修飾形)。" },
+        { "point": "숨어 있다가", "explanation": "숨다 (躲藏) + -어 있다 (狀態持續) + -다가 (動作轉換，...著然後...)。" }
+      ]
+    },
+    {
+      "korean": "그대 오기만 오기만",
+      "translation": "只等你來 只等你來",
+      "analysis": [
+        { "point": "오기만", "explanation": "오다 (來) + -기 (名詞化) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "기다린 그때가 자꾸만 떠올라",
+      "translation": "等待著的那時 總是浮現在腦海",
+      "analysis": [
+        { "point": "기다린", "explanation": "기다리다 (等待) + -ㄴ (過去修飾形)。" },
+        { "point": "자꾸만", "explanation": "자꾸 (總是) + -만 (強調)。" },
+        { "point": "떠올라", "explanation": "떠오르다 (浮現/想起) + -아 (終結語尾，르不規則變化)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "가장 큰 별이 보이는 우리 동네",
+      "translation": "能看見最大星星的我們小區",
+      "analysis": [
+        { "point": "보이는", "explanation": "보이다 (被看見) + -는 (冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "따뜻한 햇살 꽃이 피는 봄에",
+      "translation": "在溫暖陽光 花朵盛開的春天裡",
+      "analysis": [
+        { "point": "피는", "explanation": "피다 (開花) + -는 (冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "그댈 위로해요 그댈 사랑해요",
+      "translation": "安慰著你 愛著你",
+      "analysis": [
+        { "point": "위로해요", "explanation": "위로하다 (安慰) + -여요 (終結)。" }
+      ]
+    },
+    {
+      "korean": "그대만의 노래로",
+      "translation": "用只屬於你的歌",
+      "analysis": [
+        { "point": "그대만의", "explanation": "그대 (你) + -만 (只) + -의 (所有格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "뚜루뚜뚜두 두두두",
+      "translation": "Du-ru-du-tu-du du-du-du",
+      "analysis": []
+    },
+    {
+      "korean": "뚜루뚜뚜두 두두두",
+      "translation": "Du-ru-du-tu-du du-du-du",
+      "analysis": []
+    },
+    {
+      "korean": "뚜루뚜뚜두 두두두",
+      "translation": "Du-ru-du-tu-du du-du-du",
+      "analysis": []
+    },
+    {
+      "korean": "하늘바라기 하늘만 멍하니",
+      "translation": "仰望天空 呆呆地只望著天空",
+      "analysis": [
+        { "point": "하늘바라기", "explanation": "向日葵/仰望天空的人。" },
+        { "point": "멍하니", "explanation": "멍하다 (發呆) + -니 (副詞化)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "꽃잎", "chinese": "花瓣", "pos": "名詞" },
+    { "korean": "적시다", "chinese": "弄濕、浸濕", "pos": "動詞" },
+    { "korean": "동네", "chinese": "小區、鄰里", "pos": "名詞" },
+    { "korean": "위로하다", "chinese": "安慰", "pos": "動詞" },
+    { "korean": "삶", "chinese": "人生、生活", "pos": "名詞" },
+    { "korean": "가난하다", "chinese": "貧窮", "pos": "形容詞" },
+    { "korean": "내음", "chinese": "氣味、氣息", "pos": "名詞" },
+    { "korean": "아련하다", "chinese": "朦朧、模糊、隱約", "pos": "形容詞" },
+    { "korean": "익숙하다", "chinese": "熟悉", "pos": "形容詞" },
+    { "korean": "떠오르다", "chinese": "浮現、想起", "pos": "動詞" }
+  ]
+}

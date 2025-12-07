@@ -1,0 +1,335 @@
+{
+  "id": "jeongeunji-the-spring",
+  "title": "The Spring (너란 봄)",
+  "artist": "Jeong Eun Ji (정은지) feat. Hareem (하림)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "다시 봄이 오려나 봐요",
+      "translation": "看來春天又要來了",
+      "analysis": [
+        { "point": "오려나 봐요", "explanation": "오다 (來) + -(으)려나 보다 (看樣子好像要.../推測) + -아요 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "벚꽃도 지겨울 만큼",
+      "translation": "到了連櫻花都讓人覺得厭倦的程度",
+      "analysis": [
+        { "point": "벚꽃도", "explanation": "벚꽃 (櫻花) + -도 (連...也)。" },
+        { "point": "지겨울 만큼", "explanation": "지겹다 (令人厭煩/膩) + -(으)ㄹ 만큼 (到了...的程度)。" }
+      ]
+    },
+    {
+      "korean": "또다시 외로운 계절을 만나고",
+      "translation": "又再次迎來孤單的季節",
+      "analysis": [
+        { "point": "또다시", "explanation": "또 (又) + 다시 (再次)。" },
+        { "point": "만나고", "explanation": "만나다 (遇見/迎接) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "부네요 바람은",
+      "translation": "吹起了風呢",
+      "analysis": [
+        { "point": "부네요", "explanation": "불다 (吹) + -네요 (感嘆終結語尾，ㄹ脫落)。" }
+      ]
+    },
+    {
+      "korean": "저 꽃이 너무 예뻐 외롭게",
+      "translation": "那花朵太漂亮了 讓人感到孤單",
+      "analysis": [
+        { "point": "예뻐", "explanation": "예쁘다 (漂亮) + -어 (連接/終結)。" },
+        { "point": "외롭게", "explanation": "외롭다 (孤單) + -게 (副詞形/使得...)。" }
+      ]
+    },
+    {
+      "korean": "저 커플은 또 마냥 환하게",
+      "translation": "那對情侶又總是那麼燦爛地",
+      "analysis": [
+        { "point": "마냥", "explanation": "마냥 (副詞，盡情地/總是/一味地)。" },
+        { "point": "환하게", "explanation": "환하다 (明亮/燦爛) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "웃는 거야 너무 서럽게 만드니",
+      "translation": "笑著呢 讓我變得好悲傷",
+      "analysis": [
+        { "point": "웃는 거야", "explanation": "웃다 (笑) + -는 거야 (正在.../是...的)。" },
+        { "point": "서럽게 만드니", "explanation": "서럽다 (悲傷/委屈) + -게 만들다 (使...變得...) + -(으)니 (因為/疑問)。" }
+      ]
+    },
+    {
+      "korean": "왜 아름다운 거야",
+      "translation": "為什麼這麼美呢",
+      "analysis": [
+        { "point": "아름다운 거야", "explanation": "아름답다 (美麗) + -(으)ㄴ 거야 (是...的/疑問)。" }
+      ]
+    },
+    {
+      "korean": "하필 부러울 게 뭐야",
+      "translation": "偏偏有什麼好羨慕的",
+      "analysis": [
+        { "point": "하필", "explanation": "하필 (副詞，何必/偏偏)。" },
+        { "point": "부러울 게", "explanation": "부럽다 (羨慕) + -(으)ㄹ (未來/推測修飾) + 게 (것이的縮略，東西/事情)。" }
+      ]
+    },
+    {
+      "korean": "나만 빼고 봄 봄 봄",
+      "translation": "除了我以外 春 春 春",
+      "analysis": [
+        { "point": "나만 빼고", "explanation": "나 (我) + -만 (只) + 빼다 (除去/扣除) + -고 (連接)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다시 봄이 오려나 봐요",
+      "translation": "看來春天又要來了",
+      "analysis": [
+        { "point": "오려나 봐요", "explanation": "오다 (來) + -(으)려나 보다 (推測)。" }
+      ]
+    },
+    {
+      "korean": "벚꽃도 지겨울 만큼",
+      "translation": "到了連櫻花都讓人覺得厭倦的程度",
+      "analysis": [
+        { "point": "지겨울 만큼", "explanation": "지겹다 (膩/厭煩) + -(으)ㄹ 만큼 (程度)。" }
+      ]
+    },
+    {
+      "korean": "한밤에 깨어나 너무도 싫은데",
+      "translation": "半夜醒來 真的好討厭",
+      "analysis": [
+        { "point": "깨어나", "explanation": "깨어나다 (醒來/甦醒) + -아 (連接)。" },
+        { "point": "싫은데", "explanation": "싫다 (討厭) + -은데 (轉折/背景說明)。" }
+      ]
+    },
+    {
+      "korean": "또 봄이 오네요",
+      "translation": "春天又來了呢",
+      "analysis": [
+        { "point": "오네요", "explanation": "오다 (來) + -네요 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "너란 봄 봄 봄 봄 봄 (봄 봄 봄)",
+      "translation": "名為你的春 春 春 春 春 (春 春 春)",
+      "analysis": [
+        { "point": "너란", "explanation": "너 (你) + -(이)란 (-(이)라고 하는的縮略，叫做...的)。" }
+      ]
+    },
+    {
+      "korean": "너란 놈 어디 있는 거니",
+      "translation": "你這傢伙 在哪裡呢",
+      "analysis": [
+        { "point": "너란 놈", "explanation": "너 (你) + -(이)란 (叫做...的) + 놈 (傢伙/小子，略帶粗俗或親暱)。" },
+        { "point": "있는 거니", "explanation": "있다 (在) + -는 거니 (是...嗎/疑問)。" }
+      ]
+    },
+    {
+      "korean": "너란 봄 봄 봄 봄 봄 (봄 봄 봄)",
+      "translation": "名為你的春 春 春 春 春 (春 春 春)",
+      "analysis": []
+    },
+    {
+      "korean": "부네요 봄바람이",
+      "translation": "吹起了春風呢",
+      "analysis": [
+        { "point": "부네요", "explanation": "불다 (吹) + -네요 (感嘆，ㄹ脫落)。" },
+        { "point": "봄바람이", "explanation": "봄 (春) + 바람 (風) + -이 (主格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "알콩달콩한 사랑을 꿈꾸고",
+      "translation": "夢想著甜蜜可愛的愛情",
+      "analysis": [
+        { "point": "알콩달콩한", "explanation": "알콩달콩하다 (形容相處甜蜜、卿卿我我) + -ㄴ (修飾形)。" },
+        { "point": "꿈꾸고", "explanation": "꿈꾸다 (做夢/夢想) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "살콤달콤한 그대는 오려나",
+      "translation": "酸甜的你會來嗎",
+      "analysis": [
+        { "point": "살콤달콤한", "explanation": "變體自 새콤달콤하다 (酸酸甜甜的)，為了語感可愛化。" },
+        { "point": "오려나", "explanation": "오다 (來) + -(으)려나 (推測疑問，會...嗎)。" }
+      ]
+    },
+    {
+      "korean": "또다시 외로운 하루를 만나면",
+      "translation": "如果又再次迎來孤單的一天",
+      "analysis": [
+        { "point": "만나면", "explanation": "만나다 (遇見) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "부네요 바람은",
+      "translation": "吹起了風呢",
+      "analysis": [
+        { "point": "부네요", "explanation": "불다 (吹) + -네요。" }
+      ]
+    },
+    {
+      "korean": "저 꽃이 너무 예뻐 외롭게",
+      "translation": "那花朵太漂亮了 讓人感到孤單",
+      "analysis": [
+        { "point": "외롭게", "explanation": "외롭다 (孤單) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "저 커플은 또 마냥 환하게",
+      "translation": "那對情侶又總是那麼燦爛地",
+      "analysis": [
+        { "point": "환하게", "explanation": "환하다 (燦爛/明亮) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "웃는 거야 너무 서럽게 만드니",
+      "translation": "笑著呢 讓我變得好悲傷",
+      "analysis": [
+        { "point": "서럽게", "explanation": "서럽다 (悲傷/委屈) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "왜 아름다운 거야",
+      "translation": "為什麼這麼美呢",
+      "analysis": [
+        { "point": "아름다운", "explanation": "아름답다 (美麗) + -은 (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "하필 부러울 게 뭐야",
+      "translation": "偏偏有什麼好羨慕的",
+      "analysis": [
+        { "point": "부러울 게", "explanation": "부럽다 (羨慕) + -(으)ㄹ 게 (值得...的)。" }
+      ]
+    },
+    {
+      "korean": "나만 빼고 봄 봄 봄",
+      "translation": "除了我以外 春 春 春",
+      "analysis": [
+        { "point": "빼고", "explanation": "빼다 (除去) + -고 (連接)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다시 봄이 오려나 봐요",
+      "translation": "看來春天又要來了",
+      "analysis": [
+        { "point": "오려나 봐요", "explanation": "오다 + -(으)려나 보다 (推測)。" }
+      ]
+    },
+    {
+      "korean": "벚꽃도 지겨울 만큼",
+      "translation": "到了連櫻花都讓人覺得厭倦的程度",
+      "analysis": [
+        { "point": "지겨울 만큼", "explanation": "지겹다 + -(으)ㄹ 만큼。" }
+      ]
+    },
+    {
+      "korean": "한밤에 깨어나 너무도 싫은데",
+      "translation": "半夜醒來 真的好討厭",
+      "analysis": [
+        { "point": "깨어나", "explanation": "깨어나다 (醒來) + -아。" }
+      ]
+    },
+    {
+      "korean": "또 봄이 오네요",
+      "translation": "春天又來了呢",
+      "analysis": [
+        { "point": "오네요", "explanation": "오다 + -네요。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "따뜻한 봄바람이 내 볼을 스치면",
+      "translation": "當溫暖的春風拂過我的臉頰",
+      "analysis": [
+        { "point": "따뜻한", "explanation": "따뜻하다 (溫暖) + -ㄴ (修飾形)。" },
+        { "point": "볼을", "explanation": "볼 (臉頰) + -을 (受格)。" },
+        { "point": "스치면", "explanation": "스치다 (掠過/拂過) + -(으)면 (如果/當)。" }
+      ]
+    },
+    {
+      "korean": "얼었던 내 맘에도 봄이 올까요",
+      "translation": "我凍結的心裡 春天也會來嗎",
+      "analysis": [
+        { "point": "얼었던", "explanation": "얼다 (結冰/凍結) + -었 (過去) + -던 (回想修飾)。" },
+        { "point": "맘에도", "explanation": "맘 (心) + -에 (場所) + -도 (也)。" },
+        { "point": "올까요", "explanation": "오다 (來) + -(으)ㄹ까요 (推測疑問)。" }
+      ]
+    },
+    {
+      "korean": "사랑일까요",
+      "translation": "會是愛情嗎",
+      "analysis": [
+        { "point": "사랑일까요", "explanation": "사랑 (愛) + -일까요 (是...嗎/推測疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다시 봄이 오려나 봐요 (다시 봄이 올까요)",
+      "translation": "看來春天又要來了 (春天會再來嗎)",
+      "analysis": [
+        { "point": "올까요", "explanation": "오다 (來) + -(으)ㄹ까요 (推測疑問)。" }
+      ]
+    },
+    {
+      "korean": "벚꽃도 지겨울 만큼 (지겨울 만큼)",
+      "translation": "到了連櫻花都讓人覺得厭倦的程度 (厭倦的程度)",
+      "analysis": [
+        { "point": "지겨울", "explanation": "지겹다 (厭煩) + -(으)ㄹ (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "한밤에 깨어나 너무도 싫은데",
+      "translation": "半夜醒來 真的好討厭",
+      "analysis": [
+        { "point": "싫은데", "explanation": "싫다 (討厭) + -은데 (感嘆/背景)。" }
+      ]
+    },
+    {
+      "korean": "또 봄이 오네요",
+      "translation": "春天又來了呢",
+      "analysis": [
+        { "point": "오네요", "explanation": "오다 (來) + -네요 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "너란 봄 봄 봄 봄 봄 (봄 봄 봄)",
+      "translation": "名為你的春 春 春 春 春 (春 春 春)",
+      "analysis": []
+    },
+    {
+      "korean": "너란 놈 어디 있는 거니",
+      "translation": "你這傢伙 在哪裡呢",
+      "analysis": [
+        { "point": "놈", "explanation": "놈 (傢伙/小子)。" }
+      ]
+    },
+    {
+      "korean": "너란 봄 봄 봄 봄 봄 (봄 봄 봄)",
+      "translation": "名為你的春 春 春 春 春 (春 春 春)",
+      "analysis": []
+    },
+    {
+      "korean": "부네요 봄바람이",
+      "translation": "吹起了春風呢",
+      "analysis": [
+        { "point": "부네요", "explanation": "불다 (吹) + -네요。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "지겹다", "chinese": "令人厭煩、膩", "pos": "形容詞" },
+    { "korean": "서럽다", "chinese": "悲傷、委屈", "pos": "形容詞" },
+    { "korean": "부럽다", "chinese": "羨慕", "pos": "形容詞" },
+    { "korean": "마냥", "chinese": "盡情地、總是", "pos": "副詞" },
+    { "korean": "하필", "chinese": "何必、偏偏", "pos": "副詞" },
+    { "korean": "깨어나다", "chinese": "醒來、甦醒", "pos": "動詞" },
+    { "korean": "알콩달콩하다", "chinese": "甜蜜、卿卿我我", "pos": "形容詞" },
+    { "korean": "스치다", "chinese": "掠過、拂過", "pos": "動詞" },
+    { "korean": "얼다", "chinese": "結冰、凍結", "pos": "動詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" }
+  ]
+}
