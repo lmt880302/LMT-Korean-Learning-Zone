@@ -8,360 +8,43 @@
       "korean": "와요 와요 와요 와",
       "translation": "來吧 來吧 來吧 來",
       "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬階終結語尾)。" },
-        { "point": "와", "explanation": "오다 (來) + -아 (非尊敬/半語終結語尾)。" }
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體/半語)。" }
       ]
     },
     {
       "sectionTitle": "Chorus 1",
       "korean": "너와 나 지금부터 잠시 12345",
-      "translation": "你和我 從現在起 暫時 12345",
+      "translation": "你和我 從現在開始 暫時 12345",
       "analysis": [
-        { "point": "너와 나", "explanation": "너 (你) + -와 (和/跟) + 나 (我)。" },
-        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從...開始)。" }
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" },
+        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從)。" },
+        { "point": "잠시", "explanation": "副詞，暫時、一會兒。" },
+        { "point": "12345", "explanation": "數詞，一二三四五 (일, 이, 삼, 사, 오)。" }
       ]
     },
     {
       "korean": "눈을 감고 가만히 서 12345",
       "translation": "閉上眼睛 靜靜站著 12345",
       "analysis": [
-        { "point": "눈을 감고", "explanation": "눈 (眼睛) + -을 (受格助詞) + 감다 (閉上) + -고 (連接語尾)。" },
-        { "point": "가만히", "explanation": "가만히 (靜靜地/不動地)。" },
-        { "point": "서", "explanation": "서다 (站立) + -어 (連接語尾，表示動作狀態)。" }
+        { "point": "눈을 감고", "explanation": "눈을 감다 (閉眼) + -고 (連接詞尾，表示動作順序)。" },
+        { "point": "가만히 서", "explanation": "가만히 (靜靜地/不動地) + 서다 (站立) + -어 (連接/非格式體)。" }
       ]
     },
     {
       "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
-      "translation": "暫時就好 你和我 這樣休息的時間",
+      "translation": "只有暫時 你和我這樣休息的時間",
       "analysis": [
-        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只/僅)。" },
-        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
-        { "point": "쉬는 시간", "explanation": "쉬다 (休息) + -는 (現在冠詞形) + 시간 (時間)。" }
+        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "쉬는 시간", "explanation": "쉬다 (休息) 的現在冠形詞形 + 시간 (時間)。" }
       ]
     },
     {
       "korean": "그대로 내게",
       "translation": "就那樣 向著我",
       "analysis": [
-        { "point": "그대로", "explanation": "그대로 (照樣/原封不動地)。" },
-        { "point": "내게", "explanation": "나에게 (向我/對我) 的縮略形。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" },
-        { "point": "와", "explanation": "오다 (來) + -아 (半語語尾)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" },
-        { "point": "와", "explanation": "오다 (來) + -아 (半語語尾)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" },
-        { "point": "와", "explanation": "오다 (來) + -아 (半語語尾)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" },
-        { "point": "와", "explanation": "오다 (來) + -아 (半語語尾)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Verse 1",
-      "korean": "한참을 너와 내가",
-      "translation": "好一陣子 你和我",
-      "analysis": [
-        { "point": "한참을", "explanation": "한참 (好一陣子/許久) + -을 (受格助詞，強調時間長度)。" }
-      ]
-    },
-    {
-      "korean": "잠시도 쉬지 않고서 여기까지 왔는데",
-      "translation": "片刻都沒有休息 來到這裡",
-      "analysis": [
-        { "point": "잠시도", "explanation": "잠시 (暫時/片刻) + -도 (連...也)。" },
-        { "point": "쉬지 않고서", "explanation": "쉬다 (休息) + -지 않다 (否定) + -고서 (連接語尾，表示保持前述狀態)。" },
-        { "point": "왔는데", "explanation": "오다 (來) + -았 (過去式) + -는데 (連接語尾，表示背景說明或轉折)。" }
-      ]
-    },
-    {
-      "korean": "한 번도 갖지 못했었던",
-      "translation": "一次都不曾擁有過的",
-      "analysis": [
-        { "point": "갖지 못했었던", "explanation": "갖다 (擁有，가지다的縮略) + -지 못하다 (無法/不能) + -았었 (大過去，表示過去很久或已斷絕的經驗) + -던 (回想冠詞形)。" }
-      ]
-    },
-    {
-      "korean": "내가 나로 있던 시간 속에",
-      "translation": "在我作為我自己存在的時間裡",
-      "analysis": [
-        { "point": "나로", "explanation": "나 (我) + -로 (助詞，作為/以...的身分)。" },
-        { "point": "있던", "explanation": "있다 (存在/有) + -던 (回想冠詞形)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Pre-Chorus",
-      "korean": "둘이서 함께 바라보고 있던",
-      "translation": "我們兩人一起注視著的",
-      "analysis": [
-        { "point": "둘이서", "explanation": "둘 (兩人) + -이서 (表示人數的主格助詞，強調行動的主體)。" },
-        { "point": "바라보고 있던", "explanation": "바라보다 (注視) + -고 있다 (正在進行) + -던 (過去修飾)。" }
-      ]
-    },
-    {
-      "korean": "세상은 점점 멀어지고 있어",
-      "translation": "世界正漸漸遠去",
-      "analysis": [
-        { "point": "멀어지고 있어", "explanation": "멀다 (遠) + -아/어지다 (變得...) + -고 있다 (正在進行)。" }
-      ]
-    },
-    {
-      "korean": "내가 지치지 않게 다신 놓치지 않게",
-      "translation": "為了不讓我疲憊 為了不再錯過",
-      "analysis": [
-        { "point": "지치지 않게", "explanation": "지치다 (疲憊) + -지 않다 (否定) + -게 (副詞形/目的語尾，為了...)。" },
-        { "point": "다신", "explanation": "다시는 (再也/重新) 的縮略形。" },
-        { "point": "놓치지 않게", "explanation": "놓치다 (錯過/失去) + -지 않다 (否定) + -게 (為了...)。" }
-      ]
-    },
-    {
-      "korean": "기적이 필요한 찰나에",
-      "translation": "在需要奇蹟的剎那",
-      "analysis": [
-        { "point": "필요한", "explanation": "필요하다 (需要) + -ㄴ (形容詞修飾形)。" },
-        { "point": "찰나에", "explanation": "찰나 (剎那/瞬間) + -에 (時間助詞)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Chorus 2",
-      "korean": "너와 나 지금부터 잠시 12345",
-      "translation": "你和我 從現在起 暫時 12345",
-      "analysis": [
-        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從...開始)。" }
-      ]
-    },
-    {
-      "korean": "눈을 감고 가만히 서 12345",
-      "translation": "閉上眼睛 靜靜站著 12345",
-      "analysis": [
-        { "point": "눈을 감고", "explanation": "눈 (眼睛) + -을 (受格助詞) + 감다 (閉上) + -고 (連接語尾)。" },
-        { "point": "서", "explanation": "서다 (站立) + -어 (連接語尾)。" }
-      ]
-    },
-    {
-      "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
-      "translation": "暫時就好 你和我 這樣休息的時間",
-      "analysis": [
-        { "point": "쉬는 시간", "explanation": "쉬다 (休息) + -는 (現在冠詞形) + 시간 (時間)。" }
-      ]
-    },
-    {
-      "korean": "그대로 내게",
-      "translation": "就那樣 向著我",
-      "analysis": [
-        { "point": "그대로", "explanation": "그대로 (照樣)。" },
-        { "point": "내게", "explanation": "나에게 (向我)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" },
-        { "point": "와", "explanation": "오다 (來) + -아 (半語語尾)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Verse 2",
-      "korean": "한 번쯤 너도 해봤겠지",
-      "translation": "你大概也試過一次吧",
-      "analysis": [
-        { "point": "한 번쯤", "explanation": "한 번 (一次) + -쯤 (左右/大約)。" },
-        { "point": "해봤겠지", "explanation": "하다 (做) + -아/어 보다 (嘗試) + -았 (過去) + -겠 (推測) + -지 (確認/反問語尾)。" }
-      ]
-    },
-    {
-      "korean": "포기하면 편할 거라는 생각들을",
-      "translation": "如果放棄就會變得輕鬆的想法",
-      "analysis": [
-        { "point": "포기하면", "explanation": "포기하다 (放棄) + -면 (如果)。" },
-        { "point": "편할 거라는", "explanation": "편하다 (舒服/輕鬆) + -(으)ㄹ 것이다 (未來/推測) + -라는 (引用縮略，叫做...的)。" }
-      ]
-    },
-    {
-      "korean": "한 시간도 아닌 잠시만",
-      "translation": "不是一個小時 只要暫時",
-      "analysis": [
-        { "point": "아닌", "explanation": "아니다 (不是) + -ㄴ (修飾形)。" },
-        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" }
-      ]
-    },
-    {
-      "korean": "이렇게 멈춰 있는 시간 속에",
-      "translation": "在這樣靜止的時間裡",
-      "analysis": [
-        { "point": "멈춰 있는", "explanation": "멈추다 (停止) + -아/어 있다 (狀態持續) + -는 (冠詞形)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Pre-Chorus",
-      "korean": "둘이서 늘 꿈꿔 왔었던 만큼",
-      "translation": "就像我們一直夢想的那樣",
-      "analysis": [
-        { "point": "꿈꿔 왔었던", "explanation": "꿈꾸다 (做夢) + -아/어 오다 (持續過來) + -았었 (大過去) + -던 (回想冠詞形)。" },
-        { "point": "만큼", "explanation": "만큼 (依存名詞，表示程度/像...一樣)。" }
-      ]
-    },
-    {
-      "korean": "새로움이 있겠지만",
-      "translation": "雖然會有新的事物",
-      "analysis": [
-        { "point": "새로움이", "explanation": "새롭다 (新的) + -ㅁ (名詞化語尾) -> 새로움 (新穎/新事物) + -이 (主格助詞)。" },
-        { "point": "있겠지만", "explanation": "있다 (有) + -겠 (推測) + -지만 (但是)。" }
-      ]
-    },
-    {
-      "korean": "내가 지치지 않고 네가 지치지 않게",
-      "translation": "我不疲憊 為了讓你也不疲憊",
-      "analysis": [
-        { "point": "지치지 않고", "explanation": "지치다 (疲憊) + -지 않다 (否定) + -고 (連接)。" },
-        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞) -> 네가。" }
-      ]
-    },
-    {
-      "korean": "기적이 필요한 찰나에",
-      "translation": "在需要奇蹟的剎那",
-      "analysis": [
-        { "point": "필요한", "explanation": "필요하다 (需要) + -ㄴ (修飾形)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Chorus 3",
-      "korean": "너와 나 지금부터 잠시 12345",
-      "translation": "你和我 從現在起 暫時 12345",
-      "analysis": [
-        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從...開始)。" }
-      ]
-    },
-    {
-      "korean": "눈을 감고 가만히 서 12345",
-      "translation": "閉上眼睛 靜靜站著 12345",
-      "analysis": [
-        { "point": "감고", "explanation": "감다 (閉眼) + -고 (連接語尾)。" }
-      ]
-    },
-    {
-      "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
-      "translation": "暫時就好 你和我 這樣休息的時間",
-      "analysis": [
-        { "point": "쉬는 시간", "explanation": "쉬다 (休息) + -는 (冠詞形) + 시간 (時間)。" }
-      ]
-    },
-    {
-      "korean": "그대로 내게",
-      "translation": "就那樣 向著我",
-      "analysis": [
-        { "point": "그대로", "explanation": "그대로 (照樣)。" }
-      ]
-    },
-    {
-      "korean": "와요 와요 와요 와",
-      "translation": "來吧 來吧 來吧 來",
-      "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Bridge",
-      "korean": "지금 옆에 있잖아",
-      "translation": "我現在就在旁邊啊",
-      "analysis": [
-        { "point": "있잖아", "explanation": "있다 (在) + -잖아 (지 않아的縮略，表示確認或強調「不是...嘛」)。" }
-      ]
-    },
-    {
-      "korean": "내가 말한 거 있잖아",
-      "translation": "我說過的那個啊",
-      "analysis": [
-        { "point": "말한 거", "explanation": "말하다 (說) + -(으)ㄴ (過去冠詞形) + 거 (것的縮略，東西/事情)。" },
-        { "point": "있잖아", "explanation": "있다 (有) + -잖아 (強調語氣)。" }
-      ]
-    },
-    {
-      "korean": "그렇게 힘들어했던 시간은 비로소",
-      "translation": "那樣感到辛苦的時間 終於",
-      "analysis": [
-        { "point": "힘들어했던", "explanation": "힘들어하다 (感到辛苦) + -았었 (大過去) + -던 (回想冠詞形)。" },
-        { "point": "비로소", "explanation": "비로소 (副詞，終於/始)。" }
-      ]
-    },
-    {
-      "korean": "난 눈을 감고서",
-      "translation": "我閉上眼睛",
-      "analysis": [
-        { "point": "난", "explanation": "나는 (我) 的縮略。" },
-        { "point": "감고서", "explanation": "감다 (閉眼) + -고서 (連接語尾，表示動作後保持狀態)。" }
-      ]
-    },
-    {
-      "sectionTitle": "Chorus 4",
-      "korean": "너와 나 지금부터 잠시 12345",
-      "translation": "你和我 從現在起 暫時 12345",
-      "analysis": [
-        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從...開始)。" }
-      ]
-    },
-    {
-      "korean": "눈을 감고 가만히 서 12345",
-      "translation": "閉上眼睛 靜靜站著 12345",
-      "analysis": [
-        { "point": "가만히 서", "explanation": "가만히 (靜靜地) + 서다 (站立) + -어 (連接語尾)。" }
-      ]
-    },
-    {
-      "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
-      "translation": "暫時就好 你和我 這樣休息的時間",
-      "analysis": [
-        { "point": "쉬는 시간", "explanation": "쉬다 (休息) + -는 (冠詞形) + 시간 (時間)。" }
-      ]
-    },
-    {
-      "korean": "그대로 내게",
-      "translation": "就那樣 向著我",
-      "analysis": [
+        { "point": "그대로", "explanation": "副詞，照樣、原樣。" },
         { "point": "내게", "explanation": "나에게 (向我) 的縮略。" }
       ]
     },
@@ -369,41 +52,406 @@
       "korean": "와요 와요 와요 와",
       "translation": "來吧 來吧 來吧 來",
       "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
       ]
     },
     {
       "korean": "와요 와요 와요 와",
       "translation": "來吧 來吧 來吧 來",
       "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
       ]
     },
     {
       "korean": "와요 와요 와요 와",
       "translation": "來吧 來吧 來吧 來",
       "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
       ]
     },
     {
       "korean": "와요 와요 와요 와",
       "translation": "來吧 來吧 來吧 來",
       "analysis": [
-        { "point": "와요", "explanation": "오다 (來) + -아요 (尊敬語尾)。" }
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "한참을 너와 내가",
+      "translation": "好一陣子 你和我",
+      "analysis": [
+        { "point": "한참을", "explanation": "한참 (好一陣子/許久) + -을 (受格助詞，強調時間長度)。" },
+        { "point": "너와 내가", "explanation": "너 (你) + -와 (和) + 내가 (我，主格)。" }
+      ]
+    },
+    {
+      "korean": "잠시도 쉬지 않고서 여기까지 왔는데",
+      "translation": "連一刻都沒休息 來到這裡",
+      "analysis": [
+        { "point": "잠시도", "explanation": "잠시 (暫時) + -도 (連...也)。" },
+        { "point": "쉬지 않고서", "explanation": "쉬다 (休息) + -지 않다 (否定) + -고서 (連接詞尾，表示保持前述狀態)。" },
+        { "point": "여기까지 왔는데", "explanation": "여기 (這裡) + -까지 (到) + 오다 (來) 的過去式 + -(으)ㄴ데 (表示背景說明)。" }
+      ]
+    },
+    {
+      "korean": "한 번도 갖지 못했었던",
+      "translation": "一次都沒能擁有的",
+      "analysis": [
+        { "point": "한 번도", "explanation": "한 번 (一次) + -도 (連...也)。" },
+        { "point": "갖지 못했었던", "explanation": "갖다 (擁有) + -지 못하다 (不能/無法) + -었었- (大過去/強調過去) + -던 (回想冠形詞尾)。" }
+      ]
+    },
+    {
+      "korean": "내가 나로 있던 시간 속에",
+      "translation": "在我作為我存在的時間裡",
+      "analysis": [
+        { "point": "내가 나로 있던", "explanation": "내가 (我) + 나 (我) + -(으)로 (作為...) + 있다 (存在) 的過去冠形詞形。" },
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "둘이서 함께 바라보고 있던",
+      "translation": "兩個人一起凝望著的",
+      "analysis": [
+        { "point": "둘이서", "explanation": "둘 (兩人) + -(이)서 (表示人數/主詞)。" },
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "바라보고 있던", "explanation": "바라보다 (凝望/注視) + -고 있다 (正在...) 的過去冠形詞形。" }
+      ]
+    },
+    {
+      "korean": "세상은 점점 멀어지고 있어",
+      "translation": "世界正在漸漸遠去",
+      "analysis": [
+        { "point": "세상은", "explanation": "세상 (世界) + -은 (主題助詞)。" },
+        { "point": "점점", "explanation": "副詞，漸漸。" },
+        { "point": "멀어지고 있어", "explanation": "멀다 (遠) + -어지다 (變得...) + -고 있다 (正在...)。" }
+      ]
+    },
+    {
+      "korean": "내가 지치지 않게 다신 놓치지 않게",
+      "translation": "讓我不會疲憊 讓我不再錯過",
+      "analysis": [
+        { "point": "지치지 않게", "explanation": "지치다 (疲憊) + -지 않게 (為了不.../使得不...)。" },
+        { "point": "다신", "explanation": "다시는 (再次/重新) 的縮略，後接否定表示「再也不」。" },
+        { "point": "놓치지 않게", "explanation": "놓치다 (錯過/失去) + -지 않게 (為了不.../使得不...)。" }
+      ]
+    },
+    {
+      "korean": "기적이 필요한 찰나에",
+      "translation": "在需要奇蹟的剎那",
+      "analysis": [
+        { "point": "기적이 필요한", "explanation": "기적 (奇蹟) + -이 (主格助詞) + 필요하다 (需要) 的冠形詞形。" },
+        { "point": "찰나에", "explanation": "찰나 (剎那/瞬間) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 2",
+      "korean": "너와 나 지금부터 잠시 12345",
+      "translation": "你和我 從現在開始 暫時 12345",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" },
+        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從)。" },
+        { "point": "잠시", "explanation": "副詞，暫時、一會兒。" },
+        { "point": "12345", "explanation": "數詞，一二三四五 (일, 이, 삼, 사, 오)。" }
+      ]
+    },
+    {
+      "korean": "눈을 감고 가만히 서 12345",
+      "translation": "閉上眼睛 靜靜站著 12345",
+      "analysis": [
+        { "point": "눈을 감고", "explanation": "눈을 감다 (閉眼) + -고 (連接詞尾，表示動作順序)。" },
+        { "point": "가만히 서", "explanation": "가만히 (靜靜地/不動地) + 서다 (站立) + -어 (連接/非格式體)。" }
+      ]
+    },
+    {
+      "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
+      "translation": "只有暫時 你和我這樣休息的時間",
+      "analysis": [
+        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "쉬는 시간", "explanation": "쉬다 (休息) 的現在冠形詞形 + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "그대로 내게",
+      "translation": "就那樣 向著我",
+      "analysis": [
+        { "point": "그대로", "explanation": "副詞，照樣、原樣。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "한 번쯤 너도 해봤겠지",
+      "translation": "你應該也至少試過一次吧",
+      "analysis": [
+        { "point": "한 번쯤", "explanation": "한 번 (一次) + -쯤 (大約/左右/程度)。" },
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "해봤겠지", "explanation": "해보다 (試做) + -았 (過去) + -겠 (推測) + -지 (確認/吧)。" }
+      ]
+    },
+    {
+      "korean": "포기하면 편할 거라는 생각들을",
+      "translation": "那些如果放棄就會變得輕鬆的想法",
+      "analysis": [
+        { "point": "포기하면", "explanation": "포기하다 (放棄) + -(으)면 (如果)。" },
+        { "point": "편할 거라는", "explanation": "편하다 (舒服/輕鬆) + -(으)ㄹ 거라는 (-(으)ㄹ 것이라고 하는 的縮略，間接引用)。" },
+        { "point": "생각들을", "explanation": "생각 (想法) + -들 (複數) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "한 시간도 아닌 잠시만",
+      "translation": "不是一小時 就只是暫時",
+      "analysis": [
+        { "point": "한 시간도 아닌", "explanation": "한 시간 (一小時) + -도 (連...也) + 아니다 (不是) 的冠形詞形。" },
+        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "이렇게 멈춰 있는 시간 속에",
+      "translation": "在這樣停滯的時間裡",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "멈춰 있는", "explanation": "멈추다 (停止) + -어 있다 (保持...狀態) 的冠形詞形。" },
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "둘이서 늘 꿈꿔 왔었던 만큼",
+      "translation": "就像我們一直以來夢想的那樣",
+      "analysis": [
+        { "point": "둘이서", "explanation": "둘 (兩人) + -(이)서 (主格)。" },
+        { "point": "늘", "explanation": "副詞，總是、一直。" },
+        { "point": "꿈꿔 왔었던", "explanation": "꿈꾸다 (做夢/夢想) + -어 오다 (一直...過來/持續) + -었었던 (過去回想冠形詞形)。" },
+        { "point": "만큼", "explanation": "依存名詞，表示程度，像...一樣多/那麼。" }
+      ]
+    },
+    {
+      "korean": "새로움이 있겠지만",
+      "translation": "雖然會有新鮮感",
+      "analysis": [
+        { "point": "새로움이", "explanation": "새롭다 (新/新鮮) + -ㅁ (名詞化) + -이 (主格助詞)。" },
+        { "point": "있겠지만", "explanation": "있다 (有) + -겠 (推測) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "내가 지치지 않고 네가 지치지 않게",
+      "translation": "讓我不會疲憊 讓你也別疲憊",
+      "analysis": [
+        { "point": "내가 지치지 않고", "explanation": "내가 (我) + 지치다 (疲憊) + -지 않다 (否定) + -고 (連接)。" },
+        { "point": "네가 지치지 않게", "explanation": "네가 (你) + 지치다 (疲憊) + -지 않게 (為了不.../使得不...)。" }
+      ]
+    },
+    {
+      "korean": "기적이 필요한 찰나에",
+      "translation": "在需要奇蹟的剎那",
+      "analysis": [
+        { "point": "기적이 필요한", "explanation": "기적 (奇蹟) + -이 (主格助詞) + 필요하다 (需要) 的冠形詞形。" },
+        { "point": "찰나에", "explanation": "찰나 (剎那/瞬間) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 3",
+      "korean": "너와 나 지금부터 잠시 12345",
+      "translation": "你和我 從現在開始 暫時 12345",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" },
+        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從)。" },
+        { "point": "잠시", "explanation": "副詞，暫時、一會兒。" },
+        { "point": "12345", "explanation": "數詞，一二三四五 (일, 이, 삼, 사, 오)。" }
+      ]
+    },
+    {
+      "korean": "눈을 감고 가만히 서 12345",
+      "translation": "閉上眼睛 靜靜站著 12345",
+      "analysis": [
+        { "point": "눈을 감고", "explanation": "눈을 감다 (閉眼) + -고 (連接詞尾，表示動作順序)。" },
+        { "point": "가만히 서", "explanation": "가만히 (靜靜地/不動地) + 서다 (站立) + -어 (連接/非格式體)。" }
+      ]
+    },
+    {
+      "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
+      "translation": "只有暫時 你和我這樣休息的時間",
+      "analysis": [
+        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "쉬는 시간", "explanation": "쉬다 (休息) 的現在冠形詞形 + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "그대로 내게",
+      "translation": "就那樣 向著我",
+      "analysis": [
+        { "point": "그대로", "explanation": "副詞，照樣、原樣。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "지금 옆에 있잖아",
+      "translation": "現在不是在你身邊嗎",
+      "analysis": [
+        { "point": "지금", "explanation": "名詞/副詞，現在。" },
+        { "point": "옆에", "explanation": "옆 (旁邊) + -에 (場所助詞)。" },
+        { "point": "있잖아", "explanation": "있다 (在) + -잖아 (不是...嗎/強調事實)。" }
+      ]
+    },
+    {
+      "korean": "내가 말한 거 있잖아",
+      "translation": "我說過的那件事啊",
+      "analysis": [
+        { "point": "내가 말한 거", "explanation": "내가 (我) + 말하다 (說) 的過去冠形詞形 + 것 (事情/東西) 的口語形 거。" },
+        { "point": "있잖아", "explanation": "있다 (有) + -잖아 (不是...嗎/提起對方已知的事物)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 힘들어했던 시간은 비로소",
+      "translation": "那樣感到辛苦的時間 終於",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "힘들어했던", "explanation": "힘들어하다 (感到辛苦/吃力) + -했던 (過去回想冠形詞形)。" },
+        { "point": "시간은", "explanation": "시간 (時間) + -은 (主題助詞)。" },
+        { "point": "비로소", "explanation": "副詞，終於、始。" }
+      ]
+    },
+    {
+      "korean": "난 눈을 감고서",
+      "translation": "我閉上雙眼",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "눈을 감고서", "explanation": "눈을 감다 (閉眼) + -고서 (連接詞尾，表示動作後保持狀態)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus 4",
+      "korean": "너와 나 지금부터 잠시 12345",
+      "translation": "你和我 從現在開始 暫時 12345",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" },
+        { "point": "지금부터", "explanation": "지금 (現在) + -부터 (從)。" },
+        { "point": "잠시", "explanation": "副詞，暫時、一會兒。" },
+        { "point": "12345", "explanation": "數詞，一二三四五 (일, 이, 삼, 사, 오)。" }
+      ]
+    },
+    {
+      "korean": "눈을 감고 가만히 서 12345",
+      "translation": "閉上眼睛 靜靜站著 12345",
+      "analysis": [
+        { "point": "눈을 감고", "explanation": "눈을 감다 (閉眼) + -고 (連接詞尾，表示動作順序)。" },
+        { "point": "가만히 서", "explanation": "가만히 (靜靜地/不動地) + 서다 (站立) + -어 (連接/非格式體)。" }
+      ]
+    },
+    {
+      "korean": "잠시만 너와 내가 이렇게 쉬는 시간",
+      "translation": "只有暫時 你和我這樣休息的時間",
+      "analysis": [
+        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "쉬는 시간", "explanation": "쉬다 (休息) 的現在冠形詞形 + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "그대로 내게",
+      "translation": "就那樣 向著我",
+      "analysis": [
+        { "point": "그대로", "explanation": "副詞，照樣、原樣。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "와요 와요 와요 와",
+      "translation": "來吧 來吧 來吧 來",
+      "analysis": [
+        { "point": "와요", "explanation": "오다 (來) + -아요 (格式體尊敬形)。" },
+        { "point": "와", "explanation": "오다 (來) + -아 (非格式體)。" }
       ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "오다", "chinese": "來", "pos": "動詞" },
-    { "korean": "감다", "chinese": "(閉)眼、纏繞", "pos": "動詞" },
-    { "korean": "서다", "chinese": "站立", "pos": "動詞" },
+    { "korean": "잠시", "chinese": "暫時、一會兒", "pos": "副詞" },
+    { "korean": "가만히", "chinese": "靜靜地、不動地", "pos": "副詞" },
     { "korean": "쉬다", "chinese": "休息", "pos": "動詞" },
-    { "korean": "갖다", "chinese": "擁有 (가지다縮略)", "pos": "動詞" },
-    { "korean": "바라보다", "chinese": "注視、凝望", "pos": "動詞" },
-    { "korean": "멀어지다", "chinese": "變遠、疏遠", "pos": "動詞" },
+    { "korean": "한참", "chinese": "好一陣子", "pos": "名詞" },
     { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
     { "korean": "놓치다", "chinese": "錯過、失去", "pos": "動詞" },
-    { "korean": "꿈꾸다", "chinese": "做夢", "pos": "動詞" }
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "찰나", "chinese": "剎那、瞬間", "pos": "名詞" },
+    { "korean": "포기하다", "chinese": "放棄", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "꿈꾸다", "chinese": "做夢、夢想", "pos": "動詞" },
+    { "korean": "새롭다", "chinese": "新、新鮮", "pos": "形容詞" },
+    { "korean": "비로소", "chinese": "終於、始", "pos": "副詞" },
+    { "korean": "힘들어하다", "chinese": "感到辛苦", "pos": "動詞" }
   ]
 }
