@@ -17,7 +17,12 @@
     "artist": "Jeong Eun Ji (정은지) & Seo In Guk (서인국)",  
     "lyricsFile": "../data/lyrics/jeongeunji-all-for-you.json"
   },  
-
+  {
+    "id": "jeongeunji-love-day",
+    "title": "Love Day",
+    "artist": "Jeong Eun-ji & Yang Yo-seob (정은지 & 양요섭)",
+    "lyricsFile": "../data/lyrics/jeong-eun-ji-love-day.json"
+  },   
   {
     "id": "jeongeunji-journey-for-myself",
     "title": "Journey For Myself (나에게로 떠나는 여행)",

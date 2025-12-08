@@ -6,27 +6,27 @@
     {
       "sectionTitle": "Intro",
       "korean": "DO YOU REMEMBER 우릴 비추던 태양",
-      "translation": "DO YOU REMEMBER 照耀著我們的太陽",
+      "translation": "DO YOU REMEMBER 照耀我們的太陽",
       "analysis": [
-        { "point": "우릴", "explanation": "우리 (我們) + -를 (受格助詞) 的縮略形。" },
-        { "point": "비추던", "explanation": "비추다 (照耀) + -던 (回想過去的冠詞形語尾，表示過去持續或未完成的動作)。" }
+        { "point": "DO YOU REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "우릴 비추던 태양", "explanation": "우리를 (我們) 的縮略 + 비추다 (照耀) + -던 (過去回想冠形詞尾，表示過去持續或反覆的動作) + 태양 (太陽)。" }
       ]
     },
     {
       "korean": "넓고 푸른 바다 마치 어제처럼",
-      "translation": "寬廣蔚藍的大海 就像昨天一樣",
+      "translation": "寬廣又湛藍的大海 就像昨天一樣",
       "analysis": [
-        { "point": "넓고", "explanation": "넓다 (寬廣的) + -고 (連接語尾，表示並列)。" },
-        { "point": "푸른", "explanation": "푸르다 (蔚藍的) + -ㄴ (修飾名詞的冠詞形語尾)。" },
-        { "point": "어제처럼", "explanation": "어제 (昨天) + -처럼 (助詞，像...一樣)。" }
+        { "point": "넓고 푸른 바다", "explanation": "넓다 (寬廣) + -고 (連接詞尾，且) + 푸르다 (藍色/湛藍) 的冠形詞形 푸른 + 바다 (大海)。" },
+        { "point": "마치 어제처럼", "explanation": "마치 (副詞，好像/宛如) + 어제 (昨天) + -처럼 (助詞，像...一樣)。" }
       ]
     },
     {
       "korean": "시간이 멈춰 버린 기억 그 속에",
-      "translation": "在那時間靜止的記憶之中",
+      "translation": "時間靜止的記憶之中",
       "analysis": [
-        { "point": "멈춰 버린", "explanation": "멈추다 (停止) + -아/어 버리다 (輔助動詞，表示動作完全結束) + -(으)ㄴ (過去冠詞形)。" },
-        { "point": "속에", "explanation": "속 (裡面) + -에 (場所助詞，在...裡)。" }
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "멈춰 버린", "explanation": "멈추다 (停止) + -아/어 버리다 (表示動作完成，帶有遺憾或既定事實的語氣) 的冠形詞形。" },
+        { "point": "기억 그 속에", "explanation": "기억 (記憶) + 그 (那) + 속 (裡面) + -에 (場所助詞)。" }
       ]
     },
     {
@@ -34,56 +34,61 @@
       "korean": "하얀 모래 위를 함께 걷던 날 기억하나요",
       "translation": "還記得一起走在白色沙灘上的日子嗎",
       "analysis": [
-        { "point": "걷던", "explanation": "걷다 (走) + -던 (回想過去的修飾語尾)。" },
-        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요? (疑問終結語尾，語氣較溫柔)。" }
+        { "point": "하얀 모래 위를", "explanation": "하얗다 (白色) 的冠形詞形 + 모래 (沙) + 위 (上面) + -를 (受格助詞，此處表示經過的場所)。" },
+        { "point": "함께 걷던 날", "explanation": "함께 (一起) + 걷다 (走) + -던 (過去回想冠形詞尾) + 날 (日子)。" },
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (柔和疑問句)。" }
       ]
     },
     {
       "korean": "잠깐 밀려오는 파도 속에서도",
-      "translation": "即使在短暫湧來的波浪之中",
+      "translation": "即使在短暫湧來的波浪中",
       "analysis": [
-        { "point": "밀려오는", "explanation": "밀려오다 (湧來、擠進來) + -는 (現在冠詞形語尾)。" },
-        { "point": "속에서도", "explanation": "속 (裡面) + -에 (場所助詞) + -서 (動作發生的場所) + -도 (包含助詞，即使...也)。" }
+        { "point": "잠깐", "explanation": "副詞，短暫、一會兒。" },
+        { "point": "밀려오는", "explanation": "밀려오다 (湧來、擠進來) 的現在冠形詞形。" },
+        { "point": "파도 속에서도", "explanation": "파도 (波浪) + 속 (裡面) + -에서 (場所助詞) + -도 (即使/也)。" }
       ]
     },
     {
       "korean": "떨어지지 않았던 YEAH",
       "translation": "也沒有分開過 YEAH",
       "analysis": [
-        { "point": "떨어지지 않았던", "explanation": "떨어지다 (分開、掉落) + -지 않다 (否定句型) + -았 (過去式) + -던 (回想修飾語尾)。" }
+        { "point": "떨어지지 않았던", "explanation": "떨어지다 (分開/掉落) + -지 않다 (否定) + -았던 (過去回想冠形詞尾)。意指「沒有分開過」。" }
       ]
     },
     {
       "sectionTitle": "Verse 2",
       "korean": "(하나 둘 셋) 어느새 이렇게",
-      "translation": "(一 二 三) 不知不覺 像這樣",
+      "translation": "(一 二 三) 不知不覺 這樣",
       "analysis": [
-        { "point": "어느새", "explanation": "어느새 (副詞，不知不覺間)。" }
+        { "point": "하나 둘 셋", "explanation": "數詞，一二三。" },
+        { "point": "어느새", "explanation": "副詞，不知不覺、一晃眼。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" }
       ]
     },
     {
       "korean": "점점 나도 모르게 웃음이 사라져 가고",
-      "translation": "我也不知不覺地漸漸失去了笑容",
+      "translation": "漸漸地 我也不自覺地 笑容正在消失",
       "analysis": [
-        { "point": "나도 모르게", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) + -게 (副詞形語尾)；慣用語，意指不由自主地。" },
-        { "point": "사라져 가고", "explanation": "사라지다 (消失) + -아/어 가다 (輔助動詞，表示動作持續進行下去) + -고 (連接語尾)。" }
+        { "point": "점점", "explanation": "副詞，漸漸。" },
+        { "point": "나도 모르게", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) + -게 (副詞形語尾)。慣用語，意為「不自覺地」。" },
+        { "point": "웃음이", "explanation": "웃음 (笑容/笑聲) + -이 (主格助詞)。" },
+        { "point": "사라져 가고", "explanation": "사라지다 (消失) + -아/어 가다 (表示狀態持續進行下去) + -고 (連接詞尾)。" }
       ]
     },
     {
       "korean": "(하나 둘 셋) 뒤돌아볼 수도",
-      "translation": "(一 二 三) 無法回頭看",
+      "translation": "(一 二 三) 連回頭看",
       "analysis": [
-        { "point": "뒤돌아볼", "explanation": "뒤돌아보다 (回頭看) + -(으)ㄹ (未來/推測冠詞形)。" },
-        { "point": "수도", "explanation": "수 (方法/可能性) + -도 (也)。" }
+        { "point": "뒤돌아볼 수도", "explanation": "뒤돌아보다 (回頭看) + -(으)ㄹ 수 (能力/可能性) + -도 (連...也)。後接否定詞「없다」。" }
       ]
     },
     {
       "korean": "앞을 내다볼 수도 없이 지친 너와 나 이제",
-      "translation": "也無法展望未來 疲憊的你和我 現在",
+      "translation": "連向前看都沒辦法 疲憊的你和我 現在",
       "analysis": [
-        { "point": "내다볼", "explanation": "내다보다 (展望、眺望) + -(으)ㄹ (冠詞形)。" },
-        { "point": "-(으)ㄹ 수 없이", "explanation": "慣用型，表示「無法...地」。" },
-        { "point": "지친", "explanation": "지치다 (疲憊) + -ㄴ (過去/狀態冠詞形，修飾後面的名詞)。" }
+        { "point": "앞을 내다볼 수도 없이", "explanation": "앞 (前面) + -을 (受格助詞) + 내다보다 (展望/眺望) + -(으)ㄹ 수 없다 (無法...) + -이 (副詞化)。" },
+        { "point": "지친", "explanation": "지치다 (疲憊) 的過去冠形詞形。" },
+        { "point": "너와 나 이제", "explanation": "너 (你) + -와 (和) + 나 (我) + 이제 (現在)。" }
       ]
     },
     {
@@ -91,109 +96,118 @@
       "korean": "함께 떠나요 시원한 바람 속에",
       "translation": "一起離開吧 到涼爽的風中",
       "analysis": [
-        { "point": "떠나요", "explanation": "떠나다 (離開/出發) + -아요 (尊敬階終結語尾)。" },
-        { "point": "시원한", "explanation": "시원하다 (涼爽的) + -ㄴ (形容詞修飾形)。" }
+        { "point": "함께 떠나요", "explanation": "함께 (一起) + 떠나다 (離開/出發) + -아요 (格式體尊敬形，帶有勸誘語氣)。" },
+        { "point": "시원한 바람 속에", "explanation": "시원하다 (涼爽) 的冠形詞形 + 바람 (風) + 속 (裡面) + -에 (場所助詞)。" }
       ]
     },
     {
       "korean": "오늘은 다 잊고 그때 우리처럼",
-      "translation": "今天把一切都忘掉 就像那時的我們一樣",
+      "translation": "今天全部忘記 像那時的我們一樣",
       "analysis": [
-        { "point": "잊고", "explanation": "잊다 (忘記) + -고 (連接語尾，然後)。" },
-        { "point": "그때", "explanation": "그 (那) + 때 (時候)。" }
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "다 잊고", "explanation": "다 (全部) + 잊다 (忘記) + -고 (連接詞尾)。" },
+        { "point": "그때 우리처럼", "explanation": "그때 (那時) + 우리 (我們) + -처럼 (像...一樣)。" }
       ]
     },
     {
       "korean": "DO YOU REMEMBER 우릴 비추던 태양",
-      "translation": "DO YOU REMEMBER 照耀著我們的太陽",
+      "translation": "DO YOU REMEMBER 照耀我們的太陽",
       "analysis": [
-        { "point": "우릴", "explanation": "우리 (我們) + -를 (受格助詞) 的縮略形。" },
-        { "point": "비추던", "explanation": "비추다 (照耀) + -던 (回想過去的冠詞形語尾)。" }
+        { "point": "DO YOU REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "우릴 비추던 태양", "explanation": "우리를 (我們) 的縮略 + 비추다 (照耀) + -던 (過去回想冠形詞尾，表示過去持續或反覆的動作) + 태양 (太陽)。" }
       ]
     },
     {
       "korean": "넓고 푸른 바다 마치 어제처럼",
-      "translation": "寬廣蔚藍的大海 就像昨天一樣",
+      "translation": "寬廣又湛藍的大海 就像昨天一樣",
       "analysis": [
-        { "point": "넓고", "explanation": "넓다 (寬廣的) + -고 (連接語尾)。" },
-        { "point": "푸른", "explanation": "푸르다 (蔚藍的) + -ㄴ (冠詞形語尾)。" }
+        { "point": "넓고 푸른 바다", "explanation": "넓다 (寬廣) + -고 (連接詞尾，且) + 푸르다 (藍色/湛藍) 的冠形詞形 푸른 + 바다 (大海)。" },
+        { "point": "마치 어제처럼", "explanation": "마치 (副詞，好像/宛如) + 어제 (昨天) + -처럼 (助詞，像...一樣)。" }
       ]
     },
     {
       "korean": "시간이 멈춰진 듯이 언제나 바랐듯이",
-      "translation": "就像時間靜止了一樣 就像一直期盼的那樣",
+      "translation": "就像時間靜止了一樣 就像一直期盼的一樣",
       "analysis": [
-        { "point": "멈춰진", "explanation": "멈추다 (停止) + -아/어지다 (被動態) + -ㄴ (過去冠詞形)。" },
-        { "point": "듯이", "explanation": "語尾，表示「像...一樣」。" },
-        { "point": "바랐듯이", "explanation": "바라다 (期盼/希望) + -았 (過去式) + -듯이 (像...一樣)。注意：口語常誤說為바랬듯이，但標準語法為바랐듯이。" }
+        { "point": "시간이 멈춰진 듯이", "explanation": "시간 (時間) + -이 (主格助詞) + 멈추다 (停止) 的被動形 멈춰지다 + -(으)ㄴ 듯이 (像...一樣/似乎)。" },
+        { "point": "언제나 바랐듯이", "explanation": "언제나 (總是) + 바라다 (期盼/希望) + -았 (過去式) + -듯이 (像...一樣)。" }
       ]
     },
     {
       "korean": "REMEMBER REMEMBER REMEMBER",
       "translation": "REMEMBER REMEMBER REMEMBER",
-      "analysis": []
+      "analysis": [
+        { "point": "REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
     },
     {
       "sectionTitle": "Verse 3",
       "korean": "붉은 태양이 지는",
       "translation": "紅色太陽落下的",
       "analysis": [
-        { "point": "붉은", "explanation": "붉다 (紅的) + -은 (形容詞修飾形)。" },
-        { "point": "지는", "explanation": "지다 (落下/西沉) + -는 (現在冠詞形)。" }
+        { "point": "붉은", "explanation": "붉다 (紅色) 的冠形詞形。" },
+        { "point": "태양이 지는", "explanation": "태양 (太陽) + -이 (主格助詞) + 지다 (落下) 的現在冠形詞形。" }
       ]
     },
     {
       "korean": "그 여름밤을 기억하나요",
       "translation": "還記得那個夏夜嗎",
       "analysis": [
-        { "point": "여름밤", "explanation": "여름 (夏天) + 밤 (夜晚) 的合成詞。" },
-        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (疑問語尾)。" }
+        { "point": "그 여름밤을", "explanation": "그 (那) + 여름밤 (夏夜) + -을 (受格助詞)。" },
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (柔和疑問句)。" }
       ]
     },
     {
       "korean": "어둠이 하늘을 덮어 올수록",
-      "translation": "當黑暗越是覆蓋天空",
+      "translation": "越是黑暗覆蓋天空",
       "analysis": [
-        { "point": "덮어 올수록", "explanation": "덮다 (蓋/覆蓋) + -아/어 오다 (動作漸近) + -(으)ㄹ수록 (越...就越...)。" }
+        { "point": "어둠이", "explanation": "어둠 (黑暗) + -이 (主格助詞)。" },
+        { "point": "하늘을", "explanation": "하늘 (天空) + -을 (受格助詞)。" },
+        { "point": "덮어 올수록", "explanation": "덮다 (覆蓋) + -아/어 오다 (逐漸...過來) + -(으)ㄹ수록 (越...越...)。" }
       ]
     },
     {
       "korean": "별은 더 밝게 빛난 걸 YEAH",
-      "translation": "星星反而閃爍得更明亮 YEAH",
+      "translation": "星星閃耀得更明亮 YEAH",
       "analysis": [
-        { "point": "밝게", "explanation": "밝다 (明亮的) + -게 (副詞形語尾)。" },
-        { "point": "빛난 걸", "explanation": "빛나다 (發光) + -(으)ㄴ (過去/完成冠詞形) + 걸 (것을的縮略，表示感嘆或事實)。" }
+        { "point": "별은", "explanation": "별 (星星) + -은 (主題助詞)。" },
+        { "point": "더 밝게", "explanation": "더 (更) + 밝다 (明亮) + -게 (副詞形語尾)。" },
+        { "point": "빛난 걸", "explanation": "빛나다 (閃耀) + -(으)ㄴ 걸 (表示感嘆或陳述事實的語尾，縮略自 -ㄴ 것을)。" }
       ]
     },
     {
       "sectionTitle": "Verse 4",
       "korean": "(하나 둘 셋) 하늘을 모른 채",
-      "translation": "(一 二 三) 無視著天空 (字面義：不知道天空的狀態下)",
+      "translation": "(一 二 三) 無視天空 (不知道天空的狀態下)",
       "analysis": [
-        { "point": "모른 채", "explanation": "모르다 (不知道) + -(으)ㄴ 채 (表示保持某種狀態)。這裡指只顧低頭看路，沒空看天空的狀態。" }
+        { "point": "하늘을", "explanation": "하늘 (天空) + -을 (受格助詞)。" },
+        { "point": "모른 채", "explanation": "모르다 (不知道) + -(으)ㄴ 채 (保持某種狀態)。意指「無視天空、不抬頭看天」。" }
       ]
     },
     {
       "korean": "땅만 바라보는 게 점점 늘어만 가고",
       "translation": "只望著地面的次數 漸漸變多",
       "analysis": [
-        { "point": "바라보는 게", "explanation": "바라보다 (注視) + -는 (冠詞形) + 게 (것이的縮略，...這件事)。" },
-        { "point": "늘어만 가고", "explanation": "늘다 (增加) + -아/어 가다 (漸進)；만 (只/光是) 強調持續增加的狀態。" }
+        { "point": "땅만 바라보는 게", "explanation": "땅 (地面) + -만 (只) + 바라보다 (望著) + -는 것 (......的行為) + -이 (主格助詞)。" },
+        { "point": "점점 늘어만 가고", "explanation": "점점 (漸漸) + 늘다 (增加) + -아/어 가다 (逐漸變...) + -만 (只) 表示強調 + -고 (連接)。" }
       ]
     },
     {
       "korean": "지금이 낮인지 밤인지도 모르는",
-      "translation": "連現在是白天還是黑夜都不知道的",
+      "translation": "連現在是白天還是晚上都不知道的",
       "analysis": [
-        { "point": "낮인지 밤인지도", "explanation": "낮 (白天) / 밤 (夜晚) + -인지 (是否是...) + -도 (也)。" },
-        { "point": "모르는", "explanation": "모르다 (不知道) + -는 (現在冠詞形)。" }
+        { "point": "지금이", "explanation": "지금 (現在) + -이 (主格助詞)。" },
+        { "point": "낮인지 밤인지도", "explanation": "낮 (白天) + -인지 (是否是...) + 밤 (晚上) + -인지 (是否是...) + -도 (連...都)。" },
+        { "point": "모르는", "explanation": "모르다 (不知道) 的現在冠形詞形。" }
       ]
     },
     {
       "korean": "시간 속에 지친 너와 나 다시",
       "translation": "在時間裡疲憊的你和我 再次",
       "analysis": [
-        { "point": "지친", "explanation": "지치다 (疲憊) + -ㄴ (修飾形)。" }
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "지친", "explanation": "지치다 (疲憊) 的過去冠形詞形。" },
+        { "point": "너와 나 다시", "explanation": "너 (你) + -와 (和) + 나 (我) + 다시 (再次)。" }
       ]
     },
     {
@@ -201,74 +215,82 @@
       "korean": "함께 떠나요 시원한 바람 속에",
       "translation": "一起離開吧 到涼爽的風中",
       "analysis": [
-        { "point": "떠나요", "explanation": "떠나다 (離開) + -아요 (終結語尾)。" }
+        { "point": "함께 떠나요", "explanation": "함께 (一起) + 떠나다 (離開/出發) + -아요 (格式體尊敬形，帶有勸誘語氣)。" },
+        { "point": "시원한 바람 속에", "explanation": "시원하다 (涼爽) 的冠形詞形 + 바람 (風) + 속 (裡面) + -에 (場所助詞)。" }
       ]
     },
     {
       "korean": "오늘은 다 잊고 그때 우리처럼",
-      "translation": "今天把一切都忘掉 就像那時的我們一樣",
+      "translation": "今天全部忘記 像那時的我們一樣",
       "analysis": [
-        { "point": "잊고", "explanation": "잊다 (忘記) + -고 (連接語尾)。" }
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "다 잊고", "explanation": "다 (全部) + 잊다 (忘記) + -고 (連接詞尾)。" },
+        { "point": "그때 우리처럼", "explanation": "그때 (那時) + 우리 (我們) + -처럼 (像...一樣)。" }
       ]
     },
     {
       "korean": "DO YOU REMEMBER 우릴 비추던 태양",
-      "translation": "DO YOU REMEMBER 照耀著我們的太陽",
+      "translation": "DO YOU REMEMBER 照耀我們的太陽",
       "analysis": [
-        { "point": "우릴", "explanation": "우리 (我們) + -를 (受格助詞) 的縮略形。" },
-        { "point": "비추던", "explanation": "비추다 (照耀) + -던 (回想冠詞形)。" }
+        { "point": "DO YOU REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "우릴 비추던 태양", "explanation": "우리를 (我們) 的縮略 + 비추다 (照耀) + -던 (過去回想冠形詞尾，表示過去持續或反覆的動作) + 태양 (太陽)。" }
       ]
     },
     {
       "korean": "넓고 푸른 바다 마치 어제처럼",
-      "translation": "寬廣蔚藍的大海 就像昨天一樣",
+      "translation": "寬廣又湛藍的大海 就像昨天一樣",
       "analysis": [
-        { "point": "넓고", "explanation": "넓다 (寬廣的) + -고 (連接語尾)。" },
-        { "point": "푸른", "explanation": "푸르다 (蔚藍的) + -ㄴ (冠詞形)。" }
+        { "point": "넓고 푸른 바다", "explanation": "넓다 (寬廣) + -고 (連接詞尾，且) + 푸르다 (藍色/湛藍) 的冠形詞形 푸른 + 바다 (大海)。" },
+        { "point": "마치 어제처럼", "explanation": "마치 (副詞，好像/宛如) + 어제 (昨天) + -처럼 (助詞，像...一樣)。" }
       ]
     },
     {
       "korean": "시간이 멈춰진 듯이 언제나 바랐듯이",
-      "translation": "就像時間靜止了一樣 就像一直期盼的那樣",
+      "translation": "就像時間靜止了一樣 就像一直期盼的一樣",
       "analysis": [
-        { "point": "멈춰진 듯이", "explanation": "멈추다 (停止) 的被動過去式 + 듯이 (像...一樣)。" },
-        { "point": "바랐듯이", "explanation": "바라다 (期盼) + -았 (過去式) + -듯이 (像...一樣)。" }
+        { "point": "시간이 멈춰진 듯이", "explanation": "시간 (時間) + -이 (主格助詞) + 멈추다 (停止) 的被動形 멈춰지다 + -(으)ㄴ 듯이 (像...一樣/似乎)。" },
+        { "point": "언제나 바랐듯이", "explanation": "언제나 (總是) + 바라다 (期盼/希望) + -았 (過去式) + -듯이 (像...一樣)。" }
       ]
     },
     {
       "korean": "REMEMBER REMEMBER REMEMBER",
       "translation": "REMEMBER REMEMBER REMEMBER",
-      "analysis": []
+      "analysis": [
+        { "point": "REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
     },
     {
       "sectionTitle": "Bridge",
       "korean": "YOU 뭘 아직도 망설여요",
       "translation": "YOU 還在猶豫什麼",
       "analysis": [
-        { "point": "뭘", "explanation": "무엇을 (什麼) 的縮略形。" },
-        { "point": "망설여요", "explanation": "망설이다 (猶豫) + -어요 (終結語尾)。" }
+        { "point": "뭘", "explanation": "무엇을 (什麼) 的縮略。" },
+        { "point": "아직도", "explanation": "아직 (還/尚) + -도 (強調)。意為「依然、還」。" },
+        { "point": "망설여요", "explanation": "망설이다 (猶豫) + -어요 (格式體尊敬形)。" }
       ]
     },
     {
       "korean": "YOU 다 잊고 나와 함께 가요",
-      "translation": "YOU 忘掉一切 和我一起走吧",
+      "translation": "YOU 全部忘記 和我一起走吧",
       "analysis": [
-        { "point": "나와", "explanation": "나 (我) + -와 (和...一起)。" },
-        { "point": "가요", "explanation": "가다 (走) + -아요 (勸誘/終結語尾)。" }
+        { "point": "다 잊고", "explanation": "다 (全部) + 잊다 (忘記) + -고 (連接詞尾)。" },
+        { "point": "나와 함께 가요", "explanation": "나 (我) + -와 (和) + 함께 (一起) + 가다 (走) + -아요 (勸誘)。" }
       ]
     },
     {
       "korean": "저 푸른 바다에 다 던져 버려요",
-      "translation": "全部丟進那蔚藍的大海裡吧",
+      "translation": "全部丟進那湛藍的大海裡吧",
       "analysis": [
-        { "point": "던져 버려요", "explanation": "던지다 (丟) + -아/어 버리다 (表示徹底完成) + -어요 (終結語尾)。" }
+        { "point": "저 푸른 바다에", "explanation": "저 (那) + 푸르다 (藍色) 的冠形詞形 + 바다 (大海) + -에 (場所助詞)。" },
+        { "point": "다 던져 버려요", "explanation": "다 (全部) + 던지다 (丟) + -아/어 버리다 (表示動作完成/痛快地) + -어요 (勸誘)。" }
       ]
     },
     {
       "korean": "우리 더 늦기 전에",
       "translation": "在我們更遲之前",
       "analysis": [
-        { "point": "늦기 전에", "explanation": "늦다 (遲) + -기 전에 (在...之前)。" }
+        { "point": "우리", "explanation": "我們。" },
+        { "point": "더 늦기 전에", "explanation": "더 (更) + 늦다 (遲) + -기 전에 (在...之前)。" }
       ]
     },
     {
@@ -276,71 +298,85 @@
       "korean": "기억하나요",
       "translation": "還記得嗎",
       "analysis": [
-        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (疑問語尾)。" }
+        { "point": "기억하나요", "explanation": "기억하다 (記得) + -나요 (柔和疑問句)。" }
       ]
     },
     {
       "korean": "맘속에 그때가",
-      "translation": "內心深處 那個時候",
+      "translation": "心中那時候",
       "analysis": [
-        { "point": "맘속", "explanation": "마음 (心/心意) 的縮略形 맘 + 속 (裡面)。" },
+        { "point": "맘속에", "explanation": "맘 (心，마음的縮略) + 속 (裡面) + -에 (場所助詞)。" },
         { "point": "그때가", "explanation": "그때 (那時) + -가 (主格助詞)。" }
       ]
     },
     {
       "korean": "어제처럼 느껴지는 순간",
-      "translation": "感覺就像昨天一樣的瞬間",
+      "translation": "感覺就像昨天的瞬間",
       "analysis": [
         { "point": "어제처럼", "explanation": "어제 (昨天) + -처럼 (像...一樣)。" },
-        { "point": "느껴지는", "explanation": "느끼다 (感覺) + -아/어지다 (變得/被動) + -는 (現在冠詞形)。" }
+        { "point": "느껴지는 순간", "explanation": "느껴지다 (被感覺) 的現在冠形詞形 + 순간 (瞬間)。" }
       ]
     },
     {
       "sectionTitle": "Chorus",
       "korean": "DO YOU REMEMBER 우릴 비추던 태양",
-      "translation": "DO YOU REMEMBER 照耀著我們的太陽",
+      "translation": "DO YOU REMEMBER 照耀我們的太陽",
       "analysis": [
-        { "point": "우릴", "explanation": "우리 (我們) + -를 (受格助詞) 的縮略。" },
-        { "point": "비추던", "explanation": "비추다 (照耀) + -던 (回想冠詞形)。" }
+        { "point": "DO YOU REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "우릴 비추던 태양", "explanation": "우리를 (我們) 的縮略 + 비추다 (照耀) + -던 (過去回想冠形詞尾，表示過去持續或反覆的動作) + 태양 (太陽)。" }
       ]
     },
     {
       "korean": "넓고 푸른 바다 마치 어제처럼",
-      "translation": "寬廣蔚藍的大海 就像昨天一樣",
+      "translation": "寬廣又湛藍的大海 就像昨天一樣",
       "analysis": [
-        { "point": "넓고", "explanation": "넓다 (寬廣的) + -고 (連接語尾)。" },
-        { "point": "푸른", "explanation": "푸르다 (蔚藍的) + -ㄴ (冠詞形)。" }
+        { "point": "넓고 푸른 바다", "explanation": "넓다 (寬廣) + -고 (連接詞尾，且) + 푸르다 (藍色/湛藍) 的冠形詞形 푸른 + 바다 (大海)。" },
+        { "point": "마치 어제처럼", "explanation": "마치 (副詞，好像/宛如) + 어제 (昨天) + -처럼 (助詞，像...一樣)。" }
       ]
     },
     {
       "korean": "시간이 멈춰진 듯이 언제나 바랐듯이",
-      "translation": "就像時間靜止了一樣 就像一直期盼的那樣",
+      "translation": "就像時間靜止了一樣 就像一直期盼的一樣",
       "analysis": [
-        { "point": "멈춰진", "explanation": "멈추다 (停止) + -아/어지다 (被動) + -ㄴ (過去冠詞形)。" },
-        { "point": "바랐듯이", "explanation": "바라다 (期盼) + -았 (過去式) + -듯이 (像...一樣)。" }
+        { "point": "시간이 멈춰진 듯이", "explanation": "시간 (時間) + -이 (主格助詞) + 멈추다 (停止) 的被動形 멈춰지다 + -(으)ㄴ 듯이 (像...一樣/似乎)。" },
+        { "point": "언제나 바랐듯이", "explanation": "언제나 (總是) + 바라다 (期盼/希望) + -았 (過去式) + -듯이 (像...一樣)。" }
       ]
     },
     {
       "korean": "REMEMBER REMEMBER REMEMBER",
       "translation": "REMEMBER REMEMBER REMEMBER",
-      "analysis": []
+      "analysis": [
+        { "point": "REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
     },
     {
       "korean": "DO YOU REMEMBER",
       "translation": "DO YOU REMEMBER",
-      "analysis": []
+      "analysis": [
+        { "point": "DO YOU REMEMBER", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
     }
   ],
   "keyVocabulary": [
-    { "korean": "기억하다", "chinese": "記得、回憶", "pos": "動詞" },
-    { "korean": "비추다", "chinese": "照耀、映照", "pos": "動詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
     { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
-    { "korean": "밀려오다", "chinese": "湧來、蜂擁而至", "pos": "動詞" },
+    { "korean": "모래", "chinese": "沙", "pos": "名詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "밀려오다", "chinese": "湧來、擠進來", "pos": "動詞" },
+    { "korean": "파도", "chinese": "波浪", "pos": "名詞" },
+    { "korean": "어느새", "chinese": "不知不覺", "pos": "副詞" },
     { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "뒤돌아보다", "chinese": "回頭看", "pos": "動詞" },
     { "korean": "내다보다", "chinese": "展望、眺望", "pos": "動詞" },
-    { "korean": "지치다", "chinese": "疲憊、累", "pos": "動詞" },
-    { "korean": "바라다", "chinese": "希望、期盼", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "떠나다", "chinese": "離開、出發", "pos": "動詞" },
+    { "korean": "시원하다", "chinese": "涼爽", "pos": "形容詞" },
+    { "korean": "바라다", "chinese": "期盼、希望", "pos": "動詞" },
+    { "korean": "붉다", "chinese": "紅色", "pos": "形容詞" },
+    { "korean": "덮다", "chinese": "覆蓋", "pos": "動詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
     { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
-    { "korean": "던지다", "chinese": "投、擲、丟", "pos": "動詞" }
+    { "korean": "던지다", "chinese": "丟、投", "pos": "動詞" },
+    { "korean": "느껴지다", "chinese": "被感覺", "pos": "動詞" }
   ]
 }
