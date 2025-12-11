@@ -1,0 +1,294 @@
+{
+  "id": "jeongeunji-farewell",
+  "title": "Farewell",
+  "artist": "Jeong Eun Ji (정은지)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "저기 날아가는 새처럼",
+      "translation": "就像那邊飛著的鳥兒一樣",
+      "analysis": [
+        { "point": "저기", "explanation": "代名詞，那裡/那邊。" },
+        { "point": "날아가는 새처럼", "explanation": "날아가다 (飛走) 的現在定語形 + 새 (鳥) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "나도 날아가고 싶은 날",
+      "translation": "我也想飛走的日子",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "날아가고 싶은 날", "explanation": "날아가다 (飛走) + -고 싶다 (想) 的定語形 + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "어쩜 이리 매일 이렇게",
+      "translation": "怎麼會每天都像這樣",
+      "analysis": [
+        { "point": "어쩜", "explanation": "어찌하면 (怎麼辦/怎麼會) 的縮略，表示感嘆或疑問。" },
+        { "point": "이리", "explanation": "副詞，這樣地/如此地。" },
+        { "point": "매일 이렇게", "explanation": "매일 (每天) + 이렇게 (這樣地)。" }
+      ]
+    },
+    {
+      "korean": "같은 생각뿐인지",
+      "translation": "只有相同的想法呢",
+      "analysis": [
+        { "point": "같은 생각뿐인지", "explanation": "같다 (相同) 的定語形 + 생각 (想法) + -뿐 (只有) + -인지 (是...嗎/推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "끄덕거려 이해는 되지 않아도",
+      "translation": "點著頭 即使並不理解",
+      "analysis": [
+        { "point": "끄덕거려", "explanation": "끄덕거리다 (點頭) 的非格式體。" },
+        { "point": "이해는 되지 않아도", "explanation": "이해 (理解) + -는 (主題助詞) + 되다 (成/行) + -지 않다 (否定) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "따라 웃어 난 웃고 싶지 않아도",
+      "translation": "跟著笑 即使我並不想笑",
+      "analysis": [
+        { "point": "따라 웃어", "explanation": "따르다 (跟隨) + -아/어 (連接詞尾) + 웃다 (笑) 的非格式體。" },
+        { "point": "웃고 싶지 않아도", "explanation": "웃다 (笑) + -고 싶다 (想) + -지 않다 (否定) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "사람들을 따라가기에 바쁜 걸 난",
+      "translation": "因為忙著跟上人們的腳步",
+      "analysis": [
+        { "point": "사람들을", "explanation": "사람 (人) + -들 (複數) + -을 (受格助詞)。" },
+        { "point": "따라가기에", "explanation": "따라가다 (跟隨/跟上) + -기 (名詞化) + -에 (因為/對於)。" },
+        { "point": "바쁜 걸", "explanation": "바쁘다 (忙) 的定語形 + 것 (事情/事實) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠시 떠나고 싶은 난",
+      "translation": "想要暫時離開的我",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時。" },
+        { "point": "떠나고 싶은 난", "explanation": "떠나다 (離開) + -고 싶다 (想) 的定語形 + 나 (我) + -는 (主題助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "지쳐만 가고 있나",
+      "translation": "是變得越來越疲憊了嗎",
+      "analysis": [
+        { "point": "지쳐만 가고 있나", "explanation": "지치다 (疲憊) + -어 가다 (漸漸.../持續下去) + -만 (只/強調) + -고 있다 (正在...) + -나 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "떠나는 날",
+      "translation": "離開的那天",
+      "analysis": [
+        { "point": "떠나는 날", "explanation": "떠나다 (離開) 的現在定語形 + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그날을 기다려요",
+      "translation": "等待著那一天",
+      "analysis": [
+        { "point": "그날을", "explanation": "그날 (那天) + -을 (受格助詞)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) + -어요 (尊敬語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Humming",
+      "korean": "Um um um um",
+      "translation": "Um um um um",
+      "analysis": []
+    },
+    {
+      "korean": "Um um um um",
+      "translation": "Um um um um",
+      "analysis": []
+    },
+    {
+      "korean": "Um um um um",
+      "translation": "Um um um um",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "기분 좋은 햇살 받으며",
+      "translation": "沐浴著令人心情好的陽光",
+      "analysis": [
+        { "point": "기분 좋은", "explanation": "기분 (心情) + 좋다 (好) 的定語形。" },
+        { "point": "햇살 받으며", "explanation": "햇살 (陽光) + 받다 (接受/沐浴) + -(으)며 (一邊...一邊...)。" }
+      ]
+    },
+    {
+      "korean": "커피 한잔 하고 싶어도",
+      "translation": "即使想喝一杯咖啡",
+      "analysis": [
+        { "point": "커피 한잔", "explanation": "커피 (咖啡) + 한 (一) + 잔 (杯)。" },
+        { "point": "하고 싶어도", "explanation": "하다 (做/喝) + -고 싶다 (想) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "바쁜 걸음은 쫓겨가듯",
+      "translation": "忙碌的步伐像被追趕似地",
+      "analysis": [
+        { "point": "바쁜 걸음은", "explanation": "바쁘다 (忙) 的定語形 + 걸음 (步伐) + -은 (主題助詞)。" },
+        { "point": "쫓겨가듯", "explanation": "쫓기다 (被追趕) + -어 가다 (持續) + -듯 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내가 있던 자리로",
+      "translation": "回到我原本所在的位置",
+      "analysis": [
+        { "point": "내가 있던", "explanation": "내 (我) + -가 (主格助詞) + 있다 (在) + -던 (回想過去的定語形)。" },
+        { "point": "자리로", "explanation": "자리 (位子/位置) + -로 (方向助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "그럭저럭 지나가기만 바라고",
+      "translation": "只希望得過且過地混過去",
+      "analysis": [
+        { "point": "그럭저럭", "explanation": "副詞，得過且過、馬馬虎虎。" },
+        { "point": "지나가기만 바라고", "explanation": "지나가다 (過去) + -기 (名詞化) + -만 (只) + 바라다 (希望) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "매일 아침 눈을 뜨기 싫어도",
+      "translation": "即使每天早上討厭睜開眼睛",
+      "analysis": [
+        { "point": "매일 아침", "explanation": "매일 (每天) + 아침 (早上)。" },
+        { "point": "눈을 뜨기 싫어도", "explanation": "눈을 뜨다 (睜開眼) + -기 싫다 (討厭...) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "사람들을 따라가기도 벅차니까",
+      "translation": "因為光是跟上人們也已經很吃力了",
+      "analysis": [
+        { "point": "따라가기도", "explanation": "따라가다 (跟隨) + -기 (名詞化) + -도 (也/連...都)。" },
+        { "point": "벅차니까", "explanation": "벅차다 (吃力/費勁) + -(으)니까 (因為)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠시 떠나고 싶은 난",
+      "translation": "想要暫時離開的我",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時。" },
+        { "point": "떠나고 싶은 난", "explanation": "떠나다 (離開) + -고 싶다 (想) 的定語形 + 나 (我) + -는 (主題助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "지쳐만 가고 있나",
+      "translation": "是變得越來越疲憊了嗎",
+      "analysis": [
+        { "point": "지쳐만 가고 있나", "explanation": "지치다 (疲憊) + -어 가다 (漸漸.../持續下去) + -만 (只/強調) + -고 있다 (正在...) + -나 (疑問語尾)。" }
+      ]
+    },
+    {
+      "korean": "떠나는 날",
+      "translation": "離開的那天",
+      "analysis": [
+        { "point": "떠나는 날", "explanation": "떠나다 (離開) 的現在定語形 + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그날을 기다려요",
+      "translation": "等待著那一天",
+      "analysis": [
+        { "point": "그날을", "explanation": "그날 (那天) + -을 (受格助詞)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) + -어요 (尊敬語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "한순간 짧은 꿈같은",
+      "translation": "就像一瞬間短暫的夢一樣",
+      "analysis": [
+        { "point": "한순간", "explanation": "名詞，一瞬間。" },
+        { "point": "짧은 꿈같은", "explanation": "짧다 (短) 的定語形 + 꿈 (夢) + 같다 (像) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "그런 순간이라도 좋아",
+      "translation": "即使是那樣的瞬間也好",
+      "analysis": [
+        { "point": "그런 순간이라도", "explanation": "그렇다 (那樣) 的定語形 + 순간 (瞬間) + -(이)라도 (即使是...)。" },
+        { "point": "좋아", "explanation": "좋다 (好/喜歡) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이젠 떠나고 싶어 난",
+      "translation": "現在我想要離開",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (主題助詞) 的縮略。" },
+        { "point": "떠나고 싶어 난", "explanation": "떠나다 (離開) + -고 싶다 (想) 的非格式體 + 난 (我)。" }
+      ]
+    },
+    {
+      "korean": "하늘을 날아서",
+      "translation": "飛向天空",
+      "analysis": [
+        { "point": "하늘을", "explanation": "하늘 (天空) + -을 (受格助詞)。" },
+        { "point": "날아서", "explanation": "날다 (飛) + -아서 (表示方式/接著)。" }
+      ]
+    },
+    {
+      "korean": "떠나는 날",
+      "translation": "離開的那天",
+      "analysis": [
+        { "point": "떠나는 날", "explanation": "떠나다 (離開) 的現在定語形 + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그날을 기다려요",
+      "translation": "等待著那一天",
+      "analysis": [
+        { "point": "그날을", "explanation": "그날 (那天) + -을 (受格助詞)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) + -어요 (尊敬語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Um um um um",
+      "translation": "Um um um um",
+      "analysis": []
+    },
+    {
+      "korean": "Um um um um",
+      "translation": "Um um um um",
+      "analysis": []
+    },
+    {
+      "korean": "Um um um um",
+      "translation": "Um um um um",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "날아가다", "chinese": "飛走", "pos": "動詞" },
+    { "korean": "새", "chinese": "鳥", "pos": "名詞" },
+    { "korean": "어쩜", "chinese": "怎麼會、怎麼辦", "pos": "副詞" },
+    { "korean": "끄덕거리다", "chinese": "點頭", "pos": "動詞" },
+    { "korean": "이해", "chinese": "理解", "pos": "名詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "따라가다", "chinese": "跟隨、跟上", "pos": "動詞" },
+    { "korean": "바쁘다", "chinese": "忙", "pos": "形容詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "받다", "chinese": "接受、沐浴(陽光)", "pos": "動詞" },
+    { "korean": "걸음", "chinese": "步伐", "pos": "名詞" },
+    { "korean": "쫓기다", "chinese": "被追趕", "pos": "動詞" },
+    { "korean": "자리", "chinese": "位置、位子", "pos": "名詞" },
+    { "korean": "그럭저럭", "chinese": "得過且過、馬馬虎虎", "pos": "副詞" },
+    { "korean": "지나가다", "chinese": "過去、經過", "pos": "動詞" },
+    { "korean": "뜨다", "chinese": "睜開(眼)", "pos": "動詞" },
+    { "korean": "벅차다", "chinese": "吃力、費勁", "pos": "形容詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "날다", "chinese": "飛", "pos": "動詞" }
+  ]
+}

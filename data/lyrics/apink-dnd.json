@@ -1,0 +1,359 @@
+{
+  "id": "apink-dnd",
+  "title": "DND",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "D-N-D now, never waste your life D-N-D now",
+      "translation": "D-N-D now, never waste your life D-N-D now",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Yeah 하늘을 바라본 게 글쎄 언제였더라",
+      "translation": "Yeah 仰望天空這件事 究竟是什麼時候了呢",
+      "analysis": [
+        { "point": "바라본 게", "explanation": "바라보다 (仰望) + -(으)ㄴ (過去冠詞形) + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "언제였더라", "explanation": "언제 (何時) + -이었 (過去式) + -더라 (回想疑問語尾，表示回想過去並自問)。" }
+      ]
+    },
+    {
+      "korean": "생각도 안 나잖아 (고단한 Day life)",
+      "translation": "連想都想不起來了不是嗎 (疲憊的 Day life)",
+      "analysis": [
+        { "point": "안 나잖아", "explanation": "안 (不) + 나다 (發生/想起) + -잖아 (不是...嘛/強調)。" },
+        { "point": "고단한", "explanation": "고단하다 (疲憊/勞累) + -ㄴ (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "가끔은 Eye to eye on 거울에 눈을 맞춰",
+      "translation": "偶爾 Eye to eye on 和鏡子對上視線",
+      "analysis": [
+        { "point": "거울에", "explanation": "거울 (鏡子) + -에 (方向/對象助詞)。" },
+        { "point": "맞춰", "explanation": "맞추다 (對準/配合) + -어 (連接/終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "입꼬릴 Up 더 보여 줄래 Smiley face",
+      "translation": "嘴角 Up 再讓我看看好嗎 Smiley face",
+      "analysis": [
+        { "point": "입꼬릴", "explanation": "입꼬리 (嘴角) + -를 (受格助詞) 的縮略。" },
+        { "point": "보여 줄래", "explanation": "보이다 (使看見/展示) + -어 주다 (為某人做) + -(으)ㄹ래 (請求/詢問意願)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "자그만 네 Room 한구석에서",
+      "translation": "在你小小的房間 一個角落裡",
+      "analysis": [
+        { "point": "자그만", "explanation": "자그마하다 (小小的/嬌小的) 的縮略形修飾詞。" },
+        { "point": "한구석에서", "explanation": "한 (某個/一個) + 구석 (角落) + -에서 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "긴 한숨을 Hoo 혼자 걱정하진 않길",
+      "translation": "長長的嘆息 Hoo 希望不要獨自擔心",
+      "analysis": [
+        { "point": "걱정하진 않길", "explanation": "걱정하다 (擔心) + -지는 (強調否定) + 않다 (不) + -기 (名詞化) + -를 (受格)；結尾省略「바라다 (希望)」，表示祈願。" }
+      ]
+    },
+    {
+      "korean": "잊은 채로 살았던 Palette 속에 골라 봐 봐 너의 색",
+      "translation": "在遺忘著生活過的 Palette 裡 挑選看看吧 你的顏色",
+      "analysis": [
+        { "point": "잊은 채로", "explanation": "잊다 (忘記) + -(으)ㄴ 채로 (保持某種狀態)。" },
+        { "point": "살았던", "explanation": "살다 (生活) + -았 (過去) + -던 (回想修飾形)。" },
+        { "point": "골라 봐 봐", "explanation": "고르다 (挑選) + -아/어 보다 (嘗試) + -아/어 봐 (命令/勸誘)。" }
+      ]
+    },
+    {
+      "korean": "만나게 될 거야 네 가능성 (Now 하나하나 Paint your frame)",
+      "translation": "將會遇見的 你的可能性 (Now 一個一個 Paint your frame)",
+      "analysis": [
+        { "point": "만나게 될 거야", "explanation": "만나다 (遇見) + -게 되다 (變得.../將會...) + -(으)ㄹ 거야 (未來推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Just D-N-D now 누구도 막을 수 없어",
+      "translation": "Just D-N-D now 誰也無法阻擋",
+      "analysis": [
+        { "point": "누구도", "explanation": "누구 (誰) + -도 (也，接否定)。" },
+        { "point": "막을 수 없어", "explanation": "막다 (阻擋) + -(으)ㄹ 수 없다 (無法)。" }
+      ]
+    },
+    {
+      "korean": "계속 걸어 네 방식대로 Find your way",
+      "translation": "繼續走吧 照你的方式 Find your way",
+      "analysis": [
+        { "point": "걸어", "explanation": "걷다 (走) + -어 (命令/勸誘)。" },
+        { "point": "방식대로", "explanation": "방식 (方式) + -대로 (按照/依照)。" }
+      ]
+    },
+    {
+      "korean": "Just D-N-D now 언제나 Live it like you're 22",
+      "translation": "Just D-N-D now 無論何時 Live it like you're 22",
+      "analysis": [
+        { "point": "언제나", "explanation": "언제나 (無論何時/總是)。" }
+      ]
+    },
+    {
+      "korean": "Better better better move 너를 있는 모습 그대로 믿어 봐",
+      "translation": "Better better better move 試著相信你原本的樣子",
+      "analysis": [
+        { "point": "있는 모습 그대로", "explanation": "있다 (存在) + -는 (冠詞形) + 모습 (樣子) + 그대로 (原樣)。意指「本來的樣子」。" },
+        { "point": "믿어 봐", "explanation": "믿다 (相信) + -아/어 보다 (嘗試)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Yeah 해야 하는 것보단 하고 싶은 걸로",
+      "translation": "Yeah 比起該做的事 用想做的事",
+      "analysis": [
+        { "point": "해야 하는 것보단", "explanation": "하다 + -아야 하다 (必須) + -는 것 (事情) + -보다는 (比起.../比較助詞) 的縮略。" },
+        { "point": "하고 싶은 걸로", "explanation": "하다 + -고 싶다 (想) + -은 (修飾) + 것 (事情) + -으로 (手段/工具助詞) -> 걸로。" }
+      ]
+    },
+    {
+      "korean": "과감하게 Take that (Mmm baby) 그래도 돼 (Why not?)",
+      "translation": "果敢地 Take that (Mmm baby) 那樣也可以 (Why not?)",
+      "analysis": [
+        { "point": "과감하게", "explanation": "과감하다 (果敢) + -게 (副詞形)。" },
+        { "point": "그래도 돼", "explanation": "그리하여도 (即使那樣做) + 되다 (可以/行) -> 그래도 돼。" }
+      ]
+    },
+    {
+      "korean": "Oh 행복이라는 건 생각 외로 단순해 Oh",
+      "translation": "Oh 所謂幸福 比想像中單純 Oh",
+      "analysis": [
+        { "point": "행복이라는 건", "explanation": "행복 (幸福) + -(이)라는 (所謂) + 것은 (東西-主題) 的縮略。" },
+        { "point": "생각 외로", "explanation": "생각 (想法/想像) + 외로 (之外/意外地)。" },
+        { "point": "단순해", "explanation": "단순하다 (單純) + -해 (終結)。" }
+      ]
+    },
+    {
+      "korean": "머나먼 저편에 찾아 헤맨 Heaven 사실 여기 있는 걸",
+      "translation": "在遙遠的那端 尋找徘徊的 Heaven 其實就在這裡",
+      "analysis": [
+        { "point": "머나먼", "explanation": "멀다 (遠) 的強調形，非常遙遠的。" },
+        { "point": "찾아 헤맨", "explanation": "찾다 (尋找) + -아 (連接) + 헤매다 (徘徊) + -ㄴ (過去修飾)。" },
+        { "point": "있는 걸", "explanation": "있다 (在) + -는 (現在修飾) + 걸 (것을的縮略，感嘆語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "네 마음의 Room 한구석으로",
+      "translation": "往你心裡的 Room 一個角落",
+      "analysis": [
+        { "point": "한구석으로", "explanation": "한구석 (角落) + -으로 (方向助詞)。" }
+      ]
+    },
+    {
+      "korean": "미뤄 왔던 꿈 더 외면하지는 않길",
+      "translation": "希望不要再無視那些一直推遲的夢想",
+      "analysis": [
+        { "point": "미뤄 왔던", "explanation": "미루다 (推遲) + -어 오다 (持續做...) + -았 (過去) + -던 (回想修飾)。" },
+        { "point": "외면하지는 않길", "explanation": "외면하다 (無視/迴避) + -지는 않다 (否定) + -길 (祈願)。" }
+      ]
+    },
+    {
+      "korean": "때론 아무 대책 없이 내일을 낙관해도 괜찮아",
+      "translation": "有時毫無對策地 對明天保持樂觀也沒關係",
+      "analysis": [
+        { "point": "대책 없이", "explanation": "대책 (對策) + 없다 (沒有) + -이 (副詞化)。" },
+        { "point": "낙관해도", "explanation": "낙관하다 (樂觀) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "네 마음속에 가득 쌓인 Dust (전부 다 털어봐)",
+      "translation": "在你心中堆滿的 Dust (全部都撣掉吧)",
+      "analysis": [
+        { "point": "쌓인", "explanation": "쌓이다 (堆積/被堆) + -ㄴ (修飾形)。" },
+        { "point": "털어봐", "explanation": "털다 (抖/撣) + -아/어 보다 (嘗試)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Just D-N-D now 누구도 막을 수 없어",
+      "translation": "Just D-N-D now 誰也無法阻擋",
+      "analysis": [
+        { "point": "막을 수 없어", "explanation": "막다 (阻擋) + -(으)ㄹ 수 없다 (無法)。" }
+      ]
+    },
+    {
+      "korean": "계속 걸어 네 방식대로 Find your way",
+      "translation": "繼續走吧 照你的方式 Find your way",
+      "analysis": [
+        { "point": "방식대로", "explanation": "방식 (方式) + -대로 (依照)。" }
+      ]
+    },
+    {
+      "korean": "Just D-N-D now 언제나 Live it like you're 22",
+      "translation": "Just D-N-D now 無論何時 Live it like you're 22",
+      "analysis": [
+        { "point": "언제나", "explanation": "언제나 (總是)。" }
+      ]
+    },
+    {
+      "korean": "Better better better move 너를 있는 모습 그대로 믿어 봐",
+      "translation": "Better better better move 試著相信你原本的樣子",
+      "analysis": [
+        { "point": "믿어 봐", "explanation": "믿다 (相信) + -아/어 보다 (嘗試)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "사는 게 문득 불안할 땐 Mmm",
+      "translation": "當生活突然感到不安時 Mmm",
+      "analysis": [
+        { "point": "사는 게", "explanation": "살다 (活) + -는 (冠詞形) + 것 (事情) + -이 (主格) -> 게。" },
+        { "point": "불안할 땐", "explanation": "불안하다 (不安) + -(으)ㄹ (未來/推測修飾) + 때 (時候) + -는 (主題) -> 땐。" }
+      ]
+    },
+    {
+      "korean": "네 곁에 있는 나를 기억해",
+      "translation": "請記得在你身邊的我",
+      "analysis": [
+        { "point": "있는", "explanation": "있다 (在) + -는 (現在冠詞形)。" },
+        { "point": "기억해", "explanation": "기억하다 (記得) + -해 (命令/勸誘)。" }
+      ]
+    },
+    {
+      "korean": "앞을 향해서 (Oh oh) Don't ever looking back (Oh oh)",
+      "translation": "向著前方 (Oh oh) Don't ever looking back (Oh oh)",
+      "analysis": [
+        { "point": "향해서", "explanation": "향하다 (朝向) + -어서 (連接)。" }
+      ]
+    },
+    {
+      "korean": "비가 온 뒤 더 단단해질 너를 알잖아",
+      "translation": "你知道雨過之後會變得更堅強的你",
+      "analysis": [
+        { "point": "온 뒤", "explanation": "오다 (來) + -(으)ㄴ (過去冠詞形) + 뒤 (之後)。" },
+        { "point": "단단해질", "explanation": "단단하다 (堅固/堅強) + -아/어지다 (變得...) + -(으)ㄹ (未來修飾)。" },
+        { "point": "알잖아", "explanation": "알다 (知道) + -잖아 (不是...嘛/強調)。" }
+      ]
+    },
+    {
+      "korean": "Ah Mmm mmm Ah",
+      "translation": "Ah Mmm mmm Ah",
+      "analysis": []
+    },
+    {
+      "korean": "Ah Mmm mmm",
+      "translation": "Ah Mmm mmm",
+      "analysis": []
+    },
+    {
+      "korean": "늘 함께 할 거야",
+      "translation": "我會一直和你在一起",
+      "analysis": [
+        { "point": "늘", "explanation": "늘 (總是/一直)。" },
+        { "point": "함께 할 거야", "explanation": "함께하다 (在一起) + -(으)ㄹ 거야 (未來意志)。" }
+      ]
+    },
+    {
+      "korean": "어른이 돼 가는 너의 과정에",
+      "translation": "在你變為大人的過程中",
+      "analysis": [
+        { "point": "돼 가는", "explanation": "되다 (成為) + -어 가다 (漸變/持續) + -는 (現在冠詞形)。" },
+        { "point": "과정에", "explanation": "과정 (過程) + -에 (在...之中)。" }
+      ]
+    },
+    {
+      "korean": "헤맨다고 해도 괜찮으니까",
+      "translation": "即使徘徊也沒關係",
+      "analysis": [
+        { "point": "헤맨다고 해도", "explanation": "헤매다 (徘徊) + -ㄴ다고 해도 (讓步引用，即使說...)。" },
+        { "point": "괜찮으니까", "explanation": "괜찮다 (沒關係) + -(으)니까 (因為...)。" }
+      ]
+    },
+    {
+      "korean": "Find your way Oh whoa whoa",
+      "translation": "Find your way Oh whoa whoa",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "D-N-D now 희망이 비치는 Road",
+      "translation": "D-N-D now 希望照耀的 Road",
+      "analysis": [
+        { "point": "비치는", "explanation": "비치다 (照耀/映照) + -는 (現在冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "걷고 걸어 더 눈부시게 빛날 Days",
+      "translation": "走著又走 將會更加耀眼發光的 Days",
+      "analysis": [
+        { "point": "걷고 걸어", "explanation": "걷다 (走) + -고 (連接) + 걷다 (走) + -어 (連接)；表示持續不斷地走。" },
+        { "point": "눈부시게", "explanation": "눈부시다 (耀眼) + -게 (副詞形)。" },
+        { "point": "빛날", "explanation": "빛나다 (發光) + -(으)ㄹ (未來修飾)。" }
+      ]
+    },
+    {
+      "korean": "Just D-N-D now 온 세상 가득해질 너만의",
+      "translation": "Just D-N-D now 將充滿整個世界的 專屬於你的",
+      "analysis": [
+        { "point": "온 세상", "explanation": "온 (整個) + 세상 (世界)。" },
+        { "point": "가득해질", "explanation": "가득하다 (充滿) + -아/어지다 (變得) + -(으)ㄹ (未來修飾)。" }
+      ]
+    },
+    {
+      "korean": "Color color color Ooh 좋아 지금 모습 그대로 Live your life",
+      "translation": "Color color color Ooh 很好 照現在的樣子 Live your life",
+      "analysis": [
+        { "point": "좋아", "explanation": "좋다 (好) + -아 (半語終結)。" },
+        { "point": "모습 그대로", "explanation": "모습 (樣子) + 그대로 (原樣)。" }
+      ]
+    },
+    {
+      "korean": "Just D-N-D now 누구도 막을 수 없어",
+      "translation": "Just D-N-D now 誰也無法阻擋",
+      "analysis": [
+        { "point": "막을 수 없어", "explanation": "막다 (阻擋) + -(으)ㄹ 수 없다 (無法)。" }
+      ]
+    },
+    {
+      "korean": "계속 걸어 네 방식대로 Find your way (Oh find your way)",
+      "translation": "繼續走吧 照你的方式 Find your way (Oh find your way)",
+      "analysis": [
+        { "point": "방식대로", "explanation": "방식 (方式) + -대로 (依照)。" }
+      ]
+    },
+    {
+      "korean": "Just D-N-D now 널 가득하게 채워 24",
+      "translation": "Just D-N-D now 將你填滿 24",
+      "analysis": [
+        { "point": "가득하게", "explanation": "가득하다 (滿滿) + -게 (副詞形)。" },
+        { "point": "채워", "explanation": "채우다 (填滿) + -어 (命令/勸誘)。" }
+      ]
+    },
+    {
+      "korean": "Better better better move 좋아 지금 모습 그대로 Live your life",
+      "translation": "Better better better move 很好 照現在的樣子 Live your life",
+      "analysis": [
+        { "point": "그대로", "explanation": "그대로 (照樣/原封不動)。" }
+      ]
+    },
+    {
+      "korean": "You better better better move 너를 있는 모습 그대로 믿어 봐",
+      "translation": "You better better better move 試著相信你原本的樣子",
+      "analysis": [
+        { "point": "믿어 봐", "explanation": "믿다 (相信) + -아/어 보다 (嘗試)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "바라보다", "chinese": "仰望、凝視", "pos": "動詞" },
+    { "korean": "고단하다", "chinese": "疲憊、勞累", "pos": "形容詞" },
+    { "korean": "맞추다", "chinese": "配合、對準", "pos": "動詞" },
+    { "korean": "입꼬리", "chinese": "嘴角", "pos": "名詞" },
+    { "korean": "한숨", "chinese": "嘆氣", "pos": "名詞" },
+    { "korean": "고르다", "chinese": "挑選", "pos": "動詞" },
+    { "korean": "과감하다", "chinese": "果敢、大膽", "pos": "形容詞" },
+    { "korean": "미루다", "chinese": "推遲、延後", "pos": "動詞" },
+    { "korean": "외면하다", "chinese": "迴避、無視", "pos": "動詞" },
+    { "korean": "단단하다", "chinese": "堅固、堅強", "pos": "形容詞" }
+  ]
+}

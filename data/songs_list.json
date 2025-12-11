@@ -4,10 +4,66 @@
     "title": "_____",
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
+  }, 
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },   
+    {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  }, 
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },   
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  }, 
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },   
+  
+  {
+    "id": "jeongeunji-blue-whale",
+    "title": "Blue Whale",
+    "artist": "Jeong Eun Ji (정은지)",
+    "lyricsFile": "../data/lyrics/eongeunji-blue-whale.json"
   },
   {
+    "id": "jeongeunji-away",
+    "title": "AWay",
+    "artist": "Jeong Eun Ji (정은지)",
+    "lyricsFile": "../data/lyrics/jeongeunji-away.json"
+  },
+  {
+    "id": "jeongeunji-farewell",
+    "title": "Farewell",
+    "artist": "Jeong Eun Ji (정은지)",
+    "lyricsFile": "../data/lyrics/jeongeunji-farewell.json"
+  },
+  {
+    "id": "jeongeunji-huhgak-shorthair",
+    "title": "Short Hair (짧은머리)",
+    "artist": "Jeong Eun Ji (정은지) & Huh Gak (허각)",
+    "lyricsFile": "../data/lyrics/jeongeunji-huhgak-shorthair.json"
+  },
+    
+  {
     "id": "jeongeunji-seoinguk-couple",
-    "title": "Couple",
+    "title": "Couple (Cover*)",
     "artist": "Jeong Eun Ji (정은지) & Seo In Guk (서인국)",
     "lyricsFile": "../data/lyrics/jeongeunji-seoinguk-couple.json"
   },
@@ -18,26 +74,26 @@
     "lyricsFile": "../data/lyrics/jeongeunji-all-for-you.json"
   },  
   {
-    "id": "jeongeunji-love-day",
+    "id": "jeongeunji-yangyoseob-loveday",
     "title": "Love Day",
-    "artist": "Jeong Eun-ji & Yang Yo-seob (정은지 & 양요섭)",
-    "lyricsFile": "../data/lyrics/jeong-eun-ji-love-day.json"
+    "artist": "Jeong Eun Ji (정은지) & Yang Yoseob (양요섭)",
+    "lyricsFile": "../data/lyrics/jeongeunji-yangyoseob-loveday.json"
   },   
   {
     "id": "jeongeunji-journey-for-myself",
-    "title": "Journey For Myself (나에게로 떠나는 여행)",
+    "title": "Journey For Myself",
     "artist": "Jeong Eun Ji (정은지)",
     "lyricsFile": "../data/lyrics/jeongeunji-journey-for-myself.json"
   },
   {
     "id": "jeongeunji-hopefully-sky",
-    "title": "Hopefully Sky (하늘바라기)",
+    "title": "Hopefully Sky",
     "artist": "Jeong Eun Ji (정은지)",
     "lyricsFile": "../data/lyrics/jeongeunji-hopefully-sky.json"
   },      
   {
     "id": "jeongeunji-the-spring",
-    "title": "The Spring (너란 봄)",
+    "title": "The Spring",
     "artist": "Jeong Eun Ji (정은지) feat. Hareem (하림)",
     "lyricsFile": "../data/lyrics/jeongeunji-the-spring.json"
   },     
@@ -73,7 +129,18 @@
     "artist": "Apink (에이핑크)",
     "lyricsFile": "../data/lyrics/apink-remember.json"
   },
-
+  {
+    "id": "apink-uyou",
+    "title": "U You",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-uyou.json"
+  },
+  {
+    "id": "apink-mymy",
+    "title": "My My",
+    "artist": "Apink (에이핑크)",  
+    "lyricsFile": "../data/lyrics/apink-mymy.json"
+  },    
   {
     "id": "apink-nonono",
     "title": "NoNoNo",
@@ -86,7 +153,12 @@
     "artist": "Apink (에이핑크)",
     "lyricsFile": "../data/lyrics/apink-luv.json"
   },
-
+  {
+    "id": "apink-dnd",
+    "title": "DND",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-dnd.json"
+  },  
   {
     "id": "epikhigh-screen-time",
     "title": "Screen Time (에픽하이)",

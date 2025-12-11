@@ -1,0 +1,451 @@
+{
+  "id": "apink-uyou",
+  "title": "U You",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 사랑은 U U",
+      "translation": "我的愛是 U U",
+      "analysis": [
+        { "point": "내 사랑은", "explanation": "내 (我的) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "너만 보면 자꾸 떨려와",
+      "translation": "只要看著你就會總是顫抖",
+      "analysis": [
+        { "point": "너만 보면", "explanation": "너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果/當)。" },
+        { "point": "자꾸 떨려와", "explanation": "자꾸 (總是/一直) + 떨려오다 (顫抖起來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 전부는 U U",
+      "translation": "我的全部是 U U",
+      "analysis": [
+        { "point": "내 전부는", "explanation": "내 (我的) + 전부 (全部) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 눈엔 너밖에 안 보여",
+      "translation": "我的眼裡只看得見你",
+      "analysis": [
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼睛) + -에는 (在...裡) 的縮略。" },
+        { "point": "너밖에 안 보여", "explanation": "너 (你) + -밖에 (除了...之外) + 안 (不/沒) + 보이다 (看見)。" }
+      ]
+    },
+    {
+      "korean": "꿈속에도 U U U (BABY MY LOVE)",
+      "translation": "夢裡也 U U U (BABY MY LOVE)",
+      "analysis": [
+        { "point": "꿈속에도", "explanation": "꿈 (夢) + 속 (裡面) + -에 (場所助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "매일매일 U U U (I JUST WANNA)",
+      "translation": "每天每天 U U U (I JUST WANNA)",
+      "analysis": [
+        { "point": "매일매일", "explanation": "副詞，每天每天。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 천천히 니 사랑에 빠질래",
+      "translation": "一點點 更慢慢地 想要陷入你的愛裡",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (表示程度或數量)。" },
+        { "point": "더 천천히", "explanation": "더 (更) + 천천히 (慢慢地)。" },
+        { "point": "니 사랑에 빠질래", "explanation": "니 (你的) + 사랑 (愛) + -에 (陷入...) + 빠지다 (掉進/陷入) + -(으)ㄹ래 (表示意願)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "유난히 햇살 좋은 아침 오늘은 그댈 만나는 날",
+      "translation": "陽光特別好的早晨 今天是見你的日子",
+      "analysis": [
+        { "point": "유난히", "explanation": "副詞，格外/特別。" },
+        { "point": "햇살 좋은 아침", "explanation": "햇살 (陽光) + 좋다 (好) 的定語形 + 아침 (早晨)。" },
+        { "point": "그댈 만나는 날", "explanation": "그대를 (你) 的縮略 + 만나다 (見面) 的現在定語形 + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "어제부터 골라놓은 옷들은 참 많은데",
+      "translation": "從昨天就挑好的衣服雖然很多",
+      "analysis": [
+        { "point": "어제부터", "explanation": "어제 (昨天) + -부터 (從...開始)。" },
+        { "point": "골라놓은 옷들은", "explanation": "고르다 (挑選) + -아/어 놓다 (動作完成後保持狀態) 的過去定語形 + 옷 (衣服) + -들 (複數) + -은 (主題助詞)。" },
+        { "point": "참 많은데", "explanation": "참 (真) + 많다 (多) + -(으)ㄴ데 (雖然...但是/表示背景)。" }
+      ]
+    },
+    {
+      "korean": "뭘 입어야 더 예뻐 보일까",
+      "translation": "該穿什麼才會看起來更漂亮呢",
+      "analysis": [
+        { "point": "뭘 입어야", "explanation": "무엇을 (什麼) 的縮略 + 입다 (穿) + -어야 (必須...才)。" },
+        { "point": "더 예뻐 보일까", "explanation": "더 (更) + 예쁘다 (漂亮) + -아/어 보이다 (看起來...) + -(으)ㄹ까 (推測疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Shining Shining Shining Star",
+      "translation": "Shining Shining Shining Star",
+      "analysis": []
+    },
+    {
+      "korean": "그댄 나의 Super Star",
+      "translation": "你是我的 Super Star",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대는 (你) 的縮略。" },
+        { "point": "나의", "explanation": "나 (我) + -의 (的)。" }
+      ]
+    },
+    {
+      "korean": "누가 뭐라 해도 뭐라 말을 해도",
+      "translation": "不管誰說什麼 不管說什麼話",
+      "analysis": [
+        { "point": "누가 뭐라 해도", "explanation": "누가 (誰) + 뭐라 (說什麼，무엇이라고的縮略) + 하다 (說/做) + -아/어도 (即使/不管)。" },
+        { "point": "말을 해도", "explanation": "말 (話) + -을 (受格助詞) + 하다 (說) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "내 눈엔 다 멋진 걸",
+      "translation": "在我眼裡全都很帥氣",
+      "analysis": [
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼睛) + -에는 (在...裡) 的縮略。" },
+        { "point": "다 멋진 걸", "explanation": "다 (都) + 멋지다 (帥氣) 的定語形 + 것 (事實) + -을 (受格助詞) 的縮略，表感嘆。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 사랑은 U U",
+      "translation": "我的愛是 U U",
+      "analysis": [
+        { "point": "내 사랑은", "explanation": "내 (我的) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "너만 보면 자꾸 떨려와",
+      "translation": "只要看著你就會總是顫抖",
+      "analysis": [
+        { "point": "너만 보면", "explanation": "너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果/當)。" },
+        { "point": "자꾸 떨려와", "explanation": "자꾸 (總是/一直) + 떨려오다 (顫抖起來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 전부는 U U",
+      "translation": "我的全部是 U U",
+      "analysis": [
+        { "point": "내 전부는", "explanation": "내 (我的) + 전부 (全部) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 눈엔 너밖에 안 보여",
+      "translation": "我的眼裡只看得見你",
+      "analysis": [
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼睛) + -에는 (在...裡) 的縮略。" },
+        { "point": "너밖에 안 보여", "explanation": "너 (你) + -밖에 (除了...之外) + 안 (不/沒) + 보이다 (看見)。" }
+      ]
+    },
+    {
+      "korean": "꿈속에도 U U U (BABY MY LOVE)",
+      "translation": "夢裡也 U U U (BABY MY LOVE)",
+      "analysis": [
+        { "point": "꿈속에도", "explanation": "꿈 (夢) + 속 (裡面) + -에 (場所助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "매일매일 U U U (I JUST WANNA)",
+      "translation": "每天每天 U U U (I JUST WANNA)",
+      "analysis": [
+        { "point": "매일매일", "explanation": "副詞，每天每天。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 천천히 니 사랑에 빠질래",
+      "translation": "一點點 更慢慢地 想要陷入你的愛裡",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (表示程度或數量)。" },
+        { "point": "더 천천히", "explanation": "더 (更) + 천천히 (慢慢地)。" },
+        { "point": "니 사랑에 빠질래", "explanation": "니 (你的) + 사랑 (愛) + -에 (陷入...) + 빠지다 (掉進/陷入) + -(으)ㄹ래 (表示意願)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "OH MY BOY OH MY LUV",
+      "translation": "OH MY BOY OH MY LUV",
+      "analysis": []
+    },
+    {
+      "korean": "이제 너를 만나러 가는 길",
+      "translation": "現在去見你的路上",
+      "analysis": [
+        { "point": "너를 만나러", "explanation": "너 (你) + -를 (受格助詞) + 만나다 (見面) + -(으)러 (為了...)。" },
+        { "point": "가는 길", "explanation": "가다 (去) 的現在定語形 + 길 (路)。" }
+      ]
+    },
+    {
+      "korean": "예쁜 구두 신고 예쁜 치마도 입고",
+      "translation": "穿上漂亮的鞋子 也穿上漂亮的裙子",
+      "analysis": [
+        { "point": "예쁜 구두 신고", "explanation": "예쁘다 (漂亮) 的定語形 + 구두 (皮鞋) + 신다 (穿鞋) + -고 (連接詞尾)。" },
+        { "point": "예쁜 치마도 입고", "explanation": "예쁘다 (漂亮) 的定語形 + 치마 (裙子) + -도 (也) + 입다 (穿衣) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "너를 만나면 환하게 웃어줄거야",
+      "translation": "見到你的話 會燦爛地對你笑",
+      "analysis": [
+        { "point": "너를 만나면", "explanation": "너 (你) + -를 (受格助詞) + 만나다 (見面) + -(으)면 (如果)。" },
+        { "point": "환하게 웃어줄거야", "explanation": "환하다 (明亮/燦爛) + -게 (副詞形) + 웃다 (笑) + -아/어 주다 (給予) + -(으)ㄹ 거야 (未來式)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Shining Shining Shining Star",
+      "translation": "Shining Shining Shining Star",
+      "analysis": []
+    },
+    {
+      "korean": "그댄 나의 Super Star",
+      "translation": "你是我的 Super Star",
+      "analysis": [
+        { "point": "그댄", "explanation": "그대는 (你) 的縮略。" },
+        { "point": "나의", "explanation": "나 (我) + -의 (的)。" }
+      ]
+    },
+    {
+      "korean": "누가 뭐라 해도 뭐라 말을 해도",
+      "translation": "不管誰說什麼 不管說什麼話",
+      "analysis": [
+        { "point": "누가 뭐라 해도", "explanation": "누가 (誰) + 뭐라 (說什麼，무엇이라고的縮略) + 하다 (說/做) + -아/어도 (即使/不管)。" },
+        { "point": "말을 해도", "explanation": "말 (話) + -을 (受格助詞) + 하다 (說) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "내 눈엔 내 눈엔 내 눈엔 완벽한 걸",
+      "translation": "在我眼裡 在我眼裡 在我眼裡是很完美的",
+      "analysis": [
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼睛) + -에는 (在...裡) 的縮略。" },
+        { "point": "완벽한 걸", "explanation": "완벽하다 (完美) 的定語形 + 것 (事實) + -을 (受格助詞) 的縮略，表感嘆。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 사랑은 U U",
+      "translation": "我的愛是 U U",
+      "analysis": [
+        { "point": "내 사랑은", "explanation": "내 (我的) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "너만 보면 자꾸 떨려와",
+      "translation": "只要看著你就會總是顫抖",
+      "analysis": [
+        { "point": "너만 보면", "explanation": "너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果/當)。" },
+        { "point": "자꾸 떨려와", "explanation": "자꾸 (總是/一直) + 떨려오다 (顫抖起來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 전부는 U U",
+      "translation": "我的全部是 U U",
+      "analysis": [
+        { "point": "내 전부는", "explanation": "내 (我的) + 전부 (全部) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 눈엔 너밖에 안보여",
+      "translation": "我的眼裡只看得見你",
+      "analysis": [
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼睛) + -에는 (在...裡) 的縮略。" },
+        { "point": "너밖에 안보여", "explanation": "너 (你) + -밖에 (除了...之外) + 안 (不/沒) + 보이다 (看見)。" }
+      ]
+    },
+    {
+      "korean": "꿈속에도 U U U (BABY MY LOVE)",
+      "translation": "夢裡也 U U U (BABY MY LOVE)",
+      "analysis": [
+        { "point": "꿈속에도", "explanation": "꿈 (夢) + 속 (裡面) + -에 (場所助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "매일매일 U U U (I JUST WANNA)",
+      "translation": "每天每天 U U U (I JUST WANNA)",
+      "analysis": [
+        { "point": "매일매일", "explanation": "副詞，每天每天。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 천천히 니 사랑에 빠질래",
+      "translation": "一點點 更慢慢地 想要陷入你的愛裡",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (表示程度或數量)。" },
+        { "point": "더 천천히", "explanation": "더 (更) + 천천히 (慢慢地)。" },
+        { "point": "니 사랑에 빠질래", "explanation": "니 (你的) + 사랑 (愛) + -에 (陷入...) + 빠지다 (掉進/陷入) + -(으)ㄹ래 (表示意願)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Chu Chu Chu 니 입술이 다가와",
+      "translation": "Chu Chu Chu 你的嘴唇靠近了",
+      "analysis": [
+        { "point": "니 입술이", "explanation": "니 (你的) + 입술 (嘴唇) + -이 (主格助詞)。" },
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Chu Pop Chu Pop 난 어떡해야 돼",
+      "translation": "Chu Pop Chu Pop 我該怎麼辦",
+      "analysis": [
+        { "point": "난 어떡해야 돼", "explanation": "나 (我) + -는 (主題助詞) + 어떡하다 (怎麼辦) + -아야 되다 (必須...才行)。" }
+      ]
+    },
+    {
+      "korean": "내 사랑은 진짜 너야 내 전부는 진짜 너야",
+      "translation": "我的愛真的是你 我的全部真的是你",
+      "analysis": [
+        { "point": "내 사랑은", "explanation": "내 (我的) + 사랑 (愛) + -은 (主題助詞)。" },
+        { "point": "진짜 너야", "explanation": "진짜 (真的) + 너 (你) + -야 (是)。" },
+        { "point": "내 전부는", "explanation": "내 (我的) + 전부 (全部) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "너도 나와 같은지 내 맘과 똑같은지",
+      "translation": "你是否也和我一樣 和我的心一模一樣",
+      "analysis": [
+        { "point": "너도 나와 같은지", "explanation": "너 (你) + -도 (也) + 나 (我) + -와 (和) + 같다 (一樣) + -(으)ㄴ지 (是否)。" },
+        { "point": "내 맘과 똑같은지", "explanation": "내 (我的) + 맘 (心) + -과 (和) + 똑같다 (一模一樣) + -(으)ㄴ지 (是否)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 사랑은 U U",
+      "translation": "我的愛是 U U",
+      "analysis": [
+        { "point": "내 사랑은", "explanation": "내 (我的) + 사랑 (愛) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "너만 보면 자꾸 떨려와",
+      "translation": "只要看著你就會總是顫抖",
+      "analysis": [
+        { "point": "너만 보면", "explanation": "너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果/當)。" },
+        { "point": "자꾸 떨려와", "explanation": "자꾸 (總是/一直) + 떨려오다 (顫抖起來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 전부는 U U",
+      "translation": "我的全部是 U U",
+      "analysis": [
+        { "point": "내 전부는", "explanation": "내 (我的) + 전부 (全部) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 눈엔 너 밖에 안 보여",
+      "translation": "我的眼裡只看得見你",
+      "analysis": [
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼睛) + -에는 (在...裡) 的縮略。" },
+        { "point": "너 밖에 안 보여", "explanation": "너 (你) + -밖에 (除了...之外) + 안 (不/沒) + 보이다 (看見)。" }
+      ]
+    },
+    {
+      "korean": "꿈속에도 U U U (BABY MY LOVE)",
+      "translation": "夢裡也 U U U (BABY MY LOVE)",
+      "analysis": [
+        { "point": "꿈속에도", "explanation": "꿈 (夢) + 속 (裡面) + -에 (場所助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "매일매일 U U U (I JUST WANNA)",
+      "translation": "每天每天 U U U (I JUST WANNA)",
+      "analysis": [
+        { "point": "매일매일", "explanation": "副詞，每天每天。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 천천히 니 사랑에 빠질래",
+      "translation": "一點點 更慢慢地 想要陷入你的愛裡",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (表示程度或數量)。" },
+        { "point": "더 천천히", "explanation": "더 (更) + 천천히 (慢慢地)。" },
+        { "point": "니 사랑에 빠질래", "explanation": "니 (你的) + 사랑 (愛) + -에 (陷入...) + 빠지다 (掉進/陷入) + -(으)ㄹ래 (表示意願)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "나 너만 보면 어떡해",
+      "translation": "我只要看著你該怎麼辦",
+      "analysis": [
+        { "point": "나 너만 보면", "explanation": "나 (我) + 너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果/當)。" },
+        { "point": "어떡해", "explanation": "어떡하다 (怎麼辦) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 가슴이 자꾸 떨려와",
+      "translation": "我的心總是顫抖",
+      "analysis": [
+        { "point": "내 가슴이", "explanation": "내 (我的) + 가슴 (心) + -이 (主格助詞)。" },
+        { "point": "자꾸 떨려와", "explanation": "자꾸 (總是/一直) + 떨려오다 (顫抖起來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나 너만 보면 어떡해",
+      "translation": "我只要看著你該怎麼辦",
+      "analysis": [
+        { "point": "나 너만 보면", "explanation": "나 (我) + 너 (你) + -만 (只) + 보다 (看) + -(으)면 (如果/當)。" },
+        { "point": "어떡해", "explanation": "어떡하다 (怎麼辦) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "니 사랑이 내게 다가와",
+      "translation": "你的愛向我靠近",
+      "analysis": [
+        { "point": "니 사랑이", "explanation": "니 (你的) + 사랑 (愛) + -이 (主格助詞)。" },
+        { "point": "내게 다가와", "explanation": "내게 (向我) + 다가오다 (靠近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "하루종일 너너너 생각할게",
+      "translation": "一整天你你你 我會想著你",
+      "analysis": [
+        { "point": "하루종일", "explanation": "名詞，一整天。" },
+        { "point": "생각할게", "explanation": "생각하다 (想) + -(으)ㄹ게 (表示意志的未來式)。" }
+      ]
+    },
+    {
+      "korean": "봐도 봐도 너너너 보고 싶어",
+      "translation": "看了又看 你你你 我還是想見你",
+      "analysis": [
+        { "point": "봐도 봐도", "explanation": "보다 (看) + -아/어도 (即使...也...) 重複表示強調。" },
+        { "point": "보고 싶어", "explanation": "보다 (看/見) + -고 싶다 (想)。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 천천히 니 사랑에 빠질래",
+      "translation": "一點點 更慢慢地 想要陷入你的愛裡",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (表示程度或數量)。" },
+        { "point": "더 천천히", "explanation": "더 (更) + 천천히 (慢慢地)。" },
+        { "point": "니 사랑에 빠질래", "explanation": "니 (你的) + 사랑 (愛) + -에 (陷入...) + 빠지다 (掉進/陷入) + -(으)ㄹ래 (表示意願)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "전부", "chinese": "全部", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "빠지다", "chinese": "掉進、陷入", "pos": "動詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "아침", "chinese": "早晨", "pos": "名詞" },
+    { "korean": "고르다", "chinese": "挑選", "pos": "動詞" },
+    { "korean": "입다", "chinese": "穿", "pos": "動詞" },
+    { "korean": "예쁘다", "chinese": "漂亮", "pos": "形容詞" },
+    { "korean": "멋지다", "chinese": "帥氣", "pos": "形容詞" },
+    { "korean": "구두", "chinese": "皮鞋", "pos": "名詞" },
+    { "korean": "치마", "chinese": "裙子", "pos": "名詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "가슴", "chinese": "心、胸口", "pos": "名詞" },
+    { "korean": "하루종일", "chinese": "一整天", "pos": "名詞" }
+  ]
+}

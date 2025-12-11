@@ -1,0 +1,229 @@
+{
+  "id": "jeongeunji-blue-whale",
+  "title": "Blue Whale (흰수염고래)",
+  "artist": "Jeong Eun Ji (정은지)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "작은 연못에서 시작된 길",
+      "translation": "從小池塘開始的路",
+      "analysis": [
+        { "point": "연못에서", "explanation": "연못 (池塘) + -에서 (從...開始/在...場所)。" },
+        { "point": "시작된", "explanation": "시작되다 (開始) + -ㄴ (過去/完成冠詞形)。" }
+      ]
+    },
+    {
+      "korean": "바다로 바다로 갈 수 있음 좋겠네",
+      "translation": "希望能向著大海 向著大海而去",
+      "analysis": [
+        { "point": "바다로", "explanation": "바다 (大海) + -로 (方向助詞，向著...)。" },
+        { "point": "갈 수 있음", "explanation": "가다 (去) + -(으)ㄹ 수 있다 (能夠) + -ㅁ (名詞化)。這裡省略了助詞，意指「能夠去這件事」。" },
+        { "point": "좋겠네", "explanation": "좋다 (好) + -겠 (推測/希望) + -네 (感嘆語尾)。" }
+      ]
+    },
+    {
+      "korean": "어쩌면 그 험한 길에 지칠지 몰라",
+      "translation": "也許會在那險峻的路上感到疲憊",
+      "analysis": [
+        { "point": "어쩌면", "explanation": "어쩌면 (副詞，也許/說不定)。" },
+        { "point": "험한", "explanation": "험하다 (險峻/艱險) + -ㄴ (修飾形)。" },
+        { "point": "지칠지 몰라", "explanation": "지치다 (疲憊) + -(으)ㄹ지 모르다 (不知道是否會.../也許會...)。" }
+      ]
+    },
+    {
+      "korean": "걸어도 걸어도 더딘 발걸음에",
+      "translation": "即使走著又走著 因為緩慢的腳步",
+      "analysis": [
+        { "point": "걸어도", "explanation": "걷다 (走) + -아/어도 (即使...也，ㄷ不規則變化)。" },
+        { "point": "더딘", "explanation": "더디다 (緩慢/遲緩) + -ㄴ (修飾形)。" },
+        { "point": "발걸음에", "explanation": "발걸음 (腳步) + -에 (原因助詞，因為...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너 가는 길이 너무 지치고 힘들 때",
+      "translation": "當你走的路太過疲憊和艱辛時",
+      "analysis": [
+        { "point": "가는 길", "explanation": "가다 (去/走) + -는 (現在冠詞形) + 길 (路)。" },
+        { "point": "힘들 때", "explanation": "힘들다 (辛苦/累) + -(으)ㄹ 때 (的時候)。" }
+      ]
+    },
+    {
+      "korean": "말을 해 줘 숨기지 마",
+      "translation": "請對我說 不要隱藏",
+      "analysis": [
+        { "point": "말을 해 줘", "explanation": "말을 하다 (說話) + -아/어 주다 (請求/為某人做)。" },
+        { "point": "숨기지 마", "explanation": "숨기다 (隱藏) + -지 마 (禁止命令，不要...)。" }
+      ]
+    },
+    {
+      "korean": "넌 혼자가 아니야",
+      "translation": "你不是一個人",
+      "analysis": [
+        { "point": "혼자가 아니야", "explanation": "혼자 (獨自一人) + -가 아니다 (不是...) + -야 (半語終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "우리도 언젠가",
+      "translation": "我們也總有一天",
+      "analysis": [
+        { "point": "우리도", "explanation": "우리 (我們) + -도 (也)。" },
+        { "point": "언젠가", "explanation": "언젠가 (總有一天/某時)。" }
+      ]
+    },
+    {
+      "korean": "흰수염고래처럼 헤엄쳐",
+      "translation": "像藍鯨一樣游動",
+      "analysis": [
+        { "point": "흰수염고래", "explanation": "흰 (白) + 수염 (鬍鬚) + 고래 (鯨魚) -> 藍鯨 (Blue Whale)。" },
+        { "point": "처럼", "explanation": "처럼 (助詞，像...一樣)。" },
+        { "point": "헤엄쳐", "explanation": "헤엄치다 (游泳) + -어 (連接/終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "두려움 없이",
+      "translation": "沒有恐懼地",
+      "analysis": [
+        { "point": "두려움", "explanation": "두렵다 (害怕) + -ㅁ (名詞化) -> 恐懼。" },
+        { "point": "없이", "explanation": "없다 (沒有) + -이 (副詞化)。" }
+      ]
+    },
+    {
+      "korean": "이 넓은 세상 살아갈 수 있길",
+      "translation": "希望能這廣闊的世界生存下去",
+      "analysis": [
+        { "point": "넓은", "explanation": "넓다 (廣闊) + -은 (修飾形)。" },
+        { "point": "살아갈 수 있길", "explanation": "살아가다 (活下去) + -(으)ㄹ 수 있다 (能夠) + -기 (名詞化) + -를 (受格)；結尾省略了「바라다 (希望)」，表示願望。" }
+      ]
+    },
+    {
+      "korean": "그런 사람이길",
+      "translation": "希望能成為那樣的人",
+      "analysis": [
+        { "point": "사람이길", "explanation": "사람 (人) + -이다 (是/成為) + -기 (名詞化) + -를 (願望)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "더 상처받지 마 이젠 울지 마 웃어 봐",
+      "translation": "別再受傷了 現在別哭了 笑一笑吧",
+      "analysis": [
+        { "point": "상처받지 마", "explanation": "상처받다 (受傷) + -지 마 (不要)。" },
+        { "point": "울지 마", "explanation": "울다 (哭) + -지 마 (不要)。" },
+        { "point": "웃어 봐", "explanation": "웃다 (笑) + -아/어 보다 (試試看)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너 가는 길이 너무 지치고 힘들 때",
+      "translation": "當你走的路太過疲憊和艱辛時",
+      "analysis": [
+        { "point": "지치고", "explanation": "지치다 (疲憊) + -고 (連接語尾)。" }
+      ]
+    },
+    {
+      "korean": "말을 해 줘 숨기지 마",
+      "translation": "請對我說 不要隱藏",
+      "analysis": [
+        { "point": "해 줘", "explanation": "하다 + -아/어 주다 (請求)。" }
+      ]
+    },
+    {
+      "korean": "넌 혼자가 아니야",
+      "translation": "你不是一個人",
+      "analysis": [
+        { "point": "아니야", "explanation": "아니다 (不是) + -야 (半語)。" }
+      ]
+    },
+    {
+      "korean": "우리도 언젠가",
+      "translation": "我們也總有一天",
+      "analysis": [
+        { "point": "언젠가", "explanation": "언젠가 (總有一天)。" }
+      ]
+    },
+    {
+      "korean": "흰수염고래처럼 헤엄쳐",
+      "translation": "像藍鯨一樣游動",
+      "analysis": [
+        { "point": "헤엄쳐", "explanation": "헤엄치다 (游泳) + -어。" }
+      ]
+    },
+    {
+      "korean": "두려움 없이",
+      "translation": "沒有恐懼地",
+      "analysis": [
+        { "point": "두려움", "explanation": "두렵다的名詞形。" }
+      ]
+    },
+    {
+      "korean": "이 넓은 세상 살아갈 수 있길",
+      "translation": "希望能這廣闊的世界生存下去",
+      "analysis": [
+        { "point": "살아갈 수 있길", "explanation": "살아가다 + -(으)ㄹ 수 있다 + -길 (願望)。" }
+      ]
+    },
+    {
+      "korean": "그런 사람이길",
+      "translation": "希望能成為那樣的人",
+      "analysis": [
+        { "point": "사람이길", "explanation": "사람 + -이다 + -길。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "우리도 언젠가",
+      "translation": "我們也總有一天",
+      "analysis": [
+        { "point": "언젠가", "explanation": "언젠가 (總有一天)。" }
+      ]
+    },
+    {
+      "korean": "흰수염고래처럼 헤엄쳐",
+      "translation": "像藍鯨一樣游動",
+      "analysis": [
+        { "point": "헤엄쳐", "explanation": "헤엄치다 + -어。" }
+      ]
+    },
+    {
+      "korean": "두려움 없이",
+      "translation": "沒有恐懼地",
+      "analysis": [
+        { "point": "없이", "explanation": "없다 + -이 (副詞化)。" }
+      ]
+    },
+    {
+      "korean": "이 넓은 세상 살아갈 수 있길",
+      "translation": "希望能這廣闊的世界生存下去",
+      "analysis": [
+        { "point": "살아갈 수 있길", "explanation": "살아가다 + -(으)ㄹ 수 있다 + -길。" }
+      ]
+    },
+    {
+      "korean": "그런 사람이길",
+      "translation": "希望能成為那樣的人",
+      "analysis": [
+        { "point": "사람이길", "explanation": "사람 + -이다 + -길。" }
+      ]
+    },
+    {
+      "korean": "그런 사람이길",
+      "translation": "希望能成為那樣的人",
+      "analysis": [
+        { "point": "사람이길", "explanation": "사람 + -이다 + -길。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "연못", "chinese": "池塘", "pos": "名詞" },
+    { "korean": "험하다", "chinese": "險峻、艱險", "pos": "形容詞" },
+    { "korean": "더디다", "chinese": "緩慢、遲緩", "pos": "形容詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "흰수염고래", "chinese": "藍鯨", "pos": "名詞" },
+    { "korean": "헤엄치다", "chinese": "游泳", "pos": "動詞" },
+    { "korean": "두려움", "chinese": "恐懼", "pos": "名詞" },
+    { "korean": "상처받다", "chinese": "受傷", "pos": "動詞" },
+    { "korean": "살아가다", "chinese": "活下去、過生活", "pos": "動詞" },
+    { "korean": "넓다", "chinese": "寬廣", "pos": "形容詞" }
+  ]
+}

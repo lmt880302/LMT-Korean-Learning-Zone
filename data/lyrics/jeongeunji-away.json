@@ -1,0 +1,309 @@
+{
+  "id": "jeongeunji-away",
+  "title": "AWay",
+  "artist": "Jeong Eun Ji (정은지)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "translation": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "좀 이상한 기분이야",
+      "translation": "有點奇怪的感覺",
+      "analysis": [
+        { "point": "좀", "explanation": "副詞，稍微、有點。" },
+        { "point": "이상한 기분이야", "explanation": "이상하다 (奇怪) 的定語形 + 기분 (心情/感覺) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "멈춰있는 순간에도 이상하게 숨이 차올라",
+      "translation": "即使在停下的瞬間也奇怪地喘不過氣",
+      "analysis": [
+        { "point": "멈춰있는 순간에도", "explanation": "멈춰있다 (停著) 的現在定語形 + 순간 (瞬間) + -에도 (即使在...)。" },
+        { "point": "이상하게", "explanation": "이상하다 (奇怪) + -게 (副詞形)。" },
+        { "point": "숨이 차올라", "explanation": "숨이 차오르다 (喘不過氣/氣喘吁吁) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "막연했던 이상을 향해서 난",
+      "translation": "朝著曾渺茫的理想 我",
+      "analysis": [
+        { "point": "막연했던 이상을", "explanation": "막연하다 (渺茫/模糊) + -았던 (回想過去的定語形) + 이상 (理想) + -을 (受格助詞)。" },
+        { "point": "향해서 난", "explanation": "향하다 (向著) + -어서 (表示方式) + 나 (我) + -는 (主題助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "얼마나 달려온 걸까",
+      "translation": "究竟奔跑了多久呢",
+      "analysis": [
+        { "point": "얼마나", "explanation": "副詞，多麼、多少。" },
+        { "point": "달려온 걸까", "explanation": "달려오다 (跑來/奔跑至今) 的過去定語形 + 것 (事情/東西) + -일까 (推測疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "끝이 없이 달려온 뒤에",
+      "translation": "無止盡地奔跑之後",
+      "analysis": [
+        { "point": "끝이 없이", "explanation": "끝 (盡頭) + -이 (主格助詞) + 없다 (沒有) + -이 (副詞化)。" },
+        { "point": "달려온 뒤에", "explanation": "달려오다 (跑來) 的過去定語形 + 뒤에 (在...之後)。" }
+      ]
+    },
+    {
+      "korean": "남아있는 공허함들에",
+      "translation": "對留下的那些空虛感",
+      "analysis": [
+        { "point": "남아있는", "explanation": "남아있다 (留下/剩下) 的現在定語形。" },
+        { "point": "공허함들에", "explanation": "공허하다 (空虛) 的名詞形 + -들 (複數) + -에 (對於/在...裡)。" }
+      ]
+    },
+    {
+      "korean": "아무것도 채우지 못하고 지나친",
+      "translation": "什麼都沒能填補就經過的",
+      "analysis": [
+        { "point": "아무것도", "explanation": "아무것 (什麼東西) + -도 (都/也)。" },
+        { "point": "채우지 못하고", "explanation": "채우다 (填補) + -지 못하다 (無法) + -고 (連接詞尾)。" },
+        { "point": "지나친", "explanation": "지나치다 (經過/錯過) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "내 아쉬운 순간들이",
+      "translation": "我那些遺憾的瞬間",
+      "analysis": [
+        { "point": "내", "explanation": "나의 (我的) 的縮略。" },
+        { "point": "아쉬운 순간들이", "explanation": "아쉽다 (遺憾/可惜) 的定語形 + 순간 (瞬間) + -들이 (複數主格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Away, away 잠시도 머물지 않아",
+      "translation": "Away, away 連暫時都不停留",
+      "analysis": [
+        { "point": "잠시도", "explanation": "잠시 (暫時) + -도 (也/連)。" },
+        { "point": "머물지 않아", "explanation": "머물다 (停留) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Away, away 하루의 끝에서야",
+      "translation": "Away, away 在一天的盡頭才",
+      "analysis": [
+        { "point": "하루의 끝에서야", "explanation": "하루 (一天) + -의 (的) + 끝 (盡頭) + -에서야 (在...才)。" }
+      ]
+    },
+    {
+      "korean": "지친 맘을 달래",
+      "translation": "撫慰疲憊的心",
+      "analysis": [
+        { "point": "지친 맘을", "explanation": "지치다 (疲憊) 的定語形 + 맘 (心) + -을 (受格助詞)。" },
+        { "point": "달래", "explanation": "달래다 (撫慰/安撫) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다시 일어날 수 있는 힘이 더 필요한 걸 난",
+      "translation": "我需要更多能再次站起來的力量",
+      "analysis": [
+        { "point": "다시 일어날 수 있는", "explanation": "다시 (再次) + 일어나다 (站起來) + -(으)ㄹ 수 있다 (能夠) 的定語形。" },
+        { "point": "힘이 더 필요한 걸", "explanation": "힘 (力量) + -이 (主格助詞) + 더 (更) + 필요하다 (需要) 的定語形 + 것 (事實) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "translation": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "낯선 길을 걷더라도",
+      "translation": "即使走在陌生的路上",
+      "analysis": [
+        { "point": "낯선 길을", "explanation": "낯설다 (陌生) 的定語形 + 길 (路) + -을 (受格助詞)。" },
+        { "point": "걷더라도", "explanation": "걷다 (走) + -더라도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "나 가는 곳이 어디든 그곳이 길이 되어줄까",
+      "translation": "無論我走去哪裡 那裡會成為路嗎",
+      "analysis": [
+        { "point": "나 가는 곳이", "explanation": "나 (我) + 가다 (去) 的現在定語形 + 곳 (地方) + -이 (主格助詞)。" },
+        { "point": "어디든", "explanation": "어디 (哪裡) + -(이)든 (無論/不管)。" },
+        { "point": "길이 되어줄까", "explanation": "길 (路) + -이 (主格助詞) + 되다 (成為) + -아/어 주다 (給予/為...) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "떠나보면 초록의 그곳에서",
+      "translation": "試著離開的話 在那翠綠的地方",
+      "analysis": [
+        { "point": "떠나보면", "explanation": "떠나다 (離開) + -아/어 보다 (試試看) + -(으)면 (如果)。" },
+        { "point": "초록의 그곳에서", "explanation": "초록 (草綠/綠色) + -의 (的) + 그곳 (那裡) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "또 다른 날 볼 수 있을까 (날 볼 수 있을까)",
+      "translation": "能看見另一個我嗎 (能看見我嗎)",
+      "analysis": [
+        { "point": "또 다른 날", "explanation": "또 (又) + 다르다 (不同) 的定語形 + 나 (我) + -를 (受格助詞) 的縮略。" },
+        { "point": "볼 수 있을까", "explanation": "보다 (看) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "하루하루 달라지는 (Oh)",
+      "translation": "一天一天變化的 (Oh)",
+      "analysis": [
+        { "point": "하루하루", "explanation": "名詞，一天一天。" },
+        { "point": "달라지는", "explanation": "달라지다 (變得不同/變化) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "내 모습에 낯설어져 난",
+      "translation": "我對自己的樣子感到陌生",
+      "analysis": [
+        { "point": "내 모습에", "explanation": "내 (我的) + 모습 (樣子) + -에 (對於)。" },
+        { "point": "낯설어져 난", "explanation": "낯설어지다 (變得陌生) 的非格式體 + 난 (我)。" }
+      ]
+    },
+    {
+      "korean": "아무것도 채우지 못하고 지나친",
+      "translation": "什麼都沒能填補就經過的",
+      "analysis": [
+        { "point": "아무것도", "explanation": "아무것 (什麼東西) + -도 (都/也)。" },
+        { "point": "채우지 못하고", "explanation": "채우다 (填補) + -지 못하다 (無法) + -고 (連接詞尾)。" },
+        { "point": "지나친", "explanation": "지나치다 (經過/錯過) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "내 아쉬운 순간들이",
+      "translation": "我那些遺憾的瞬間",
+      "analysis": [
+        { "point": "내", "explanation": "나의 (我的) 的縮略。" },
+        { "point": "아쉬운 순간들이", "explanation": "아쉽다 (遺憾/可惜) 的定語形 + 순간 (瞬間) + -들이 (複數主格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Away, away 잠시도 머물지 않아",
+      "translation": "Away, away 連暫時都不停留",
+      "analysis": [
+        { "point": "잠시도", "explanation": "잠시 (暫時) + -도 (也/連)。" },
+        { "point": "머물지 않아", "explanation": "머물다 (停留) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Away, away 하루의 끝에서야",
+      "translation": "Away, away 在一天的盡頭才",
+      "analysis": [
+        { "point": "하루의 끝에서야", "explanation": "하루 (一天) + -의 (的) + 끝 (盡頭) + -에서야 (在...才)。" }
+      ]
+    },
+    {
+      "korean": "지친 맘을 달래",
+      "translation": "撫慰疲憊的心",
+      "analysis": [
+        { "point": "지친 맘을", "explanation": "지치다 (疲憊) 的定語形 + 맘 (心) + -을 (受格助詞)。" },
+        { "point": "달래", "explanation": "달래다 (撫慰/安撫) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다시 일어날 수 있는 힘이 더 필요한 걸 난",
+      "translation": "我需要更多能再次站起來的力量",
+      "analysis": [
+        { "point": "다시 일어날 수 있는", "explanation": "다시 (再次) + 일어나다 (站起來) + -(으)ㄹ 수 있다 (能夠) 的定語形。" },
+        { "point": "힘이 더 필요한 걸", "explanation": "힘 (力量) + -이 (主格助詞) + 더 (更) + 필요하다 (需要) 的定語形 + 것 (事實) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Oh ooh 이제서야 Oh oh oh",
+      "translation": "Oh ooh 直到現在才 Oh oh oh",
+      "analysis": [
+        { "point": "이제서야", "explanation": "이제 (現在) + -서야 (才/方)。" }
+      ]
+    },
+    {
+      "korean": "굳어가던 마음을 깨어버릴 시간을 찾아",
+      "translation": "尋找能打破漸漸僵硬的心的時間",
+      "analysis": [
+        { "point": "굳어가던 마음을", "explanation": "굳어가다 (漸漸變硬/僵硬) + -던 (回想過去的定語形) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "깨어버릴 시간을 찾아", "explanation": "깨어버리다 (打破/覺醒) 的未來定語形 + 시간 (時間) + -을 (受格助詞) + 찾다 (尋找) + -아 (連接詞尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Runaway, runaway 잠시도 머물지 않고",
+      "translation": "Runaway, runaway 連暫時都不停留",
+      "analysis": [
+        { "point": "잠시도", "explanation": "잠시 (暫時) + -도 (也)。" },
+        { "point": "머물지 않고", "explanation": "머물다 (停留) + -지 않다 (否定) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "Runaway, runaway 숨 가쁜 날이었던",
+      "translation": "Runaway, runaway 曾是喘不過氣的日子的",
+      "analysis": [
+        { "point": "숨 가쁜 날이었던", "explanation": "숨 가쁘다 (氣喘吁吁/喘不過氣) 的定語形 + 날 (日子) + -이었다 (是) + -던 (回想過去的定語形)。" }
+      ]
+    },
+    {
+      "korean": "잠시 이곳을 떠나",
+      "translation": "暫時離開這裡",
+      "analysis": [
+        { "point": "이곳을 떠나", "explanation": "이곳 (這裡) + -을 (受格助詞) + 떠나다 (離開) + -아 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "다시 일어날 수 있는 힘이 더 생길 때까지 (Oh)",
+      "translation": "直到產生更多能再次站起來的力量為止 (Oh)",
+      "analysis": [
+        { "point": "힘이 더 생길 때까지", "explanation": "힘 (力量) + -이 (主格助詞) + 더 (更) + 생기다 (產生) + -(으)ㄹ 때까지 (直到...的時候)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "translation": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "analysis": []
+    },
+    {
+      "korean": "I wanna runaway (Oh)",
+      "translation": "I wanna runaway (Oh)",
+      "analysis": []
+    },
+    {
+      "korean": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "translation": "Woo woo woo Woo woo woo Woo woo woo woo",
+      "analysis": []
+    },
+    {
+      "korean": "Away, away",
+      "translation": "Away, away",
+      "analysis": []
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "이상하다", "chinese": "奇怪", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "心情", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "숨이 차오르다", "chinese": "喘不過氣", "pos": "動詞" },
+    { "korean": "막연하다", "chinese": "渺茫", "pos": "形容詞" },
+    { "korean": "이상", "chinese": "理想", "pos": "名詞" },
+    { "korean": "달리다", "chinese": "奔跑", "pos": "動詞" },
+    { "korean": "공허함", "chinese": "空虛感", "pos": "名詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "지나치다", "chinese": "經過、錯過", "pos": "動詞" },
+    { "korean": "아쉽다", "chinese": "遺憾、可惜", "pos": "形容詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "달래다", "chinese": "撫慰", "pos": "動詞" },
+    { "korean": "낯설다", "chinese": "陌生", "pos": "形容詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "굳어가다", "chinese": "變僵硬", "pos": "動詞" },
+    { "korean": "깨다", "chinese": "打破、醒來", "pos": "動詞" },
+    { "korean": "숨 가쁘다", "chinese": "氣喘吁吁", "pos": "形容詞" },
+    { "korean": "생기다", "chinese": "產生", "pos": "動詞" }
+  ]
+}

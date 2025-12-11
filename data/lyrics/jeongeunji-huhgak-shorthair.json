@@ -1,0 +1,389 @@
+{
+  "id": "jeongeunji-huhgak_shorthair",
+  "title": "Short Hair (짧은머리)",
+  "artist": "Jeong Eun Ji (정은지) & Huh Gak (허각)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "멀리서 걸어오는 그대 모습이",
+      "translation": "從遠處走來的你的樣子",
+      "analysis": [
+        { "point": "멀리서", "explanation": "멀리 (遠處) + -서 (從...場所助詞)。" },
+        { "point": "걸어오는", "explanation": "걷다 (走) + 오다 (來) -> 걸어오다 (走來) + -는 (現在定語形)。" },
+        { "point": "그대 모습이", "explanation": "그대 (你) + 모습 (樣子) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "참 달라 보여",
+      "translation": "看起來真不一樣",
+      "analysis": [
+        { "point": "참", "explanation": "副詞，真、非常。" },
+        { "point": "달라 보여", "explanation": "다르다 (不同) + -아/어 보이다 (看起來...)。" }
+      ]
+    },
+    {
+      "korean": "한없이 예뻐 보이는 그댈 붙잡고",
+      "translation": "抓住那看起來無比漂亮的你",
+      "analysis": [
+        { "point": "한없이", "explanation": "한없다 (無盡) + -이 (副詞化) -> 無比地。" },
+        { "point": "예뻐 보이는", "explanation": "예쁘다 (漂亮) + -아/어 보이다 (看起來) + -는 (定語形)。" },
+        { "point": "그댈 붙잡고", "explanation": "그대를 (你) 的縮略 + 붙잡다 (抓住) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "함께 걸어가",
+      "translation": "一起走去",
+      "analysis": [
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "걸어가", "explanation": "걷다 (走) + 가다 (去) -> 걸어가다 (走去) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "짧은 머리, 짧은 치마, 쌩얼인 얼굴",
+      "translation": "短髮，短裙，素顏的臉",
+      "analysis": [
+        { "point": "짧은 머리", "explanation": "짧다 (短) 的定語形 + 머리 (頭髮)。" },
+        { "point": "짧은 치마", "explanation": "치마 (裙子)。" },
+        { "point": "쌩얼인 얼굴", "explanation": "쌩얼 (素顏) + -이다 (是) + -ㄴ (定語形) + 얼굴 (臉)。" }
+      ]
+    },
+    {
+      "korean": "너 오늘 왠지 예뻐",
+      "translation": "你今天不知為何很漂亮",
+      "analysis": [
+        { "point": "너 오늘", "explanation": "너 (你) + 오늘 (今天)。" },
+        { "point": "왠지", "explanation": "副詞，不知為何、總覺得。" },
+        { "point": "예뻐", "explanation": "예쁘다 (漂亮) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짧은 머리, 하얀 셔츠, 체크 넥타이",
+      "translation": "短髮，白襯衫，格子領帶",
+      "analysis": [
+        { "point": "하얀 셔츠", "explanation": "하얗다 (白) 的定語形 + 셔츠 (襯衫)。" },
+        { "point": "체크 넥타이", "explanation": "Check necktie (格子領帶)。" }
+      ]
+    },
+    {
+      "korean": "오빠도 오늘 멋져",
+      "translation": "哥哥今天也很帥",
+      "analysis": [
+        { "point": "오빠도", "explanation": "오빠 (哥哥，女生用語) + -도 (也)。" },
+        { "point": "멋져", "explanation": "멋지다 (帥氣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짧게 자른 그대 변화가",
+      "translation": "你剪短頭髮的變化",
+      "analysis": [
+        { "point": "짧게 자른", "explanation": "짧게 (短地) + 자르다 (剪) 的過去定語形。" },
+        { "point": "그대 변화가", "explanation": "그대 (你) + 변화 (變化) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너무나도 난 예뻐",
+      "translation": "我覺得非常漂亮",
+      "analysis": [
+        { "point": "너무나도", "explanation": "副詞，非常地、過分地。" },
+        { "point": "난 예뻐", "explanation": "난 (我) + 예뻐 (覺得漂亮/喜歡)。" }
+      ]
+    },
+    {
+      "korean": "사랑스런 우리 둘이서",
+      "translation": "可愛的我們兩人",
+      "analysis": [
+        { "point": "사랑스런", "explanation": "사랑스럽다 (可愛/討人喜歡) 的定語形。" },
+        { "point": "우리 둘이서", "explanation": "우리 (我們) + 둘 (二/兩人) + -(이)서 (表示人數的主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "절대 변하지 마요 whoa",
+      "translation": "絕對不要變 whoa",
+      "analysis": [
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "변하지 마요", "explanation": "변하다 (改變) + -지 마요 (否定命令型，不要...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "자꾸만 어색한지",
+      "translation": "是總是感到尷尬嗎",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "副詞，總是、一直。" },
+        { "point": "어색한지", "explanation": "어색하다 (尷尬) + -(으)ㄴ지 (是否/好像)。" }
+      ]
+    },
+    {
+      "korean": "머릴 만지는 그대 모습이",
+      "translation": "摸著頭髮的你的樣子",
+      "analysis": [
+        { "point": "머릴 만지는", "explanation": "머리를 (頭髮) 的縮略 + 만지다 (觸摸) 的現在定語形。" },
+        { "point": "그대 모습이", "explanation": "그대 (你) + 모습 (樣子) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "왜 이리 귀여운 건지",
+      "translation": "怎麼會這麼可愛呢",
+      "analysis": [
+        { "point": "왜 이리", "explanation": "왜 (為什麼) + 이리 (這麼/這樣)。" },
+        { "point": "귀여운 건지", "explanation": "귀엽다 (可愛) 的定語形 + 것 (事情/東西) + -인지 (是...嗎)。" }
+      ]
+    },
+    {
+      "korean": "보면 볼수록 빠져들어가",
+      "translation": "越看越陷入",
+      "analysis": [
+        { "point": "보면 볼수록", "explanation": "보다 (看) + -(으)면 -(으)ㄹ수록 (越...越...)。" },
+        { "point": "빠져들어가", "explanation": "빠져들다 (陷入) + -아/어 가다 (漸漸.../持續) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "짧은 머리, 짧은 치마, 쌩얼인 얼굴",
+      "translation": "短髮，短裙，素顏的臉",
+      "analysis": [
+        { "point": "짧은 머리", "explanation": "짧다 (短) 的定語形 + 머리 (頭髮)。" },
+        { "point": "짧은 치마", "explanation": "치마 (裙子)。" },
+        { "point": "쌩얼인 얼굴", "explanation": "쌩얼 (素顏) + -이다 (是) + -ㄴ (定語形) + 얼굴 (臉)。" }
+      ]
+    },
+    {
+      "korean": "너 오늘 왠지 예뻐",
+      "translation": "你今天不知為何很漂亮",
+      "analysis": [
+        { "point": "너 오늘", "explanation": "너 (你) + 오늘 (今天)。" },
+        { "point": "왠지", "explanation": "副詞，不知為何、總覺得。" },
+        { "point": "예뻐", "explanation": "예쁘다 (漂亮) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짧은 머리, 하얀 셔츠, 체크 넥타이",
+      "translation": "短髮，白襯衫，格子領帶",
+      "analysis": [
+        { "point": "하얀 셔츠", "explanation": "하얗다 (白) 的定語形 + 셔츠 (襯衫)。" },
+        { "point": "체크 넥타이", "explanation": "Check necktie (格子領帶)。" }
+      ]
+    },
+    {
+      "korean": "오빠도 오늘 멋져",
+      "translation": "哥哥今天也很帥",
+      "analysis": [
+        { "point": "오빠도", "explanation": "오빠 (哥哥，女生用語) + -도 (也)。" },
+        { "point": "멋져", "explanation": "멋지다 (帥氣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짧게 자른 그대 변화가",
+      "translation": "你剪短頭髮的變化",
+      "analysis": [
+        { "point": "짧게 자른", "explanation": "짧게 (短地) + 자르다 (剪) 的過去定語形。" },
+        { "point": "그대 변화가", "explanation": "그대 (你) + 변화 (變化) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너무나도 난 예뻐",
+      "translation": "我覺得非常漂亮",
+      "analysis": [
+        { "point": "너무나도", "explanation": "副詞，非常地、過分地。" },
+        { "point": "난 예뻐", "explanation": "난 (我) + 예뻐 (覺得漂亮/喜歡)。" }
+      ]
+    },
+    {
+      "korean": "사랑스런 우리 둘이서",
+      "translation": "可愛的我們兩人",
+      "analysis": [
+        { "point": "사랑스런", "explanation": "사랑스럽다 (可愛/討人喜歡) 的定語形。" },
+        { "point": "우리 둘이서", "explanation": "우리 (我們) + 둘 (二/兩人) + -(이)서 (表示人數的主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "절대 변하지 마요 whoa",
+      "translation": "絕對不要變 whoa",
+      "analysis": [
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "변하지 마요", "explanation": "변하다 (改變) + -지 마요 (否定命令型，不要...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Oh 솔직히 나 완벽한 남잔 아니지만 (oh, yeah-yeah-yeah)",
+      "translation": "Oh 說實話我不是完美的男人 (oh, yeah-yeah-yeah)",
+      "analysis": [
+        { "point": "솔직히", "explanation": "副詞，誠實地、說實話。" },
+        { "point": "완벽한 남잔", "explanation": "완벽하다 (完美) 的定語形 + 남자는 (男人) 的縮略。" },
+        { "point": "아니지만", "explanation": "아니다 (不是) + -지만 (但是)。" }
+      ]
+    },
+    {
+      "korean": "걱정말아요 내 눈엔 그대만 보여요",
+      "translation": "別擔心 我眼裡只有你",
+      "analysis": [
+        { "point": "걱정말아요", "explanation": "걱정하다 (擔心) + -지 말아요 (不要...)。" },
+        { "point": "내 눈엔", "explanation": "내 (我的) + 눈 (眼) + -에는 (在...裡) 的縮略。" },
+        { "point": "그대만 보여요", "explanation": "그대 (你) + -만 (只) + 보이다 (被看見/看得見) + -어요 (尊敬語尾)。" }
+      ]
+    },
+    {
+      "korean": "Oh 부족한 우리 둘이서 서로 채워줄",
+      "translation": "Oh 不足的我們兩人 互相填補",
+      "analysis": [
+        { "point": "부족한", "explanation": "부족하다 (不足/不夠) 的定語形。" },
+        { "point": "서로 채워줄", "explanation": "서로 (互相) + 채우다 (填補) + -아/어 주다 (給予) 的未來定語形。" }
+      ]
+    },
+    {
+      "korean": "사랑을 만난 거죠",
+      "translation": "遇見了那樣的愛情吧",
+      "analysis": [
+        { "point": "사랑을 만난 거죠", "explanation": "사랑 (愛) + -을 (受格助詞) + 만나다 (遇見) 的過去定語形 + 것 (事情/東西) + -이죠 (是...吧) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "영원히 난 그대만, 난 그대만",
+      "translation": "永遠我只(愛)你，我只(愛)你",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "난 그대만", "explanation": "나 (我) + -는 (主題助詞) + 그대 (你) + -만 (只) + (사랑해 省略)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘이 사랑해",
+      "translation": "我們兩人相愛",
+      "analysis": [
+        { "point": "우리 둘이", "explanation": "우리 (我們) + 둘 (二) + -이 (主格助詞)。" },
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "짧은 머리, 짧은 치마 (oh) 쌩얼인 얼굴 (oh-yeah)",
+      "translation": "短髮，短裙 (oh) 素顏的臉 (oh-yeah)",
+      "analysis": [
+        { "point": "짧은 머리", "explanation": "짧다 (短) 的定語形 + 머리 (頭髮)。" },
+        { "point": "짧은 치마", "explanation": "치마 (裙子)。" },
+        { "point": "쌩얼인 얼굴", "explanation": "쌩얼 (素顏) + -이다 (是) + -ㄴ (定語形) + 얼굴 (臉)。" }
+      ]
+    },
+    {
+      "korean": "너 오늘 왠지 예뻐 (oh)",
+      "translation": "你今天不知為何很漂亮 (oh)",
+      "analysis": [
+        { "point": "너 오늘", "explanation": "너 (你) + 오늘 (今天)。" },
+        { "point": "왠지", "explanation": "副詞，不知為何、總覺得。" },
+        { "point": "예뻐", "explanation": "예쁘다 (漂亮) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짧은 머리, 하얀 셔츠, 체크 넥타이",
+      "translation": "短髮，白襯衫，格子領帶",
+      "analysis": [
+        { "point": "하얀 셔츠", "explanation": "하얗다 (白) 的定語形 + 셔츠 (襯衫)。" },
+        { "point": "체크 넥타이", "explanation": "Check necktie (格子領帶)。" }
+      ]
+    },
+    {
+      "korean": "오빠도 오늘 멋져",
+      "translation": "哥哥今天也很帥",
+      "analysis": [
+        { "point": "오빠도", "explanation": "오빠 (哥哥，女生用語) + -도 (也)。" },
+        { "point": "멋져", "explanation": "멋지다 (帥氣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "짧게 자른 그대 변화가 (그대 변화가)",
+      "translation": "你剪短頭髮的變化 (你的變化)",
+      "analysis": [
+        { "point": "짧게 자른", "explanation": "짧게 (短地) + 자르다 (剪) 的過去定語形。" },
+        { "point": "그대 변화가", "explanation": "그대 (你) + 변화 (變化) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너무나도 난 예뻐 (oh)",
+      "translation": "我覺得非常漂亮 (oh)",
+      "analysis": [
+        { "point": "너무나도", "explanation": "副詞，非常地、過分地。" },
+        { "point": "난 예뻐", "explanation": "난 (我) + 예뻐 (覺得漂亮/喜歡)。" }
+      ]
+    },
+    {
+      "korean": "사랑스런 우리 둘이서 (둘이서)",
+      "translation": "可愛的我們兩人 (兩人)",
+      "analysis": [
+        { "point": "사랑스런", "explanation": "사랑스럽다 (可愛/討人喜歡) 的定語形。" },
+        { "point": "우리 둘이서", "explanation": "우리 (我們) + 둘 (二/兩人) + -(이)서 (表示人數的主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "절대 변하지 마요",
+      "translation": "絕對不要變",
+      "analysis": [
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "변하지 마요", "explanation": "변하다 (改變) + -지 마요 (否定命令型，不要...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "사랑해, 나도 사랑해",
+      "translation": "我愛你，我也愛你",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "사랑해, 나도 사랑해",
+      "translation": "我愛你，我也愛你",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "사랑스런 우리 둘이서",
+      "translation": "可愛的我們兩人",
+      "analysis": [
+        { "point": "사랑스런", "explanation": "사랑스럽다 (可愛/討人喜歡) 的定語形。" },
+        { "point": "우리 둘이서", "explanation": "우리 (我們) + 둘 (二/兩人) + -(이)서 (表示人數的主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "절대 변하지 마요",
+      "translation": "絕對不要變",
+      "analysis": [
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "변하지 마요", "explanation": "변하다 (改變) + -지 마요 (否定命令型，不要...)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "멀리", "chinese": "遠處", "pos": "名詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "모습", "chinese": "樣子", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "보이다", "chinese": "看見、看起來", "pos": "動詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "짧다", "chinese": "短", "pos": "形容詞" },
+    { "korean": "치마", "chinese": "裙子", "pos": "名詞" },
+    { "korean": "쌩얼", "chinese": "素顏", "pos": "名詞" },
+    { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "예쁘다", "chinese": "漂亮", "pos": "形容詞" },
+    { "korean": "하얗다", "chinese": "白", "pos": "形容詞" },
+    { "korean": "셔츠", "chinese": "襯衫", "pos": "名詞" },
+    { "korean": "멋지다", "chinese": "帥氣", "pos": "形容詞" },
+    { "korean": "자르다", "chinese": "剪", "pos": "動詞" },
+    { "korean": "변화", "chinese": "變化", "pos": "名詞" },
+    { "korean": "사랑스럽다", "chinese": "可愛", "pos": "形容詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "자꾸만", "chinese": "總是", "pos": "副詞" },
+    { "korean": "어색하다", "chinese": "尷尬", "pos": "形容詞" },
+    { "korean": "만지다", "chinese": "觸摸", "pos": "動詞" },
+    { "korean": "귀엽다", "chinese": "可愛", "pos": "形容詞" },
+    { "korean": "빠져들다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "솔직히", "chinese": "坦白說", "pos": "副詞" },
+    { "korean": "완벽하다", "chinese": "完美", "pos": "形容詞" },
+    { "korean": "부족하다", "chinese": "不足", "pos": "形容詞" },
+    { "korean": "채우다", "chinese": "填補", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" }
+  ]
+}

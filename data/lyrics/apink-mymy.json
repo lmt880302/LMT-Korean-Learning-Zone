@@ -1,0 +1,349 @@
+{
+  "id": "apink-mymy",
+  "title": "My My",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "발맞춰 어디론가 Run away",
+      "translation": "配合著腳步 向著某處 Run away",
+      "analysis": [
+        { "point": "발맞춰", "explanation": "발맞추다 (步伐一致/配合) + -어 (連接語尾)。" },
+        { "point": "어디론가", "explanation": "어디 (哪裡) + -로 (方向) + -(이)ㄴ가 (不確定的疑問/某處)。" }
+      ]
+    },
+    {
+      "korean": "(Yeah) 건조한 사막이라도 Okay",
+      "translation": "(Yeah) 即使是乾燥的沙漠也 Okay",
+      "analysis": [
+        { "point": "건조한", "explanation": "건조하다 (乾燥) + -ㄴ (形容詞修飾形)。" },
+        { "point": "사막이라도", "explanation": "사막 (沙漠) + -(이)라도 (即使是...也/就算是)。" }
+      ]
+    },
+    {
+      "korean": "(Yeah) 구름은 햇빛의 우산이 돼",
+      "translation": "(Yeah) 雲朵成為陽光的雨傘",
+      "analysis": [
+        { "point": "우산이 돼", "explanation": "우산 (雨傘) + -이 되다 (成為...) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "Oh I'm not alone",
+      "translation": "Oh I'm not alone",
+      "analysis": []
+    },
+    {
+      "korean": "하루하루 눈을 뜨고 나면 새로움투성이",
+      "translation": "每一天睜開眼後 盡是新事物",
+      "analysis": [
+        { "point": "뜨고 나면", "explanation": "뜨다 (睜開) + -고 나면 (做完...之後/如果...)。" },
+        { "point": "새로움투성이", "explanation": "새로움 (新穎/新事物) + -투성이 (接尾辭，表示充滿/盡是...)。" }
+      ]
+    },
+    {
+      "korean": "거울 속에 나는 나를 만나",
+      "translation": "在鏡子裡 我遇見了我",
+      "analysis": [
+        { "point": "속에", "explanation": "속 (裡面) + -에 (場所助詞)。" },
+        { "point": "만나", "explanation": "만나다 (遇見) + -아 (終結語尾)。" }
+      ]
+    },
+    {
+      "korean": "새로운 나를 꽃피워",
+      "translation": "讓全新的我綻放",
+      "analysis": [
+        { "point": "새로운", "explanation": "새롭다 (新的) + -은 (修飾形，ㅂ不規則變化)。" },
+        { "point": "꽃피워", "explanation": "꽃피우다 (使開花/綻放) + -어 (終結語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시간은 단지 그리면 돼 (그리면 돼)",
+      "translation": "時間只要去描繪就行 (去描繪就行)",
+      "analysis": [
+        { "point": "그리면 돼", "explanation": "그리다 (畫/描繪) + -(으)면 되다 (只要...就行/就可以)。" }
+      ]
+    },
+    {
+      "korean": "정해진 건 하나 없는 (Yeah yeah)",
+      "translation": "沒有任何被定下的事物 (Yeah yeah)",
+      "analysis": [
+        { "point": "정해진 건", "explanation": "정해지다 (被決定/定下) + -ㄴ (過去/狀態修飾) + 것 (東西/事情) + -은 (主題) -> 건。" },
+        { "point": "없는", "explanation": "없다 (沒有) + -는 (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "늦거나 빠른 건 없어",
+      "translation": "沒有所謂的遲或早",
+      "analysis": [
+        { "point": "늦거나", "explanation": "늦다 (遲/晚) + -거나 (或者/無論是...)。" },
+        { "point": "빠른 건", "explanation": "빠르다 (快) + -ㄴ (修飾) + 것 (事情) + -은 (主題)。" }
+      ]
+    },
+    {
+      "korean": "우리 인생은 La-la-la-la-la-la",
+      "translation": "我們的人生是 La-la-la-la-la-la",
+      "analysis": []
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "평행선을 넘어 꿈의 노를 저어 보자",
+      "translation": "越過平行線 試著划動夢想的槳吧",
+      "analysis": [
+        { "point": "넘어", "explanation": "넘다 (越過) + -어 (連接語尾)。" },
+        { "point": "저어 보자", "explanation": "젓다 (划/攪拌) + -어 보다 (試試看) + -자 (共動/勸誘)；ㅅ不規則變化 (젓 + 어 -> 저어)。" }
+      ]
+    },
+    {
+      "korean": "행복의 시간은 마음속 주머니에 가득 차",
+      "translation": "幸福的時光在心裡的口袋中滿溢",
+      "analysis": [
+        { "point": "마음속", "explanation": "마음 (心) + 속 (裡面)。" },
+        { "point": "가득 차", "explanation": "가득 (滿滿地) + 차다 (充滿) + -아 (終結)。" }
+      ]
+    },
+    {
+      "korean": "서두르지 마 늘 충분하니까 그대로 있어도 돼",
+      "translation": "別著急 總是很充裕 保持原樣也可以",
+      "analysis": [
+        { "point": "서두르지 마", "explanation": "서두르다 (著急/匆忙) + -지 마 (禁止命令)。" },
+        { "point": "충분하니까", "explanation": "충분하다 (充分/足夠) + -(으)니까 (因為...)。" },
+        { "point": "있어도 돼", "explanation": "있다 (在/保持) + -아/어도 되다 (可以...)。" }
+      ]
+    },
+    {
+      "korean": "나의 여행의 시작은 나야",
+      "translation": "我旅行的開始就是我",
+      "analysis": [
+        { "point": "나야", "explanation": "나 (我) + -(이)야 (是.../半語)。" }
+      ]
+    },
+    {
+      "korean": "저 태양 위로 My my my my my way",
+      "translation": "向著那太陽之上 My my my my my way",
+      "analysis": [
+        { "point": "위로", "explanation": "위 (上面) + -로 (方向)。" }
+      ]
+    },
+    {
+      "korean": "한 걸음마다 가까이 가까이 Oh-ooh-oh",
+      "translation": "每一步都 靠近 靠近 Oh-ooh-oh",
+      "analysis": [
+        { "point": "걸음마다", "explanation": "걸음 (步伐) + -마다 (每...)。" },
+        { "point": "가까이", "explanation": "가까이 (靠近地/近地)。" }
+      ]
+    },
+    {
+      "korean": "내가 바라던 곳이야",
+      "translation": "是我盼望的地方啊",
+      "analysis": [
+        { "point": "바라던", "explanation": "바라다 (盼望/希望) + -던 (回想修飾形)。" },
+        { "point": "곳이야", "explanation": "곳 (地方) + -이야 (是...)。" }
+      ]
+    },
+    {
+      "korean": "흔들리지 않게 맘을 잡아",
+      "translation": "為了不被動搖 抓住心吧",
+      "analysis": [
+        { "point": "흔들리지 않게", "explanation": "흔들리다 (動搖/晃動) + -지 않게 (為了不...)。" },
+        { "point": "잡아", "explanation": "잡다 (抓住) + -아 (命令/勸誘)。" }
+      ]
+    },
+    {
+      "korean": "나에게로 Oh-oh-oh-oh 가까이 My my way",
+      "translation": "向著我 Oh-oh-oh-oh 靠近 My my way",
+      "analysis": [
+        { "point": "나에게로", "explanation": "나 (我) + -에게 (對象) + -로 (方向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap / Bridge",
+      "korean": "BRRRR BAA 두 손 가득히 쥔 모든 것을",
+      "translation": "BRRRR BAA 雙手滿滿緊握的一切",
+      "analysis": [
+        { "point": "가득히", "explanation": "가득하다 (滿) + -히 (副詞化)。" },
+        { "point": "쥔", "explanation": "쥐다 (握/抓) + -ㄴ (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "BRRRR BAA 날 위해 내버려도 괜찮아",
+      "translation": "BRRRR BAA 為了我丟掉也沒關係",
+      "analysis": [
+        { "point": "위해", "explanation": "위하다 (為了) + -아/어 (連接)。" },
+        { "point": "내버려도", "explanation": "내버리다 (丟棄/扔掉) + -어 + -도 (即使...也)。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係) + -아 (終結)。" }
+      ]
+    },
+    {
+      "korean": "Hey 어딘가로 더 가까이 Hey (어디로 가?)",
+      "translation": "Hey 向著某處更靠近 Hey (去哪裡?)",
+      "analysis": [
+        { "point": "어딘가로", "explanation": "어딘가 (某處) + -로 (方向)。" },
+        { "point": "가", "explanation": "가다 (去) + -아 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "아직은 Undecided hey hey",
+      "translation": "目前還 Undecided hey hey",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還/尚) + -은 (強調/主題)。" }
+      ]
+    },
+    {
+      "korean": "아무도 정해주지 못해",
+      "translation": "誰都無法幫我決定",
+      "analysis": [
+        { "point": "아무도", "explanation": "아무 (任何人) + -도 (也，接否定)。" },
+        { "point": "정해 주지 못해", "explanation": "정하다 (決定) + -아/어 주다 (幫忙/給予) + -지 못하다 (無法) + -해 (終結)。" }
+      ]
+    },
+    {
+      "korean": "나만이 La-la-la-la-la-la",
+      "translation": "只有我 La-la-la-la-la-la",
+      "analysis": [
+        { "point": "나만이", "explanation": "나 (我) + -만 (只) + -이 (主格)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "바다 위를 날아 꿈의 날개 펼쳐 보자",
+      "translation": "飛越海面 試著展開夢想的翅膀吧",
+      "analysis": [
+        { "point": "날아", "explanation": "날다 (飛) + -아 (連接)。" },
+        { "point": "펼쳐 보자", "explanation": "펼치다 (展開) + -어 보다 (試試) + -자 (共動)。" }
+      ]
+    },
+    {
+      "korean": "행복의 무게는 아무도 정하지 못하니까",
+      "translation": "因為誰也無法定義幸福的重量",
+      "analysis": [
+        { "point": "정하지 못하니까", "explanation": "정하다 (定/決定) + -지 못하다 (無法) + -(으)니까 (因為)。" }
+      ]
+    },
+    {
+      "korean": "서두르지 마 늘 충분하니까 그대로 있어도 돼",
+      "translation": "別著急 總是很充裕 保持原樣也可以",
+      "analysis": [
+        { "point": "서두르지 마", "explanation": "서두르다 (著急) + -지 마 (禁止)。" }
+      ]
+    },
+    {
+      "korean": "나의 여행의 시작은 나야",
+      "translation": "我旅行的開始就是我",
+      "analysis": [
+        { "point": "나야", "explanation": "나 + -(이)야 (是)。" }
+      ]
+    },
+    {
+      "korean": "저 태양 위로 My my my my my way",
+      "translation": "向著那太陽之上 My my my my my way",
+      "analysis": [
+        { "point": "태양", "explanation": "태양 (太陽)。" }
+      ]
+    },
+    {
+      "korean": "한 걸음마다 가까이 가까이 Oh-ooh-oh",
+      "translation": "每一步都 靠近 靠近 Oh-ooh-oh",
+      "analysis": [
+        { "point": "걸음마다", "explanation": "걸음 (步伐) + -마다 (每...)。" }
+      ]
+    },
+    {
+      "korean": "내가 바라던 곳이야",
+      "translation": "是我盼望的地方啊",
+      "analysis": [
+        { "point": "바라던", "explanation": "바라다 (盼望) + -던 (回想修飾)。" }
+      ]
+    },
+    {
+      "korean": "흔들리지 않게 맘을 잡아",
+      "translation": "為了不被動搖 抓住心吧",
+      "analysis": [
+        { "point": "잡아", "explanation": "잡다 (抓) + -아 (命令)。" }
+      ]
+    },
+    {
+      "korean": "나에게로 Oh-oh-oh-oh 가까이 My my way",
+      "translation": "向著我 Oh-oh-oh-oh 靠近 My my way",
+      "analysis": [
+        { "point": "가까이", "explanation": "가까이 (靠近)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "내 삶은 여행 여행 여행",
+      "translation": "我的人生是旅行 旅行 旅行",
+      "analysis": [
+        { "point": "삶은", "explanation": "삶 (人生/生活) + -은 (主題)。" }
+      ]
+    },
+    {
+      "korean": "내 맘을 걷네 걷네",
+      "translation": "漫步在我的心裡 漫步",
+      "analysis": [
+        { "point": "걷네", "explanation": "걷다 (走) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "이 길은 나의 Road movie",
+      "translation": "這條路是我的 Road movie",
+      "analysis": [
+        { "point": "길은", "explanation": "길 (路) + -은 (主題)。" }
+      ]
+    },
+    {
+      "korean": "내 길은 오랜 노래 노래",
+      "translation": "我的路是久遠的歌 歌",
+      "analysis": [
+        { "point": "오랜", "explanation": "오래다 (久遠) + -ㄴ (修飾形)。" }
+      ]
+    },
+    {
+      "korean": "저 태양 위로 My my my my my way (Ah!)",
+      "translation": "向著那太陽之上 My my my my my way (Ah!)",
+      "analysis": [
+        { "point": "위로", "explanation": "위 (上) + -로 (方向)。" }
+      ]
+    },
+    {
+      "korean": "한 걸음마다 가까이 가까이",
+      "translation": "每一步都 靠近 靠近",
+      "analysis": [
+        { "point": "가까이", "explanation": "가까이 (靠近)。" }
+      ]
+    },
+    {
+      "korean": "내가 바라던 곳이야",
+      "translation": "是我盼望的地方啊",
+      "analysis": [
+        { "point": "곳이야", "explanation": "곳 (地方) + -(이)야 (是)。" }
+      ]
+    },
+    {
+      "korean": "흔들리지 않게 맘을 잡아",
+      "translation": "為了不被動搖 抓住心吧",
+      "analysis": [
+        { "point": "흔들리지 않게", "explanation": "흔들리다 + -지 않게。" }
+      ]
+    },
+    {
+      "korean": "나에게로 Oh-oh-oh-oh 가까이 My my way",
+      "translation": "向著我 Oh-oh-oh-oh 靠近 My my way",
+      "analysis": [
+        { "point": "나에게로", "explanation": "나 + -에게 + -로。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "발맞추다", "chinese": "步伐一致、配合", "pos": "動詞" },
+    { "korean": "건조하다", "chinese": "乾燥", "pos": "形容詞" },
+    { "korean": "투성이", "chinese": "盡是...、充滿...", "pos": "接尾辭" },
+    { "korean": "꽃피우다", "chinese": "使綻放、開花", "pos": "動詞" },
+    { "korean": "그리다", "chinese": "畫、描繪", "pos": "動詞" },
+    { "korean": "젓다", "chinese": "划(船)、攪拌", "pos": "動詞" },
+    { "korean": "서두르다", "chinese": "著急、匆忙", "pos": "動詞" },
+    { "korean": "펼치다", "chinese": "展開、張開", "pos": "動詞" },
+    { "korean": "내버리다", "chinese": "丟棄、扔掉", "pos": "動詞" },
+    { "korean": "정하다", "chinese": "決定、定下", "pos": "動詞" }
+  ]
+}
