@@ -1,0 +1,415 @@
+{
+  "id": "apink-dumhdurum",
+  "title": "Dumhdurum (덤더럼)",
+  "artist": "Apink (에이핑크)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "Hey 느낌이 너무 이상한 걸 좀",
+      "translation": "Hey 感覺有點太奇怪了",
+      "analysis": [
+        { "point": "Hey", "explanation": "英文感嘆詞。" },
+        { "point": "느낌이", "explanation": "느낌 (感覺) + -이 (主格助詞)。" },
+        { "point": "너무 이상한 걸", "explanation": "너무 (太) + 이상하다 (奇怪) + -(으)ㄴ 걸 (推測或感嘆的語尾，表示覺得.../大概是...)。" },
+        { "point": "좀", "explanation": "조금 (一點/稍微) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "나를 위해 보내준다는 말이",
+      "translation": "說是為了我才放我走的話",
+      "analysis": [
+        { "point": "나를 위해", "explanation": "나를 (我) + 위하다 (為了) 的活用形。" },
+        { "point": "보내준다는 말이", "explanation": "보내주다 (放行/送走) + -ㄴ다는 (引用的定語形，說是...) + 말 (話) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "직감은 두려워 너무 참 잘 맞아서",
+      "translation": "直覺很可怕 因為太過準確了",
+      "analysis": [
+        { "point": "직감은", "explanation": "직감 (直覺) + -은 (主題助詞)。" },
+        { "point": "두려워", "explanation": "두렵다 (可怕/害怕) 的非格式體。" },
+        { "point": "너무 참 잘 맞아서", "explanation": "너무 (太) + 참 (真的) + 잘 (好/準確) + 맞다 (對/符合) + -아서 (因為...所以...)。" }
+      ]
+    },
+    {
+      "korean": "하루하루 밀어냈던 느낌 그대로",
+      "translation": "就像一天天推開的那種感覺一樣",
+      "analysis": [
+        { "point": "하루하루", "explanation": "名詞，一天一天。" },
+        { "point": "밀어냈던", "explanation": "밀어내다 (推開/排斥) + -았던 (回想過去的定語詞尾)。" },
+        { "point": "느낌 그대로", "explanation": "느낌 (感覺) + 그대로 (照原樣/就那樣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "화려해 감춰진 모습 oh",
+      "translation": "華麗地被隱藏的模樣 oh",
+      "analysis": [
+        { "point": "화려해", "explanation": "화려하다 (華麗) 的非格式體，此處作修飾或狀態描述。" },
+        { "point": "감춰진 모습", "explanation": "감춰지다 (被隱藏) 的過去定語形 (감춰진) + 모습 (模樣/樣子)。" }
+      ]
+    },
+    {
+      "korean": "다 들킬까 봐 겁나 너는 내 맘 몰라",
+      "translation": "害怕全被發現 你不懂我的心",
+      "analysis": [
+        { "point": "다 들킬까 봐", "explanation": "다 (全部) + 들키다 (被發現) + -(으)ㄹ까 보다 (擔心/害怕會...)。" },
+        { "point": "겁나", "explanation": "겁나다 (害怕) 的非格式體。" },
+        { "point": "너는 내 맘 몰라", "explanation": "너는 (你) + 내 (我的) + 맘 (心) + 모르다 (不知道) 的非格式體 (몰라)。" }
+      ]
+    },
+    {
+      "korean": "걱정 마 baby, I'm so fine, oh",
+      "translation": "別擔心 baby, I'm so fine, oh",
+      "analysis": [
+        { "point": "걱정 마", "explanation": "걱정하다 (擔心) + -지 마 (禁止命令句，別...) 的縮略。" },
+        { "point": "baby, I'm so fine, oh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아냐 아무렇지 않아 괜찮아",
+      "translation": "不是的 沒什麼大不了 沒關係",
+      "analysis": [
+        { "point": "아냐", "explanation": "아니다 (不是) 的口語非格式體。" },
+        { "point": "아무렇지 않아", "explanation": "아무렇지 않다 (沒什麼/無所謂) 的非格式體。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 맘은 덤더러럼 더러럼",
+      "translation": "我的心 덤더러럼 더러럼",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더러럼 더러럼", "explanation": "擬聲詞/擬態詞，形容心裡平靜、無動於衷或麻木的聲音/狀態。" }
+      ]
+    },
+    {
+      "korean": "누구보다 차갑던 네가 떠난 거야 잘 된 거야 -",
+      "translation": "比誰都冷漠的你離開了 是件好事 -",
+      "analysis": [
+        { "point": "누구보다", "explanation": "누구 (誰) + -보다 (比...更...)。" },
+        { "point": "차갑던 네가", "explanation": "차갑다 (冷漠/冰冷) + -던 (回想過去的定語詞尾) + 네가 (你)。" },
+        { "point": "떠난 거야", "explanation": "떠나다 (離開) + -(으)ㄴ 거야 (過去時制的強調，是...了)。" },
+        { "point": "잘 된 거야", "explanation": "잘 되다 (順利/好事) + -(으)ㄴ 거야 (強調語氣)。" }
+      ]
+    },
+    {
+      "korean": "점점점 bye-bye, baby 덤더러럼 더러럼",
+      "translation": "漸漸 bye-bye, baby 덤더러럼 더러럼",
+      "analysis": [
+        { "point": "점점점", "explanation": "점점 (漸漸/越來越) + 점 (點，標點符號的點)，這裡指省略號或漸行漸遠。" },
+        { "point": "bye-bye, baby", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "덤더러럼 더러럼", "explanation": "擬聲詞，形容心情。" }
+      ]
+    },
+    {
+      "korean": "별로 슬프지 않아 눈물 흘리지 않아",
+      "translation": "並不太悲傷 也不流眼淚",
+      "analysis": [
+        { "point": "별로", "explanation": "副詞，不太/並不 (後接否定)。" },
+        { "point": "슬프지 않아", "explanation": "슬프다 (悲傷) + -지 않다 (不) 的非格式體。" },
+        { "point": "눈물 흘리지 않아", "explanation": "눈물 (眼淚) + 흘리다 (流) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "벌써 다 끝나버린 내 맘은 덤더럼 덤덤",
+      "translation": "已經全都結束的我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "벌써", "explanation": "副詞，已經。" },
+        { "point": "다 끝나버린", "explanation": "다 (全) + 끝나다 (結束) + -아/어 버리다 (表示動作完成/遺憾) + -(으)ㄴ (過去定語形)。" },
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "봐봐봐봐 yeah",
+      "translation": "看看看吧 yeah",
+      "analysis": [
+        { "point": "봐봐봐봐", "explanation": "보다 (看) 的重複命令形，強調「你看吧」。" }
+      ]
+    },
+    {
+      "korean": "내 맘은 덤더럼 덤덤",
+      "translation": "我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "korean": "거짓말 같다고 말하지 마",
+      "translation": "別說這像是謊話",
+      "analysis": [
+        { "point": "거짓말 같다고", "explanation": "거짓말 (謊話) + 같다 (像) + -다고 (引用語尾，說是...)。" },
+        { "point": "말하지 마", "explanation": "말하다 (說) + -지 마 (禁止命令句，別...)。" }
+      ]
+    },
+    {
+      "korean": "내 맘은 덤더럼 덤덤",
+      "translation": "我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Yeah, na-na-na-na, it's like na-na-na-na",
+      "translation": "Yeah, na-na-na-na, it's like na-na-na-na",
+      "analysis": [
+        { "point": "Yeah, na-na-na-na, it's like na-na-na-na", "explanation": "英文歌詞與擬聲詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "어딜 가도 슬픈 노래들뿐 you know this feeling",
+      "translation": "無論去哪都只有悲傷的歌 you know this feeling",
+      "analysis": [
+        { "point": "어딜 가도", "explanation": "어디를 (哪裡) 的縮略 + 가다 (去) + -아/어도 (無論/即使...也...)。" },
+        { "point": "슬픈 노래들뿐", "explanation": "슬픈 (悲傷的) + 노래 (歌) + -들 (複數) + -뿐 (只有/僅僅)。" },
+        { "point": "you know this feeling", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na, yeah, na-na-na-na",
+      "translation": "Na-na-na-na, yeah, na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na, yeah, na-na-na-na", "explanation": "擬聲詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "사랑 못 할 거라 생각해 가끔",
+      "translation": "偶爾覺得我無法再愛了",
+      "analysis": [
+        { "point": "사랑 못 할 거라", "explanation": "사랑 (愛) + 못 하다 (不能做) + -(으)ㄹ 거라 (將會...的引用形縮略，即 것이라고)。" },
+        { "point": "생각해", "explanation": "생각하다 (想/認為) 的非格式體。" },
+        { "point": "가끔", "explanation": "副詞，偶爾/有時候。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "화려해 감춰진 모습 oh",
+      "translation": "華麗地被隱藏的模樣 oh",
+      "analysis": [
+        { "point": "화려해", "explanation": "화려하다 (華麗) 的非格式體，此處作修飾或狀態描述。" },
+        { "point": "감춰진 모습", "explanation": "감춰지다 (被隱藏) 的過去定語形 (감춰진) + 모습 (模樣/樣子)。" }
+      ]
+    },
+    {
+      "korean": "더 예뻐진 거 같아 속으론 더 아파",
+      "translation": "似乎變得更漂亮了 內心卻更痛了",
+      "analysis": [
+        { "point": "더 예뻐진 거 같아", "explanation": "더 (更) + 예뻐지다 (變漂亮) + -(으)ㄴ 것 같다 (好像/似乎...) 的非格式體。" },
+        { "point": "속으론", "explanation": "속 (裡面/內心) + -(으)로는 (至於.../在...裡) 的縮略。" },
+        { "point": "더 아파", "explanation": "더 (更) + 아프다 (痛) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "걱정 마 baby, I'm so fine, oh",
+      "translation": "別擔心 baby, I'm so fine, oh",
+      "analysis": [
+        { "point": "걱정 마", "explanation": "걱정하다 (擔心) + -지 마 (禁止命令句，別...) 的縮略。" },
+        { "point": "baby, I'm so fine, oh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아냐 아무렇지 않아 괜찮아",
+      "translation": "不是的 沒什麼大不了 沒關係",
+      "analysis": [
+        { "point": "아냐", "explanation": "아니다 (不是) 的口語非格式體。" },
+        { "point": "아무렇지 않아", "explanation": "아무렇지 않다 (沒什麼/無所謂) 的非格式體。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 맘은 덤더러럼 더러럼",
+      "translation": "我的心 덤더러럼 더러럼",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더러럼 더러럼", "explanation": "擬聲詞，形容心裡平靜、無動於衷或麻木的聲音/狀態。" }
+      ]
+    },
+    {
+      "korean": "누구보다 차갑던 네가 떠난 거야 잘 된 거야–",
+      "translation": "比誰都冷漠的你離開了 是件好事–",
+      "analysis": [
+        { "point": "누구보다", "explanation": "누구 (誰) + -보다 (比...更...)。" },
+        { "point": "차갑던 네가", "explanation": "차갑다 (冷漠/冰冷) + -던 (回想過去的定語詞尾) + 네가 (你)。" },
+        { "point": "떠난 거야", "explanation": "떠나다 (離開) + -(으)ㄴ 거야 (過去時制的強調，是...了)。" },
+        { "point": "잘 된 거야", "explanation": "잘 되다 (順利/好事) + -(으)ㄴ 거야 (強調語氣)。" }
+      ]
+    },
+    {
+      "korean": "점점점 bye-bye, baby 덤더러럼 더러럼",
+      "translation": "漸漸 bye-bye, baby 덤더러럼 더러럼",
+      "analysis": [
+        { "point": "점점점", "explanation": "점점 (漸漸/越來越) + 점 (點，標點符號的點)，這裡指省略號或漸行漸遠。" },
+        { "point": "bye-bye, baby", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "덤더러럼 더러럼", "explanation": "擬聲詞，形容心情。" }
+      ]
+    },
+    {
+      "korean": "별로 슬프지 않아 눈물 흘리지 않아",
+      "translation": "並不太悲傷 也不流眼淚",
+      "analysis": [
+        { "point": "별로", "explanation": "副詞，不太/並不 (後接否定)。" },
+        { "point": "슬프지 않아", "explanation": "슬프다 (悲傷) + -지 않다 (不) 的非格式體。" },
+        { "point": "눈물 흘리지 않아", "explanation": "눈물 (眼淚) + 흘리다 (流) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "벌써 다 끝나버린 내 맘은 덤더럼 덤덤",
+      "translation": "已經全都結束的我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "벌써", "explanation": "副詞，已經。" },
+        { "point": "다 끝나버린", "explanation": "다 (全) + 끝나다 (結束) + -아/어 버리다 (表示動作完成/遺憾) + -(으)ㄴ (過去定語形)。" },
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "(Ah-ah)",
+      "translation": "(Ah-ah)",
+      "analysis": [
+        { "point": "(Ah-ah)", "explanation": "感嘆詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "봐봐봐봐 yeah",
+      "translation": "看看看吧 yeah",
+      "analysis": [
+        { "point": "봐봐봐봐", "explanation": "보다 (看) 的重複命令形，強調「你看吧」。" }
+      ]
+    },
+    {
+      "korean": "내 맘은 덤더럼 덤덤",
+      "translation": "我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "korean": "거짓말 같다고 말하지 마",
+      "translation": "別說這像是謊話",
+      "analysis": [
+        { "point": "거짓말 같다고", "explanation": "거짓말 (謊話) + 같다 (像) + -다고 (引用語尾，說是...)。" },
+        { "point": "말하지 마", "explanation": "말하다 (說) + -지 마 (禁止命令句，別...)。" }
+      ]
+    },
+    {
+      "korean": "No, no, no, no",
+      "translation": "No, no, no, no",
+      "analysis": [
+        { "point": "No, no, no, no", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "그리워 매번 잠들기 전에 yeah, yeah",
+      "translation": "想念你 每次在入睡之前 yeah, yeah",
+      "analysis": [
+        { "point": "그리워", "explanation": "그립다 (想念/懷念) 的非格式體。" },
+        { "point": "매번", "explanation": "副詞，每次。" },
+        { "point": "잠들기 전에", "explanation": "잠들다 (入睡) + -기 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "목소릴 들어야 스르르 눈 감았지",
+      "translation": "總要聽到你的聲音 才能緩緩閉上眼",
+      "analysis": [
+        { "point": "목소릴", "explanation": "목소리 (聲音) + -를 (受格助詞) 的縮略。" },
+        { "point": "들어야", "explanation": "듣다 (聽) + -아야 (必須...才...)。" },
+        { "point": "스르르", "explanation": "擬態詞，輕輕地、緩緩地 (閉上眼睛的樣子)。" },
+        { "point": "눈 감았지", "explanation": "눈 (眼睛) + 감다 (閉) + -았 (過去式) + -지 (回想語氣)。" }
+      ]
+    },
+    {
+      "korean": "시간이 정말 모든 걸 지워준다 해도",
+      "translation": "就算時間真的能抹去一切",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "모든 걸", "explanation": "모든 (所有的) + 것 (事物) + -을 (受格助詞) 的縮略 (걸)。" },
+        { "point": "지워준다 해도", "explanation": "지우다 (抹去) + -어 주다 (幫忙做) + -ㄴ다 해도 (就算說是...也/即使...)。" }
+      ]
+    },
+    {
+      "korean": "Someday 다 그렇게 된대도 oh",
+      "translation": "Someday 就算全都會變成那樣 oh",
+      "analysis": [
+        { "point": "Someday", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "다 그렇게", "explanation": "다 (全) + 그렇게 (那樣地)。" },
+        { "point": "된대도", "explanation": "되다 (成為) + -ㄴ대도 (就算說是...也/即使...) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "내 맘은 덤더럼 덤덤",
+      "translation": "我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "korean": "봐봐봐봐 yeah",
+      "translation": "看看看吧 yeah",
+      "analysis": [
+        { "point": "봐봐봐봐", "explanation": "보다 (看) 的重複命令形，強調「你看吧」。" }
+      ]
+    },
+    {
+      "korean": "내 맘은 덤더럼 덤덤",
+      "translation": "我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    },
+    {
+      "korean": "거짓말 같다고 말하지 마",
+      "translation": "別說這像是謊話",
+      "analysis": [
+        { "point": "거짓말 같다고", "explanation": "거짓말 (謊話) + 같다 (像) + -다고 (引用語尾，說是...)。" },
+        { "point": "말하지 마", "explanation": "말하다 (說) + -지 마 (禁止命令句，別...)。" }
+      ]
+    },
+    {
+      "korean": "내 맘은 덤더럼 덤덤",
+      "translation": "我的心 덤더럼 덤덤",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 맘 (心) + -은 (主題助詞)。" },
+        { "point": "덤더럼 덤덤", "explanation": "擬聲詞，形容平靜麻木的心情。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "보내주다", "chinese": "送走、放行", "pos": "動詞" },
+    { "korean": "직감", "chinese": "直覺", "pos": "名詞" },
+    { "korean": "두렵다", "chinese": "害怕、可怕", "pos": "形容詞" },
+    { "korean": "밀어내다", "chinese": "推開、排斥", "pos": "動詞" },
+    { "korean": "화려하다", "chinese": "華麗", "pos": "形容詞" },
+    { "korean": "감추다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "들키다", "chinese": "被發現", "pos": "動詞" },
+    { "korean": "겁나다", "chinese": "害怕", "pos": "動詞" },
+    { "korean": "아무렇지 않다", "chinese": "沒關係、無所謂", "pos": "形容詞" },
+    { "korean": "차갑다", "chinese": "冷漠、冰冷", "pos": "形容詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "점점", "chinese": "漸漸", "pos": "副詞" },
+    { "korean": "별로", "chinese": "不太 (後接否定)", "pos": "副詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "흘리다", "chinese": "流(淚/汗)", "pos": "動詞" },
+    { "korean": "끝나다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "거짓말", "chinese": "謊話", "pos": "名詞" },
+    { "korean": "예뻐지다", "chinese": "變漂亮", "pos": "動詞" },
+    { "korean": "그립다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "감다", "chinese": "閉(眼)、洗(頭)", "pos": "動詞" },
+    { "korean": "지우다", "chinese": "抹去、擦掉", "pos": "動詞" }
+  ]
+}

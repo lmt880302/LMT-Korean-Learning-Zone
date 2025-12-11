@@ -136,6 +136,14 @@
     "lyricsFile": "../data/lyrics/apink-uyou.json"
   },
   {
+    "id": "apink-dumhdurum",
+    "title": "Dumhdurum (덤더럼)",
+    "artist": "Apink (에이핑크)",
+    "lyricsFile": "../data/lyrics/apink-uyou.json"
+  },
+
+
+  {
     "id": "apink-mymy",
     "title": "My My",
     "artist": "Apink (에이핑크)",  
