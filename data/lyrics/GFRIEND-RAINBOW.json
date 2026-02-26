@@ -1,0 +1,662 @@
+{
+  "id": "GFRIEND-RAINBOW",
+  "title": "RAINBOW",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "Nothing is impossible",
+      "translation": "沒有什麼是不可能的",
+      "analysis": [
+        { "point": "Nothing is impossible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Oh 날 감싸 안는 Rainbow",
+      "translation": "Oh 擁抱著我的 Rainbow",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "감싸 안는", "explanation": "감싸안다 (擁抱) 的冠詞形。" },
+        { "point": "Rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "날 지나친 소나기 먹구름에",
+      "translation": "被掠過我的陣雨和烏雲",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "지나친", "explanation": "지나치다 (掠過、經過) 的冠詞形。" },
+        { "point": "소나기", "explanation": "名詞，陣雨。" },
+        { "point": "먹구름에", "explanation": "먹구름 (烏雲) + -에 (原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "겁을 먹은 아이로 돌아가",
+      "translation": "回到被嚇到的孩子",
+      "analysis": [
+        { "point": "겁을 먹은", "explanation": "겁 (害怕) + -을 먹다 (吃，表示「感到害怕」) 的冠詞形。" },
+        { "point": "아이로", "explanation": "아이 (孩子) + -(으)로 (變成)。" },
+        { "point": "돌아가", "explanation": "돌아가다 (回去) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어려운 세상 수많은 사람들 속에",
+      "translation": "在艱難的世界 眾多的人群中",
+      "analysis": [
+        { "point": "어려운", "explanation": "어렵다 (困難的) 的冠詞形。" },
+        { "point": "세상", "explanation": "名詞，世界。" },
+        { "point": "수많은", "explanation": "수많다 (眾多的) 的冠詞形。" },
+        { "point": "사람들 속에", "explanation": "사람 (人) + -들 (複數) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "여린 내 마음 둘 그 곳은 대체 저 어디에",
+      "translation": "能放置我柔弱內心的那個地方 到底在哪裡",
+      "analysis": [
+        { "point": "여린", "explanation": "여리다 (柔弱的) 的冠詞形。" },
+        { "point": "내 마음", "explanation": "내 (我的) + 마음 (心)。" },
+        { "point": "둘", "explanation": "두다 (放、放置) 的冠詞形。" },
+        { "point": "그 곳은", "explanation": "그 (那) + 곳 (地方) + -은 (主題助詞)。" },
+        { "point": "대체", "explanation": "副詞，到底、究竟。" },
+        { "point": "저 어디에", "explanation": "저 (那) + 어디 (哪裡) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Show 보여줘",
+      "translation": "Show 讓我看見",
+      "analysis": [
+        { "point": "Show", "explanation": "英文，展示，無韓文文法解析。" },
+        { "point": "보여줘", "explanation": "보이다 (讓看) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "볼 위로 떨어진 빗방울",
+      "translation": "滴落臉頰上的雨滴",
+      "analysis": [
+        { "point": "볼 위로", "explanation": "볼 (臉頰) + 위 (上面) + -(으)로 (方向)。" },
+        { "point": "떨어진", "explanation": "떨어지다 (掉落) 的冠詞形。" },
+        { "point": "빗방울", "explanation": "名詞，雨滴。" }
+      ]
+    },
+    {
+      "korean": "눈물이 되기 전에",
+      "translation": "在成為眼淚之前",
+      "analysis": [
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)。" },
+        { "point": "되기 전에", "explanation": "되다 (成為) 的名詞形 + 전에 (在...之前)。" }
+      ]
+    },
+    {
+      "korean": "Oh 내가 믿고 있는 이 사랑을",
+      "translation": "Oh 我所相信的這份愛",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "믿고 있는", "explanation": "믿다 (相信) + -고 있다 (正在) 的冠詞形。" },
+        { "point": "이 사랑을", "explanation": "이 (這) + 사랑 (愛) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저기 Rainbow rainbow",
+      "translation": "那裡 Rainbow rainbow",
+      "analysis": [
+        { "point": "저기", "explanation": "指示代詞，那裡。" },
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 맘 깊숙이 퍼지는",
+      "translation": "在我心深處蔓延的",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "깊숙이", "explanation": "副詞，深深地。" },
+        { "point": "퍼지는", "explanation": "퍼지다 (蔓延、擴散) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Colors colors colors",
+      "translation": "Colors colors colors",
+      "analysis": [
+        { "point": "Colors colors colors", "explanation": "英文歌詞，色彩，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아주 가까워져",
+      "translation": "變得非常靠近",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "가까워져", "explanation": "가까워지다 (變近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Rainbow rainbow",
+      "translation": "Rainbow rainbow",
+      "analysis": [
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Nothing is impossible",
+      "translation": "沒有什麼是不可能的",
+      "analysis": [
+        { "point": "Nothing is impossible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Everything is possible",
+      "translation": "一切皆有可能",
+      "analysis": [
+        { "point": "Everything is possible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "상처 위로 빛나는",
+      "translation": "在傷口上閃耀的",
+      "analysis": [
+        { "point": "상처 위로", "explanation": "상처 (傷口) + 위 (上面) + -(으)로 (方向)。" },
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Ra ra rain ra rainbow",
+      "translation": "Ra ra rain ra rainbow",
+      "analysis": [
+        { "point": "Ra ra rain ra rainbow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ra ra rain ra rainbow",
+      "translation": "Ra ra rain ra rainbow",
+      "analysis": [
+        { "point": "Ra ra rain ra rainbow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "안 보이는 무언가로",
+      "translation": "以看不見的某種東西",
+      "analysis": [
+        { "point": "안 보이는", "explanation": "안 (不) + 보이다 (被看見) 的冠詞形。" },
+        { "point": "무언가로", "explanation": "무언가 (某種東西) + -(으)로 (以)。" }
+      ]
+    },
+    {
+      "korean": "너에게 연결돼",
+      "translation": "與你連接",
+      "analysis": [
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/向)。" },
+        { "point": "연결돼", "explanation": "연결되다 (被連接) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Rainbow rainbow",
+      "translation": "Rainbow rainbow",
+      "analysis": [
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "비에 젖은 어제는 네 품에 맡기고",
+      "translation": "被雨淋濕的昨天 託付給你的懷抱",
+      "analysis": [
+        { "point": "비에", "explanation": "비 (雨) + -에 (被)。" },
+        { "point": "젖은", "explanation": "젖다 (濕) 的冠詞形。" },
+        { "point": "어제는", "explanation": "어제 (昨天) + -는 (主題助詞)。" },
+        { "point": "네 품에", "explanation": "네 (你的) + 품 (懷抱) + -에 (場所助詞)。" },
+        { "point": "맡기고", "explanation": "맡기다 (託付) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "멈추지 않아 Rainbow",
+      "translation": "不會停止 Rainbow",
+      "analysis": [
+        { "point": "멈추지 않아", "explanation": "멈추다 (停止) + -지 않다 (否定) 的非格式體。" },
+        { "point": "Rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "비에 젖어 움직일 수 없을 때",
+      "translation": "被雨淋濕 無法動彈時",
+      "analysis": [
+        { "point": "비에", "explanation": "비 (雨) + -에 (被)。" },
+        { "point": "젖어", "explanation": "젖다 (濕) 的非格式體連接形。" },
+        { "point": "움직일 수 없을 때", "explanation": "움직이다 (移動) + -(으)ㄹ 수 없다 (無法) 的冠詞形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "차라리 더 맞는 것도 괜찮아",
+      "translation": "倒不如被更多雨淋也沒關係",
+      "analysis": [
+        { "point": "차라리", "explanation": "副詞，倒不如、寧願。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "맞는 것도", "explanation": "맞다 (被淋、被打中) 的冠詞形 + 것 (東西) + -도 (也)。" },
+        { "point": "괜찮아", "explanation": "괜찮다 (沒關係) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "용기 내 마주할 벅차 오르는 이 느낌",
+      "translation": "鼓起勇氣面對的 這滿溢而出的感覺",
+      "analysis": [
+        { "point": "용기 내", "explanation": "용기 (勇氣) + 내다 (拿出) 的縮略。" },
+        { "point": "마주할", "explanation": "마주하다 (面對) 的冠詞形。" },
+        { "point": "벅차 오르는", "explanation": "벅차오르다 (滿溢、激動) 的冠詞形。" },
+        { "point": "이 느낌", "explanation": "이 (這) + 느낌 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "온기와 따스한 선물이 기다릴 테니까",
+      "translation": "因為溫暖和溫暖的禮物會等待",
+      "analysis": [
+        { "point": "온기와", "explanation": "온기 (暖氣、溫暖) + -와 (和)。" },
+        { "point": "따스한", "explanation": "따스하다 (溫暖的) 的冠詞形。" },
+        { "point": "선물이", "explanation": "선물 (禮物) + -이 (主格助詞)。" },
+        { "point": "기다릴 테니까", "explanation": "기다리다 (等待) + -(으)ㄹ 테니까 (因為將會)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Shine 보여줘",
+      "translation": "Shine 讓我看見",
+      "analysis": [
+        { "point": "Shine", "explanation": "英文，閃耀，無韓文文法解析。" },
+        { "point": "보여줘", "explanation": "보이다 (讓看) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "나만을 비춰 줄 시간과",
+      "translation": "只照耀我的時間和",
+      "analysis": [
+        { "point": "나만을", "explanation": "나 (我) + -만 (只) + -을 (受格助詞)。" },
+        { "point": "비춰 줄", "explanation": "비추다 (照耀) + -아/어 주다 (為我做) 的冠詞形。" },
+        { "point": "시간과", "explanation": "시간 (時間) + -과 (和)。" }
+      ]
+    },
+    {
+      "korean": "다정한 공간 속에",
+      "translation": "在溫馨的空間裡",
+      "analysis": [
+        { "point": "다정한", "explanation": "다정하다 (溫馨的) 的冠詞形。" },
+        { "point": "공간 속에", "explanation": "공간 (空間) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 오래 머물고 싶게 해줘",
+      "translation": "讓我想停留更久",
+      "analysis": [
+        { "point": "더 오래", "explanation": "더 (更) + 오래 (長久)。" },
+        { "point": "머물고 싶게", "explanation": "머물다 (停留) + -고 싶다 (想) + -게 (使得)。" },
+        { "point": "해줘", "explanation": "하다 (做) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저기 Rainbow rainbow",
+      "translation": "那裡 Rainbow rainbow",
+      "analysis": [
+        { "point": "저기", "explanation": "指示代詞，那裡。" },
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 맘 깊숙이 퍼지는",
+      "translation": "在我心深處蔓延的",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "깊숙이", "explanation": "副詞，深深地。" },
+        { "point": "퍼지는", "explanation": "퍼지다 (蔓延、擴散) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Colors colors colors",
+      "translation": "Colors colors colors",
+      "analysis": [
+        { "point": "Colors colors colors", "explanation": "英文歌詞，色彩，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아주 가까워져",
+      "translation": "變得非常靠近",
+      "analysis": [
+        { "point": "아주", "explanation": "副詞，非常。" },
+        { "point": "가까워져", "explanation": "가까워지다 (變近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Rainbow rainbow",
+      "translation": "Rainbow rainbow",
+      "analysis": [
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Nothing is impossible",
+      "translation": "沒有什麼是不可能的",
+      "analysis": [
+        { "point": "Nothing is impossible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Everything is possible",
+      "translation": "一切皆有可能",
+      "analysis": [
+        { "point": "Everything is possible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "상처 위로 빛나는",
+      "translation": "在傷口上閃耀的",
+      "analysis": [
+        { "point": "상처 위로", "explanation": "상처 (傷口) + 위 (上面) + -(으)로 (方向)。" },
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Ra ra rain ra rainbow",
+      "translation": "Ra ra rain ra rainbow",
+      "analysis": [
+        { "point": "Ra ra rain ra rainbow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ra ra rain ra rainbow",
+      "translation": "Ra ra rain ra rainbow",
+      "analysis": [
+        { "point": "Ra ra rain ra rainbow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "안 보이는 무언가로",
+      "translation": "以看不見的某種東西",
+      "analysis": [
+        { "point": "안 보이는", "explanation": "안 (不) + 보이다 (被看見) 的冠詞形。" },
+        { "point": "무언가로", "explanation": "무언가 (某種東西) + -(으)로 (以)。" }
+      ]
+    },
+    {
+      "korean": "너에게 연결돼",
+      "translation": "與你連接",
+      "analysis": [
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/向)。" },
+        { "point": "연결돼", "explanation": "연결되다 (被連接) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Rainbow rainbow",
+      "translation": "Rainbow rainbow",
+      "analysis": [
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "비에 젖은 어제는 네 품에 맡기고",
+      "translation": "被雨淋濕的昨天 託付給你的懷抱",
+      "analysis": [
+        { "point": "비에", "explanation": "비 (雨) + -에 (被)。" },
+        { "point": "젖은", "explanation": "젖다 (濕) 的冠詞形。" },
+        { "point": "어제는", "explanation": "어제 (昨天) + -는 (主題助詞)。" },
+        { "point": "네 품에", "explanation": "네 (你的) + 품 (懷抱) + -에 (場所助詞)。" },
+        { "point": "맡기고", "explanation": "맡기다 (託付) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "멈추지 않아 Rainbow",
+      "translation": "不會停止 Rainbow",
+      "analysis": [
+        { "point": "멈추지 않아", "explanation": "멈추다 (停止) + -지 않다 (否定) 的非格式體。" },
+        { "point": "Rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "평범했던 날이",
+      "translation": "曾經平凡的日子",
+      "analysis": [
+        { "point": "평범했던", "explanation": "평범하다 (平凡的) 的過去冠詞形。" },
+        { "point": "날이", "explanation": "날 (日子) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "특별한 하루로 변했어",
+      "translation": "變成特別的一天",
+      "analysis": [
+        { "point": "특별한", "explanation": "특별하다 (特別的) 的冠詞形。" },
+        { "point": "하루로", "explanation": "하루 (一天) + -(으)로 (變成)。" },
+        { "point": "변했어", "explanation": "변하다 (變化) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "너와 나의 마음이",
+      "translation": "你我的心",
+      "analysis": [
+        { "point": "너와 나의", "explanation": "너 (你) + -와 (和) + 나 (我) + -의 (的)。" },
+        { "point": "마음이", "explanation": "마음 (心) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "숨을 쉬듯이 하나로 만나",
+      "translation": "像呼吸一樣 合為一體",
+      "analysis": [
+        { "point": "숨을 쉬듯이", "explanation": "숨 (呼吸) + -을 쉬다 (呼吸) + -듯이 (就像...一樣)。" },
+        { "point": "하나로", "explanation": "하나 (一) + -(으)로 (成爲)。" },
+        { "point": "만나", "explanation": "만나다 (遇見) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "여기 Rainbow rainbow",
+      "translation": "這裡 Rainbow rainbow",
+      "analysis": [
+        { "point": "여기", "explanation": "指示代詞，這裡。" },
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 눈빛 속에 퍼지는",
+      "translation": "在我眼神中蔓延的",
+      "analysis": [
+        { "point": "내 눈빛", "explanation": "내 (我的) + 눈빛 (眼神)。" },
+        { "point": "속에", "explanation": "속 (裡面) + -에 (場所助詞)。" },
+        { "point": "퍼지는", "explanation": "퍼지다 (蔓延、擴散) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Colors colors colors",
+      "translation": "Colors colors colors",
+      "analysis": [
+        { "point": "Colors colors colors", "explanation": "英文歌詞，色彩，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너무 아름다워",
+      "translation": "非常美麗",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "아름다워", "explanation": "아름답다 (美麗的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Rainbow rainbow",
+      "translation": "Rainbow rainbow",
+      "analysis": [
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Nothing is impossible",
+      "translation": "沒有什麼是不可能的",
+      "analysis": [
+        { "point": "Nothing is impossible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Everything is possible",
+      "translation": "一切皆有可能",
+      "analysis": [
+        { "point": "Everything is possible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Post-Chorus",
+      "korean": "아픔 위로 그려진",
+      "translation": "在痛苦上描繪的",
+      "analysis": [
+        { "point": "아픔 위로", "explanation": "아픔 (痛苦) + 위 (上面) + -(으)로 (方向)。" },
+        { "point": "그려진", "explanation": "그려지다 (被描繪) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Ra ra rain ra rainbow",
+      "translation": "Ra ra rain ra rainbow",
+      "analysis": [
+        { "point": "Ra ra rain ra rainbow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ra ra rain ra rainbow",
+      "translation": "Ra ra rain ra rainbow",
+      "analysis": [
+        { "point": "Ra ra rain ra rainbow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 오래 기다려 준",
+      "translation": "長久等待我的",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "오래", "explanation": "副詞，長久地。" },
+        { "point": "기다려 준", "explanation": "기다리다 (等待) + -아/어 주다 (為我做) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너의 품에 안겨",
+      "translation": "依偎在你的懷抱裡",
+      "analysis": [
+        { "point": "너의 품에", "explanation": "너의 (你的) + 품 (懷抱) + -에 (場所助詞)。" },
+        { "point": "안겨", "explanation": "안기다 (被抱) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Rainbow rainbow",
+      "translation": "Rainbow rainbow",
+      "analysis": [
+        { "point": "Rainbow rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "하늘 위로 너에게 닿은 그 순간에",
+      "translation": "向天空 觸及到你的那個瞬間",
+      "analysis": [
+        { "point": "하늘 위로", "explanation": "하늘 (天空) + 위 (上面) + -(으)로 (方向)。" },
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/向)。" },
+        { "point": "닿은", "explanation": "닿다 (觸碰) 的冠詞形。" },
+        { "point": "그 순간에", "explanation": "그 (那) + 순간 (瞬間) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "날개를 펼쳐 Rainbow",
+      "translation": "展開翅膀 Rainbow",
+      "analysis": [
+        { "point": "날개를", "explanation": "날개 (翅膀) + -를 (受格助詞)。" },
+        { "point": "펼쳐", "explanation": "펼치다 (展開) 的非格式體。" },
+        { "point": "Rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Nothing is impossible",
+      "translation": "沒有什麼是不可能的",
+      "analysis": [
+        { "point": "Nothing is impossible", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Oh 날 감싸 안는 Rainbow",
+      "translation": "Oh 擁抱著我的 Rainbow",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "감싸 안는", "explanation": "감싸안다 (擁抱) 的冠詞形。" },
+        { "point": "Rainbow", "explanation": "英文，彩虹，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "감싸안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "지나치다", "chinese": "掠過、經過", "pos": "動詞" },
+    { "korean": "소나기", "chinese": "陣雨", "pos": "名詞" },
+    { "korean": "먹구름", "chinese": "烏雲", "pos": "名詞" },
+    { "korean": "겁", "chinese": "害怕", "pos": "名詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "어렵다", "chinese": "困難的", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "수많다", "chinese": "眾多的", "pos": "形容詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" },
+    { "korean": "여리다", "chinese": "柔弱的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "두다", "chinese": "放、放置", "pos": "動詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "대체", "chinese": "到底", "pos": "副詞" },
+    { "korean": "보이다", "chinese": "讓看", "pos": "動詞" },
+    { "korean": "볼", "chinese": "臉頰", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "떨어지다", "chinese": "掉落", "pos": "動詞" },
+    { "korean": "빗방울", "chinese": "雨滴", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "전", "chinese": "之前", "pos": "名詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "깊숙이", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "퍼지다", "chinese": "蔓延、擴散", "pos": "動詞" },
+    { "korean": "아주", "chinese": "非常", "pos": "副詞" },
+    { "korean": "가까워지다", "chinese": "變近", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "안", "chinese": "不", "pos": "副詞" },
+    { "korean": "무언가", "chinese": "某種東西", "pos": "代名詞" },
+    { "korean": "연결되다", "chinese": "被連接", "pos": "動詞" },
+    { "korean": "비", "chinese": "雨", "pos": "名詞" },
+    { "korean": "젖다", "chinese": "濕", "pos": "動詞" },
+    { "korean": "어제", "chinese": "昨天", "pos": "名詞" },
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "맡기다", "chinese": "託付", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "움직이다", "chinese": "移動", "pos": "動詞" },
+    { "korean": "차라리", "chinese": "倒不如", "pos": "副詞" },
+    { "korean": "맞다", "chinese": "被淋、被打中", "pos": "動詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "용기", "chinese": "勇氣", "pos": "名詞" },
+    { "korean": "내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "마주하다", "chinese": "面對", "pos": "動詞" },
+    { "korean": "벅차오르다", "chinese": "滿溢、激動", "pos": "動詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "온기", "chinese": "暖氣、溫暖", "pos": "名詞" },
+    { "korean": "따스하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "선물", "chinese": "禮物", "pos": "名詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
+    { "korean": "다정하다", "chinese": "溫馨的", "pos": "形容詞" },
+    { "korean": "공간", "chinese": "空間", "pos": "名詞" },
+    { "korean": "오래", "chinese": "長久地", "pos": "副詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "평범하다", "chinese": "平凡的", "pos": "形容詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "특별하다", "chinese": "特別的", "pos": "形容詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "변하다", "chinese": "變化", "pos": "動詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "쉬다", "chinese": "呼吸", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "아픔", "chinese": "痛苦", "pos": "名詞" },
+    { "korean": "그려지다", "chinese": "被描繪", "pos": "動詞" },
+    { "korean": "안기다", "chinese": "被抱", "pos": "動詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸碰", "pos": "動詞" },
+    { "korean": "날개", "chinese": "翅膀", "pos": "名詞" },
+    { "korean": "펼치다", "chinese": "展開", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "id": "yuju-without-u",
+  "title": "Without U",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "좀 가벼워진 듯한 마음에",
+      "translation": "在變得有些輕盈的心裡",
+      "analysis": [
+        { "point": "좀", "explanation": "副詞，稍微、有點。" },
+        { "point": "가벼워진 듯한", "explanation": "가볍다 (輕的) + -아/어 지다 (變得) + -ㄴ 듯하다 (好像) 的定語形。" },
+        { "point": "마음에", "explanation": "마음 (心) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "무심코 거리를 나서보고",
+      "translation": "無心地走出街道",
+      "analysis": [
+        { "point": "무심코", "explanation": "副詞，無心地、不經意地。" },
+        { "point": "거리를", "explanation": "거리 (街道) + -를 (受格助詞)。" },
+        { "point": "나서보고", "explanation": "나서다 (走出) + -아/어 보다 (嘗試) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "소란한 음악과 목소리",
+      "translation": "喧鬧的音樂和聲音",
+      "analysis": [
+        { "point": "소란한", "explanation": "소란하다 (喧鬧的) 的定語形。" },
+        { "point": "음악과 목소리", "explanation": "음악 (音樂) + -과 (和) + 목소리 (聲音)。" }
+      ]
+    },
+    {
+      "korean": "밀린 고민 얘길 나누다",
+      "translation": "分享積累的煩惱故事",
+      "analysis": [
+        { "point": "밀린", "explanation": "밀리다 (被推遲、積累) 的過去定語形。" },
+        { "point": "고민 얘길", "explanation": "고민 (煩惱) + 이야기 (故事) 的縮略 + -을 (受格助詞)。" },
+        { "point": "나누다", "explanation": "動詞，分享、分擔。" }
+      ]
+    },
+    {
+      "korean": "우습게 위로도 건네곤 해",
+      "translation": "可笑地也會傳遞安慰",
+      "analysis": [
+        { "point": "우습게", "explanation": "우습다 (可笑的) 的副詞形。" },
+        { "point": "위로도", "explanation": "위로 (安慰) + -도 (也)。" },
+        { "point": "건네곤 해", "explanation": "건네다 (傳遞) + -곤 하다 (經常做)。" }
+      ]
+    },
+    {
+      "korean": "말끔하게 털어버린 듯",
+      "translation": "好像乾淨地抖掉了",
+      "analysis": [
+        { "point": "말끔하게", "explanation": "말끔하다 (乾淨的、整潔的) 的副詞形。" },
+        { "point": "털어버린 듯", "explanation": "털다 (抖掉) + -아/어 버리다 (完了) 的過去定語形 + -듯 (好像)。" }
+      ]
+    },
+    {
+      "korean": "자연스레 웃어보지만",
+      "translation": "雖然自然地試著笑",
+      "analysis": [
+        { "point": "자연스레", "explanation": "자연스럽다 (自然的) 的副詞形。" },
+        { "point": "웃어보지만", "explanation": "웃다 (笑) + -아/어 보다 (嘗試) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "Oh, baby",
+      "translation": "喔，寶貝",
+      "analysis": [
+        { "point": "Oh, baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I'm not okay",
+      "translation": "我不好",
+      "analysis": [
+        { "point": "I'm not okay", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I've lost my way",
+      "translation": "我迷失了方向",
+      "analysis": [
+        { "point": "I've lost my way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아직 나 밀려오는 널 외면해 봐도",
+      "translation": "即使我試著無視湧來的你",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還、仍然。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "밀려오는 널", "explanation": "밀려오다 (湧來) 的現在定語形 + 너를 (你) 的縮略。" },
+        { "point": "외면해 봐도", "explanation": "외면하다 (無視、逃避) + -아/어 보다 (嘗試) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "Nothing's ever gon' be the same",
+      "translation": "沒有什麼會和從前一樣",
+      "analysis": [
+        { "point": "Nothing's ever gon' be the same", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "기억나 작은방 안에서 (So cold, yeah)",
+      "translation": "想起來了 在小房間裡",
+      "analysis": [
+        { "point": "기억나", "explanation": "기억나다 (想起來) 的非格式體。" },
+        { "point": "작은방 안에서", "explanation": "작은방 (小房間) + 안 (裡面) + -에서 (在)。" },
+        { "point": "So cold, yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 노랠 처음 듣던 그날 (Yeah, yeah)",
+      "translation": "第一次聽這首歌的那天",
+      "analysis": [
+        { "point": "이 노랠", "explanation": "이 (這) + 노래 (歌曲) + -를 (受格助詞) 的縮略。" },
+        { "point": "처음 듣던 그날", "explanation": "처음 (初次) + 듣다 (聽) 的過去回想着定語形 + 그날 (那天)。" },
+        { "point": "Yeah, yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "고이 접어 두었던 마음에",
+      "translation": "在精心折疊收好的心裡",
+      "analysis": [
+        { "point": "고이", "explanation": "副詞，精心地、小心地。" },
+        { "point": "접어 두었던", "explanation": "접다 (折疊) + -아/어 두다 (收好) 的過去回想着定語形。" },
+        { "point": "마음에", "explanation": "마음 (心) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "아직 할 말이 남았단 걸",
+      "translation": "還有沒說完的話",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "할 말이", "explanation": "하다 (說) 的未來定語形 + 말 (話) + -이 (主格助詞)。" },
+        { "point": "남았단 걸", "explanation": "남다 (剩下) 的過去形 + -다는 (引用) + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "깨달은 채로 지새웠었지",
+      "translation": "在領悟的狀態下熬過了夜",
+      "analysis": [
+        { "point": "깨달은 채로", "explanation": "깨닫다 (領悟) 的過去定語形 + 채로 (保持狀態)。" },
+        { "point": "지새웠었지", "explanation": "지새우다 (熬夜) 的過去回想形 + -지 (回想/感嘆語尾)。" }
+      ]
+    },
+    {
+      "korean": "수없이 많은 날들 속에",
+      "translation": "在無數的日子裡",
+      "analysis": [
+        { "point": "수없이", "explanation": "副詞，無數次地。" },
+        { "point": "많은 날들 속에", "explanation": "많다 (多的) 的定語形 + 날 (日子) + -들 (複數) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "여전히 가끔씩은 말이야",
+      "translation": "依然偶爾啊",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然。" },
+        { "point": "가끔씩은", "explanation": "가끔 (偶爾) + -씩 (每) + -은 (強調)。" },
+        { "point": "말이야", "explanation": "말이다 (就是說啊) 的口語形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Oh, baby",
+      "translation": "喔，寶貝",
+      "analysis": [
+        { "point": "Oh, baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I'm not okay (얼마로)",
+      "translation": "我不好 (無論多少)",
+      "analysis": [
+        { "point": "I'm not okay", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "얼마로", "explanation": "얼마 (多少) + -로 (以)，意為「無論多少」的省略。" }
+      ]
+    },
+    {
+      "korean": "I've lost my way",
+      "translation": "我迷失了方向",
+      "analysis": [
+        { "point": "I've lost my way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아직 나 밀려오는 널 외면해 봐도",
+      "translation": "即使我試著無視湧來的你",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "밀려오는 널", "explanation": "밀려오다 (湧來) 的現在定語形 + 너를 (你) 的縮略。" },
+        { "point": "외면해 봐도", "explanation": "외면하다 (無視) + -아/어 보다 (嘗試) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "Nothing's ever gon' be the same",
+      "translation": "沒有什麼會和從前一樣",
+      "analysis": [
+        { "point": "Nothing's ever gon' be the same", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U (Ooh-ooh, ooh-ooh)",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Ooh-ooh, ooh-ooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "저 깊은 곳에 잘 접어두어도",
+      "translation": "即使在那深處好好折疊收好",
+      "analysis": [
+        { "point": "저 깊은 곳에", "explanation": "저 (那) + 깊다 (深的) 的定語形 + 곳 (地方) + -에 (場所助詞)。" },
+        { "point": "잘 접어두어도", "explanation": "잘 (好好地) + 접어두다 (折疊收好) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "다시 꺼내볼 걸 알아 난",
+      "translation": "我知道我會再次拿出來看",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "꺼내볼 걸 알아", "explanation": "꺼내다 (拿出) + -아/어 보다 (嘗試) + -(으)ㄹ 것 (事情) + -을 (受格助詞) 的縮略 + 알다 (知道)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "Oh, I want you to know",
+      "translation": "喔，我想讓你知道",
+      "analysis": [
+        { "point": "Oh, I want you to know", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "익숙해진대도",
+      "translation": "即使說變得熟悉了",
+      "analysis": [
+        { "point": "익숙해진대도", "explanation": "익숙해지다 (變得熟悉) + -ㄴ대도 (即使說...也)。" }
+      ]
+    },
+    {
+      "korean": "It won't be the same",
+      "translation": "不會和從前一樣",
+      "analysis": [
+        { "point": "It won't be the same", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I'm not okay (I'm not okay)",
+      "translation": "我不好",
+      "analysis": [
+        { "point": "I'm not okay", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I've lost my way",
+      "translation": "我迷失了方向",
+      "analysis": [
+        { "point": "I've lost my way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Oh, baby",
+      "translation": "喔，寶貝",
+      "analysis": [
+        { "point": "Oh, baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I'm not okay (No, oh, no)",
+      "translation": "我不好",
+      "analysis": [
+        { "point": "I'm not okay", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "No, oh, no", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I've lost my way (아직은)",
+      "translation": "我迷失了方向 (還)",
+      "analysis": [
+        { "point": "I've lost my way", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "아직은", "explanation": "아직 (還) + -은 (強調)。" }
+      ]
+    },
+    {
+      "korean": "아직은 널 멈출 수가 없어",
+      "translation": "我還無法讓你停下",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還) + -은 (強調)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "멈출 수가 없어", "explanation": "멈추다 (停止) + -(으)ㄹ 수 없다 (無法) + -가 (強調) + 없다 (沒有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Nothing's ever gon' be the same",
+      "translation": "沒有什麼會和從前一樣",
+      "analysis": [
+        { "point": "Nothing's ever gon' be the same", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U (Ooh-ooh, ooh-ooh)",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Ooh-ooh, ooh-ooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Not Without U",
+      "translation": "沒有你就不行",
+      "analysis": [
+        { "point": "Not Without U", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "좀", "chinese": "稍微、有點", "pos": "副詞" },
+    { "korean": "가볍다", "chinese": "輕的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "무심코", "chinese": "無心地、不經意地", "pos": "副詞" },
+    { "korean": "거리", "chinese": "街道", "pos": "名詞" },
+    { "korean": "나서다", "chinese": "走出", "pos": "動詞" },
+    { "korean": "소란하다", "chinese": "喧鬧的", "pos": "形容詞" },
+    { "korean": "음악", "chinese": "音樂", "pos": "名詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "밀리다", "chinese": "被推遲、積累", "pos": "動詞" },
+    { "korean": "고민", "chinese": "煩惱", "pos": "名詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "나누다", "chinese": "分享、分擔", "pos": "動詞" },
+    { "korean": "우습다", "chinese": "可笑的", "pos": "形容詞" },
+    { "korean": "위로", "chinese": "安慰", "pos": "名詞" },
+    { "korean": "건네다", "chinese": "傳遞", "pos": "動詞" },
+    { "korean": "말끔하다", "chinese": "乾淨的、整潔的", "pos": "形容詞" },
+    { "korean": "털다", "chinese": "抖掉", "pos": "動詞" },
+    { "korean": "자연스럽다", "chinese": "自然的", "pos": "形容詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還、仍然", "pos": "副詞" },
+    { "korean": "밀려오다", "chinese": "湧來", "pos": "動詞" },
+    { "korean": "외면하다", "chinese": "無視、逃避", "pos": "動詞" },
+    { "korean": "기억나다", "chinese": "想起來", "pos": "動詞" },
+    { "korean": "작은방", "chinese": "小房間", "pos": "名詞" },
+    { "korean": "안", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "처음", "chinese": "初次", "pos": "副詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "그날", "chinese": "那天", "pos": "名詞" },
+    { "korean": "고이", "chinese": "精心地、小心地", "pos": "副詞" },
+    { "korean": "접다", "chinese": "折疊", "pos": "動詞" },
+    { "korean": "두다", "chinese": "放、置", "pos": "動詞" },
+    { "korean": "남다", "chinese": "剩下", "pos": "動詞" },
+    { "korean": "깨닫다", "chinese": "領悟", "pos": "動詞" },
+    { "korean": "채로", "chinese": "保持狀態", "pos": "助詞" },
+    { "korean": "지새우다", "chinese": "熬夜", "pos": "動詞" },
+    { "korean": "수없이", "chinese": "無數次地", "pos": "副詞" },
+    { "korean": "많다", "chinese": "多的", "pos": "形容詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "얼마", "chinese": "多少", "pos": "副詞" },
+    { "korean": "깊다", "chinese": "深的", "pos": "形容詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "잘", "chinese": "好好地", "pos": "副詞" },
+    { "korean": "꺼내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "익숙해지다", "chinese": "變得熟悉", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" }
+  ]
+}

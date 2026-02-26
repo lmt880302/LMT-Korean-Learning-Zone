@@ -1,0 +1,619 @@
+{
+  "id": "GFRIEND-MAGO",
+  "title": "MAGO",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "더 활짝 필 밤이 시작돼",
+      "translation": "更燦爛綻放的夜晚開始了",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "활짝", "explanation": "副詞，燦爛地、盛大地。" },
+        { "point": "필", "explanation": "피다 (綻放) 的冠詞形。" },
+        { "point": "밤이", "explanation": "밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "시작돼", "explanation": "시작되다 (被開始) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "새로 쓰는 진짜 날 위한",
+      "translation": "為了真正的我 新寫下的",
+      "analysis": [
+        { "point": "새로", "explanation": "副詞，新地。" },
+        { "point": "쓰는", "explanation": "쓰다 (寫) 的冠詞形。" },
+        { "point": "진짜 날", "explanation": "진짜 (真的) + 나를 (我) 的縮略。" },
+        { "point": "위한", "explanation": "위하다 (為了) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "The first page Yeah",
+      "translation": "The first page Yeah",
+      "analysis": [
+        { "point": "The first page Yeah", "explanation": "英文歌詞，第一頁，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "6960 Magic",
+      "translation": "6960 Magic",
+      "analysis": [
+        { "point": "6960 Magic", "explanation": "英文數字與歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "춤추는 발끝은 Crazy",
+      "translation": "跳舞的腳尖 Crazy",
+      "analysis": [
+        { "point": "춤추는", "explanation": "춤추다 (跳舞) 的冠詞形。" },
+        { "point": "발끝은", "explanation": "발끝 (腳尖) + -은 (主題助詞)。" },
+        { "point": "Crazy", "explanation": "英文歌詞，瘋狂，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "날 위한 축배를 Now",
+      "translation": "為我的乾杯 Now",
+      "analysis": [
+        { "point": "날 위한", "explanation": "나를 (我) 的縮略 + 위하다 (為了) 的冠詞形。" },
+        { "point": "축배를", "explanation": "축배 (乾杯) + -를 (受格助詞)。" },
+        { "point": "Now", "explanation": "英文，現在，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "모든 Do’s and Don’ts",
+      "translation": "所有的 Do's and Don'ts",
+      "analysis": [
+        { "point": "모든", "explanation": "冠詞，所有的。" },
+        { "point": "Do’s and Don’ts", "explanation": "英文歌詞，該做與不該做的事，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "지루해 이젠 다",
+      "translation": "無聊 現在全都",
+      "analysis": [
+        { "point": "지루해", "explanation": "지루하다 (無聊的) 的非格式體。" },
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (強調) 的縮略。" },
+        { "point": "다", "explanation": "副詞，全部。" }
+      ]
+    },
+    {
+      "korean": "빗자룰 타고 날아 볼래",
+      "translation": "想騎著掃帚飛翔看看",
+      "analysis": [
+        { "point": "빗자룰", "explanation": "빗자루 (掃帚) + -를 (受格助詞) 的口語發音。" },
+        { "point": "타고", "explanation": "타다 (乘坐) + -고 (連接詞尾)。" },
+        { "point": "날아 볼래", "explanation": "날다 (飛) + -아/어 보다 (嘗試) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "Look at me",
+      "translation": "Look at me",
+      "analysis": [
+        { "point": "Look at me", "explanation": "英文歌詞，看著我，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "두려워하진 마 다치진 않아",
+      "translation": "不要害怕 我不會受傷",
+      "analysis": [
+        { "point": "두려워하진 마", "explanation": "두려워하다 (害怕) + -지 말다 (不要) 的縮略。" },
+        { "point": "다치진 않아", "explanation": "다치다 (受傷) + -지 않다 (否定) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "My life is waiting for you",
+      "translation": "My life is waiting for you",
+      "analysis": [
+        { "point": "My life is waiting for you", "explanation": "英文歌詞，我的生命在等你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yes you",
+      "translation": "Yes you",
+      "analysis": [
+        { "point": "Yes you", "explanation": "英文歌詞，是的你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "거울 속 날 보고 웃는 그녀",
+      "translation": "鏡子裡看著我笑的她",
+      "analysis": [
+        { "point": "거울 속", "explanation": "거울 (鏡子) + 속 (裡面)。" },
+        { "point": "날 보고", "explanation": "나를 (我) 的縮略 + 보다 (看) + -고 (連接詞尾)。" },
+        { "point": "웃는", "explanation": "웃다 (笑) 的冠詞形。" },
+        { "point": "그녀", "explanation": "她。" }
+      ]
+    },
+    {
+      "korean": "Hakuna matata",
+      "translation": "Hakuna matata",
+      "analysis": [
+        { "point": "Hakuna matata", "explanation": "斯瓦希里語，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My heart is beating for you",
+      "translation": "My heart is beating for you",
+      "analysis": [
+        { "point": "My heart is beating for you", "explanation": "英文歌詞，我的心為你跳動，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yes you",
+      "translation": "Yes you",
+      "analysis": [
+        { "point": "Yes you", "explanation": "英文歌詞，是的你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "No more fairy tale",
+      "translation": "No more fairy tale",
+      "analysis": [
+        { "point": "No more fairy tale", "explanation": "英文歌詞，不再有童話，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤은 Tic tak tic tak",
+      "translation": "夜晚是 Tic tak tic tak",
+      "analysis": [
+        { "point": "밤은", "explanation": "밤 (夜晚) + -은 (主題助詞)。" },
+        { "point": "Tic tak tic tak", "explanation": "擬聲詞，滴答滴答，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ring my heart",
+      "translation": "Ring my heart",
+      "analysis": [
+        { "point": "Ring my heart", "explanation": "英文歌詞，敲響我的心，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "MAGO MAGO",
+      "translation": "MAGO MAGO",
+      "analysis": [
+        { "point": "MAGO MAGO", "explanation": "歌詞標題，魔法少女的簡稱，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "심판해 봐 지금 날",
+      "translation": "試著審判吧 現在的我",
+      "analysis": [
+        { "point": "심판해 봐", "explanation": "심판하다 (審判) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "지금 날", "explanation": "지금 (現在) + 나를 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "흔들리지 않을 테니",
+      "translation": "因為我不會動搖",
+      "analysis": [
+        { "point": "흔들리지 않을 테니", "explanation": "흔들리다 (被動搖) + -지 않다 (否定) + -(으)ㄹ 테니까 (因為將會)。" }
+      ]
+    },
+    {
+      "korean": "MAGO MAGO",
+      "translation": "MAGO MAGO",
+      "analysis": [
+        { "point": "MAGO MAGO", "explanation": "歌詞標題，魔法少女的簡稱，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 위한 춤을 춰",
+      "translation": "跳為我而跳的舞",
+      "analysis": [
+        { "point": "나를 위한", "explanation": "나를 (我) + 위하다 (為了) 的冠詞形。" },
+        { "point": "춤을 춰", "explanation": "춤 (舞蹈) + -을 (受格助詞) + 추다 (跳) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "밤은 Tic tak tic tak",
+      "translation": "夜晚是 Tic tak tic tak",
+      "analysis": [
+        { "point": "밤은", "explanation": "밤 (夜晚) + -은 (主題助詞)。" },
+        { "point": "Tic tak tic tak", "explanation": "擬聲詞，滴答滴答，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Feel so high",
+      "translation": "Feel so high",
+      "analysis": [
+        { "point": "Feel so high", "explanation": "英文歌詞，感覺如此高漲，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "나는 빛이자 어둠이 되고",
+      "translation": "我既是光也成為黑暗",
+      "analysis": [
+        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
+        { "point": "빛이자", "explanation": "빛 (光) + -이자 (既是...又是)。" },
+        { "point": "어둠이 되고", "explanation": "어둠 (黑暗) + -이 되다 (成為) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "거짓도 진실도 될 수가 있어",
+      "translation": "謊言和真實也都能成為",
+      "analysis": [
+        { "point": "거짓도", "explanation": "거짓 (謊言) + -도 (也)。" },
+        { "point": "진실도", "explanation": "진실 (真實) + -도 (也)。" },
+        { "point": "될 수가 있어", "explanation": "되다 (成為) + -(으)ㄹ 수 있다 (能夠) + -가 (強調) + 있다 (有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그저 원하면 원하는 대로",
+      "translation": "只要想要 就照想要的",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、只要。" },
+        { "point": "원하면", "explanation": "원하다 (想要) + -(으)면 (如果)。" },
+        { "point": "원하는 대로", "explanation": "원하다 (想要) 的冠詞形 + 대로 (依照)。" }
+      ]
+    },
+    {
+      "korean": "기쁨과 슬픔 그대로",
+      "translation": "喜悅和悲傷 就這樣",
+      "analysis": [
+        { "point": "기쁨과", "explanation": "기쁨 (喜悅) + -과 (和)。" },
+        { "point": "슬픔", "explanation": "名詞，悲傷。" },
+        { "point": "그대로", "explanation": "就這樣、原樣。" }
+      ]
+    },
+    {
+      "korean": "다 내가 될 거야",
+      "translation": "都會成為我",
+      "analysis": [
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "될 거야", "explanation": "되다 (成為) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "불꽃은 피고 달빛이 가득해",
+      "translation": "火花綻放 月光滿溢",
+      "analysis": [
+        { "point": "불꽃은", "explanation": "불꽃 (火花) + -은 (主題助詞)。" },
+        { "point": "피고", "explanation": "피다 (綻放) + -고 (連接詞尾)。" },
+        { "point": "달빛이", "explanation": "달빛 (月光) + -이 (主格助詞)。" },
+        { "point": "가득해", "explanation": "가득하다 (充滿) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "We can dance in this moon night again",
+      "translation": "We can dance in this moon night again",
+      "analysis": [
+        { "point": "We can dance in this moon night again", "explanation": "英文歌詞，我們可以在這月夜再次跳舞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Come with me",
+      "translation": "Come with me",
+      "analysis": [
+        { "point": "Come with me", "explanation": "英文歌詞，跟我來，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "잔을 들어 봐 미래를 가져 봐",
+      "translation": "試著舉起酒杯 試著擁有未來",
+      "analysis": [
+        { "point": "잔을 들어 봐", "explanation": "잔 (酒杯) + -을 (受格助詞) + 들다 (舉起) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "미래를 가져 봐", "explanation": "미래 (未來) + -를 (受格助詞) + 가지다 (擁有) + -아/어 보다 (嘗試) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "My life is waiting for you",
+      "translation": "My life is waiting for you",
+      "analysis": [
+        { "point": "My life is waiting for you", "explanation": "英文歌詞，我的生命在等你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yes you",
+      "translation": "Yes you",
+      "analysis": [
+        { "point": "Yes you", "explanation": "英文歌詞，是的你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "거울 속 날 보고 웃는 그녀",
+      "translation": "鏡子裡看著我笑的她",
+      "analysis": [
+        { "point": "거울 속", "explanation": "거울 (鏡子) + 속 (裡面)。" },
+        { "point": "날 보고", "explanation": "나를 (我) 的縮略 + 보다 (看) + -고 (連接詞尾)。" },
+        { "point": "웃는", "explanation": "웃다 (笑) 的冠詞形。" },
+        { "point": "그녀", "explanation": "她。" }
+      ]
+    },
+    {
+      "korean": "Hakuna matata",
+      "translation": "Hakuna matata",
+      "analysis": [
+        { "point": "Hakuna matata", "explanation": "斯瓦希里語，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My heart is beating for you",
+      "translation": "My heart is beating for you",
+      "analysis": [
+        { "point": "My heart is beating for you", "explanation": "英文歌詞，我的心為你跳動，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yes you",
+      "translation": "Yes you",
+      "analysis": [
+        { "point": "Yes you", "explanation": "英文歌詞，是的你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "No more fairy tale",
+      "translation": "No more fairy tale",
+      "analysis": [
+        { "point": "No more fairy tale", "explanation": "英文歌詞，不再有童話，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤은 Tic tak tic tak",
+      "translation": "夜晚是 Tic tak tic tak",
+      "analysis": [
+        { "point": "밤은", "explanation": "밤 (夜晚) + -은 (主題助詞)。" },
+        { "point": "Tic tak tic tak", "explanation": "擬聲詞，滴答滴答，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ring my heart",
+      "translation": "Ring my heart",
+      "analysis": [
+        { "point": "Ring my heart", "explanation": "英文歌詞，敲響我的心，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "MAGO MAGO",
+      "translation": "MAGO MAGO",
+      "analysis": [
+        { "point": "MAGO MAGO", "explanation": "歌詞標題，魔法少女的簡稱，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "심판해 봐 지금 날",
+      "translation": "試著審判吧 現在的我",
+      "analysis": [
+        { "point": "심판해 봐", "explanation": "심판하다 (審判) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "지금 날", "explanation": "지금 (現在) + 나를 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "흔들리지 않을 테니",
+      "translation": "因為我不會動搖",
+      "analysis": [
+        { "point": "흔들리지 않을 테니", "explanation": "흔들리다 (被動搖) + -지 않다 (否定) + -(으)ㄹ 테니까 (因為將會)。" }
+      ]
+    },
+    {
+      "korean": "MAGO MAGO",
+      "translation": "MAGO MAGO",
+      "analysis": [
+        { "point": "MAGO MAGO", "explanation": "歌詞標題，魔法少女的簡稱，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 위한 춤을 춰",
+      "translation": "跳為我而跳的舞",
+      "analysis": [
+        { "point": "나를 위한", "explanation": "나를 (我) + 위하다 (為了) 的冠詞形。" },
+        { "point": "춤을 춰", "explanation": "춤 (舞蹈) + -을 (受格助詞) + 추다 (跳) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "밤은 Tic tak tic tak",
+      "translation": "夜晚是 Tic tak tic tak",
+      "analysis": [
+        { "point": "밤은", "explanation": "밤 (夜晚) + -은 (主題助詞)。" },
+        { "point": "Tic tak tic tak", "explanation": "擬聲詞，滴答滴答，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Feel so high",
+      "translation": "Feel so high",
+      "analysis": [
+        { "point": "Feel so high", "explanation": "英文歌詞，感覺如此高漲，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "In the midnight",
+      "translation": "In the midnight",
+      "analysis": [
+        { "point": "In the midnight", "explanation": "英文歌詞，在午夜，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "In this midnight",
+      "translation": "In this midnight",
+      "analysis": [
+        { "point": "In this midnight", "explanation": "英文歌詞，在這個午夜，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "불꽃의 축복 속 다시 태어나서 날아",
+      "translation": "在火花的祝福中 再次重生 飛翔",
+      "analysis": [
+        { "point": "불꽃의", "explanation": "불꽃 (火花) + -의 (的)。" },
+        { "point": "축복 속", "explanation": "축복 (祝福) + 속 (裡面)。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "태어나서", "explanation": "태어나다 (出生、重生) + -아/어서 (然後)。" },
+        { "point": "날아", "explanation": "날다 (飛) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Pre-Chorus",
+      "korean": "My life is waiting for you",
+      "translation": "My life is waiting for you",
+      "analysis": [
+        { "point": "My life is waiting for you", "explanation": "英文歌詞，我的生命在等你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yes you",
+      "translation": "Yes you",
+      "analysis": [
+        { "point": "Yes you", "explanation": "英文歌詞，是的你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "거울 속 날 보고 웃는 그녀",
+      "translation": "鏡子裡看著我笑的她",
+      "analysis": [
+        { "point": "거울 속", "explanation": "거울 (鏡子) + 속 (裡面)。" },
+        { "point": "날 보고", "explanation": "나를 (我) 的縮略 + 보다 (看) + -고 (連接詞尾)。" },
+        { "point": "웃는", "explanation": "웃다 (笑) 的冠詞形。" },
+        { "point": "그녀", "explanation": "她。" }
+      ]
+    },
+    {
+      "korean": "Hakuna matata",
+      "translation": "Hakuna matata",
+      "analysis": [
+        { "point": "Hakuna matata", "explanation": "斯瓦希里語，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "My heart is beating for you",
+      "translation": "My heart is beating for you",
+      "analysis": [
+        { "point": "My heart is beating for you", "explanation": "英文歌詞，我的心為你跳動，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Yes you",
+      "translation": "Yes you",
+      "analysis": [
+        { "point": "Yes you", "explanation": "英文歌詞，是的你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "No more fairy tale",
+      "translation": "No more fairy tale",
+      "analysis": [
+        { "point": "No more fairy tale", "explanation": "英文歌詞，不再有童話，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤은 Tic tak tic tak",
+      "translation": "夜晚是 Tic tak tic tak",
+      "analysis": [
+        { "point": "밤은", "explanation": "밤 (夜晚) + -은 (主題助詞)。" },
+        { "point": "Tic tak tic tak", "explanation": "擬聲詞，滴答滴答，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ring my heart",
+      "translation": "Ring my heart",
+      "analysis": [
+        { "point": "Ring my heart", "explanation": "英文歌詞，敲響我的心，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "MAGO MAGO",
+      "translation": "MAGO MAGO",
+      "analysis": [
+        { "point": "MAGO MAGO", "explanation": "歌詞標題，魔法少女的簡稱，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "심판해 봐 지금 날",
+      "translation": "試著審判吧 現在的我",
+      "analysis": [
+        { "point": "심판해 봐", "explanation": "심판하다 (審判) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "지금 날", "explanation": "지금 (現在) + 나를 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "흔들리지 않을 테니",
+      "translation": "因為我不會動搖",
+      "analysis": [
+        { "point": "흔들리지 않을 테니", "explanation": "흔들리다 (被動搖) + -지 않다 (否定) + -(으)ㄹ 테니까 (因為將會)。" }
+      ]
+    },
+    {
+      "korean": "MAGO MAGO",
+      "translation": "MAGO MAGO",
+      "analysis": [
+        { "point": "MAGO MAGO", "explanation": "歌詞標題，魔法少女的簡稱，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 위한 춤을 춰",
+      "translation": "跳為我而跳的舞",
+      "analysis": [
+        { "point": "나를 위한", "explanation": "나를 (我) + 위하다 (為了) 的冠詞形。" },
+        { "point": "춤을 춰", "explanation": "춤 (舞蹈) + -을 (受格助詞) + 추다 (跳) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "밤은 Tic tak tic tak",
+      "translation": "夜晚是 Tic tak tic tak",
+      "analysis": [
+        { "point": "밤은", "explanation": "밤 (夜晚) + -은 (主題助詞)。" },
+        { "point": "Tic tak tic tak", "explanation": "擬聲詞，滴答滴答，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Feel so high",
+      "translation": "Feel so high",
+      "analysis": [
+        { "point": "Feel so high", "explanation": "英文歌詞，感覺如此高漲，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "활짝", "chinese": "燦爛地、盛大地", "pos": "副詞" },
+    { "korean": "피다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "시작되다", "chinese": "被開始", "pos": "動詞" },
+    { "korean": "새로", "chinese": "新地", "pos": "副詞" },
+    { "korean": "쓰다", "chinese": "寫", "pos": "動詞" },
+    { "korean": "진짜", "chinese": "真的", "pos": "名詞/副詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "춤추다", "chinese": "跳舞", "pos": "動詞" },
+    { "korean": "발끝", "chinese": "腳尖", "pos": "名詞" },
+    { "korean": "축배", "chinese": "乾杯", "pos": "名詞" },
+    { "korean": "모든", "chinese": "所有的", "pos": "冠詞" },
+    { "korean": "지루하다", "chinese": "無聊的", "pos": "形容詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "빗자루", "chinese": "掃帚", "pos": "名詞" },
+    { "korean": "타다", "chinese": "乘坐", "pos": "動詞" },
+    { "korean": "날다", "chinese": "飛", "pos": "動詞" },
+    { "korean": "두려워하다", "chinese": "害怕", "pos": "動詞" },
+    { "korean": "다치다", "chinese": "受傷", "pos": "動詞" },
+    { "korean": "거울", "chinese": "鏡子", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "그녀", "chinese": "她", "pos": "代名詞" },
+    { "korean": "심판하다", "chinese": "審判", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "흔들리다", "chinese": "被動搖", "pos": "動詞" },
+    { "korean": "춤", "chinese": "舞蹈", "pos": "名詞" },
+    { "korean": "추다", "chinese": "跳", "pos": "動詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "거짓", "chinese": "謊言", "pos": "名詞" },
+    { "korean": "진실", "chinese": "真實", "pos": "名詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "대로", "chinese": "依照", "pos": "依存名詞" },
+    { "korean": "기쁨", "chinese": "喜悅", "pos": "名詞" },
+    { "korean": "슬픔", "chinese": "悲傷", "pos": "名詞" },
+    { "korean": "불꽃", "chinese": "火花", "pos": "名詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "잔", "chinese": "酒杯", "pos": "名詞" },
+    { "korean": "들다", "chinese": "舉起", "pos": "動詞" },
+    { "korean": "가지다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "축복", "chinese": "祝福", "pos": "名詞" },
+    { "korean": "태어나다", "chinese": "出生、重生", "pos": "動詞" }
+  ]
+}

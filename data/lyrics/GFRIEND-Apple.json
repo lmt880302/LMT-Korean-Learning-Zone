@@ -1,0 +1,591 @@
+{
+  "id": "GFRIEND-Apple",
+  "title": "Apple",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "가시덤불 길 위에",
+      "translation": "在荊棘叢生的路上",
+      "analysis": [
+        { "point": "가시덤불", "explanation": "名詞，荊棘叢。" },
+        { "point": "길 위에", "explanation": "길 (路) + 위 (上面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "짙게 남겨진 발자국은 핏빛",
+      "translation": "深深留下的腳印是血色",
+      "analysis": [
+        { "point": "짙게", "explanation": "짙다 (深的、濃的) + -게 (副詞形語尾)。" },
+        { "point": "남겨진", "explanation": "남겨지다 (被留下) 的冠詞形。" },
+        { "point": "발자국은", "explanation": "발자국 (腳印) + -은 (主題助詞)。" },
+        { "point": "핏빛", "explanation": "名詞，血色。" }
+      ]
+    },
+    {
+      "korean": "차가운 그 선택은",
+      "translation": "冰冷的那個選擇",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的冠詞形。" },
+        { "point": "그 선택은", "explanation": "그 (那) + 선택 (選擇) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "틀렸던 건지 왜 이렇게 아픈지",
+      "translation": "是錯了嗎 為什麼這麼痛",
+      "analysis": [
+        { "point": "틀렸던 건지", "explanation": "틀리다 (錯) 的過去冠詞形 + 것 (東西) + -인지 (是否)。" },
+        { "point": "왜", "explanation": "疑問副詞，為什麼。" },
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "아픈지", "explanation": "아프다 (痛) 的冠詞形 + -ㄴ지 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Ooh no 이 달콤한 향기와",
+      "translation": "Ooh no 這甜蜜的香氣和",
+      "analysis": [
+        { "point": "Ooh no", "explanation": "感嘆詞，無韓文文法解析。" },
+        { "point": "이", "explanation": "這。" },
+        { "point": "달콤한", "explanation": "달콤하다 (甜蜜的) 的冠詞形。" },
+        { "point": "향기와", "explanation": "향기 (香氣) + -와 (和)。" }
+      ]
+    },
+    {
+      "korean": "반짝이는 루비 Drop 날 시험에 들게 해",
+      "translation": "閃閃發光的紅寶石 Drop 讓我陷入考驗",
+      "analysis": [
+        { "point": "반짝이는", "explanation": "반짝이다 (閃爍) 的冠詞形。" },
+        { "point": "루비 Drop", "explanation": "英文，紅寶石 滴落，無韓文文法解析。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "시험에 들게 해", "explanation": "시험 (考驗) + -에 들다 (陷入) + -게 하다 (讓) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "Ooh no 자꾸 날 유혹해 봐 더",
+      "translation": "Ooh no 總是試圖誘惑我 更",
+      "analysis": [
+        { "point": "자꾸", "explanation": "副詞，總是、不停地。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "유혹해 봐", "explanation": "유혹하다 (誘惑) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "더", "explanation": "副詞，更。" }
+      ]
+    },
+    {
+      "korean": "Yes 너의 향기 너의 빛깔",
+      "translation": "Yes 你的香氣 你的色彩",
+      "analysis": [
+        { "point": "Yes", "explanation": "英文，是，無韓文文法解析。" },
+        { "point": "너의 향기", "explanation": "너의 (你的) + 향기 (香氣)。" },
+        { "point": "너의 빛깔", "explanation": "너의 (你的) + 빛깔 (色彩)。" }
+      ]
+    },
+    {
+      "korean": "날 물들이는 Pleasure",
+      "translation": "將我染色的 Pleasure",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "물들이는", "explanation": "물들이다 (染色) 的冠詞形。" },
+        { "point": "Pleasure", "explanation": "英文，愉悅，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Callin’ me Callin’ me Callin’ me",
+      "translation": "Callin' me Callin' me Callin' me",
+      "analysis": [
+        { "point": "Callin’ me", "explanation": "英文歌詞，呼喚我，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 안의 세계가 바스라져 내리네",
+      "translation": "我內心的世界破碎掉落",
+      "analysis": [
+        { "point": "내 안의", "explanation": "내 (我的) + 안 (裡面) + -의 (的)。" },
+        { "point": "세계가", "explanation": "세계 (世界) + -가 (主格助詞)。" },
+        { "point": "바스라져 내리네", "explanation": "바스라지다 (破碎) + -아/어 내리다 (掉落) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "반짝이는 Crystal",
+      "translation": "閃閃發光的 Crystal",
+      "analysis": [
+        { "point": "반짝이는", "explanation": "반짝이다 (閃爍) 的冠詞形。" },
+        { "point": "Crystal", "explanation": "英文，水晶，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다가와 다가와 다가와",
+      "translation": "靠近吧 靠近吧 靠近吧",
+      "analysis": [
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的非格式體，重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "어느새 입술은 새빨간 널 탐하네",
+      "translation": "不知不覺間 嘴唇貪圖著鮮紅的你",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "입술은", "explanation": "입술 (嘴唇) + -은 (主題助詞)。" },
+        { "point": "새빨간", "explanation": "새빨갛다 (鮮紅的) 的冠詞形。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "탐하네", "explanation": "탐하다 (貪圖) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "Come & Dance with me",
+      "translation": "Come & Dance with me",
+      "analysis": [
+        { "point": "Come & Dance with me", "explanation": "英文歌詞，來和我跳舞吧，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "뜨거운 춤을 춘다 내 안에 별이 뜬다",
+      "translation": "跳著火熱的舞蹈 我心中升起星星",
+      "analysis": [
+        { "point": "뜨거운", "explanation": "뜨겁다 (火熱的) 的冠詞形。" },
+        { "point": "춤을 춘다", "explanation": "춤 (舞蹈) + -을 추다 (跳) 的陳述形。" },
+        { "point": "내 안에", "explanation": "내 (我的) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "별이 뜬다", "explanation": "별 (星星) + -이 (主格助詞) + 뜨다 (升起) 的陳述形。" }
+      ]
+    },
+    {
+      "korean": "투명한 유리구슬 붉게 빛나",
+      "translation": "透明的玻璃珠 紅色地發光",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形。" },
+        { "point": "유리구슬", "explanation": "名詞，玻璃珠。" },
+        { "point": "붉게", "explanation": "붉다 (紅色的) + -게 (副詞形語尾)。" },
+        { "point": "빛나", "explanation": "빛나다 (發光) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "뒤를 돌아보지 마 불안한 생각은 마",
+      "translation": "不要回頭 不要不安的想法",
+      "analysis": [
+        { "point": "뒤를", "explanation": "뒤 (後面) + -를 (受格助詞)。" },
+        { "point": "돌아보지 마", "explanation": "돌아보다 (回頭看) + -지 말다 (不要) 的縮略。" },
+        { "point": "불안한", "explanation": "불안하다 (不安的) 的冠詞形。" },
+        { "point": "생각은 마", "explanation": "생각 (想法) + -은 (主題助詞) + 말다 (不要) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "달콤한 어둠 아래 마녀들의 밤이 와",
+      "translation": "在甜蜜的黑暗下 魔女們的夜晚來臨",
+      "analysis": [
+        { "point": "달콤한", "explanation": "달콤하다 (甜蜜的) 的冠詞形。" },
+        { "point": "어둠 아래", "explanation": "어둠 (黑暗) + 아래 (下面)。" },
+        { "point": "마녀들의", "explanation": "마녀 (魔女) + -들 (複數) + -의 (的)。" },
+        { "point": "밤이 와", "explanation": "밤 (夜晚) + -이 (主格助詞) + 오다 (來) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "We O wow wow wow wow (Kiss kiss kiss)",
+      "translation": "We O wow wow wow wow (Kiss kiss kiss)",
+      "analysis": [
+        { "point": "We O wow wow wow wow", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Kiss kiss kiss", "explanation": "英文歌詞，吻，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "We O ya ya ya ya (Dance dance dance)",
+      "translation": "We O ya ya ya ya (Dance dance dance)",
+      "analysis": [
+        { "point": "We O ya ya ya ya", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Dance dance dance", "explanation": "英文歌詞，跳舞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "We O wow wow wow wow (Kiss kiss kiss)",
+      "translation": "We O wow wow wow wow (Kiss kiss kiss)",
+      "analysis": [
+        { "point": "We O wow wow wow wow", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Kiss kiss kiss", "explanation": "英文歌詞，吻，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 회색빛 선택을 다 물들여 버릴 거야",
+      "translation": "會將我灰色的選擇全部染掉",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "회색빛", "explanation": "회색 (灰色) + 빛 (色)。" },
+        { "point": "선택을", "explanation": "선택 (選擇) + -을 (受格助詞)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "물들여 버릴 거야", "explanation": "물들이다 (染色) + -아/어 버리다 (完全地) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어떤 것도 어떤 말도 날 멈출 수 없어",
+      "translation": "任何東西 任何話 都無法阻止我",
+      "analysis": [
+        { "point": "어떤 것도", "explanation": "어떤 (任何) + 것 (東西) + -도 (也)。" },
+        { "point": "어떤 말도", "explanation": "어떤 (任何) + 말 (話) + -도 (也)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "멈출 수 없어", "explanation": "멈추다 (停止) + -(으)ㄹ 수 없다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "손가락과 입술 사이로 흐르는 붉은빛 물",
+      "translation": "在手指和嘴唇之間流淌的紅色液體",
+      "analysis": [
+        { "point": "손가락과", "explanation": "손가락 (手指) + -과 (和)。" },
+        { "point": "입술 사이로", "explanation": "입술 (嘴唇) + 사이 (之間) + -(으)로 (通過)。" },
+        { "point": "흐르는", "explanation": "흐르다 (流淌) 的冠詞形。" },
+        { "point": "붉은빛 물", "explanation": "붉은빛 (紅色) + 물 (液體)。" }
+      ]
+    },
+    {
+      "korean": "어지러운 그 향기가 나를 이끌어",
+      "translation": "令人暈眩的那香氣引領著我",
+      "analysis": [
+        { "point": "어지러운", "explanation": "어지럽다 (暈眩的) 的冠詞形。" },
+        { "point": "그 향기가", "explanation": "그 (那) + 향기 (香氣) + -가 (主格助詞)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "이끌어", "explanation": "이끌다 (引領) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "좋아 좋아 더 너무 좋은 걸",
+      "translation": "喜歡 喜歡 更 太喜歡了",
+      "analysis": [
+        { "point": "좋아", "explanation": "좋다 (喜歡) 的非格式體，重複表示強調。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "너무 좋은 걸", "explanation": "너무 (太) + 좋다 (好/喜歡) 的冠詞形 + -걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Callin’ me Callin’ me Callin’ me",
+      "translation": "Callin' me Callin' me Callin' me",
+      "analysis": [
+        { "point": "Callin’ me", "explanation": "英文歌詞，呼喚我，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 안의 세계가 바스라져 내리네",
+      "translation": "我內心的世界破碎掉落",
+      "analysis": [
+        { "point": "내 안의", "explanation": "내 (我的) + 안 (裡面) + -의 (的)。" },
+        { "point": "세계가", "explanation": "세계 (世界) + -가 (主格助詞)。" },
+        { "point": "바스라져 내리네", "explanation": "바스라지다 (破碎) + -아/어 내리다 (掉落) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "반짝이는 Crystal",
+      "translation": "閃閃發光的 Crystal",
+      "analysis": [
+        { "point": "반짝이는", "explanation": "반짝이다 (閃爍) 的冠詞形。" },
+        { "point": "Crystal", "explanation": "英文，水晶，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다가와 다가와 다가와",
+      "translation": "靠近吧 靠近吧 靠近吧",
+      "analysis": [
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的非格式體，重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "어느새 입술은 새빨간 널 탐하네",
+      "translation": "不知不覺間 嘴唇貪圖著鮮紅的你",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "입술은", "explanation": "입술 (嘴唇) + -은 (主題助詞)。" },
+        { "point": "새빨간", "explanation": "새빨갛다 (鮮紅的) 的冠詞形。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "탐하네", "explanation": "탐하다 (貪圖) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "korean": "Come & Dance with me",
+      "translation": "Come & Dance with me",
+      "analysis": [
+        { "point": "Come & Dance with me", "explanation": "英文歌詞，來和我跳舞吧，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "뜨거운 춤을 춘다 내 안에 별이 뜬다",
+      "translation": "跳著火熱的舞蹈 我心中升起星星",
+      "analysis": [
+        { "point": "뜨거운", "explanation": "뜨겁다 (火熱的) 的冠詞形。" },
+        { "point": "춤을 춘다", "explanation": "춤 (舞蹈) + -을 추다 (跳) 的陳述形。" },
+        { "point": "내 안에", "explanation": "내 (我的) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "별이 뜬다", "explanation": "별 (星星) + -이 (主格助詞) + 뜨다 (升起) 的陳述形。" }
+      ]
+    },
+    {
+      "korean": "투명한 유리구슬 붉게 빛나",
+      "translation": "透明的玻璃珠 紅色地發光",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形。" },
+        { "point": "유리구슬", "explanation": "名詞，玻璃珠。" },
+        { "point": "붉게", "explanation": "붉다 (紅色的) + -게 (副詞形語尾)。" },
+        { "point": "빛나", "explanation": "빛나다 (發光) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "뒤를 돌아보지 마 불안한 생각은 마",
+      "translation": "不要回頭 不要不安的想法",
+      "analysis": [
+        { "point": "뒤를", "explanation": "뒤 (後面) + -를 (受格助詞)。" },
+        { "point": "돌아보지 마", "explanation": "돌아보다 (回頭看) + -지 말다 (不要) 的縮略。" },
+        { "point": "불안한", "explanation": "불안하다 (不安的) 的冠詞形。" },
+        { "point": "생각은 마", "explanation": "생각 (想法) + -은 (主題助詞) + 말다 (不要) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "달콤한 어둠 아래 마녀들의 밤이 와",
+      "translation": "在甜蜜的黑暗下 魔女們的夜晚來臨",
+      "analysis": [
+        { "point": "달콤한", "explanation": "달콤하다 (甜蜜的) 的冠詞形。" },
+        { "point": "어둠 아래", "explanation": "어둠 (黑暗) + 아래 (下面)。" },
+        { "point": "마녀들의", "explanation": "마녀 (魔女) + -들 (複數) + -의 (的)。" },
+        { "point": "밤이 와", "explanation": "밤 (夜晚) + -이 (主格助詞) + 오다 (來) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 2",
+      "korean": "We O wow wow wow wow (Kiss kiss kiss)",
+      "translation": "We O wow wow wow wow (Kiss kiss kiss)",
+      "analysis": [
+        { "point": "We O wow wow wow wow", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Kiss kiss kiss", "explanation": "英文歌詞，吻，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "We O ya ya ya ya (Dance dance dance)",
+      "translation": "We O ya ya ya ya (Dance dance dance)",
+      "analysis": [
+        { "point": "We O ya ya ya ya", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Dance dance dance", "explanation": "英文歌詞，跳舞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "We O wow wow wow wow (Kiss kiss kiss)",
+      "translation": "We O wow wow wow wow (Kiss kiss kiss)",
+      "analysis": [
+        { "point": "We O wow wow wow wow", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "Kiss kiss kiss", "explanation": "英文歌詞，吻，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 회색빛 선택을 다 물들여 버릴 거야",
+      "translation": "會將我灰色的選擇全部染掉",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "회색빛", "explanation": "회색 (灰色) + 빛 (色)。" },
+        { "point": "선택을", "explanation": "선택 (選擇) + -을 (受格助詞)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "물들여 버릴 거야", "explanation": "물들이다 (染色) + -아/어 버리다 (完全地) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 3",
+      "korean": "밤이 소란해질 때 더이상 돌이킬 수 없어",
+      "translation": "當夜晚變得嘈雜時 再也無法挽回",
+      "analysis": [
+        { "point": "밤이", "explanation": "밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "소란해질 때", "explanation": "소란해지다 (變得嘈雜) + -(으)ㄹ 때 (當...的時候)。" },
+        { "point": "더이상", "explanation": "副詞，再也。" },
+        { "point": "돌이킬 수 없어", "explanation": "돌이키다 (挽回) + -(으)ㄹ 수 없다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "[예린/엄지]감히 그려온 축제의 막을 열어줘",
+      "translation": "為我打開膽敢描繪的慶典之幕",
+      "analysis": [
+        { "point": "감히", "explanation": "副詞，膽敢。" },
+        { "point": "그려온", "explanation": "그리다 (描繪) + -아/어 오다 (持續) 的冠詞形。" },
+        { "point": "축제의", "explanation": "축제 (慶典) + -의 (的)。" },
+        { "point": "막을", "explanation": "막 (幕) + -을 (受格助詞)。" },
+        { "point": "열어줘", "explanation": "열다 (打開) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "새빨간 꿈을 꾼다 끝없이 파고든다",
+      "translation": "做著鮮紅的夢 無止境地深入",
+      "analysis": [
+        { "point": "새빨간", "explanation": "새빨갛다 (鮮紅的) 的冠詞形。" },
+        { "point": "꿈을 꾼다", "explanation": "꿈 (夢) + -을 꾸다 (做夢) 的陳述形。" },
+        { "point": "끝없이", "explanation": "끝없다 (無止境的) + -이 (副詞形語尾)。" },
+        { "point": "파고든다", "explanation": "파고들다 (深入) 的陳述形。" }
+      ]
+    },
+    {
+      "korean": "찬란한 파멸의 빛 날아올라",
+      "translation": "燦爛的破滅之光 飛升而上",
+      "analysis": [
+        { "point": "찬란한", "explanation": "찬란하다 (燦爛的) 的冠詞形。" },
+        { "point": "파멸의", "explanation": "파멸 (破滅) + -의 (的)。" },
+        { "point": "빛", "explanation": "名詞，光。" },
+        { "point": "날아올라", "explanation": "날아오르다 (飛升) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이제 고민하지 마 수줍은 아이는 놔",
+      "translation": "現在不要苦惱 放下害羞的孩子",
+      "analysis": [
+        { "point": "이제", "explanation": "現在。" },
+        { "point": "고민하지 마", "explanation": "고민하다 (苦惱) + -지 말다 (不要) 的縮略。" },
+        { "point": "수줍은", "explanation": "수줍다 (害羞的) 的冠詞形。" },
+        { "point": "아이는 놔", "explanation": "아이 (孩子) + -는 (主題助詞) + 놓다 (放下) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "데려가 줘 영원히 마녀들의 밤이 와",
+      "translation": "帶我走 永遠地 魔女們的夜晚來臨",
+      "analysis": [
+        { "point": "데려가 줘", "explanation": "데려가다 (帶走) + -아/어 주다 (為我做) 的縮略。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "마녀들의 밤이 와", "explanation": "마녀 (魔女) + -들 (複數) + -의 (的) + 밤 (夜晚) + -이 (主格助詞) + 오다 (來) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "We O wow wow wow wow",
+      "translation": "We O wow wow wow wow",
+      "analysis": [
+        { "point": "We O wow wow wow wow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "춤을 춘다 춤을 춘다 (Kiss)",
+      "translation": "跳著舞 跳著舞 (Kiss)",
+      "analysis": [
+        { "point": "춤을 춘다", "explanation": "춤 (舞蹈) + -을 추다 (跳) 的陳述形，重複表示強調。" },
+        { "point": "Kiss", "explanation": "英文，吻，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "We O ya ya ya ya",
+      "translation": "We O ya ya ya ya",
+      "analysis": [
+        { "point": "We O ya ya ya ya", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "별이 뜬다 별이 뜬다 (Dance)",
+      "translation": "星星升起 星星升起 (Dance)",
+      "analysis": [
+        { "point": "별이 뜬다", "explanation": "별 (星星) + -이 (主格助詞) + 뜨다 (升起) 的陳述形，重複表示強調。" },
+        { "point": "Dance", "explanation": "英文，跳舞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "We O wow wow wow wow",
+      "translation": "We O wow wow wow wow",
+      "analysis": [
+        { "point": "We O wow wow wow wow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "춤을 춘다 춤을 춘다 (Kiss)",
+      "translation": "跳著舞 跳著舞 (Kiss)",
+      "analysis": [
+        { "point": "춤을 춘다", "explanation": "춤 (舞蹈) + -을 추다 (跳) 的陳述形，重複表示強調。" },
+        { "point": "Kiss", "explanation": "英文，吻，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내 회색빛 선택을 다 물들여 버릴 거야",
+      "translation": "會將我灰色的選擇全部染掉",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "회색빛", "explanation": "회색 (灰色) + 빛 (色)。" },
+        { "point": "선택을", "explanation": "선택 (選擇) + -을 (受格助詞)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "물들여 버릴 거야", "explanation": "물들이다 (染色) + -아/어 버리다 (完全地) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "(Dance)",
+      "translation": "(Dance)",
+      "analysis": [
+        { "point": "Dance", "explanation": "英文，跳舞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "가시덤불", "chinese": "荊棘叢", "pos": "名詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "짙다", "chinese": "深的、濃的", "pos": "形容詞" },
+    { "korean": "남겨지다", "chinese": "被留下", "pos": "動詞" },
+    { "korean": "발자국", "chinese": "腳印", "pos": "名詞" },
+    { "korean": "핏빛", "chinese": "血色", "pos": "名詞" },
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "선택", "chinese": "選擇", "pos": "名詞" },
+    { "korean": "틀리다", "chinese": "錯", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "시험", "chinese": "考驗", "pos": "名詞" },
+    { "korean": "들다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "總是", "pos": "副詞" },
+    { "korean": "유혹하다", "chinese": "誘惑", "pos": "動詞" },
+    { "korean": "빛깔", "chinese": "色彩", "pos": "名詞" },
+    { "korean": "물들이다", "chinese": "染色", "pos": "動詞" },
+    { "korean": "안", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "세계", "chinese": "世界", "pos": "名詞" },
+    { "korean": "바스라지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "내리다", "chinese": "掉落", "pos": "動詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "어느새", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "새빨갛다", "chinese": "鮮紅的", "pos": "形容詞" },
+    { "korean": "탐하다", "chinese": "貪圖", "pos": "動詞" },
+    { "korean": "뜨겁다", "chinese": "火熱的", "pos": "形容詞" },
+    { "korean": "춤", "chinese": "舞蹈", "pos": "名詞" },
+    { "korean": "추다", "chinese": "跳", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "뜨다", "chinese": "升起", "pos": "動詞" },
+    { "korean": "투명하다", "chinese": "透明的", "pos": "形容詞" },
+    { "korean": "유리구슬", "chinese": "玻璃珠", "pos": "名詞" },
+    { "korean": "붉다", "chinese": "紅色的", "pos": "形容詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "뒤", "chinese": "後面", "pos": "名詞" },
+    { "korean": "돌아보다", "chinese": "回頭看", "pos": "動詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "마녀", "chinese": "魔女", "pos": "名詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "회색", "chinese": "灰色", "pos": "名詞" },
+    { "korean": "버리다", "chinese": "完全地", "pos": "輔助動詞" },
+    { "korean": "어떤", "chinese": "任何", "pos": "冠詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "손가락", "chinese": "手指", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流淌", "pos": "動詞" },
+    { "korean": "물", "chinese": "液體", "pos": "名詞" },
+    { "korean": "어지럽다", "chinese": "暈眩的", "pos": "形容詞" },
+    { "korean": "이끌다", "chinese": "引領", "pos": "動詞" },
+    { "korean": "소란해지다", "chinese": "變得嘈雜", "pos": "動詞" },
+    { "korean": "돌이키다", "chinese": "挽回", "pos": "動詞" },
+    { "korean": "감히", "chinese": "膽敢", "pos": "副詞" },
+    { "korean": "그리다", "chinese": "描繪", "pos": "動詞" },
+    { "korean": "축제", "chinese": "慶典", "pos": "名詞" },
+    { "korean": "막", "chinese": "幕", "pos": "名詞" },
+    { "korean": "열다", "chinese": "打開", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "끝없이", "chinese": "無止境地", "pos": "副詞" },
+    { "korean": "파고들다", "chinese": "深入", "pos": "動詞" },
+    { "korean": "찬란하다", "chinese": "燦爛的", "pos": "形容詞" },
+    { "korean": "파멸", "chinese": "破滅", "pos": "名詞" },
+    { "korean": "날아오르다", "chinese": "飛升", "pos": "動詞" },
+    { "korean": "고민하다", "chinese": "苦惱", "pos": "動詞" },
+    { "korean": "수줍다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "놓다", "chinese": "放下", "pos": "動詞" },
+    { "korean": "데려가다", "chinese": "帶走", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" }
+  ]
+}

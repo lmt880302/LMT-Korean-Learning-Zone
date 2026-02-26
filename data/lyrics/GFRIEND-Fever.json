@@ -1,0 +1,486 @@
+{
+  "id": "GFRIEND-Fever",
+  "title": "Fever (열대야)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "지금 이 순간 후회 없이 보여주고 싶어",
+      "translation": "想在這瞬間毫無後悔地展現給你看",
+      "analysis": [
+        { "point": "지금 이 순간", "explanation": "지금 (現在) + 이 (這) + 순간 (瞬間)。" },
+        { "point": "후회 없이", "explanation": "후회 (後悔) + 없다 (沒有) + -이 (副詞形語尾)。" },
+        { "point": "보여주고 싶어", "explanation": "보여주다 (展現給看) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그저 니 심장을 뛰게 하고 싶어",
+      "translation": "只想讓你的心臟跳動",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "니 심장을", "explanation": "니 (你的，口語) + 심장 (心臟) + -을 (受格助詞)。" },
+        { "point": "뛰게 하고 싶어", "explanation": "뛰다 (跳) + -게 하다 (讓) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈부신 달빛 아래",
+      "translation": "在耀眼的月光下",
+      "analysis": [
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的冠詞形。" },
+        { "point": "달빛 아래", "explanation": "달빛 (月光) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "korean": "열대야 같은 사랑을 하고 있어",
+      "translation": "正進行著像熱帶夜一樣的愛情",
+      "analysis": [
+        { "point": "열대야 같은", "explanation": "열대야 (熱帶夜) + 같다 (像) 的冠詞形。" },
+        { "point": "사랑을 하고 있어", "explanation": "사랑 (愛情) + -을 하다 (做) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "너와 나",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "불이 켜지는 순간이야 아직 아련한 메아리야",
+      "translation": "是點亮燈火的瞬間 還是朦朧的回音",
+      "analysis": [
+        { "point": "불이", "explanation": "불 (火/燈) + -이 (主格助詞)。" },
+        { "point": "켜지는", "explanation": "켜지다 (被點亮) 的冠詞形。" },
+        { "point": "순간이야", "explanation": "순간 (瞬間) + -이야 (是)。" },
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "아련한", "explanation": "아련하다 (朦朧的) 的冠詞形。" },
+        { "point": "메아리야", "explanation": "메아리 (回音) + -야 (是)。" }
+      ]
+    },
+    {
+      "korean": "꿈을 꾸는 듯한 Aria na na na na",
+      "translation": "像做夢一樣的 Aria na na na na",
+      "analysis": [
+        { "point": "꿈을 꾸는 듯한", "explanation": "꿈 (夢) + -을 꾸다 (做夢) + -는 듯하다 (好像) 的冠詞形。" },
+        { "point": "Aria na na na na", "explanation": "英文歌詞，詠嘆調，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "어쩔 줄 모르던 나야 불확실한 것에 겁이 나",
+      "translation": "是曾經不知所措的我 對不確定的事物感到害怕",
+      "analysis": [
+        { "point": "어쩔 줄 모르던", "explanation": "어쩌다 (怎麼辦) + -(으)ㄹ 줄 모르다 (不知道該如何) 的過去冠詞形。" },
+        { "point": "나야", "explanation": "나 (我) + -야 (是)。" },
+        { "point": "불확실한 것에", "explanation": "불확실하다 (不確定的) 的冠詞形 + 것 (東西) + -에 (對)。" },
+        { "point": "겁이 나", "explanation": "겁 (害怕) + -이 나다 (產生) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "기다리진 않을 거야",
+      "translation": "我不會等待",
+      "analysis": [
+        { "point": "기다리진 않을 거야", "explanation": "기다리다 (等待) + -지 않다 (否定) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "코끝이 찡하니 들뜨는 이 밤",
+      "translation": "鼻尖發酸 心動的這個夜晚",
+      "analysis": [
+        { "point": "코끝이", "explanation": "코 (鼻子) + 끝 (末端) + -이 (主格助詞)。" },
+        { "point": "찡하니", "explanation": "찡하다 (發酸、激動) + -니 (副詞形語尾)。" },
+        { "point": "들뜨는", "explanation": "들뜨다 (興奮、心動) 的冠詞形。" },
+        { "point": "이 밤", "explanation": "이 (這) + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "korean": "소리 없이 피어난 멋진 계절 같아 Oh yeah",
+      "translation": "像無聲綻放的帥氣季節一樣 Oh yeah",
+      "analysis": [
+        { "point": "소리 없이", "explanation": "소리 (聲音) + 없다 (沒有) + -이 (副詞形語尾)。" },
+        { "point": "피어난", "explanation": "피어나다 (綻放) 的冠詞形。" },
+        { "point": "멋진 계절 같아", "explanation": "멋지다 (帥氣的) 的冠詞形 + 계절 (季節) + 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "높아져 가는 낮과 밤의 온도",
+      "translation": "逐漸升高的白天與夜晚的溫度",
+      "analysis": [
+        { "point": "높아져 가는", "explanation": "높아지다 (變高) + -아/어 가다 (逐漸) 的冠詞形。" },
+        { "point": "낮과 밤의", "explanation": "낮 (白天) + -과 (和) + 밤 (夜晚) + -의 (的)。" },
+        { "point": "온도", "explanation": "名詞，溫度。" }
+      ]
+    },
+    {
+      "korean": "너무나 뜨거워 터질 것만 같아",
+      "translation": "太滾燙了 好像要爆炸一樣",
+      "analysis": [
+        { "point": "너무나", "explanation": "너무 (太) + -나 (強調)。" },
+        { "point": "뜨거워", "explanation": "뜨겁다 (滾燙的) 的非格式體。" },
+        { "point": "터질 것만 같아", "explanation": "터지다 (爆炸) + -(으)ㄹ 것 같다 (好像) + -만 (只) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "지금 이 순간 후회 없이 보여주고 싶어",
+      "translation": "想在這瞬間毫無後悔地展現給你看",
+      "analysis": [
+        { "point": "지금 이 순간", "explanation": "지금 (現在) + 이 (這) + 순간 (瞬間)。" },
+        { "point": "후회 없이", "explanation": "후회 (後悔) + 없다 (沒有) + -이 (副詞形語尾)。" },
+        { "point": "보여주고 싶어", "explanation": "보여주다 (展現給看) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그저 니 심장을 뛰게 하고 싶어",
+      "translation": "只想讓你的心臟跳動",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "니 심장을", "explanation": "니 (你的，口語) + 심장 (心臟) + -을 (受格助詞)。" },
+        { "point": "뛰게 하고 싶어", "explanation": "뛰다 (跳) + -게 하다 (讓) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈부신 달빛 아래",
+      "translation": "在耀眼的月光下",
+      "analysis": [
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的冠詞形。" },
+        { "point": "달빛 아래", "explanation": "달빛 (月光) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "korean": "열대야 같은 사랑을 하고 있어",
+      "translation": "正進行著像熱帶夜一樣的愛情",
+      "analysis": [
+        { "point": "열대야 같은", "explanation": "열대야 (熱帶夜) + 같다 (像) 的冠詞形。" },
+        { "point": "사랑을 하고 있어", "explanation": "사랑 (愛情) + -을 하다 (做) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "너와 나",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "아직도 깊어져만 가는 열대야",
+      "translation": "仍然越來越深的熱帶夜",
+      "analysis": [
+        { "point": "아직도", "explanation": "아직 (還) + -도 (也/強調)。" },
+        { "point": "깊어져만 가는", "explanation": "깊어지다 (變深) + -아/어 가다 (逐漸) + -만 (只) 的冠詞形。" },
+        { "point": "열대야", "explanation": "名詞，熱帶夜。" }
+      ]
+    },
+    {
+      "korean": "여전히 사라지지 않는 열대야",
+      "translation": "依然不會消失的熱帶夜",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然。" },
+        { "point": "사라지지 않는", "explanation": "사라지다 (消失) + -지 않다 (否定) 的冠詞形。" },
+        { "point": "열대야", "explanation": "名詞，熱帶夜。" }
+      ]
+    },
+    {
+      "korean": "차가운 어둠 지난 저 불꽃처럼",
+      "translation": "像經過冰冷黑暗的那火花一樣",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的冠詞形。" },
+        { "point": "어둠", "explanation": "名詞，黑暗。" },
+        { "point": "지난", "explanation": "지나다 (經過) 的冠詞形。" },
+        { "point": "저 불꽃처럼", "explanation": "저 (那) + 불꽃 (火花) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "남김없이 사랑하는",
+      "translation": "毫無保留地相愛的",
+      "analysis": [
+        { "point": "남김없이", "explanation": "남기다 (留下) + -없이 (沒有地)，表示「毫無保留地」。固定用法。" },
+        { "point": "사랑하는", "explanation": "사랑하다 (愛) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너와 나",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "널 느낄 수 있어 언제나 찾을 수 있어",
+      "translation": "能感受到你 隨時都能找到你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "느낄 수 있어", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (能夠) 的非格式體。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "찾을 수 있어", "explanation": "찾다 (找) + -(으)ㄹ 수 있다 (能夠) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "조금씩 선명해져 가",
+      "translation": "逐漸變得清晰",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (每、逐漸)。" },
+        { "point": "선명해져 가", "explanation": "선명해지다 (變得清晰) + -아/어 가다 (逐漸) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "행복한 이 느낌 여름밤 꿈처럼",
+      "translation": "這幸福的感覺 像夏夜的夢一樣",
+      "analysis": [
+        { "point": "행복한", "explanation": "행복하다 (幸福的) 的冠詞形。" },
+        { "point": "이 느낌", "explanation": "이 (這) + 느낌 (感覺)。" },
+        { "point": "여름밤 꿈처럼", "explanation": "여름밤 (夏夜) + 꿈 (夢) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "너를 만난 후로 퍼져가 새로운 나 Oh yeah",
+      "translation": "遇見你之後 新的我逐漸擴散 Oh yeah",
+      "analysis": [
+        { "point": "너를 만난 후로", "explanation": "너를 (你) + 만나다 (遇見) 的冠詞形 + 후 (後) + -(으)로 (從)。" },
+        { "point": "퍼져가", "explanation": "퍼지다 (擴散) + -아/어 가다 (逐漸) 的非格式體。" },
+        { "point": "새로운 나", "explanation": "새롭다 (新的) 的冠詞形 + 나 (我)。" }
+      ]
+    },
+    {
+      "korean": "작은 세상에 큰 꽃을 피워",
+      "translation": "在小小的世界裡綻放大大的花",
+      "analysis": [
+        { "point": "작은", "explanation": "작다 (小的) 的冠詞形。" },
+        { "point": "세상에", "explanation": "세상 (世界) + -에 (場所助詞)。" },
+        { "point": "큰 꽃을", "explanation": "크다 (大的) 的冠詞形 + 꽃 (花) + -을 (受格助詞)。" },
+        { "point": "피워", "explanation": "피우다 (綻放) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "날 사랑하는 법을 알 것만 같아",
+      "translation": "好像知道了愛我的方法",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "사랑하는 법을", "explanation": "사랑하다 (愛) 的冠詞形 + 법 (方法) + -을 (受格助詞)。" },
+        { "point": "알 것만 같아", "explanation": "알다 (知道) + -(으)ㄹ 것 같다 (好像) + -만 (只) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "지금 이 순간 후회 없이 보여주고 싶어",
+      "translation": "想在這瞬間毫無後悔地展現給你看",
+      "analysis": [
+        { "point": "지금 이 순간", "explanation": "지금 (現在) + 이 (這) + 순간 (瞬間)。" },
+        { "point": "후회 없이", "explanation": "후회 (後悔) + 없다 (沒有) + -이 (副詞形語尾)。" },
+        { "point": "보여주고 싶어", "explanation": "보여주다 (展現給看) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그저 니 심장을 뛰게 하고 싶어",
+      "translation": "只想讓你的心臟跳動",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "니 심장을", "explanation": "니 (你的，口語) + 심장 (心臟) + -을 (受格助詞)。" },
+        { "point": "뛰게 하고 싶어", "explanation": "뛰다 (跳) + -게 하다 (讓) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈부신 달빛 아래",
+      "translation": "在耀眼的月光下",
+      "analysis": [
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的冠詞形。" },
+        { "point": "달빛 아래", "explanation": "달빛 (月光) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "korean": "열대야 같은 사랑을 하고 있어",
+      "translation": "正進行著像熱帶夜一樣的愛情",
+      "analysis": [
+        { "point": "열대야 같은", "explanation": "열대야 (熱帶夜) + 같다 (像) 的冠詞形。" },
+        { "point": "사랑을 하고 있어", "explanation": "사랑 (愛情) + -을 하다 (做) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "너와 나",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "Hot summer night",
+      "translation": "炎熱的夏夜",
+      "analysis": [
+        { "point": "Hot summer night", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 2",
+      "korean": "새벽이 온대도 니 두 눈 속에서",
+      "translation": "就算清晨來臨 在你雙眼之中",
+      "analysis": [
+        { "point": "새벽이", "explanation": "새벽 (清晨) + -이 (主格助詞)。" },
+        { "point": "온대도", "explanation": "오다 (來) + -ㄴ대도 (即使說)。" },
+        { "point": "니 두 눈 속에서", "explanation": "니 (你的，口語) + 두 (兩) + 눈 (眼睛) + 속 (裡面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "아무 말 안 해도 날 느낄 수 있어",
+      "translation": "即使什麼話都不說 也能感受到我",
+      "analysis": [
+        { "point": "아무 말 안 해도", "explanation": "아무 (任何) + 말 (話) + 안 하다 (不做) + -아/어도 (即使)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "느낄 수 있어", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (能夠) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "커져가 커져가 이 불씨에",
+      "translation": "越來越大 越來越大 在這火種裡",
+      "analysis": [
+        { "point": "커져가", "explanation": "커지다 (變大) + -아/어 가다 (逐漸) 的非格式體，重複表示強調。" },
+        { "point": "이 불씨에", "explanation": "이 (這) + 불씨 (火種) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "사르르 사르르 녹아내려도",
+      "translation": "即使輕輕地 輕輕地融化",
+      "analysis": [
+        { "point": "사르르", "explanation": "擬態詞，輕輕地、慢慢地融化或消失的樣子。" },
+        { "point": "녹아내려도", "explanation": "녹아내리다 (融化掉下) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "널 안아 줄 거야",
+      "translation": "我會擁抱你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "안아 줄 거야", "explanation": "안다 (抱) + -아/어 주다 (為你做) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "영원할 거야 이대로",
+      "translation": "會永遠的 就這樣",
+      "analysis": [
+        { "point": "영원할 거야", "explanation": "영원하다 (永遠的) + -(으)ㄹ 거야 (推測/意志)。" },
+        { "point": "이대로", "explanation": "就這樣。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Post-Chorus",
+      "korean": "아직도 깊어져만 가는 열대야",
+      "translation": "仍然越來越深的熱帶夜",
+      "analysis": [
+        { "point": "아직도", "explanation": "아직 (還) + -도 (也/強調)。" },
+        { "point": "깊어져만 가는", "explanation": "깊어지다 (變深) + -아/어 가다 (逐漸) + -만 (只) 的冠詞形。" },
+        { "point": "열대야", "explanation": "名詞，熱帶夜。" }
+      ]
+    },
+    {
+      "korean": "여전히 사라지지 않는 열대야",
+      "translation": "依然不會消失的熱帶夜",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然。" },
+        { "point": "사라지지 않는", "explanation": "사라지다 (消失) + -지 않다 (否定) 的冠詞形。" },
+        { "point": "열대야", "explanation": "名詞，熱帶夜。" }
+      ]
+    },
+    {
+      "korean": "차가운 어둠 지난 저 불꽃처럼",
+      "translation": "像經過冰冷黑暗的那火花一樣",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的冠詞形。" },
+        { "point": "어둠", "explanation": "名詞，黑暗。" },
+        { "point": "지난", "explanation": "지나다 (經過) 的冠詞形。" },
+        { "point": "저 불꽃처럼", "explanation": "저 (那) + 불꽃 (火花) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "남김없이 사랑하는",
+      "translation": "毫無保留地相愛的",
+      "analysis": [
+        { "point": "남김없이", "explanation": "남기다 (留下) + -없이 (沒有地)，表示「毫無保留地」。固定用法。" },
+        { "point": "사랑하는", "explanation": "사랑하다 (愛) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너와 나",
+      "translation": "你和我",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "후회", "chinese": "後悔", "pos": "名詞" },
+    { "korean": "보여주다", "chinese": "展現給看", "pos": "動詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "뛰다", "chinese": "跳", "pos": "動詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "열대야", "chinese": "熱帶夜", "pos": "名詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "불", "chinese": "火、燈", "pos": "名詞" },
+    { "korean": "켜지다", "chinese": "被點亮", "pos": "動詞" },
+    { "korean": "아련하다", "chinese": "朦朧的", "pos": "形容詞" },
+    { "korean": "메아리", "chinese": "回音", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "어쩌다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "불확실하다", "chinese": "不確定的", "pos": "形容詞" },
+    { "korean": "겁", "chinese": "害怕", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "코끝", "chinese": "鼻尖", "pos": "名詞" },
+    { "korean": "찡하다", "chinese": "發酸、激動", "pos": "形容詞" },
+    { "korean": "들뜨다", "chinese": "興奮、心動", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "피어나다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "멋지다", "chinese": "帥氣的", "pos": "形容詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "높아지다", "chinese": "變高", "pos": "動詞" },
+    { "korean": "낮", "chinese": "白天", "pos": "名詞" },
+    { "korean": "온도", "chinese": "溫度", "pos": "名詞" },
+    { "korean": "너무나", "chinese": "太", "pos": "副詞" },
+    { "korean": "뜨겁다", "chinese": "滾燙的", "pos": "形容詞" },
+    { "korean": "터지다", "chinese": "爆炸", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "깊어지다", "chinese": "變深", "pos": "動詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "불꽃", "chinese": "火花", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "언제나", "chinese": "無論何時", "pos": "副詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "조금씩", "chinese": "一點一點地", "pos": "副詞" },
+    { "korean": "선명해지다", "chinese": "變得清晰", "pos": "動詞" },
+    { "korean": "행복하다", "chinese": "幸福的", "pos": "形容詞" },
+    { "korean": "여름밤", "chinese": "夏夜", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "후", "chinese": "後", "pos": "名詞" },
+    { "korean": "퍼지다", "chinese": "擴散", "pos": "動詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "작다", "chinese": "小的", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "크다", "chinese": "大的", "pos": "形容詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "피우다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "법", "chinese": "方法", "pos": "名詞" },
+    { "korean": "새벽", "chinese": "清晨", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "아무", "chinese": "任何", "pos": "冠詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "커지다", "chinese": "變大", "pos": "動詞" },
+    { "korean": "불씨", "chinese": "火種", "pos": "名詞" },
+    { "korean": "사르르", "chinese": "輕輕地", "pos": "擬態詞" },
+    { "korean": "녹아내리다", "chinese": "融化掉下", "pos": "動詞" },
+    { "korean": "안다", "chinese": "抱", "pos": "動詞" },
+    { "korean": "영원하다", "chinese": "永遠的", "pos": "形容詞" }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "id": "yuju-full-circle",
+  "title": "Full Circle",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "예상치 못한 순간",
+      "translation": "在未曾預料的瞬間",
+      "analysis": [
+        { "point": "예상치 못한", "explanation": "예상하다 (預料) + -치 못하다 (未能) 的過去定語形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "머릴 두드리는 이런저런 일들에 (들에)",
+      "translation": "敲打腦袋的各種事情上",
+      "analysis": [
+        { "point": "머릴", "explanation": "머리 (頭) + -를 (受格助詞) 的縮略。" },
+        { "point": "두드리는", "explanation": "두드리다 (敲打) 的現在定語形。" },
+        { "point": "이런저런 일들에", "explanation": "이런저런 (這樣那樣的、各種) + 일 (事情) + -들 (複數) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "여긴 어지러워 너무",
+      "translation": "這裡太暈眩了",
+      "analysis": [
+        { "point": "여긴", "explanation": "여기는 (這裡) 的縮略。" },
+        { "point": "어지러워", "explanation": "어지럽다 (暈眩的) 的非格式體。" },
+        { "point": "너무", "explanation": "副詞，太。" }
+      ]
+    },
+    {
+      "korean": "행운이란 건 늘 비껴가지, no, no",
+      "translation": "所謂幸運總是擦肩而過",
+      "analysis": [
+        { "point": "행운이란 건", "explanation": "행운 (幸運) + -이란 (所謂的) + 것 (東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "비껴가지", "explanation": "비껴가다 (擦過、避開) + -지 (語尾)。" },
+        { "point": "no, no", "explanation": "英文，不、不。" }
+      ]
+    },
+    {
+      "korean": "잠시 끄고파 light switch",
+      "translation": "想暫時關掉電燈開關",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時。" },
+        { "point": "끄고파", "explanation": "끄다 (關掉) + -고 싶다 (想要) 的口語縮略。" },
+        { "point": "light switch", "explanation": "英文，電燈開關。" }
+      ]
+    },
+    {
+      "korean": "모나지 않은 것들이 좀 필요해 mayday",
+      "translation": "需要一些不尖銳的東西 求救",
+      "analysis": [
+        { "point": "모나지 않은", "explanation": "모나다 (有稜角、尖銳) + -지 않다 (不) 的定語形。" },
+        { "point": "것들이", "explanation": "것 (東西) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "좀", "explanation": "副詞，稍微、一些。" },
+        { "point": "필요해", "explanation": "필요하다 (需要) 的非格式體。" },
+        { "point": "mayday", "explanation": "英文，求救信號。" }
+      ]
+    },
+    {
+      "korean": "Every single day 외로운 이곳에",
+      "translation": "每一天 在這孤獨的地方",
+      "analysis": [
+        { "point": "Every single day", "explanation": "英文，每一天。" },
+        { "point": "외로운", "explanation": "외롭다 (孤獨的) 的定語形。" },
+        { "point": "이곳에", "explanation": "이곳 (這裡) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "얼굴을 묻고 싶진 않아, na-na",
+      "translation": "不想把臉埋起來",
+      "analysis": [
+        { "point": "얼굴을", "explanation": "얼굴 (臉) + -을 (受格助詞)。" },
+        { "point": "묻고 싶진 않아", "explanation": "묻다 (埋) + -고 싶다 (想要) + -지 (強調) + -는 (主題) + 않다 (不) 的非格式體。" },
+        { "point": "na-na", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Just turn around",
+      "translation": "就轉過身",
+      "analysis": [
+        { "point": "Just turn around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "살포시 눈을 가린 머릴 넘기며",
+      "translation": "輕輕地遮住眼睛 撩起頭髮",
+      "analysis": [
+        { "point": "살포시", "explanation": "副詞，輕輕地、溫柔地。" },
+        { "point": "눈을 가린", "explanation": "눈 (眼睛) + -을 (受格助詞) + 가리다 (遮擋) 的過去定語形。" },
+        { "point": "머릴 넘기며", "explanation": "머리 (頭髮) + -를 (受格助詞) 的縮略 + 넘기다 (翻、撩) + -며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "익숙히 날 감싸줘요, baby",
+      "translation": "熟悉地擁抱我吧 寶貝",
+      "analysis": [
+        { "point": "익숙히", "explanation": "익숙하다 (熟悉的) 的副詞形。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "감싸줘요", "explanation": "감싸다 (擁抱、包裹) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "baby", "explanation": "英文，寶貝。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Comes around, it comes around, it comes around",
+      "translation": "會回來的，它會回來的，它會回來的",
+      "analysis": [
+        { "point": "Comes around, it comes around, it comes around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "And it goes full circle",
+      "translation": "然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "And it goes full circle", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "비워둔 이 옆자린 너야",
+      "translation": "空著的這個旁邊座位是你",
+      "analysis": [
+        { "point": "비워둔", "explanation": "비우다 (清空) + -아/어 두다 (保持狀態) 的過去定語形。" },
+        { "point": "이 옆자린", "explanation": "이 (這) + 옆자리 (旁邊座位) + -는 (主題助詞) 的縮略。" },
+        { "point": "너야", "explanation": "你 + -야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Come take a ride with me",
+      "translation": "來和我一起兜風吧",
+      "analysis": [
+        { "point": "Come take a ride with me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Comes around, it comes around",
+      "translation": "會回來的，它會回來的",
+      "analysis": [
+        { "point": "Comes around, it comes around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It comes around, and it goes full circle",
+      "translation": "它會回來的，然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "It comes around, and it goes full circle", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "저 구름 사이로 like this",
+      "translation": "穿過那雲之間 像這樣",
+      "analysis": [
+        { "point": "저 구름 사이로", "explanation": "저 (那) + 구름 (雲) + 사이 (之間) + -(으)로 (通過)。" },
+        { "point": "like this", "explanation": "英文，像這樣。" }
+      ]
+    },
+    {
+      "korean": "그려봐 my circle",
+      "translation": "試著描繪吧 我的圓",
+      "analysis": [
+        { "point": "그려봐", "explanation": "그리다 (描繪) + -아/어 보다 (嘗試) 的請求形。" },
+        { "point": "my circle", "explanation": "英文，我的圓。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Uh, yeah",
+      "translation": "呃，耶",
+      "analysis": [
+        { "point": "Uh, yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "'Cause it flows and it moves just like deja vu",
+      "translation": "因為它流動它移動就像既視感",
+      "analysis": [
+        { "point": "'Cause it flows and it moves just like deja vu", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "알 수 없는 기분이 들더라고 but I, yeah",
+      "translation": "有種無法知道的感覺 但我，耶",
+      "analysis": [
+        { "point": "알 수 없는", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "기분이 들더라고", "explanation": "기분 (感覺) + -이 (主格助詞) + 들다 (進入) + -더라고 (回想感嘆語尾)。" },
+        { "point": "but I, yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "But I, but I, but I, yeah",
+      "translation": "但我，但我，但我，耶",
+      "analysis": [
+        { "point": "But I, but I, but I, yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "반복되는 하루 속에",
+      "translation": "在反覆的日子裡",
+      "analysis": [
+        { "point": "반복되는", "explanation": "반복되다 (被反覆) 的現在定語形。" },
+        { "point": "하루 속에", "explanation": "하루 (一天) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "져버리기엔 좀 일러 나",
+      "translation": "要凋謝還太早 我",
+      "analysis": [
+        { "point": "져버리기엔", "explanation": "지다 (凋謝) + -아/어 버리다 (完了) 的名詞形 + -엔 (對於...來說)。" },
+        { "point": "좀", "explanation": "副詞，稍微。" },
+        { "point": "일러", "explanation": "이르다 (早) 的非格式體。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "피워볼래 yeah, my flower",
+      "translation": "想試著綻放 耶 我的花",
+      "analysis": [
+        { "point": "피워볼래", "explanation": "피우다 (綻放) + -아/어 보다 (嘗試) + -(으)ㄹ래 (表示意志)。" },
+        { "point": "yeah", "explanation": "英文，耶。" },
+        { "point": "my flower", "explanation": "英文，我的花。" }
+      ]
+    },
+    {
+      "korean": "Every single day 왠지 오늘은",
+      "translation": "每一天 不知為何今天",
+      "analysis": [
+        { "point": "Every single day", "explanation": "英文，每一天。" },
+        { "point": "왠지", "explanation": "副詞，不知為何。" },
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "시선을 아래 두고 싶지 않아",
+      "translation": "不想把視線放在下面",
+      "analysis": [
+        { "point": "시선을", "explanation": "시선 (視線) + -을 (受格助詞)。" },
+        { "point": "아래", "explanation": "名詞，下面。" },
+        { "point": "두고 싶지 않아", "explanation": "두다 (放) + -고 싶다 (想要) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Just turn around",
+      "translation": "就轉過身",
+      "analysis": [
+        { "point": "Just turn around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "언젠가 우리 눈을 마주했었던",
+      "translation": "曾經何時我們對視過的",
+      "analysis": [
+        { "point": "언젠가", "explanation": "副詞，曾經何時。" },
+        { "point": "우리", "explanation": "我們。" },
+        { "point": "눈을 마주했었던", "explanation": "눈 (眼睛) + -을 (受格助詞) + 마주하다 (面對、對視) 的過去回想定語形。" }
+      ]
+    },
+    {
+      "korean": "그 때로 데려가 줘요, baby",
+      "translation": "帶我去那時候吧 寶貝",
+      "analysis": [
+        { "point": "그 때로", "explanation": "그 때 (那時候) + -(으)로 (向)。" },
+        { "point": "데려가 줘요", "explanation": "데려가다 (帶去) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "baby", "explanation": "英文，寶貝。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Comes around, it comes around, it comes around",
+      "translation": "會回來的，它會回來的，它會回來的",
+      "analysis": [
+        { "point": "Comes around, it comes around, it comes around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "And it goes full circle",
+      "translation": "然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "And it goes full circle", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "비워둔 이 옆자린 너야",
+      "translation": "空著的這個旁邊座位是你",
+      "analysis": [
+        { "point": "비워둔", "explanation": "비우다 (清空) + -아/어 두다 (保持狀態) 的過去定語形。" },
+        { "point": "이 옆자린", "explanation": "이 (這) + 옆자리 (旁邊座位) + -는 (主題助詞) 的縮略。" },
+        { "point": "너야", "explanation": "你 + -야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Come take a ride with me",
+      "translation": "來和我一起兜風吧",
+      "analysis": [
+        { "point": "Come take a ride with me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Comes around, it comes around",
+      "translation": "會回來的，它會回來的",
+      "analysis": [
+        { "point": "Comes around, it comes around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It comes around, and it goes full circle",
+      "translation": "它會回來的，然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "It comes around, and it goes full circle", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "저 구름 사이로 like this (oh yeah)",
+      "translation": "穿過那雲之間 像這樣 (喔耶)",
+      "analysis": [
+        { "point": "저 구름 사이로", "explanation": "저 (那) + 구름 (雲) + 사이 (之間) + -(으)로 (通過)。" },
+        { "point": "like this", "explanation": "英文，像這樣。" },
+        { "point": "oh yeah", "explanation": "英文，喔耶。" }
+      ]
+    },
+    {
+      "korean": "그려봐 my circle",
+      "translation": "試著描繪吧 我的圓",
+      "analysis": [
+        { "point": "그려봐", "explanation": "그리다 (描繪) + -아/어 보다 (嘗試) 的請求形。" },
+        { "point": "my circle", "explanation": "英文，我的圓。" }
+      ]
+    },
+    {
+      "korean": "And it comes full circle (oh)",
+      "translation": "然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "And it comes full circle", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "oh", "explanation": "英文，喔。" }
+      ]
+    },
+    {
+      "korean": "And it comes full circle (ey)",
+      "translation": "然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "And it comes full circle", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "ey", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ooh-ooh-ooh",
+      "translation": "嗚-嗚-嗚",
+      "analysis": [
+        { "point": "Ooh-ooh-ooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Comes around, it comes around, it comes around",
+      "translation": "會回來的，它會回來的，它會回來的",
+      "analysis": [
+        { "point": "Comes around, it comes around, it comes around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "And it goes full circle",
+      "translation": "然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "And it goes full circle", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "말하지 않아도 돼 (쉿) now",
+      "translation": "不說也可以 (噓) 現在",
+      "analysis": [
+        { "point": "말하지 않아도 돼", "explanation": "말하다 (說) + -지 않다 (不) + -아/어도 되다 (也可以) 的非格式體。" },
+        { "point": "쉿", "explanation": "擬聲詞，噓。" },
+        { "point": "now", "explanation": "英文，現在。" }
+      ]
+    },
+    {
+      "korean": "Come take a ride with me",
+      "translation": "來和我一起兜風吧",
+      "analysis": [
+        { "point": "Come take a ride with me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Comes around, it comes around, it comes around",
+      "translation": "會回來的，它會回來的，它會回來的",
+      "analysis": [
+        { "point": "Comes around, it comes around, it comes around", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "And it goes full circle",
+      "translation": "然後它會走完一個完整循環",
+      "analysis": [
+        { "point": "And it goes full circle", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "저 별을 따라가 like this",
+      "translation": "跟隨那星星 像這樣",
+      "analysis": [
+        { "point": "저 별을", "explanation": "저 (那) + 별 (星星) + -을 (受格助詞)。" },
+        { "point": "따라가", "explanation": "따라가다 (跟隨) 的非格式體。" },
+        { "point": "like this", "explanation": "英文，像這樣。" }
+      ]
+    },
+    {
+      "korean": "그려봐 my circle",
+      "translation": "試著描繪吧 我的圓",
+      "analysis": [
+        { "point": "그려봐", "explanation": "그리다 (描繪) + -아/어 보다 (嘗試) 的請求形。" },
+        { "point": "my circle", "explanation": "英文，我的圓。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "예상하다", "chinese": "預料", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "머리", "chinese": "頭、頭髮", "pos": "名詞" },
+    { "korean": "두드리다", "chinese": "敲打", "pos": "動詞" },
+    { "korean": "이런저런", "chinese": "這樣那樣的、各種", "pos": "冠詞" },
+    { "korean": "일", "chinese": "事情", "pos": "名詞" },
+    { "korean": "여기", "chinese": "這裡", "pos": "代名詞" },
+    { "korean": "어지럽다", "chinese": "暈眩的", "pos": "形容詞" },
+    { "korean": "너무", "chinese": "太", "pos": "副詞" },
+    { "korean": "행운", "chinese": "幸運", "pos": "名詞" },
+    { "korean": "늘", "chinese": "總是", "pos": "副詞" },
+    { "korean": "비껴가다", "chinese": "擦過、避開", "pos": "動詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "끄다", "chinese": "關掉", "pos": "動詞" },
+    { "korean": "모나다", "chinese": "有稜角、尖銳", "pos": "形容詞" },
+    { "korean": "좀", "chinese": "稍微、一些", "pos": "副詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "외롭다", "chinese": "孤獨的", "pos": "形容詞" },
+    { "korean": "이곳", "chinese": "這裡", "pos": "名詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "묻다", "chinese": "埋", "pos": "動詞" },
+    { "korean": "살포시", "chinese": "輕輕地、溫柔地", "pos": "副詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "가리다", "chinese": "遮擋", "pos": "動詞" },
+    { "korean": "넘기다", "chinese": "翻、撩", "pos": "動詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "감싸다", "chinese": "擁抱、包裹", "pos": "動詞" },
+    { "korean": "비우다", "chinese": "清空", "pos": "動詞" },
+    { "korean": "옆자리", "chinese": "旁邊座位", "pos": "名詞" },
+    { "korean": "구름", "chinese": "雲", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "그리다", "chinese": "描繪", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "반복되다", "chinese": "被反覆", "pos": "動詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "지다", "chinese": "凋謝", "pos": "動詞" },
+    { "korean": "이르다", "chinese": "早", "pos": "形容詞" },
+    { "korean": "피우다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "시선", "chinese": "視線", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "두다", "chinese": "放", "pos": "動詞" },
+    { "korean": "언젠가", "chinese": "曾經何時", "pos": "副詞" },
+    { "korean": "마주하다", "chinese": "面對、對視", "pos": "動詞" },
+    { "korean": "때", "chinese": "時候", "pos": "名詞" },
+    { "korean": "데려가다", "chinese": "帶去", "pos": "動詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "따라가다", "chinese": "跟隨", "pos": "動詞" }
+  ]
+}

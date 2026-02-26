@@ -1,0 +1,531 @@
+{
+  "id": "GFRIEND-FLOWER",
+  "title": "FLOWER (Korean Ver.)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "달빛이 내려 차가운 밤엔",
+      "translation": "月光灑落的冰冷夜晚",
+      "analysis": [
+        { "point": "달빛이", "explanation": "달빛 (月光) + -이 (主格助詞)。" },
+        { "point": "내려", "explanation": "내리다 (降下) 的非格式體連接形。" },
+        { "point": "차가운 밤엔", "explanation": "차갑다 (冰冷的) 的冠詞形 + 밤 (夜晚) + -에 (時間助詞) + -는 (強調)。" }
+      ]
+    },
+    {
+      "korean": "니가 너무 보고 싶단 말야",
+      "translation": "是說我非常想你",
+      "analysis": [
+        { "point": "니가", "explanation": "너 (你) + -가 (主格助詞) 的口語。" },
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "보고 싶단 말야", "explanation": "보고 싶다 (想念) + -단 말이다 (是說...的話)。" }
+      ]
+    },
+    {
+      "korean": "그리운 약속 기도하는 새벽",
+      "translation": "思念的約定 祈禱的清晨",
+      "analysis": [
+        { "point": "그리운", "explanation": "그립다 (思念的) 的冠詞形。" },
+        { "point": "약속", "explanation": "名詞，約定。" },
+        { "point": "기도하는", "explanation": "기도하다 (祈禱) 的冠詞形。" },
+        { "point": "새벽", "explanation": "名詞，清晨。" }
+      ]
+    },
+    {
+      "korean": "잠들기 전에 날 찾아 줘",
+      "translation": "在我入睡前來找我",
+      "analysis": [
+        { "point": "잠들기 전에", "explanation": "잠들다 (入睡) 的名詞形 + 전에 (在...之前)。" },
+        { "point": "날 찾아 줘", "explanation": "나를 (我) 的縮略 + 찾다 (找) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "계절을 돌아 차오르는 추억이",
+      "translation": "繞過季節 湧上心頭的回憶",
+      "analysis": [
+        { "point": "계절을", "explanation": "계절 (季節) + -을 (受格助詞)。" },
+        { "point": "돌아", "explanation": "돌다 (轉、繞) 的非格式體連接形。" },
+        { "point": "차오르는", "explanation": "차오르다 (湧上、充滿) 的冠詞形。" },
+        { "point": "추억이", "explanation": "추억 (回憶) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "니 맘을 깨워 주길",
+      "translation": "希望能喚醒你的心",
+      "analysis": [
+        { "point": "니 맘을", "explanation": "니 (你的，口語) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "깨워 주길", "explanation": "깨우다 (喚醒) + -아/어 주다 (為你做) + -길 (名詞化，表示希望)。" }
+      ]
+    },
+    {
+      "korean": "그리 멀지 않은 곳 나는 피어 있어 언제나",
+      "translation": "在不太遠的地方 我盛開著 無論何時",
+      "analysis": [
+        { "point": "그리 멀지 않은 곳", "explanation": "그리 (那樣) + 멀다 (遠) + -지 않다 (否定) 的冠詞形 + 곳 (地方)。" },
+        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
+        { "point": "피어 있어", "explanation": "피어 있다 (盛開著) 的非格式體。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" }
+      ]
+    },
+    {
+      "korean": "항상 그 자리에",
+      "translation": "總是在那個位置",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "그 자리에", "explanation": "그 (那) + 자리 (位置) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "단 한 번 기적처럼 널 볼 수만 있다면",
+      "translation": "哪怕只有一次 如果能像奇蹟一樣看見你",
+      "analysis": [
+        { "point": "단 한 번", "explanation": "단 (只) + 한 (一) + 번 (次)。" },
+        { "point": "기적처럼", "explanation": "기적 (奇蹟) + -처럼 (像...一樣)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "볼 수만 있다면", "explanation": "보다 (看) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "차가운 계절도 견뎌낼 텐데",
+      "translation": "冰冷的季節也能夠忍受",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的冠詞形。" },
+        { "point": "계절도", "explanation": "계절 (季節) + -도 (也)。" },
+        { "point": "견뎌낼 텐데", "explanation": "견뎌내다 (忍受) + -(으)ㄹ 텐데 (推測/惋惜)。" }
+      ]
+    },
+    {
+      "korean": "캄캄한 밤하늘에 너란 빛을 따라서",
+      "translation": "在漆黑的夜空中 沿著名叫你的光",
+      "analysis": [
+        { "point": "캄캄한", "explanation": "캄캄하다 (漆黑的) 的冠詞形。" },
+        { "point": "밤하늘에", "explanation": "밤하늘 (夜空) + -에 (場所助詞)。" },
+        { "point": "너란 빛을", "explanation": "너 (你) + -란 (叫做) + 빛 (光) + -을 (受格助詞)。" },
+        { "point": "따라서", "explanation": "따르다 (跟隨) + -아/어서 (沿著)。" }
+      ]
+    },
+    {
+      "korean": "날아올라 운명처럼 안아 줘",
+      "translation": "飛上去 像命運一樣擁抱我",
+      "analysis": [
+        { "point": "날아올라", "explanation": "날아오르다 (飛上去) 的非格式體。" },
+        { "point": "운명처럼", "explanation": "운명 (命運) + -처럼 (像...一樣)。" },
+        { "point": "안아 줘", "explanation": "안다 (抱) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "휠릴리리리리",
+      "translation": "Wheely-ri-ri-ri-ri",
+      "analysis": [
+        { "point": "휠릴리리리리", "explanation": "擬聲/感嘆詞，無特別文法意義。" }
+      ]
+    },
+    {
+      "korean": "바람이 불어오면",
+      "translation": "如果風吹來",
+      "analysis": [
+        { "point": "바람이", "explanation": "바람 (風) + -이 (主格助詞)。" },
+        { "point": "불어오면", "explanation": "불다 (吹) + -아/어 오다 (來) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "스르르르르르",
+      "translation": "Seu-reu-reu-reu-reu",
+      "analysis": [
+        { "point": "스르르르르르", "explanation": "擬態詞，輕輕地、悄悄地。" }
+      ]
+    },
+    {
+      "korean": "내 맘 흔들릴까요",
+      "translation": "我的心會動搖嗎",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "흔들릴까요", "explanation": "흔들리다 (被動搖) + -(으)ㄹ까요 (疑問，表示擔心/推測)。" }
+      ]
+    },
+    {
+      "korean": "항상 그대 안에 피고 지는 꽃",
+      "translation": "總是在你心裡盛開又凋謝的花",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "그대 안에", "explanation": "그대 (你) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "피고 지는", "explanation": "피다 (綻放) + -고 (和) + 지다 (凋謝) 的冠詞形。" },
+        { "point": "꽃", "explanation": "名詞，花。" }
+      ]
+    },
+    {
+      "korean": "Blossom blossom 오늘도 기다려요",
+      "translation": "Blossom blossom 今天也等待著",
+      "analysis": [
+        { "point": "Blossom blossom", "explanation": "英文歌詞，綻放，無韓文文法解析。" },
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어둠이 지고 홀로 남은 밤",
+      "translation": "黑暗消逝 獨自留下的夜晚",
+      "analysis": [
+        { "point": "어둠이", "explanation": "어둠 (黑暗) + -이 (主格助詞)。" },
+        { "point": "지고", "explanation": "지다 (消失、落下) + -고 (連接詞尾)。" },
+        { "point": "홀로 남은 밤", "explanation": "홀로 (獨自) + 남다 (留下) 的冠詞形 + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "korean": "니가 정말 필요하단 말야",
+      "translation": "是說真的需要你",
+      "analysis": [
+        { "point": "니가", "explanation": "너 (你) + -가 (主格助詞) 的口語。" },
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "필요하단 말야", "explanation": "필요하다 (需要) + -단 말이다 (是說...的話)。" }
+      ]
+    },
+    {
+      "korean": "시간이 멈춰 함께 있는 순간",
+      "translation": "時間停止 在一起的瞬間",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "멈춰", "explanation": "멈추다 (停止) 的非格式體連接形。" },
+        { "point": "함께 있는", "explanation": "함께 (一起) + 있다 (有/在) 的冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "영원히 아름답고 싶어",
+      "translation": "想永遠美麗",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "아름답고 싶어", "explanation": "아름답다 (美麗的) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "계절을 돌아 차오르는 추억이",
+      "translation": "繞過季節 湧上心頭的回憶",
+      "analysis": [
+        { "point": "계절을", "explanation": "계절 (季節) + -을 (受格助詞)。" },
+        { "point": "돌아", "explanation": "돌다 (轉、繞) 的非格式體連接形。" },
+        { "point": "차오르는", "explanation": "차오르다 (湧上、充滿) 的冠詞形。" },
+        { "point": "추억이", "explanation": "추억 (回憶) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "니 맘을 깨워 주길",
+      "translation": "希望能喚醒你的心",
+      "analysis": [
+        { "point": "니 맘을", "explanation": "니 (你的，口語) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "깨워 주길", "explanation": "깨우다 (喚醒) + -아/어 주다 (為你做) + -길 (名詞化，表示希望)。" }
+      ]
+    },
+    {
+      "korean": "그리 멀지 않은 곳 나는 피어 있어 언제나",
+      "translation": "在不太遠的地方 我盛開著 無論何時",
+      "analysis": [
+        { "point": "그리 멀지 않은 곳", "explanation": "그리 (那樣) + 멀다 (遠) + -지 않다 (否定) 的冠詞形 + 곳 (地方)。" },
+        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
+        { "point": "피어 있어", "explanation": "피어 있다 (盛開著) 的非格式體。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" }
+      ]
+    },
+    {
+      "korean": "항상 그 자리에",
+      "translation": "總是在那個位置",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "그 자리에", "explanation": "그 (那) + 자리 (位置) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "단 한 번 기적처럼 널 볼 수만 있다면",
+      "translation": "哪怕只有一次 如果能像奇蹟一樣看見你",
+      "analysis": [
+        { "point": "단 한 번", "explanation": "단 (只) + 한 (一) + 번 (次)。" },
+        { "point": "기적처럼", "explanation": "기적 (奇蹟) + -처럼 (像...一樣)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "볼 수만 있다면", "explanation": "보다 (看) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "차가운 계절도 견뎌낼 텐데",
+      "translation": "冰冷的季節也能夠忍受",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的冠詞形。" },
+        { "point": "계절도", "explanation": "계절 (季節) + -도 (也)。" },
+        { "point": "견뎌낼 텐데", "explanation": "견뎌내다 (忍受) + -(으)ㄹ 텐데 (推測/惋惜)。" }
+      ]
+    },
+    {
+      "korean": "캄캄한 밤하늘에 너란 빛을 따라서",
+      "translation": "在漆黑的夜空中 沿著名叫你的光",
+      "analysis": [
+        { "point": "캄캄한", "explanation": "캄캄하다 (漆黑的) 的冠詞形。" },
+        { "point": "밤하늘에", "explanation": "밤하늘 (夜空) + -에 (場所助詞)。" },
+        { "point": "너란 빛을", "explanation": "너 (你) + -란 (叫做) + 빛 (光) + -을 (受格助詞)。" },
+        { "point": "따라서", "explanation": "따르다 (跟隨) + -아/어서 (沿著)。" }
+      ]
+    },
+    {
+      "korean": "날아올라 운명처럼 안아 줘",
+      "translation": "飛上去 像命運一樣擁抱我",
+      "analysis": [
+        { "point": "날아올라", "explanation": "날아오르다 (飛上去) 的非格式體。" },
+        { "point": "운명처럼", "explanation": "운명 (命運) + -처럼 (像...一樣)。" },
+        { "point": "안아 줘", "explanation": "안다 (抱) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "휠릴리리리리",
+      "translation": "Wheely-ri-ri-ri-ri",
+      "analysis": [
+        { "point": "휠릴리리리리", "explanation": "擬聲/感嘆詞，無特別文法意義。" }
+      ]
+    },
+    {
+      "korean": "바람이 불어오면",
+      "translation": "如果風吹來",
+      "analysis": [
+        { "point": "바람이", "explanation": "바람 (風) + -이 (主格助詞)。" },
+        { "point": "불어오면", "explanation": "불다 (吹) + -아/어 오다 (來) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "스르르르르르",
+      "translation": "Seu-reu-reu-reu-reu",
+      "analysis": [
+        { "point": "스르르르르르", "explanation": "擬態詞，輕輕地、悄悄地。" }
+      ]
+    },
+    {
+      "korean": "내 맘 흔들릴까요",
+      "translation": "我的心會動搖嗎",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "흔들릴까요", "explanation": "흔들리다 (被動搖) + -(으)ㄹ까요 (疑問，表示擔心/推測)。" }
+      ]
+    },
+    {
+      "korean": "항상 그대 안에 피고 지는 꽃",
+      "translation": "總是在你心裡盛開又凋謝的花",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "그대 안에", "explanation": "그대 (你) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "피고 지는", "explanation": "피다 (綻放) + -고 (和) + 지다 (凋謝) 的冠詞形。" },
+        { "point": "꽃", "explanation": "名詞，花。" }
+      ]
+    },
+    {
+      "korean": "Blossom blossom 오늘도 기다려요",
+      "translation": "Blossom blossom 今天也等待著",
+      "analysis": [
+        { "point": "Blossom blossom", "explanation": "英文歌詞，綻放，無韓文文法解析。" },
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "내 바램이 닿을 수 있게",
+      "translation": "為了讓我的心願能觸及",
+      "analysis": [
+        { "point": "내 바램이", "explanation": "내 (我的) + 바램 (心願、盼望) + -이 (主格助詞)。" },
+        { "point": "닿을 수 있게", "explanation": "닿다 (觸碰) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "바람아 날 힘껏 불어 날려 줘",
+      "translation": "風啊 用力地吹 將我吹走",
+      "analysis": [
+        { "point": "바람아", "explanation": "바람 (風) + -아 (呼格助詞)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "힘껏", "explanation": "副詞，用力地、盡全力。" },
+        { "point": "불어 날려 줘", "explanation": "불다 (吹) + -아/어 날리다 (吹走) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "온 세상이 어두워지는 그 순간에도",
+      "translation": "即使全世界都變暗的那瞬間",
+      "analysis": [
+        { "point": "온 세상이", "explanation": "온 (全部的) + 세상 (世界) + -이 (主格助詞)。" },
+        { "point": "어두워지는", "explanation": "어두워지다 (變暗) 的冠詞形。" },
+        { "point": "그 순간에도", "explanation": "그 (那) + 순간 (瞬間) + -에 (時間助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "나 별처럼 빛나 볼게",
+      "translation": "我會像星星一樣發光",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "별처럼", "explanation": "별 (星星) + -처럼 (像...一樣)。" },
+        { "point": "빛나 볼게", "explanation": "빛나다 (發光) + -아/어 보다 (嘗試) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "기억을 더듬어 나의 향기를 따라와",
+      "translation": "追溯記憶 跟隨我的香氣而來",
+      "analysis": [
+        { "point": "기억을", "explanation": "기억 (記憶) + -을 (受格助詞)。" },
+        { "point": "더듬어", "explanation": "더듬다 (摸索、追溯) 的非格式體連接形。" },
+        { "point": "나의 향기를", "explanation": "나의 (我的) + 향기 (香氣) + -를 (受格助詞)。" },
+        { "point": "따라와", "explanation": "따라오다 (跟隨而來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "얼어있던 맘은 봄이 될 거야",
+      "translation": "曾凍結的心會成為春天",
+      "analysis": [
+        { "point": "얼어있던", "explanation": "얼어 있다 (凍結著) 的過去冠詞形。" },
+        { "point": "맘은", "explanation": "마음 (心) 的縮略 + -은 (主題助詞)。" },
+        { "point": "봄이 될 거야", "explanation": "봄 (春天) + -이 되다 (成為) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "캄캄한 밤하늘에 너란 빛을 따라서",
+      "translation": "在漆黑的夜空中 沿著名叫你的光",
+      "analysis": [
+        { "point": "캄캄한", "explanation": "캄캄하다 (漆黑的) 的冠詞形。" },
+        { "point": "밤하늘에", "explanation": "밤하늘 (夜空) + -에 (場所助詞)。" },
+        { "point": "너란 빛을", "explanation": "너 (你) + -란 (叫做) + 빛 (光) + -을 (受格助詞)。" },
+        { "point": "따라서", "explanation": "따르다 (跟隨) + -아/어서 (沿著)。" }
+      ]
+    },
+    {
+      "korean": "날아올라 운명처럼 안아줘",
+      "translation": "飛上去 像命運一樣擁抱我",
+      "analysis": [
+        { "point": "날아올라", "explanation": "날아오르다 (飛上去) 的非格式體。" },
+        { "point": "운명처럼", "explanation": "운명 (命運) + -처럼 (像...一樣)。" },
+        { "point": "안아줘", "explanation": "안다 (抱) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Post-Chorus",
+      "korean": "휠릴리리리리",
+      "translation": "Wheely-ri-ri-ri-ri",
+      "analysis": [
+        { "point": "휠릴리리리리", "explanation": "擬聲/感嘆詞，無特別文法意義。" }
+      ]
+    },
+    {
+      "korean": "바람이 불어오면",
+      "translation": "如果風吹來",
+      "analysis": [
+        { "point": "바람이", "explanation": "바람 (風) + -이 (主格助詞)。" },
+        { "point": "불어오면", "explanation": "불다 (吹) + -아/어 오다 (來) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "스르르르르르",
+      "translation": "Seu-reu-reu-reu-reu",
+      "analysis": [
+        { "point": "스르르르르르", "explanation": "擬態詞，輕輕地、悄悄地。" }
+      ]
+    },
+    {
+      "korean": "내 맘 흔들릴까요",
+      "translation": "我的心會動搖嗎",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "흔들릴까요", "explanation": "흔들리다 (被動搖) + -(으)ㄹ까요 (疑問，表示擔心/推測)。" }
+      ]
+    },
+    {
+      "korean": "항상 그대 안에 피고 지는 꽃",
+      "translation": "總是在你心裡盛開又凋謝的花",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "그대 안에", "explanation": "그대 (你) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "피고 지는", "explanation": "피다 (綻放) + -고 (和) + 지다 (凋謝) 的冠詞形。" },
+        { "point": "꽃", "explanation": "名詞，花。" }
+      ]
+    },
+    {
+      "korean": "Blossom blossom 오늘도 기다려요",
+      "translation": "Blossom blossom 今天也等待著",
+      "analysis": [
+        { "point": "Blossom blossom", "explanation": "英文歌詞，綻放，無韓文文法解析。" },
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) 的非格式體敬語。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "내리다", "chinese": "降下", "pos": "動詞" },
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "그립다", "chinese": "思念的", "pos": "形容詞" },
+    { "korean": "약속", "chinese": "約定", "pos": "名詞" },
+    { "korean": "기도하다", "chinese": "祈禱", "pos": "動詞" },
+    { "korean": "새벽", "chinese": "清晨", "pos": "名詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "돌다", "chinese": "轉、繞", "pos": "動詞" },
+    { "korean": "차오르다", "chinese": "湧上、充滿", "pos": "動詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "깨우다", "chinese": "喚醒", "pos": "動詞" },
+    { "korean": "멀다", "chinese": "遠", "pos": "形容詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "피어 있다", "chinese": "盛開著", "pos": "動詞" },
+    { "korean": "언제나", "chinese": "無論何時", "pos": "副詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "자리", "chinese": "位置", "pos": "名詞" },
+    { "korean": "단", "chinese": "只", "pos": "副詞" },
+    { "korean": "번", "chinese": "次", "pos": "依存名詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "견뎌내다", "chinese": "忍受", "pos": "動詞" },
+    { "korean": "캄캄하다", "chinese": "漆黑的", "pos": "形容詞" },
+    { "korean": "밤하늘", "chinese": "夜空", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "날아오르다", "chinese": "飛上去", "pos": "動詞" },
+    { "korean": "운명", "chinese": "命運", "pos": "名詞" },
+    { "korean": "안다", "chinese": "抱", "pos": "動詞" },
+    { "korean": "휠릴리리리리", "chinese": "Wheely-ri-ri-ri-ri", "pos": "擬聲詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "스르르", "chinese": "輕輕地", "pos": "擬態詞" },
+    { "korean": "흔들리다", "chinese": "被動搖", "pos": "動詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "안", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "피다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "지다", "chinese": "凋謝、落下", "pos": "動詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "홀로", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "남다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "바램", "chinese": "心願、盼望", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸碰", "pos": "動詞" },
+    { "korean": "힘껏", "chinese": "用力地", "pos": "副詞" },
+    { "korean": "날리다", "chinese": "吹走", "pos": "動詞" },
+    { "korean": "온", "chinese": "全部的", "pos": "冠詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "어두워지다", "chinese": "變暗", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "더듬다", "chinese": "摸索、追溯", "pos": "動詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "따라오다", "chinese": "跟隨而來", "pos": "動詞" },
+    { "korean": "얼다", "chinese": "凍結", "pos": "動詞" },
+    { "korean": "봄", "chinese": "春天", "pos": "名詞" }
+  ]
+}

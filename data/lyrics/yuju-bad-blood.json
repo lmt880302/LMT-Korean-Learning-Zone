@@ -1,0 +1,174 @@
+{
+  "id": "yuju-bad-blood",
+  "title": "Bad Blood",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "korean": "난 목이 타 in this silence",
+      "translation": "我喉嚨乾渴 在這寂靜中",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "목이 타", "explanation": "목 (脖子、喉嚨) + -이 (主格助詞) + 타다 (燃燒)，意為「喉嚨乾渴」。" },
+        { "point": "in this silence", "explanation": "英文，在這寂靜中。" }
+      ]
+    },
+    {
+      "korean": "칼이 된 말은 violence",
+      "translation": "變成刀的話語是暴力",
+      "analysis": [
+        { "point": "칼이 된", "explanation": "칼 (刀) + -이 (主格助詞) + 되다 (成為) 的過去定語形。" },
+        { "point": "말은", "explanation": "말 (話) + -은 (主題助詞)。" },
+        { "point": "violence", "explanation": "英文，暴力。" }
+      ]
+    },
+    {
+      "korean": "이건 내가 너에게 남기는 recording",
+      "translation": "這是我留給你的錄音",
+      "analysis": [
+        { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "너에게", "explanation": "你 + -에게 (向)。" },
+        { "point": "남기는", "explanation": "남기다 (留下) 的現在定語形。" },
+        { "point": "recording", "explanation": "英文，錄音。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이 기분은 sweet sour",
+      "translation": "這感覺 甜蜜又酸澀",
+      "analysis": [
+        { "point": "이 기분은", "explanation": "이 (這) + 기분 (感覺) + -은 (主題助詞)。" },
+        { "point": "sweet sour", "explanation": "英文，甜酸的。" }
+      ]
+    },
+    {
+      "korean": "기다려지는 hour",
+      "translation": "讓人等待的時刻",
+      "analysis": [
+        { "point": "기다려지는", "explanation": "기다려지다 (被等待) 的現在定語形。" },
+        { "point": "hour", "explanation": "英文，小時、時刻。" }
+      ]
+    },
+    {
+      "korean": "내 안을 돌고 도는",
+      "translation": "在我內心反覆迴盪的",
+      "analysis": [
+        { "point": "내 안을", "explanation": "내 (我的) + 안 (裡面) + -을 (受格助詞)。" },
+        { "point": "돌고 도는", "explanation": "돌다 (轉、迴盪) + -고 (連接) + 돌다 (轉) 的現在定語形，表示反覆。" }
+      ]
+    },
+    {
+      "korean": "Blood is like new power",
+      "translation": "血液就像新的力量",
+      "analysis": [
+        { "point": "Blood is like new power", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "검은 어둠 속에",
+      "translation": "在黑色的黑暗中",
+      "analysis": [
+        { "point": "검은", "explanation": "검다 (黑色的) 的定語形。" },
+        { "point": "어둠 속에", "explanation": "어둠 (黑暗) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "다시 빨간 불을 비추고",
+      "translation": "再次照亮紅色的火",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "빨간", "explanation": "빨갛다 (紅色的) 的定語形。" },
+        { "point": "불을", "explanation": "불 (火) + -을 (受格助詞)。" },
+        { "point": "비추고", "explanation": "비추다 (照亮) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "So if you ready",
+      "translation": "所以如果你準備好了",
+      "analysis": [
+        { "point": "So if you ready", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Let the cameras roll",
+      "translation": "讓攝影機運轉",
+      "analysis": [
+        { "point": "Let the cameras roll", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "I got bad blood baby",
+      "translation": "我有壞血 寶貝",
+      "analysis": [
+        { "point": "I got bad blood baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "온몸에 흐르고 깊이 번져갈 거야",
+      "translation": "會流淌全身 深深蔓延開來",
+      "analysis": [
+        { "point": "온몸에", "explanation": "온몸 (全身) + -에 (場所助詞)。" },
+        { "point": "흐르고", "explanation": "흐르다 (流淌) + -고 (連接詞尾)。" },
+        { "point": "깊이", "explanation": "副詞，深深地。" },
+        { "point": "번져갈 거야", "explanation": "번지다 (蔓延) + -아/어 가다 (漸進) + -(으)ㄹ 것 (將來) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "I got bad blood baby",
+      "translation": "我有壞血 寶貝",
+      "analysis": [
+        { "point": "I got bad blood baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "날카로운 말이 점점 파고들 거야",
+      "translation": "尖銳的話語會漸漸深入",
+      "analysis": [
+        { "point": "날카로운", "explanation": "날카롭다 (尖銳的) 的定語形。" },
+        { "point": "말이", "explanation": "말 (話) + -이 (主格助詞)。" },
+        { "point": "점점", "explanation": "副詞，漸漸地。" },
+        { "point": "파고들 거야", "explanation": "파고들다 (深入、鑽入) + -(으)ㄹ 것 (將來) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "I got bad blood",
+      "translation": "我有壞血",
+      "analysis": [
+        { "point": "I got bad blood", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I got bad blood",
+      "translation": "我有壞血",
+      "analysis": [
+        { "point": "I got bad blood", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "목", "chinese": "脖子、喉嚨", "pos": "名詞" },
+    { "korean": "타다", "chinese": "燃燒", "pos": "動詞" },
+    { "korean": "칼", "chinese": "刀", "pos": "名詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "기다려지다", "chinese": "被等待", "pos": "動詞" },
+    { "korean": "안", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "돌다", "chinese": "轉、迴盪", "pos": "動詞" },
+    { "korean": "검다", "chinese": "黑色的", "pos": "形容詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "빨갛다", "chinese": "紅色的", "pos": "形容詞" },
+    { "korean": "불", "chinese": "火", "pos": "名詞" },
+    { "korean": "비추다", "chinese": "照亮", "pos": "動詞" },
+    { "korean": "온몸", "chinese": "全身", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流淌", "pos": "動詞" },
+    { "korean": "깊이", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "번지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "날카롭다", "chinese": "尖銳的", "pos": "形容詞" },
+    { "korean": "점점", "chinese": "漸漸地", "pos": "副詞" },
+    { "korean": "파고들다", "chinese": "深入、鑽入", "pos": "動詞" }
+  ]
+}

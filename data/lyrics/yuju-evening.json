@@ -1,0 +1,707 @@
+{
+  "id": "yuju-evening",
+  "title": "Evening (이브닝)",
+  "artist": "YUJU (유주) (Feat. BIG Naughty)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "기나긴 햇살에",
+      "translation": "在漫長的陽光下",
+      "analysis": [
+        { "point": "기나긴", "explanation": "기나길다 (漫長的) 的定語形。" },
+        { "point": "햇살에", "explanation": "햇살 (陽光) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "저 노을이",
+      "translation": "那晚霞",
+      "analysis": [
+        { "point": "저 노을이", "explanation": "저 (那) + 노을 (晚霞) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "드리워질 때면",
+      "translation": "每當降臨的時候",
+      "analysis": [
+        { "point": "드리워질", "explanation": "드리워지다 (被降臨、被籠罩) 的未來定語形。" },
+        { "point": "때면", "explanation": "때 (時候) + -(으)면 (每當)。" }
+      ]
+    },
+    {
+      "korean": "뜨거웠던 오늘 하루도",
+      "translation": "曾經熾熱的今天一整天也",
+      "analysis": [
+        { "point": "뜨거웠던", "explanation": "뜨겁다 (熾熱的) 的過去回想着定語形。" },
+        { "point": "오늘 하루도", "explanation": "오늘 (今天) + 하루 (一天) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "잔잔해지곤 해",
+      "translation": "變得平靜",
+      "analysis": [
+        { "point": "잔잔해지곤 해", "explanation": "잔잔하다 (平靜的) + -아/어 지다 (變得) + -곤 하다 (經常做)。" }
+      ]
+    },
+    {
+      "korean": "해 질 녘 흩날린",
+      "translation": "日落時分飄揚的",
+      "analysis": [
+        { "point": "해 질 녘", "explanation": "해 (太陽) + 지다 (落下) + -ㄹ (未來定語形) + 녘 (時分)。" },
+        { "point": "흩날린", "explanation": "흩날리다 (飄揚) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "바람 향기",
+      "translation": "風的香氣",
+      "analysis": [
+        { "point": "바람 향기", "explanation": "바람 (風) + 향기 (香氣)。" }
+      ]
+    },
+    {
+      "korean": "다시 설레죠",
+      "translation": "再次心動",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "설레죠", "explanation": "설레다 (心動) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "이런 내 맘을 알까",
+      "translation": "會知道這樣的我心嗎",
+      "analysis": [
+        { "point": "이런", "explanation": "這樣的。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "알까", "explanation": "알다 (知道) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Navy 색을 칠한",
+      "translation": "塗上海軍藍色的",
+      "analysis": [
+        { "point": "Navy 색을", "explanation": "Navy (海軍藍) + 색 (顏色) + -을 (受格助詞)。" },
+        { "point": "칠한", "explanation": "칠하다 (塗) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "하늘에 기대 고픈 밤",
+      "translation": "想要依靠天空的夜晚",
+      "analysis": [
+        { "point": "하늘에", "explanation": "하늘 (天空) + -에 (場所助詞)。" },
+        { "point": "기대 고픈", "explanation": "기대다 (依靠) + -고프다 (想要) 的定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "너는 나에게로",
+      "translation": "你向我",
+      "analysis": [
+        { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
+        { "point": "나에게로", "explanation": "나 (我) + -에게로 (向著)。" }
+      ]
+    },
+    {
+      "korean": "어디쯤 오고 있을까",
+      "translation": "大概到哪裡了",
+      "analysis": [
+        { "point": "어디쯤", "explanation": "어디 (哪裡) + -쯤 (大概)。" },
+        { "point": "오고 있을까", "explanation": "오다 (來) + -고 있다 (正在) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "서늘해진 이 바람이",
+      "translation": "變得涼爽的這陣風",
+      "analysis": [
+        { "point": "서늘해진", "explanation": "서늘하다 (涼爽的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "이 바람이", "explanation": "이 (這) + 바람 (風) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "여기 내 맘 같잖아",
+      "translation": "就像這裡我的心一樣",
+      "analysis": [
+        { "point": "여기", "explanation": "這裡。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "같잖아", "explanation": "같다 (像) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "정말 바보처럼",
+      "translation": "真的像傻瓜一樣",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "바보처럼", "explanation": "바보 (傻瓜) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "늦은 여름밤 속",
+      "translation": "在夏末夜晚裡",
+      "analysis": [
+        { "point": "늦은", "explanation": "늦다 (晚的) 的定語形。" },
+        { "point": "여름밤 속", "explanation": "여름밤 (夏夜) + 속 (裡面)。" }
+      ]
+    },
+    {
+      "korean": "너와 내가 느끼는 이 떨림",
+      "translation": "你和我感受到的這顫動",
+      "analysis": [
+        { "point": "너와 내가", "explanation": "너 (你) + -와 (和) + 나 (我) + -가 (主格助詞)。" },
+        { "point": "느끼는", "explanation": "느끼다 (感受) 的現在定語形。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動)。" }
+      ]
+    },
+    {
+      "korean": "뜨거웠다 차가워진 맘",
+      "translation": "曾熾熱又變冷的心",
+      "analysis": [
+        { "point": "뜨거웠다", "explanation": "뜨겁다 (熾熱) 的過去形。" },
+        { "point": "차가워진", "explanation": "차갑다 (冷) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "맘", "explanation": "마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "꼭 취한 것 같이",
+      "translation": "就像醉了一樣",
+      "analysis": [
+        { "point": "꼭", "explanation": "副詞，一定、好像。" },
+        { "point": "취한 것 같이", "explanation": "취하다 (醉) 的過去定語形 + 것 (事情) + 같이 (像)。" }
+      ]
+    },
+    {
+      "korean": "밀려온 파도처럼",
+      "translation": "像湧來的波浪一樣",
+      "analysis": [
+        { "point": "밀려온", "explanation": "밀려오다 (湧來) 的過去定語形。" },
+        { "point": "파도처럼", "explanation": "파도 (波浪) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내게 더 가까이 다가오길",
+      "translation": "希望更靠近我",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "가까이", "explanation": "副詞，靠近地。" },
+        { "point": "다가오길", "explanation": "다가오다 (靠近) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "난 더 이상 바랄 게 없네요",
+      "translation": "我再也沒有什麼可期盼的了",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "더 이상", "explanation": "副詞，再也。" },
+        { "point": "바랄 게", "explanation": "바라다 (盼望) 的未來定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "없네요", "explanation": "없다 (沒有) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2 (BIG Naughty)",
+      "korean": "추웠다 덥다 하는",
+      "translation": "說冷說熱的",
+      "analysis": [
+        { "point": "추웠다 덥다 하는", "explanation": "춥다 (冷) 的過去形 + 덥다 (熱) + 하다 (說) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "해가 졌다 떴다 하는",
+      "translation": "太陽落下又升起的",
+      "analysis": [
+        { "point": "해가 졌다 떴다 하는", "explanation": "해 (太陽) + -가 (主格助詞) + 지다 (落下) 的過去形 + 뜨다 (升起) 的過去形 + 하다 (說) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "오늘 날씨는 너의 마음 같아",
+      "translation": "今天的天氣就像你的心",
+      "analysis": [
+        { "point": "오늘 날씨는", "explanation": "오늘 (今天) + 날씨 (天氣) + -는 (主題助詞)。" },
+        { "point": "너의 마음 같아", "explanation": "너의 (你的) + 마음 (心) + 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "네가 싫었다 좋았다 하는",
+      "translation": "你討厭又喜歡的",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "싫었다 좋았다 하는", "explanation": "싫다 (討厭) 的過去形 + 좋다 (喜歡) 的過去形 + 하다 (說) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "톡을 지웠다 썼다 하는 나는",
+      "translation": "刪了又寫訊息的我是",
+      "analysis": [
+        { "point": "톡을", "explanation": "톡 (訊息) + -을 (受格助詞)。" },
+        { "point": "지웠다 썼다 하는", "explanation": "지우다 (刪除) 的過去形 + 쓰다 (寫) 的過去形 + 하다 (做) 的現在定語形。" },
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "여름밤 일교차 같아",
+      "translation": "就像夏夜的日夜溫差",
+      "analysis": [
+        { "point": "여름밤", "explanation": "名詞，夏夜。" },
+        { "point": "일교차", "explanation": "名詞，日夜溫差。" },
+        { "point": "같아", "explanation": "같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus 2 (BIG Naughty)",
+      "korean": "긴 저녁의 터널을 지나",
+      "translation": "穿過漫長夜晚的隧道",
+      "analysis": [
+        { "point": "긴", "explanation": "길다 (長的) 的定語形。" },
+        { "point": "저녁의", "explanation": "저녁 (傍晚、夜晚) + -의 (的)。" },
+        { "point": "터널을", "explanation": "터널 (隧道) + -을 (受格助詞)。" },
+        { "point": "지나", "explanation": "지나다 (經過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우리의 마지막 일은",
+      "translation": "我們的最後一件事是",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們的。" },
+        { "point": "마지막 일은", "explanation": "마지막 (最後) + 일 (事情) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "눈을 뜨고 해를 맞이할 준비지만",
+      "translation": "雖然是睜開眼睛迎接太陽的準備",
+      "analysis": [
+        { "point": "눈을 뜨고", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) + -고 (連接詞尾)。" },
+        { "point": "해를 맞이할", "explanation": "해 (太陽) + -를 (受格助詞) + 맞이하다 (迎接) 的未來定語形。" },
+        { "point": "준비지만", "explanation": "준비 (準備) + -이지만 (雖然是)。" }
+      ]
+    },
+    {
+      "korean": "아직은 달이 익숙한",
+      "translation": "還對月亮熟悉的",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還) + -은 (強調)。" },
+        { "point": "달이", "explanation": "달 (月亮) + -이 (主格助詞)。" },
+        { "point": "익숙한", "explanation": "익숙하다 (熟悉的) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "나는 계속 덤벙대",
+      "translation": "我繼續冒失",
+      "analysis": [
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" },
+        { "point": "계속", "explanation": "副詞，繼續。" },
+        { "point": "덤벙대", "explanation": "덤벙대다 (冒失、慌張) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "You should be my 어머",
+      "translation": "你應該是我的媽媽",
+      "analysis": [
+        { "point": "You should be my 어머", "explanation": "英文 + 어머 (媽媽的縮略)，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "아니 Would you be my summer",
+      "translation": "不 你願意成為我的夏天嗎",
+      "analysis": [
+        { "point": "아니", "explanation": "不。" },
+        { "point": "Would you be my summer", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우릴 비추는 달",
+      "translation": "照亮我們的月亮",
+      "analysis": [
+        { "point": "우릴", "explanation": "우리를 (我們) 的縮略。" },
+        { "point": "비추는", "explanation": "비추다 (照亮) 的現在定語形。" },
+        { "point": "달", "explanation": "名詞，月亮。" }
+      ]
+    },
+    {
+      "korean": "잠시 멈추고 싶은 밤",
+      "translation": "想要暫時停止的夜晚",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時。" },
+        { "point": "멈추고 싶은", "explanation": "멈추다 (停止) + -고 싶다 (想要) 的定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "너도 나와 같은",
+      "translation": "你也和我一樣的",
+      "analysis": [
+        { "point": "너도", "explanation": "你 + -도 (也)。" },
+        { "point": "나와 같은", "explanation": "나 (我) + -와 (和) + 같다 (相同) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "생각을 하고 있을까",
+      "translation": "在想著嗎",
+      "analysis": [
+        { "point": "생각을", "explanation": "생각 (想法) + -을 (受格助詞)。" },
+        { "point": "하고 있을까", "explanation": "하다 (做) + -고 있다 (正在) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "서늘해진 이 바람이",
+      "translation": "變得涼爽的這陣風",
+      "analysis": [
+        { "point": "서늘해진", "explanation": "서늘하다 (涼爽的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "이 바람이", "explanation": "이 (這) + 바람 (風) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "여기 내 맘 같잖아",
+      "translation": "就像這裡我的心一樣",
+      "analysis": [
+        { "point": "여기", "explanation": "這裡。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "같잖아", "explanation": "같다 (像) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "정말 바보처럼",
+      "translation": "真的像傻瓜一樣",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "바보처럼", "explanation": "바보 (傻瓜) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "늦은 여름밤 속",
+      "translation": "在夏末夜晚裡",
+      "analysis": [
+        { "point": "늦은", "explanation": "늦다 (晚的) 的定語形。" },
+        { "point": "여름밤 속", "explanation": "여름밤 (夏夜) + 속 (裡面)。" }
+      ]
+    },
+    {
+      "korean": "너와 내가 느끼는 이 떨림",
+      "translation": "你和我感受到的這顫動",
+      "analysis": [
+        { "point": "너와 내가", "explanation": "너 (你) + -와 (和) + 나 (我) + -가 (主格助詞)。" },
+        { "point": "느끼는", "explanation": "느끼다 (感受) 的現在定語形。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動)。" }
+      ]
+    },
+    {
+      "korean": "뜨거웠다 차가워진 맘",
+      "translation": "曾熾熱又變冷的心",
+      "analysis": [
+        { "point": "뜨거웠다", "explanation": "뜨겁다 (熾熱) 的過去形。" },
+        { "point": "차가워진", "explanation": "차갑다 (冷) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "맘", "explanation": "마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "꼭 취한 것 같이",
+      "translation": "就像醉了一樣",
+      "analysis": [
+        { "point": "꼭", "explanation": "副詞，一定、好像。" },
+        { "point": "취한 것 같이", "explanation": "취하다 (醉) 的過去定語形 + 것 (事情) + 같이 (像)。" }
+      ]
+    },
+    {
+      "korean": "밀려온 파도처럼",
+      "translation": "像湧來的波浪一樣",
+      "analysis": [
+        { "point": "밀려온", "explanation": "밀려오다 (湧來) 的過去定語形。" },
+        { "point": "파도처럼", "explanation": "파도 (波浪) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내게 더 가까이 다가오길",
+      "translation": "希望更靠近我",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "가까이", "explanation": "副詞，靠近地。" },
+        { "point": "다가오길", "explanation": "다가오다 (靠近) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "난 더 이상 바랄 게 없네요",
+      "translation": "我再也沒有什麼可期盼的了",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "더 이상", "explanation": "副詞，再也。" },
+        { "point": "바랄 게", "explanation": "바라다 (盼望) 的未來定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "없네요", "explanation": "없다 (沒有) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "생각이 많은 밤",
+      "translation": "思緒繁多的夜晚",
+      "analysis": [
+        { "point": "생각이 많은", "explanation": "생각 (想法) + -이 (主格助詞) + 많다 (多的) 的定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "하루 끝처럼",
+      "translation": "像一天的盡頭",
+      "analysis": [
+        { "point": "하루", "explanation": "一天。" },
+        { "point": "끝처럼", "explanation": "끝 (結束、盡頭) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "네가 내게로 불어와",
+      "translation": "你向我吹來",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "내게로", "explanation": "나에게로 (向我) 的縮略。" },
+        { "point": "불어와", "explanation": "불다 (吹) + -아/어 오다 (來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 곁에 있어주길",
+      "translation": "希望留在我身邊",
+      "analysis": [
+        { "point": "내 곁에", "explanation": "내 (我的) + 곁 (身邊) + -에 (場所助詞)。" },
+        { "point": "있어주길", "explanation": "있다 (在) + -아/어 주다 (為我) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "늘 머물러 주길",
+      "translation": "希望總是停留",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "머물러 주길", "explanation": "머물다 (停留) + -아/어 주다 (為我) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "I'll be there for you",
+      "translation": "我會為你而在那裡",
+      "analysis": [
+        { "point": "I'll be there for you", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "So baby will you",
+      "translation": "所以寶貝你會",
+      "analysis": [
+        { "point": "So baby will you", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Be mine",
+      "translation": "成為我的",
+      "analysis": [
+        { "point": "Be mine", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "눈부신 이 밤에",
+      "translation": "在這耀眼的夜晚",
+      "analysis": [
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" },
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "너와 내가 느끼는 이 떨림",
+      "translation": "你和我感受到的這顫動",
+      "analysis": [
+        { "point": "너와 내가", "explanation": "너 (你) + -와 (和) + 나 (我) + -가 (主格助詞)。" },
+        { "point": "느끼는", "explanation": "느끼다 (感受) 的現在定語形。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動)。" }
+      ]
+    },
+    {
+      "korean": "알 수 없는 기분이 들어",
+      "translation": "有種無法知道的感覺",
+      "analysis": [
+        { "point": "알 수 없는", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "기분이 들어", "explanation": "기분 (感覺) + -이 (主格助詞) + 들다 (進入) 的非格式體，意為「有感覺」。" }
+      ]
+    },
+    {
+      "korean": "꼭 취한 것 같이",
+      "translation": "就像醉了一樣",
+      "analysis": [
+        { "point": "꼭", "explanation": "副詞，一定、好像。" },
+        { "point": "취한 것 같이", "explanation": "취하다 (醉) 的過去定語形 + 것 (事情) + 같이 (像)。" }
+      ]
+    },
+    {
+      "korean": "밀려온 파도처럼",
+      "translation": "像湧來的波浪一樣",
+      "analysis": [
+        { "point": "밀려온", "explanation": "밀려오다 (湧來) 的過去定語形。" },
+        { "point": "파도처럼", "explanation": "파도 (波浪) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내게 더 가까이 다가오길",
+      "translation": "希望更靠近我",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "가까이", "explanation": "副詞，靠近地。" },
+        { "point": "다가오길", "explanation": "다가오다 (靠近) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "이 밤이 깊어져만 가네요",
+      "translation": "這夜晚只變得越來越深",
+      "analysis": [
+        { "point": "이 밤이", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "깊어져만 가네요", "explanation": "깊어지다 (變深) + -아/어 가다 (漸進) + -만 (只) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "늦은 여름밤 late summer night",
+      "translation": "夏末夜晚 夏末夜晚",
+      "analysis": [
+        { "point": "늦은 여름밤", "explanation": "늦다 (晚的) 的定語形 + 여름밤 (夏夜)。" },
+        { "point": "late summer night", "explanation": "英文，夏末夜晚。" }
+      ]
+    },
+    {
+      "korean": "오늘 이브닝 내 마음 같아",
+      "translation": "今天的傍晚就像我的心",
+      "analysis": [
+        { "point": "오늘", "explanation": "今天。" },
+        { "point": "이브닝", "explanation": "英文 evening，傍晚。" },
+        { "point": "내 마음 같아", "explanation": "내 (我的) + 마음 (心) + 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "늦은 여름밤 late summer night",
+      "translation": "夏末夜晚 夏末夜晚",
+      "analysis": [
+        { "point": "늦은 여름밤", "explanation": "늦다 (晚的) 的定語形 + 여름밤 (夏夜)。" },
+        { "point": "late summer night", "explanation": "英文，夏末夜晚。" }
+      ]
+    },
+    {
+      "korean": "오늘 기분이 저녁 하늘 같아",
+      "translation": "今天的心情就像傍晚的天空",
+      "analysis": [
+        { "point": "오늘 기분이", "explanation": "오늘 (今天) + 기분 (感覺) + -이 (主格助詞)。" },
+        { "point": "저녁 하늘 같아", "explanation": "저녁 (傍晚) + 하늘 (天空) + 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "늦은 여름밤 late summer night",
+      "translation": "夏末夜晚 夏末夜晚",
+      "analysis": [
+        { "point": "늦은 여름밤", "explanation": "늦다 (晚的) 的定語形 + 여름밤 (夏夜)。" },
+        { "point": "late summer night", "explanation": "英文，夏末夜晚。" }
+      ]
+    },
+    {
+      "korean": "달이 예쁜 이 밤 너를 닮아",
+      "translation": "月亮美麗的這個夜晚像你",
+      "analysis": [
+        { "point": "달이 예쁜", "explanation": "달 (月亮) + -이 (主格助詞) + 예쁘다 (漂亮的) 的定語形。" },
+        { "point": "이 밤", "explanation": "이 (這) + 밤 (夜晚)。" },
+        { "point": "너를 닮아", "explanation": "너를 (你) + 닮다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "늦은 여름밤 late summer night",
+      "translation": "夏末夜晚 夏末夜晚",
+      "analysis": [
+        { "point": "늦은 여름밤", "explanation": "늦다 (晚的) 的定語形 + 여름밤 (夏夜)。" },
+        { "point": "late summer night", "explanation": "英文，夏末夜晚。" }
+      ]
+    },
+    {
+      "korean": "너무 밝게는 뜨지 말아 달아",
+      "translation": "月亮啊 不要太明亮地升起",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，太。" },
+        { "point": "밝게는", "explanation": "밝다 (明亮的) 的副詞形 + -는 (強調)。" },
+        { "point": "뜨지 말아", "explanation": "뜨다 (升起) + -지 말다 (不要)。" },
+        { "point": "달아", "explanation": "달 (月亮) + -아 (呼格)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "기나길다", "chinese": "漫長的", "pos": "形容詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "노을", "chinese": "晚霞", "pos": "名詞" },
+    { "korean": "드리워지다", "chinese": "被降臨、被籠罩", "pos": "動詞" },
+    { "korean": "뜨겁다", "chinese": "熾熱的", "pos": "形容詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "잔잔하다", "chinese": "平靜的", "pos": "形容詞" },
+    { "korean": "해", "chinese": "太陽", "pos": "名詞" },
+    { "korean": "지다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "녘", "chinese": "時分", "pos": "名詞" },
+    { "korean": "흩날리다", "chinese": "飄揚", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "색", "chinese": "顏色", "pos": "名詞" },
+    { "korean": "칠하다", "chinese": "塗", "pos": "動詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "기대다", "chinese": "依靠", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "어디쯤", "chinese": "大概哪裡", "pos": "副詞" },
+    { "korean": "서늘하다", "chinese": "涼爽的", "pos": "形容詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "늦다", "chinese": "晚的", "pos": "形容詞" },
+    { "korean": "여름밤", "chinese": "夏夜", "pos": "名詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "떨림", "chinese": "顫動", "pos": "名詞" },
+    { "korean": "차갑다", "chinese": "冷的", "pos": "形容詞" },
+    { "korean": "취하다", "chinese": "醉", "pos": "動詞" },
+    { "korean": "밀려오다", "chinese": "湧來", "pos": "動詞" },
+    { "korean": "파도", "chinese": "波浪", "pos": "名詞" },
+    { "korean": "가까이", "chinese": "靠近地", "pos": "副詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "더 이상", "chinese": "再也", "pos": "副詞" },
+    { "korean": "바라다", "chinese": "盼望", "pos": "動詞" },
+    { "korean": "춥다", "chinese": "冷", "pos": "形容詞" },
+    { "korean": "덥다", "chinese": "熱", "pos": "形容詞" },
+    { "korean": "뜨다", "chinese": "升起", "pos": "動詞" },
+    { "korean": "날씨", "chinese": "天氣", "pos": "名詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "좋다", "chinese": "喜歡", "pos": "形容詞" },
+    { "korean": "톡", "chinese": "訊息", "pos": "名詞" },
+    { "korean": "지우다", "chinese": "刪除", "pos": "動詞" },
+    { "korean": "쓰다", "chinese": "寫", "pos": "動詞" },
+    { "korean": "일교차", "chinese": "日夜溫差", "pos": "名詞" },
+    { "korean": "길다", "chinese": "長的", "pos": "形容詞" },
+    { "korean": "저녁", "chinese": "傍晚、夜晚", "pos": "名詞" },
+    { "korean": "터널", "chinese": "隧道", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "일", "chinese": "事情", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "맞이하다", "chinese": "迎接", "pos": "動詞" },
+    { "korean": "준비", "chinese": "準備", "pos": "名詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "계속", "chinese": "繼續", "pos": "副詞" },
+    { "korean": "덤벙대다", "chinese": "冒失、慌張", "pos": "動詞" },
+    { "korean": "어머", "chinese": "媽媽的縮略", "pos": "名詞" },
+    { "korean": "비추다", "chinese": "照亮", "pos": "動詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "많다", "chinese": "多的", "pos": "形容詞" },
+    { "korean": "끝", "chinese": "結束、盡頭", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "늘", "chinese": "總是", "pos": "副詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "깊어지다", "chinese": "變深", "pos": "動詞" },
+    { "korean": "이브닝", "chinese": "傍晚", "pos": "名詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "예쁘다", "chinese": "漂亮的", "pos": "形容詞" },
+    { "korean": "닮다", "chinese": "像", "pos": "動詞" },
+    { "korean": "밝다", "chinese": "明亮的", "pos": "形容詞" }
+  ]
+}

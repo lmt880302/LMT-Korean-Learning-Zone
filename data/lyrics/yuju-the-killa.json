@@ -1,0 +1,474 @@
+{
+  "id": "yuju-the-killa",
+  "title": "The Killa",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "이게 아닌데 왜",
+      "translation": "不應該是這樣的 為什麼",
+      "analysis": [
+        { "point": "이게 아닌데", "explanation": "이게 (這個) + 아니다 (不是) + -ㄴ데 (轉折語尾)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "내려앉는 기분",
+      "translation": "降落的感覺",
+      "analysis": [
+        { "point": "내려앉는", "explanation": "내려앉다 (降落、坐下) 的現在定語形。" },
+        { "point": "기분", "explanation": "名詞，感覺。" }
+      ]
+    },
+    {
+      "korean": "자꾸 Up and down",
+      "translation": "不斷地上下起伏",
+      "analysis": [
+        { "point": "자꾸", "explanation": "副詞，不停地、總是。" },
+        { "point": "Up and down", "explanation": "英文，上上下下。" }
+      ]
+    },
+    {
+      "korean": "뭔가 잘못된 듯",
+      "translation": "好像哪裡出錯了",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某個東西) 的縮略。" },
+        { "point": "잘못된 듯", "explanation": "잘못되다 (出錯) 的過去定語形 + -듯 (好像)。" }
+      ]
+    },
+    {
+      "korean": "엎질러진 물이",
+      "translation": "打翻的水",
+      "analysis": [
+        { "point": "엎질러진", "explanation": "엎지르다 (打翻) 的被動形 엎질러지다 的過去定語形。" },
+        { "point": "물이", "explanation": "물 (水) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 눈물 같아 왜",
+      "translation": "像我的眼淚 為什麼",
+      "analysis": [
+        { "point": "내 눈물", "explanation": "내 (我的) + 눈물 (眼淚)。" },
+        { "point": "같아", "explanation": "같다 (像) 的非格式體。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "쏟으려고 쏟아진 게 아닌데",
+      "translation": "並不是想要潑灑而潑灑的",
+      "analysis": [
+        { "point": "쏟으려고", "explanation": "쏟다 (潑、倒) + -으려고 (為了、想要)。" },
+        { "point": "쏟아진 게", "explanation": "쏟아지다 (被潑灑) 的過去定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "아닌데", "explanation": "아니다 (不是) + -ㄴ데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "뜨겁게 번져 내 안에 (안에 안에)",
+      "translation": "熾熱地蔓延 在我內心 (內心 內心)",
+      "analysis": [
+        { "point": "뜨겁게", "explanation": "뜨겁다 (熾熱的) 的副詞形。" },
+        { "point": "번져", "explanation": "번지다 (蔓延) 的非格式體。" },
+        { "point": "내 안에", "explanation": "내 (我的) + 안 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 따갑게 느껴질까 왜",
+      "translation": "為什麼會感覺更刺痛",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "따갑게", "explanation": "따갑다 (刺痛的) 的副詞形。" },
+        { "point": "느껴질까", "explanation": "느껴지다 (被感受到) + -(으)ㄹ까 (疑問)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "(Not my way, not my way)",
+      "translation": "(不是我的方式，不是我的方式)",
+      "analysis": [
+        { "point": "Not my way, not my way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "익숙하지 않아",
+      "translation": "不熟悉",
+      "analysis": [
+        { "point": "익숙하지 않아", "explanation": "익숙하다 (熟悉的) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "몇 번을 반복해도 it's true",
+      "translation": "就算反覆幾次 這是事實",
+      "analysis": [
+        { "point": "몇 번을", "explanation": "몇 (幾) + 번 (次) + -을 (受格助詞，強調次數)。" },
+        { "point": "반복해도", "explanation": "반복하다 (反覆) + -아/어도 (即使...也)。" },
+        { "point": "it's true", "explanation": "英文，這是事實。" }
+      ]
+    },
+    {
+      "korean": "제자리만 맴도네",
+      "translation": "只在原地打轉",
+      "analysis": [
+        { "point": "제자리만", "explanation": "제자리 (原位) + -만 (只)。" },
+        { "point": "맴도네", "explanation": "맴돌다 (打轉) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "My crazy valentine",
+      "translation": "我瘋狂的情人",
+      "analysis": [
+        { "point": "My crazy valentine", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "상처만 남긴 Lover",
+      "translation": "只留下傷痕的愛人",
+      "analysis": [
+        { "point": "상처만", "explanation": "상처 (傷痕) + -만 (只)。" },
+        { "point": "남긴", "explanation": "남기다 (留下) 的過去定語形。" },
+        { "point": "Lover", "explanation": "英文，愛人。" }
+      ]
+    },
+    {
+      "korean": "짙은 향기 속에 You're my 데킬라 킬라 킬라",
+      "translation": "在濃郁的香氣中 你是我的龍舌蘭 奇拉 奇拉",
+      "analysis": [
+        { "point": "짙은 향기 속에", "explanation": "짙다 (濃的) 的定語形 + 향기 (香氣) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "You're my 데킬라 킬라 킬라", "explanation": "英文 + 데킬라 (龍舌蘭酒) 的變形。" }
+      ]
+    },
+    {
+      "korean": "삼킬수록 더 독 같은 lie lie lie lie",
+      "translation": "越吞嚥 越像毒藥的謊言",
+      "analysis": [
+        { "point": "삼킬수록", "explanation": "삼키다 (吞嚥) + -(으)ㄹ수록 (越...越)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "독 같은", "explanation": "독 (毒) + 같다 (像) 的定語形。" },
+        { "point": "lie lie lie lie", "explanation": "英文，謊言。" }
+      ]
+    },
+    {
+      "korean": "이젠 아름다운 말은 바라지 않아",
+      "translation": "現在不再期盼美麗的話語",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "아름다운 말은", "explanation": "아름답다 (美麗的) 的定語形 + 말 (話) + -은 (主題助詞)。" },
+        { "point": "바라지 않아", "explanation": "바라다 (盼望) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "My 데킬라 일라 일라",
+      "translation": "我的龍舌蘭 伊拉 伊拉",
+      "analysis": [
+        { "point": "My 데킬라 일라 일라", "explanation": "英文 + 데킬라 (龍舌蘭酒) 的變形。" }
+      ]
+    },
+    {
+      "korean": "You're the killa killa killa killa yeah",
+      "translation": "你是殺手 殺手 殺手 殺手 耶",
+      "analysis": [
+        { "point": "You're the killa killa killa killa yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "나풀거리는 꽃잎 같던 내 마음이 얼어",
+      "translation": "像飄動的花瓣般的我的心凍結了",
+      "analysis": [
+        { "point": "나풀거리는", "explanation": "나풀거리다 (輕輕飄動) 的現在定語形。" },
+        { "point": "꽃잎 같던", "explanation": "꽃잎 (花瓣) + 같다 (像) 的過去回想着定語形。" },
+        { "point": "내 마음이", "explanation": "내 (我的) + 마음 (心) + -이 (主格助詞)。" },
+        { "point": "얼어", "explanation": "얼다 (凍結) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너를 만나 더 더 굳어버리지",
+      "translation": "遇見你 變得更加僵硬",
+      "analysis": [
+        { "point": "너를 만나", "explanation": "너를 (你) + 만나다 (遇見) 的非格式體。" },
+        { "point": "더 더", "explanation": "副詞，更更。" },
+        { "point": "굳어버리지", "explanation": "굳다 (變硬) + -아/어 버리다 (完了) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "네 모난 기억 모두 꺼내어",
+      "translation": "把你尖銳的記憶全都拿出來",
+      "analysis": [
+        { "point": "네", "explanation": "너의 (你的) 的縮略。" },
+        { "point": "모난", "explanation": "모나다 (有稜角的、尖銳的) 的定語形。" },
+        { "point": "기억 모두", "explanation": "기억 (記憶) + 모두 (全部)。" },
+        { "point": "꺼내어", "explanation": "꺼내다 (拿出) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "더욱 쓴맛으로 다 덮어버릴게 yeah",
+      "translation": "會用更苦的味道全部覆蓋掉 耶",
+      "analysis": [
+        { "point": "더욱", "explanation": "副詞，更加。" },
+        { "point": "쓴맛으로", "explanation": "쓴맛 (苦味) + -(으)로 (用)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "덮어버릴게", "explanation": "덮다 (覆蓋) + -아/어 버리다 (完了) + -(으)ㄹ게 (表示意志)。" },
+        { "point": "yeah", "explanation": "英文，耶。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "차갑게 넘겨 내 안에 (안에 안에)",
+      "translation": "冰冷地翻過 在我內心 (內心 內心)",
+      "analysis": [
+        { "point": "차갑게", "explanation": "차갑다 (冷的) 的副詞形。" },
+        { "point": "넘겨", "explanation": "넘기다 (翻過、越過) 的非格式體。" },
+        { "point": "내 안에", "explanation": "내 (我的) + 안 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 따갑게 느껴질까 왜",
+      "translation": "為什麼會感覺更刺痛",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "따갑게", "explanation": "따갑다 (刺痛的) 的副詞形。" },
+        { "point": "느껴질까", "explanation": "느껴지다 (被感受到) + -(으)ㄹ까 (疑問)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "(Not my way, not my way)",
+      "translation": "(不是我的方式，不是我的方式)",
+      "analysis": [
+        { "point": "Not my way, not my way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "반복하지 않아",
+      "translation": "不反覆",
+      "analysis": [
+        { "point": "반복하지 않아", "explanation": "반복하다 (反覆) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "몇 번을 돌이켜도 it's true",
+      "translation": "就算回顧幾次 這是事實",
+      "analysis": [
+        { "point": "몇 번을", "explanation": "몇 (幾) + 번 (次) + -을 (受格助詞，強調次數)。" },
+        { "point": "돌이켜도", "explanation": "돌이키다 (回顧) + -아/어도 (即使...也)。" },
+        { "point": "it's true", "explanation": "英文，這是事實。" }
+      ]
+    },
+    {
+      "korean": "네게 벗어나려 해",
+      "translation": "試圖從你身邊逃脫",
+      "analysis": [
+        { "point": "네게", "explanation": "너에게 (從你) 的縮略。" },
+        { "point": "벗어나려 해", "explanation": "벗어나다 (逃脫) + -려 하다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "My crazy valentine",
+      "translation": "我瘋狂的情人",
+      "analysis": [
+        { "point": "My crazy valentine", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "희미해진 My lover",
+      "translation": "變得模糊的我的愛人",
+      "analysis": [
+        { "point": "희미해진", "explanation": "희미하다 (模糊的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "My lover", "explanation": "英文，我的愛人。" }
+      ]
+    },
+    {
+      "korean": "짙은 향기 속에 You're my 데킬라 킬라 킬라",
+      "translation": "在濃郁的香氣中 你是我的龍舌蘭 奇拉 奇拉",
+      "analysis": [
+        { "point": "짙은 향기 속에", "explanation": "짙다 (濃的) 的定語形 + 향기 (香氣) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "You're my 데킬라 킬라 킬라", "explanation": "英文 + 데킬라 (龍舌蘭酒) 的變形。" }
+      ]
+    },
+    {
+      "korean": "삼킬수록 더 독 같은 lie lie lie lie",
+      "translation": "越吞嚥 越像毒藥的謊言",
+      "analysis": [
+        { "point": "삼킬수록", "explanation": "삼키다 (吞嚥) + -(으)ㄹ수록 (越...越)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "독 같은", "explanation": "독 (毒) + 같다 (像) 的定語形。" },
+        { "point": "lie lie lie lie", "explanation": "英文，謊言。" }
+      ]
+    },
+    {
+      "korean": "이젠 아름다운 말은 바라지 않아",
+      "translation": "現在不再期盼美麗的話語",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "아름다운 말은", "explanation": "아름답다 (美麗的) 的定語形 + 말 (話) + -은 (主題助詞)。" },
+        { "point": "바라지 않아", "explanation": "바라다 (盼望) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "My 데킬라 일라 일라",
+      "translation": "我的龍舌蘭 伊拉 伊拉",
+      "analysis": [
+        { "point": "My 데킬라 일라 일라", "explanation": "英文 + 데킬라 (龍舌蘭酒) 的變形。" }
+      ]
+    },
+    {
+      "korean": "You're the killa killa killa killa",
+      "translation": "你是殺手 殺手 殺手 殺手",
+      "analysis": [
+        { "point": "You're the killa killa killa killa", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "차디찬 이 새벽의 공기가",
+      "translation": "冰冷的這凌晨的空氣",
+      "analysis": [
+        { "point": "차디찬", "explanation": "차디차다 (冰冷的) 的定語形。" },
+        { "point": "이 새벽의", "explanation": "이 (這) + 새벽 (凌晨) + -의 (的)。" },
+        { "point": "공기가", "explanation": "공기 (空氣) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "쓸쓸한 이 밤에 감겨오네",
+      "translation": "在這淒涼的夜晚 纏繞而來",
+      "analysis": [
+        { "point": "쓸쓸한", "explanation": "쓸쓸하다 (淒涼的) 的定語形。" },
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (場所助詞)。" },
+        { "point": "감겨오네", "explanation": "감기다 (被纏繞) + -아/어 오다 (來) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "짙은 향기 속에 You're my 데킬라 킬라 킬라",
+      "translation": "在濃郁的香氣中 你是我的龍舌蘭 奇拉 奇拉",
+      "analysis": [
+        { "point": "짙은 향기 속에", "explanation": "짙다 (濃的) 的定語形 + 향기 (香氣) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "You're my 데킬라 킬라 킬라", "explanation": "英文 + 데킬라 (龍舌蘭酒) 的變形。" }
+      ]
+    },
+    {
+      "korean": "삼킬수록 더 독 같아",
+      "translation": "越吞嚥 越像毒藥",
+      "analysis": [
+        { "point": "삼킬수록", "explanation": "삼키다 (吞嚥) + -(으)ㄹ수록 (越...越)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "독 같아", "explanation": "독 (毒) + 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이젠 아름다운 말은 바라지 않아",
+      "translation": "現在不再期盼美麗的話語",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "아름다운 말은", "explanation": "아름답다 (美麗的) 的定語形 + 말 (話) + -은 (主題助詞)。" },
+        { "point": "바라지 않아", "explanation": "바라다 (盼望) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "My 데킬라 일라 일라",
+      "translation": "我的龍舌蘭 伊拉 伊拉",
+      "analysis": [
+        { "point": "My 데킬라 일라 일라", "explanation": "英文 + 데킬라 (龍舌蘭酒) 的變形。" }
+      ]
+    },
+    {
+      "korean": "You're the killa killa killa killa",
+      "translation": "你是殺手 殺手 殺手 殺手",
+      "analysis": [
+        { "point": "You're the killa killa killa killa", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "(Dear my Valentine Dear my Lover)",
+      "translation": "(親愛的情人 親愛的愛人)",
+      "analysis": [
+        { "point": "Dear my Valentine Dear my Lover", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "(Dear my Valentine Dear my)",
+      "translation": "(親愛的情人 親愛的)",
+      "analysis": [
+        { "point": "Dear my Valentine Dear my", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "(Dear my Valentine Dear my Lover)",
+      "translation": "(親愛的情人 親愛的愛人)",
+      "analysis": [
+        { "point": "Dear my Valentine Dear my Lover", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "(Dear my Valentine Dear my Killa killa killa killa yeah)",
+      "translation": "(親愛的情人 親愛的 殺手 殺手 殺手 殺手 耶)",
+      "analysis": [
+        { "point": "Dear my Valentine Dear my Killa killa killa killa yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "이게", "chinese": "這個", "pos": "代名詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "왜", "chinese": "為什麼", "pos": "副詞" },
+    { "korean": "내려앉다", "chinese": "降落、坐下", "pos": "動詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "자꾸", "chinese": "不停地、總是", "pos": "副詞" },
+    { "korean": "뭔가", "chinese": "某個東西", "pos": "代名詞" },
+    { "korean": "잘못되다", "chinese": "出錯", "pos": "動詞" },
+    { "korean": "엎지르다", "chinese": "打翻", "pos": "動詞" },
+    { "korean": "물", "chinese": "水", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "쏟다", "chinese": "潑、倒", "pos": "動詞" },
+    { "korean": "쏟아지다", "chinese": "被潑灑", "pos": "動詞" },
+    { "korean": "뜨겁다", "chinese": "熾熱的", "pos": "形容詞" },
+    { "korean": "번지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "안", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "따갑다", "chinese": "刺痛的", "pos": "形容詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "몇", "chinese": "幾", "pos": "數詞" },
+    { "korean": "번", "chinese": "次", "pos": "名詞" },
+    { "korean": "반복하다", "chinese": "反覆", "pos": "動詞" },
+    { "korean": "제자리", "chinese": "原位", "pos": "名詞" },
+    { "korean": "맴돌다", "chinese": "打轉", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷痕", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "짙다", "chinese": "濃的", "pos": "形容詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "데킬라", "chinese": "龍舌蘭酒", "pos": "名詞" },
+    { "korean": "삼키다", "chinese": "吞嚥", "pos": "動詞" },
+    { "korean": "독", "chinese": "毒", "pos": "名詞" },
+    { "korean": "이젠", "chinese": "現在", "pos": "副詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "바라다", "chinese": "盼望", "pos": "動詞" },
+    { "korean": "나풀거리다", "chinese": "輕輕飄動", "pos": "動詞" },
+    { "korean": "꽃잎", "chinese": "花瓣", "pos": "名詞" },
+    { "korean": "얼다", "chinese": "凍結", "pos": "動詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "굳다", "chinese": "變硬", "pos": "動詞" },
+    { "korean": "모나다", "chinese": "有稜角的、尖銳的", "pos": "形容詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "모두", "chinese": "全部", "pos": "副詞" },
+    { "korean": "꺼내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "더욱", "chinese": "更加", "pos": "副詞" },
+    { "korean": "쓴맛", "chinese": "苦味", "pos": "名詞" },
+    { "korean": "덮다", "chinese": "覆蓋", "pos": "動詞" },
+    { "korean": "차갑다", "chinese": "冷的", "pos": "形容詞" },
+    { "korean": "넘기다", "chinese": "翻過、越過", "pos": "動詞" },
+    { "korean": "돌이키다", "chinese": "回顧", "pos": "動詞" },
+    { "korean": "벗어나다", "chinese": "逃脫", "pos": "動詞" },
+    { "korean": "희미하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "차디차다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "새벽", "chinese": "凌晨", "pos": "名詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "쓸쓸하다", "chinese": "淒涼的", "pos": "形容詞" },
+    { "korean": "감기다", "chinese": "被纏繞", "pos": "動詞" }
+  ]
+}

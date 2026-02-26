@@ -1,5 +1,41 @@
 [
   {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "yuju-full-circle",
+    "title": "Full Circle",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-full-circle.json"
+  },
+  {
+    "id": "yuju-moonstruck-love",
+    "title": "Moonstruck Love",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-moonstruck-love.json"
+  },
+  {
+    "id": "yuju-without-u",
+    "title": "Without U",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-without-u.json"
+  },
+  {
+    "id": "yuju-the-killa",
+    "title": "The Killa",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-the-killa.json"
+  },
+  {
+    "id": "yuju-evening",
+    "title": "Evening (이브닝)",
+    "artist": "YUJU (유주) (Feat. BIG Naughty)",
+    "lyricsFile": "../data/lyrics/yuju-evening.json"
+  },
+  {
     "id": "yuju-bad-blood",
     "title": "Bad Blood",
     "artist": "YUJU (유주)",
@@ -14,7 +50,7 @@
     {
     "id": "yuju-no-matter",
     "title": "No Matter",
-    "artist": "YUJU (유주)",
+    "artist": "YUJU (유주) (Feat. GEMINI)",
     "lyricsFile": "../data/lyrics/yuju-no-matter.json"
   }, 
   {
@@ -32,7 +68,7 @@
   {
     "id": "yuju-accidental-spring",
     "title": "우연히 봄",
-    "artist": "YUJU (유주)",
+    "artist": "YUJU (유주) (Feat. LOCO)",
     "lyricsFile": "../data/lyrics/yuju-accidental-spring.json"
   },      
   {
@@ -113,10 +149,58 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Crossroads.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "GFRIEND-MAGO",
+    "title": "MAGO",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-MAGO.json"
+  },
+  {
+    "id": "GFRIEND-Time for the moon night",
+    "title": "Time for the moon night (밤)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Time for the moon night.json"
+  },
+  {
+    "id": "GFRIEND-Season of Memories",
+    "title": "Season of Memories",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Season of Memories.json"
+  },
+  {
+    "id": "GFRIEND-RAINBOW",
+    "title": "RAINBOW",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-RAINBOW.json"
+  },
+  {
+    "id": "GFRIEND-Fever",
+    "title": "Fever (열대야)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Fever.json"
+  },
+  {
+    "id": "GFRIEND-Eclipse",
+    "title": "Eclipse (지금 만나러 갑니다)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Eclipse.json"
+  },
+  {
+    "id": "GFRIEND-ONE-HALF",
+    "title": "ONE-HALF (이분의 일 1/2)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-ONE-HALF.json"
+  },
+  {
+    "id": "GFRIEND-FLOWER",
+    "title": "FLOWER (Korean Ver.)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-FLOWER.json"
+  },
+  {
+    "id": "GFRIEND-Apple",
+    "title": "Apple",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Apple.json"
   },
   {
     "id": "_____",
@@ -124,43 +208,6 @@
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
   },
-  {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },
-  {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },
-  {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },
-  {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },
-  {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },
-  {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },
-
 
 
   {

@@ -1,0 +1,442 @@
+{
+  "id": "GFRIEND-ONE-HALF",
+  "title": "ONE-HALF (이분의 일 1/2)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "마주친 순간 힘이 풀려",
+      "translation": "對視的瞬間 力氣就鬆開了",
+      "analysis": [
+        { "point": "마주친 순간", "explanation": "마주치다 (相遇、對視) 的冠詞形 + 순간 (瞬間)。" },
+        { "point": "힘이 풀려", "explanation": "힘 (力氣) + -이 (主格助詞) + 풀리다 (被解開) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아이처럼 말도 못하게 되고",
+      "translation": "像孩子一樣 連話都說不出來了",
+      "analysis": [
+        { "point": "아이처럼", "explanation": "아이 (孩子) + -처럼 (像...一樣)。" },
+        { "point": "말도 못하게 되고", "explanation": "말 (話) + -도 (也) + 못 하다 (不能) + -게 되다 (變得) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "뭔가 빠져나간 것 같아",
+      "translation": "好像有什麼東西跑出去了",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某個東西) 的縮略。" },
+        { "point": "빠져나간 것 같아", "explanation": "빠져나가다 (溜走、跑出) 的冠詞形 + 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어떡해 머리가 핑 돌아",
+      "translation": "怎麼辦 頭暈目眩",
+      "analysis": [
+        { "point": "어떡해", "explanation": "어떻게 해 (怎麼辦) 的縮略。" },
+        { "point": "머리가", "explanation": "머리 (頭) + -가 (主格助詞)。" },
+        { "point": "핑 돌아", "explanation": "핑 (擬聲/擬態詞，暈眩的樣子) + 돌다 (轉) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "찾던 이분의 일인가봐",
+      "translation": "看來是正在尋找的二分之一",
+      "analysis": [
+        { "point": "찾던", "explanation": "찾다 (找) 的過去冠詞形。" },
+        { "point": "이분의 일인가봐", "explanation": "이분의 일 (二分之一) + -인가 보다 (看來是)。" }
+      ]
+    },
+    {
+      "korean": "생각만 해도",
+      "translation": "只要想想",
+      "analysis": [
+        { "point": "생각만 해도", "explanation": "생각 (想法) + -만 (只) + 하다 (做) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "웃음 짓고 멍하게 돼",
+      "translation": "就會露出微笑 變得發呆",
+      "analysis": [
+        { "point": "웃음 짓고", "explanation": "웃음 (微笑) + 짓다 (做出) + -고 (連接詞尾)。" },
+        { "point": "멍하게 돼", "explanation": "멍하다 (發呆的) + -게 (副詞形) + 되다 (變得) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어른이 된 느낌",
+      "translation": "成為大人的感覺",
+      "analysis": [
+        { "point": "어른이 된", "explanation": "어른 (大人) + -이 되다 (成為) 的冠詞形。" },
+        { "point": "느낌", "explanation": "名詞，感覺。" }
+      ]
+    },
+    {
+      "korean": "내가 아닌 느낌",
+      "translation": "不是我的感覺",
+      "analysis": [
+        { "point": "내가 아닌", "explanation": "내가 (我) + 아니다 (不是) 的冠詞形。" },
+        { "point": "느낌", "explanation": "名詞，感覺。" }
+      ]
+    },
+    {
+      "korean": "비밀스럽게 스르르",
+      "translation": "祕密地 輕輕地",
+      "analysis": [
+        { "point": "비밀스럽게", "explanation": "비밀스럽다 (祕密的) + -게 (副詞形語尾)。" },
+        { "point": "스르르", "explanation": "擬態詞，輕輕地、悄悄地。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나도 모르던 내 반쪽 때문에",
+      "translation": "因為連我也不知道的我的另一半",
+      "analysis": [
+        { "point": "나도 모르던", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) 的過去冠詞形。" },
+        { "point": "내 반쪽", "explanation": "내 (我的) + 반쪽 (一半、另一半)。" },
+        { "point": "때문에", "explanation": "因為。" }
+      ]
+    },
+    {
+      "korean": "너에게로 끌려 가고 있나 봐",
+      "translation": "看來正被你吸引而去",
+      "analysis": [
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" },
+        { "point": "끌려 가고 있나 봐", "explanation": "끌리다 (被吸引) + -아/어 가다 (去) + -고 있다 (正在) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "안 봐도 우린",
+      "translation": "即使不看 我們",
+      "analysis": [
+        { "point": "안 봐도", "explanation": "안 (不) + 보다 (看) + -아/어도 (即使)。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "서로의 이분의 일이야 그런가 봐",
+      "translation": "是彼此的二分之一啊 看來是那樣",
+      "analysis": [
+        { "point": "서로의", "explanation": "서로 (彼此) + -의 (的)。" },
+        { "point": "이분의 일이야", "explanation": "이분의 일 (二分之一) + -이야 (是)。" },
+        { "point": "그런가 봐", "explanation": "그렇다 (那樣) + -ㄴ가 보다 (看來是)。" }
+      ]
+    },
+    {
+      "korean": "니가 가져간 내 반쪽 때문에",
+      "translation": "因為你帶走我的另一半",
+      "analysis": [
+        { "point": "니가", "explanation": "너 (你) + -가 (主格助詞) 的口語。" },
+        { "point": "가져간", "explanation": "가져가다 (帶走) 的冠詞形。" },
+        { "point": "내 반쪽", "explanation": "내 (我的) + 반쪽 (一半、另一半)。" },
+        { "point": "때문에", "explanation": "因為。" }
+      ]
+    },
+    {
+      "korean": "알면 더 알수록 닮아있나 봐",
+      "translation": "越了解 就越是相似",
+      "analysis": [
+        { "point": "알면", "explanation": "알다 (知道) + -(으)면 (如果)。" },
+        { "point": "더 알수록", "explanation": "더 (更) + 알다 (知道) + -(으)ㄹ수록 (越...越...)。" },
+        { "point": "닮아있나 봐", "explanation": "닮아 있다 (相似) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "어쩌면 우린 서로의 마음에",
+      "translation": "也許我們在彼此的心裡",
+      "analysis": [
+        { "point": "어쩌면", "explanation": "副詞，也許。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "서로의 마음에", "explanation": "서로 (彼此) + -의 (的) + 마음 (心) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "하나가 되어 가나 봐",
+      "translation": "看來正逐漸成為一體",
+      "analysis": [
+        { "point": "하나가 되어", "explanation": "하나 (一) + -가 되다 (成為) + -아/어 (連接)。" },
+        { "point": "가나 봐", "explanation": "가다 (去，表示持續) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "서로 끌어 당기는 걸까",
+      "translation": "是彼此在吸引著嗎",
+      "analysis": [
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "끌어 당기는 걸까", "explanation": "끌어당기다 (拉、吸引) 的冠詞形 + -걸까 (疑問，不確定的事實)。" }
+      ]
+    },
+    {
+      "korean": "너도 나와 똑같은 기분일 걸",
+      "translation": "你也和我有同樣的感覺吧",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "나와", "explanation": "나 (我) + -와 (和)。" },
+        { "point": "똑같은", "explanation": "똑같다 (一模一樣的) 的冠詞形。" },
+        { "point": "기분일 걸", "explanation": "기분 (心情) + -일 걸 (推測，應該是)。" }
+      ]
+    },
+    {
+      "korean": "뭔가 설명할 수 없지만",
+      "translation": "雖然無法說明什麼",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某個東西) 的縮略。" },
+        { "point": "설명할 수 없지만", "explanation": "설명하다 (說明) + -(으)ㄹ 수 없다 (無法) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "기분이 나쁘지는 않아",
+      "translation": "心情並不壞",
+      "analysis": [
+        { "point": "기분이", "explanation": "기분 (心情) + -이 (主格助詞)。" },
+        { "point": "나쁘지는 않아", "explanation": "나쁘다 (壞的) + -지는 않다 (並不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너의 반이 아니었나 봐",
+      "translation": "看來不是你的另一半",
+      "analysis": [
+        { "point": "너의 반이", "explanation": "너의 (你的) + 반 (半) + -이 (主格助詞)。" },
+        { "point": "아니었나 봐", "explanation": "아니다 (不是) 的過去推測形 + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "24시간 전부가 다 좋았나 봐",
+      "translation": "看來24小時全部都是好的",
+      "analysis": [
+        { "point": "24시간", "explanation": "24小時。" },
+        { "point": "전부가", "explanation": "전부 (全部) + -가 (主格助詞)。" },
+        { "point": "다 좋았나 봐", "explanation": "다 (全部) + 좋다 (好) 的過去推測形 + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나누려고 해도",
+      "translation": "即使想分開",
+      "analysis": [
+        { "point": "나누려고 해도", "explanation": "나누다 (分開、分享) + -려고 하다 (想要) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "나눌 수가 없어",
+      "translation": "無法分開",
+      "analysis": [
+        { "point": "나눌 수가 없어", "explanation": "나누다 (分開) + -(으)ㄹ 수 있다 (能夠) 的否定形 + -가 (強調) + 없다 (沒有) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "자연스럽게 스르르",
+      "translation": "自然地 輕輕地",
+      "analysis": [
+        { "point": "자연스럽게", "explanation": "자연스럽다 (自然的) + -게 (副詞形語尾)。" },
+        { "point": "스르르", "explanation": "擬態詞，輕輕地、悄悄地。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나도 모르던 내 반쪽 때문에",
+      "translation": "因為連我也不知道的我的另一半",
+      "analysis": [
+        { "point": "나도 모르던", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) 的過去冠詞形。" },
+        { "point": "내 반쪽", "explanation": "내 (我的) + 반쪽 (一半、另一半)。" },
+        { "point": "때문에", "explanation": "因為。" }
+      ]
+    },
+    {
+      "korean": "너에게로 끌려 가고 있나 봐",
+      "translation": "看來正被你吸引而去",
+      "analysis": [
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" },
+        { "point": "끌려 가고 있나 봐", "explanation": "끌리다 (被吸引) + -아/어 가다 (去) + -고 있다 (正在) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "안 봐도 우린",
+      "translation": "即使不看 我們",
+      "analysis": [
+        { "point": "안 봐도", "explanation": "안 (不) + 보다 (看) + -아/어도 (即使)。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "서로의 이분의 일이야 그런가 봐",
+      "translation": "是彼此的二分之一啊 看來是那樣",
+      "analysis": [
+        { "point": "서로의", "explanation": "서로 (彼此) + -의 (的)。" },
+        { "point": "이분의 일이야", "explanation": "이분의 일 (二分之一) + -이야 (是)。" },
+        { "point": "그런가 봐", "explanation": "그렇다 (那樣) + -ㄴ가 보다 (看來是)。" }
+      ]
+    },
+    {
+      "korean": "니가 가져간 내 반쪽 때문에",
+      "translation": "因為你帶走我的另一半",
+      "analysis": [
+        { "point": "니가", "explanation": "너 (你) + -가 (主格助詞) 的口語。" },
+        { "point": "가져간", "explanation": "가져가다 (帶走) 的冠詞形。" },
+        { "point": "내 반쪽", "explanation": "내 (我的) + 반쪽 (一半、另一半)。" },
+        { "point": "때문에", "explanation": "因為。" }
+      ]
+    },
+    {
+      "korean": "알면 더 알수록 닮아있나 봐",
+      "translation": "越了解 就越是相似",
+      "analysis": [
+        { "point": "알면", "explanation": "알다 (知道) + -(으)면 (如果)。" },
+        { "point": "더 알수록", "explanation": "더 (更) + 알다 (知道) + -(으)ㄹ수록 (越...越...)。" },
+        { "point": "닮아있나 봐", "explanation": "닮아 있다 (相似) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "어쩌면 우린 서로의 마음에",
+      "translation": "也許我們在彼此的心裡",
+      "analysis": [
+        { "point": "어쩌면", "explanation": "副詞，也許。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "서로의 마음에", "explanation": "서로 (彼此) + -의 (的) + 마음 (心) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "하나가 되어 가나 봐",
+      "translation": "看來正逐漸成為一體",
+      "analysis": [
+        { "point": "하나가 되어", "explanation": "하나 (一) + -가 되다 (成為) + -아/어 (連接)。" },
+        { "point": "가나 봐", "explanation": "가다 (去，表示持續) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "더 이상 숨길 수가 없는걸",
+      "translation": "再也無法隱藏了",
+      "analysis": [
+        { "point": "더 이상", "explanation": "더 (更) + 이상 (以上)，表示「再也」。固定用法。" },
+        { "point": "숨길 수가 없는걸", "explanation": "숨기다 (隱藏) + -(으)ㄹ 수 있다 (能夠) 的否定形 + -가 (強調) + 없다 (沒有) + -ㄴ걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 우리 둘",
+      "translation": "我的心 我們倆",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "우리 둘", "explanation": "우리 (我們) + 둘 (兩)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "너의 맘 나의 맘 반쪽이 모여",
+      "translation": "你的心 我的心 一半聚集",
+      "analysis": [
+        { "point": "너의 맘", "explanation": "너의 (你的) + 마음 (心) 的縮略。" },
+        { "point": "나의 맘", "explanation": "나의 (我的) + 마음 (心) 的縮略。" },
+        { "point": "반쪽이", "explanation": "반쪽 (一半) + -이 (主格助詞)。" },
+        { "point": "모여", "explanation": "모이다 (聚集) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "하나가 되기를 바래왔는걸",
+      "translation": "一直希望成為一體",
+      "analysis": [
+        { "point": "하나가 되기를", "explanation": "하나 (一) + -가 되다 (成為) + -기를 (名詞化，表示希望)。" },
+        { "point": "바래왔는걸", "explanation": "바라다 (希望) + -아/어 오다 (持續) 的過去式 + -는걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "korean": "안 봐도 우린",
+      "translation": "即使不看 我們",
+      "analysis": [
+        { "point": "안 봐도", "explanation": "안 (不) + 보다 (看) + -아/어도 (即使)。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "서로의 이분의 일이야 그런가 봐",
+      "translation": "是彼此的二分之一啊 看來是那樣",
+      "analysis": [
+        { "point": "서로의", "explanation": "서로 (彼此) + -의 (的)。" },
+        { "point": "이분의 일이야", "explanation": "이분의 일 (二分之一) + -이야 (是)。" },
+        { "point": "그런가 봐", "explanation": "그렇다 (那樣) + -ㄴ가 보다 (看來是)。" }
+      ]
+    },
+    {
+      "korean": "니가 가져간 내 반쪽 때문에",
+      "translation": "因為你帶走我的另一半",
+      "analysis": [
+        { "point": "니가", "explanation": "너 (你) + -가 (主格助詞) 的口語。" },
+        { "point": "가져간", "explanation": "가져가다 (帶走) 的冠詞形。" },
+        { "point": "내 반쪽", "explanation": "내 (我的) + 반쪽 (一半、另一半)。" },
+        { "point": "때문에", "explanation": "因為。" }
+      ]
+    },
+    {
+      "korean": "알면 더 알수록 닮아있나 봐",
+      "translation": "越了解 就越是相似",
+      "analysis": [
+        { "point": "알면", "explanation": "알다 (知道) + -(으)면 (如果)。" },
+        { "point": "더 알수록", "explanation": "더 (更) + 알다 (知道) + -(으)ㄹ수록 (越...越...)。" },
+        { "point": "닮아있나 봐", "explanation": "닮아 있다 (相似) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "어쩌면 우린 서로의 마음에",
+      "translation": "也許我們在彼此的心裡",
+      "analysis": [
+        { "point": "어쩌면", "explanation": "副詞，也許。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "서로의 마음에", "explanation": "서로 (彼此) + -의 (的) + 마음 (心) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "하나가 되어 가나 봐",
+      "translation": "看來正逐漸成為一體",
+      "analysis": [
+        { "point": "하나가 되어", "explanation": "하나 (一) + -가 되다 (成為) + -아/어 (連接)。" },
+        { "point": "가나 봐", "explanation": "가다 (去，表示持續) + -나 보다 (看來好像)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "마주치다", "chinese": "相遇、對視", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "힘", "chinese": "力氣", "pos": "名詞" },
+    { "korean": "풀리다", "chinese": "被解開", "pos": "動詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "뭔가", "chinese": "某個東西", "pos": "代名詞" },
+    { "korean": "빠져나가다", "chinese": "溜走、跑出", "pos": "動詞" },
+    { "korean": "머리", "chinese": "頭", "pos": "名詞" },
+    { "korean": "핑", "chinese": "暈眩的樣子", "pos": "擬態詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "이분의 일", "chinese": "二分之一", "pos": "名詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "웃음", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做出", "pos": "動詞" },
+    { "korean": "멍하다", "chinese": "發呆的", "pos": "形容詞" },
+    { "korean": "어른", "chinese": "大人", "pos": "名詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "비밀스럽다", "chinese": "祕密的", "pos": "形容詞" },
+    { "korean": "스르르", "chinese": "輕輕地", "pos": "擬態詞" },
+    { "korean": "반쪽", "chinese": "一半、另一半", "pos": "名詞" },
+    { "korean": "때문에", "chinese": "因為", "pos": "助詞" },
+    { "korean": "끌리다", "chinese": "被吸引", "pos": "動詞" },
+    { "korean": "가져가다", "chinese": "帶走", "pos": "動詞" },
+    { "korean": "닮아 있다", "chinese": "相似", "pos": "形容詞" },
+    { "korean": "어쩌면", "chinese": "也許", "pos": "副詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "副詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "하나", "chinese": "一", "pos": "數詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "끌어당기다", "chinese": "拉、吸引", "pos": "動詞" },
+    { "korean": "똑같다", "chinese": "一模一樣的", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "心情", "pos": "名詞" },
+    { "korean": "설명하다", "chinese": "說明", "pos": "動詞" },
+    { "korean": "나쁘다", "chinese": "壞的", "pos": "形容詞" },
+    { "korean": "반", "chinese": "半", "pos": "名詞" },
+    { "korean": "24시간", "chinese": "24小時", "pos": "名詞" },
+    { "korean": "전부", "chinese": "全部", "pos": "名詞" },
+    { "korean": "좋다", "chinese": "好的", "pos": "形容詞" },
+    { "korean": "나누다", "chinese": "分開、分享", "pos": "動詞" },
+    { "korean": "자연스럽다", "chinese": "自然的", "pos": "形容詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "둘", "chinese": "二、倆", "pos": "數詞" },
+    { "korean": "모이다", "chinese": "聚集", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" }
+  ]
+}

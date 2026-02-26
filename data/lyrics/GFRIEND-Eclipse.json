@@ -1,0 +1,526 @@
+{
+  "id": "GFRIEND-Eclipse",
+  "title": "Eclipse (지금 만나러 갑니다)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "가고 있어 널 만나러",
+      "translation": "正在去見你的路上",
+      "analysis": [
+        { "point": "가고 있어", "explanation": "가다 (去) + -고 있다 (正在進行)。" },
+        { "point": "널 만나러", "explanation": "너를 (你) 的縮略 + 만나다 (見面) + -(으)러 (表示目的)。" }
+      ]
+    },
+    {
+      "korean": "지금이 아니면 안 될 것 같아",
+      "translation": "好像不是現在就不行",
+      "analysis": [
+        { "point": "지금이", "explanation": "지금 (現在) + -이 (主格助詞)。" },
+        { "point": "아니면", "explanation": "아니다 (不是) + -(으)면 (如果)。" },
+        { "point": "안 될 것 같아", "explanation": "안 되다 (不行) + -(으)ㄹ 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다 온 것 같아 조금만 기다려 줘",
+      "translation": "好像快到了 再等我一下",
+      "analysis": [
+        { "point": "다 온 것 같아", "explanation": "다 (全部) + 오다 (來) 的冠詞形 + 것 같다 (好像) 的非格式體。" },
+        { "point": "조금만", "explanation": "조금 (一點) + -만 (只)。" },
+        { "point": "기다려 줘", "explanation": "기다리다 (等待) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "내가 갈게",
+      "translation": "我會去的",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "갈게", "explanation": "가다 (去) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "요즘 들어 많이 이상해 난",
+      "translation": "最近變得很奇怪 我",
+      "analysis": [
+        { "point": "요즘 들어", "explanation": "요즘 (最近) + 들다 (進入) + -아/어，表示「近來」。固定用法。" },
+        { "point": "많이", "explanation": "副詞，很多地。" },
+        { "point": "이상해", "explanation": "이상하다 (奇怪的) 的非格式體。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네 생각들로 눈물이 나",
+      "translation": "因為對你的思念而流淚",
+      "analysis": [
+        { "point": "네 생각들로", "explanation": "네 (你的) + 생각 (思念) + -들 (複數) + -(으)로 (因為)。" },
+        { "point": "눈물이 나", "explanation": "눈물 (眼淚) + -이 나다 (流出) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "네게 뱉은 날 선 말들이",
+      "translation": "對你吐出的尖銳話語",
+      "analysis": [
+        { "point": "네게", "explanation": "너 (你) + -에게 (給/向) 的縮略。" },
+        { "point": "뱉은", "explanation": "뱉다 (吐) 的冠詞形。" },
+        { "point": "날 선", "explanation": "날카롭다 (尖銳的) 的縮略형，表示「尖銳的」。固定用法。" },
+        { "point": "말들이", "explanation": "말 (話) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "오히려 날 향해 돌아오나 봐",
+      "translation": "反而像是朝我返回來",
+      "analysis": [
+        { "point": "오히려", "explanation": "副詞，反而。" },
+        { "point": "날 향해", "explanation": "나를 (我) 的縮略 + 향하다 (面向) 的縮略。" },
+        { "point": "돌아오나 봐", "explanation": "돌아오다 (回來) + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "편해진 감정들이",
+      "translation": "變得舒適的感情們",
+      "analysis": [
+        { "point": "편해진", "explanation": "편해지다 (變得舒適) 的冠詞形。" },
+        { "point": "감정들이", "explanation": "감정 (感情) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "짓궂게 심술부려",
+      "translation": "調皮地使壞",
+      "analysis": [
+        { "point": "짓궂게", "explanation": "짓궂다 (調皮的、惡作劇的) + -게 (副詞形語尾)。" },
+        { "point": "심술부려", "explanation": "심술부리다 (使壞、耍脾氣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 데려가",
+      "translation": "帶走你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "데려가", "explanation": "데려가다 (帶走) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너무 늦지 않게 네게 말할게",
+      "translation": "不會太晚 會對你說",
+      "analysis": [
+        { "point": "너무 늦지 않게", "explanation": "너무 (太) + 늦다 (晚) + -지 않다 (否定) + -게 (使得)。" },
+        { "point": "네게", "explanation": "너 (你) + -에게 (給/向) 的縮略。" },
+        { "point": "말할게", "explanation": "말하다 (說) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "미안해 지금 어디야 할 말이 있어",
+      "translation": "對不起 現在在哪裡 有話要說",
+      "analysis": [
+        { "point": "미안해", "explanation": "미안하다 (對不起) 的非格式體。" },
+        { "point": "지금", "explanation": "現在。" },
+        { "point": "어디야", "explanation": "어디 (哪裡) + -야 (疑問)。" },
+        { "point": "할 말이 있어", "explanation": "하다 (說) + -(으)ㄹ 말 (話) + -이 있다 (有) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "가고 있어 널 만나러",
+      "translation": "正在去見你的路上",
+      "analysis": [
+        { "point": "가고 있어", "explanation": "가다 (去) + -고 있다 (正在進行)。" },
+        { "point": "널 만나러", "explanation": "너를 (你) 的縮略 + 만나다 (見面) + -(으)러 (表示目的)。" }
+      ]
+    },
+    {
+      "korean": "지금이 아니면 안 될 것 같아",
+      "translation": "好像不是現在就不行",
+      "analysis": [
+        { "point": "지금이", "explanation": "지금 (現在) + -이 (主格助詞)。" },
+        { "point": "아니면", "explanation": "아니다 (不是) + -(으)면 (如果)。" },
+        { "point": "안 될 것 같아", "explanation": "안 되다 (不行) + -(으)ㄹ 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다 온 것 같아 조금만 기다려 줘",
+      "translation": "好像快到了 再等我一下",
+      "analysis": [
+        { "point": "다 온 것 같아", "explanation": "다 (全部) + 오다 (來) 的冠詞形 + 것 같다 (好像) 的非格式體。" },
+        { "point": "조금만", "explanation": "조금 (一點) + -만 (只)。" },
+        { "point": "기다려 줘", "explanation": "기다리다 (等待) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "내가 갈게",
+      "translation": "我會去的",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "갈게", "explanation": "가다 (去) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "어둠 속에서 우리 둘만 빛나게",
+      "translation": "在黑暗中 讓我們倆獨自發光",
+      "analysis": [
+        { "point": "어둠 속에서", "explanation": "어둠 (黑暗) + 속 (裡面) + -에서 (在)。" },
+        { "point": "우리 둘만", "explanation": "우리 (我們) + 둘 (兩) + -만 (只)。" },
+        { "point": "빛나게", "explanation": "빛나다 (發光) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "너의 따뜻한 그 빛을 머금고 싶어",
+      "translation": "想含住你溫暖的那道光",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "따뜻한", "explanation": "따뜻하다 (溫暖的) 的冠詞形。" },
+        { "point": "그 빛을", "explanation": "그 (那) + 빛 (光) + -을 (受格助詞)。" },
+        { "point": "머금고 싶어", "explanation": "머금다 (含住) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "멀리 돌아온 기적 같은 순간을",
+      "translation": "遠道回來的像奇蹟一樣的瞬間",
+      "analysis": [
+        { "point": "멀리", "explanation": "副詞，遠處。" },
+        { "point": "돌아온", "explanation": "돌아오다 (回來) 的冠詞形。" },
+        { "point": "기적 같은", "explanation": "기적 (奇蹟) + 같다 (像) 的冠詞形。" },
+        { "point": "순간을", "explanation": "순간 (瞬間) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "놓치지 않아 널 품에 안을게",
+      "translation": "不會錯過 會把你擁入懷中",
+      "analysis": [
+        { "point": "놓치지 않아", "explanation": "놓치다 (錯過) + -지 않다 (否定) 的非格式體。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "품에 안을게", "explanation": "품 (懷抱) + -에 (場所助詞) + 안다 (抱) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "한동안 네가 없던 날들",
+      "translation": "那段時間沒有你的日子",
+      "analysis": [
+        { "point": "한동안", "explanation": "副詞，一段時間。" },
+        { "point": "네가 없던", "explanation": "네 (你) + -가 (主格助詞) + 없다 (沒有) 的過去冠詞形。" },
+        { "point": "날들", "explanation": "날 (日子) + -들 (複數)。" }
+      ]
+    },
+    {
+      "korean": "영원처럼 나에겐",
+      "translation": "對我來說像永遠一樣",
+      "analysis": [
+        { "point": "영원처럼", "explanation": "영원 (永遠) + -처럼 (像...一樣)。" },
+        { "point": "나에겐", "explanation": "나 (我) + -에게 (對) + -는 (強調) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "느껴져 난 두려워",
+      "translation": "感覺得到 我害怕",
+      "analysis": [
+        { "point": "느껴져", "explanation": "느껴지다 (被感受到) 的非格式體。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "두려워", "explanation": "두렵다 (害怕的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "갈 곳을 잃어버린 아이처럼",
+      "translation": "像失去去處的孩子一樣",
+      "analysis": [
+        { "point": "갈 곳을", "explanation": "가다 (去) + -(으)ㄹ 곳 (地方) + -을 (受格助詞)。" },
+        { "point": "잃어버린", "explanation": "잃어버리다 (丟失) 的冠詞形。" },
+        { "point": "아이처럼", "explanation": "아이 (孩子) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "너를 찾아 헤매고 있었나 봐",
+      "translation": "看來是在尋找你的路上徬徨著",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "찾아", "explanation": "찾다 (找) 的非格式體連接形。" },
+        { "point": "헤매고 있었나 봐", "explanation": "헤매다 (徬徨) + -고 있다 (正在) 的過去推測形 + -나 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "편해진 감정들이",
+      "translation": "變得舒適的感情們",
+      "analysis": [
+        { "point": "편해진", "explanation": "편해지다 (變得舒適) 的冠詞形。" },
+        { "point": "감정들이", "explanation": "감정 (感情) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "짓궂게 심술부려",
+      "translation": "調皮地使壞",
+      "analysis": [
+        { "point": "짓궂게", "explanation": "짓궂다 (調皮的、惡作劇的) + -게 (副詞形語尾)。" },
+        { "point": "심술부려", "explanation": "심술부리다 (使壞、耍脾氣) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 데려가",
+      "translation": "帶走你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "데려가", "explanation": "데려가다 (帶走) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너무 늦지 않게 네게 말할게",
+      "translation": "不會太晚 會對你說",
+      "analysis": [
+        { "point": "너무 늦지 않게", "explanation": "너무 (太) + 늦다 (晚) + -지 않다 (否定) + -게 (使得)。" },
+        { "point": "네게", "explanation": "너 (你) + -에게 (給/向) 的縮略。" },
+        { "point": "말할게", "explanation": "말하다 (說) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "미안해 지금 어디야 할 말이 있어",
+      "translation": "對不起 現在在哪裡 有話要說",
+      "analysis": [
+        { "point": "미안해", "explanation": "미안하다 (對不起) 的非格式體。" },
+        { "point": "지금", "explanation": "現在。" },
+        { "point": "어디야", "explanation": "어디 (哪裡) + -야 (疑問)。" },
+        { "point": "할 말이 있어", "explanation": "하다 (說) + -(으)ㄹ 말 (話) + -이 있다 (有) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "가고 있어 널 만나러",
+      "translation": "正在去見你的路上",
+      "analysis": [
+        { "point": "가고 있어", "explanation": "가다 (去) + -고 있다 (正在進行)。" },
+        { "point": "널 만나러", "explanation": "너를 (你) 的縮略 + 만나다 (見面) + -(으)러 (表示目的)。" }
+      ]
+    },
+    {
+      "korean": "지금이 아니면 안 될 것 같아",
+      "translation": "好像不是現在就不行",
+      "analysis": [
+        { "point": "지금이", "explanation": "지금 (現在) + -이 (主格助詞)。" },
+        { "point": "아니면", "explanation": "아니다 (不是) + -(으)면 (如果)。" },
+        { "point": "안 될 것 같아", "explanation": "안 되다 (不行) + -(으)ㄹ 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다 온 것 같아 조금만 기다려 줘",
+      "translation": "好像快到了 再等我一下",
+      "analysis": [
+        { "point": "다 온 것 같아", "explanation": "다 (全部) + 오다 (來) 的冠詞形 + 것 같다 (好像) 的非格式體。" },
+        { "point": "조금만", "explanation": "조금 (一點) + -만 (只)。" },
+        { "point": "기다려 줘", "explanation": "기다리다 (等待) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "내가 갈게",
+      "translation": "我會去的",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "갈게", "explanation": "가다 (去) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "어둠 속에서 우리 둘만 빛나게",
+      "translation": "在黑暗中 讓我們倆獨自發光",
+      "analysis": [
+        { "point": "어둠 속에서", "explanation": "어둠 (黑暗) + 속 (裡面) + -에서 (在)。" },
+        { "point": "우리 둘만", "explanation": "우리 (我們) + 둘 (兩) + -만 (只)。" },
+        { "point": "빛나게", "explanation": "빛나다 (發光) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "너의 따뜻한 그 빛을 머금고 싶어",
+      "translation": "想含住你溫暖的那道光",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "따뜻한", "explanation": "따뜻하다 (溫暖的) 的冠詞形。" },
+        { "point": "그 빛을", "explanation": "그 (那) + 빛 (光) + -을 (受格助詞)。" },
+        { "point": "머금고 싶어", "explanation": "머금다 (含住) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "멀리 돌아온 기적 같은 순간을",
+      "translation": "遠道回來的像奇蹟一樣的瞬間",
+      "analysis": [
+        { "point": "멀리", "explanation": "副詞，遠處。" },
+        { "point": "돌아온", "explanation": "돌아오다 (回來) 的冠詞形。" },
+        { "point": "기적 같은", "explanation": "기적 (奇蹟) + 같다 (像) 的冠詞形。" },
+        { "point": "순간을", "explanation": "순간 (瞬間) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "놓치지 않아 널 품에 안을게",
+      "translation": "不會錯過 會把你擁入懷中",
+      "analysis": [
+        { "point": "놓치지 않아", "explanation": "놓치다 (錯過) + -지 않다 (否定) 的非格式體。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "품에 안을게", "explanation": "품 (懷抱) + -에 (場所助詞) + 안다 (抱) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "길었던 기다림",
+      "translation": "長久的等待",
+      "analysis": [
+        { "point": "길었던", "explanation": "길다 (長的) 的過去冠詞形。" },
+        { "point": "기다림", "explanation": "기다리다 (等待) 的名詞形。" }
+      ]
+    },
+    {
+      "korean": "두려웠던 마음도",
+      "translation": "曾經害怕的心也",
+      "analysis": [
+        { "point": "두려웠던", "explanation": "두렵다 (害怕的) 的過去冠詞形。" },
+        { "point": "마음도", "explanation": "마음 (心) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "서로의 온기가 닿은 순간에",
+      "translation": "在彼此的溫暖觸及的瞬間",
+      "analysis": [
+        { "point": "서로의", "explanation": "서로 (彼此) + -의 (的)。" },
+        { "point": "온기가", "explanation": "온기 (暖氣、溫暖) + -가 (主格助詞)。" },
+        { "point": "닿은 순간에", "explanation": "닿다 (觸碰) 的冠詞形 + 순간 (瞬間) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "모두 녹아내리게",
+      "translation": "讓全部融化",
+      "analysis": [
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "녹아내리게", "explanation": "녹아내리다 (融化掉下) + -게 (使得)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "가고 있어 널 만나러",
+      "translation": "正在去見你的路上",
+      "analysis": [
+        { "point": "가고 있어", "explanation": "가다 (去) + -고 있다 (正在進行)。" },
+        { "point": "널 만나러", "explanation": "너를 (你) 的縮略 + 만나다 (見面) + -(으)러 (表示目的)。" }
+      ]
+    },
+    {
+      "korean": "지금이 아니면 안 될 것 같아",
+      "translation": "好像不是現在就不行",
+      "analysis": [
+        { "point": "지금이", "explanation": "지금 (現在) + -이 (主格助詞)。" },
+        { "point": "아니면", "explanation": "아니다 (不是) + -(으)면 (如果)。" },
+        { "point": "안 될 것 같아", "explanation": "안 되다 (不行) + -(으)ㄹ 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다 온 것 같아 조금만 기다려 줘",
+      "translation": "好像快到了 再等我一下",
+      "analysis": [
+        { "point": "다 온 것 같아", "explanation": "다 (全部) + 오다 (來) 的冠詞形 + 것 같다 (好像) 的非格式體。" },
+        { "point": "조금만", "explanation": "조금 (一點) + -만 (只)。" },
+        { "point": "기다려 줘", "explanation": "기다리다 (等待) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "내가 갈게",
+      "translation": "我會去的",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "갈게", "explanation": "가다 (去) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Post-Chorus",
+      "korean": "어둠 속에서 우리 둘만 빛나게",
+      "translation": "在黑暗中 讓我們倆獨自發光",
+      "analysis": [
+        { "point": "어둠 속에서", "explanation": "어둠 (黑暗) + 속 (裡面) + -에서 (在)。" },
+        { "point": "우리 둘만", "explanation": "우리 (我們) + 둘 (兩) + -만 (只)。" },
+        { "point": "빛나게", "explanation": "빛나다 (發光) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "너의 따뜻한 그 빛을 머금고 싶어",
+      "translation": "想含住你溫暖的那道光",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "따뜻한", "explanation": "따뜻하다 (溫暖的) 的冠詞形。" },
+        { "point": "그 빛을", "explanation": "그 (那) + 빛 (光) + -을 (受格助詞)。" },
+        { "point": "머금고 싶어", "explanation": "머금다 (含住) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "멀리 돌아온 기적 같은 순간을",
+      "translation": "遠道回來的像奇蹟一樣的瞬間",
+      "analysis": [
+        { "point": "멀리", "explanation": "副詞，遠處。" },
+        { "point": "돌아온", "explanation": "돌아오다 (回來) 的冠詞形。" },
+        { "point": "기적 같은", "explanation": "기적 (奇蹟) + 같다 (像) 的冠詞形。" },
+        { "point": "순간을", "explanation": "순간 (瞬間) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "놓치지 않아 널 품에 안을게",
+      "translation": "不會錯過 會把你擁入懷中",
+      "analysis": [
+        { "point": "놓치지 않아", "explanation": "놓치다 (錯過) + -지 않다 (否定) 的非格式體。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "품에 안을게", "explanation": "품 (懷抱) + -에 (場所助詞) + 안다 (抱) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "가다", "chinese": "去", "pos": "動詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "조금", "chinese": "一點", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "요즘", "chinese": "最近", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "많이", "chinese": "很多地", "pos": "副詞" },
+    { "korean": "이상하다", "chinese": "奇怪的", "pos": "形容詞" },
+    { "korean": "생각", "chinese": "想法、思念", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "뱉다", "chinese": "吐", "pos": "動詞" },
+    { "korean": "날카롭다", "chinese": "尖銳的", "pos": "形容詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "오히려", "chinese": "反而", "pos": "副詞" },
+    { "korean": "향하다", "chinese": "面向", "pos": "動詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "편해지다", "chinese": "變得舒適", "pos": "動詞" },
+    { "korean": "감정", "chinese": "感情", "pos": "名詞" },
+    { "korean": "짓궂다", "chinese": "調皮的", "pos": "形容詞" },
+    { "korean": "심술부리다", "chinese": "使壞", "pos": "動詞" },
+    { "korean": "데려가다", "chinese": "帶走", "pos": "動詞" },
+    { "korean": "늦다", "chinese": "晚", "pos": "形容詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "어디", "chinese": "哪裡", "pos": "代名詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "우리", "chinese": "我們", "pos": "代名詞" },
+    { "korean": "둘", "chinese": "二、倆", "pos": "數詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "따뜻하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "머금다", "chinese": "含住", "pos": "動詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "놓치다", "chinese": "錯過", "pos": "動詞" },
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "안다", "chinese": "抱", "pos": "動詞" },
+    { "korean": "한동안", "chinese": "一段時間", "pos": "副詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "영원", "chinese": "永遠", "pos": "名詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" },
+    { "korean": "두렵다", "chinese": "害怕的", "pos": "形容詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "잃어버리다", "chinese": "丟失", "pos": "動詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "헤매다", "chinese": "徬徨", "pos": "動詞" },
+    { "korean": "길다", "chinese": "長的", "pos": "形容詞" },
+    { "korean": "기다림", "chinese": "等待", "pos": "名詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "副詞" },
+    { "korean": "온기", "chinese": "暖氣、溫暖", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸碰", "pos": "動詞" },
+    { "korean": "녹아내리다", "chinese": "融化掉下", "pos": "動詞" }
+  ]
+}

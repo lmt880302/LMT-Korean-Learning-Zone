@@ -1,0 +1,441 @@
+{
+  "id": "GFRIEND-Season of Memories",
+  "title": "Season of Memories",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "전부 사라질 것 같이 믿기지 않았어",
+      "translation": "像一切都會消失一樣 無法相信",
+      "analysis": [
+        { "point": "전부", "explanation": "名詞/副詞，全部、一切都。" },
+        { "point": "사라질 것 같이", "explanation": "사라지다 (消失) + -(으)ㄹ 것 같다 (好像會) + -이 (副詞形語尾)。" },
+        { "point": "믿기지 않았어", "explanation": "믿기다 (被相信) + -지 않다 (否定) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "돌고 돌아 시간 속에 다시 만났어",
+      "translation": "兜兜轉轉 在時間裡再次相遇了",
+      "analysis": [
+        { "point": "돌고 돌아", "explanation": "돌다 (轉、繞) 的重複，表示「兜兜轉轉」。" },
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "다시 만났어", "explanation": "다시 (再次) + 만나다 (見面) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "시곗바늘이 밤을 가르며 멀리 왔지만",
+      "translation": "時針劃破夜晚 雖然已走了很遠",
+      "analysis": [
+        { "point": "시곗바늘이", "explanation": "시계 (時鐘) + ㅅ (屬格) + 바늘 (針) + -이 (主格助詞)。" },
+        { "point": "밤을", "explanation": "밤 (夜晚) + -을 (受格助詞)。" },
+        { "point": "가르며", "explanation": "가르다 (劃分、劃破) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "멀리 왔지만", "explanation": "멀리 (遠處) + 오다 (來) 的過去式 + -지만 (雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "우리의 거린 그대로야",
+      "translation": "我們的距離還是原樣",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們 + -의 (的)。" },
+        { "point": "거린", "explanation": "거리 (距離) + -는 (主題助詞) 的縮略。" },
+        { "point": "그대로야", "explanation": "그대로 (原樣) + -야 (非格式體敘述句結尾)。" }
+      ]
+    },
+    {
+      "korean": "같은 계절 속을 맴돌다",
+      "translation": "在同一個季節裡徘徊",
+      "analysis": [
+        { "point": "같은", "explanation": "같다 (相同的) 的冠詞形。" },
+        { "point": "계절 속을", "explanation": "계절 (季節) + 속 (裡面) + -을 (受格助詞)。" },
+        { "point": "맴돌다", "explanation": "動詞，徘徊、打轉。" }
+      ]
+    },
+    {
+      "korean": "어느 날 불쑥 내게로 온 거야",
+      "translation": "某天突然來到我身邊",
+      "analysis": [
+        { "point": "어느 날", "explanation": "某一天。" },
+        { "point": "불쑥", "explanation": "副詞，突然、驀地。" },
+        { "point": "내게로", "explanation": "나 (我) + -에게 (給/向) + -로 (方向助詞) 的縮略。" },
+        { "point": "온 거야", "explanation": "오다 (來) 的冠詞形 + 것 (東西) + -이야 (是) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "보고팠어, 사실 많이",
+      "translation": "想你了，其實很想",
+      "analysis": [
+        { "point": "보고팠어", "explanation": "보고 싶다 (想念) 的過去式縮略。" },
+        { "point": "사실", "explanation": "副詞，其實、事實上。" },
+        { "point": "많이", "explanation": "副詞，很多地。" }
+      ]
+    },
+    {
+      "korean": "지금 눈앞이 꿈만 같아",
+      "translation": "現在眼前的一切像夢一樣",
+      "analysis": [
+        { "point": "지금", "explanation": "現在。" },
+        { "point": "눈앞이", "explanation": "눈 (眼睛) + 앞 (前面) + -이 (主格助詞)。" },
+        { "point": "꿈만 같아", "explanation": "꿈 (夢) + -만 (只) + 같다 (像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "오래 기다렸잖아",
+      "translation": "等了很久不是嗎",
+      "analysis": [
+        { "point": "오래", "explanation": "副詞，長久地。" },
+        { "point": "기다렸잖아", "explanation": "기다리다 (等待) 的過去式 + -잖아 (不是嘛/反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "이제 더는 멀어지지 마",
+      "translation": "現在不要再變遠了",
+      "analysis": [
+        { "point": "이제", "explanation": "現在。" },
+        { "point": "더는", "explanation": "더 (更) + -는 (強調)，表示「再也」。固定用法。" },
+        { "point": "멀어지지 마", "explanation": "멀어지다 (變遠) + -지 말다 (不要) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "전부 사라질 것 같이 믿기지 않았어",
+      "translation": "像一切都會消失一樣 無法相信",
+      "analysis": [
+        { "point": "전부", "explanation": "名詞/副詞，全部、一切都。" },
+        { "point": "사라질 것 같이", "explanation": "사라지다 (消失) + -(으)ㄹ 것 같다 (好像會) + -이 (副詞形語尾)。" },
+        { "point": "믿기지 않았어", "explanation": "믿기다 (被相信) + -지 않다 (否定) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "돌고 돌아 시간 속에 다시 만났어",
+      "translation": "兜兜轉轉 在時間裡再次相遇了",
+      "analysis": [
+        { "point": "돌고 돌아", "explanation": "돌다 (轉、繞) 的重複，表示「兜兜轉轉」。" },
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "다시 만났어", "explanation": "다시 (再次) + 만나다 (見面) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "어떤 순간에도 널 기다렸어",
+      "translation": "無論何時都在等你",
+      "analysis": [
+        { "point": "어떤 순간에도", "explanation": "어떤 (任何) + 순간 (瞬間) + -에 (時間助詞) + -도 (也)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "기다렸어", "explanation": "기다리다 (等待) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "끝까지 너를 택할게",
+      "translation": "會選擇你直到最後",
+      "analysis": [
+        { "point": "끝까지", "explanation": "끝 (結束/最後) + -까지 (直到)。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "택할게", "explanation": "택하다 (選擇) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "Oh 하나로 이어졌던",
+      "translation": "Oh 曾經連成一體的",
+      "analysis": [
+        { "point": "하나로", "explanation": "하나 (一) + -(으)로 (成爲)。" },
+        { "point": "이어졌던", "explanation": "이어지다 (連接、延續) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Oh 하나로 새겨졌던",
+      "translation": "Oh 曾經銘刻為一體的",
+      "analysis": [
+        { "point": "하나로", "explanation": "하나 (一) + -(으)로 (成爲)。" },
+        { "point": "새겨졌던", "explanation": "새겨지다 (被銘刻) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "우리의 다정한 그 계절 속에",
+      "translation": "在我們溫馨的那個季節裡",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們 + -의 (的)。" },
+        { "point": "다정한", "explanation": "다정하다 (溫馨的、多情的) 的冠詞形。" },
+        { "point": "그 계절 속에", "explanation": "그 (那) + 계절 (季節) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "영원히 함께 할 거야",
+      "translation": "會永遠在一起",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "함께 할 거야", "explanation": "함께 하다 (一起做) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "더 멀리 가려고, 더 깊어 지려고",
+      "translation": "為了走得更遠，為了變得更深",
+      "analysis": [
+        { "point": "더 멀리", "explanation": "더 (更) + 멀리 (遠處)。" },
+        { "point": "가려고", "explanation": "가다 (去) + -려고 하다 (想要) 的縮略。" },
+        { "point": "더 깊어 지려고", "explanation": "더 (更) + 깊어지다 (變深) + -려고 하다 (想要) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "우리 이야기들이 시작된 거야",
+      "translation": "我們的故事開始了",
+      "analysis": [
+        { "point": "우리", "explanation": "我們。" },
+        { "point": "이야기들이", "explanation": "이야기 (故事) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "시작된 거야", "explanation": "시작되다 (被開始) 的冠詞形 + 것 (東西) + -이야 (是) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그토록 빛나던 눈빛이",
+      "translation": "那麼閃耀的眼神",
+      "analysis": [
+        { "point": "그토록", "explanation": "副詞，那麼、那樣地。" },
+        { "point": "빛나던", "explanation": "빛나다 (閃耀) 的過去冠詞形。" },
+        { "point": "눈빛이", "explanation": "눈빛 (眼神) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "꿈속에서조차 생각이 났어",
+      "translation": "即使在夢中也浮現在腦海",
+      "analysis": [
+        { "point": "꿈속에서조차", "explanation": "꿈 (夢) + 속 (裡面) + -에서 (在) + -조차 (連...也)。" },
+        { "point": "생각이 났어", "explanation": "생각 (想法) + -이 나다 (產生) 的過去式，表示「想起」。固定用法。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "이제 알게 됐잖아",
+      "translation": "現在不就知道了吗",
+      "analysis": [
+        { "point": "이제", "explanation": "現在。" },
+        { "point": "알게 됐잖아", "explanation": "알다 (知道) + -게 되다 (變得) 的過去式 + -잖아 (不是嘛/反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "너와 나의 이 길은",
+      "translation": "你我的這條路",
+      "analysis": [
+        { "point": "너와 나의", "explanation": "너 (你) + -와 (和) + 나 (我) + -의 (的)。" },
+        { "point": "이 길은", "explanation": "이 (這) + 길 (路) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "처음부터 하나였었단 걸",
+      "translation": "從一開始就是一體的",
+      "analysis": [
+        { "point": "처음부터", "explanation": "처음 (開始) + -부터 (從)。" },
+        { "point": "하나였었단 걸", "explanation": "하나 (一) + -이었다 (是) 的過去回想形 + -단 걸 (間接引語 + 受格，表示「...的事實」)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "전부 사라질 것 같이 믿기지 않았어",
+      "translation": "像一切都會消失一樣 無法相信",
+      "analysis": [
+        { "point": "전부", "explanation": "名詞/副詞，全部、一切都。" },
+        { "point": "사라질 것 같이", "explanation": "사라지다 (消失) + -(으)ㄹ 것 같다 (好像會) + -이 (副詞形語尾)。" },
+        { "point": "믿기지 않았어", "explanation": "믿기다 (被相信) + -지 않다 (否定) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "돌고 돌아 시간 속에 다시 만났어",
+      "translation": "兜兜轉轉 在時間裡再次相遇了",
+      "analysis": [
+        { "point": "돌고 돌아", "explanation": "돌다 (轉、繞) 的重複，表示「兜兜轉轉」。" },
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "다시 만났어", "explanation": "다시 (再次) + 만나다 (見面) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "어떤 순간에도 널 기다렸어",
+      "translation": "無論何時都在等你",
+      "analysis": [
+        { "point": "어떤 순간에도", "explanation": "어떤 (任何) + 순간 (瞬間) + -에 (時間助詞) + -도 (也)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "기다렸어", "explanation": "기다리다 (等待) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "끝까지 너를 택할게",
+      "translation": "會選擇你直到最後",
+      "analysis": [
+        { "point": "끝까지", "explanation": "끝 (結束/最後) + -까지 (直到)。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "택할게", "explanation": "택하다 (選擇) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "비로소 간절한 이 맘이",
+      "translation": "這份懇切的心 終於",
+      "analysis": [
+        { "point": "비로소", "explanation": "副詞，才、終於。" },
+        { "point": "간절한", "explanation": "간절하다 (懇切的) 的冠詞形。" },
+        { "point": "이 맘이", "explanation": "이 (這) + 마음 (心) 的縮略 + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "네게 닿았을까?",
+      "translation": "能觸及到你嗎？",
+      "analysis": [
+        { "point": "네게", "explanation": "너 (你) + -에게 (給/向) 的縮略。" },
+        { "point": "닿았을까", "explanation": "닿다 (觸碰) 的過去式 + -(으)ㄹ까 (疑問，表示推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "우리 사랑했던 날은 사라지지 않아",
+      "translation": "我們相愛過的日子不會消失",
+      "analysis": [
+        { "point": "우리", "explanation": "我們。" },
+        { "point": "사랑했던 날은", "explanation": "사랑하다 (愛) 的過去冠詞形 + 날 (日子) + -은 (主題助詞)。" },
+        { "point": "사라지지 않아", "explanation": "사라지다 (消失) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "돌고 돌아 기적처럼 다시 만났어",
+      "translation": "兜兜轉轉 像奇蹟一樣再次相遇了",
+      "analysis": [
+        { "point": "돌고 돌아", "explanation": "돌다 (轉、繞) 的重複，表示「兜兜轉轉」。" },
+        { "point": "기적처럼", "explanation": "기적 (奇蹟) + -처럼 (像...一樣)。" },
+        { "point": "다시 만났어", "explanation": "다시 (再次) + 만나다 (見面) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "긴 시간을 지나쳐 왔지만",
+      "translation": "雖然經過了漫長的時間",
+      "analysis": [
+        { "point": "긴", "explanation": "길다 (長的) 的冠詞形。" },
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "지나쳐 왔지만", "explanation": "지나치다 (經過) + -아/어 오다 (持續) 的過去式 + -지만 (雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "끝내 널 찾아낸 거야",
+      "translation": "最終找到了你",
+      "analysis": [
+        { "point": "끝내", "explanation": "副詞，最終、終於。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾아낸 거야", "explanation": "찾아내다 (找到) 的冠詞形 + 것 (東西) + -이야 (是) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Ah 하나로 이어졌던",
+      "translation": "Ah 曾經連成一體的",
+      "analysis": [
+        { "point": "하나로", "explanation": "하나 (一) + -(으)로 (成爲)。" },
+        { "point": "이어졌던", "explanation": "이어지다 (連接、延續) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Ah 하나로 새겨졌던",
+      "translation": "Ah 曾經銘刻為一體的",
+      "analysis": [
+        { "point": "하나로", "explanation": "하나 (一) + -(으)로 (成爲)。" },
+        { "point": "새겨졌던", "explanation": "새겨지다 (被銘刻) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "우리의 다정한 그 계절 속에",
+      "translation": "在我們溫馨的那個季節裡",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們 + -의 (的)。" },
+        { "point": "다정한", "explanation": "다정하다 (溫馨的、多情的) 的冠詞形。" },
+        { "point": "그 계절 속에", "explanation": "그 (那) + 계절 (季節) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "영원히 함께할 거야",
+      "translation": "會永遠在一起",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "함께할 거야", "explanation": "함께 하다 (一起做) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "영원히 함께인 거야",
+      "translation": "是永遠在一起的",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "함께인 거야", "explanation": "함께 (一起) + -이다 (是) 的冠詞形 + 것 (東西) + -이야 (是) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "전부 사라질 것 같이 믿기지 않았어",
+      "translation": "像一切都會消失一樣 無法相信",
+      "analysis": [
+        { "point": "전부", "explanation": "名詞/副詞，全部、一切都。" },
+        { "point": "사라질 것 같이", "explanation": "사라지다 (消失) + -(으)ㄹ 것 같다 (好像會) + -이 (副詞形語尾)。" },
+        { "point": "믿기지 않았어", "explanation": "믿기다 (被相信) + -지 않다 (否定) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "돌고 돌아 시간 속에 다시 만났어",
+      "translation": "兜兜轉轉 在時間裡再次相遇了",
+      "analysis": [
+        { "point": "돌고 돌아", "explanation": "돌다 (轉、繞) 的重複，表示「兜兜轉轉」。" },
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "다시 만났어", "explanation": "다시 (再次) + 만나다 (見面) 的過去式。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "전부", "chinese": "全部", "pos": "名詞/副詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "믿기다", "chinese": "被相信", "pos": "動詞" },
+    { "korean": "돌다", "chinese": "轉、繞", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "시곗바늘", "chinese": "時針", "pos": "名詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "가르다", "chinese": "劃分、劃破", "pos": "動詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "거리", "chinese": "距離", "pos": "名詞" },
+    { "korean": "그대로", "chinese": "原樣", "pos": "副詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "맴돌다", "chinese": "徘徊、打轉", "pos": "動詞" },
+    { "korean": "어느", "chinese": "某個", "pos": "冠詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "불쑥", "chinese": "突然", "pos": "副詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "形容詞" },
+    { "korean": "사실", "chinese": "其實", "pos": "副詞" },
+    { "korean": "많이", "chinese": "很多地", "pos": "副詞" },
+    { "korean": "눈앞", "chinese": "眼前", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "오래", "chinese": "長久地", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "어떤", "chinese": "任何", "pos": "冠詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "끝", "chinese": "結束、最後", "pos": "名詞" },
+    { "korean": "택하다", "chinese": "選擇", "pos": "動詞" },
+    { "korean": "하나", "chinese": "一", "pos": "名詞" },
+    { "korean": "이어지다", "chinese": "連接、延續", "pos": "動詞" },
+    { "korean": "새겨지다", "chinese": "被銘刻", "pos": "動詞" },
+    { "korean": "다정하다", "chinese": "溫馨的、多情的", "pos": "形容詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "깊어지다", "chinese": "變深", "pos": "動詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "시작되다", "chinese": "被開始", "pos": "動詞" },
+    { "korean": "그토록", "chinese": "那麼", "pos": "副詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "조차", "chinese": "連...也", "pos": "助詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "처음", "chinese": "開始、最初", "pos": "名詞" },
+    { "korean": "비로소", "chinese": "才、終於", "pos": "副詞" },
+    { "korean": "간절하다", "chinese": "懇切的", "pos": "形容詞" },
+    { "korean": "닿다", "chinese": "觸碰", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "지나치다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "끝내", "chinese": "最終", "pos": "副詞" },
+    { "korean": "찾아내다", "chinese": "找到", "pos": "動詞" }
+  ]
+}
