@@ -168,135 +168,171 @@
     </footer>
 
     <script>
-        var allSongsData = [];
+    var allSongsData = [];
 
-        function sanitizeHTML(str) {
-            if (typeof str !== 'string') return '';
-            var temp = document.createElement('div');
-            temp.textContent = str;
-            return temp.innerHTML;
-        }
+    function sanitizeHTML(str) {
+        if (typeof str !== 'string') return '';
+        var temp = document.createElement('div');
+        temp.textContent = str;
+        return temp.innerHTML;
+    }
         
-        function getCleanArtistName(artist) {
-            if (!artist) return 'Unknown Artist';
-            return artist.replace(/\s*\(.*\)\s*/g, '').trim();
+    function getCleanArtistName(artist) {
+        if (!artist) return 'Unknown Artist';
+        return artist.replace(/\s*\(.*\)\s*/g, '').trim();
+    }
+
+    function renderSongsList(songs, expandAll = false) {
+        var container = document.getElementById('songs-list-container');
+        if (!container) return;
+
+        container.innerHTML = '';
+
+        if (!songs || songs.length === 0) {
+            container.innerHTML = '<p class="text-center text-gray-400">找不到符合條件的歌曲。</p>';
+            return;
         }
 
-        function renderSongsList(songs) {
-            var container = document.getElementById('songs-list-container');
-            if (!container) {
-                console.error("Song list container not found!");
-                return;
-            }
-            container.innerHTML = '';
+        const groupedByArtist = songs.reduce((acc, song) => {
+            const cleanArtist = getCleanArtistName(song.artist);
+            if (!acc[cleanArtist]) acc[cleanArtist] = [];
+            acc[cleanArtist].push(song);
+            return acc;
+        }, {});
 
-            if (!songs || songs.length === 0) {
-                container.innerHTML = '<p class="text-center text-gray-400">找不到符合條件的歌曲。</p>';
-                return;
-            }
+        const sortedArtists = Object.keys(groupedByArtist)
+            .sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
 
-            const groupedByArtist = songs.reduce((acc, song) => {
-                const cleanArtist = getCleanArtistName(song.artist);
-                if (!acc[cleanArtist]) {
-                    acc[cleanArtist] = [];
-                }
-                acc[cleanArtist].push(song);
-                return acc;
-            }, {});
+        sortedArtists.forEach(artist => {
 
-            const sortedArtists = Object.keys(groupedByArtist).sort((a, b) => a.localeCompare(b, 'en', { sensitivity: 'base' }));
+            const artistId = `artist-${artist.replace(/\s+/g, '-')}`;
 
-            sortedArtists.forEach(artist => {
-                const artistGroupDiv = document.createElement('div');
-                artistGroupDiv.className = 'artist-group';
+            const artistGroupDiv = document.createElement('div');
+            artistGroupDiv.className = 'artist-group';
 
-                const artistTitle = document.createElement('h2');
-                artistTitle.className = 'artist-title';
-                artistTitle.innerHTML = `
-                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+            /* ====== 可點擊標題 ====== */
+            const artistTitle = document.createElement('button');
+            artistTitle.className = 'artist-title w-full text-left justify-between';
+            artistTitle.type = 'button';
+
+            artistTitle.innerHTML = `
+                <div class="flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-3 text-indigo-300" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z" />
                     </svg>
                     ${sanitizeHTML(artist)}
+                </div>
+
+                <svg id="arrow-${artistId}" 
+                    class="w-5 h-5 transition-transform duration-300 text-indigo-300 ${expandAll ? 'rotate-180' : ''}" 
+                    xmlns="http://www.w3.org/2000/svg" 
+                    fill="none" viewBox="0 0 24 24" 
+                    stroke-width="2" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+                </svg>
+            `;
+
+            artistGroupDiv.appendChild(artistTitle);
+
+            /* ====== 歌曲清單 ====== */
+            const songsListDiv = document.createElement('div');
+            songsListDiv.className = `songs-list space-y-3 transition-all duration-300 ${expandAll ? '' : 'hidden'}`;
+            songsListDiv.id = artistId;
+
+            const sortedSongs = groupedByArtist[artist]
+                .sort((a, b) => a.title.localeCompare(b.title, 'en', { sensitivity: 'base' }));
+
+            sortedSongs.forEach(song => {
+
+                const songLink = document.createElement('a');
+                songLink.href = `./lyrics-template.html?songId=${sanitizeHTML(song.id)}`;
+                songLink.className = 'song-item-link';
+
+                songLink.innerHTML = `
+                    <div class="song-info">
+                        <h3 class="song-title">${sanitizeHTML(song.title)}</h3>
+                    </div>
+                    <div class="flex items-center space-x-2">
+                        <span class="view-lyrics-text">歌詞</span>
+                        <svg class="w-5 h-5 view-lyrics-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+                        </svg>
+                    </div>
                 `;
-                artistGroupDiv.appendChild(artistTitle);
-                
-                const songsListDiv = document.createElement('div');
-                songsListDiv.className = 'songs-list space-y-3';
-                
-                const sortedSongs = groupedByArtist[artist].sort((a, b) => {
-                    return a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
-                });
 
-                sortedSongs.forEach(song => {
-                    const songLink = document.createElement('a');
-                    songLink.href = `./lyrics-template.html?songId=${sanitizeHTML(song.id)}`;
-                    songLink.className = 'song-item-link';
-                    songLink.innerHTML = `
-                        <div class="song-info">
-                            <h3 class="song-title">${sanitizeHTML(song.title)}</h3>
-                        </div>
-                        <div class="flex items-center space-x-2">
-                            <span class="view-lyrics-text">歌詞</span>
-                            <svg class="w-5 h-5 view-lyrics-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
-                            </svg>
-                        </div>
-                    `;
-                    songsListDiv.appendChild(songLink);
-                });
-                
-                artistGroupDiv.appendChild(songsListDiv);
-                container.appendChild(artistGroupDiv);
+                songsListDiv.appendChild(songLink);
             });
-        }
 
-        function setupSearch(songs) {
-            var searchInput = document.getElementById('song-search');
-            if (!searchInput) return;
+            /* ====== 點擊展開/收合 ====== */
+            artistTitle.addEventListener('click', function () {
+                const songList = document.getElementById(artistId);
+                const arrow = document.getElementById(`arrow-${artistId}`);
 
-            searchInput.addEventListener('input', function() {
-                var searchTerm = this.value.toLowerCase().trim();
-                
-                var filteredSongs = songs.filter(function(song) {
-                    var title = song.title ? song.title.toLowerCase() : '';
-                    var artist = song.artist ? song.artist.toLowerCase() : '';
-                    return title.includes(searchTerm) || artist.includes(searchTerm);
-                });
-                
-                renderSongsList(filteredSongs);
+                songList.classList.toggle('hidden');
+                arrow.classList.toggle('rotate-180');
             });
-        }
 
-        document.addEventListener('DOMContentLoaded', function() {
-            var songsContainer = document.getElementById('songs-list-container');
-            var jsonFileUrl = new URL('../data/songs_list.json', window.location.href).href;
-            
-            fetch(jsonFileUrl)
-                .then(response => {
-                    if (!response.ok) throw new Error('HTTP error ' + response.status);
-                    return response.json();
-                })
-                .then(songsData => {
-                    allSongsData = songsData.filter(song => song.id && song.id !== "_____" && song.title !== "_____");
-                    renderSongsList(allSongsData);
-                    setupSearch(allSongsData);
-                })
-                .catch(error => {
-                    console.error('無法載入歌曲列表:', error);
-                    if(songsContainer) {
-                        songsContainer.innerHTML = '<p class="text-xl text-red-400 text-center">歌曲列表載入失敗，請確認 data/songs_list.json 檔案是否存在且格式正確。</p>';
-                    }
-                });
-
-            var yearSpan = document.getElementById('current-year');
-            if (yearSpan) yearSpan.textContent = new Date().getFullYear();
-
-            var menuButton = document.getElementById('mobile-menu-button');
-            var mobileMenu = document.getElementById('mobile-menu');
-            if(menuButton && mobileMenu) {
-                menuButton.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
-            }
+            artistGroupDiv.appendChild(songsListDiv);
+            container.appendChild(artistGroupDiv);
         });
+    }
+
+    function setupSearch(songs) {
+        var searchInput = document.getElementById('song-search');
+        if (!searchInput) return;
+
+        searchInput.addEventListener('input', function() {
+            var searchTerm = this.value.toLowerCase().trim();
+
+            var filteredSongs = songs.filter(function(song) {
+                var title = song.title ? song.title.toLowerCase() : '';
+                var artist = song.artist ? song.artist.toLowerCase() : '';
+                return title.includes(searchTerm) || artist.includes(searchTerm);
+            });
+
+            /* 🔥 搜尋時全部展開 */
+            renderSongsList(filteredSongs, true);
+        });
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+
+        var songsContainer = document.getElementById('songs-list-container');
+        var jsonFileUrl = new URL('../data/songs_list.json', window.location.href).href;
+
+        fetch(jsonFileUrl)
+            .then(response => {
+                if (!response.ok) throw new Error('HTTP error ' + response.status);
+                return response.json();
+            })
+            .then(songsData => {
+                allSongsData = songsData.filter(song => 
+                    song.id && song.id !== "_____" && song.title !== "_____"
+                );
+
+                /* 🔹 初始預設全部收合 */
+                renderSongsList(allSongsData, false);
+                setupSearch(allSongsData);
+            })
+            .catch(error => {
+                console.error('無法載入歌曲列表:', error);
+                if(songsContainer) {
+                    songsContainer.innerHTML = 
+                        '<p class="text-xl text-red-400 text-center">歌曲列表載入失敗。</p>';
+                }
+            });
+
+        var yearSpan = document.getElementById('current-year');
+        if (yearSpan) yearSpan.textContent = new Date().getFullYear();
+
+        var menuButton = document.getElementById('mobile-menu-button');
+        var mobileMenu = document.getElementById('mobile-menu');
+        if(menuButton && mobileMenu) {
+            menuButton.addEventListener('click', () => 
+                mobileMenu.classList.toggle('hidden')
+            );
+        }
+    });
     </script>
 </body>
 </html>

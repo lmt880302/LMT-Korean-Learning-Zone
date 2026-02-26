@@ -1,0 +1,515 @@
+{
+  "id": "GFRIEND-Sunrise",
+  "title": "Sunrise (해야)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "새파란 하늘인데",
+      "translation": "是湛藍的天空",
+      "analysis": [
+        { "point": "새파란", "explanation": "새파랗다 (湛藍的) 的冠詞形。" },
+        { "point": "하늘인데", "explanation": "하늘 (天空) + -인데 (是...但是/既然)。" }
+      ]
+    },
+    {
+      "korean": "새빨간 마음인데",
+      "translation": "是火紅的心",
+      "analysis": [
+        { "point": "새빨간", "explanation": "새빨갛다 (火紅的、鮮紅的) 的冠詞形。" },
+        { "point": "마음인데", "explanation": "마음 (心) + -인데 (是...但是/既然)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 보이지 않아",
+      "translation": "看起來不是那樣",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "보이지 않아", "explanation": "보이다 (被看見) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아냐 아냐",
+      "translation": "不是 不是",
+      "analysis": [
+        { "point": "아냐", "explanation": "아니다 (不是) 的非格式體，重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "느낌이 왔다니까",
+      "translation": "說感覺來了嘛",
+      "analysis": [
+        { "point": "느낌이", "explanation": "느낌 (感覺) + -이 (主格助詞)。" },
+        { "point": "왔다니까", "explanation": "오다 (來) 的過去式 + -다니까 (強調自己說過的話)。" }
+      ]
+    },
+    {
+      "korean": "복잡해 너라는 사람 땜에",
+      "translation": "複雜 因為你這個人",
+      "analysis": [
+        { "point": "복잡해", "explanation": "복잡하다 (複雜的) 的非格式體。" },
+        { "point": "너라는 사람", "explanation": "너 (你) + -라는 (叫做) + 사람 (人)。" },
+        { "point": "땜에", "explanation": "때문에 (因為) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "맞지 맞지 나 그런 거 맞지",
+      "translation": "對吧 對吧 我就是那樣對吧",
+      "analysis": [
+        { "point": "맞지", "explanation": "맞다 (對/正確) 的非格式體疑問或感嘆形，重複表示強調。" },
+        { "point": "나 그런 거 맞지", "explanation": "나 (我) + 그런 거 (那樣的東西) + 맞다 (對) + -지 (確認語氣)。" }
+      ]
+    },
+    {
+      "korean": "세상 모든 빛들이 쏟아진 거야",
+      "translation": "世上所有的光芒都傾瀉而下",
+      "analysis": [
+        { "point": "세상", "explanation": "名詞，世界。" },
+        { "point": "모든", "explanation": "冠詞，所有的。" },
+        { "point": "빛들이", "explanation": "빛 (光) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "쏟아진 거야", "explanation": "쏟아지다 (傾瀉) 的冠詞形 + 것 (東西) + -이야 (敘述)。" }
+      ]
+    },
+    {
+      "korean": "또 무슨 일이 일어날지 알고 싶은데",
+      "translation": "想知道又會發生什麼事",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又、再。" },
+        { "point": "무슨 일이", "explanation": "무슨 (什麼) + 일 (事) + -이 (主格助詞)。" },
+        { "point": "일어날지", "explanation": "일어나다 (發生) + -(으)ㄹ지 (不確定的事實)。" },
+        { "point": "알고 싶은데", "explanation": "알다 (知道) + -고 싶다 (想) + -는데 (連接詞尾，表示背景)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저기 해야 해야",
+      "translation": "那裡 太陽啊 太陽啊",
+      "analysis": [
+        { "point": "저기", "explanation": "指示代詞，那裡。" },
+        { "point": "해야", "explanation": "해 (太陽) + -야 (呼格助詞)，歌詞標題「해야」是「해」的呼格。" }
+      ]
+    },
+    {
+      "korean": "너를 봐야 봐야",
+      "translation": "要看 要看 你",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "봐야", "explanation": "보다 (看) + -아/어야 (必須)。" }
+      ]
+    },
+    {
+      "korean": "내가 불확실한 미래마저",
+      "translation": "就連那不确定的未來",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "불확실한", "explanation": "불확실하다 (不确定的) 的冠詞形。" },
+        { "point": "미래마저", "explanation": "미래 (未來) + -마저 (連...也)。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 가까워져",
+      "translation": "一點一點地更靠近",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (每、逐漸)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "가까워져", "explanation": "가까워지다 (變近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "잡으려 할수록",
+      "translation": "越想抓住",
+      "analysis": [
+        { "point": "잡으려", "explanation": "잡다 (抓) + -려고 하다 (想要) 的縮略。" },
+        { "point": "할수록", "explanation": "하다 (做) + -(으)ㄹ수록 (越...越...)。" }
+      ]
+    },
+    {
+      "korean": "멀어지고 있어",
+      "translation": "正在變遠",
+      "analysis": [
+        { "point": "멀어지고 있어", "explanation": "멀어지다 (變遠) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "잔뜩 겁이 나서 나서",
+      "translation": "非常害怕 因為害怕",
+      "analysis": [
+        { "point": "잔뜩", "explanation": "副詞，滿滿地、非常地。" },
+        { "point": "겁이 나서", "explanation": "겁 (害怕) + -이 나다 (產生) + -아/어서 (因為)。" },
+        { "point": "나서", "explanation": "重複強調。" }
+      ]
+    },
+    {
+      "korean": "기다리고 있을게",
+      "translation": "會一直等待",
+      "analysis": [
+        { "point": "기다리고 있을게", "explanation": "기다리다 (等待) + -고 있다 (正在) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "타는 심장이 버티지 못해",
+      "translation": "燃燒的心臟無法承受",
+      "analysis": [
+        { "point": "타는", "explanation": "타다 (燃燒) 的冠詞形。" },
+        { "point": "심장이", "explanation": "심장 (心臟) + -이 (主格助詞)。" },
+        { "point": "버티지 못해", "explanation": "버티다 (支撐、承受) + -지 못하다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나를 전부 다 보낼게",
+      "translation": "會把我全部都送出去",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "전부 다", "explanation": "전부 (全部) + 다 (全部)，重複強調。" },
+        { "point": "보낼게", "explanation": "보내다 (送) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "그래야 네가 떠오를 수 있게 해",
+      "translation": "那樣才能讓你升起",
+      "analysis": [
+        { "point": "그래야", "explanation": "그러다 (那樣做) + -아/어야 (只有這樣才)。" },
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" },
+        { "point": "떠오를 수 있게", "explanation": "떠오르다 (升起) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" },
+        { "point": "해", "explanation": "하다 (做) 的非格式體，表示「讓...」。固定用法。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "더 이상 불러봤자",
+      "translation": "即使再呼喚",
+      "analysis": [
+        { "point": "더 이상", "explanation": "더 (更) + 이상 (以上)，表示「再也、更進一步」。" },
+        { "point": "불러봤자", "explanation": "부르다 (叫、呼喚) + -아/어 보다 (嘗試) + -았/었자 (即使...也無用)。" }
+      ]
+    },
+    {
+      "korean": "아무리 그래봤자",
+      "translation": "無論再怎麼做",
+      "analysis": [
+        { "point": "아무리", "explanation": "副詞，無論多麼。" },
+        { "point": "그래봤자", "explanation": "그러다 (那樣做) + -아/어 보다 (嘗試) + -았/었자 (即使...也無用)。" }
+      ]
+    },
+    {
+      "korean": "조금도 꿈쩍하지 않잖아",
+      "translation": "一點也不動彈不是嗎",
+      "analysis": [
+        { "point": "조금도", "explanation": "조금 (一點) + -도 (也)。" },
+        { "point": "꿈쩍하지 않잖아", "explanation": "꿈쩍하다 (動彈) + -지 않다 (否定) + -잖아 (不是嘛/反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "됐어 이제 그만",
+      "translation": "夠了 現在停止",
+      "analysis": [
+        { "point": "됐어", "explanation": "되다 (成為/足夠) 的過去式，表示「夠了、行了」。固定表達。" },
+        { "point": "이제 그만", "explanation": "이제 (現在) + 그만 (停止)。" }
+      ]
+    },
+    {
+      "korean": "꿈에서 깨어나",
+      "translation": "從夢中醒來",
+      "analysis": [
+        { "point": "꿈에서", "explanation": "꿈 (夢) + -에서 (從)。" },
+        { "point": "깨어나", "explanation": "깨어나다 (醒來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아무것도 모른척하지 말아줘",
+      "translation": "請不要假裝什麼都不知道",
+      "analysis": [
+        { "point": "아무것도", "explanation": "아무것 (任何東西) + -도 (也)。" },
+        { "point": "모른척하지", "explanation": "모르다 (不知道) + -ㄴ 척하다 (假裝) + -지 (連接)。" },
+        { "point": "말아줘", "explanation": "말다 (不要) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "네 생각을 켜놓은 채 잠이 들어도",
+      "translation": "即使開著對你的思念入睡",
+      "analysis": [
+        { "point": "네 생각을", "explanation": "네 (你的) + 생각 (思念) + -을 (受格助詞)。" },
+        { "point": "켜놓은 채", "explanation": "켜다 (打開) + -아/어 놓다 (維持狀態) 的冠詞形 + 채 (保持狀態)。" },
+        { "point": "잠이 들어도", "explanation": "잠이 들다 (入睡) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "어차피 아무 일도 일어나지 않아",
+      "translation": "反正什麼事都不會發生",
+      "analysis": [
+        { "point": "어차피", "explanation": "副詞，反正、無論如何。" },
+        { "point": "아무 일도", "explanation": "아무 (任何) + 일 (事) + -도 (也)。" },
+        { "point": "일어나지 않아", "explanation": "일어나다 (發生) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저기 해야 해야",
+      "translation": "那裡 太陽啊 太陽啊",
+      "analysis": [
+        { "point": "저기", "explanation": "指示代詞，那裡。" },
+        { "point": "해야", "explanation": "해 (太陽) + -야 (呼格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너를 봐야 봐야",
+      "translation": "要看 要看 你",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "봐야", "explanation": "보다 (看) + -아/어야 (必須)。" }
+      ]
+    },
+    {
+      "korean": "내가 불확실한 미래마저",
+      "translation": "就連那不确定的未來",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "불확실한", "explanation": "불확실하다 (不确定的) 的冠詞形。" },
+        { "point": "미래마저", "explanation": "미래 (未來) + -마저 (連...也)。" }
+      ]
+    },
+    {
+      "korean": "조금씩 더 가까워져",
+      "translation": "一點一點地更靠近",
+      "analysis": [
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (每、逐漸)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "가까워져", "explanation": "가까워지다 (變近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "잡으려 할수록",
+      "translation": "越想抓住",
+      "analysis": [
+        { "point": "잡으려", "explanation": "잡다 (抓) + -려고 하다 (想要) 的縮略。" },
+        { "point": "할수록", "explanation": "하다 (做) + -(으)ㄹ수록 (越...越...)。" }
+      ]
+    },
+    {
+      "korean": "멀어지고 있어",
+      "translation": "正在變遠",
+      "analysis": [
+        { "point": "멀어지고 있어", "explanation": "멀어지다 (變遠) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "잔뜩 겁이 나서 나서",
+      "translation": "非常害怕 因為害怕",
+      "analysis": [
+        { "point": "잔뜩", "explanation": "副詞，滿滿地、非常地。" },
+        { "point": "겁이 나서", "explanation": "겁 (害怕) + -이 나다 (產生) + -아/어서 (因為)。" },
+        { "point": "나서", "explanation": "重複強調。" }
+      ]
+    },
+    {
+      "korean": "기다리고 있을게",
+      "translation": "會一直等待",
+      "analysis": [
+        { "point": "기다리고 있을게", "explanation": "기다리다 (等待) + -고 있다 (正在) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "타는 심장이 버티지 못해",
+      "translation": "燃燒的心臟無法承受",
+      "analysis": [
+        { "point": "타는", "explanation": "타다 (燃燒) 的冠詞形。" },
+        { "point": "심장이", "explanation": "심장 (心臟) + -이 (主格助詞)。" },
+        { "point": "버티지 못해", "explanation": "버티다 (支撐、承受) + -지 못하다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나를 전부 다 보낼게",
+      "translation": "會把我全部都送出去",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "전부 다", "explanation": "전부 (全部) + 다 (全部)，重複強調。" },
+        { "point": "보낼게", "explanation": "보내다 (送) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "그래야 네가 떠오를 수 있게 해",
+      "translation": "那樣才能讓你升起",
+      "analysis": [
+        { "point": "그래야", "explanation": "그러다 (那樣做) + -아/어야 (只有這樣才)。" },
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" },
+        { "point": "떠오를 수 있게", "explanation": "떠오르다 (升起) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" },
+        { "point": "해", "explanation": "하다 (做) 的非格式體，表示「讓...」。固定用法。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "기억 속에서 널 기억해",
+      "translation": "在記憶中 記住你",
+      "analysis": [
+        { "point": "기억 속에서", "explanation": "기억 (記憶) + 속 (裡面) + -에서 (在)。" },
+        { "point": "널 기억해", "explanation": "너를 (你) 的縮略 + 기억하다 (記憶) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "잠시만 내 얘기를 들어줘",
+      "translation": "請暫時聽我說",
+      "analysis": [
+        { "point": "잠시만", "explanation": "잠시 (暫時) + -만 (只)。" },
+        { "point": "내 얘기를", "explanation": "내 (我的) + 이야기 (話) 的縮略 + -를 (受格助詞)。" },
+        { "point": "들어줘", "explanation": "듣다 (聽) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네가 필요해 다 와 가잖아",
+      "translation": "需要你 快到了不是嗎",
+      "analysis": [
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" },
+        { "point": "필요해", "explanation": "필요하다 (需要) 的非格式體。" },
+        { "point": "다 와 가잖아", "explanation": "다 (全部) + 오다 (來) + -아/어 가다 (去/持續) + -잖아 (不是嘛/反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "대체 언제 어둠 속을 벗어나게 할 거야",
+      "translation": "到底何時才能讓我脫離黑暗",
+      "analysis": [
+        { "point": "대체", "explanation": "副詞，到底、究竟。" },
+        { "point": "언제", "explanation": "何時。" },
+        { "point": "어둠 속을", "explanation": "어둠 (黑暗) + 속 (裡面) + -을 (受格助詞)。" },
+        { "point": "벗어나게 할 거야", "explanation": "벗어나다 (脫離) + -게 하다 (讓) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "차디찬 찬란한",
+      "translation": "冰冷又燦爛的",
+      "analysis": [
+        { "point": "차디찬", "explanation": "차갑다 (冰冷的) 的強調形，차디차다 的冠詞形。" },
+        { "point": "찬란한", "explanation": "찬란하다 (燦爛的) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "해야 해야",
+      "translation": "太陽啊 太陽啊",
+      "analysis": [
+        { "point": "해야", "explanation": "해 (太陽) + -야 (呼格助詞)。" }
+      ]
+    },
+    {
+      "korean": "숨어 봐야 봐야",
+      "translation": "即使試著躲藏",
+      "analysis": [
+        { "point": "숨어 봐야", "explanation": "숨다 (躲藏) + -아/어 보다 (嘗試) + -아/어야 (即使)。" },
+        { "point": "봐야", "explanation": "重複強調。" }
+      ]
+    },
+    {
+      "korean": "절대 돌아가지 않을 거야",
+      "translation": "絕對不會回去",
+      "analysis": [
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "돌아가지 않을 거야", "explanation": "돌아가다 (回去) + -지 않다 (否定) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "[유/신]나를 붙잡아줘",
+      "translation": "抓住我",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "붙잡아줘", "explanation": "붙잡다 (抓住) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네가 시작하길",
+      "translation": "希望你開始",
+      "analysis": [
+        { "point": "네가", "explanation": "너 (你) + -가 (主格助詞)。" },
+        { "point": "시작하길", "explanation": "시작하다 (開始) + -기를 (名詞化，表示希望)。" }
+      ]
+    },
+    {
+      "korean": "기다리고 있어",
+      "translation": "正在等待",
+      "analysis": [
+        { "point": "기다리고 있어", "explanation": "기다리다 (等待) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "처음부터 마지막까지",
+      "translation": "從開始到最後",
+      "analysis": [
+        { "point": "처음부터", "explanation": "처음 (開始) + -부터 (從)。" },
+        { "point": "마지막까지", "explanation": "마지막 (最後) + -까지 (到)。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 알고 싶어져",
+      "translation": "變得想知道你的心",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "알고 싶어져", "explanation": "알다 (知道) + -고 싶다 (想) + -아/어지다 (變得)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "새파랗다", "chinese": "湛藍的", "pos": "形容詞" },
+    { "korean": "새빨갛다", "chinese": "火紅的", "pos": "形容詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "복잡하다", "chinese": "複雜的", "pos": "形容詞" },
+    { "korean": "사람", "chinese": "人", "pos": "名詞" },
+    { "korean": "맞다", "chinese": "對、正確", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "일어나다", "chinese": "發生、起來", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "해야", "chinese": "太陽啊", "pos": "名詞+呼格" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "불확실하다", "chinese": "不确定的", "pos": "形容詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "조금씩", "chinese": "一點一點地", "pos": "副詞" },
+    { "korean": "가까워지다", "chinese": "變近", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓", "pos": "動詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "잔뜩", "chinese": "非常地", "pos": "副詞" },
+    { "korean": "겁", "chinese": "害怕", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "타다", "chinese": "燃燒", "pos": "動詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "버티다", "chinese": "支撐、承受", "pos": "動詞" },
+    { "korean": "전부", "chinese": "全部", "pos": "名詞" },
+    { "korean": "보내다", "chinese": "送", "pos": "動詞" },
+    { "korean": "떠오르다", "chinese": "升起", "pos": "動詞" },
+    { "korean": "이상", "chinese": "以上", "pos": "名詞" },
+    { "korean": "부르다", "chinese": "叫、呼喚", "pos": "動詞" },
+    { "korean": "아무리", "chinese": "無論多麼", "pos": "副詞" },
+    { "korean": "꿈쩍하다", "chinese": "動彈", "pos": "動詞" },
+    { "korean": "그만", "chinese": "停止", "pos": "副詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "깨어나다", "chinese": "醒來", "pos": "動詞" },
+    { "korean": "아무것", "chinese": "任何東西", "pos": "代名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "척하다", "chinese": "假裝", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法、思念", "pos": "名詞" },
+    { "korean": "켜다", "chinese": "打開", "pos": "動詞" },
+    { "korean": "잠", "chinese": "睡", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "어차피", "chinese": "反正", "pos": "副詞" },
+    { "korean": "일", "chinese": "事", "pos": "名詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "이야기", "chinese": "話、故事", "pos": "名詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "대체", "chinese": "到底", "pos": "副詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "벗어나다", "chinese": "脫離", "pos": "動詞" },
+    { "korean": "차디차다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "찬란하다", "chinese": "燦爛的", "pos": "形容詞" },
+    { "korean": "숨다", "chinese": "躲藏", "pos": "動詞" },
+    { "korean": "절대", "chinese": "絕對", "pos": "副詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "붙잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "처음", "chinese": "開始、最初", "pos": "名詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" }
+  ]
+}

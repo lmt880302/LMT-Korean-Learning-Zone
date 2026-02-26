@@ -1,47 +1,175 @@
 [
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-bad-blood",
+    "title": "Bad Blood",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-bad-blood.json"
   }, 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-dalala",
+    "title": "DALALA",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-dalala.json"
   },   
     {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-no-matter",
+    "title": "No Matter",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-no-matter.json"
   }, 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
-  },   
+    "id": "yuju-sequence",
+    "title": "Sequence",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-sequence.json"
+  },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-sunset",
+    "title": "Sunset",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-sunset.json"
+  },      
+  {
+    "id": "yuju-accidental-spring",
+    "title": "우연히 봄",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-accidental-spring.json"
+  },      
+  {
+    "id": "yuju-cold-winter",
+    "title": "Cold Winter",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-cold-winter.json"
+  },
+  {
+    "id": "yuju-orion",
+    "title": "Orion",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-orion.json"
+  },
+  {
+    "id": "yuju-play",
+    "title": "놀이 (Play)",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-play.json"
   }, 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-reply",
+    "title": "REPLY",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-reply.json"
   },   
   
+
+
+
+  {
+    "id": "GFRIEND-FINGERTIP",
+    "title": "FINGERTIP",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-FINGERTIP.json"
+  },
+
+  {
+    "id": "GFRIEND-Glass Bead",
+    "title": "Glass Bead (유리구슬)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Glass Bead.json"
+  },
+  {
+    "id": "GFRIEND-Me Gustas Tu",
+    "title": "Me Gustas Tu (오늘부터 우리는)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Me Gustas Tu.json"
+  },
+  {
+    "id": "GFRIEND-Rough",
+    "title": "Rough (시간을 달려서)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Rough.json"
+  },
+  {
+    "id": "GFRIEND-Navillera",
+    "title": "Navillera (너 그리고 나)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Navillera.json"
+  },
+  {
+    "id": "GFRIEND-LOVE WHISPER",
+    "title": "LOVE WHISPER (귀를 기울이면)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-LOVE WHISPER.json"
+  },
+  {
+    "id": "GFRIEND-Sunrise",
+    "title": "Sunrise (해야)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Sunrise.json"
+  },
+  {
+    "id": "GFRIEND-Crossroads",
+    "title": "Crossroads (교차로)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Crossroads.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+
+
+
   {
     "id": "jeongeunji-blue-whale",
     "title": "Blue Whale",
     "artist": "Jeong Eun Ji (정은지)",
     "lyricsFile": "../data/lyrics/eongeunji-blue-whale.json"
   },
+
   {
     "id": "jeongeunji-away",
     "title": "AWay",

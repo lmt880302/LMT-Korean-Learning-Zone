@@ -1,0 +1,850 @@
+{
+  "id": "yuju-accidental-spring",
+  "title": "우연히 봄 (Accidental Spring)",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우연히 내게 오나봐",
+      "translation": "似乎是偶然地向我走來",
+      "analysis": [
+        { "point": "우연히", "explanation": "副詞，偶然地。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "오나봐", "explanation": "오다 (來) + -나 보다 (看來是...)。" }
+      ]
+    },
+    {
+      "korean": "봄 향기가 보여",
+      "translation": "看見春天的香氣",
+      "analysis": [
+        { "point": "봄 향기가", "explanation": "봄 (春天) + 향기 (香氣) + -가 (主格助詞)。" },
+        { "point": "보여", "explanation": "보이다 (被看見) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너도 같이 오나봐",
+      "translation": "你似乎也一起來了",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "오나봐", "explanation": "오다 (來) + -나 보다 (看來是...)。" }
+      ]
+    },
+    {
+      "korean": "저 멀리서 니 향기가",
+      "translation": "在那遠處 你的香氣",
+      "analysis": [
+        { "point": "저 멀리서", "explanation": "저 (那) + 멀리 (遠處) + -서 (從)。" },
+        { "point": "니 향기가", "explanation": "니 (你的，口語) + 향기 (香氣) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "설레는 코끝에 나의 입술에",
+      "translation": "在心動的鼻尖 在我的嘴唇上",
+      "analysis": [
+        { "point": "설레는", "explanation": "설레다 (心動) 的現在定語形。" },
+        { "point": "코끝에", "explanation": "코끝 (鼻尖) + -에 (場所助詞)。" },
+        { "point": "나의 입술에", "explanation": "나의 (我的) + 입술 (嘴唇) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "괜찮은 느낌 이 떨림",
+      "translation": "不錯的感覺 這顫動",
+      "analysis": [
+        { "point": "괜찮은 느낌", "explanation": "괜찮다 (不錯的) 的定語形 + 느낌 (感覺)。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動、悸動)。" }
+      ]
+    },
+    {
+      "korean": "나도 몰래 우연히 봄",
+      "translation": "我也不知不覺地 偶然的春天",
+      "analysis": [
+        { "point": "나도 몰래", "explanation": "나 (我) + -도 (也) + 몰래 (偷偷地、不知不覺地)。" },
+        { "point": "우연히 봄", "explanation": "우연히 (偶然地) + 봄 (春天)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "어 어느새",
+      "translation": "喔 不知不覺間",
+      "analysis": [
+        { "point": "어", "explanation": "感嘆詞，喔。" },
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" }
+      ]
+    },
+    {
+      "korean": "겨울 지나 봄이야",
+      "translation": "冬天過去 是春天了",
+      "analysis": [
+        { "point": "겨울", "explanation": "名詞，冬天。" },
+        { "point": "지나", "explanation": "지나다 (過去) 的非格式體。" },
+        { "point": "봄이야", "explanation": "봄 (春天) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "여전히 난 너",
+      "translation": "我依然 你",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依然。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "너", "explanation": "你。" }
+      ]
+    },
+    {
+      "korean": "앞에선 돌이야",
+      "translation": "在你面前是石頭",
+      "analysis": [
+        { "point": "앞에선", "explanation": "앞 (前面) + -에서 (在) + -는 (強調) 的縮略。" },
+        { "point": "돌이야", "explanation": "돌 (石頭) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "난 아직 이게",
+      "translation": "我至今 這",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "아직", "explanation": "副詞，至今、還。" },
+        { "point": "이게", "explanation": "이것이 (這個) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "믿기지가 않지만",
+      "translation": "雖然無法相信",
+      "analysis": [
+        { "point": "믿기지가", "explanation": "믿기다 (被相信) + -지 (否定詞根) + -가 (主格助詞)。" },
+        { "point": "않지만", "explanation": "않다 (不) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "내 왼손은",
+      "translation": "我的左手",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "왼손은", "explanation": "왼손 (左手) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "지금까지도 너의 향기가",
+      "translation": "直到現在也 你的香氣",
+      "analysis": [
+        { "point": "지금까지도", "explanation": "지금 (現在) + -까지 (直到) + -도 (也)。" },
+        { "point": "너의 향기가", "explanation": "너의 (你的) + 향기 (香氣) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "미묘하게 흘렀던 분위기에",
+      "translation": "在微妙地流淌的氛圍中",
+      "analysis": [
+        { "point": "미묘하게", "explanation": "미묘하다 (微妙的) + -게 (副詞形)。" },
+        { "point": "흘렀던", "explanation": "흐르다 (流淌) 的過去回想着定語形。" },
+        { "point": "분위기에", "explanation": "분위기 (氛圍) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "아직까지 난 가까스로 숨 쉬네",
+      "translation": "直到現在我 勉強地呼吸著",
+      "analysis": [
+        { "point": "아직까지", "explanation": "아직 (還) + -까지 (直到)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "가까스로", "explanation": "副詞，勉強地。" },
+        { "point": "숨 쉬네", "explanation": "숨 쉬다 (呼吸) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "무대 위완 다르게 니 눈을 피해",
+      "translation": "與舞台上不同 避開你的眼睛",
+      "analysis": [
+        { "point": "무대 위완", "explanation": "무대 (舞台) + 위 (上面) + -와는 (和...不同) 的縮略。" },
+        { "point": "다르게", "explanation": "다르다 (不同) + -게 (副詞形)。" },
+        { "point": "니 눈을 피해", "explanation": "니 (你的) + 눈 (眼睛) + -을 (受格助詞) + 피하다 (避開) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "고개를 돌렸던",
+      "translation": "曾轉過頭的",
+      "analysis": [
+        { "point": "고개를", "explanation": "고개 (頭) + -를 (受格助詞)。" },
+        { "point": "돌렸던", "explanation": "돌리다 (轉動) 的過去回想着定語形。" }
+      ]
+    },
+    {
+      "korean": "내 모습에 한숨 쉬네",
+      "translation": "對我的模樣 嘆氣",
+      "analysis": [
+        { "point": "내 모습에", "explanation": "내 (我的) + 모습 (模樣) + -에 (對)。" },
+        { "point": "한숨 쉬네", "explanation": "한숨 (嘆氣) + 쉬다 (呼吸、休息) 的非格式體，意為嘆氣。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "오랜만에 느껴지는",
+      "translation": "時隔許久感受到的",
+      "analysis": [
+        { "point": "오랜만에", "explanation": "副詞，時隔許久。" },
+        { "point": "느껴지는", "explanation": "느껴지다 (被感受到) 的現在定語形。" }
+      ]
+    },
+    {
+      "korean": "이 떨림이 날 단순하게 만들어",
+      "translation": "這顫動讓我變得單純",
+      "analysis": [
+        { "point": "이 떨림이", "explanation": "이 (這) + 떨림 (顫動) + -이 (主格助詞)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "단순하게 만들어", "explanation": "단순하다 (單純的) + -게 (使得) + 만들다 (製造、使成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "딱 너만 아는 거리지",
+      "translation": "正是只有你才知道的距離",
+      "analysis": [
+        { "point": "딱", "explanation": "副詞，正好、恰好。" },
+        { "point": "너만", "explanation": "너 (你) + -만 (只有)。" },
+        { "point": "아는 거리지", "explanation": "알다 (知道) 的現在定語形 + 거리 (距離) + -지 (陳述形語尾)。" }
+      ]
+    },
+    {
+      "korean": "다 고쳤다고 생각했던 버벅임이",
+      "translation": "以為都改掉了的結巴",
+      "analysis": [
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "고쳤다고", "explanation": "고치다 (修改、改正) 的過去形 + -다고 (引用)。" },
+        { "point": "생각했던", "explanation": "생각하다 (想) 的過去回想着定語形。" },
+        { "point": "버벅임이", "explanation": "버벅임 (結巴、遲鈍) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "또 도져서 준비했던",
+      "translation": "又復發 曾準備好的",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "도져서", "explanation": "도지다 (復發) + -아/어서 (因為)。" },
+        { "point": "준비했던", "explanation": "준비하다 (準備) 的過去回想着定語形。" }
+      ]
+    },
+    {
+      "korean": "말을 잊어버리지",
+      "translation": "把話忘記了",
+      "analysis": [
+        { "point": "말을", "explanation": "말 (話) + -을 (受格助詞)。" },
+        { "point": "잊어버리지", "explanation": "잊어버리다 (忘記) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Rap",
+      "korean": "난 주워 담지 못할",
+      "translation": "我無法撿起收藏的",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "주워 담지 못할", "explanation": "줍다 (撿) + -아/어 담다 (裝) + -지 못하다 (無法) 的未來定語形。" }
+      ]
+    },
+    {
+      "korean": "말은 절대 안 해",
+      "translation": "話絕對不說",
+      "analysis": [
+        { "point": "말은", "explanation": "말 (話) + -은 (主題助詞)。" },
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "안 해", "explanation": "안 하다 (不做) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "원하는 걸 말해봐",
+      "translation": "說說看你想要什麼",
+      "analysis": [
+        { "point": "원하는 걸", "explanation": "원하다 (想要) 的現在定語形 + 것 (東西) + -을 (受格助詞) 的縮略。" },
+        { "point": "말해봐", "explanation": "말하다 (說) + -아/어 보다 (嘗試) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "널 위해서만 할게",
+      "translation": "只為你做",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "위해서만", "explanation": "위하다 (為) + -아/어서 (為了) + -만 (只)。" },
+        { "point": "할게", "explanation": "하다 (做) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "너 빼곤 다",
+      "translation": "除了你 全都",
+      "analysis": [
+        { "point": "너", "explanation": "你。" },
+        { "point": "빼곤", "explanation": "빼다 (除去) + -고는 (如果除去) 的縮略。" },
+        { "point": "다", "explanation": "副詞，全部。" }
+      ]
+    },
+    {
+      "korean": "색칠할 수 있어 까맣게",
+      "translation": "可以塗色 塗成黑色",
+      "analysis": [
+        { "point": "색칠할 수 있어", "explanation": "색칠하다 (塗色) + -(으)ㄹ 수 있다 (可以)。" },
+        { "point": "까맣게", "explanation": "까맣다 (漆黑的) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "korean": "천천히 갈게 조금 더 가깝게",
+      "translation": "我會慢慢走 再近一點",
+      "analysis": [
+        { "point": "천천히", "explanation": "副詞，慢慢地。" },
+        { "point": "갈게", "explanation": "가다 (去) + -(으)ㄹ게 (表示意志)。" },
+        { "point": "조금 더", "explanation": "조금 (一點) + 더 (更)。" },
+        { "point": "가깝게", "explanation": "가깝다 (近的) + -게 (副詞形)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우연히 내게 오나봐",
+      "translation": "似乎是偶然地向我走來",
+      "analysis": [
+        { "point": "우연히", "explanation": "副詞，偶然地。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "오나봐", "explanation": "오다 (來) + -나 보다 (看來是...)。" }
+      ]
+    },
+    {
+      "korean": "봄 향기가 보여",
+      "translation": "看見春天的香氣",
+      "analysis": [
+        { "point": "봄 향기가", "explanation": "봄 (春天) + 향기 (香氣) + -가 (主格助詞)。" },
+        { "point": "보여", "explanation": "보이다 (被看見) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너도 같이 오나봐",
+      "translation": "你似乎也一起來了",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "오나봐", "explanation": "오다 (來) + -나 보다 (看來是...)。" }
+      ]
+    },
+    {
+      "korean": "저 멀리서 니 향기가",
+      "translation": "在那遠處 你的香氣",
+      "analysis": [
+        { "point": "저 멀리서", "explanation": "저 (那) + 멀리 (遠處) + -서 (從)。" },
+        { "point": "니 향기가", "explanation": "니 (你的，口語) + 향기 (香氣) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "설레는 코끝에 나의 입술에",
+      "translation": "在心動的鼻尖 在我的嘴唇上",
+      "analysis": [
+        { "point": "설레는", "explanation": "설레다 (心動) 的現在定語形。" },
+        { "point": "코끝에", "explanation": "코끝 (鼻尖) + -에 (場所助詞)。" },
+        { "point": "나의 입술에", "explanation": "나의 (我的) + 입술 (嘴唇) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "괜찮은 느낌 이 떨림",
+      "translation": "不錯的感覺 這顫動",
+      "analysis": [
+        { "point": "괜찮은 느낌", "explanation": "괜찮다 (不錯的) 的定語形 + 느낌 (感覺)。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動、悸動)。" }
+      ]
+    },
+    {
+      "korean": "나도 몰래 우연히 봄",
+      "translation": "我也不知不覺地 偶然的春天",
+      "analysis": [
+        { "point": "나도 몰래", "explanation": "나 (我) + -도 (也) + 몰래 (偷偷地、不知不覺地)。" },
+        { "point": "우연히 봄", "explanation": "우연히 (偶然地) + 봄 (春天)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "우연히 봄",
+      "translation": "偶然的春天",
+      "analysis": [
+        { "point": "우연히 봄", "explanation": "우연히 (偶然地) + 봄 (春天)。" }
+      ]
+    },
+    {
+      "korean": "어 아직까지 향기가 짙네",
+      "translation": "喔 直到現在香氣還很濃",
+      "analysis": [
+        { "point": "어", "explanation": "感嘆詞，喔。" },
+        { "point": "아직까지", "explanation": "아직 (還) + -까지 (直到)。" },
+        { "point": "향기가", "explanation": "향기 (香氣) + -가 (主格助詞)。" },
+        { "point": "짙네", "explanation": "짙다 (濃的) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "발걸음이 가벼워",
+      "translation": "腳步輕盈",
+      "analysis": [
+        { "point": "발걸음이", "explanation": "발걸음 (腳步) + -이 (主格助詞)。" },
+        { "point": "가벼워", "explanation": "가볍다 (輕的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "집에 가는 길엔",
+      "translation": "在回家的路上",
+      "analysis": [
+        { "point": "집에", "explanation": "집 (家) + -에 (場所助詞)。" },
+        { "point": "가는 길엔", "explanation": "가다 (去) 的現在定語形 + 길 (路) + -에는 (在...上) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "더 가까워질 너와 나를",
+      "translation": "將會更親近的你和我的",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "가까워질", "explanation": "가까워지다 (變親近) 的未來定語形。" },
+        { "point": "너와 나를", "explanation": "너 (你) + -와 (和) + 나 (我) + -를 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "상상하는 내 모습이",
+      "translation": "想像中的我的樣子",
+      "analysis": [
+        { "point": "상상하는", "explanation": "상상하다 (想像) 的現在定語形。" },
+        { "point": "내 모습이", "explanation": "내 (我的) + 모습 (模樣) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "오글거려 몸서리치네",
+      "translation": "肉麻得打了個寒顫",
+      "analysis": [
+        { "point": "오글거려", "explanation": "오글거리다 (肉麻、起雞皮疙瘩) 的非格式體。" },
+        { "point": "몸서리치네", "explanation": "몸서리치다 (打寒顫) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "어 어 머릿속이",
+      "translation": "喔 喔 腦海中",
+      "analysis": [
+        { "point": "어 어", "explanation": "感嘆詞，喔喔。" },
+        { "point": "머릿속이", "explanation": "머릿속 (腦海) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "하얘지기 때문에",
+      "translation": "因為變白",
+      "analysis": [
+        { "point": "하얘지기", "explanation": "하얘지다 (變白) 的名詞形。" },
+        { "point": "때문에", "explanation": "因為。" }
+      ]
+    },
+    {
+      "korean": "하루 종일 날씨",
+      "translation": "整天 天氣",
+      "analysis": [
+        { "point": "하루 종일", "explanation": "하루 (一天) + 종일 (整天)。" },
+        { "point": "날씨", "explanation": "名詞，天氣。" }
+      ]
+    },
+    {
+      "korean": "얘기만 반복하게 돼",
+      "translation": "只會反覆說起",
+      "analysis": [
+        { "point": "얘기만", "explanation": "얘기 (故事、話) + -만 (只)。" },
+        { "point": "반복하게 돼", "explanation": "반복하다 (反覆) + -게 되다 (變得) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "오로지 난 너 하나 때문에",
+      "translation": "只因為你一個",
+      "analysis": [
+        { "point": "오로지", "explanation": "副詞，只、僅僅。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "너 하나 때문에", "explanation": "너 (你) + 하나 (一個) + 때문에 (因為)。" }
+      ]
+    },
+    {
+      "korean": "다른 것들에겐 무감각하게 돼",
+      "translation": "對其他事物變得麻木",
+      "analysis": [
+        { "point": "다른 것들에겐", "explanation": "다르다 (不同的) 的定語形 + 것 (東西) + -들 (複數) + -에게는 (對...來說) 的縮略。" },
+        { "point": "무감각하게 돼", "explanation": "무감각하다 (麻木的) + -게 되다 (變得) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 2",
+      "korean": "정적이 만드는 긴장감은",
+      "translation": "寂靜造成的緊張感",
+      "analysis": [
+        { "point": "정적이", "explanation": "정적 (寂靜) + -이 (主格助詞)。" },
+        { "point": "만드는", "explanation": "만들다 (製造) 的現在定語形。" },
+        { "point": "긴장감은", "explanation": "긴장감 (緊張感) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "오히려 설레어",
+      "translation": "反而心動",
+      "analysis": [
+        { "point": "오히려", "explanation": "副詞，反而。" },
+        { "point": "설레어", "explanation": "설레다 (心動) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나를 미소 짓게 만들어",
+      "translation": "讓我微笑",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "미소 짓게", "explanation": "미소 (微笑) + 짓다 (做) + -게 (使得)。" },
+        { "point": "만들어", "explanation": "만들다 (使成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "모른 척 하려 했던",
+      "translation": "曾想裝作不知道的",
+      "analysis": [
+        { "point": "모른 척 하려", "explanation": "모르다 (不知道) + -ㄴ 척 하다 (假裝) + -려 (想要)。" },
+        { "point": "했던", "explanation": "하다 (做) 的過去回想着定語形。" }
+      ]
+    },
+    {
+      "korean": "니 옆의 남자들은",
+      "translation": "你身邊的男人們",
+      "analysis": [
+        { "point": "니 옆의", "explanation": "니 (你的) + 옆 (旁邊) + -의 (的)。" },
+        { "point": "남자들은", "explanation": "남자 (男人) + -들 (複數) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "흐릿했던 내 눈 앞에",
+      "translation": "在曾模糊的我的眼前",
+      "analysis": [
+        { "point": "흐릿했던", "explanation": "흐릿하다 (模糊的) 的過去回想着定語形。" },
+        { "point": "내 눈 앞에", "explanation": "내 (我的) + 눈 (眼睛) + 앞 (前面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "불을 키게 만들어",
+      "translation": "點亮了燈",
+      "analysis": [
+        { "point": "불을", "explanation": "불 (火、燈) + -을 (受格助詞)。" },
+        { "point": "키게 만들어", "explanation": "키다 (點亮) + -게 만들다 (使...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 3",
+      "korean": "겨울은 유난히도 추웠고",
+      "translation": "冬天特別地寒冷",
+      "analysis": [
+        { "point": "겨울은", "explanation": "겨울 (冬天) + -은 (主題助詞)。" },
+        { "point": "유난히도", "explanation": "유난히 (特別地) + -도 (強調)。" },
+        { "point": "추웠고", "explanation": "춥다 (冷) 的過去形 + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "다시 돌아온",
+      "translation": "再次回來的",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "돌아온", "explanation": "돌아오다 (回來) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "그토록 기다렸던 봄",
+      "translation": "如此等待的春天",
+      "analysis": [
+        { "point": "그토록", "explanation": "副詞，那樣地、如此。" },
+        { "point": "기다렸던", "explanation": "기다리다 (等待) 的過去回想着定語形。" },
+        { "point": "봄", "explanation": "名詞，春天。" }
+      ]
+    },
+    {
+      "korean": "움직이지 못하도록",
+      "translation": "為了無法動彈",
+      "analysis": [
+        { "point": "움직이지", "explanation": "움직이다 (動) + -지 (否定詞根)。" },
+        { "point": "못하도록", "explanation": "못하다 (不能) + -도록 (使得)。" }
+      ]
+    },
+    {
+      "korean": "잡고 있고 싶어",
+      "translation": "想抓住不放",
+      "analysis": [
+        { "point": "잡고", "explanation": "잡다 (抓) + -고 (連接詞尾)。" },
+        { "point": "있고 싶어", "explanation": "있다 (在、有) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "날 더 느낄 수 있게",
+      "translation": "為了能更感受我",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "느낄 수 있게", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (可以) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "안고 있고 싶어",
+      "translation": "想擁抱著",
+      "analysis": [
+        { "point": "안고", "explanation": "안다 (擁抱) + -고 (連接詞尾)。" },
+        { "point": "있고 싶어", "explanation": "있다 (在、有) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우연히 내게 오나봐",
+      "translation": "似乎是偶然地向我走來",
+      "analysis": [
+        { "point": "우연히", "explanation": "副詞，偶然地。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "오나봐", "explanation": "오다 (來) + -나 보다 (看來是...)。" }
+      ]
+    },
+    {
+      "korean": "봄 향기가 보여",
+      "translation": "看見春天的香氣",
+      "analysis": [
+        { "point": "봄 향기가", "explanation": "봄 (春天) + 향기 (香氣) + -가 (主格助詞)。" },
+        { "point": "보여", "explanation": "보이다 (被看見) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너도 같이 오나봐",
+      "translation": "你似乎也一起來了",
+      "analysis": [
+        { "point": "너도", "explanation": "너 (你) + -도 (也)。" },
+        { "point": "같이", "explanation": "副詞，一起。" },
+        { "point": "오나봐", "explanation": "오다 (來) + -나 보다 (看來是...)。" }
+      ]
+    },
+    {
+      "korean": "저 멀리서 니 향기가",
+      "translation": "在那遠處 你的香氣",
+      "analysis": [
+        { "point": "저 멀리서", "explanation": "저 (那) + 멀리 (遠處) + -서 (從)。" },
+        { "point": "니 향기가", "explanation": "니 (你的，口語) + 향기 (香氣) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "설레는 코끝에 나의 입술에",
+      "translation": "在心動的鼻尖 在我的嘴唇上",
+      "analysis": [
+        { "point": "설레는", "explanation": "설레다 (心動) 的現在定語形。" },
+        { "point": "코끝에", "explanation": "코끝 (鼻尖) + -에 (場所助詞)。" },
+        { "point": "나의 입술에", "explanation": "나의 (我的) + 입술 (嘴唇) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "괜찮은 느낌 이 떨림",
+      "translation": "不錯的感覺 這顫動",
+      "analysis": [
+        { "point": "괜찮은 느낌", "explanation": "괜찮다 (不錯的) 的定語形 + 느낌 (感覺)。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動、悸動)。" }
+      ]
+    },
+    {
+      "korean": "나도 몰래 우연히 봄",
+      "translation": "我也不知不覺地 偶然的春天",
+      "analysis": [
+        { "point": "나도 몰래", "explanation": "나 (我) + -도 (也) + 몰래 (偷偷地、不知不覺地)。" },
+        { "point": "우연히 봄", "explanation": "우연히 (偶然地) + 봄 (春天)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "I love u so I love u",
+      "translation": "我愛你 所以我愛你",
+      "analysis": [
+        { "point": "I love u so I love u", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너무 쉬운 걸",
+      "translation": "太容易的事",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，太。" },
+        { "point": "쉬운 걸", "explanation": "쉽다 (容易的) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그래도 나 참고 있을게",
+      "translation": "但我會忍住的",
+      "analysis": [
+        { "point": "그래도", "explanation": "副詞，即使如此。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "참고 있을게", "explanation": "참다 (忍耐) + -고 있다 (正在) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "난 여자이니까",
+      "translation": "因為我是女人",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "여자이니까", "explanation": "여자 (女人) + -이니까 (因為是)。" }
+      ]
+    },
+    {
+      "korean": "하루 더 기다려",
+      "translation": "再多等一天",
+      "analysis": [
+        { "point": "하루", "explanation": "一天。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "기다려", "explanation": "기다리다 (等待) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "바보야 내게 말해봐",
+      "translation": "傻瓜啊 對我說說看",
+      "analysis": [
+        { "point": "바보야", "explanation": "바보 (傻瓜) + -야 (呼格)。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "말해봐", "explanation": "말하다 (說) + -아/어 보다 (嘗試) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "니 마음도 보여",
+      "translation": "看見了你的心",
+      "analysis": [
+        { "point": "니 마음도", "explanation": "니 (你的) + 마음 (心) + -도 (也)。" },
+        { "point": "보여", "explanation": "보이다 (被看見) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "갖고 싶다고 해봐",
+      "translation": "說說看想要擁有",
+      "analysis": [
+        { "point": "갖고 싶다고", "explanation": "갖다 (擁有) + -고 싶다 (想要) + -고 (引用)。" },
+        { "point": "해봐", "explanation": "하다 (說) + -아/어 보다 (嘗試) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "더 이상은 감추지 마",
+      "translation": "不要再隱藏了",
+      "analysis": [
+        { "point": "더 이상은", "explanation": "더 이상 (再也) + -은 (強調)。" },
+        { "point": "감추지 마", "explanation": "감추다 (隱藏) + -지 말다 (不要)。" }
+      ]
+    },
+    {
+      "korean": "어느새 내 앞에 이젠 내 앞에",
+      "translation": "不知不覺在我面前 現在在我面前",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "내 앞에", "explanation": "내 (我的) + 앞 (前面) + -에 (場所助詞)。" },
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "내 앞에", "explanation": "내 (我的) + 앞 (前面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "괜찮은 느낌 이 떨림",
+      "translation": "不錯的感覺 這顫動",
+      "analysis": [
+        { "point": "괜찮은 느낌", "explanation": "괜찮다 (不錯的) 的定語形 + 느낌 (感覺)。" },
+        { "point": "이 떨림", "explanation": "이 (這) + 떨림 (顫動、悸動)。" }
+      ]
+    },
+    {
+      "korean": "나도 몰래 우연히 봄",
+      "translation": "我也不知不覺地 偶然的春天",
+      "analysis": [
+        { "point": "나도 몰래", "explanation": "나 (我) + -도 (也) + 몰래 (偷偷地、不知不覺地)。" },
+        { "point": "우연히 봄", "explanation": "우연히 (偶然地) + 봄 (春天)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "우연히", "chinese": "偶然地", "pos": "副詞" },
+    { "korean": "봄", "chinese": "春天", "pos": "名詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "코끝", "chinese": "鼻尖", "pos": "名詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "괜찮다", "chinese": "不錯的、沒關係", "pos": "形容詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "떨림", "chinese": "顫動、悸動", "pos": "名詞" },
+    { "korean": "몰래", "chinese": "偷偷地、不知不覺地", "pos": "副詞" },
+    { "korean": "어느새", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "겨울", "chinese": "冬天", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
+    { "korean": "돌", "chinese": "石頭", "pos": "名詞" },
+    { "korean": "아직", "chinese": "還、至今", "pos": "副詞" },
+    { "korean": "믿기다", "chinese": "被相信", "pos": "動詞" },
+    { "korean": "왼손", "chinese": "左手", "pos": "名詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "미묘하다", "chinese": "微妙的", "pos": "形容詞" },
+    { "korean": "흐르다", "chinese": "流淌", "pos": "動詞" },
+    { "korean": "분위기", "chinese": "氛圍", "pos": "名詞" },
+    { "korean": "가까스로", "chinese": "勉強地", "pos": "副詞" },
+    { "korean": "숨 쉬다", "chinese": "呼吸", "pos": "動詞" },
+    { "korean": "무대", "chinese": "舞台", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "피하다", "chinese": "避開", "pos": "動詞" },
+    { "korean": "고개", "chinese": "頭", "pos": "名詞" },
+    { "korean": "돌리다", "chinese": "轉動", "pos": "動詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "한숨", "chinese": "嘆氣", "pos": "名詞" },
+    { "korean": "오랜만에", "chinese": "時隔許久", "pos": "副詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" },
+    { "korean": "단순하다", "chinese": "單純的", "pos": "形容詞" },
+    { "korean": "만들다", "chinese": "製造、使成為", "pos": "動詞" },
+    { "korean": "딱", "chinese": "正好、恰好", "pos": "副詞" },
+    { "korean": "거리", "chinese": "距離", "pos": "名詞" },
+    { "korean": "고치다", "chinese": "修改、改正", "pos": "動詞" },
+    { "korean": "생각하다", "chinese": "想", "pos": "動詞" },
+    { "korean": "버벅임", "chinese": "結巴、遲鈍", "pos": "名詞" },
+    { "korean": "도지다", "chinese": "復發", "pos": "動詞" },
+    { "korean": "준비하다", "chinese": "準備", "pos": "動詞" },
+    { "korean": "잊어버리다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "줍다", "chinese": "撿", "pos": "動詞" },
+    { "korean": "담다", "chinese": "裝", "pos": "動詞" },
+    { "korean": "절대", "chinese": "絕對", "pos": "副詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "위하다", "chinese": "為", "pos": "動詞" },
+    { "korean": "빼다", "chinese": "除去", "pos": "動詞" },
+    { "korean": "색칠하다", "chinese": "塗色", "pos": "動詞" },
+    { "korean": "까맣다", "chinese": "漆黑的", "pos": "形容詞" },
+    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
+    { "korean": "조금", "chinese": "一點", "pos": "副詞" },
+    { "korean": "가깝다", "chinese": "近的", "pos": "形容詞" },
+    { "korean": "짙다", "chinese": "濃的", "pos": "形容詞" },
+    { "korean": "발걸음", "chinese": "腳步", "pos": "名詞" },
+    { "korean": "가볍다", "chinese": "輕的", "pos": "形容詞" },
+    { "korean": "집", "chinese": "家", "pos": "名詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "가까워지다", "chinese": "變親近", "pos": "動詞" },
+    { "korean": "상상하다", "chinese": "想像", "pos": "動詞" },
+    { "korean": "오글거리다", "chinese": "肉麻、起雞皮疙瘩", "pos": "動詞" },
+    { "korean": "몸서리치다", "chinese": "打寒顫", "pos": "動詞" },
+    { "korean": "머릿속", "chinese": "腦海", "pos": "名詞" },
+    { "korean": "하얘지다", "chinese": "變白", "pos": "動詞" },
+    { "korean": "때문에", "chinese": "因為", "pos": "助詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "종일", "chinese": "整天", "pos": "副詞" },
+    { "korean": "날씨", "chinese": "天氣", "pos": "名詞" },
+    { "korean": "얘기", "chinese": "故事、話", "pos": "名詞" },
+    { "korean": "반복하다", "chinese": "反覆", "pos": "動詞" },
+    { "korean": "오로지", "chinese": "只、僅僅", "pos": "副詞" },
+    { "korean": "하나", "chinese": "一個", "pos": "數詞" },
+    { "korean": "무감각하다", "chinese": "麻木的", "pos": "形容詞" },
+    { "korean": "정적", "chinese": "寂靜", "pos": "名詞" },
+    { "korean": "긴장감", "chinese": "緊張感", "pos": "名詞" },
+    { "korean": "오히려", "chinese": "反而", "pos": "副詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做", "pos": "動詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "척", "chinese": "假裝", "pos": "名詞" },
+    { "korean": "남자", "chinese": "男人", "pos": "名詞" },
+    { "korean": "흐릿하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "불", "chinese": "火、燈", "pos": "名詞" },
+    { "korean": "키다", "chinese": "點亮", "pos": "動詞" },
+    { "korean": "유난히", "chinese": "特別地", "pos": "副詞" },
+    { "korean": "춥다", "chinese": "冷", "pos": "形容詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "그토록", "chinese": "那樣地、如此", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "움직이다", "chinese": "動", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "안고 싶다", "chinese": "想擁抱", "pos": "片語" },
+    { "korean": "쉽다", "chinese": "容易的", "pos": "形容詞" },
+    { "korean": "그래도", "chinese": "即使如此", "pos": "副詞" },
+    { "korean": "참다", "chinese": "忍耐", "pos": "動詞" },
+    { "korean": "여자", "chinese": "女人", "pos": "名詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "갖다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "감추다", "chinese": "隱藏", "pos": "動詞" }
+  ]
+}

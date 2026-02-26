@@ -1,0 +1,407 @@
+{
+  "id": "GFRIEND-Navillera",
+  "title": "Navillera (너 그리고 나)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "알 수 있었어 널 본 순간",
+      "translation": "我能知道 在看見你的瞬間",
+      "analysis": [
+        { "point": "알 수 있었어", "explanation": "알다 (知道) + -(으)ㄹ 수 있다 (能夠) 的過去式。" },
+        { "point": "널 본 순간", "explanation": "너를 (你) 的縮略 + 보다 (看) 的冠詞形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "korean": "뭔가 특별하다는 걸",
+      "translation": "有些特別的事",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某個東西) 的縮略。" },
+        { "point": "특별하다는 걸", "explanation": "특별하다 (特別的) + -다는 걸 (間接引語 + 受格，表示「...的事實」)。" }
+      ]
+    },
+    {
+      "korean": "눈빛 만으로도 느껴지니까",
+      "translation": "因為單憑眼神也能感受到",
+      "analysis": [
+        { "point": "눈빛 만으로도", "explanation": "눈빛 (眼神) + -만 (只) + -(으)로 (用) + -도 (也)。" },
+        { "point": "느껴지니까", "explanation": "느껴지다 (被感受到) + -니까 (因為)。" }
+      ]
+    },
+    {
+      "korean": "마음이 움직이는 걸",
+      "translation": "心在動",
+      "analysis": [
+        { "point": "마음이", "explanation": "마음 (心) + -이 (主格助詞)。" },
+        { "point": "움직이는 걸", "explanation": "움직이다 (移動/動搖) 的冠詞形 + 것 (東西) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "나비처럼 날아 나나나 나빌레라",
+      "translation": "像蝴蝶一樣飛翔 娜娜娜 Navillera",
+      "analysis": [
+        { "point": "나비처럼", "explanation": "나비 (蝴蝶) + -처럼 (像...一樣)。" },
+        { "point": "날아", "explanation": "날다 (飛) 的非格式體連接形。" },
+        { "point": "나나나", "explanation": "擬聲/感嘆詞，無特別文法意義。" },
+        { "point": "나빌레라", "explanation": "歌詞標題，Navillera，韓語中「蝴蝶」的古語。" }
+      ]
+    },
+    {
+      "korean": "바람아 바람아 불어라",
+      "translation": "風啊 風啊 吹吧",
+      "analysis": [
+        { "point": "바람아", "explanation": "바람 (風) + -아 (呼格助詞，呼喚時使用)。" },
+        { "point": "불어라", "explanation": "불다 (吹) + -어라 (命令形語尾)。" }
+      ]
+    },
+    {
+      "korean": "훨훨 날아가",
+      "translation": "翩翩飛去",
+      "analysis": [
+        { "point": "훨훨", "explanation": "擬態詞，輕盈飛翔的樣子。" },
+        { "point": "날아가", "explanation": "날아가다 (飛去) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너에게로 다가갈 수 있도록",
+      "translation": "為了能夠靠近你",
+      "analysis": [
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" },
+        { "point": "다가갈 수 있도록", "explanation": "다가가다 (靠近) + -(으)ㄹ 수 있다 (能夠) + -도록 (為了)。" }
+      ]
+    },
+    {
+      "korean": "하얀 진심을 담아",
+      "translation": "裝載著純白的心意",
+      "analysis": [
+        { "point": "하얀", "explanation": "하얗다 (白色的) 的冠詞形，引申為純潔的。" },
+        { "point": "진심을", "explanation": "진심 (真心) + -을 (受格助詞)。" },
+        { "point": "담아", "explanation": "담다 (裝載) 的非格式體連接形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "새롭게 시작해 볼래 너 그리고 나",
+      "translation": "要試著重新開始嗎 你和我",
+      "analysis": [
+        { "point": "새롭게", "explanation": "새롭다 (新的) + -게 (副詞形語尾)。" },
+        { "point": "시작해 볼래", "explanation": "시작하다 (開始) + -아/어 보다 (嘗試) + -(으)ㄹ래 (詢問意志)。" },
+        { "point": "너 그리고 나", "explanation": "너 (你) + 그리고 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 동경해 앞으로도 잘 부탁해",
+      "translation": "憧憬愛情 以後也請多多關照",
+      "analysis": [
+        { "point": "사랑을", "explanation": "사랑 (愛情) + -을 (受格助詞)。" },
+        { "point": "동경해", "explanation": "동경하다 (憧憬) 的非格式體。" },
+        { "point": "앞으로도", "explanation": "앞 (前面/未來) + -(으)로 (方向) + -도 (也)。" },
+        { "point": "잘 부탁해", "explanation": "잘 (好好地) + 부탁하다 (拜託)，常用問候語，請多多關照。" }
+      ]
+    },
+    {
+      "korean": "모아둔 마음을 주겠어",
+      "translation": "會給你收藏已久的心意",
+      "analysis": [
+        { "point": "모아둔", "explanation": "모으다 (收集) + -아/어 두다 (預先做好/維持狀態) 的冠詞形。" },
+        { "point": "마음을", "explanation": "마음 (心意) + -을 (受格助詞)。" },
+        { "point": "주겠어", "explanation": "주다 (給) 的未來推測形，表示意志。" }
+      ]
+    },
+    {
+      "korean": "그리고 나 마냥 기다리진 않을래",
+      "translation": "還有我 不會只是等待",
+      "analysis": [
+        { "point": "그리고 나", "explanation": "그리고 (還有) + 나 (我)。" },
+        { "point": "마냥", "explanation": "副詞，只是、一味地。" },
+        { "point": "기다리진 않을래", "explanation": "기다리다 (等待) + -지 않다 (否定) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "다시 선 시작점이야",
+      "translation": "是重新站立的起點",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "선", "explanation": "서다 (站立) 的冠詞形。" },
+        { "point": "시작점이야", "explanation": "시작점 (起點) + -이야 (非格式體敘述句結尾)。" }
+      ]
+    },
+    {
+      "korean": "조금 더 속도를 올려서",
+      "translation": "稍微提高速度",
+      "analysis": [
+        { "point": "조금 더", "explanation": "조금 (稍微) + 더 (更)。" },
+        { "point": "속도를 올려서", "explanation": "속도 (速度) + -를 (受格助詞) + 올리다 (提高) + -아/어서 (然後)。" }
+      ]
+    },
+    {
+      "korean": "물러선 나의 마음을 달래고",
+      "translation": "安撫退縮的我的心",
+      "analysis": [
+        { "point": "물러선", "explanation": "물러서다 (退縮、退後) 的冠詞形。" },
+        { "point": "나의 마음을", "explanation": "나의 (我的) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "달래고", "explanation": "달래다 (安撫) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "이제는 더 다가갈게",
+      "translation": "現在會更靠近",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (強調)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "다가갈게", "explanation": "다가가다 (靠近) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "꽃처럼 피어나 나나나 나빌레라",
+      "translation": "像花一樣綻放 娜娜娜 Navillera",
+      "analysis": [
+        { "point": "꽃처럼", "explanation": "꽃 (花) + -처럼 (像...一樣)。" },
+        { "point": "피어나", "explanation": "피어나다 (綻放) 的非格式體。" },
+        { "point": "나나나", "explanation": "擬聲/感嘆詞，無特別文法意義。" },
+        { "point": "나빌레라", "explanation": "歌詞標題，Navillera，韓語中「蝴蝶」的古語。" }
+      ]
+    },
+    {
+      "korean": "아직은 수줍은 아이야",
+      "translation": "還是個害羞的孩子",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還) + -은 (強調)。" },
+        { "point": "수줍은", "explanation": "수줍다 (害羞的) 的冠詞形。" },
+        { "point": "아이야", "explanation": "아이 (孩子) + -야 (非格式體敘述句結尾)。" }
+      ]
+    },
+    {
+      "korean": "나도 떨려와",
+      "translation": "我也顫抖",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "떨려와", "explanation": "떨리다 (顫抖) + -아/어 오다 (來，表示狀態的持續)。" }
+      ]
+    },
+    {
+      "korean": "우리 설렘 가득한 목소리로",
+      "translation": "用我們充滿悸動的聲音",
+      "analysis": [
+        { "point": "우리", "explanation": "我們。" },
+        { "point": "설렘 가득한", "explanation": "설렘 (悸動) + 가득하다 (充滿) 的冠詞形。" },
+        { "point": "목소리로", "explanation": "목소리 (聲音) + -(으)로 (用)。" }
+      ]
+    },
+    {
+      "korean": "하얀 진심을 담아",
+      "translation": "裝載著純白的心意",
+      "analysis": [
+        { "point": "하얀", "explanation": "하얗다 (白色的) 的冠詞形，引申為純潔的。" },
+        { "point": "진심을", "explanation": "진심 (真心) + -을 (受格助詞)。" },
+        { "point": "담아", "explanation": "담다 (裝載) 的非格式體連接形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "새롭게 시작해 볼래 너 그리고 나",
+      "translation": "要試著重新開始嗎 你和我",
+      "analysis": [
+        { "point": "새롭게", "explanation": "새롭다 (新的) + -게 (副詞形語尾)。" },
+        { "point": "시작해 볼래", "explanation": "시작하다 (開始) + -아/어 보다 (嘗試) + -(으)ㄹ래 (詢問意志)。" },
+        { "point": "너 그리고 나", "explanation": "너 (你) + 그리고 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 동경해 앞으로도 잘 부탁해",
+      "translation": "憧憬愛情 以後也請多多關照",
+      "analysis": [
+        { "point": "사랑을", "explanation": "사랑 (愛情) + -을 (受格助詞)。" },
+        { "point": "동경해", "explanation": "동경하다 (憧憬) 的非格式體。" },
+        { "point": "앞으로도", "explanation": "앞 (前面/未來) + -(으)로 (方向) + -도 (也)。" },
+        { "point": "잘 부탁해", "explanation": "잘 (好好地) + 부탁하다 (拜託)，常用問候語，請多多關照。" }
+      ]
+    },
+    {
+      "korean": "모아둔 마음을 주겠어",
+      "translation": "會給你收藏已久的心意",
+      "analysis": [
+        { "point": "모아둔", "explanation": "모으다 (收集) + -아/어 두다 (預先做好/維持狀態) 的冠詞形。" },
+        { "point": "마음을", "explanation": "마음 (心意) + -을 (受格助詞)。" },
+        { "point": "주겠어", "explanation": "주다 (給) 的未來推測形，表示意志。" }
+      ]
+    },
+    {
+      "korean": "그리고 나 마냥 기다리진 않을래",
+      "translation": "還有我 不會只是等待",
+      "analysis": [
+        { "point": "그리고 나", "explanation": "그리고 (還有) + 나 (我)。" },
+        { "point": "마냥", "explanation": "副詞，只是、一味地。" },
+        { "point": "기다리진 않을래", "explanation": "기다리다 (等待) + -지 않다 (否定) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "바라고 바랐던 이 순간에",
+      "translation": "在期盼又期盼的這一刻",
+      "analysis": [
+        { "point": "바라고 바랐던", "explanation": "바라다 (期盼) + -고 (連接) + 바라다 的過去冠詞形，重複表示強烈的期盼。" },
+        { "point": "이 순간에", "explanation": "이 (這) + 순간 (瞬間) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "항상 내 곁에 있어준 너와 함께",
+      "translation": "和總是陪在我身邊的你一起",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "내 곁에", "explanation": "내 (我的) + 곁 (身邊) + -에 (場所助詞)。" },
+        { "point": "있어준", "explanation": "있다 (有/在) + -아/어 주다 (為我做) 的冠詞形。" },
+        { "point": "너와 함께", "explanation": "너 (你) + -와 (和) + 함께 (一起)。" }
+      ]
+    },
+    {
+      "korean": "나 언제나 그래왔듯 이룰 거니까",
+      "translation": "因為我會像一直以來那樣實現",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "언제나", "explanation": "副詞，總是。" },
+        { "point": "그래왔듯", "explanation": "그러다 (那樣做) 的過去式 + -았/었듯 (就像...一樣)。" },
+        { "point": "이룰 거니까", "explanation": "이루다 (實現) + -(으)ㄹ 거니까 (因為將會)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "꿈에서 깨어나 나나나 나빌레라",
+      "translation": "從夢中醒來 娜娜娜 Navillera",
+      "analysis": [
+        { "point": "꿈에서", "explanation": "꿈 (夢) + -에서 (從)。" },
+        { "point": "깨어나", "explanation": "깨어나다 (醒來) 的非格式體。" },
+        { "point": "나나나", "explanation": "擬聲/感嘆詞，無特別文法意義。" },
+        { "point": "나빌레라", "explanation": "歌詞標題，Navillera，韓語中「蝴蝶」的古語。" }
+      ]
+    },
+    {
+      "korean": "언젠가 너와 나 둘이서",
+      "translation": "總有一天 你和我兩個人",
+      "analysis": [
+        { "point": "언젠가", "explanation": "副詞，總有一天。" },
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" },
+        { "point": "둘이서", "explanation": "둘 (二) + -이서 (一起做某事的助詞)。" }
+      ]
+    },
+    {
+      "korean": "활짝 펼쳐진",
+      "translation": "完全展開的",
+      "analysis": [
+        { "point": "활짝", "explanation": "副詞，完全地、盛大地。" },
+        { "point": "펼쳐진", "explanation": "펼쳐지다 (被展開) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "미래를 만들어가고 싶은걸",
+      "translation": "想要創造未來",
+      "analysis": [
+        { "point": "미래를", "explanation": "미래 (未來) + -을 (受格助詞)。" },
+        { "point": "만들어가고 싶은걸", "explanation": "만들어가다 (創造下去) + -고 싶다 (想) + -은걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "korean": "너 하나면 충분하니까",
+      "translation": "因為只要有你就足夠",
+      "analysis": [
+        { "point": "너 하나면", "explanation": "너 (你) + 하나 (一個) + -(이)면 (如果是)。" },
+        { "point": "충분하니까", "explanation": "충분하다 (充分的/足夠的) + -니까 (因為)。" }
+      ]
+    },
+    {
+      "korean": "새롭게 시작해 볼래 너 그리고 나",
+      "translation": "要試著重新開始嗎 你和我",
+      "analysis": [
+        { "point": "새롭게", "explanation": "새롭다 (新的) + -게 (副詞形語尾)。" },
+        { "point": "시작해 볼래", "explanation": "시작하다 (開始) + -아/어 보다 (嘗試) + -(으)ㄹ래 (詢問意志)。" },
+        { "point": "너 그리고 나", "explanation": "너 (你) + 그리고 (和) + 나 (我)。" }
+      ]
+    },
+    {
+      "korean": "사랑을 동경해 앞으로도 잘 부탁해",
+      "translation": "憧憬愛情 以後也請多多關照",
+      "analysis": [
+        { "point": "사랑을", "explanation": "사랑 (愛情) + -을 (受格助詞)。" },
+        { "point": "동경해", "explanation": "동경하다 (憧憬) 的非格式體。" },
+        { "point": "앞으로도", "explanation": "앞 (前面/未來) + -(으)로 (方向) + -도 (也)。" },
+        { "point": "잘 부탁해", "explanation": "잘 (好好地) + 부탁하다 (拜託)，常用問候語，請多多關照。" }
+      ]
+    },
+    {
+      "korean": "모아둔 마음을 주겠어",
+      "translation": "會給你收藏已久的心意",
+      "analysis": [
+        { "point": "모아둔", "explanation": "모으다 (收集) + -아/어 두다 (預先做好/維持狀態) 的冠詞形。" },
+        { "point": "마음을", "explanation": "마음 (心意) + -을 (受格助詞)。" },
+        { "point": "주겠어", "explanation": "주다 (給) 的未來推測形，表示意志。" }
+      ]
+    },
+    {
+      "korean": "그리고 나 마냥 기다리진 않을래",
+      "translation": "還有我 不會只是等待",
+      "analysis": [
+        { "point": "그리고 나", "explanation": "그리고 (還有) + 나 (我)。" },
+        { "point": "마냥", "explanation": "副詞，只是、一味地。" },
+        { "point": "기다리진 않을래", "explanation": "기다리다 (等待) + -지 않다 (否定) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" },
+    { "korean": "움직이다", "chinese": "移動、動搖", "pos": "動詞" },
+    { "korean": "나비", "chinese": "蝴蝶", "pos": "名詞" },
+    { "korean": "날다", "chinese": "飛", "pos": "動詞" },
+    { "korean": "나빌레라", "chinese": "Navillera (蝴蝶的古語)", "pos": "名詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "훨훨", "chinese": "翩翩地", "pos": "擬態詞" },
+    { "korean": "날아가다", "chinese": "飛去", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "하얗다", "chinese": "白色的、純潔的", "pos": "形容詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "담다", "chinese": "裝載", "pos": "動詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "동경하다", "chinese": "憧憬", "pos": "動詞" },
+    { "korean": "앞", "chinese": "前面、未來", "pos": "名詞" },
+    { "korean": "부탁하다", "chinese": "拜託", "pos": "動詞" },
+    { "korean": "모으다", "chinese": "收集", "pos": "動詞" },
+    { "korean": "주다", "chinese": "給", "pos": "動詞" },
+    { "korean": "마냥", "chinese": "只是、一味地", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "시작점", "chinese": "起點", "pos": "名詞" },
+    { "korean": "속도", "chinese": "速度", "pos": "名詞" },
+    { "korean": "올리다", "chinese": "提高", "pos": "動詞" },
+    { "korean": "물러서다", "chinese": "退縮、退後", "pos": "動詞" },
+    { "korean": "달래다", "chinese": "安撫", "pos": "動詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "피어나다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "수줍다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "아이", "chinese": "孩子", "pos": "名詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "설렘", "chinese": "悸動", "pos": "名詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "바라다", "chinese": "期盼", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "언제나", "chinese": "總是", "pos": "副詞" },
+    { "korean": "그러다", "chinese": "那樣做", "pos": "動詞" },
+    { "korean": "이루다", "chinese": "實現", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "깨어나다", "chinese": "醒來", "pos": "動詞" },
+    { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "둘이서", "chinese": "兩個人一起", "pos": "副詞" },
+    { "korean": "활짝", "chinese": "完全地", "pos": "副詞" },
+    { "korean": "펼쳐지다", "chinese": "被展開", "pos": "動詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "만들어가다", "chinese": "創造下去", "pos": "動詞" },
+    { "korean": "충분하다", "chinese": "足夠的", "pos": "形容詞" }
+  ]
+}

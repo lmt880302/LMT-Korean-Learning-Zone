@@ -1,0 +1,567 @@
+{
+  "id": "GFRIEND-LOVE WHISPER",
+  "title": "LOVE WHISPER (귀를 기울이면)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "내 맘을 말로 표현할 수 없어",
+      "translation": "無法用言語表達我的心",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "말로", "explanation": "말 (話/言語) + -(으)로 (用)。" },
+        { "point": "표현할 수 없어", "explanation": "표현하다 (表達) + -(으)ㄹ 수 없다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "스치듯 기분 좋은 바람들과",
+      "translation": "和那些像掠過般心情好的風",
+      "analysis": [
+        { "point": "스치듯", "explanation": "스치다 (掠過) + -듯 (就像...一樣)。" },
+        { "point": "기분 좋은", "explanation": "기분 (心情) + 좋다 (好) 的冠詞形。" },
+        { "point": "바람들과", "explanation": "바람 (風) + -들 (複數) + -과 (和) + - (省略)。" }
+      ]
+    },
+    {
+      "korean": "너와 나 함께 들었던",
+      "translation": "你和我曾經一起聽過的",
+      "analysis": [
+        { "point": "너와 나", "explanation": "너 (你) + -와 (和) + 나 (我)。" },
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "들었던", "explanation": "듣다 (聽) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "노래 가사처럼",
+      "translation": "像歌詞一樣",
+      "analysis": [
+        { "point": "노래", "explanation": "名詞，歌曲。" },
+        { "point": "가사처럼", "explanation": "가사 (歌詞) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "유난히 오늘은 기분이 좋아",
+      "translation": "特別地 今天心情很好",
+      "analysis": [
+        { "point": "유난히", "explanation": "副詞，特別地、格外地。" },
+        { "point": "오늘은", "explanation": "오늘 (今天) + -는 (主題助詞)。" },
+        { "point": "기분이 좋아", "explanation": "기분 (心情) + -이 (主格助詞) + 좋다 (好) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈이 부시게 맑은 하늘 아래",
+      "translation": "在耀眼晴朗的天空下",
+      "analysis": [
+        { "point": "눈이 부시게", "explanation": "눈 (眼睛) + -이 (主格助詞) + 부시다 (耀眼) + -게 (副詞形語尾)。" },
+        { "point": "맑은", "explanation": "맑다 (晴朗的) 的冠詞形。" },
+        { "point": "하늘 아래", "explanation": "하늘 (天空) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "korean": "땀방울 한 방울",
+      "translation": "汗珠 一滴",
+      "analysis": [
+        { "point": "땀방울", "explanation": "땀 (汗) + 방울 (珠、滴)。" },
+        { "point": "한 방울", "explanation": "한 (一) + 방울 (滴)。" }
+      ]
+    },
+    {
+      "korean": "떨어지는 그런 날에",
+      "translation": "滴落的那種日子",
+      "analysis": [
+        { "point": "떨어지는", "explanation": "떨어지다 (掉落) 的冠詞形。" },
+        { "point": "그런 날에", "explanation": "그런 (那樣的) + 날 (日子) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "손 잡고 걸어가",
+      "translation": "牽著手走著",
+      "analysis": [
+        { "point": "손 잡고", "explanation": "손 (手) + 잡다 (抓) + -고 (連接詞尾，表示狀態)。" },
+        { "point": "걸어가", "explanation": "걸어가다 (走著去) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "흐드러지던 그 꽃 길 위에서",
+      "translation": "在曾經盛開的那條花路上",
+      "analysis": [
+        { "point": "흐드러지던", "explanation": "흐드러지다 (盛開、繁盛) 的過去冠詞形。" },
+        { "point": "그 꽃 길", "explanation": "그 (那) + 꽃 (花) + 길 (路)。" },
+        { "point": "위에서", "explanation": "위 (上面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "난 너와 함께",
+      "translation": "我和你一起",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "너와 함께", "explanation": "너 (你) + -와 (和) + 함께 (一起)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "[YU/ALL] 어디서든 들려와",
+      "translation": "無論何處都能聽見",
+      "analysis": [
+        { "point": "어디서든", "explanation": "어디 (哪裡) + -서든 (無論)。" },
+        { "point": "들려와", "explanation": "들리다 (被聽見) + -아/어 오다 (來，表示狀態的持續)。" }
+      ]
+    },
+    {
+      "korean": "[YU/ALL] 귀를 기울이면",
+      "translation": "如果傾耳傾聽",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울이면", "explanation": "기울이다 (傾斜) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "[YU/ALL] 나를 향한 믿음에",
+      "translation": "在對我的信任中",
+      "analysis": [
+        { "point": "나를 향한", "explanation": "나를 (我) + 향하다 (面向) 的冠詞形。" },
+        { "point": "믿음에", "explanation": "믿음 (信任) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "[YU/ALL] 귀를 기울이면",
+      "translation": "如果傾耳傾聽",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울이면", "explanation": "기울이다 (傾斜) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "반짝반짝 빛나던",
+      "translation": "曾經閃閃發光的",
+      "analysis": [
+        { "point": "반짝반짝", "explanation": "擬態詞，閃閃發光的樣子。" },
+        { "point": "빛나던", "explanation": "빛나다 (發光) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너의 눈동자처럼",
+      "translation": "像你的瞳孔一樣",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "눈동자처럼", "explanation": "눈동자 (瞳孔) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "소중한 이야기 들려줄게",
+      "translation": "會告訴你珍貴的故事",
+      "analysis": [
+        { "point": "소중한", "explanation": "소중하다 (珍貴的) 的冠詞形。" },
+        { "point": "이야기", "explanation": "名詞，故事。" },
+        { "point": "들려줄게", "explanation": "들려주다 (告訴、讓聽見) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "귀를 기울여봐",
+      "translation": "試著傾聽吧",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울여봐", "explanation": "기울이다 (傾斜) + -아/어 보다 (嘗試) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "우리들의 잊지 못할",
+      "translation": "我們的無法忘記的",
+      "analysis": [
+        { "point": "우리들의", "explanation": "우리 (我們) + -들 (複數) + -의 (的)。" },
+        { "point": "잊지 못할", "explanation": "잊다 (忘記) + -지 못하다 (無法) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "목소리 이야기",
+      "translation": "聲音故事",
+      "analysis": [
+        { "point": "목소리", "explanation": "名詞，聲音。" },
+        { "point": "이야기", "explanation": "名詞，故事。" }
+      ]
+    },
+    {
+      "korean": "꿈처럼 설렜던",
+      "translation": "像夢一樣曾經心動的",
+      "analysis": [
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "설렜던", "explanation": "설레다 (心動) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너를 향해 내 맘 가득히",
+      "translation": "向你 我的心滿滿地",
+      "analysis": [
+        { "point": "너를 향해", "explanation": "너를 (你) + 향하다 (面向) 的縮略。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "가득히", "explanation": "副詞，滿滿地。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "여전히 오늘도 화창했었지",
+      "translation": "依舊 今天也很晴朗",
+      "analysis": [
+        { "point": "여전히", "explanation": "副詞，依舊、仍然。" },
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)。" },
+        { "point": "화창했었지", "explanation": "화창하다 (晴朗的) 的過去回想形。" }
+      ]
+    },
+    {
+      "korean": "자꾸만 하루 종일 네 생각만",
+      "translation": "總是 一整天只想著你",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "副詞，總是、不停地。" },
+        { "point": "하루 종일", "explanation": "하루 (一天) + 종일 (整天)。" },
+        { "point": "네 생각만", "explanation": "네 (你的) + 생각 (想法/思念) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "친절한 너에게",
+      "translation": "對親切的你",
+      "analysis": [
+        { "point": "친절한", "explanation": "친절하다 (親切的) 的冠詞形。" },
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/對)。" }
+      ]
+    },
+    {
+      "korean": "전하고 싶어 내 맘을",
+      "translation": "想傳達我的心",
+      "analysis": [
+        { "point": "전하고 싶어", "explanation": "전하다 (傳達) + -고 싶다 (想) 的非格式體。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "구름에 실어 말하고 말 거야",
+      "translation": "會裝載在雲上 一定會說",
+      "analysis": [
+        { "point": "구름에", "explanation": "구름 (雲) + -에 (場所/工具助詞)。" },
+        { "point": "실어", "explanation": "싣다 (裝載) 的非格式體連接形。" },
+        { "point": "말하고 말 거야", "explanation": "말하다 (說) + -고 말다 (必定會) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "설렜던 순간 예고 없이",
+      "translation": "曾經心動的瞬間 毫無預告地",
+      "analysis": [
+        { "point": "설렜던 순간", "explanation": "설레다 (心動) 的過去冠詞形 + 순간 (瞬間)。" },
+        { "point": "예고 없이", "explanation": "예고 (預告) + 없다 (沒有) + -이 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "문득 빗방울 한 방울",
+      "translation": "突然 雨滴 一滴",
+      "analysis": [
+        { "point": "문득", "explanation": "副詞，突然、驀地。" },
+        { "point": "빗방울", "explanation": "비 (雨) + 방울 (珠、滴)。" },
+        { "point": "한 방울", "explanation": "한 (一) + 방울 (滴)。" }
+      ]
+    },
+    {
+      "korean": "떨어지는 그런 날에",
+      "translation": "滴落的那種日子",
+      "analysis": [
+        { "point": "떨어지는", "explanation": "떨어지다 (掉落) 的冠詞形。" },
+        { "point": "그런 날에", "explanation": "그런 (那樣的) + 날 (日子) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "손 잡고 뛰어가 흐드러지던",
+      "translation": "牽著手奔跑 曾經盛開的",
+      "analysis": [
+        { "point": "손 잡고", "explanation": "손 (手) + 잡다 (抓) + -고 (連接詞尾，表示狀態)。" },
+        { "point": "뛰어가", "explanation": "뛰어가다 (奔跑而去) 的非格式體。" },
+        { "point": "흐드러지던", "explanation": "흐드러지다 (盛開) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "그 꽃 길 위에서",
+      "translation": "在那條花路上",
+      "analysis": [
+        { "point": "그 꽃 길", "explanation": "그 (那) + 꽃 (花) + 길 (路)。" },
+        { "point": "위에서", "explanation": "위 (上面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "난 너와 함께",
+      "translation": "我和你一起",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "너와 함께", "explanation": "너 (你) + -와 (和) + 함께 (一起)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "[YU/ALL] 어디서든 들려와",
+      "translation": "無論何處都能聽見",
+      "analysis": [
+        { "point": "어디서든", "explanation": "어디 (哪裡) + -서든 (無論)。" },
+        { "point": "들려와", "explanation": "들리다 (被聽見) + -아/어 오다 (來，表示狀態的持續)。" }
+      ]
+    },
+    {
+      "korean": "[YU/ALL] 귀를 기울이면",
+      "translation": "如果傾耳傾聽",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울이면", "explanation": "기울이다 (傾斜) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "[YU/ALL] 나를 향한 믿음에",
+      "translation": "在對我的信任中",
+      "analysis": [
+        { "point": "나를 향한", "explanation": "나를 (我) + 향하다 (面向) 的冠詞形。" },
+        { "point": "믿음에", "explanation": "믿음 (信任) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "[YU/ALL] 귀를 기울이면",
+      "translation": "如果傾耳傾聽",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울이면", "explanation": "기울이다 (傾斜) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "반짝반짝 빛나던",
+      "translation": "曾經閃閃發光的",
+      "analysis": [
+        { "point": "반짝반짝", "explanation": "擬態詞，閃閃發光的樣子。" },
+        { "point": "빛나던", "explanation": "빛나다 (發光) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너의 눈동자처럼",
+      "translation": "像你的瞳孔一樣",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "눈동자처럼", "explanation": "눈동자 (瞳孔) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "소중한 이야기 들려줄게",
+      "translation": "會告訴你珍貴的故事",
+      "analysis": [
+        { "point": "소중한", "explanation": "소중하다 (珍貴的) 的冠詞形。" },
+        { "point": "이야기", "explanation": "名詞，故事。" },
+        { "point": "들려줄게", "explanation": "들려주다 (告訴、讓聽見) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "귀를 기울여봐",
+      "translation": "試著傾聽吧",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울여봐", "explanation": "기울이다 (傾斜) + -아/어 보다 (嘗試) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "우리들의 잊지 못할",
+      "translation": "我們的無法忘記的",
+      "analysis": [
+        { "point": "우리들의", "explanation": "우리 (我們) + -들 (複數) + -의 (的)。" },
+        { "point": "잊지 못할", "explanation": "잊다 (忘記) + -지 못하다 (無法) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "목소리 이야기",
+      "translation": "聲音故事",
+      "analysis": [
+        { "point": "목소리", "explanation": "名詞，聲音。" },
+        { "point": "이야기", "explanation": "名詞，故事。" }
+      ]
+    },
+    {
+      "korean": "꿈처럼 설렜던",
+      "translation": "像夢一樣曾經心動的",
+      "analysis": [
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "설렜던", "explanation": "설레다 (心動) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너를 향해 내 맘 가득히",
+      "translation": "向你 我的心滿滿地",
+      "analysis": [
+        { "point": "너를 향해", "explanation": "너를 (你) + 향하다 (面向) 的縮略。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "가득히", "explanation": "副詞，滿滿地。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "오늘만큼은 전할거야 더더더",
+      "translation": "至少今天要傳達 更多更多更多",
+      "analysis": [
+        { "point": "오늘만큼은", "explanation": "오늘 (今天) + -만큼 (像...一樣) + -은 (強調)，表示「至少今天」。" },
+        { "point": "전할거야", "explanation": "전하다 (傳達) + -(으)ㄹ 거야 (推測/意志)。" },
+        { "point": "더더더", "explanation": "더 (更) 的重複，表示強調。" }
+      ]
+    },
+    {
+      "korean": "내 맘 모아서 가득히",
+      "translation": "收集我的心 滿滿地",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "모아서", "explanation": "모으다 (收集) + -아/어서 (然後)。" },
+        { "point": "가득히", "explanation": "副詞，滿滿地。" }
+      ]
+    },
+    {
+      "korean": "너를 느낄 수 있어",
+      "translation": "能夠感受到你",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "느낄 수 있어", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (能夠) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 눈을 감으면 Oh~",
+      "translation": "如果閉上雙眼 Oh~",
+      "analysis": [
+        { "point": "두 눈을", "explanation": "두 (二) + 눈 (眼睛) + -을 (受格助詞)。" },
+        { "point": "감으면", "explanation": "감다 (閉) + -(으)면 (如果)。" },
+        { "point": "Oh~", "explanation": "感嘆詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나를 향한 믿음에",
+      "translation": "在對我的信任中",
+      "analysis": [
+        { "point": "나를 향한", "explanation": "나를 (我) + 향하다 (面向) 的冠詞形。" },
+        { "point": "믿음에", "explanation": "믿음 (信任) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "귀를 기울이면",
+      "translation": "如果傾耳傾聽",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울이면", "explanation": "기울이다 (傾斜) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "반짝반짝 빛나던",
+      "translation": "曾經閃閃發光的",
+      "analysis": [
+        { "point": "반짝반짝", "explanation": "擬態詞，閃閃發光的樣子。" },
+        { "point": "빛나던", "explanation": "빛나다 (發光) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너의 눈동자처럼",
+      "translation": "像你的瞳孔一樣",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "눈동자처럼", "explanation": "눈동자 (瞳孔) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "소중한 이야기 들려줄게",
+      "translation": "會告訴你珍貴的故事",
+      "analysis": [
+        { "point": "소중한", "explanation": "소중하다 (珍貴的) 的冠詞形。" },
+        { "point": "이야기", "explanation": "名詞，故事。" },
+        { "point": "들려줄게", "explanation": "들려주다 (告訴、讓聽見) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "귀를 기울여봐",
+      "translation": "試著傾聽吧",
+      "analysis": [
+        { "point": "귀를", "explanation": "귀 (耳朵) + -를 (受格助詞)。" },
+        { "point": "기울여봐", "explanation": "기울이다 (傾斜) + -아/어 보다 (嘗試) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "우리들의 잊지 못할 목소리",
+      "translation": "我們的無法忘記的聲音",
+      "analysis": [
+        { "point": "우리들의", "explanation": "우리 (我們) + -들 (複數) + -의 (的)。" },
+        { "point": "잊지 못할", "explanation": "잊다 (忘記) + -지 못하다 (無法) 的冠詞形。" },
+        { "point": "목소리", "explanation": "名詞，聲音。" }
+      ]
+    },
+    {
+      "korean": "꿈처럼 설렜던",
+      "translation": "像夢一樣曾經心動的",
+      "analysis": [
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "설렜던", "explanation": "설레다 (心動) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너를 향해 내 맘 가득히",
+      "translation": "向你 我的心滿滿地",
+      "analysis": [
+        { "point": "너를 향해", "explanation": "너를 (你) + 향하다 (面向) 的縮略。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "가득히", "explanation": "副詞，滿滿地。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "표현하다", "chinese": "表達", "pos": "動詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "기분", "chinese": "心情", "pos": "名詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "노래", "chinese": "歌曲", "pos": "名詞" },
+    { "korean": "가사", "chinese": "歌詞", "pos": "名詞" },
+    { "korean": "유난히", "chinese": "特別地", "pos": "副詞" },
+    { "korean": "부시다", "chinese": "耀眼", "pos": "形容詞" },
+    { "korean": "맑다", "chinese": "晴朗的", "pos": "形容詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "땀방울", "chinese": "汗珠", "pos": "名詞" },
+    { "korean": "떨어지다", "chinese": "掉落", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓", "pos": "動詞" },
+    { "korean": "걸어가다", "chinese": "走著去", "pos": "動詞" },
+    { "korean": "흐드러지다", "chinese": "盛開", "pos": "動詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "어디", "chinese": "哪裡", "pos": "代名詞" },
+    { "korean": "들리다", "chinese": "被聽見", "pos": "動詞" },
+    { "korean": "귀", "chinese": "耳朵", "pos": "名詞" },
+    { "korean": "기울이다", "chinese": "傾斜", "pos": "動詞" },
+    { "korean": "향하다", "chinese": "面向", "pos": "動詞" },
+    { "korean": "믿음", "chinese": "信任", "pos": "名詞" },
+    { "korean": "반짝반짝", "chinese": "閃閃發光", "pos": "擬態詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "눈동자", "chinese": "瞳孔", "pos": "名詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "들려주다", "chinese": "告訴、讓聽見", "pos": "動詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "가득히", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "여전히", "chinese": "依舊", "pos": "副詞" },
+    { "korean": "화창하다", "chinese": "晴朗的", "pos": "形容詞" },
+    { "korean": "자꾸만", "chinese": "總是", "pos": "副詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "종일", "chinese": "整天", "pos": "名詞" },
+    { "korean": "생각", "chinese": "想法、思念", "pos": "名詞" },
+    { "korean": "친절하다", "chinese": "親切的", "pos": "形容詞" },
+    { "korean": "전하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "구름", "chinese": "雲", "pos": "名詞" },
+    { "korean": "싣다", "chinese": "裝載", "pos": "動詞" },
+    { "korean": "예고", "chinese": "預告", "pos": "名詞" },
+    { "korean": "문득", "chinese": "突然", "pos": "副詞" },
+    { "korean": "빗방울", "chinese": "雨滴", "pos": "名詞" },
+    { "korean": "뛰어가다", "chinese": "奔跑而去", "pos": "動詞" },
+    { "korean": "오늘만큼", "chinese": "像今天一樣", "pos": "副詞" },
+    { "korean": "모으다", "chinese": "收集", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "id": "yuju-play",
+  "title": "놀이 (Play)",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "찢겨진 마음을 태우고",
+      "translation": "燃燒著被撕裂的心",
+      "analysis": [
+        { "point": "찢겨진 마음을", "explanation": "찢기다 (被撕裂) 的過去定語形 + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "태우고", "explanation": "태우다 (燃燒) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "수도 없이 되 뇌이다",
+      "translation": "無數次反覆低語",
+      "analysis": [
+        { "point": "수도 없이", "explanation": "수 (數) + -도 (強調) + 없이 (沒有)，意為「無數次地」。" },
+        { "point": "되 뇌이다", "explanation": "되풀이하다 (反覆) 的縮略 + 뇌이다 (低語、念叨)。" }
+      ]
+    },
+    {
+      "korean": "뜸 들이던 말 한마디 뱉고서",
+      "translation": "吐出一句猶豫已久的話",
+      "analysis": [
+        { "point": "뜸 들이던", "explanation": "뜸들이다 (猶豫、拖延) 的過去回想着定語形。" },
+        { "point": "말 한마디 뱉고서", "explanation": "말 (話) + 한마디 (一句) + 뱉다 (吐出) + -고서 (連接詞尾，表示先後順序)。" }
+      ]
+    },
+    {
+      "korean": "없던 일처럼 떠나가",
+      "translation": "像沒發生過一樣離開",
+      "analysis": [
+        { "point": "없던 일처럼", "explanation": "없다 (沒有) 的過去定語形 + 일 (事) + -처럼 (像...一樣)。" },
+        { "point": "떠나가", "explanation": "떠나가다 (離開) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "어지러이 휘날리듯이",
+      "translation": "彷彿暈眩地飄揚",
+      "analysis": [
+        { "point": "어지러이", "explanation": "形容詞 어지럽다 (暈眩的) 的副詞形。" },
+        { "point": "휘날리듯이", "explanation": "휘날리다 (飄揚) + -듯이 (好像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "가슴 깊이 맺힌 너와의",
+      "translation": "深深凝結在心底的 與你的",
+      "analysis": [
+        { "point": "가슴 깊이", "explanation": "가슴 (胸口、內心) + 깊이 (深深地)。" },
+        { "point": "맺힌 너와의", "explanation": "맺히다 (凝結、積累) 的過去定語形 + 너 (你) + -와의 (和...的)。" }
+      ]
+    },
+    {
+      "korean": "노노노노놀이 같은 사랑에",
+      "translation": "在如同遊戲般的愛情裡",
+      "analysis": [
+        { "point": "노노노노놀이", "explanation": "놀이 (遊戲) 的重複變形，強調遊戲的感覺。" },
+        { "point": "같은 사랑에", "explanation": "같다 (相同的、像) 的定語形 + 사랑 (愛) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "온 몸 맘 바쳐 모두 드렸는데",
+      "translation": "獻上了全部身心 全都給了你",
+      "analysis": [
+        { "point": "온 몸 맘", "explanation": "온 (全部的) + 몸 (身體) + 마음 (心) 的縮略。" },
+        { "point": "바쳐", "explanation": "바치다 (奉獻) 的非格式體。" },
+        { "point": "모두 드렸는데", "explanation": "모두 (全部) + 드리다 (給予的敬語) 的過去形 + -는데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "korean": "곱게 피어나 붉은 꽃이 물들어갈 때",
+      "translation": "當美麗綻放的紅花染上色彩時",
+      "analysis": [
+        { "point": "곱게 피어나", "explanation": "곱다 (美麗的) 的副詞形 + 피어나다 (綻放)。" },
+        { "point": "붉은 꽃이", "explanation": "붉다 (紅色的) 的定語形 + 꽃 (花) + -이 (主格助詞)。" },
+        { "point": "물들어갈 때", "explanation": "물들다 (染上顏色) + -아/어 가다 (漸進) + -ㄹ 때 (當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "날 꺾고서 저 멀리 떠나시네 (떠나시네)",
+      "translation": "折下我 向那遠處離去 (離去)",
+      "analysis": [
+        { "point": "날 꺾고서", "explanation": "나를 (我) 的縮略 + 꺾다 (折斷、折下) + -고서 (連接詞尾)。" },
+        { "point": "저 멀리 떠나시네", "explanation": "저 (那) + 멀리 (遠處) + 떠나다 (離開) + -시- (敬語) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "조각난 시간을 꿰매어",
+      "translation": "縫合破碎的時間",
+      "analysis": [
+        { "point": "조각난 시간을", "explanation": "조각나다 (破碎成碎片) 的過去定語形 + 시간 (時間) + -을 (受格助詞)。" },
+        { "point": "꿰매어", "explanation": "꿰매다 (縫合) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "몇 번을 돌이켜봐도",
+      "translation": "就算回頭看幾次",
+      "analysis": [
+        { "point": "몇 번을", "explanation": "몇 (幾) + 번 (次) + -을 (受格助詞，強調次數)。" },
+        { "point": "돌이켜봐도", "explanation": "돌이키다 (回顧、回頭) + -아/어 보다 (嘗試) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "반짝이다 꺼지는 불꽃놀이 같은 사이일 뿐",
+      "translation": "只是如閃爍後熄滅的煙火般的關係",
+      "analysis": [
+        { "point": "반짝이다 꺼지는", "explanation": "반짝이다 (閃爍) + 꺼지다 (熄滅) 的現在定語形。" },
+        { "point": "불꽃놀이 같은", "explanation": "불꽃놀이 (煙火) + 같다 (像) 的定語形。" },
+        { "point": "사이일 뿐", "explanation": "사이 (關係) + -이다 (是) + -(으)ㄹ 뿐 (只是...而已)。" }
+      ]
+    },
+    {
+      "korean": "한 톨의 재가 되어 가 Oh",
+      "translation": "成為一粒灰燼 Oh",
+      "analysis": [
+        { "point": "한 톨의 재가", "explanation": "한 (一) + 톨 (粒) + -의 (的) + 재 (灰) + -가 (主格助詞)。" },
+        { "point": "되어 가", "explanation": "되다 (成為) + -아/어 가다 (漸進)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "눈시울이 붉어지듯이",
+      "translation": "彷彿眼眶泛紅",
+      "analysis": [
+        { "point": "눈시울이", "explanation": "눈시울 (眼眶) + -이 (主格助詞)。" },
+        { "point": "붉어지듯이", "explanation": "붉어지다 (變紅) + -듯이 (好像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "가슴 깊이 맺힌 너와의",
+      "translation": "深深凝結在心底的 與你的",
+      "analysis": [
+        { "point": "가슴 깊이", "explanation": "가슴 (胸口、內心) + 깊이 (深深地)。" },
+        { "point": "맺힌 너와의", "explanation": "맺히다 (凝結、積累) 的過去定語形 + 너 (你) + -와의 (和...的)。" }
+      ]
+    },
+    {
+      "korean": "노노노노놀이 같은 사랑에",
+      "translation": "在如同遊戲般的愛情裡",
+      "analysis": [
+        { "point": "노노노노놀이", "explanation": "놀이 (遊戲) 的重複變形，強調遊戲的感覺。" },
+        { "point": "같은 사랑에", "explanation": "같다 (相同的、像) 的定語形 + 사랑 (愛) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "온 몸 맘 바쳐 모두 드렸는데",
+      "translation": "獻上了全部身心 全都給了你",
+      "analysis": [
+        { "point": "온 몸 맘", "explanation": "온 (全部的) + 몸 (身體) + 마음 (心) 的縮略。" },
+        { "point": "바쳐", "explanation": "바치다 (奉獻) 的非格式體。" },
+        { "point": "모두 드렸는데", "explanation": "모두 (全部) + 드리다 (給予的敬語) 的過去形 + -는데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "korean": "곱게 피어나 붉은 꽃이 물들어갈 때",
+      "translation": "當美麗綻放的紅花染上色彩時",
+      "analysis": [
+        { "point": "곱게 피어나", "explanation": "곱다 (美麗的) 的副詞形 + 피어나다 (綻放)。" },
+        { "point": "붉은 꽃이", "explanation": "붉다 (紅色的) 的定語形 + 꽃 (花) + -이 (主格助詞)。" },
+        { "point": "물들어갈 때", "explanation": "물들다 (染上顏色) + -아/어 가다 (漸進) + -ㄹ 때 (當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "날 꺾고서 저 멀리 떠나시네 (떠나시네)",
+      "translation": "折下我 向那遠處離去 (離去)",
+      "analysis": [
+        { "point": "날 꺾고서", "explanation": "나를 (我) 的縮略 + 꺾다 (折斷、折下) + -고서 (連接詞尾)。" },
+        { "point": "저 멀리 떠나시네", "explanation": "저 (那) + 멀리 (遠處) + 떠나다 (離開) + -시- (敬語) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "아무 의미도 없던 이 놀이가",
+      "translation": "這毫無意義的遊戲",
+      "analysis": [
+        { "point": "아무 의미도 없던", "explanation": "아무 (任何) + 의미 (意義) + -도 (也) + 없다 (沒有) 的過去定語形。" },
+        { "point": "이 놀이가", "explanation": "이 (這) + 놀이 (遊戲) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "난 너무 지쳐서",
+      "translation": "我太過疲憊",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "너무 지쳐서", "explanation": "너무 (太) + 지치다 (疲憊) + -아/어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "마지막 남은 잎을 떼고 날아가",
+      "translation": "摘下最後剩下的葉子 飛走",
+      "analysis": [
+        { "point": "마지막 남은 잎을", "explanation": "마지막 (最後) + 남다 (剩下) 的定語形 + 잎 (葉子) + -을 (受格助詞)。" },
+        { "point": "떼고 날아가", "explanation": "떼다 (摘下、分離) + -고 (連接詞尾) + 날아가다 (飛走)。" }
+      ]
+    },
+    {
+      "korean": "So long",
+      "translation": "再見",
+      "analysis": [
+        { "point": "So long", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "노노노노놀이 같은 사랑에 (이 사랑에)",
+      "translation": "在如同遊戲般的愛情裡 (在這愛情裡)",
+      "analysis": [
+        { "point": "노노노노놀이", "explanation": "놀이 (遊戲) 的重複變形，強調遊戲的感覺。" },
+        { "point": "같은 사랑에", "explanation": "같다 (相同的、像) 的定語形 + 사랑 (愛) + -에 (場所/原因助詞)。" },
+        { "point": "이 사랑에", "explanation": "이 (這) + 사랑 (愛) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "온 몸 맘 바쳐 모두 드렸는데",
+      "translation": "獻上了全部身心 全都給了你",
+      "analysis": [
+        { "point": "온 몸 맘", "explanation": "온 (全部的) + 몸 (身體) + 마음 (心) 的縮略。" },
+        { "point": "바쳐", "explanation": "바치다 (奉獻) 的非格式體。" },
+        { "point": "모두 드렸는데", "explanation": "모두 (全部) + 드리다 (給予的敬語) 的過去形 + -는데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "korean": "곱게 피어나 붉은 꽃이 물들어갈 때",
+      "translation": "當美麗綻放的紅花染上色彩時",
+      "analysis": [
+        { "point": "곱게 피어나", "explanation": "곱다 (美麗的) 的副詞形 + 피어나다 (綻放)。" },
+        { "point": "붉은 꽃이", "explanation": "붉다 (紅色的) 的定語形 + 꽃 (花) + -이 (主格助詞)。" },
+        { "point": "물들어갈 때", "explanation": "물들다 (染上顏色) + -아/어 가다 (漸進) + -ㄹ 때 (當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "날 꺾고서 저 멀리 떠나시네 (떠나시네)",
+      "translation": "折下我 向那遠處離去 (離去)",
+      "analysis": [
+        { "point": "날 꺾고서", "explanation": "나를 (我) 的縮略 + 꺾다 (折斷、折下) + -고서 (連接詞尾)。" },
+        { "point": "저 멀리 떠나시네", "explanation": "저 (那) + 멀리 (遠處) + 떠나다 (離開) + -시- (敬語) + -네 (感嘆形語尾)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "찢기다", "chinese": "被撕裂", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "태우다", "chinese": "燃燒", "pos": "動詞" },
+    { "korean": "수도 없이", "chinese": "無數次地", "pos": "副詞" },
+    { "korean": "되풀이하다", "chinese": "反覆", "pos": "動詞" },
+    { "korean": "뇌이다", "chinese": "低語、念叨", "pos": "動詞" },
+    { "korean": "뜸들이다", "chinese": "猶豫、拖延", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "뱉다", "chinese": "吐", "pos": "動詞" },
+    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "어지럽다", "chinese": "暈眩的", "pos": "形容詞" },
+    { "korean": "휘날리다", "chinese": "飄揚", "pos": "動詞" },
+    { "korean": "가슴", "chinese": "胸口、內心", "pos": "名詞" },
+    { "korean": "깊이", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "맺히다", "chinese": "凝結、積累", "pos": "動詞" },
+    { "korean": "놀이", "chinese": "遊戲", "pos": "名詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "온", "chinese": "全部的", "pos": "冠詞" },
+    { "korean": "몸", "chinese": "身體", "pos": "名詞" },
+    { "korean": "바치다", "chinese": "奉獻", "pos": "動詞" },
+    { "korean": "모두", "chinese": "全部", "pos": "副詞" },
+    { "korean": "드리다", "chinese": "給予(敬語)", "pos": "動詞" },
+    { "korean": "곱다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "피어나다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "붉다", "chinese": "紅色的", "pos": "形容詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "물들다", "chinese": "染上顏色", "pos": "動詞" },
+    { "korean": "꺾다", "chinese": "折斷、折下", "pos": "動詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "조각나다", "chinese": "破碎成碎片", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "꿰매다", "chinese": "縫合", "pos": "動詞" },
+    { "korean": "몇", "chinese": "幾", "pos": "數詞" },
+    { "korean": "번", "chinese": "次", "pos": "名詞" },
+    { "korean": "돌이키다", "chinese": "回顧", "pos": "動詞" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "꺼지다", "chinese": "熄滅", "pos": "動詞" },
+    { "korean": "불꽃놀이", "chinese": "煙火", "pos": "名詞" },
+    { "korean": "사이", "chinese": "關係", "pos": "名詞" },
+    { "korean": "톨", "chinese": "粒", "pos": "名詞" },
+    { "korean": "재", "chinese": "灰", "pos": "名詞" },
+    { "korean": "눈시울", "chinese": "眼眶", "pos": "名詞" },
+    { "korean": "붉어지다", "chinese": "變紅", "pos": "動詞" },
+    { "korean": "아무", "chinese": "任何", "pos": "冠詞" },
+    { "korean": "의미", "chinese": "意義", "pos": "名詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "잎", "chinese": "葉子", "pos": "名詞" },
+    { "korean": "떼다", "chinese": "摘下、分離", "pos": "動詞" },
+    { "korean": "날아가다", "chinese": "飛走", "pos": "動詞" }
+  ]
+}

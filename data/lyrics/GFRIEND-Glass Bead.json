@@ -1,0 +1,419 @@
+{
+  "id": "GFRIEND-Glass Bead",
+  "title": "Glass Bead (유리구슬)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "투명한 유리구슬처럼 보이지만",
+      "translation": "雖然像透明的玻璃珠一樣",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形，修飾後面的名詞。" },
+        { "point": "유리구슬처럼", "explanation": "유리구슬 (玻璃珠) + -처럼 (助詞，像...一樣)。" },
+        { "point": "보이지만", "explanation": "보이다 (被看見) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 쉽게 깨지진 않을 거야",
+      "translation": "不會那麼輕易破碎的",
+      "analysis": [
+        { "point": "그렇게", "explanation": "指示副詞，那麼、那樣地。" },
+        { "point": "쉽게", "explanation": "쉽다 (容易的) + -게 (副詞形語尾)。" },
+        { "point": "깨지진 않을 거야", "explanation": "깨지다 (破碎) + -지 않다 (否定形) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "사랑해 너만을 변하지 않도록",
+      "translation": "我愛你 為了只愛你一人不變",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" },
+        { "point": "변하지 않도록", "explanation": "변하다 (變化) + -지 않다 (否定) + -도록 (語法，為了達到某種目的)。" }
+      ]
+    },
+    {
+      "korean": "영원히 널 비춰줄게",
+      "translation": "會永遠照耀著你",
+      "analysis": [
+        { "point": "영원히", "explanation": "영원하다 (永遠的) + -히 (副詞形語尾)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照耀) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "내가 약해 보였나요",
+      "translation": "我看起來很脆弱嗎",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "약해 보였나요", "explanation": "약하다 (脆弱的) + -아/어 보이다 (看起來) + -였나요 (過去式疑問句敬語)。" }
+      ]
+    },
+    {
+      "korean": "언제나 걱정됐나요",
+      "translation": "總是擔心嗎",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，總是、無論何時。" },
+        { "point": "걱정됐나요", "explanation": "걱정되다 (擔心) 的過去式 + -나요 (疑問句尾)。" }
+      ]
+    },
+    {
+      "korean": "달빛에 반짝이는 저 이슬처럼",
+      "translation": "像在月光下閃爍的那露珠一樣",
+      "analysis": [
+        { "point": "달빛에", "explanation": "달빛 (月光) + -에 (場所/時間助詞，在...)。" },
+        { "point": "반짝이는", "explanation": "반짝이다 (閃爍) 的冠詞形。" },
+        { "point": "저 이슬처럼", "explanation": "저 (那) + 이슬 (露珠) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "사라질 것만 같나요",
+      "translation": "好像只會消失嗎",
+      "analysis": [
+        { "point": "사라질 것만", "explanation": "사라지다 (消失) + -(으)ㄹ 것 (未來/推測) + -만 (只)。" },
+        { "point": "같나요", "explanation": "같다 (好像) + -나요 (疑問句尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "불안해마요 꿈만 같나요",
+      "translation": "不要不安 像是做夢一樣嗎",
+      "analysis": [
+        { "point": "불안해마요", "explanation": "불안하다 (不安) + -지 말다 (不要) 的縮略형 + -아요 (請求/勸告)。" },
+        { "point": "꿈만 같나요", "explanation": "꿈 (夢) + -만 (只) + 같다 (像) + -나요 (疑問句尾)。" }
+      ]
+    },
+    {
+      "korean": "널 위해서 빛나고 있어",
+      "translation": "為了你正在發光",
+      "analysis": [
+        { "point": "널 위해서", "explanation": "너를 (你) 的縮略 + 위해서 (為了)。" },
+        { "point": "빛나고 있어", "explanation": "빛나다 (發光) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "떨리는 그대 손을 꽉 잡아줄게요",
+      "translation": "會緊緊抓住你顫抖的手",
+      "analysis": [
+        { "point": "떨리는", "explanation": "떨리다 (顫抖) 的冠詞形。" },
+        { "point": "그대 손을", "explanation": "그대 (你) + 손 (手) + -을 (受格助詞)。" },
+        { "point": "꽉 잡아줄게요", "explanation": "꽉 (副詞，緊緊地) + 잡다 (抓) + -아/어 주다 (為你做) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "korean": "따스히 감싸줄게요",
+      "translation": "會溫暖地擁抱你",
+      "analysis": [
+        { "point": "따스히", "explanation": "따스하다 (溫暖的) + -히 (副詞形語尾)。" },
+        { "point": "감싸줄게요", "explanation": "감싸다 (擁抱、包覆) + -아/어 주다 (為你做) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "투명한 유리구슬처럼 보이지만",
+      "translation": "雖然像透明的玻璃珠一樣",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形，修飾後面的名詞。" },
+        { "point": "유리구슬처럼", "explanation": "유리구슬 (玻璃珠) + -처럼 (助詞，像...一樣)。" },
+        { "point": "보이지만", "explanation": "보이다 (被看見) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 쉽게 깨지진 않을 거야",
+      "translation": "不會那麼輕易破碎的",
+      "analysis": [
+        { "point": "그렇게", "explanation": "指示副詞，那麼、那樣地。" },
+        { "point": "쉽게", "explanation": "쉽다 (容易的) + -게 (副詞形語尾)。" },
+        { "point": "깨지진 않을 거야", "explanation": "깨지다 (破碎) + -지 않다 (否定形) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "사랑해 너만을 변하지 않도록",
+      "translation": "我愛你 為了只愛你一人不變",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" },
+        { "point": "변하지 않도록", "explanation": "변하다 (變化) + -지 않다 (否定) + -도록 (語法，為了達到某種目的)。" }
+      ]
+    },
+    {
+      "korean": "영원히 널 비춰줄게",
+      "translation": "會永遠照耀著你",
+      "analysis": [
+        { "point": "영원히", "explanation": "영원하다 (永遠的) + -히 (副詞形語尾)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照耀) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "못 이룰 것 없어요",
+      "translation": "沒有什麼是不能實現的",
+      "analysis": [
+        { "point": "못 이룰 것", "explanation": "못 (不能) + 이루다 (實現) + -(으)ㄹ 것 (未來/推測)。" },
+        { "point": "없어요", "explanation": "없다 (沒有) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "그대만 있어준다면",
+      "translation": "只要有你在我身邊",
+      "analysis": [
+        { "point": "그대만", "explanation": "그대 (你) + -만 (只)。" },
+        { "point": "있어준다면", "explanation": "있다 (有/在) + -아/어 주다 (為我做) + -(느)ㄴ다면 (假設，如果...的話)。" }
+      ]
+    },
+    {
+      "korean": "어두웠던 맘 속에 밝은 햇살을",
+      "translation": "在曾經黑暗的心中 明亮的陽光",
+      "analysis": [
+        { "point": "어두웠던", "explanation": "어둡다 (黑暗的) 的過去冠詞形。" },
+        { "point": "맘 속에", "explanation": "마음 (心) 的縮略 + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "밝은 햇살을", "explanation": "밝다 (明亮的) 冠詞形 + 햇살 (陽光) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "비춰줘 언제까지나",
+      "translation": "請照耀我 直到永遠",
+      "analysis": [
+        { "point": "비춰줘", "explanation": "비추다 (照耀) + -아/어 주다 (為我做) 的縮略型。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "두근거리는 심장소리에",
+      "translation": "在怦怦跳動的心臟聲中",
+      "analysis": [
+        { "point": "두근거리는", "explanation": "두근거리다 (怦怦跳) 的冠詞形。" },
+        { "point": "심장소리에", "explanation": "심장 (心臟) + 소리 (聲音) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "그대의 마음이 전해져",
+      "translation": "你的心意被傳達過來",
+      "analysis": [
+        { "point": "그대의", "explanation": "그대 (你) + -의 (的)。" },
+        { "point": "마음이", "explanation": "마음 (心意) + -이 (主格助詞)。" },
+        { "point": "전해져", "explanation": "전해지다 (被傳達) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "떨리는 어깨 이젠 꼭 안아줄게요",
+      "translation": "顫抖的肩膀 現在會緊緊抱住",
+      "analysis": [
+        { "point": "떨리는 어깨", "explanation": "떨리다 (顫抖) 冠詞形 + 어깨 (肩膀)。" },
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (主題助詞) 的縮略。" },
+        { "point": "꼭 안아줄게요", "explanation": "꼭 (緊緊地) + 안다 (抱) + -아/어 주다 (為你做) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "korean": "따스히 감싸줄게요",
+      "translation": "會溫暖地擁抱你",
+      "analysis": [
+        { "point": "따스히", "explanation": "따스하다 (溫暖的) + -히 (副詞形語尾)。" },
+        { "point": "감싸줄게요", "explanation": "감싸다 (擁抱、包覆) + -아/어 주다 (為你做) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "투명한 유리구슬처럼 보이지만",
+      "translation": "雖然像透明的玻璃珠一樣",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形，修飾後面的名詞。" },
+        { "point": "유리구슬처럼", "explanation": "유리구슬 (玻璃珠) + -처럼 (助詞，像...一樣)。" },
+        { "point": "보이지만", "explanation": "보이다 (被看見) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 쉽게 깨지진 않을 거야",
+      "translation": "不會那麼輕易破碎的",
+      "analysis": [
+        { "point": "그렇게", "explanation": "指示副詞，那麼、那樣地。" },
+        { "point": "쉽게", "explanation": "쉽다 (容易的) + -게 (副詞形語尾)。" },
+        { "point": "깨지진 않을 거야", "explanation": "깨지다 (破碎) + -지 않다 (否定形) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "사랑해 너만을 변하지 않도록",
+      "translation": "我愛你 為了只愛你一人不變",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" },
+        { "point": "변하지 않도록", "explanation": "변하다 (變化) + -지 않다 (否定) + -도록 (語法，為了達到某種目的)。" }
+      ]
+    },
+    {
+      "korean": "영원히 널 비춰줄게",
+      "translation": "會永遠照耀著你",
+      "analysis": [
+        { "point": "영원히", "explanation": "영원하다 (永遠的) + -히 (副詞形語尾)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照耀) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "달콤한 말도 필요 없어요",
+      "translation": "甜言蜜語也不需要",
+      "analysis": [
+        { "point": "달콤한 말도", "explanation": "달콤하다 (甜蜜的) 冠詞形 + 말 (話) + -도 (也)。" },
+        { "point": "필요 없어요", "explanation": "필요 (必要) + 없다 (沒有) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "매일같은 꿈에 행복해요",
+      "translation": "每天都在做著同樣的夢 很幸福",
+      "analysis": [
+        { "point": "매일같은", "explanation": "매일 (每天) + 같다 (一樣) 的冠詞形。" },
+        { "point": "꿈에", "explanation": "꿈 (夢) + -에 (場所/原因助詞，在夢中/因為夢)。" },
+        { "point": "행복해요", "explanation": "행복하다 (幸福) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "아름다운 미소를 모두 담아 둘게요",
+      "translation": "我會收藏起所有美麗的微笑",
+      "analysis": [
+        { "point": "아름다운 미소를", "explanation": "아름답다 (美麗的) 冠詞形 + 미소 (微笑) + -을 (受格助詞)。" },
+        { "point": "모두 담아 둘게요", "explanation": "모두 (全部) + 담다 (裝、收藏) + -아/어 두다 (預先做好/維持狀態) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "korean": "깨지지 않도록 지켜줘 언제까지나",
+      "translation": "請守護著我 直到永遠 不要破碎",
+      "analysis": [
+        { "point": "깨지지 않도록", "explanation": "깨지다 (破碎) + -지 않다 (否定) + -도록 (語法，為了達到某種目的)。" },
+        { "point": "지켜줘", "explanation": "지키다 (守護) + -아/어 주다 (為我做) 的縮略型。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" }
+      ]
+    },
+    {
+      "korean": "소중해 그 누구보다 더 널 사랑해",
+      "translation": "你很珍貴 我比任何人都更愛你",
+      "analysis": [
+        { "point": "소중해", "explanation": "소중하다 (珍貴的) 的非格式體。" },
+        { "point": "그 누구보다 더", "explanation": "그 누구 (任何人) + -보다 (比) + 더 (更)。" },
+        { "point": "널 사랑해", "explanation": "너를 (你) 的縮略 + 사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "믿기지 않는 기적이 찾아 온 거야",
+      "translation": "難以置信的奇蹟降臨了",
+      "analysis": [
+        { "point": "믿기지 않는", "explanation": "믿기다 (被相信) + -지 않다 (否定) 的冠詞形。" },
+        { "point": "기적이", "explanation": "기적 (奇蹟) + -이 (主格助詞)。" },
+        { "point": "찾아 온 거야", "explanation": "찾아오다 (找來、降臨) 的過去式 + 것 (名詞化) + -이야 (陳述)。" }
+      ]
+    },
+    {
+      "korean": "사랑해 너만을 변하지 않도록",
+      "translation": "我愛你 為了只愛你一人不變",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" },
+        { "point": "변하지 않도록", "explanation": "변하다 (變化) + -지 않다 (否定) + -도록 (語法，為了達到某種目的)。" }
+      ]
+    },
+    {
+      "korean": "영원히 널 비춰줄게",
+      "translation": "會永遠照耀著你",
+      "analysis": [
+        { "point": "영원히", "explanation": "영원하다 (永遠的) + -히 (副詞形語尾)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照耀) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "투명한 유리구슬처럼 보이지만",
+      "translation": "雖然像透明的玻璃珠一樣",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形，修飾後面的名詞。" },
+        { "point": "유리구슬처럼", "explanation": "유리구슬 (玻璃珠) + -처럼 (助詞，像...一樣)。" },
+        { "point": "보이지만", "explanation": "보이다 (被看見) + -지만 (連接詞尾，雖然...但是)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 쉽게 깨지진 않을 거야",
+      "translation": "不會那麼輕易破碎的",
+      "analysis": [
+        { "point": "그렇게", "explanation": "指示副詞，那麼、那樣地。" },
+        { "point": "쉽게", "explanation": "쉽다 (容易的) + -게 (副詞形語尾)。" },
+        { "point": "깨지진 않을 거야", "explanation": "깨지다 (破碎) + -지 않다 (否定形) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "사랑해 너만을 변하지 않도록",
+      "translation": "我愛你 為了只愛你一人不變",
+      "analysis": [
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "너만을", "explanation": "너 (你) + -만 (只) + -을 (受格助詞)。" },
+        { "point": "변하지 않도록", "explanation": "변하다 (變化) + -지 않다 (否定) + -도록 (語法，為了達到某種目的)。" }
+      ]
+    },
+    {
+      "korean": "영원히 널 비춰줄게",
+      "translation": "會永遠照耀著你",
+      "analysis": [
+        { "point": "영원히", "explanation": "영원하다 (永遠的) + -히 (副詞形語尾)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "비춰줄게", "explanation": "비추다 (照耀) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "투명하다", "chinese": "透明的", "pos": "形容詞" },
+    { "korean": "유리구슬", "chinese": "玻璃珠", "pos": "名詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "깨지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "쉽다", "chinese": "容易的", "pos": "形容詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "변하다", "chinese": "變化", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
+    { "korean": "약하다", "chinese": "脆弱的", "pos": "形容詞" },
+    { "korean": "걱정되다", "chinese": "擔心", "pos": "動詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "이슬", "chinese": "露珠", "pos": "名詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "꽉", "chinese": "緊緊地", "pos": "副詞" },
+    { "korean": "잡다", "chinese": "抓", "pos": "動詞" },
+    { "korean": "따스하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "감싸다", "chinese": "擁抱、包覆", "pos": "動詞" },
+    { "korean": "이루다", "chinese": "實現", "pos": "動詞" },
+    { "korean": "있다", "chinese": "有、在", "pos": "動詞" },
+    { "korean": "어둡다", "chinese": "黑暗的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "밝다", "chinese": "明亮的", "pos": "形容詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "두근거리다", "chinese": "怦怦跳", "pos": "動詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "전해지다", "chinese": "被傳達", "pos": "動詞" },
+    { "korean": "어깨", "chinese": "肩膀", "pos": "名詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "안다", "chinese": "抱", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "필요", "chinese": "必要", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "행복하다", "chinese": "幸福", "pos": "形容詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "모두", "chinese": "全部", "pos": "副詞" },
+    { "korean": "담다", "chinese": "裝、收藏", "pos": "動詞" },
+    { "korean": "지키다", "chinese": "守護", "pos": "動詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "누구", "chinese": "誰", "pos": "代名詞" },
+    { "korean": "믿기다", "chinese": "被相信", "pos": "動詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "찾아오다", "chinese": "找來、降臨", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "id": "GFRIEND-FINGERTIP",
+  "title": "FINGERTIP",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "오늘 난 특별해",
+      "translation": "今天我很特別",
+      "analysis": [
+        { "point": "오늘", "explanation": "名詞，今天。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "특별해", "explanation": "특별하다 (特別的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "설레는 시작이야",
+      "translation": "是心動的開始",
+      "analysis": [
+        { "point": "설레는", "explanation": "설레다 (心動) 的冠詞形。" },
+        { "point": "시작이야", "explanation": "시작 (開始) + -이야 (非格式體敘述句結尾)。" }
+      ]
+    },
+    {
+      "korean": "왠지 알 수 없는",
+      "translation": "不知為何 無法得知的",
+      "analysis": [
+        { "point": "왠지", "explanation": "副詞，不知為何、總覺得。" },
+        { "point": "알 수 없는", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "두근거림에 끌려",
+      "translation": "被怦然心動吸引",
+      "analysis": [
+        { "point": "두근거림에", "explanation": "두근거리다 (怦怦跳) 的名詞形 + -에 (原因/場所助詞)。" },
+        { "point": "끌려", "explanation": "끌리다 (被吸引) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "사뿐한 발걸음",
+      "translation": "輕盈的腳步",
+      "analysis": [
+        { "point": "사뿐한", "explanation": "사뿐하다 (輕盈的) 的冠詞形。" },
+        { "point": "발걸음", "explanation": "名詞，腳步。" }
+      ]
+    },
+    {
+      "korean": "오늘따라 괜찮은",
+      "translation": "今天特別不錯的",
+      "analysis": [
+        { "point": "오늘따라", "explanation": "오늘 (今天) + -따라 (特別是今天)。" },
+        { "point": "괜찮은", "explanation": "괜찮다 (不錯的) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "느낌이라 좋아",
+      "translation": "因為是這種感覺 所以喜歡",
+      "analysis": [
+        { "point": "느낌이라", "explanation": "느낌 (感覺) + -이라 (因為是)。" },
+        { "point": "좋아", "explanation": "좋다 (好/喜歡) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "예감이 다 좋아",
+      "translation": "預感全都很好",
+      "analysis": [
+        { "point": "예감이", "explanation": "예감 (預感) + -이 (主格助詞)。" },
+        { "point": "다 좋아", "explanation": "다 (全部) + 좋다 (好) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "(어떻게) 방심한 순간",
+      "translation": "（怎麼辦）放鬆警惕的瞬間",
+      "analysis": [
+        { "point": "어떻게", "explanation": "疑問副詞，怎麼辦、怎麼。" },
+        { "point": "방심한", "explanation": "방심하다 (放鬆警惕) 的冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "oh 이건 말도 안돼",
+      "translation": "oh 這不像話",
+      "analysis": [
+        { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
+        { "point": "말도 안돼", "explanation": "말 (話) + -도 (也) + 안 되다 (不行)，表示「不像話、豈有此理」。固定表達。" }
+      ]
+    },
+    {
+      "korean": "(그렇게) 날 보는 눈빛이",
+      "translation": "（那樣）看著我的眼神",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "날 보는", "explanation": "나를 (我) 的縮略 + 보다 (看) 的冠詞形。" },
+        { "point": "눈빛이", "explanation": "눈빛 (眼神) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너무 완벽해",
+      "translation": "太完美了",
+      "analysis": [
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "완벽해", "explanation": "완벽하다 (完美的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아무 흠이 없는",
+      "translation": "沒有任何缺點的",
+      "analysis": [
+        { "point": "아무", "explanation": "冠詞，任何。" },
+        { "point": "흠이 없는", "explanation": "흠 (缺點) + -이 (主格助詞) + 없다 (沒有) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너를 가리킨 순간",
+      "translation": "指向你的瞬間",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "가리킨", "explanation": "가리키다 (指、指向) 的冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "내 것이 될 것 같아",
+      "translation": "好像會成為我的",
+      "analysis": [
+        { "point": "내 것이", "explanation": "나의 (我的) 縮略 + 것 (東西) + -이 (主格助詞)。" },
+        { "point": "될 것 같아", "explanation": "되다 (成為) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "탕탕탕 FINGERTIP",
+      "translation": "噠噠噠 FINGERTIP",
+      "analysis": [
+        { "point": "탕탕탕", "explanation": "擬聲詞，槍聲。" },
+        { "point": "FINGERTIP", "explanation": "英文歌詞，指尖，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 겨눌게",
+      "translation": "會瞄準你的心",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "겨눌게", "explanation": "겨누다 (瞄準) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "탕탕탕 FINGERTIP",
+      "translation": "噠噠噠 FINGERTIP",
+      "analysis": [
+        { "point": "탕탕탕", "explanation": "擬聲詞，槍聲。" },
+        { "point": "FINGERTIP", "explanation": "英文歌詞，指尖，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "심장이 멈추게",
+      "translation": "讓心臟停止",
+      "analysis": [
+        { "point": "심장이", "explanation": "심장 (心臟) + -이 (主格助詞)。" },
+        { "point": "멈추게", "explanation": "멈추다 (停止) + -게 (副詞形語尾，表示目的/結果)。" }
+      ]
+    },
+    {
+      "korean": "뭐 어때 네 곁에",
+      "translation": "那又怎樣 在你身邊",
+      "analysis": [
+        { "point": "뭐 어때", "explanation": "뭐 (什麼) + 어떻다 (怎麼樣) 的縮略，表示「那又怎樣」。固定表達。" },
+        { "point": "네 곁에", "explanation": "네 (你的) + 곁 (身邊) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 다가가볼게",
+      "translation": "會試著更靠近",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "다가가볼게", "explanation": "다가가다 (靠近) + -아/어 보다 (嘗試) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "손 끝에 네가 있어",
+      "translation": "指尖上有你",
+      "analysis": [
+        { "point": "손 끝에", "explanation": "손 (手) + 끝 (末端、指尖) + -에 (場所助詞)。" },
+        { "point": "네가 있어", "explanation": "네 (你) + -가 (主格助詞) + 있다 (有/存在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "FINGER FINGERTIP",
+      "translation": "FINGER FINGERTIP",
+      "analysis": [
+        { "point": "FINGER FINGERTIP", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "FINGER FINGERTIP",
+      "translation": "FINGER FINGERTIP",
+      "analysis": [
+        { "point": "FINGER FINGERTIP", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "그래 너의 맘을 갖겠어 지금이야",
+      "translation": "沒錯 我要得到你的心 就是現在",
+      "analysis": [
+        { "point": "그래", "explanation": "感嘆詞，對、沒錯。" },
+        { "point": "너의 맘을", "explanation": "너의 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "갖겠어", "explanation": "가지다 (擁有) 的未來推測形，表示意志。" },
+        { "point": "지금이야", "explanation": "지금 (現在) + -이야 (就是)。" }
+      ]
+    },
+    {
+      "korean": "시작해 완벽해",
+      "translation": "開始吧 完美",
+      "analysis": [
+        { "point": "시작해", "explanation": "시작하다 (開始) 的非格式體。" },
+        { "point": "완벽해", "explanation": "완벽하다 (完美的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "준비는 이미 끝났어",
+      "translation": "準備已經結束了",
+      "analysis": [
+        { "point": "준비는", "explanation": "준비 (準備) + -는 (主題助詞)。" },
+        { "point": "이미", "explanation": "副詞，已經。" },
+        { "point": "끝났어", "explanation": "끝나다 (結束) 的過去式。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "그 짧은 시간에",
+      "translation": "在那短暫的時間裡",
+      "analysis": [
+        { "point": "그 짧은", "explanation": "그 (那) + 짧다 (短的) 的冠詞形。" },
+        { "point": "시간에", "explanation": "시간 (時間) + -에 (場所/時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 맘에 들어왔어",
+      "translation": "進入了我的心",
+      "analysis": [
+        { "point": "내 맘에", "explanation": "내 (我的) + 마음 (心) 的縮略 + -에 (場所助詞)。" },
+        { "point": "들어왔어", "explanation": "들어오다 (進來) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "너 빼고 아무도",
+      "translation": "除了你 誰也",
+      "analysis": [
+        { "point": "너 빼고", "explanation": "너 (你) + 빼다 (除去) + -고 (連接詞尾)。" },
+        { "point": "아무도", "explanation": "아무 (任何人) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "보이지도 않았어",
+      "translation": "看不見",
+      "analysis": [
+        { "point": "보이지도 않았어", "explanation": "보이다 (被看見) + -지도 않다 (也不) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "한 걸음 다가가",
+      "translation": "靠近一步",
+      "analysis": [
+        { "point": "한 걸음", "explanation": "한 (一) + 걸음 (步)。" },
+        { "point": "다가가", "explanation": "다가가다 (靠近) 的非格式體連接形。" }
+      ]
+    },
+    {
+      "korean": "너를 스치는 순간",
+      "translation": "掠過你的瞬間",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "스치는", "explanation": "스치다 (掠過) 的冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "느낌이 다 좋아",
+      "translation": "感覺全都很好",
+      "analysis": [
+        { "point": "느낌이", "explanation": "느낌 (感覺) + -이 (主格助詞)。" },
+        { "point": "다 좋아", "explanation": "다 (全部) + 좋다 (好) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "확실히 다가가",
+      "translation": "確實地靠近",
+      "analysis": [
+        { "point": "확실히", "explanation": "확실하다 (確實的) + -히 (副詞形語尾)。" },
+        { "point": "다가가", "explanation": "다가가다 (靠近) 的非格式體連接形。" }
+      ]
+    },
+    {
+      "korean": "(123) 시간이 갈수록",
+      "translation": "（123）隨著時間流逝",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "갈수록", "explanation": "가다 (去/流逝) + -(으)ㄹ수록 (越...越...)。" }
+      ]
+    },
+    {
+      "korean": "열리는 fantasy",
+      "translation": "展開的 fantasy",
+      "analysis": [
+        { "point": "열리는", "explanation": "열리다 (被打開/展開) 的冠詞形。" },
+        { "point": "fantasy", "explanation": "英文歌詞，幻想，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "(321) 이 넓은 공간에",
+      "translation": "（321）在這寬敞的空間裡",
+      "analysis": [
+        { "point": "이 넓은", "explanation": "이 (這) + 넓다 (寬敞的) 的冠詞形。" },
+        { "point": "공간에", "explanation": "공간 (空間) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "가득 가득해",
+      "translation": "滿滿地充滿",
+      "analysis": [
+        { "point": "가득", "explanation": "副詞，滿滿地。" },
+        { "point": "가득해", "explanation": "가득하다 (充滿) 的非格式體，重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "아무 빈틈없는",
+      "translation": "沒有任何空隙的",
+      "analysis": [
+        { "point": "아무", "explanation": "冠詞，任何。" },
+        { "point": "빈틈없는", "explanation": "빈틈 (空隙) + 없다 (沒有) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너를 가리킨 순간",
+      "translation": "指向你的瞬間",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "가리킨", "explanation": "가리키다 (指、指向) 的冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "내 것이 될 것 같아",
+      "translation": "好像會成為我的",
+      "analysis": [
+        { "point": "내 것이", "explanation": "나의 (我的) 縮略 + 것 (東西) + -이 (主格助詞)。" },
+        { "point": "될 것 같아", "explanation": "되다 (成為) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "탕탕탕 FINGERTIP",
+      "translation": "噠噠噠 FINGERTIP",
+      "analysis": [
+        { "point": "탕탕탕", "explanation": "擬聲詞，槍聲。" },
+        { "point": "FINGERTIP", "explanation": "英文歌詞，指尖，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 겨눌게",
+      "translation": "會瞄準你的心",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "겨눌게", "explanation": "겨누다 (瞄準) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "탕탕탕 FINGERTIP",
+      "translation": "噠噠噠 FINGERTIP",
+      "analysis": [
+        { "point": "탕탕탕", "explanation": "擬聲詞，槍聲。" },
+        { "point": "FINGERTIP", "explanation": "英文歌詞，指尖，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "심장이 멈추게",
+      "translation": "讓心臟停止",
+      "analysis": [
+        { "point": "심장이", "explanation": "심장 (心臟) + -이 (主格助詞)。" },
+        { "point": "멈추게", "explanation": "멈추다 (停止) + -게 (副詞形語尾，表示目的/結果)。" }
+      ]
+    },
+    {
+      "korean": "뭐 어때 네 곁에",
+      "translation": "那又怎樣 在你身邊",
+      "analysis": [
+        { "point": "뭐 어때", "explanation": "뭐 (什麼) + 어떻다 (怎麼樣) 的縮略，表示「那又怎樣」。固定表達。" },
+        { "point": "네 곁에", "explanation": "네 (你的) + 곁 (身邊) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 다가가볼게",
+      "translation": "會試著更靠近",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "다가가볼게", "explanation": "다가가다 (靠近) + -아/어 보다 (嘗試) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "손 끝에 네가 있어",
+      "translation": "指尖上有你",
+      "analysis": [
+        { "point": "손 끝에", "explanation": "손 (手) + 끝 (末端、指尖) + -에 (場所助詞)。" },
+        { "point": "네가 있어", "explanation": "네 (你) + -가 (主格助詞) + 있다 (有/存在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "FINGER FINGERTIP",
+      "translation": "FINGER FINGERTIP",
+      "analysis": [
+        { "point": "FINGER FINGERTIP", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "오랫동안 기다린",
+      "translation": "等待了很久的",
+      "analysis": [
+        { "point": "오랫동안", "explanation": "副詞，很長時間。" },
+        { "point": "기다린", "explanation": "기다리다 (等待) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "순간에도 태연하게",
+      "translation": "在瞬間也泰然自若地",
+      "analysis": [
+        { "point": "순간에도", "explanation": "순간 (瞬間) + -에 (時間助詞) + -도 (也)。" },
+        { "point": "태연하게", "explanation": "태연하다 (泰然自若的) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "그 누구도 모르게",
+      "translation": "誰也不知道地",
+      "analysis": [
+        { "point": "그 누구도", "explanation": "그 누구 (任何人) + -도 (也)。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "눈치채지도 못하게",
+      "translation": "連察覺也無法",
+      "analysis": [
+        { "point": "눈치채지도 못하게", "explanation": "눈치채다 (察覺) + -지도 못하다 (也無法) + -게 (副詞形語尾)。" }
+      ]
+    },
+    {
+      "korean": "손짓하나 까딱까딱",
+      "translation": "一個手勢 輕輕地",
+      "analysis": [
+        { "point": "손짓하나", "explanation": "손짓 (手勢) + 하나 (一個)。" },
+        { "point": "까딱까딱", "explanation": "擬態詞，輕輕晃動的樣子。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 조종할게",
+      "translation": "會操控你的心",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "조종할게", "explanation": "조종하다 (操控) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "시간이 째깍째깍",
+      "translation": "時間滴答滴答",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "째깍째깍", "explanation": "擬聲詞，時鐘滴答聲。" }
+      ]
+    },
+    {
+      "korean": "다 가기 전에 다가와 1234",
+      "translation": "在全部過去之前 靠近吧 1234",
+      "analysis": [
+        { "point": "다 가기 전에", "explanation": "다 (全部) + 가다 (去) 的名詞形 + 전에 (在...之前)。" },
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的非格式體。" },
+        { "point": "1234", "explanation": "數字，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "정말 어쩌지",
+      "translation": "真的怎麼辦",
+      "analysis": [
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "어쩌지", "explanation": "어쩌다 (怎麼辦) 的感嘆形。" }
+      ]
+    },
+    {
+      "korean": "널 조준했던 순간",
+      "translation": "瞄準你的瞬間",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "조준했던", "explanation": "조준하다 (瞄準) 的過去冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "사랑에 빠질 것 같아",
+      "translation": "好像會陷入愛情",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑 (愛情) + -에 (場所助詞)。" },
+        { "point": "빠질 것 같아", "explanation": "빠지다 (陷入) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "탕탕탕 FINGERTIP",
+      "translation": "噠噠噠 FINGERTIP",
+      "analysis": [
+        { "point": "탕탕탕", "explanation": "擬聲詞，槍聲。" },
+        { "point": "FINGERTIP", "explanation": "英文歌詞，指尖，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 겨눌게 (맘을 겨눌게)",
+      "translation": "會瞄準你的心 (瞄準你的心)",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "겨눌게", "explanation": "겨누다 (瞄準) + -(으)ㄹ게 (表示承諾或意志)。" },
+        { "point": "맘을 겨눌게", "explanation": "重複部分，解析同上。" }
+      ]
+    },
+    {
+      "korean": "탕탕탕 FINGERTIP",
+      "translation": "噠噠噠 FINGERTIP",
+      "analysis": [
+        { "point": "탕탕탕", "explanation": "擬聲詞，槍聲。" },
+        { "point": "FINGERTIP", "explanation": "英文歌詞，指尖，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "심장이 멈추게 (심장이 멈추게)",
+      "translation": "讓心臟停止 (心臟停止)",
+      "analysis": [
+        { "point": "심장이", "explanation": "심장 (心臟) + -이 (主格助詞)。" },
+        { "point": "멈추게", "explanation": "멈추다 (停止) + -게 (副詞形語尾，表示目的/結果)。" },
+        { "point": "심장이 멈추게", "explanation": "重複部分，解析同上。" }
+      ]
+    },
+    {
+      "korean": "뭐 어때 네 곁에",
+      "translation": "那又怎樣 在你身邊",
+      "analysis": [
+        { "point": "뭐 어때", "explanation": "뭐 (什麼) + 어떻다 (怎麼樣) 的縮略，表示「那又怎樣」。固定表達。" },
+        { "point": "네 곁에", "explanation": "네 (你的) + 곁 (身邊) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "더 다가가볼게 (다가가볼게)",
+      "translation": "會試著更靠近 (試著靠近)",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "다가가볼게", "explanation": "다가가다 (靠近) + -아/어 보다 (嘗試) + -(으)ㄹ게 (表示承諾或意志)。" },
+        { "point": "다가가볼게", "explanation": "重複部分，解析同上。" }
+      ]
+    },
+    {
+      "korean": "손 끝에 네가 있어",
+      "translation": "指尖上有你",
+      "analysis": [
+        { "point": "손 끝에", "explanation": "손 (手) + 끝 (末端、指尖) + -에 (場所助詞)。" },
+        { "point": "네가 있어", "explanation": "네 (你) + -가 (主格助詞) + 있다 (有/存在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "FINGER FINGERTIP",
+      "translation": "FINGER FINGERTIP",
+      "analysis": [
+        { "point": "FINGER FINGERTIP", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "FINGERFINGER TIP",
+      "translation": "FINGERFINGER TIP",
+      "analysis": [
+        { "point": "FINGERFINGER TIP", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "그래 너의 맘을 갖겠어",
+      "translation": "沒錯 我要得到你的心",
+      "analysis": [
+        { "point": "그래", "explanation": "感嘆詞，對、沒錯。" },
+        { "point": "너의 맘을", "explanation": "너의 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "갖겠어", "explanation": "가지다 (擁有) 的未來推測形，表示意志。" }
+      ]
+    },
+    {
+      "korean": "지금이야",
+      "translation": "就是現在",
+      "analysis": [
+        { "point": "지금이야", "explanation": "지금 (現在) + -이야 (就是)。" }
+      ]
+    },
+    {
+      "korean": "손 끝에 네가 있어",
+      "translation": "指尖上有你",
+      "analysis": [
+        { "point": "손 끝에", "explanation": "손 (手) + 끝 (末端、指尖) + -에 (場所助詞)。" },
+        { "point": "네가 있어", "explanation": "네 (你) + -가 (主格助詞) + 있다 (有/存在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "FINGER FINGERTIP",
+      "translation": "FINGER FINGERTIP",
+      "analysis": [
+        { "point": "FINGER FINGERTIP", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "특별하다", "chinese": "特別的", "pos": "形容詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "시작", "chinese": "開始", "pos": "名詞" },
+    { "korean": "왠지", "chinese": "不知為何", "pos": "副詞" },
+    { "korean": "두근거리다", "chinese": "怦怦跳", "pos": "動詞" },
+    { "korean": "끌리다", "chinese": "被吸引", "pos": "動詞" },
+    { "korean": "사뿐하다", "chinese": "輕盈的", "pos": "形容詞" },
+    { "korean": "발걸음", "chinese": "腳步", "pos": "名詞" },
+    { "korean": "오늘따라", "chinese": "今天特別", "pos": "副詞" },
+    { "korean": "괜찮다", "chinese": "不錯的", "pos": "形容詞" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "예감", "chinese": "預感", "pos": "名詞" },
+    { "korean": "방심하다", "chinese": "放鬆警惕", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "완벽하다", "chinese": "完美的", "pos": "形容詞" },
+    { "korean": "흠", "chinese": "缺點", "pos": "名詞" },
+    { "korean": "가리키다", "chinese": "指、指向", "pos": "動詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "겨누다", "chinese": "瞄準", "pos": "動詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "끝", "chinese": "末端、指尖", "pos": "名詞" },
+    { "korean": "갖다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "준비", "chinese": "準備", "pos": "名詞" },
+    { "korean": "끝나다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "짧다", "chinese": "短的", "pos": "形容詞" },
+    { "korean": "들어오다", "chinese": "進來", "pos": "動詞" },
+    { "korean": "빼다", "chinese": "除去", "pos": "動詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "확실히", "chinese": "確實地", "pos": "副詞" },
+    { "korean": "열리다", "chinese": "被打開、展開", "pos": "動詞" },
+    { "korean": "넓다", "chinese": "寬敞的", "pos": "形容詞" },
+    { "korean": "공간", "chinese": "空間", "pos": "名詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "빈틈", "chinese": "空隙", "pos": "名詞" },
+    { "korean": "오랫동안", "chinese": "很長時間", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "태연하다", "chinese": "泰然自若的", "pos": "形容詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "눈치채다", "chinese": "察覺", "pos": "動詞" },
+    { "korean": "손짓", "chinese": "手勢", "pos": "名詞" },
+    { "korean": "까딱까딱", "chinese": "輕輕晃動的樣子", "pos": "擬態詞" },
+    { "korean": "조종하다", "chinese": "操控", "pos": "動詞" },
+    { "korean": "째깍째깍", "chinese": "滴答滴答", "pos": "擬聲詞" },
+    { "korean": "어쩌다", "chinese": "怎麼辦", "pos": "感嘆詞" },
+    { "korean": "조준하다", "chinese": "瞄準", "pos": "動詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" }
+  ]
+}

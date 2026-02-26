@@ -1,0 +1,490 @@
+{
+  "id": "yuju-dalala",
+  "title": "DALALA",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "귀에 꽂힌 이어폰 자주 걷던 거리에",
+      "translation": "耳朵上戴著的耳機 在常走的那條街上",
+      "analysis": [
+        { "point": "귀에 꽂힌", "explanation": "귀 (耳朵) + -에 (場所助詞) + 꽂히다 (被插著) 的過去定語形。" },
+        { "point": "이어폰", "explanation": "名詞，耳機。" },
+        { "point": "자주 걷던 거리에", "explanation": "자주 (經常) + 걷다 (走) 的過去回想着定語形 + 거리 (街道) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "뻔한 노래 흘러나오지",
+      "translation": "流淌出老套的歌",
+      "analysis": [
+        { "point": "뻔한", "explanation": "뻔하다 (顯然的、老套的) 的定語形。" },
+        { "point": "노래", "explanation": "名詞，歌曲。" },
+        { "point": "흘러나오지", "explanation": "흘러나오다 (流淌出來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Ah, 마저 정리 못했던 지겨워진 playlist",
+      "translation": "啊，沒能整理完的 變得厭煩的播放列表",
+      "analysis": [
+        { "point": "Ah", "explanation": "感嘆詞，啊。" },
+        { "point": "마저 정리 못했던", "explanation": "마저 (連...也) + 정리하다 (整理) + 못하다 (未能) 的過去回想着定語形。" },
+        { "point": "지겨워진", "explanation": "지겹다 (厭煩的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "playlist", "explanation": "英文，播放列表。" }
+      ]
+    },
+    {
+      "korean": "그날이 또 막 생각이 나지",
+      "translation": "那天又突然想起來了",
+      "analysis": [
+        { "point": "그날이", "explanation": "그날 (那天) + -이 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "막", "explanation": "副詞，剛、突然。" },
+        { "point": "생각이 나지", "explanation": "생각 (想法) + -이 (主格助詞) + 나다 (出來) 的非格式體，意為「想起來」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "네가 바라는 나와, 내가 바라는 내가",
+      "translation": "你所期望的我，和 我所期望的我",
+      "analysis": [
+        { "point": "네가 바라는 나와", "explanation": "네가 (你) + 바라다 (期望) 的現在定語形 + 나 (我) + -와 (和)。" },
+        { "point": "내가 바라는 내가", "explanation": "내가 (我) + 바라다 (期望) 的現在定語形 + 나 (我) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "항상같을 수 없다는 게 (mmm-mmm)",
+      "translation": "無法總是相同這件事",
+      "analysis": [
+        { "point": "항상같을", "explanation": "항상 (總是) + 같다 (相同) + -(으)ㄹ (未來定語形)。" },
+        { "point": "수 없다는 게", "explanation": "수 없다 (無法) + -다는 (引用) + 것 (事情) + -이 (主格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "가끔 답답하지만 때론 재밌기도 해",
+      "translation": "有時鬱悶 但偶爾也挺有趣",
+      "analysis": [
+        { "point": "가끔", "explanation": "副詞，偶爾。" },
+        { "point": "답답하지만", "explanation": "답답하다 (鬱悶的) + -지만 (雖然)。" },
+        { "point": "때론", "explanation": "때로는 (有時) 的縮略。" },
+        { "point": "재밌기도 해", "explanation": "재미있다 (有趣的) + -기도 하다 (也) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이 모든 게 다 웃음이 나지",
+      "translation": "這一切全都讓人發笑",
+      "analysis": [
+        { "point": "이 모든 게", "explanation": "이 (這) + 모든 (所有的) + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "웃음이 나지", "explanation": "웃음 (笑) + -이 (主格助詞) + 나다 (出來) 的非格式體，意為「笑出來」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "라랄라라, 오늘따라",
+      "translation": "啦啦啦啦，特別在今天",
+      "analysis": [
+        { "point": "라랄라라", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "오늘따라", "explanation": "오늘 (今天) + -따라 (特別地、尤其是)。" }
+      ]
+    },
+    {
+      "korean": "바라보던 그 눈빛이",
+      "translation": "曾凝視的那個眼神",
+      "analysis": [
+        { "point": "바라보던", "explanation": "바라보다 (凝視) 的過去回想着定語形。" },
+        { "point": "그 눈빛이", "explanation": "그 (那) + 눈빛 (眼神) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "어떤 말을 건네는지 잘 모르겠지만",
+      "translation": "雖然不太清楚在傳達什麼話",
+      "analysis": [
+        { "point": "어떤 말을", "explanation": "어떤 (什麼樣的) + 말 (話) + -을 (受格助詞)。" },
+        { "point": "건네는지", "explanation": "건네다 (傳遞) 的現在疑問形。" },
+        { "point": "잘 모르겠지만", "explanation": "잘 (好好地) + 모르다 (不知道) + -겠- (推測) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "복잡하게 생각하고 싶지 않다고요, ah",
+      "translation": "說不想想得太複雜，啊",
+      "analysis": [
+        { "point": "복잡하게", "explanation": "복잡하다 (複雜的) 的副詞形。" },
+        { "point": "생각하고 싶지 않다고요", "explanation": "생각하다 (想) + -고 싶다 (想要) + -지 않다 (不) + -다고요 (引用敬語)。" },
+        { "point": "ah", "explanation": "感嘆詞，啊。" }
+      ]
+    },
+    {
+      "korean": "이 도시를, 따라랏, 울려대는 소리를",
+      "translation": "這個城市，噠啦啦，迴響的聲音",
+      "analysis": [
+        { "point": "이 도시를", "explanation": "이 (這) + 도시 (城市) + -를 (受格助詞)。" },
+        { "point": "따라랏", "explanation": "擬聲詞，噠啦啦。" },
+        { "point": "울려대는 소리를", "explanation": "울려대다 (不斷響起) 的現在定語形 + 소리 (聲音) + -를 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "배경음악 삼아 노랠 불러볼까?",
+      "translation": "把它當作背景音樂 試著唱首歌嗎？",
+      "analysis": [
+        { "point": "배경음악", "explanation": "名詞，背景音樂。" },
+        { "point": "삼아", "explanation": "삼다 (當作) 的非格式體。" },
+        { "point": "노랠", "explanation": "노래 (歌曲) + -를 (受格助詞) 的縮略。" },
+        { "point": "불러볼까", "explanation": "부르다 (唱) + -아/어 보다 (嘗試) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    },
+    {
+      "korean": "이 도시를, 라라랏, 떠다니는 별 사이로",
+      "translation": "這個城市，啦啦啦，在漂浮的星星之間",
+      "analysis": [
+        { "point": "이 도시를", "explanation": "이 (這) + 도시 (城市) + -를 (受格助詞)。" },
+        { "point": "라라랏", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "떠다니는 별 사이로", "explanation": "떠다니다 (漂浮) 的現在定語形 + 별 (星星) + 사이 (之間) + -(으)로 (通過)。" }
+      ]
+    },
+    {
+      "korean": "꼿꼿해진 걸음 어떤 노랠 꺼내 부를까?",
+      "translation": "變得筆直的步伐 要拿出什麼歌來唱呢？",
+      "analysis": [
+        { "point": "꼿꼿해진", "explanation": "꼿꼿하다 (筆直的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "걸음", "explanation": "名詞，腳步、步伐。" },
+        { "point": "어떤 노랠", "explanation": "어떤 (什麼樣的) + 노래 (歌曲) + -를 (受格助詞) 的縮略。" },
+        { "point": "꺼내 부를까", "explanation": "꺼내다 (拿出) + 부르다 (唱) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    },
+    {
+      "korean": "Ah-ah-ah, ah-ah-ah, 따라라, ah-ah-ah",
+      "translation": "啊-啊-啊，啊-啊-啊，噠啦啦，啊-啊-啊",
+      "analysis": [
+        { "point": "Ah-ah-ah", "explanation": "英文，啊-啊-啊。" },
+        { "point": "따라라", "explanation": "擬聲詞，噠啦啦。" }
+      ]
+    },
+    {
+      "korean": "발음 가는 대로, in this city, city, city, ah",
+      "translation": "隨著發音走，在這個城市，城市，城市，啊",
+      "analysis": [
+        { "point": "발음", "explanation": "名詞，發音。" },
+        { "point": "가는 대로", "explanation": "가다 (去) 的現在定語形 + 대로 (按照)。" },
+        { "point": "in this city, city, city, ah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ah-ah-ah, ah-ah-ah, 따라라, ah-ah-ah",
+      "translation": "啊-啊-啊，啊-啊-啊，噠啦啦，啊-啊-啊",
+      "analysis": [
+        { "point": "Ah-ah-ah", "explanation": "英文，啊-啊-啊。" },
+        { "point": "따라라", "explanation": "擬聲詞，噠啦啦。" }
+      ]
+    },
+    {
+      "korean": "촉촉해진 밤에 어떤 길을 골라 걸을까?",
+      "translation": "在變得濕潤的夜晚 要選哪條路走呢？",
+      "analysis": [
+        { "point": "촉촉해진", "explanation": "촉촉하다 (濕潤的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (場所/時間助詞)。" },
+        { "point": "어떤 길을", "explanation": "어떤 (什麼樣的) + 길 (路) + -을 (受格助詞)。" },
+        { "point": "골라 걸을까", "explanation": "고르다 (挑選) + 걸다 (走) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "익숙하지 않은 곳에 또 들어서면",
+      "translation": "如果再次踏入不熟悉的地方",
+      "analysis": [
+        { "point": "익숙하지 않은", "explanation": "익숙하다 (熟悉的) + -지 않다 (不) 的定語形。" },
+        { "point": "곳에", "explanation": "곳 (地方) + -에 (場所助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "들어서면", "explanation": "들어서다 (踏入) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "다시 생각이 얼지",
+      "translation": "想法又凍結了",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "생각이", "explanation": "생각 (想法) + -이 (主格助詞)。" },
+        { "point": "얼지", "explanation": "얼다 (凍結) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "줄곧 잠 못 들게 괴롭히던 단어들이",
+      "translation": "一直讓我無法入睡 折磨我的那些單詞",
+      "analysis": [
+        { "point": "줄곧", "explanation": "副詞，一直、始終。" },
+        { "point": "잠 못 들게", "explanation": "잠 (睡覺) + 못 (不) + 들다 (進入) + -게 (使得)。" },
+        { "point": "괴롭히던", "explanation": "괴롭히다 (折磨) 的過去回想着定語形。" },
+        { "point": "단어들이", "explanation": "단어 (單詞) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "또 막 생각이 나지 (ah)",
+      "translation": "又突然想起來了 (啊)",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "막", "explanation": "副詞，剛、突然。" },
+        { "point": "생각이 나지", "explanation": "생각 (想法) + -이 (主格助詞) + 나다 (出來) 的非格式體。" },
+        { "point": "ah", "explanation": "感嘆詞，啊。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "라랄라라, 하나하나",
+      "translation": "啦啦啦啦，一個一個",
+      "analysis": [
+        { "point": "라랄라라", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "하나하나", "explanation": "副詞，一個一個地。" }
+      ]
+    },
+    {
+      "korean": "바라보던 그 눈빛이",
+      "translation": "曾凝視的那個眼神",
+      "analysis": [
+        { "point": "바라보던", "explanation": "바라보다 (凝視) 的過去回想着定語形。" },
+        { "point": "그 눈빛이", "explanation": "그 (那) + 눈빛 (眼神) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "어떤 말을 건네는지 다 맞혀보기엔",
+      "translation": "想要全部猜對在傳達什麼話",
+      "analysis": [
+        { "point": "어떤 말을", "explanation": "어떤 (什麼樣的) + 말 (話) + -을 (受格助詞)。" },
+        { "point": "건네는지", "explanation": "건네다 (傳遞) 的現在疑問形。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "맞혀보기엔", "explanation": "맞히다 (猜對) + -아/어 보다 (嘗試) 的名詞形 + -엔 (對於...來說)。" }
+      ]
+    },
+    {
+      "korean": "신경 쓸 것들이 이미 쌓여있다고요, ah",
+      "translation": "說需要操心的事情已經堆積如山，啊",
+      "analysis": [
+        { "point": "신경 쓸 것들이", "explanation": "신경 쓰다 (操心、在意) 的未來定語形 + 것 (事情) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "이미", "explanation": "副詞，已經。" },
+        { "point": "쌓여있다고요", "explanation": "쌓여 있다 (被堆積著) + -다고요 (引用敬語)。" },
+        { "point": "ah", "explanation": "感嘆詞，啊。" }
+      ]
+    },
+    {
+      "korean": "이 도시를, 따라랏, 울려대는 소리를",
+      "translation": "這個城市，噠啦啦，迴響的聲音",
+      "analysis": [
+        { "point": "이 도시를", "explanation": "이 (這) + 도시 (城市) + -를 (受格助詞)。" },
+        { "point": "따라랏", "explanation": "擬聲詞，噠啦啦。" },
+        { "point": "울려대는 소리를", "explanation": "울려대다 (不斷響起) 的現在定語形 + 소리 (聲音) + -를 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "배경음악 삼아 노랠 불러볼까?",
+      "translation": "把它當作背景音樂 試著唱首歌嗎？",
+      "analysis": [
+        { "point": "배경음악", "explanation": "名詞，背景音樂。" },
+        { "point": "삼아", "explanation": "삼다 (當作) 的非格式體。" },
+        { "point": "노랠", "explanation": "노래 (歌曲) + -를 (受格助詞) 的縮略。" },
+        { "point": "불러볼까", "explanation": "부르다 (唱) + -아/어 보다 (嘗試) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    },
+    {
+      "korean": "이 도시를, 라라랏, 떠다니는 별 사이로",
+      "translation": "這個城市，啦啦啦，在漂浮的星星之間",
+      "analysis": [
+        { "point": "이 도시를", "explanation": "이 (這) + 도시 (城市) + -를 (受格助詞)。" },
+        { "point": "라라랏", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "떠다니는 별 사이로", "explanation": "떠다니다 (漂浮) 的現在定語形 + 별 (星星) + 사이 (之間) + -(으)로 (通過)。" }
+      ]
+    },
+    {
+      "korean": "꼿꼿해진 걸음 닿는 대로 걸어가",
+      "translation": "變得筆直的步伐 隨意觸及的地方走著",
+      "analysis": [
+        { "point": "꼿꼿해진", "explanation": "꼿꼿하다 (筆直的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "걸음", "explanation": "名詞，腳步。" },
+        { "point": "닿는 대로", "explanation": "닿다 (觸及) 的現在定語形 + 대로 (按照)。" },
+        { "point": "걸어가", "explanation": "걸어가다 (走去) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "이 거리엔, 따라랏, 소란스러운 소리가 (oh, yeah)",
+      "translation": "這條街上，噠啦啦，喧鬧的聲音",
+      "analysis": [
+        { "point": "이 거리엔", "explanation": "이 (這) + 거리 (街道) + -에 (場所) + -는 (強調) 的縮略。" },
+        { "point": "따라랏", "explanation": "擬聲詞，噠啦啦。" },
+        { "point": "소란스러운 소리가", "explanation": "소란스럽다 (喧鬧的) 的定語形 + 소리 (聲音) + -가 (主格助詞)。" },
+        { "point": "oh, yeah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "희미해져 가는데",
+      "translation": "漸漸變得模糊",
+      "analysis": [
+        { "point": "희미해져", "explanation": "희미하다 (模糊的) + -아/어 지다 (變得) 的非格式體。" },
+        { "point": "가는데", "explanation": "가다 (去) + -는데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "korean": "머리 위에, 라라랏, 깜빡이는 별 사이로",
+      "translation": "頭頂上，啦啦啦，在閃爍的星星之間",
+      "analysis": [
+        { "point": "머리 위에", "explanation": "머리 (頭) + 위 (上面) + -에 (場所助詞)。" },
+        { "point": "라라랏", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "깜빡이는 별 사이로", "explanation": "깜빡이다 (閃爍) 的現在定語形 + 별 (星星) + 사이 (之間) + -(으)로 (通過)。" }
+      ]
+    },
+    {
+      "korean": "Sweet한 melody 녹아들어 내게, da-da-da",
+      "translation": "甜美的旋律 融化進入我，噠-噠-噠",
+      "analysis": [
+        { "point": "Sweet한", "explanation": "英文 sweet + 한，意為甜美的。" },
+        { "point": "melody", "explanation": "英文，旋律。" },
+        { "point": "녹아들어", "explanation": "녹아들다 (融化進入) 的非格式體。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "da-da-da", "explanation": "擬聲詞，噠-噠-噠。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이 도시를, 따라랏, 울려대는 소리를 (oh, ooh)",
+      "translation": "這個城市，噠啦啦，迴響的聲音",
+      "analysis": [
+        { "point": "이 도시를", "explanation": "이 (這) + 도시 (城市) + -를 (受格助詞)。" },
+        { "point": "따라랏", "explanation": "擬聲詞，噠啦啦。" },
+        { "point": "울려대는 소리를", "explanation": "울려대다 (不斷響起) 的現在定語形 + 소리 (聲音) + -를 (受格助詞)。" },
+        { "point": "oh, ooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "배경음악 삼아 계속 걸어볼까?",
+      "translation": "把它當作背景音樂 繼續走下去嗎？",
+      "analysis": [
+        { "point": "배경음악", "explanation": "名詞，背景音樂。" },
+        { "point": "삼아", "explanation": "삼다 (當作) 的非格式體。" },
+        { "point": "계속", "explanation": "副詞，繼續。" },
+        { "point": "걸어볼까", "explanation": "걸다 (走) + -아/어 보다 (嘗試) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    },
+    {
+      "korean": "이 도시를, 라라랏, 떠다니는 별 사이로",
+      "translation": "這個城市，啦啦啦，在漂浮的星星之間",
+      "analysis": [
+        { "point": "이 도시를", "explanation": "이 (這) + 도시 (城市) + -를 (受格助詞)。" },
+        { "point": "라라랏", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "떠다니는 별 사이로", "explanation": "떠다니다 (漂浮) 的現在定語形 + 별 (星星) + 사이 (之間) + -(으)로 (通過)。" }
+      ]
+    },
+    {
+      "korean": "꼿꼿해진 걸음 다시 노랠 꺼내 부를까?",
+      "translation": "變得筆直的步伐 再次拿出歌來唱嗎？",
+      "analysis": [
+        { "point": "꼿꼿해진", "explanation": "꼿꼿하다 (筆直的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "걸음", "explanation": "名詞，腳步。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "노랠", "explanation": "노래 (歌曲) + -를 (受格助詞) 的縮略。" },
+        { "point": "꺼내 부를까", "explanation": "꺼내다 (拿出) + 부르다 (唱) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    },
+    {
+      "korean": "Ah-ah-ah, ah-ah-ah, 따라라, ah-ah-ah (ah, ah)",
+      "translation": "啊-啊-啊，啊-啊-啊，噠啦啦，啊-啊-啊",
+      "analysis": [
+        { "point": "Ah-ah-ah", "explanation": "英文，啊-啊-啊。" },
+        { "point": "따라라", "explanation": "擬聲詞，噠啦啦。" }
+      ]
+    },
+    {
+      "korean": "발음 가는 대로, in this city, city, city, ah (city, city, city, ooh)",
+      "translation": "隨著發音走，在這個城市，城市，城市，啊",
+      "analysis": [
+        { "point": "발음", "explanation": "名詞，發音。" },
+        { "point": "가는 대로", "explanation": "가다 (去) 的現在定語形 + 대로 (按照)。" },
+        { "point": "in this city, city, city, ah", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Ah-ah-ah, ah-ah-ah, 따라라, ah-ah-ah",
+      "translation": "啊-啊-啊，啊-啊-啊，噠啦啦，啊-啊-啊",
+      "analysis": [
+        { "point": "Ah-ah-ah", "explanation": "英文，啊-啊-啊。" },
+        { "point": "따라라", "explanation": "擬聲詞，噠啦啦。" }
+      ]
+    },
+    {
+      "korean": "촉촉해진 밤에 어떤 길을 골라 걸을까?",
+      "translation": "在變得濕潤的夜晚 要選哪條路走呢？",
+      "analysis": [
+        { "point": "촉촉해진", "explanation": "촉촉하다 (濕潤的) + -아/어 지다 (變得) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (場所/時間助詞)。" },
+        { "point": "어떤 길을", "explanation": "어떤 (什麼樣的) + 길 (路) + -을 (受格助詞)。" },
+        { "point": "골라 걸을까", "explanation": "고르다 (挑選) + 걸다 (走) + -(으)ㄹ까 (表示疑問或提議)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "귀", "chinese": "耳朵", "pos": "名詞" },
+    { "korean": "꽂히다", "chinese": "被插著", "pos": "動詞" },
+    { "korean": "이어폰", "chinese": "耳機", "pos": "名詞" },
+    { "korean": "자주", "chinese": "經常", "pos": "副詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "거리", "chinese": "街道", "pos": "名詞" },
+    { "korean": "뻔하다", "chinese": "顯然的、老套的", "pos": "形容詞" },
+    { "korean": "노래", "chinese": "歌曲", "pos": "名詞" },
+    { "korean": "흘러나오다", "chinese": "流淌出來", "pos": "動詞" },
+    { "korean": "마저", "chinese": "連...也", "pos": "副詞" },
+    { "korean": "정리하다", "chinese": "整理", "pos": "動詞" },
+    { "korean": "지겹다", "chinese": "厭煩的", "pos": "形容詞" },
+    { "korean": "그날", "chinese": "那天", "pos": "名詞" },
+    { "korean": "막", "chinese": "剛、突然", "pos": "副詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "바라다", "chinese": "期望", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "같다", "chinese": "相同", "pos": "形容詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "답답하다", "chinese": "鬱悶的", "pos": "形容詞" },
+    { "korean": "재미있다", "chinese": "有趣的", "pos": "形容詞" },
+    { "korean": "웃음", "chinese": "笑", "pos": "名詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "복잡하다", "chinese": "複雜的", "pos": "形容詞" },
+    { "korean": "도시", "chinese": "城市", "pos": "名詞" },
+    { "korean": "울려대다", "chinese": "不斷響起", "pos": "動詞" },
+    { "korean": "소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "배경음악", "chinese": "背景音樂", "pos": "名詞" },
+    { "korean": "삼다", "chinese": "當作", "pos": "動詞" },
+    { "korean": "부르다", "chinese": "唱", "pos": "動詞" },
+    { "korean": "떠다니다", "chinese": "漂浮", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "꼿꼿하다", "chinese": "筆直的", "pos": "形容詞" },
+    { "korean": "걸음", "chinese": "腳步", "pos": "名詞" },
+    { "korean": "꺼내다", "chinese": "拿出", "pos": "動詞" },
+    { "korean": "발음", "chinese": "發音", "pos": "名詞" },
+    { "korean": "대로", "chinese": "按照", "pos": "助詞" },
+    { "korean": "촉촉하다", "chinese": "濕潤的", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "고르다", "chinese": "挑選", "pos": "動詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "들어서다", "chinese": "踏入", "pos": "動詞" },
+    { "korean": "얼다", "chinese": "凍結", "pos": "動詞" },
+    { "korean": "줄곧", "chinese": "一直", "pos": "副詞" },
+    { "korean": "잠", "chinese": "睡覺", "pos": "名詞" },
+    { "korean": "들다", "chinese": "進入", "pos": "動詞" },
+    { "korean": "괴롭히다", "chinese": "折磨", "pos": "動詞" },
+    { "korean": "단어", "chinese": "單詞", "pos": "名詞" },
+    { "korean": "하나하나", "chinese": "一個一個地", "pos": "副詞" },
+    { "korean": "맞히다", "chinese": "猜對", "pos": "動詞" },
+    { "korean": "신경 쓰다", "chinese": "操心、在意", "pos": "片語" },
+    { "korean": "이미", "chinese": "已經", "pos": "副詞" },
+    { "korean": "쌓이다", "chinese": "被堆積", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "걸어가다", "chinese": "走去", "pos": "動詞" },
+    { "korean": "소란스럽다", "chinese": "喧鬧的", "pos": "形容詞" },
+    { "korean": "희미하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "머리", "chinese": "頭", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "깜빡이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "녹아들다", "chinese": "融化進入", "pos": "動詞" },
+    { "korean": "계속", "chinese": "繼續", "pos": "副詞" }
+  ]
+}

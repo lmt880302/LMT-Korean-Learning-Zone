@@ -1,0 +1,427 @@
+{
+  "id": "GFRIEND-Crossroads",
+  "title": "Crossroads (교차로)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "펼쳐지는 Singing star",
+      "translation": "展開的 Singing star",
+      "analysis": [
+        { "point": "펼쳐지는", "explanation": "펼쳐지다 (展開) 的冠詞形。" },
+        { "point": "Singing star", "explanation": "英文歌詞，唱歌的星星，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너에게 들려질까",
+      "translation": "能讓你聽見嗎",
+      "analysis": [
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/向)。" },
+        { "point": "들려질까", "explanation": "들리다 (被聽見) 的使動形 들려지다 + -(으)ㄹ까 (疑問，表示不確定)。" }
+      ]
+    },
+    {
+      "korean": "시간이 끊어진",
+      "translation": "時間斷裂的",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "끊어진", "explanation": "끊어지다 (斷裂) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "이 길에 서 있어",
+      "translation": "站在這條路上",
+      "analysis": [
+        { "point": "이 길에", "explanation": "이 (這) + 길 (路) + -에 (場所助詞)。" },
+        { "point": "서 있어", "explanation": "서 있다 (站著) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아직 믿어지지 않아",
+      "translation": "還無法相信",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "믿어지지 않아", "explanation": "믿어지다 (被相信) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나 안일했던 거야",
+      "translation": "是我太安逸了",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "안일했던", "explanation": "안일하다 (安逸的、鬆懈的) 的過去冠詞形。" },
+        { "point": "거야", "explanation": "것 (東西) + -이야 (是) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "똑같이 바라봤는데",
+      "translation": "同樣地注視著",
+      "analysis": [
+        { "point": "똑같이", "explanation": "副詞，同樣地。" },
+        { "point": "바라봤는데", "explanation": "바라보다 (注視) 的過去式 + -는데 (連接詞尾，表示背景)。" }
+      ]
+    },
+    {
+      "korean": "똑같이 헤맸는데 왜",
+      "translation": "同樣地徬徨 為什麼",
+      "analysis": [
+        { "point": "똑같이", "explanation": "副詞，同樣地。" },
+        { "point": "헤맸는데", "explanation": "헤매다 (徬徨) 的過去式 + -는데 (連接詞尾，表示背景)。" },
+        { "point": "왜", "explanation": "疑問副詞，為什麼。" }
+      ]
+    },
+    {
+      "korean": "내 맘이 다 무너져 버릴까",
+      "translation": "我的心會全都崩塌嗎",
+      "analysis": [
+        { "point": "내 맘이", "explanation": "내 (我的) + 마음 (心) 的縮略 + -이 (主格助詞)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "무너져 버릴까", "explanation": "무너지다 (崩塌) + -아/어 버리다 (完全地) + -(으)ㄹ까 (疑問，擔心)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저 바람마저",
+      "translation": "就連那風",
+      "analysis": [
+        { "point": "저 바람마저", "explanation": "저 (那) + 바람 (風) + -마저 (連...也)。" }
+      ]
+    },
+    {
+      "korean": "널 아직 기다리며 서 있어",
+      "translation": "也仍然等待著你而佇立",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "아직", "explanation": "副詞，還、仍然。" },
+        { "point": "기다리며", "explanation": "기다리다 (等待) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "서 있어", "explanation": "서 있다 (站著) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "흩날리는 별빛도",
+      "translation": "飄散的星光也",
+      "analysis": [
+        { "point": "흩날리는", "explanation": "흩날리다 (飄散) 的冠詞形。" },
+        { "point": "별빛도", "explanation": "별빛 (星光) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "서성이다",
+      "translation": "徘徊",
+      "analysis": [
+        { "point": "서성이다", "explanation": "動詞，徘徊、踱步。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "안돼 아직 모든 게 너로 가득해",
+      "translation": "不行 還是一切都充滿著你",
+      "analysis": [
+        { "point": "안돼", "explanation": "안 되다 (不行) 的非格式體。" },
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "모든 게", "explanation": "모든 것 (所有的東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "너로 가득해", "explanation": "너 (你) + -(으)로 (用/以) + 가득하다 (充滿) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아직 어디도 못 가겠어",
+      "translation": "哪裡也還無法去",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "어디도", "explanation": "어디 (哪裡) + -도 (也)。" },
+        { "point": "못 가겠어", "explanation": "못 가다 (無法去) + -겠어 (意志/推測)。" }
+      ]
+    },
+    {
+      "korean": "너 혹시 빠르게 지나쳐도",
+      "translation": "你也許即使快速經過",
+      "analysis": [
+        { "point": "너", "explanation": "你。" },
+        { "point": "혹시", "explanation": "副詞，也許、萬一。" },
+        { "point": "빠르게", "explanation": "빠르다 (快的) + -게 (副詞形語尾)。" },
+        { "point": "지나쳐도", "explanation": "지나치다 (經過、錯過) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "내가 널 찾을게",
+      "translation": "我會找到你",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾을게", "explanation": "찾다 (找) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "그때 다시 너에게로",
+      "translation": "那時 再次向你",
+      "analysis": [
+        { "point": "그때", "explanation": "那時。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "[신/All] 펼쳐지는 Singing star",
+      "translation": "展開的 Singing star",
+      "analysis": [
+        { "point": "펼쳐지는", "explanation": "펼쳐지다 (展開) 的冠詞形。" },
+        { "point": "Singing star", "explanation": "英文歌詞，唱歌的星星，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "[신/All] 너에게 들려질까",
+      "translation": "能讓你聽見嗎",
+      "analysis": [
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/向)。" },
+        { "point": "들려질까", "explanation": "들리다 (被聽見) 的使動形 들려지다 + -(으)ㄹ까 (疑問，表示不確定)。" }
+      ]
+    },
+    {
+      "korean": "[소/All] 부서지는 Shining star",
+      "translation": "破碎的 Shining star",
+      "analysis": [
+        { "point": "부서지는", "explanation": "부서지다 (破碎) 的冠詞形。" },
+        { "point": "Shining star", "explanation": "英文歌詞，閃耀的星星，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "[소/All] 너에게도 보일까",
+      "translation": "也能讓你看見嗎",
+      "analysis": [
+        { "point": "너에게도", "explanation": "너 (你) + -에게 (給/向) + -도 (也)。" },
+        { "point": "보일까", "explanation": "보다 (看) 的使動形 보이다 (讓看/被看見) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "어쩌면 이 노래가",
+      "translation": "也許這首歌",
+      "analysis": [
+        { "point": "어쩌면", "explanation": "副詞，也許、可能。" },
+        { "point": "이 노래가", "explanation": "이 (這) + 노래 (歌) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "널 다시 만나게 해줄 거라",
+      "translation": "會讓我再次遇見你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "만나게 해줄 거라", "explanation": "만나다 (遇見) + -게 하다 (讓) + -아/어 주다 (為我做) + -(으)ㄹ 거라고 (間接引語，將會)。" }
+      ]
+    },
+    {
+      "korean": "짐작해 아니 침착해",
+      "translation": "猜測 不 冷靜",
+      "analysis": [
+        { "point": "짐작해", "explanation": "짐작하다 (猜測) 的非格式體。" },
+        { "point": "아니", "explanation": "感嘆詞，不、不是。" },
+        { "point": "침착해", "explanation": "침착하다 (沉著、冷靜) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "난 아무것도 몰라",
+      "translation": "我什麼都不知道",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "아무것도", "explanation": "아무것 (任何東西) + -도 (也)。" },
+        { "point": "몰라", "explanation": "모르다 (不知道) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "그리워하다 여전히",
+      "translation": "思念著 依然",
+      "analysis": [
+        { "point": "그리워하다", "explanation": "動詞，思念。" },
+        { "point": "여전히", "explanation": "副詞，依然、仍然。" }
+      ]
+    },
+    {
+      "korean": "이곳에 멈춰있어 나",
+      "translation": "停留在這個地方 我",
+      "analysis": [
+        { "point": "이곳에", "explanation": "이곳 (這裡) + -에 (場所助詞)。" },
+        { "point": "멈춰있어", "explanation": "멈추다 (停止) + -아/어 있다 (保持狀態)。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "계속 맴돌기만 해",
+      "translation": "只是不停地打轉",
+      "analysis": [
+        { "point": "계속", "explanation": "副詞，繼續、不停地。" },
+        { "point": "맴돌기만 해", "explanation": "맴돌다 (打轉) 的名詞形 + -만 (只) + 하다 (做) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "서성이다",
+      "translation": "徘徊",
+      "analysis": [
+        { "point": "서성이다", "explanation": "動詞，徘徊。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "안돼 아직 모든 게 너로 가득해",
+      "translation": "不行 還是一切都充滿著你",
+      "analysis": [
+        { "point": "안돼", "explanation": "안 되다 (不行) 的非格式體。" },
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "모든 게", "explanation": "모든 것 (所有的東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "너로 가득해", "explanation": "너 (你) + -(으)로 (用/以) + 가득하다 (充滿) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아직 어디도 못 가겠어",
+      "translation": "哪裡也還無法去",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "어디도", "explanation": "어디 (哪裡) + -도 (也)。" },
+        { "point": "못 가겠어", "explanation": "못 가다 (無法去) + -겠어 (意志/推測)。" }
+      ]
+    },
+    {
+      "korean": "너 혹시 빠르게 지나쳐도",
+      "translation": "你也許即使快速經過",
+      "analysis": [
+        { "point": "너", "explanation": "你。" },
+        { "point": "혹시", "explanation": "副詞，也許、萬一。" },
+        { "point": "빠르게", "explanation": "빠르다 (快的) + -게 (副詞形語尾)。" },
+        { "point": "지나쳐도", "explanation": "지나치다 (經過、錯過) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "내가 널 찾을게",
+      "translation": "我會找到你",
+      "analysis": [
+        { "point": "내가", "explanation": "나 (我) + -가 (主格助詞)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾을게", "explanation": "찾다 (找) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "그때 다시 너에게로",
+      "translation": "那時 再次向你",
+      "analysis": [
+        { "point": "그때", "explanation": "那時。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 2",
+      "korean": "너는 어디쯤에 가있는 걸까",
+      "translation": "你在哪裡呢",
+      "analysis": [
+        { "point": "너는", "explanation": "너 (你) + -는 (主題助詞)。" },
+        { "point": "어디쯤에", "explanation": "어디 (哪裡) + -쯤 (大約) + -에 (場所助詞)。" },
+        { "point": "가있는 걸까", "explanation": "가다 (去) + -아/어 있다 (保持狀態) + -(으)ㄴ 걸까 (疑問，不確定的事實)。" }
+      ]
+    },
+    {
+      "korean": "Guide to the sky",
+      "translation": "Guide to the sky",
+      "analysis": [
+        { "point": "Guide to the sky", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "어떤 길을 가도 다 너로 변해가",
+      "translation": "無論走哪條路 都漸漸變成你",
+      "analysis": [
+        { "point": "어떤 길을", "explanation": "어떤 (某個/無論哪個) + 길 (路) + -을 (受格助詞)。" },
+        { "point": "가도", "explanation": "가다 (去) + -아/어도 (即使)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "너로 변해가", "explanation": "너 (你) + -(으)로 (變成) + 변하다 (變化) + -아/어 가다 (逐漸)。" }
+      ]
+    },
+    {
+      "korean": "언젠가는 알게 될 거야",
+      "translation": "總有一天會知道的",
+      "analysis": [
+        { "point": "언젠가는", "explanation": "언젠가 (總有一天) + -는 (強調)。" },
+        { "point": "알게 될 거야", "explanation": "알다 (知道) + -게 되다 (變得) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "별빛을 따라서 달려갈게",
+      "translation": "會沿著星光奔跑",
+      "analysis": [
+        { "point": "별빛을", "explanation": "별빛 (星光) + -을 (受格助詞)。" },
+        { "point": "따라서", "explanation": "따르다 (跟隨) + -아/어서 (沿著)。" },
+        { "point": "달려갈게", "explanation": "달려가다 (奔跑而去) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "널 기억 해낼게",
+      "translation": "我會記起你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "기억 해낼게", "explanation": "기억하다 (記憶) + -아/어 내다 (做到) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "그때 다시 너에게로",
+      "translation": "那時 再次向你",
+      "analysis": [
+        { "point": "그때", "explanation": "那時。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "들리다", "chinese": "被聽見", "pos": "動詞" },
+    { "korean": "끊어지다", "chinese": "斷裂", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "서다", "chinese": "站", "pos": "動詞" },
+    { "korean": "믿어지다", "chinese": "被相信", "pos": "動詞" },
+    { "korean": "안일하다", "chinese": "安逸的、鬆懈的", "pos": "形容詞" },
+    { "korean": "똑같이", "chinese": "同樣地", "pos": "副詞" },
+    { "korean": "바라보다", "chinese": "注視", "pos": "動詞" },
+    { "korean": "헤매다", "chinese": "徬徨", "pos": "動詞" },
+    { "korean": "무너지다", "chinese": "崩塌", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "흩날리다", "chinese": "飄散", "pos": "動詞" },
+    { "korean": "별빛", "chinese": "星光", "pos": "名詞" },
+    { "korean": "서성이다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "안 되다", "chinese": "不行", "pos": "形容詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "어디", "chinese": "哪裡", "pos": "代名詞" },
+    { "korean": "못 가다", "chinese": "無法去", "pos": "動詞" },
+    { "korean": "혹시", "chinese": "也許", "pos": "副詞" },
+    { "korean": "빠르다", "chinese": "快的", "pos": "形容詞" },
+    { "korean": "지나치다", "chinese": "經過、錯過", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "부서지다", "chinese": "破碎", "pos": "動詞" },
+    { "korean": "보이다", "chinese": "讓看、被看見", "pos": "動詞" },
+    { "korean": "어쩌면", "chinese": "也許", "pos": "副詞" },
+    { "korean": "노래", "chinese": "歌", "pos": "名詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "짐작하다", "chinese": "猜測", "pos": "動詞" },
+    { "korean": "침착하다", "chinese": "沉著、冷靜", "pos": "形容詞" },
+    { "korean": "아무것", "chinese": "任何東西", "pos": "代名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "그리워하다", "chinese": "思念", "pos": "動詞" },
+    { "korean": "여전히", "chinese": "依然", "pos": "副詞" },
+    { "korean": "이곳", "chinese": "這裡", "pos": "代名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "계속", "chinese": "繼續", "pos": "副詞" },
+    { "korean": "맴돌다", "chinese": "打轉", "pos": "動詞" },
+    { "korean": "어디쯤", "chinese": "大約哪裡", "pos": "代名詞" },
+    { "korean": "어떤", "chinese": "某個、無論哪個", "pos": "冠詞" },
+    { "korean": "변하다", "chinese": "變化", "pos": "動詞" },
+    { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "달려가다", "chinese": "奔跑而去", "pos": "動詞" },
+    { "korean": "기억하다", "chinese": "記憶", "pos": "動詞" },
+    { "korean": "해내다", "chinese": "做到", "pos": "動詞" }
+  ]
+}

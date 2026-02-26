@@ -1,0 +1,385 @@
+{
+  "id": "GFRIEND-Rough",
+  "title": "Rough (시간을 달려서)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "다가서지 못하고 헤매이고 있어",
+      "translation": "無法靠近 正在徬徨",
+      "analysis": [
+        { "point": "다가서지 못하고", "explanation": "다가서다 (靠近) + -지 못하다 (無法) + -고 (連接詞尾，而且)。" },
+        { "point": "헤매이고 있어", "explanation": "헤매이다 (徬徨、徘徊) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "좋아하지만 다른 곳을 보고 있어",
+      "translation": "雖然喜歡 卻看著別處",
+      "analysis": [
+        { "point": "좋아하지만", "explanation": "좋아하다 (喜歡) + -지만 (雖然...但是)。" },
+        { "point": "다른 곳을", "explanation": "다른 (其他的) + 곳 (地方) + -을 (受格助詞)。" },
+        { "point": "보고 있어", "explanation": "보다 (看) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "가까워 지려고 하면 할수록",
+      "translation": "越是想靠近",
+      "analysis": [
+        { "point": "가까워 지려고 하면", "explanation": "가깝다 (近的) + -아/어지다 (變得) + -려고 하다 (想要) + -(으)면 (如果)。" },
+        { "point": "할수록", "explanation": "하다 (做) + -(으)ㄹ수록 (越...越...)，與前面的「하면」呼應，形成「越是想...就越...」。" }
+      ]
+    },
+    {
+      "korean": "멀어져 가는 우리 둘의 마음처럼",
+      "translation": "像我們兩顆心越來越遠一樣",
+      "analysis": [
+        { "point": "멀어져 가는", "explanation": "멀어지다 (變遠) + -아/어 가다 (逐漸) 的冠詞形。" },
+        { "point": "우리 둘의", "explanation": "우리 (我們) + 둘 (兩) + -의 (的)。" },
+        { "point": "마음처럼", "explanation": "마음 (心) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "만나지 못해 맴돌고 있어",
+      "translation": "無法見面 正在原地打轉",
+      "analysis": [
+        { "point": "만나지 못해", "explanation": "만나다 (見面) + -지 못하다 (無法) 的縮略。" },
+        { "point": "맴돌고 있어", "explanation": "맴돌다 (原地打轉) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "우린 마치 평행선처럼",
+      "translation": "我們就像平行線一樣",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "마치", "explanation": "副詞，好像、彷彿。" },
+        { "point": "평행선처럼", "explanation": "평행선 (平行線) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "말도 안돼 우린 반드시 만날 거야",
+      "translation": "不像話 我們一定會見面的",
+      "analysis": [
+        { "point": "말도 안돼", "explanation": "말 (話) + -도 (也) + 안 되다 (不行)，表示「不像話、豈有此理」。固定表達。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "반드시", "explanation": "副詞，一定、必定。" },
+        { "point": "만날 거야", "explanation": "만나다 (見面) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "기다릴게 언제까지나",
+      "translation": "我會等你 直到永遠",
+      "analysis": [
+        { "point": "기다릴게", "explanation": "기다리다 (等待) + -(으)ㄹ게 (表示承諾或意志)。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "미처 말하지 못했어 다만 너를 좋아했어",
+      "translation": "沒能來得及說出口 只是喜歡過你",
+      "analysis": [
+        { "point": "미처", "explanation": "副詞，來不及、未能。" },
+        { "point": "말하지 못했어", "explanation": "말하다 (說話) + -지 못하다 (無法) 的過去式。" },
+        { "point": "다만", "explanation": "副詞，只是、僅僅。" },
+        { "point": "너를 좋아했어", "explanation": "너를 (你) + 좋아하다 (喜歡) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "어린 날의 꿈처럼 마치 기적처럼",
+      "translation": "像年幼時的夢一樣 彷彿奇蹟一般",
+      "analysis": [
+        { "point": "어린 날의", "explanation": "어리다 (年幼的) 冠詞形 + 날 (日子) + -의 (的)。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "마치", "explanation": "副詞，好像、彷彿。" },
+        { "point": "기적처럼", "explanation": "기적 (奇蹟) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "시간을 달려서 어른이 될 수만 있다면",
+      "translation": "如果可以奔跑過時間 成為大人的話",
+      "analysis": [
+        { "point": "시간을 달려서", "explanation": "시간 (時間) + -을 (受格助詞) + 달리다 (奔跑) + -아/어서 (然後)。" },
+        { "point": "어른이 될 수만 있다면", "explanation": "어른 (大人) + -이 되다 (成為) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果) + -서 (強調)，表示「如果可以...的話」。固定表達。" }
+      ]
+    },
+    {
+      "korean": "거친 세상 속에서 손을 잡아줄게",
+      "translation": "在粗糙的世界裡 會抓住你的手",
+      "analysis": [
+        { "point": "거친", "explanation": "거칠다 (粗糙的、艱險的) 的冠詞形。" },
+        { "point": "세상 속에서", "explanation": "세상 (世界) + 속 (裡面) + -에서 (在)。" },
+        { "point": "손을 잡아줄게", "explanation": "손 (手) + -을 (受格助詞) + 잡다 (抓) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "다가서려 해봐도 엇갈리고 있어",
+      "translation": "試圖靠近 卻總是錯過",
+      "analysis": [
+        { "point": "다가서려 해봐도", "explanation": "다가서다 (靠近) + -려 하다 (想要) + -아/어 보다 (嘗試) + -아/어도 (即使...也)。" },
+        { "point": "엇갈리고 있어", "explanation": "엇갈리다 (交錯、錯過) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "좋아한단 말도 아직 못하고 있어",
+      "translation": "連「喜歡你」這句話也還說不出口",
+      "analysis": [
+        { "point": "좋아한단 말도", "explanation": "좋아하다 (喜歡) + -ㄴ단 말 (說...的話) + -도 (也)。" },
+        { "point": "아직", "explanation": "副詞，還、仍然。" },
+        { "point": "못하고 있어", "explanation": "못 하다 (不能做) + -고 있다 (正在進行)。" }
+      ]
+    },
+    {
+      "korean": "머뭇거리는 널 보고 있으면",
+      "translation": "看著猶豫不決的你",
+      "analysis": [
+        { "point": "머뭇거리는", "explanation": "머뭇거리다 (猶豫) 的冠詞形。" },
+        { "point": "널 보고 있으면", "explanation": "너를 (你) 的縮略 + 보다 (看) + -고 있다 (正在) + -(으)면 (如果/每當)。" }
+      ]
+    },
+    {
+      "korean": "우린 아직도 많이 어리긴 한가 봐",
+      "translation": "看來我們還很年幼",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "아직도", "explanation": "아직 (還) + -도 (也/強調)。" },
+        { "point": "많이", "explanation": "副詞，很、非常。" },
+        { "point": "어리긴 한가 봐", "explanation": "어리다 (年幼的) + -긴 하다 (雖然是這樣) + -ㄴ가 보다 (看來好像)。" }
+      ]
+    },
+    {
+      "korean": "좁혀지지 않아 한 끗 차이",
+      "translation": "無法縮小 一步之差",
+      "analysis": [
+        { "point": "좁혀지지 않아", "explanation": "좁히다 (縮小) 的被動形 좁혀지다 + -지 않다 (否定)。" },
+        { "point": "한 끗 차이", "explanation": "한 (一) + 끗 (毫釐、一點點) + 차이 (差異)。" }
+      ]
+    },
+    {
+      "korean": "우린 마치 평행선처럼",
+      "translation": "我們就像平行線一樣",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "마치", "explanation": "副詞，好像、彷彿。" },
+        { "point": "평행선처럼", "explanation": "평행선 (平行線) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "언젠가는 못다한 말을 전할 거야",
+      "translation": "總有一天會傳達沒說完的話",
+      "analysis": [
+        { "point": "언젠가는", "explanation": "언젠가 (總有一天) + -는 (強調)。" },
+        { "point": "못다한 말을", "explanation": "못 다 하다 (沒能全部做完) 的冠詞形 + 말 (話) + -을 (受格助詞)。" },
+        { "point": "전할 거야", "explanation": "전하다 (傳達) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "다가갈게 언제까지나",
+      "translation": "我會靠近你 直到永遠",
+      "analysis": [
+        { "point": "다가갈게", "explanation": "다가가다 (靠近) + -(으)ㄹ게 (表示承諾或意志)。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "미처 말하지 못했어 다만 너를 좋아했어",
+      "translation": "沒能來得及說出口 只是喜歡過你",
+      "analysis": [
+        { "point": "미처", "explanation": "副詞，來不及、未能。" },
+        { "point": "말하지 못했어", "explanation": "말하다 (說話) + -지 못하다 (無法) 的過去式。" },
+        { "point": "다만", "explanation": "副詞，只是、僅僅。" },
+        { "point": "너를 좋아했어", "explanation": "너를 (你) + 좋아하다 (喜歡) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "어린 날의 꿈처럼 마치 기적처럼",
+      "translation": "像年幼時的夢一樣 彷彿奇蹟一般",
+      "analysis": [
+        { "point": "어린 날의", "explanation": "어리다 (年幼的) 冠詞形 + 날 (日子) + -의 (的)。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "마치", "explanation": "副詞，好像、彷彿。" },
+        { "point": "기적처럼", "explanation": "기적 (奇蹟) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "시간을 달려서 어른이 될 수만 있다면",
+      "translation": "如果可以奔跑過時間 成為大人的話",
+      "analysis": [
+        { "point": "시간을 달려서", "explanation": "시간 (時間) + -을 (受格助詞) + 달리다 (奔跑) + -아/어서 (然後)。" },
+        { "point": "어른이 될 수만 있다면", "explanation": "어른 (大人) + -이 되다 (成為) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果) + -서 (強調)，表示「如果可以...的話」。固定表達。" }
+      ]
+    },
+    {
+      "korean": "거친 세상 속에서 손을 잡아줄게",
+      "translation": "在粗糙的世界裡 會抓住你的手",
+      "analysis": [
+        { "point": "거친", "explanation": "거칠다 (粗糙的、艱險的) 的冠詞形。" },
+        { "point": "세상 속에서", "explanation": "세상 (世界) + 속 (裡面) + -에서 (在)。" },
+        { "point": "손을 잡아줄게", "explanation": "손 (手) + -을 (受格助詞) + 잡다 (抓) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "시간 속에 갇혀 길을 헤매여도",
+      "translation": "即使被困在時間裡 徬徨在路上",
+      "analysis": [
+        { "point": "시간 속에", "explanation": "시간 (時間) + 속 (裡面) + -에 (在)。" },
+        { "point": "갇혀", "explanation": "갇히다 (被關、被困) 的縮略。" },
+        { "point": "길을 헤매여도", "explanation": "길 (路) + -을 (受格助詞) + 헤매이다 (徬徨) + -아/어도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "그렇지만 우린 결국 만날 거야",
+      "translation": "但是我們最終會見面的",
+      "analysis": [
+        { "point": "그렇지만", "explanation": "連接詞，但是、然而。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "결국", "explanation": "副詞，最終、結果。" },
+        { "point": "만날 거야", "explanation": "만나다 (見面) + -(으)ㄹ 거야 (推測/意志，將會)。" }
+      ]
+    },
+    {
+      "korean": "진심인 것만 알아줘 정말",
+      "translation": "請只明白我是真心的 真的",
+      "analysis": [
+        { "point": "진심인 것만", "explanation": "진심 (真心) + -이다 (是) + 것 (東西) + -만 (只)。" },
+        { "point": "알아줘", "explanation": "알다 (知道) + -아/어 주다 (為我做) 的縮略。" },
+        { "point": "정말", "explanation": "副詞，真的。" }
+      ]
+    },
+    {
+      "korean": "서툴기만 한대도",
+      "translation": "即使只有生疏",
+      "analysis": [
+        { "point": "서툴기만 한대도", "explanation": "서투르다 (生疏的) 的名詞形 + -만 (只) + 하다 (做) + -대도 (即使說)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "미처 말하지 못했어 다만 너를 좋아했어",
+      "translation": "沒能來得及說出口 只是喜歡過你",
+      "analysis": [
+        { "point": "미처", "explanation": "副詞，來不及、未能。" },
+        { "point": "말하지 못했어", "explanation": "말하다 (說話) + -지 못하다 (無法) 的過去式。" },
+        { "point": "다만", "explanation": "副詞，只是、僅僅。" },
+        { "point": "너를 좋아했어", "explanation": "너를 (你) + 좋아하다 (喜歡) 的過去式。" }
+      ]
+    },
+    {
+      "korean": "어린 날의 꿈처럼 마치 기적처럼",
+      "translation": "像年幼時的夢一樣 彷彿奇蹟一般",
+      "analysis": [
+        { "point": "어린 날의", "explanation": "어리다 (年幼的) 冠詞形 + 날 (日子) + -의 (的)。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "마치", "explanation": "副詞，好像、彷彿。" },
+        { "point": "기적처럼", "explanation": "기적 (奇蹟) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "시간을 달려서 어른이 될 수만 있다면",
+      "translation": "如果可以奔跑過時間 成為大人的話",
+      "analysis": [
+        { "point": "시간을 달려서", "explanation": "시간 (時間) + -을 (受格助詞) + 달리다 (奔跑) + -아/어서 (然後)。" },
+        { "point": "어른이 될 수만 있다면", "explanation": "어른 (大人) + -이 되다 (成為) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果) + -서 (強調)，表示「如果可以...的話」。固定表達。" }
+      ]
+    },
+    {
+      "korean": "거친 세상 속에서 너를 안아줄게",
+      "translation": "在粗糙的世界裡 會擁抱你",
+      "analysis": [
+        { "point": "거친", "explanation": "거칠다 (粗糙的、艱險的) 的冠詞形。" },
+        { "point": "세상 속에서", "explanation": "세상 (世界) + 속 (裡面) + -에서 (在)。" },
+        { "point": "너를 안아줄게", "explanation": "너를 (你) + 안다 (抱) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "이거 하나만 약속해 변치 않기를 바랄게",
+      "translation": "只約定這一個 希望你永不改變",
+      "analysis": [
+        { "point": "이거 하나만", "explanation": "이것 (這個) 的縮略 + 하나 (一個) + -만 (只)。" },
+        { "point": "약속해", "explanation": "약속하다 (約定) 的非格式體。" },
+        { "point": "변치 않기를 바랄게", "explanation": "변하다 (變化) + -지 않다 (否定) + -기를 바라다 (希望) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    },
+    {
+      "korean": "그때도 지금처럼 날 향해 웃어줘",
+      "translation": "希望那時也像現在一樣 對著我笑",
+      "analysis": [
+        { "point": "그때도", "explanation": "그때 (那時) + -도 (也)。" },
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "날 향해", "explanation": "나를 (我) 的縮略 + 향하다 (面向) 的縮略。" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) + -아/어 주다 (為我做) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "시간이 흘러서 어른이 될 수만 있다면",
+      "translation": "如果時間流逝 可以成為大人的話",
+      "analysis": [
+        { "point": "시간이 흘러서", "explanation": "시간 (時間) + -이 (主格助詞) + 흐르다 (流逝) + -아/어서 (然後)。" },
+        { "point": "어른이 될 수만 있다면", "explanation": "어른 (大人) + -이 되다 (成為) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果) + -서 (強調)，表示「如果可以...的話」。固定表達。" }
+      ]
+    },
+    {
+      "korean": "엇갈림 그 속에서 손을 잡아줄게",
+      "translation": "在交錯之中 會抓住你的手",
+      "analysis": [
+        { "point": "엇갈림", "explanation": "엇갈리다 (交錯) 的名詞形。" },
+        { "point": "그 속에서", "explanation": "그 (那) + 속 (裡面) + -에서 (在)。" },
+        { "point": "손을 잡아줄게", "explanation": "손 (手) + -을 (受格助詞) + 잡다 (抓) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾或意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "다가서다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "헤매이다", "chinese": "徬徨、徘徊", "pos": "動詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "가깝다", "chinese": "近的", "pos": "形容詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "맴돌다", "chinese": "原地打轉", "pos": "動詞" },
+    { "korean": "평행선", "chinese": "平行線", "pos": "名詞" },
+    { "korean": "반드시", "chinese": "一定", "pos": "副詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "미처", "chinese": "來不及", "pos": "副詞" },
+    { "korean": "말하다", "chinese": "說話", "pos": "動詞" },
+    { "korean": "다만", "chinese": "只是", "pos": "副詞" },
+    { "korean": "어리다", "chinese": "年幼的", "pos": "形容詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "마치", "chinese": "好像", "pos": "副詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "달리다", "chinese": "奔跑", "pos": "動詞" },
+    { "korean": "어른", "chinese": "大人", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "거칠다", "chinese": "粗糙的、艱險的", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "잡다", "chinese": "抓", "pos": "動詞" },
+    { "korean": "엇갈리다", "chinese": "交錯、錯過", "pos": "動詞" },
+    { "korean": "머뭇거리다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "많이", "chinese": "很多", "pos": "副詞" },
+    { "korean": "좁혀지다", "chinese": "被縮小", "pos": "動詞" },
+    { "korean": "끗", "chinese": "毫釐", "pos": "名詞" },
+    { "korean": "차이", "chinese": "差異", "pos": "名詞" },
+    { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "전하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "갇히다", "chinese": "被關、被困", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "결국", "chinese": "最終", "pos": "副詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "서투르다", "chinese": "生疏的", "pos": "形容詞" },
+    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "약속하다", "chinese": "約定", "pos": "動詞" },
+    { "korean": "변하다", "chinese": "變化", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" },
+    { "korean": "그때", "chinese": "那時", "pos": "名詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "흐르다", "chinese": "流逝", "pos": "動詞" }
+  ]
+}

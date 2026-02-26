@@ -1,0 +1,480 @@
+{
+  "id": "GFRIEND-Me Gustas Tu",
+  "title": "Me Gustas Tu (오늘부터 우리는)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Intro",
+      "korean": "널 향한 설레임을 오늘부터 우리는",
+      "translation": "從今天開始 我們 對你的悸動",
+      "analysis": [
+        { "point": "널 향한", "explanation": "너를 (你) 的縮略 + 향하다 (面向) 的冠詞形。" },
+        { "point": "설레임을", "explanation": "설레임 (悸動) + -을 (受格助詞)。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "꿈꾸며 기도하는 오늘부터 우리는",
+      "translation": "從今天開始 我們 做夢並祈禱",
+      "analysis": [
+        { "point": "꿈꾸며", "explanation": "꿈꾸다 (做夢) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "기도하는", "explanation": "기도하다 (祈禱) 的冠詞形。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "저 바람에 노을 빛 내 맘을 실어 보낼게",
+      "translation": "會把我的心裝載在那風和晚霞光中寄給你",
+      "analysis": [
+        { "point": "저 바람에", "explanation": "저 (那) + 바람 (風) + -에 (場所/工具助詞)。" },
+        { "point": "노을 빛", "explanation": "노을 (晚霞) + 빛 (光)。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "실어 보낼게", "explanation": "싣다 (裝載) + -아/어 보내다 (寄送) + -(으)ㄹ게 (承諾/意志)。" }
+      ]
+    },
+    {
+      "korean": "그리운 마음이 모여서 내리는",
+      "translation": "思念的心情聚集後降下的",
+      "analysis": [
+        { "point": "그리운", "explanation": "그립다 (思念的) 的冠詞形。" },
+        { "point": "마음이", "explanation": "마음 (心情) + -이 (主格助詞)。" },
+        { "point": "모여서", "explanation": "모이다 (聚集) + -아/어서 (表示原因或順序)。" },
+        { "point": "내리는", "explanation": "내리다 (降下) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Me gustas tu gustas tu",
+      "translation": "我喜歡你 喜歡你",
+      "analysis": [
+        { "point": "Me gustas tu gustas tu", "explanation": "西班牙文歌詞，意為「我喜歡你」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "수투두루 좋아해요",
+      "translation": "喜歡你",
+      "analysis": [
+        { "point": "수투두루", "explanation": "擬聲詞，表現西班牙文發音的趣味性歌詞。" },
+        { "point": "좋아해요", "explanation": "좋아하다 (喜歡) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "Gustas tu 수투루 수투~루",
+      "translation": "喜歡你",
+      "analysis": [
+        { "point": "Gustas tu", "explanation": "西班牙文，意為「我喜歡你」。" },
+        { "point": "수투루 수투~루", "explanation": "擬聲詞，表現西班牙文發音的趣味性歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "한 발짝 뒤에 섰던 우리는",
+      "translation": "曾站在一步之遙的我們",
+      "analysis": [
+        { "point": "한 발짝", "explanation": "한 (一) + 발짝 (步)。" },
+        { "point": "뒤에", "explanation": "뒤 (後面) + -에 (場所助詞)。" },
+        { "point": "섰던", "explanation": "서다 (站立) 的過去冠詞形。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "언제쯤 센치 해질까요",
+      "translation": "何時才能變得感性呢",
+      "analysis": [
+        { "point": "언제쯤", "explanation": "언제 (何時) + -쯤 (大約)。" },
+        { "point": "센치 해질까요", "explanation": "센치하다 (感性的，來自 sentimental) + -아/어지다 (變得) + -(으)ㄹ까요 (疑問句尾，表示推測或詢問)。" }
+      ]
+    },
+    {
+      "korean": "서로 부끄러워서 아무 말도 못하는",
+      "translation": "因為彼此害羞 什麼話也說不出口的",
+      "analysis": [
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "부끄러워서", "explanation": "부끄럽다 (害羞的) + -아/어서 (表示原因)。" },
+        { "point": "아무 말도", "explanation": "아무 (任何) + 말 (話) + -도 (也)。" },
+        { "point": "못하는", "explanation": "못 하다 (不能做) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "너에게로 다가가고 싶은데",
+      "translation": "想向你靠近",
+      "analysis": [
+        { "point": "너에게로", "explanation": "너 (你) + -에게 (給/向) + -로 (方向助詞)。" },
+        { "point": "다가가고 싶은데", "explanation": "다가가다 (靠近) + -고 싶다 (想) + -는데 (連接詞尾，表示背景或轉折)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "바람에 나풀거리는 꽃잎처럼",
+      "translation": "像在風中飄揚的花瓣一樣",
+      "analysis": [
+        { "point": "바람에", "explanation": "바람 (風) + -에 (場所/原因助詞)。" },
+        { "point": "나풀거리는", "explanation": "나풀거리다 (輕輕飄揚) 的冠詞形。" },
+        { "point": "꽃잎처럼", "explanation": "꽃잎 (花瓣) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "미래는 알 수가 없잖아",
+      "translation": "未來是無法知道的啊",
+      "analysis": [
+        { "point": "미래는", "explanation": "미래 (未來) + -는 (主題助詞)。" },
+        { "point": "알 수가 없잖아", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) + -가 (主格助詞) + -잖아 (不是嘛/反問語氣)。" }
+      ]
+    },
+    {
+      "korean": "이제는 용기 내서 고백할게요",
+      "translation": "現在會鼓起勇氣告白",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (強調)。" },
+        { "point": "용기 내서", "explanation": "용기 (勇氣) + 내다 (拿出) + -아/어서 (然後)。" },
+        { "point": "고백할게요", "explanation": "고백하다 (告白) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "korean": "하나보단 둘이서 서로를 느껴봐요",
+      "translation": "比起獨自一人 兩人一起感受彼此吧",
+      "analysis": [
+        { "point": "하나보단", "explanation": "하나 (一) + -보다 (比) + -는 的縮略。" },
+        { "point": "둘이서", "explanation": "둘 (二) + -이서 (一起做某事的助詞)。" },
+        { "point": "서로를", "explanation": "서로 (互相) + -를 (受格助詞)。" },
+        { "point": "느껴봐요", "explanation": "느끼다 (感受) + -아/어 보다 (嘗試) 的敬語。" }
+      ]
+    },
+    {
+      "korean": "내 마음 모아서 너에게 전하고 싶어",
+      "translation": "想收集我的心意傳達給你",
+      "analysis": [
+        { "point": "내 마음", "explanation": "내 (我的) + 마음 (心意)。" },
+        { "point": "모아서", "explanation": "모으다 (收集) + -아/어서 (然後)。" },
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給)。" },
+        { "point": "전하고 싶어", "explanation": "전하다 (傳達) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "설레임을 오늘부터 우리는",
+      "translation": "從今天開始 我們 悸動",
+      "analysis": [
+        { "point": "설레임을", "explanation": "설레임 (悸動) + -을 (受格助詞)。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "꿈꾸며 기도하는 오늘부터 우리는",
+      "translation": "從今天開始 我們 做夢並祈禱",
+      "analysis": [
+        { "point": "꿈꾸며", "explanation": "꿈꾸다 (做夢) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "기도하는", "explanation": "기도하다 (祈禱) 的冠詞形。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "저 바람에 노을 빛 내 맘을 실어 보낼게",
+      "translation": "會把我的心裝載在那風和晚霞光中寄給你",
+      "analysis": [
+        { "point": "저 바람에", "explanation": "저 (那) + 바람 (風) + -에 (場所/工具助詞)。" },
+        { "point": "노을 빛", "explanation": "노을 (晚霞) + 빛 (光)。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "실어 보낼게", "explanation": "싣다 (裝載) + -아/어 보내다 (寄送) + -(으)ㄹ게 (承諾/意志)。" }
+      ]
+    },
+    {
+      "korean": "그리운 마음이 모여서 내리는",
+      "translation": "思念的心情聚集後降下的",
+      "analysis": [
+        { "point": "그리운", "explanation": "그립다 (思念的) 的冠詞形。" },
+        { "point": "마음이", "explanation": "마음 (心情) + -이 (主格助詞)。" },
+        { "point": "모여서", "explanation": "모이다 (聚集) + -아/어서 (表示原因或順序)。" },
+        { "point": "내리는", "explanation": "내리다 (降下) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Me gustas tu gustas tu",
+      "translation": "我喜歡你 喜歡你",
+      "analysis": [
+        { "point": "Me gustas tu gustas tu", "explanation": "西班牙文歌詞，意為「我喜歡你」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "수투두루 좋아해요",
+      "translation": "喜歡你",
+      "analysis": [
+        { "point": "수투두루", "explanation": "擬聲詞，表現西班牙文發音的趣味性歌詞。" },
+        { "point": "좋아해요", "explanation": "좋아하다 (喜歡) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "Gustas tu 수투루 수투~루",
+      "translation": "喜歡你",
+      "analysis": [
+        { "point": "Gustas tu", "explanation": "西班牙文，意為「我喜歡你」。" },
+        { "point": "수투루 수투~루", "explanation": "擬聲詞，表現西班牙文發音的趣味性歌詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "한 걸음 앞에 서서 두 손을",
+      "translation": "站在一步之前 兩隻手",
+      "analysis": [
+        { "point": "한 걸음", "explanation": "한 (一) + 걸음 (步)。" },
+        { "point": "앞에 서서", "explanation": "앞 (前面) + -에 (場所助詞) + 서다 (站) + -아/어서 (然後)。" },
+        { "point": "두 손을", "explanation": "두 (二) + 손 (手) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "놓지 말기로 약속해요",
+      "translation": "約定好不放開",
+      "analysis": [
+        { "point": "놓지 말기로", "explanation": "놓다 (放開) + -지 말다 (不要) 的名詞形 + -로 (以/作為)。" },
+        { "point": "약속해요", "explanation": "약속하다 (約定) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "소중해질 기억을 꼭 꼭 담아둘게요",
+      "translation": "會好好珍藏將會變得珍貴的回憶",
+      "analysis": [
+        { "point": "소중해질", "explanation": "소중하다 (珍貴的) + -아/어지다 (變得) 的未來冠詞形。" },
+        { "point": "기억을", "explanation": "기억 (記憶) + -을 (受格助詞)。" },
+        { "point": "꼭 꼭", "explanation": "副詞重複，強調「一定、好好地」。" },
+        { "point": "담아둘게요", "explanation": "담다 (裝、收藏) + -아/어 두다 (預先做好/維持狀態) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "korean": "지금보다 더 아껴주세요",
+      "translation": "請比現在更珍惜我",
+      "analysis": [
+        { "point": "지금보다", "explanation": "지금 (現在) + -보다 (比)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "아껴주세요", "explanation": "아끼다 (珍惜) + -아/어 주다 (為我做) 的敬語請求形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "달빛에 아른거리는 구름처럼",
+      "translation": "像在月光中搖曳的雲朵一樣",
+      "analysis": [
+        { "point": "달빛에", "explanation": "달빛 (月光) + -에 (場所/原因助詞)。" },
+        { "point": "아른거리는", "explanation": "아른거리다 (搖曳、隱約浮現) 的冠詞形。" },
+        { "point": "구름처럼", "explanation": "구름 (雲) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "아쉬운 시간만 가는데",
+      "translation": "只有遺憾的時間流逝",
+      "analysis": [
+        { "point": "아쉬운", "explanation": "아쉽다 (遺憾的、可惜的) 的冠詞形。" },
+        { "point": "시간만", "explanation": "시간 (時間) + -만 (只)。" },
+        { "point": "가는데", "explanation": "가다 (去/流逝) + -는데 (連接詞尾，表示背景)。" }
+      ]
+    },
+    {
+      "korean": "이제는 용기 내서 고백할게요",
+      "translation": "現在會鼓起勇氣告白",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (強調)。" },
+        { "point": "용기 내서", "explanation": "용기 (勇氣) + 내다 (拿出) + -아/어서 (然後)。" },
+        { "point": "고백할게요", "explanation": "고백하다 (告白) + -(으)ㄹ게요 (承諾/意志敬語)。" }
+      ]
+    },
+    {
+      "korean": "둘 보단 하나 되어 서로를 느껴봐요",
+      "translation": "比起兩個 成為一體感受彼此吧",
+      "analysis": [
+        { "point": "둘 보단", "explanation": "둘 (二) + -보다 (比) + -는 的縮略。" },
+        { "point": "하나 되어", "explanation": "하나 (一) + 되다 (成為) + -아/어 (連接)。" },
+        { "point": "서로를", "explanation": "서로 (互相) + -를 (受格助詞)。" },
+        { "point": "느껴봐요", "explanation": "느끼다 (感受) + -아/어 보다 (嘗試) 的敬語。" }
+      ]
+    },
+    {
+      "korean": "내 마음 모아서 너에게 전하고 싶어",
+      "translation": "想收集我的心意傳達給你",
+      "analysis": [
+        { "point": "내 마음", "explanation": "내 (我的) + 마음 (心意)。" },
+        { "point": "모아서", "explanation": "모으다 (收集) + -아/어서 (然後)。" },
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給)。" },
+        { "point": "전하고 싶어", "explanation": "전하다 (傳達) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "설레임을 오늘부터 우리는",
+      "translation": "從今天開始 我們 悸動",
+      "analysis": [
+        { "point": "설레임을", "explanation": "설레임 (悸動) + -을 (受格助詞)。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "꿈꾸며 기도하는 오늘부터 우리는",
+      "translation": "從今天開始 我們 做夢並祈禱",
+      "analysis": [
+        { "point": "꿈꾸며", "explanation": "꿈꾸다 (做夢) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "기도하는", "explanation": "기도하다 (祈禱) 的冠詞形。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "저 바람에 노을 빛 내 맘을 실어 보낼게",
+      "translation": "會把我的心裝載在那風和晚霞光中寄給你",
+      "analysis": [
+        { "point": "저 바람에", "explanation": "저 (那) + 바람 (風) + -에 (場所/工具助詞)。" },
+        { "point": "노을 빛", "explanation": "노을 (晚霞) + 빛 (光)。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "실어 보낼게", "explanation": "싣다 (裝載) + -아/어 보내다 (寄送) + -(으)ㄹ게 (承諾/意志)。" }
+      ]
+    },
+    {
+      "korean": "그리운 마음이 모여서 내리는",
+      "translation": "思念的心情聚集後降下的",
+      "analysis": [
+        { "point": "그리운", "explanation": "그립다 (思念的) 的冠詞形。" },
+        { "point": "마음이", "explanation": "마음 (心情) + -이 (主格助詞)。" },
+        { "point": "모여서", "explanation": "모이다 (聚集) + -아/어서 (表示原因或順序)。" },
+        { "point": "내리는", "explanation": "내리다 (降下) 的冠詞形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "감싸줄게요 그대 언제까지나 언제까지나",
+      "translation": "會擁抱你 直到永遠 直到永遠",
+      "analysis": [
+        { "point": "감싸줄게요", "explanation": "감싸다 (擁抱) + -아/어 주다 (為你做) + -(으)ㄹ게요 (承諾/意志敬語)。" },
+        { "point": "그대", "explanation": "你。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)，重複表示強調。" }
+      ]
+    },
+    {
+      "korean": "사랑이란 말 안 해도 느낄 수 있어요",
+      "translation": "即使不說「我愛你」這句話也能感受到",
+      "analysis": [
+        { "point": "사랑이란 말", "explanation": "사랑 (愛) + -이란 (叫做) + 말 (話)。" },
+        { "point": "안 해도", "explanation": "안 하다 (不做) + -아/어도 (即使...也)。" },
+        { "point": "느낄 수 있어요", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (能夠) 的敬語。" }
+      ]
+    },
+    {
+      "korean": "고마운 마음을 모아서",
+      "translation": "收集感謝的心意",
+      "analysis": [
+        { "point": "고마운", "explanation": "고맙다 (感謝的) 的冠詞形。" },
+        { "point": "마음을", "explanation": "마음 (心意) + -을 (受格助詞)。" },
+        { "point": "모아서", "explanation": "모으다 (收集) + -아/어서 (然後)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "널 향한 설레임을 오늘부터 우리는",
+      "translation": "從今天開始 我們 對你的悸動",
+      "analysis": [
+        { "point": "널 향한", "explanation": "너를 (你) 的縮略 + 향하다 (面向) 的冠詞形。" },
+        { "point": "설레임을", "explanation": "설레임 (悸動) + -을 (受格助詞)。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "꿈꾸며 기도하는 오늘부터 우리는",
+      "translation": "從今天開始 我們 做夢並祈禱",
+      "analysis": [
+        { "point": "꿈꾸며", "explanation": "꿈꾸다 (做夢) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "기도하는", "explanation": "기도하다 (祈禱) 的冠詞形。" },
+        { "point": "오늘부터", "explanation": "오늘 (今天) + -부터 (從...開始)。" },
+        { "point": "우리는", "explanation": "우리 (我們) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "저 바람에 노을 빛 내 맘을 실어 보낼게",
+      "translation": "會把我的心裝載在那風和晚霞光中寄給你",
+      "analysis": [
+        { "point": "저 바람에", "explanation": "저 (那) + 바람 (風) + -에 (場所/工具助詞)。" },
+        { "point": "노을 빛", "explanation": "노을 (晚霞) + 빛 (光)。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "실어 보낼게", "explanation": "싣다 (裝載) + -아/어 보내다 (寄送) + -(으)ㄹ게 (承諾/意志)。" }
+      ]
+    },
+    {
+      "korean": "그리운 마음이 모여서 내리는",
+      "translation": "思念的心情聚集後降下的",
+      "analysis": [
+        { "point": "그리운", "explanation": "그립다 (思念的) 的冠詞形。" },
+        { "point": "마음이", "explanation": "마음 (心情) + -이 (主格助詞)。" },
+        { "point": "모여서", "explanation": "모이다 (聚集) + -아/어서 (表示原因或順序)。" },
+        { "point": "내리는", "explanation": "내리다 (降下) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "Me gustas tu gustas tu",
+      "translation": "我喜歡你 喜歡你",
+      "analysis": [
+        { "point": "Me gustas tu gustas tu", "explanation": "西班牙文歌詞，意為「我喜歡你」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "수투두루 좋아해요",
+      "translation": "喜歡你",
+      "analysis": [
+        { "point": "수투두루", "explanation": "擬聲詞，表現西班牙文發音的趣味性歌詞。" },
+        { "point": "좋아해요", "explanation": "좋아하다 (喜歡) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "Gustas tu 수투루 수투~루",
+      "translation": "喜歡你",
+      "analysis": [
+        { "point": "Gustas tu", "explanation": "西班牙文，意為「我喜歡你」。" },
+        { "point": "수투루 수투~루", "explanation": "擬聲詞，表現西班牙文發音的趣味性歌詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "설레임", "chinese": "悸動", "pos": "名詞" },
+    { "korean": "향하다", "chinese": "面向", "pos": "動詞" },
+    { "korean": "꿈꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "기도하다", "chinese": "祈禱", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "노을", "chinese": "晚霞", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "싣다", "chinese": "裝載", "pos": "動詞" },
+    { "korean": "보내다", "chinese": "寄送", "pos": "動詞" },
+    { "korean": "그립다", "chinese": "思念的", "pos": "形容詞" },
+    { "korean": "모이다", "chinese": "聚集", "pos": "動詞" },
+    { "korean": "내리다", "chinese": "降下", "pos": "動詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "발짝", "chinese": "步", "pos": "名詞" },
+    { "korean": "서다", "chinese": "站立", "pos": "動詞" },
+    { "korean": "센치하다", "chinese": "感性的", "pos": "形容詞" },
+    { "korean": "부끄럽다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "나풀거리다", "chinese": "輕輕飄揚", "pos": "動詞" },
+    { "korean": "꽃잎", "chinese": "花瓣", "pos": "名詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "용기", "chinese": "勇氣", "pos": "名詞" },
+    { "korean": "고백하다", "chinese": "告白", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "모으다", "chinese": "收集", "pos": "動詞" },
+    { "korean": "전하다", "chinese": "傳達", "pos": "動詞" },
+    { "korean": "걸음", "chinese": "步", "pos": "名詞" },
+    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "놓다", "chinese": "放開", "pos": "動詞" },
+    { "korean": "약속하다", "chinese": "約定", "pos": "動詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "담다", "chinese": "裝、收藏", "pos": "動詞" },
+    { "korean": "아끼다", "chinese": "珍惜", "pos": "動詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "아른거리다", "chinese": "搖曳", "pos": "動詞" },
+    { "korean": "구름", "chinese": "雲", "pos": "名詞" },
+    { "korean": "아쉽다", "chinese": "遺憾的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "감싸다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "고맙다", "chinese": "感謝的", "pos": "形容詞" }
+  ]
+}
