@@ -6,6 +6,36 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "yuju-im_in_the_mood_for_dancing",
+    "title": "I'm in the Mood for Dancing",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-im_in_the_mood_for_dancing.json"
+  },        
+  {
     "id": "yuju-full-circle",
     "title": "Full Circle",
     "artist": "YUJU (유주)",
