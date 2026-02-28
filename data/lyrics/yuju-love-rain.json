@@ -1,0 +1,380 @@
+{
+  "id": "yuju-love-rain",
+  "title": "Love Rain",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "몇 밤을 새우고 아파해야 나",
+      "translation": "要熬過幾個夜晚 痛苦過後 我",
+      "analysis": [
+        { "point": "몇 밤을", "explanation": "몇 (幾) + 밤 (夜晚) + -을 (受格助詞)。" },
+        { "point": "새우고", "explanation": "새우다 (熬夜) + -고 (連接詞尾)。" },
+        { "point": "아파해야", "explanation": "아프다 (痛) + -아/어 하다 (感到) + -아/어야 (必須...才)。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "사랑에 겁내지 않을 수가 있을까",
+      "translation": "才能夠不再害怕愛情呢",
+      "analysis": [
+        { "point": "사랑에", "explanation": "사랑 (愛情) + -에 (對)。" },
+        { "point": "겁내지 않을 수가 있을까", "explanation": "겁내다 (害怕) + -지 않다 (不) + -(으)ㄹ 수 있다 (能夠) + -가 (強調) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "빗소리에 급히 문을 닫아",
+      "translation": "聽到雨聲急忙關上門",
+      "analysis": [
+        { "point": "빗소리에", "explanation": "빗소리 (雨聲) + -에 (原因/因為)。" },
+        { "point": "급히", "explanation": "副詞，急忙地。" },
+        { "point": "문을 닫아", "explanation": "문 (門) + -을 (受格助詞) + 닫다 (關) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘도 알지 못하게 감추어 버릴래",
+      "translation": "想連我的心都不知道地隱藏起來",
+      "analysis": [
+        { "point": "내 맘도", "explanation": "내 (我的) + 마음 (心) 的縮略 + -도 (也)。" },
+        { "point": "알지 못하게", "explanation": "알다 (知道) + -지 못하다 (未能) + -게 (使得)。" },
+        { "point": "감추어 버릴래", "explanation": "감추다 (隱藏) + -아/어 버리다 (完了) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한여름 밤에 빗방울 같을까",
+      "translation": "會像仲夏夜的雨滴嗎",
+      "analysis": [
+        { "point": "한여름 밤에", "explanation": "한여름 (仲夏) + 밤 (夜晚) + -에 (時間助詞)。" },
+        { "point": "빗방울", "explanation": "名詞，雨滴。" },
+        { "point": "같을까", "explanation": "같다 (像) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "우산도 없이 스치던 소나기처럼",
+      "translation": "像沒有雨傘也擦身而過的驟雨一樣",
+      "analysis": [
+        { "point": "우산도 없이", "explanation": "우산 (雨傘) + -도 (也) + 없이 (沒有)。" },
+        { "point": "스치던", "explanation": "스치다 (擦過) 的過去回想着定語形。" },
+        { "point": "소나기처럼", "explanation": "소나기 (驟雨) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "어김없이 난 또 난 사랑하겠지",
+      "translation": "必然地 我又 我會愛吧",
+      "analysis": [
+        { "point": "어김없이", "explanation": "副詞，必然地、準確無誤地。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "사랑하겠지", "explanation": "사랑하다 (愛) + -겠- (推測) + -지 (語尾)。" }
+      ]
+    },
+    {
+      "korean": "막을 수 없는 이 love rain",
+      "translation": "無法阻擋的這場愛情雨",
+      "analysis": [
+        { "point": "막을 수 없는", "explanation": "막다 (阻擋) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "이 love rain", "explanation": "이 (這) + love rain (英文，愛情雨)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어느새 내게 와 말없이 날 스치고",
+      "translation": "不知不覺來到我身邊 無言地掠過我",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "와", "explanation": "오다 (來) 的非格式體。" },
+        { "point": "말없이", "explanation": "말 (話) + 없이 (沒有)，意為「無言地」。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "스치고", "explanation": "스치다 (掠過) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "걸음을 빨리해 봐도 피할 수 없는지",
+      "translation": "即使試著加快腳步 也無法躲避嗎",
+      "analysis": [
+        { "point": "걸음을", "explanation": "걸음 (腳步) + -을 (受格助詞)。" },
+        { "point": "빨리해 봐도", "explanation": "빨리하다 (加快) + -아/어 보다 (嘗試) + -아/어도 (即使)。" },
+        { "point": "피할 수 없는지", "explanation": "피하다 (躲避) + -(으)ㄹ 수 없다 (無法) + -ㄴ지 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "알려줘요 이제 사랑 앞에 선 날 보며",
+      "translation": "請告訴我 現在看著站在愛情面前的我",
+      "analysis": [
+        { "point": "알려줘요", "explanation": "알리다 (告訴) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "이제", "explanation": "副詞，現在。" },
+        { "point": "사랑 앞에", "explanation": "사랑 (愛情) + 앞 (前面) + -에 (場所助詞)。" },
+        { "point": "선 날", "explanation": "서다 (站) 的過去定語形 + 날 (我)。" },
+        { "point": "보며", "explanation": "보다 (看) + -며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "언제쯤이면 나 나일 수 있는지",
+      "translation": "要到何時 我才能夠成為我呢",
+      "analysis": [
+        { "point": "언제쯤이면", "explanation": "언제 (何時) + -쯤 (大概) + -이면 (如果是)。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "나일 수 있는지", "explanation": "나 (我) + -일 수 있다 (能夠是) + -ㄴ지 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시간이 흘러도 똑같은 걸",
+      "translation": "即使時間流逝也一樣",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "흘러도", "explanation": "흐르다 (流逝) + -아/어도 (即使)。" },
+        { "point": "똑같은 걸", "explanation": "똑같다 (一模一樣的) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "이만큼 아프면 상처 나면 괜찮을 줄",
+      "translation": "以為痛到這個程度 受傷的話就會沒事了",
+      "analysis": [
+        { "point": "이만큼", "explanation": "副詞，這麼多、到這個程度。" },
+        { "point": "아프면", "explanation": "아프다 (痛) + -(으)면 (如果)。" },
+        { "point": "상처 나면", "explanation": "상처 (傷口) + 나다 (出現) + -(으)면 (如果)。" },
+        { "point": "괜찮을 줄", "explanation": "괜찮다 (沒關係) + -(으)ㄹ 줄 알다 (以為會)。" }
+      ]
+    },
+    {
+      "korean": "사랑이란 게 어쩔 수 없나 봐",
+      "translation": "所謂愛情 是無可奈何的吧",
+      "analysis": [
+        { "point": "사랑이란 게", "explanation": "사랑 (愛情) + -이란 (所謂的) + 것 (東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "어쩔 수 없나 봐", "explanation": "어쩔 수 없다 (無可奈何) + -나 보다 (看來是)。" }
+      ]
+    },
+    {
+      "korean": "많이 한다고 무뎌지지 않는 게 사랑이더라",
+      "translation": "原來愛情是即使做很多也不會變遲鈍的東西",
+      "analysis": [
+        { "point": "많이", "explanation": "副詞，多地。" },
+        { "point": "한다고", "explanation": "하다 (做) + -다고 (引用)。" },
+        { "point": "무뎌지지 않는 게", "explanation": "무뎌지다 (變遲鈍) + -지 않다 (不) 的定語形 + 것 (東西) + -이 (主格助詞)。" },
+        { "point": "사랑이더라", "explanation": "사랑 (愛情) + -이더라 (回想感嘆語尾，原來是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "한여름 밤에 빗방울 같을까",
+      "translation": "會像仲夏夜的雨滴嗎",
+      "analysis": [
+        { "point": "한여름 밤에", "explanation": "한여름 (仲夏) + 밤 (夜晚) + -에 (時間助詞)。" },
+        { "point": "빗방울", "explanation": "名詞，雨滴。" },
+        { "point": "같을까", "explanation": "같다 (像) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "우산도 없이 스치던 소나기처럼",
+      "translation": "像沒有雨傘也擦身而過的驟雨一樣",
+      "analysis": [
+        { "point": "우산도 없이", "explanation": "우산 (雨傘) + -도 (也) + 없이 (沒有)。" },
+        { "point": "스치던", "explanation": "스치다 (擦過) 的過去回想着定語形。" },
+        { "point": "소나기처럼", "explanation": "소나기 (驟雨) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "어김없이 난 또 난 사랑하겠지",
+      "translation": "必然地 我又 我會愛吧",
+      "analysis": [
+        { "point": "어김없이", "explanation": "副詞，必然地、準確無誤地。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "사랑하겠지", "explanation": "사랑하다 (愛) + -겠- (推測) + -지 (語尾)。" }
+      ]
+    },
+    {
+      "korean": "막을 수 없는 이 love rain",
+      "translation": "無法阻擋的這場愛情雨",
+      "analysis": [
+        { "point": "막을 수 없는", "explanation": "막다 (阻擋) + -(으)ㄹ 수 없다 (無法) 的定語形。" },
+        { "point": "이 love rain", "explanation": "이 (這) + love rain (英文，愛情雨)。" }
+      ]
+    },
+    {
+      "korean": "어느새 내게 와 말없이 날 스치고",
+      "translation": "不知不覺來到我身邊 無言地掠過我",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "와", "explanation": "오다 (來) 的非格式體。" },
+        { "point": "말없이", "explanation": "말 (話) + 없이 (沒有)，意為「無言地」。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "스치고", "explanation": "스치다 (掠過) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "걸음을 빨리해 봐도 피할 수 없는지",
+      "translation": "即使試著加快腳步 也無法躲避嗎",
+      "analysis": [
+        { "point": "걸음을", "explanation": "걸음 (腳步) + -을 (受格助詞)。" },
+        { "point": "빨리해 봐도", "explanation": "빨리하다 (加快) + -아/어 보다 (嘗試) + -아/어도 (即使)。" },
+        { "point": "피할 수 없는지", "explanation": "피하다 (躲避) + -(으)ㄹ 수 없다 (無法) + -ㄴ지 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "알려줘요 이제 사랑 앞에 선 날 보며",
+      "translation": "請告訴我 現在看著站在愛情面前的我",
+      "analysis": [
+        { "point": "알려줘요", "explanation": "알리다 (告訴) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "이제", "explanation": "副詞，現在。" },
+        { "point": "사랑 앞에", "explanation": "사랑 (愛情) + 앞 (前面) + -에 (場所助詞)。" },
+        { "point": "선 날", "explanation": "서다 (站) 的過去定語形 + 날 (我)。" },
+        { "point": "보며", "explanation": "보다 (看) + -며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "언제쯤이면 나 나일 수 있는지",
+      "translation": "要到何時 我才能夠成為我呢",
+      "analysis": [
+        { "point": "언제쯤이면", "explanation": "언제 (何時) + -쯤 (大概) + -이면 (如果是)。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "나일 수 있는지", "explanation": "나 (我) + -일 수 있다 (能夠是) + -ㄴ지 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "다시 빠지게 될 사랑이라면",
+      "translation": "如果是要再次陷入的愛情",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "빠지게 될", "explanation": "빠지다 (陷入) + -게 되다 (變得) + -(으)ㄹ (未來定語形)。" },
+        { "point": "사랑이라면", "explanation": "사랑 (愛情) + -이라면 (如果是)。" }
+      ]
+    },
+    {
+      "korean": "한번 더 난 또 믿고 싶어",
+      "translation": "再一次 我又想要相信",
+      "analysis": [
+        { "point": "한번 더", "explanation": "한번 (一次) + 더 (更)，意為「再一次」。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "믿고 싶어", "explanation": "믿다 (相信) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "갑작스레 다가오던 그 설렘",
+      "translation": "突然靠近的那份心動",
+      "analysis": [
+        { "point": "갑작스레", "explanation": "갑작스럽다 (突然的) 的副詞形。" },
+        { "point": "다가오던", "explanation": "다가오다 (靠近) 的過去回想着定語形。" },
+        { "point": "그 설렘", "explanation": "그 (那) + 설렘 (心動)。" }
+      ]
+    },
+    {
+      "korean": "그 앞에서 웃고 싶어",
+      "translation": "想在它面前微笑",
+      "analysis": [
+        { "point": "그 앞에서", "explanation": "그 (那) + 앞 (前面) + -에서 (在)。" },
+        { "point": "웃고 싶어", "explanation": "웃다 (笑) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "대체 모르겠어 왜 난 다시 이렇게",
+      "translation": "真搞不懂 為什麼我又這樣",
+      "analysis": [
+        { "point": "대체", "explanation": "副詞，到底、究竟。" },
+        { "point": "모르겠어", "explanation": "모르다 (不知道) + -겠- (推測) + -어 (非格式體)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "이렇게", "explanation": "副詞，這樣。" }
+      ]
+    },
+    {
+      "korean": "또 그 사랑을 찾아가 설레려고 하는지",
+      "translation": "又去找那份愛情 想要心動",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "그 사랑을", "explanation": "그 (那) + 사랑 (愛情) + -을 (受格助詞)。" },
+        { "point": "찾아가", "explanation": "찾아가다 (去找) 的非格式體。" },
+        { "point": "설레려고 하는지", "explanation": "설레다 (心動) + -려고 하다 (想要) + -는지 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "알려줘요 이제 사랑 앞에 선 날 보며",
+      "translation": "請告訴我 現在看著站在愛情面前的我",
+      "analysis": [
+        { "point": "알려줘요", "explanation": "알리다 (告訴) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "이제", "explanation": "副詞，現在。" },
+        { "point": "사랑 앞에", "explanation": "사랑 (愛情) + 앞 (前面) + -에 (場所助詞)。" },
+        { "point": "선 날", "explanation": "서다 (站) 的過去定語形 + 날 (我)。" },
+        { "point": "보며", "explanation": "보다 (看) + -며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "어떻게 해야 나 나일 수 있는지",
+      "translation": "要怎麼做 我才能夠成為我呢",
+      "analysis": [
+        { "point": "어떻게", "explanation": "副詞，怎麼。" },
+        { "point": "해야", "explanation": "하다 (做) + -아/어야 (必須)。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "나일 수 있는지", "explanation": "나 (我) + -일 수 있다 (能夠是) + -ㄴ지 (疑問)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "몇", "chinese": "幾", "pos": "數詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "새우다", "chinese": "熬夜", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "겁내다", "chinese": "害怕", "pos": "動詞" },
+    { "korean": "빗소리", "chinese": "雨聲", "pos": "名詞" },
+    { "korean": "급히", "chinese": "急忙地", "pos": "副詞" },
+    { "korean": "문", "chinese": "門", "pos": "名詞" },
+    { "korean": "닫다", "chinese": "關", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "감추다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "한여름", "chinese": "仲夏", "pos": "名詞" },
+    { "korean": "빗방울", "chinese": "雨滴", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "우산", "chinese": "雨傘", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "擦過、掠過", "pos": "動詞" },
+    { "korean": "소나기", "chinese": "驟雨", "pos": "名詞" },
+    { "korean": "어김없이", "chinese": "必然地", "pos": "副詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "막다", "chinese": "阻擋", "pos": "動詞" },
+    { "korean": "어느새", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "말없이", "chinese": "無言地", "pos": "副詞" },
+    { "korean": "걸음", "chinese": "腳步", "pos": "名詞" },
+    { "korean": "빨리하다", "chinese": "加快", "pos": "動詞" },
+    { "korean": "피하다", "chinese": "躲避", "pos": "動詞" },
+    { "korean": "알리다", "chinese": "告訴", "pos": "動詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
+    { "korean": "서다", "chinese": "站", "pos": "動詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "언제", "chinese": "何時", "pos": "副詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流逝", "pos": "動詞" },
+    { "korean": "똑같다", "chinese": "一模一樣的", "pos": "形容詞" },
+    { "korean": "이만큼", "chinese": "這麼多", "pos": "副詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "나다", "chinese": "出現", "pos": "動詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "어쩔 수 없다", "chinese": "無可奈何", "pos": "片語" },
+    { "korean": "무뎌지다", "chinese": "變遲鈍", "pos": "動詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "한번", "chinese": "一次", "pos": "名詞" },
+    { "korean": "더", "chinese": "更", "pos": "副詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "갑작스럽다", "chinese": "突然的", "pos": "形容詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "설렘", "chinese": "心動", "pos": "名詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "대체", "chinese": "到底、究竟", "pos": "副詞" },
+    { "korean": "이렇게", "chinese": "這樣", "pos": "副詞" },
+    { "korean": "찾아가다", "chinese": "去找", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "어떻게", "chinese": "怎麼", "pos": "副詞" }
+  ]
+}

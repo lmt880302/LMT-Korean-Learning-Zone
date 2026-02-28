@@ -1,0 +1,392 @@
+{
+  "id": "yuju-what-if",
+  "title": "What If",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "말없이 걸었던 우리",
+      "translation": "無言地走過的我們",
+      "analysis": [
+        { "point": "말없이", "explanation": "말 (話) + 없이 (沒有)，意為「無言地」。" },
+        { "point": "걸었던", "explanation": "걷다 (走) 的過去回想着定語形。" },
+        { "point": "우리", "explanation": "我們。" }
+      ]
+    },
+    {
+      "korean": "조금씩 가까워진 거리",
+      "translation": "一點點變近的距離",
+      "analysis": [
+        { "point": "조금씩", "explanation": "副詞，一點點地。" },
+        { "point": "가까워진", "explanation": "가까워지다 (變近) 的過去定語形。" },
+        { "point": "거리", "explanation": "名詞，距離。" }
+      ]
+    },
+    {
+      "korean": "살짝 흔들렸던 바람",
+      "translation": "輕輕搖曳過的風",
+      "analysis": [
+        { "point": "살짝", "explanation": "副詞，輕輕地。" },
+        { "point": "흔들렸던", "explanation": "흔들리다 (被搖動) 的過去回想着定語形。" },
+        { "point": "바람", "explanation": "名詞，風。" }
+      ]
+    },
+    {
+      "korean": "조용히 머물다간 자리",
+      "translation": "安靜地停留過的位置",
+      "analysis": [
+        { "point": "조용히", "explanation": "副詞，安靜地。" },
+        { "point": "머물다간", "explanation": "머물다 (停留) + -다간 (連接詞尾，表示停留後離開)。" },
+        { "point": "자리", "explanation": "名詞，位置。" }
+      ]
+    },
+    {
+      "korean": "작은 오해 하나로 멀어지는 우리",
+      "translation": "因為一個小小的誤會而變遠的我們",
+      "analysis": [
+        { "point": "작은", "explanation": "작다 (小的) 的定語形。" },
+        { "point": "오해 하나로", "explanation": "오해 (誤會) + 하나 (一個) + -(으)로 (因為)。" },
+        { "point": "멀어지는", "explanation": "멀어지다 (變遠) 的現在定語形。" },
+        { "point": "우리", "explanation": "我們。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "다가가고 싶은 마음과 그렇지 못한 나",
+      "translation": "想要靠近的心 和無法那樣做的我",
+      "analysis": [
+        { "point": "다가가고 싶은", "explanation": "다가가다 (靠近) + -고 싶다 (想要) 的定語形。" },
+        { "point": "마음과", "explanation": "마음 (心) + -과 (和)。" },
+        { "point": "그렇지 못한", "explanation": "그렇다 (那樣) + -지 못하다 (未能) 的定語形。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "한참 망설였던 밤",
+      "translation": "猶豫了好一陣子的夜晚",
+      "analysis": [
+        { "point": "한참", "explanation": "副詞，好一陣子。" },
+        { "point": "망설였던", "explanation": "망설이다 (猶豫) 的過去回想着定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "What if I told you that I miss",
+      "translation": "如果我告訴你我想念你",
+      "analysis": [
+        { "point": "What if I told you that I miss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "말하지 못했던 진심",
+      "translation": "沒能說出口的真心",
+      "analysis": [
+        { "point": "말하지 못했던", "explanation": "말하다 (說) + -지 못하다 (未能) 的過去回想着定語形。" },
+        { "point": "진심", "explanation": "名詞，真心。" }
+      ]
+    },
+    {
+      "korean": "삼켜왔던 말, 눌러 담은 말",
+      "translation": "一直嚥下的話，壓抑著裝下的話",
+      "analysis": [
+        { "point": "삼켜왔던", "explanation": "삼키다 (吞嚥) + -아/어 오다 (持續) 的過去回想着定語形。" },
+        { "point": "말", "explanation": "名詞，話。" },
+        { "point": "눌러 담은", "explanation": "누르다 (按、壓) + -아/어 담다 (裝) 的過去定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "수 없이 돌아왔던 날",
+      "translation": "無數次回來的日子",
+      "analysis": [
+        { "point": "수 없이", "explanation": "副詞，無數次地。" },
+        { "point": "돌아왔던", "explanation": "돌아오다 (回來) 的過去回想着定語形。" },
+        { "point": "날", "explanation": "名詞，日子。" }
+      ]
+    },
+    {
+      "korean": "하루를 살아가도 그대만이 전부예요",
+      "translation": "即使度過每一天 也只有你是全部",
+      "analysis": [
+        { "point": "하루를", "explanation": "하루 (一天) + -를 (受格助詞)。" },
+        { "point": "살아가도", "explanation": "살아가다 (生活) + -아/어도 (即使)。" },
+        { "point": "그대만이", "explanation": "그대 (你) + -만 (只) + -이 (主格助詞)。" },
+        { "point": "전부예요", "explanation": "전부 (全部) + -예요 (是)。" }
+      ]
+    },
+    {
+      "korean": "한줄기 빛이 되어",
+      "translation": "成為一道光芒",
+      "analysis": [
+        { "point": "한줄기", "explanation": "一道。" },
+        { "point": "빛이", "explanation": "빛 (光) + -이 (主格助詞)。" },
+        { "point": "되어", "explanation": "되다 (成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그댈 사랑했다 말해요 지금",
+      "translation": "說我愛過你 現在",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "사랑했다", "explanation": "사랑하다 (愛) 的過去形。" },
+        { "point": "말해요", "explanation": "말하다 (說) 的敬語請求形。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "다가가고 싶은 마음과 그렇지 못한 나",
+      "translation": "想要靠近的心 和無法那樣做的我",
+      "analysis": [
+        { "point": "다가가고 싶은", "explanation": "다가가다 (靠近) + -고 싶다 (想要) 的定語形。" },
+        { "point": "마음과", "explanation": "마음 (心) + -과 (和)。" },
+        { "point": "그렇지 못한", "explanation": "그렇다 (那樣) + -지 못하다 (未能) 的定語形。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "한참 망설였던 밤",
+      "translation": "猶豫了好一陣子的夜晚",
+      "analysis": [
+        { "point": "한참", "explanation": "副詞，好一陣子。" },
+        { "point": "망설였던", "explanation": "망설이다 (猶豫) 的過去回想着定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "What if I told you that I miss",
+      "translation": "如果我告訴你我想念你",
+      "analysis": [
+        { "point": "What if I told you that I miss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "말하지 못했던 진심",
+      "translation": "沒能說出口的真心",
+      "analysis": [
+        { "point": "말하지 못했던", "explanation": "말하다 (說) + -지 못하다 (未能) 的過去回想着定語形。" },
+        { "point": "진심", "explanation": "名詞，真心。" }
+      ]
+    },
+    {
+      "korean": "삼켜왔던 말, 눌러 담은 말",
+      "translation": "一直嚥下的話，壓抑著裝下的話",
+      "analysis": [
+        { "point": "삼켜왔던", "explanation": "삼키다 (吞嚥) + -아/어 오다 (持續) 的過去回想着定語形。" },
+        { "point": "말", "explanation": "名詞，話。" },
+        { "point": "눌러 담은", "explanation": "누르다 (按、壓) + -아/어 담다 (裝) 的過去定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "수 없이 돌아왔던 날",
+      "translation": "無數次回來的日子",
+      "analysis": [
+        { "point": "수 없이", "explanation": "副詞，無數次地。" },
+        { "point": "돌아왔던", "explanation": "돌아오다 (回來) 的過去回想着定語形。" },
+        { "point": "날", "explanation": "名詞，日子。" }
+      ]
+    },
+    {
+      "korean": "하루를 살아가도 그대만이 전부예요",
+      "translation": "即使度過每一天 也只有你是全部",
+      "analysis": [
+        { "point": "하루를", "explanation": "하루 (一天) + -를 (受格助詞)。" },
+        { "point": "살아가도", "explanation": "살아가다 (生活) + -아/어도 (即使)。" },
+        { "point": "그대만이", "explanation": "그대 (你) + -만 (只) + -이 (主格助詞)。" },
+        { "point": "전부예요", "explanation": "전부 (全部) + -예요 (是)。" }
+      ]
+    },
+    {
+      "korean": "한줄기 빛이 되어",
+      "translation": "成為一道光芒",
+      "analysis": [
+        { "point": "한줄기", "explanation": "一道。" },
+        { "point": "빛이", "explanation": "빛 (光) + -이 (主格助詞)。" },
+        { "point": "되어", "explanation": "되다 (成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그댈 사랑했다 말해요 지금",
+      "translation": "說我愛過你 現在",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "사랑했다", "explanation": "사랑하다 (愛) 的過去形。" },
+        { "point": "말해요", "explanation": "말하다 (說) 的敬語請求形。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "숨이 차 오르도록 외쳤었던 말",
+      "translation": "曾喊到喘不過氣的那句話",
+      "analysis": [
+        { "point": "숨이", "explanation": "숨 (呼吸) + -이 (主格助詞)。" },
+        { "point": "차 오르도록", "explanation": "차오르다 (充滿、湧上) + -도록 (到...程度)。" },
+        { "point": "외쳤었던", "explanation": "외치다 (喊) 的過去回想定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "That I love you.",
+      "translation": "那就是我愛你。",
+      "analysis": [
+        { "point": "That I love you.", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "더는 혼자 울고 싶지 않아서 미안해요",
+      "translation": "因為不想再獨自哭泣 對不起",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再也。" },
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "울고 싶지 않아서", "explanation": "울다 (哭) + -고 싶다 (想要) + -지 않다 (不) + -아/어서 (因為)。" },
+        { "point": "미안해요", "explanation": "미안하다 (對不起) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "많이 늦었 데도 좋아요",
+      "translation": "即使遲了很多 也沒關係",
+      "analysis": [
+        { "point": "많이", "explanation": "副詞，多地。" },
+        { "point": "늦었 데도", "explanation": "늦다 (遲) 的過去形 + -데도 (即使) 的口語形。" },
+        { "point": "좋아요", "explanation": "좋다 (好、沒關係) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "그대만 있으면 돼요",
+      "translation": "只要有你就好",
+      "analysis": [
+        { "point": "그대만", "explanation": "그대 (你) + -만 (只)。" },
+        { "point": "있으면 돼요", "explanation": "있다 (有、在) + -(으)면 되다 (只要...就可以) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "난 정말 이제..",
+      "translation": "我真的 現在..",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "이제", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "What if I told you that I miss",
+      "translation": "如果我告訴你我想念你",
+      "analysis": [
+        { "point": "What if I told you that I miss", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "말하지 못했던 진실",
+      "translation": "沒能說出口的真相",
+      "analysis": [
+        { "point": "말하지 못했던", "explanation": "말하다 (說) + -지 못하다 (未能) 的過去回想着定語形。" },
+        { "point": "진실", "explanation": "名詞，真相。" }
+      ]
+    },
+    {
+      "korean": "삼켜왔던 말, 눌러 담은 말",
+      "translation": "一直嚥下的話，壓抑著裝下的話",
+      "analysis": [
+        { "point": "삼켜왔던", "explanation": "삼키다 (吞嚥) + -아/어 오다 (持續) 的過去回想着定語形。" },
+        { "point": "말", "explanation": "名詞，話。" },
+        { "point": "눌러 담은", "explanation": "누르다 (按、壓) + -아/어 담다 (裝) 的過去定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "수 없이 돌아왔던 날",
+      "translation": "無數次回來的日子",
+      "analysis": [
+        { "point": "수 없이", "explanation": "副詞，無數次地。" },
+        { "point": "돌아왔던", "explanation": "돌아오다 (回來) 的過去回想着定語形。" },
+        { "point": "날", "explanation": "名詞，日子。" }
+      ]
+    },
+    {
+      "korean": "하루를 살아가도 그대만이 전부예요",
+      "translation": "即使度過每一天 也只有你是全部",
+      "analysis": [
+        { "point": "하루를", "explanation": "하루 (一天) + -를 (受格助詞)。" },
+        { "point": "살아가도", "explanation": "살아가다 (生活) + -아/어도 (即使)。" },
+        { "point": "그대만이", "explanation": "그대 (你) + -만 (只) + -이 (主格助詞)。" },
+        { "point": "전부예요", "explanation": "전부 (全部) + -예요 (是)。" }
+      ]
+    },
+    {
+      "korean": "한줄기 빛이 되어",
+      "translation": "成為一道光芒",
+      "analysis": [
+        { "point": "한줄기", "explanation": "一道。" },
+        { "point": "빛이", "explanation": "빛 (光) + -이 (主格助詞)。" },
+        { "point": "되어", "explanation": "되다 (成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그댈 사랑했다 말해요 지금",
+      "translation": "說我愛過你 現在",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "사랑했다", "explanation": "사랑하다 (愛) 的過去形。" },
+        { "point": "말해요", "explanation": "말하다 (說) 的敬語請求形。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "말없이", "chinese": "無言地", "pos": "副詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "조금씩", "chinese": "一點點地", "pos": "副詞" },
+    { "korean": "가까워지다", "chinese": "變近", "pos": "動詞" },
+    { "korean": "거리", "chinese": "距離", "pos": "名詞" },
+    { "korean": "살짝", "chinese": "輕輕地", "pos": "副詞" },
+    { "korean": "흔들리다", "chinese": "被搖動", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "조용히", "chinese": "安靜地", "pos": "副詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "자리", "chinese": "位置", "pos": "名詞" },
+    { "korean": "작다", "chinese": "小的", "pos": "形容詞" },
+    { "korean": "오해", "chinese": "誤會", "pos": "名詞" },
+    { "korean": "하나", "chinese": "一個", "pos": "數詞" },
+    { "korean": "멀어지다", "chinese": "變遠", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "그렇다", "chinese": "那樣", "pos": "形容詞" },
+    { "korean": "한참", "chinese": "好一陣子", "pos": "副詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "삼키다", "chinese": "吞嚥", "pos": "動詞" },
+    { "korean": "누르다", "chinese": "按、壓", "pos": "動詞" },
+    { "korean": "담다", "chinese": "裝", "pos": "動詞" },
+    { "korean": "수 없이", "chinese": "無數次地", "pos": "副詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "살아가다", "chinese": "生活", "pos": "動詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "전부", "chinese": "全部", "pos": "名詞" },
+    { "korean": "한줄기", "chinese": "一道", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "차오르다", "chinese": "充滿、湧上", "pos": "動詞" },
+    { "korean": "외치다", "chinese": "喊", "pos": "動詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "미안하다", "chinese": "對不起", "pos": "形容詞" },
+    { "korean": "많이", "chinese": "多地", "pos": "副詞" },
+    { "korean": "늦다", "chinese": "遲", "pos": "形容詞" },
+    { "korean": "좋다", "chinese": "好、沒關係", "pos": "形容詞" },
+    { "korean": "있다", "chinese": "有、在", "pos": "動詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "진실", "chinese": "真相", "pos": "名詞" }
+  ]
+}

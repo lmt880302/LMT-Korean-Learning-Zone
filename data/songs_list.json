@@ -24,10 +24,22 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },  
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-what-if",
+    "title": "What If",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-what-if.json"
+  },
+  {
+    "id": "yuju-love-rain",
+    "title": "Love Rain",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-love-rain.json"
+  },  
+  {
+    "id": "yuju-peach-blossom",
+    "title": "Peach Blossom",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-peach-blossom.json"
   },
   {
     "id": "yuju-im_in_the_mood_for_dancing",

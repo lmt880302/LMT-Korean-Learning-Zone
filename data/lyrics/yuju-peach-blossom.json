@@ -1,0 +1,386 @@
+{
+  "id": "yuju-peach-blossom",
+  "title": "Peach Blossom",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "사랑이란 게 묘해요",
+      "translation": "所謂愛情很奇妙",
+      "analysis": [
+        { "point": "사랑이란 게", "explanation": "사랑 (愛情) + -이란 (所謂的) + 것 (東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "묘해요", "explanation": "묘하다 (奇妙的) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "마치 자라나는 나뭇가지같이",
+      "translation": "就像生長的樹枝一樣",
+      "analysis": [
+        { "point": "마치", "explanation": "副詞，就像。" },
+        { "point": "자라나는", "explanation": "자라나다 (生長) 的現在定語形。" },
+        { "point": "나뭇가지같이", "explanation": "나뭇가지 (樹枝) + -같이 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "언제 어디로 뻗어나가",
+      "translation": "何時向何處延伸出去",
+      "analysis": [
+        { "point": "언제", "explanation": "副詞，何時。" },
+        { "point": "어디로", "explanation": "어디 (哪裡) + -(으)로 (向)。" },
+        { "point": "뻗어나가", "explanation": "뻗어나가다 (延伸出去) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어느 타이밍에 꽃을 피울지 몰라요",
+      "translation": "不知道會在什麼時機開花",
+      "analysis": [
+        { "point": "어느", "explanation": "冠詞，某個。" },
+        { "point": "타이밍에", "explanation": "타이밍 (時機) + -에 (時間助詞)。" },
+        { "point": "꽃을", "explanation": "꽃 (花) + -을 (受格助詞)。" },
+        { "point": "피울지", "explanation": "피우다 (綻放) 的未來疑問形。" },
+        { "point": "몰라요", "explanation": "모르다 (不知道) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "나에겐 네가 그래요",
+      "translation": "對我來說你就是那樣",
+      "analysis": [
+        { "point": "나에겐", "explanation": "나 (我) + -에게는 (對我來說) 的縮略。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "그래요", "explanation": "그렇다 (那樣) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "물을 주지 않아도 마구 자라나",
+      "translation": "即使不澆水也肆意生長",
+      "analysis": [
+        { "point": "물을", "explanation": "물 (水) + -을 (受格助詞)。" },
+        { "point": "주지 않아도", "explanation": "주다 (給) + -지 않다 (不) + -아/어도 (即使...也)。" },
+        { "point": "마구", "explanation": "副詞，肆意地、胡亂地。" },
+        { "point": "자라나", "explanation": "자라나다 (生長) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "손이 닿지 않는 곳에",
+      "translation": "在手觸及不到的地方",
+      "analysis": [
+        { "point": "손이", "explanation": "손 (手) + -이 (主格助詞)。" },
+        { "point": "닿지 않는", "explanation": "닿다 (觸及) + -지 않다 (不) 的定語形。" },
+        { "point": "곳에", "explanation": "곳 (地方) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "요상하고 예쁜 꽃을 피워요",
+      "translation": "綻放出奇特又漂亮的花",
+      "analysis": [
+        { "point": "요상하고", "explanation": "요상하다 (奇特的) + -고 (和)。" },
+        { "point": "예쁜", "explanation": "예쁘다 (漂亮的) 的定語形。" },
+        { "point": "꽃을", "explanation": "꽃 (花) + -을 (受格助詞)。" },
+        { "point": "피워요", "explanation": "피우다 (綻放) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내가 어찌할 수가 없네요",
+      "translation": "我無可奈何",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "어찌할 수가 없네요", "explanation": "어찌하다 (怎麼辦) + -(으)ㄹ 수 없다 (無法) + -가 (強調) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "손을 뻗어 꺾을 수도",
+      "translation": "伸出手折斷也不行",
+      "analysis": [
+        { "point": "손을", "explanation": "손 (手) + -을 (受格助詞)。" },
+        { "point": "뻗어", "explanation": "뻗다 (伸) 的非格式體。" },
+        { "point": "꺾을 수도", "explanation": "꺾다 (折斷) + -(으)ㄹ 수 (方法) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "내 힘으론 자를 수 없어요",
+      "translation": "以我的力量無法剪斷",
+      "analysis": [
+        { "point": "내 힘으론", "explanation": "내 (我的) + 힘 (力量) + -(으)로는 (以) 的縮略。" },
+        { "point": "자를 수 없어요", "explanation": "자르다 (剪斷) + -(으)ㄹ 수 없다 (無法) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "몰래 향기만 맡아보곤 해요",
+      "translation": "只是偷偷地聞著香氣",
+      "analysis": [
+        { "point": "몰래", "explanation": "副詞，偷偷地。" },
+        { "point": "향기만", "explanation": "향기 (香氣) + -만 (只)。" },
+        { "point": "맡아보곤 해요", "explanation": "맡다 (聞) + -아/어 보다 (嘗試) + -곤 하다 (經常做) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "몰래 향기만",
+      "translation": "偷偷地 只聞香氣",
+      "analysis": [
+        { "point": "몰래 향기만", "explanation": "몰래 (偷偷地) + 향기 (香氣) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "몰래 향기만",
+      "translation": "偷偷地 只聞香氣",
+      "analysis": [
+        { "point": "몰래 향기만", "explanation": "몰래 (偷偷地) + 향기 (香氣) + -만 (只)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "기억이 추억이 되기 전",
+      "translation": "在記憶成為回憶之前",
+      "analysis": [
+        { "point": "기억이", "explanation": "기억 (記憶) + -이 (主格助詞)。" },
+        { "point": "추억이", "explanation": "추억 (回憶) + -이 (主格助詞)。" },
+        { "point": "되기 전", "explanation": "되다 (成為) 的名詞形 + 전 (之前)。" }
+      ]
+    },
+    {
+      "korean": "향기를 담아놨지",
+      "translation": "把香氣裝起來了",
+      "analysis": [
+        { "point": "향기를", "explanation": "향기 (香氣) + -를 (受格助詞)。" },
+        { "point": "담아놨지", "explanation": "담다 (裝) + -아/어 놓다 (完成並保持) 的過去形 + -지 (回想語尾)。" }
+      ]
+    },
+    {
+      "korean": "향수로 만들어",
+      "translation": "做成香水",
+      "analysis": [
+        { "point": "향수로", "explanation": "향수 (香水) + -(으)로 (成為)。" },
+        { "point": "만들어", "explanation": "만들다 (製作) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "유리병 속 그댄 남아있지",
+      "translation": "在玻璃瓶裡 你仍然存在",
+      "analysis": [
+        { "point": "유리병 속", "explanation": "유리병 (玻璃瓶) + 속 (裡面)。" },
+        { "point": "그댄", "explanation": "그대 (你) + -는 (主題助詞) 的縮略。" },
+        { "point": "남아있지", "explanation": "남아 있다 (仍然存在) 的非格式體 + -지 (語尾)。" }
+      ]
+    },
+    {
+      "korean": "덟번 접어놓은 나의 마음을",
+      "translation": "折疊了八次的我心",
+      "analysis": [
+        { "point": "덟번", "explanation": "여덟 번 (八次) 的縮略。" },
+        { "point": "접어놓은", "explanation": "접다 (折疊) + -아/어 놓다 (完成並保持) 的過去定語形。" },
+        { "point": "나의 마음을", "explanation": "나의 (我的) + 마음 (心) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너도 네가 모르게 펴놨잖아",
+      "translation": "你也 在你不知不覺中展開了不是嗎",
+      "analysis": [
+        { "point": "너도", "explanation": "你 + -도 (也)。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "모르게", "explanation": "모르다 (不知道) + -게 (使得)，意為「不知不覺地」。" },
+        { "point": "펴놨잖아", "explanation": "펴놓다 (展開並保持) 的過去形 + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "그 속에 씨앗은 나무가 되어",
+      "translation": "在那裡面的種子成為樹",
+      "analysis": [
+        { "point": "그 속에", "explanation": "그 (那) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "씨앗은", "explanation": "씨앗 (種子) + -은 (主題助詞)。" },
+        { "point": "나무가 되어", "explanation": "나무 (樹) + -가 (主格助詞) + 되다 (成為) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "요상한 꽃 하나 피어났잖아",
+      "translation": "綻放了一朵奇特的花不是嗎",
+      "analysis": [
+        { "point": "요상한", "explanation": "요상하다 (奇特的) 的定語形。" },
+        { "point": "꽃 하나", "explanation": "꽃 (花) + 하나 (一個)。" },
+        { "point": "피어났잖아", "explanation": "피어나다 (綻放) 的過去形 + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "손을 뻗으면 닿을 듯 말 듯 한 꽃향기에",
+      "translation": "在伸出手彷彿要觸及又好像無法觸及的花香中",
+      "analysis": [
+        { "point": "손을 뻗으면", "explanation": "손 (手) + -을 (受格助詞) + 뻗다 (伸) + -(으)면 (如果)。" },
+        { "point": "닿을 듯 말 듯 한", "explanation": "닿다 (觸及) + -(으)ㄹ 듯 말 듯 하다 (好像要...又好像不...) 的定語形。" },
+        { "point": "꽃향기에", "explanation": "꽃향기 (花香) + -에 (場所/原因助詞)。" }
+      ]
+    },
+    {
+      "korean": "눈이 멀었나 너에게 쓰였지 난 콩깍지에",
+      "translation": "是眼瞎了嗎 被你迷住了 我被愛情遮住了眼",
+      "analysis": [
+        { "point": "눈이 멀었나", "explanation": "눈 (眼睛) + -이 (主格助詞) + 멀다 (瞎) 的過去形 + -나 (疑問)。" },
+        { "point": "너에게 쓰였지", "explanation": "너에게 (被你) + 쓰이다 (被使用、被迷住) 的過去形 + -지 (回想語尾)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "콩깍지에", "explanation": "콩깍지 (豆莢、愛情遮眼) 的慣用語，意為「被愛情蒙蔽雙眼」。" }
+      ]
+    },
+    {
+      "korean": "나뭇가지를 꺾어 꽃에 닿겠어",
+      "translation": "折斷樹枝 會觸碰到花",
+      "analysis": [
+        { "point": "나뭇가지를", "explanation": "나뭇가지 (樹枝) + -를 (受格助詞)。" },
+        { "point": "꺾어", "explanation": "꺾다 (折斷) 的非格式體。" },
+        { "point": "꽃에 닿겠어", "explanation": "꽃 (花) + -에 (場所助詞) + 닿다 (觸及) + -겠- (推測/意志) + -어 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "아프게 하더라도",
+      "translation": "即使會痛",
+      "analysis": [
+        { "point": "아프게", "explanation": "아프다 (痛的) 的副詞形。" },
+        { "point": "하더라도", "explanation": "하다 (做) + -더라도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "너의 향기는",
+      "translation": "你的香氣",
+      "analysis": [
+        { "point": "너의 향기는", "explanation": "너의 (你的) + 향기 (香氣) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "korean": "유리병에 꼭 담아 놓겠어",
+      "translation": "一定會裝在玻璃瓶裡",
+      "analysis": [
+        { "point": "유리병에", "explanation": "유리병 (玻璃瓶) + -에 (場所助詞)。" },
+        { "point": "꼭", "explanation": "副詞，一定。" },
+        { "point": "담아 놓겠어", "explanation": "담다 (裝) + -아/어 놓다 (完成並保持) + -겠- (意志) + -어 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내가 어찌할 수가 없네요",
+      "translation": "我無可奈何",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "어찌할 수가 없네요", "explanation": "어찌하다 (怎麼辦) + -(으)ㄹ 수 없다 (無法) + -가 (強調) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "손을 뻗어 꺾을 수도",
+      "translation": "伸出手折斷也不行",
+      "analysis": [
+        { "point": "손을", "explanation": "손 (手) + -을 (受格助詞)。" },
+        { "point": "뻗어", "explanation": "뻗다 (伸) 的非格式體。" },
+        { "point": "꺾을 수도", "explanation": "꺾다 (折斷) + -(으)ㄹ 수 (方法) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "내 힘으론 자를 수 없어요",
+      "translation": "以我的力量無法剪斷",
+      "analysis": [
+        { "point": "내 힘으론", "explanation": "내 (我的) + 힘 (力量) + -(으)로는 (以) 的縮略。" },
+        { "point": "자를 수 없어요", "explanation": "자르다 (剪斷) + -(으)ㄹ 수 없다 (無法) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "몰래 향기만 맡아보곤 해요",
+      "translation": "只是偷偷地聞著香氣",
+      "analysis": [
+        { "point": "몰래", "explanation": "副詞，偷偷地。" },
+        { "point": "향기만", "explanation": "향기 (香氣) + -만 (只)。" },
+        { "point": "맡아보곤 해요", "explanation": "맡다 (聞) + -아/어 보다 (嘗試) + -곤 하다 (經常做) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "나의 꽃이 되어줘요, baby",
+      "translation": "成為我的花吧 寶貝",
+      "analysis": [
+        { "point": "나의 꽃이", "explanation": "나의 (我的) + 꽃 (花) + -이 (主格助詞)。" },
+        { "point": "되어줘요", "explanation": "되다 (成為) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "baby", "explanation": "英文，寶貝。" }
+      ]
+    },
+    {
+      "korean": "사정 없이 피어나요 그리",
+      "translation": "毫無顧忌地綻放吧 那樣",
+      "analysis": [
+        { "point": "사정 없이", "explanation": "사정 (情況、顧忌) + 없이 (沒有)，意為「毫無顧忌地」。" },
+        { "point": "피어나요", "explanation": "피어나다 (綻放) 的敬語請求形。" },
+        { "point": "그리", "explanation": "副詞，那樣。" }
+      ]
+    },
+    {
+      "korean": "나의 꽃이 되어줘요, baby",
+      "translation": "成為我的花吧 寶貝",
+      "analysis": [
+        { "point": "나의 꽃이", "explanation": "나의 (我的) + 꽃 (花) + -이 (主格助詞)。" },
+        { "point": "되어줘요", "explanation": "되다 (成為) + -아/어 주다 (為我) 的敬語請求形。" },
+        { "point": "baby", "explanation": "英文，寶貝。" }
+      ]
+    },
+    {
+      "korean": "내일 없이 피워봐요 우리",
+      "translation": "沒有明天地綻放吧 我們",
+      "analysis": [
+        { "point": "내일 없이", "explanation": "내일 (明天) + 없이 (沒有)。" },
+        { "point": "피워봐요", "explanation": "피우다 (綻放) + -아/어 보다 (嘗試) 的敬語請求形。" },
+        { "point": "우리", "explanation": "我們。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "묘하다", "chinese": "奇妙的", "pos": "形容詞" },
+    { "korean": "마치", "chinese": "就像", "pos": "副詞" },
+    { "korean": "자라나다", "chinese": "生長", "pos": "動詞" },
+    { "korean": "나뭇가지", "chinese": "樹枝", "pos": "名詞" },
+    { "korean": "언제", "chinese": "何時", "pos": "副詞" },
+    { "korean": "어디", "chinese": "哪裡", "pos": "代名詞" },
+    { "korean": "뻗어나가다", "chinese": "延伸出去", "pos": "動詞" },
+    { "korean": "타이밍", "chinese": "時機", "pos": "名詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "피우다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "물", "chinese": "水", "pos": "名詞" },
+    { "korean": "주다", "chinese": "給", "pos": "動詞" },
+    { "korean": "마구", "chinese": "肆意地、胡亂地", "pos": "副詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "요상하다", "chinese": "奇特的", "pos": "形容詞" },
+    { "korean": "예쁘다", "chinese": "漂亮的", "pos": "形容詞" },
+    { "korean": "어찌하다", "chinese": "怎麼辦", "pos": "動詞" },
+    { "korean": "뻗다", "chinese": "伸", "pos": "動詞" },
+    { "korean": "꺾다", "chinese": "折斷", "pos": "動詞" },
+    { "korean": "힘", "chinese": "力量", "pos": "名詞" },
+    { "korean": "자르다", "chinese": "剪斷", "pos": "動詞" },
+    { "korean": "몰래", "chinese": "偷偷地", "pos": "副詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "맡다", "chinese": "聞", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "전", "chinese": "之前", "pos": "名詞" },
+    { "korean": "담다", "chinese": "裝", "pos": "動詞" },
+    { "korean": "향수", "chinese": "香水", "pos": "名詞" },
+    { "korean": "만들다", "chinese": "製作", "pos": "動詞" },
+    { "korean": "유리병", "chinese": "玻璃瓶", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "남아 있다", "chinese": "仍然存在", "pos": "片語" },
+    { "korean": "여덟 번", "chinese": "八次", "pos": "片語" },
+    { "korean": "접다", "chinese": "折疊", "pos": "動詞" },
+    { "korean": "펴놓다", "chinese": "展開並保持", "pos": "動詞" },
+    { "korean": "씨앗", "chinese": "種子", "pos": "名詞" },
+    { "korean": "나무", "chinese": "樹", "pos": "名詞" },
+    { "korean": "하나", "chinese": "一個", "pos": "數詞" },
+    { "korean": "피어나다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "꽃향기", "chinese": "花香", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "멀다", "chinese": "瞎", "pos": "動詞" },
+    { "korean": "쓰이다", "chinese": "被使用、被迷住", "pos": "動詞" },
+    { "korean": "콩깍지", "chinese": "豆莢、愛情遮眼", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛的", "pos": "形容詞" },
+    { "korean": "사정", "chinese": "情況、顧忌", "pos": "名詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" }
+  ]
+}
