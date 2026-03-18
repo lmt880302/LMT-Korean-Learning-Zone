@@ -167,10 +167,10 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Rough.json"
   },
   {
-    "id": "GFRIEND-Navillera",
-    "title": "Navillera (너 그리고 나)",
+    "id": "GFRIEND-NAVILLERA",
+    "title": "NAVILLERA (너 그리고 나)",
     "artist": "GFRIEND (여자친구)",
-    "lyricsFile": "../data/lyrics/GFRIEND-Navillera.json"
+    "lyricsFile": "../data/lyrics/GFRIEND-NAVILLERA.json"
   },
   {
     "id": "GFRIEND-LOVE WHISPER",
