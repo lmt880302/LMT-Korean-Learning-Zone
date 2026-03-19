@@ -1,0 +1,451 @@
+
+
+
+    {
+  "id": "GFRIEND-Mermaid",
+  "title": "Mermaid",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "바다 위 보석 같은 여름 달빛",
+      "translation": "海面上如寶石般的夏日月光",
+      "analysis": [
+        { "point": "바다 위", "explanation": "바다 (海) + 위 (上面)，意為「海面上」。" },
+        { "point": "보석 같은", "explanation": "보석 (寶石) + 같다 (像) 的定語形，意為「如寶石般的」。" },
+        { "point": "여름 달빛", "explanation": "여름 (夏天) + 달빛 (月光)，意為「夏日月光」。" }
+      ]
+    },
+    {
+      "korean": "그렇게 빛나는 너를 처음 봤어요",
+      "translation": "第一次看見如此閃耀的你",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地、如此地。" },
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的現在定語形。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "처음", "explanation": "副詞，第一次。" },
+        { "point": "봤어요", "explanation": "보다 (看) 的過去敬語形。" }
+      ]
+    },
+    {
+      "korean": "우리가 사랑할 수 없다고 해도",
+      "translation": "即使說我們無法相愛",
+      "analysis": [
+        { "point": "우리가", "explanation": "우리 (我們) + -가 (主格助詞)。" },
+        { "point": "사랑할 수 없다고", "explanation": "사랑하다 (愛) + -(으)ㄹ 수 없다 (無法) + -다고 (引用)。" },
+        { "point": "해도", "explanation": "하다 (說) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "그저 바라볼 뿐인 맘이래도",
+      "translation": "即使是只能注視的心意",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "바라볼 뿐인", "explanation": "바라보다 (注視) + -(으)ㄹ 뿐 (只是) + -인 (的)。" },
+        { "point": "맘이래도", "explanation": "마음 (心) 的縮略 + -이라도 (即使是)。" }
+      ]
+    },
+    {
+      "korean": "너를 향해 걷는 이 길이",
+      "translation": "向著你走的這條路",
+      "analysis": [
+        { "point": "너를 향해", "explanation": "너 (你) + -를 (受格助詞) + 향하다 (向著) 的非格式體。" },
+        { "point": "걷는", "explanation": "걷다 (走) 的現在定語形。" },
+        { "point": "이 길이", "explanation": "이 (這) + 길 (路) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "많이 아픈 걸음이 나를 몰라준대도",
+      "translation": "即使非常痛苦的步伐不理會我",
+      "analysis": [
+        { "point": "많이", "explanation": "副詞，多地。" },
+        { "point": "아픈", "explanation": "아프다 (痛的) 的定語形。" },
+        { "point": "걸음이", "explanation": "걸음 (腳步) + -이 (主格助詞)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "몰라준대도", "explanation": "모르다 (不知道、不理會) + -아/어 주다 (為) + -ㄴ대도 (即使說)。" }
+      ]
+    },
+    {
+      "korean": "(곁에 있고 싶어)",
+      "translation": "(想留在你身邊)",
+      "analysis": [
+        { "point": "곁에", "explanation": "곁 (身邊) + -에 (場所助詞)。" },
+        { "point": "있고 싶어", "explanation": "있다 (在) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "다가 가지도 못해서 아무 말하지 못해서",
+      "translation": "無法靠近 也無法說任何話",
+      "analysis": [
+        { "point": "다가 가지도 못해서", "explanation": "다가가다 (靠近) + -지도 못하다 (也無法) + -아/어서 (因為)。" },
+        { "point": "아무 말하지 못해서", "explanation": "아무 (任何) + 말하다 (說) + -지 못하다 (無法) + -아/어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 물거품처럼 사라져도",
+      "translation": "即使我的心如泡沫般消失",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "물거품처럼", "explanation": "물거품 (泡沫) + -처럼 (像...一樣)。" },
+        { "point": "사라져도", "explanation": "사라지다 (消失) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "오 바다야 바다야 나를 기억해줄래",
+      "translation": "哦 大海啊 大海啊 你會記得我嗎",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "바다야", "explanation": "바다 (大海) + -야 (呼格)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "기억해줄래", "explanation": "기억하다 (記憶) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/意志)。" }
+      ]
+    },
+    {
+      "korean": "하고 싶었던 많은 얘기들 들어주겠니",
+      "translation": "會聽我想說的許多故事嗎",
+      "analysis": [
+        { "point": "하고 싶었던", "explanation": "하다 (做、說) + -고 싶다 (想要) 的過去回想着定語形。" },
+        { "point": "많은 얘기들", "explanation": "많다 (多的) 的定語形 + 얘기 (故事) + -들 (複數)。" },
+        { "point": "들어주겠니", "explanation": "들어주다 (聽) + -겠- (推測/意志) + -니 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "오 바람아 바람아 그가 내 소식 물어본대도",
+      "translation": "哦 風啊 風啊 即使他問起我的消息",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "바람아", "explanation": "바람 (風) + -아 (呼格)。" },
+        { "point": "그가", "explanation": "그 (他) + -가 (主格助詞)。" },
+        { "point": "내 소식", "explanation": "내 (我的) + 소식 (消息)。" },
+        { "point": "물어본대도", "explanation": "물어보다 (問) + -ㄴ대도 (即使說)。" }
+      ]
+    },
+    {
+      "korean": "처음 사랑에 빠졌던 그 날",
+      "translation": "第一次墜入愛河的那天",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，第一次。" },
+        { "point": "사랑에 빠졌던", "explanation": "사랑 (愛情) + -에 (對) + 빠지다 (陷入) 的過去回想着定語形。" },
+        { "point": "그 날", "explanation": "그 (那) + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그게 나란 거 비밀이야",
+      "translation": "那就是我 這是秘密",
+      "analysis": [
+        { "point": "그게", "explanation": "그것이 (那個) 的縮略。" },
+        { "point": "나란 거", "explanation": "나 (我) + -란 (叫做) + 것 (事情) 的縮略。" },
+        { "point": "비밀이야", "explanation": "비밀 (秘密) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "한마디 말 못해도 느껴지길",
+      "translation": "希望即使一句話都不說也能感受到",
+      "analysis": [
+        { "point": "한마디", "explanation": "一句話。" },
+        { "point": "말 못해도", "explanation": "말 (話) + 못하다 (不能) + -아/어도 (即使)。" },
+        { "point": "느껴지길", "explanation": "느껴지다 (被感受到) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "슬픈 네 눈물 닦는 그녀 나이길",
+      "translation": "希望擦拭你悲傷眼淚的那個女人是我",
+      "analysis": [
+        { "point": "슬픈", "explanation": "슬프다 (悲傷的) 的定語形。" },
+        { "point": "네 눈물", "explanation": "네 (你的) + 눈물 (眼淚)。" },
+        { "point": "닦는", "explanation": "닦다 (擦拭) 的現在定語形。" },
+        { "point": "그녀", "explanation": "她。" },
+        { "point": "나이길", "explanation": "나 (我) + -이길 (希望是)。" }
+      ]
+    },
+    {
+      "korean": "바람에 녹아 내린 나의 손길이",
+      "translation": "在風中融化飄落的我的手",
+      "analysis": [
+        { "point": "바람에", "explanation": "바람 (風) + -에 (被/因為)。" },
+        { "point": "녹아 내린", "explanation": "녹다 (融化) + -아/어 내리다 (下來) 的過去定語形。" },
+        { "point": "나의 손길이", "explanation": "나의 (我的) + 손길 (手、手的觸摸) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "제발 너에게 닿을 수 있다면",
+      "translation": "拜託 如果能觸及到你的話",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託。" },
+        { "point": "너에게", "explanation": "너 (你) + -에게 (向)。" },
+        { "point": "닿을 수 있다면", "explanation": "닿다 (觸及) + -(으)ㄹ 수 있다 (能夠) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "한번 나를 보고 웃어줘",
+      "translation": "看我一次 對我微笑吧",
+      "analysis": [
+        { "point": "한번", "explanation": "一次。" },
+        { "point": "나를 보고", "explanation": "나 (我) + -를 (受格助詞) + 보다 (看) + -고 (連接詞尾)。" },
+        { "point": "웃어줘", "explanation": "웃다 (笑) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "날 사랑한다 해줘 다신 볼 수 없는데",
+      "translation": "說你愛我 因為再也見不到了",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "사랑한다 해줘", "explanation": "사랑하다 (愛) + -다고 (引用) + 하다 (說) + -아/어 주다 (為我) 的請求形。" },
+        { "point": "다신", "explanation": "다시는 (再也) 的縮略。" },
+        { "point": "볼 수 없는데", "explanation": "보다 (看) + -(으)ㄹ 수 없다 (無法) + -는데 (因為)。" }
+      ]
+    },
+    {
+      "korean": "(나를 잊지 마요)",
+      "translation": "(不要忘記我)",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "잊지 마요", "explanation": "잊다 (忘記) + -지 말다 (不要) 的敬語形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "다가 가지도 못해서 아무 말하지 못해서",
+      "translation": "無法靠近 也無法說任何話",
+      "analysis": [
+        { "point": "다가 가지도 못해서", "explanation": "다가가다 (靠近) + -지도 못하다 (也無法) + -아/어서 (因為)。" },
+        { "point": "아무 말하지 못해서", "explanation": "아무 (任何) + 말하다 (說) + -지 못하다 (無法) + -아/어서 (因為)。" }
+      ]
+    },
+    {
+      "korean": "내 맘 물거품처럼 사라져도",
+      "translation": "即使我的心如泡沫般消失",
+      "analysis": [
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "물거품처럼", "explanation": "물거품 (泡沫) + -처럼 (像...一樣)。" },
+        { "point": "사라져도", "explanation": "사라지다 (消失) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "오 바다야 바다야 나를 기억해줄래",
+      "translation": "哦 大海啊 大海啊 你會記得我嗎",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "바다야", "explanation": "바다 (大海) + -야 (呼格)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "기억해줄래", "explanation": "기억하다 (記憶) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/意志)。" }
+      ]
+    },
+    {
+      "korean": "하고 싶었던 많은 얘기들 들어주겠니",
+      "translation": "會聽我想說的許多故事嗎",
+      "analysis": [
+        { "point": "하고 싶었던", "explanation": "하다 (做、說) + -고 싶다 (想要) 的過去回想着定語形。" },
+        { "point": "많은 얘기들", "explanation": "많다 (多的) 的定語形 + 얘기 (故事) + -들 (複數)。" },
+        { "point": "들어주겠니", "explanation": "들어주다 (聽) + -겠- (推測/意志) + -니 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "오 바람아 바람아 그가 내 소식 물어본대도",
+      "translation": "哦 風啊 風啊 即使他問起我的消息",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "바람아", "explanation": "바람 (風) + -아 (呼格)。" },
+        { "point": "그가", "explanation": "그 (他) + -가 (主格助詞)。" },
+        { "point": "내 소식", "explanation": "내 (我的) + 소식 (消息)。" },
+        { "point": "물어본대도", "explanation": "물어보다 (問) + -ㄴ대도 (即使說)。" }
+      ]
+    },
+    {
+      "korean": "처음 사랑에 빠졌던 그 날",
+      "translation": "第一次墜入愛河的那天",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，第一次。" },
+        { "point": "사랑에 빠졌던", "explanation": "사랑 (愛情) + -에 (對) + 빠지다 (陷入) 的過去回想着定語形。" },
+        { "point": "그 날", "explanation": "그 (那) + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그게 나란 거 비밀이야",
+      "translation": "那就是我 這是秘密",
+      "analysis": [
+        { "point": "그게", "explanation": "그것이 (那個) 的縮略。" },
+        { "point": "나란 거", "explanation": "나 (我) + -란 (叫做) + 것 (事情) 的縮略。" },
+        { "point": "비밀이야", "explanation": "비밀 (秘密) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "날 안아줄래 이 어둠 속에",
+      "translation": "會擁抱我嗎 在這黑暗中",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "안아줄래", "explanation": "안다 (擁抱) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問)。" },
+        { "point": "이 어둠 속에", "explanation": "이 (這) + 어둠 (黑暗) + 속 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "나를 혼자 두지마",
+      "translation": "不要讓我獨自一人",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "두지마", "explanation": "두다 (放、置) + -지 말다 (不要)。" }
+      ]
+    },
+    {
+      "korean": "어젯밤 꿈 속에 네가 내게 다가와",
+      "translation": "昨晚在夢中 你向我走來",
+      "analysis": [
+        { "point": "어젯밤", "explanation": "昨晚。" },
+        { "point": "꿈 속에", "explanation": "꿈 (夢) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "사실 날 사랑했었다고",
+      "translation": "說其實愛過我",
+      "analysis": [
+        { "point": "사실", "explanation": "名詞/副詞，事實/其實。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "사랑했었다고", "explanation": "사랑하다 (愛) 的過去回想形 + -고 (引用)。" }
+      ]
+    },
+    {
+      "korean": "그렇게 말했어",
+      "translation": "那樣說了",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "말했어", "explanation": "말하다 (說) 的過去非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "오 바람아 바람아 그가 내 소식 물어본대도",
+      "translation": "哦 風啊 風啊 即使他問起我的消息",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "바람아", "explanation": "바람 (風) + -아 (呼格)。" },
+        { "point": "그가", "explanation": "그 (他) + -가 (主格助詞)。" },
+        { "point": "내 소식", "explanation": "내 (我的) + 소식 (消息)。" },
+        { "point": "물어본대도", "explanation": "물어보다 (問) + -ㄴ대도 (即使說)。" }
+      ]
+    },
+    {
+      "korean": "처음 사랑에 빠졌던 그 날",
+      "translation": "第一次墜入愛河的那天",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，第一次。" },
+        { "point": "사랑에 빠졌던", "explanation": "사랑 (愛情) + -에 (對) + 빠지다 (陷入) 的過去回想着定語形。" },
+        { "point": "그 날", "explanation": "그 (那) + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그게 나란 거 비밀이야",
+      "translation": "那就是我 這是秘密",
+      "analysis": [
+        { "point": "그게", "explanation": "그것이 (那個) 的縮略。" },
+        { "point": "나란 거", "explanation": "나 (我) + -란 (叫做) + 것 (事情) 的縮略。" },
+        { "point": "비밀이야", "explanation": "비밀 (秘密) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "랄라랄라 라랄라 oh baby",
+      "translation": "啦啦啦啦 啦啦啦 哦寶貝",
+      "analysis": [
+        { "point": "랄라랄라 라랄라", "explanation": "擬聲詞，啦啦啦。" },
+        { "point": "oh baby", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "랄라랄라 라랄라 랄라랄라 라랄라",
+      "translation": "啦啦啦啦 啦啦啦 啦啦啦啦 啦啦啦",
+      "analysis": [
+        { "point": "랄라랄라 라랄라 랄라랄라 라랄라", "explanation": "擬聲詞，啦啦啦。" }
+      ]
+    },
+    {
+      "korean": "처음 사랑에 빠졌던 그 날",
+      "translation": "第一次墜入愛河的那天",
+      "analysis": [
+        { "point": "처음", "explanation": "副詞，第一次。" },
+        { "point": "사랑에 빠졌던", "explanation": "사랑 (愛情) + -에 (對) + 빠지다 (陷入) 的過去回想着定語形。" },
+        { "point": "그 날", "explanation": "그 (那) + 날 (日子)。" }
+      ]
+    },
+    {
+      "korean": "그날을 꿈꾸며 잠들래",
+      "translation": "想夢著那天入睡",
+      "analysis": [
+        { "point": "그날을", "explanation": "그날 (那天) + -을 (受格助詞)。" },
+        { "point": "꿈꾸며", "explanation": "꿈꾸다 (做夢) + -며 (同時)。" },
+        { "point": "잠들래", "explanation": "잠들다 (入睡) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "바다", "chinese": "海", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "보석", "chinese": "寶石", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "여름", "chinese": "夏天", "pos": "名詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "그렇게", "chinese": "那樣地", "pos": "副詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "처음", "chinese": "第一次", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是", "pos": "副詞" },
+    { "korean": "바라보다", "chinese": "注視", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "향하다", "chinese": "向著", "pos": "動詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "많이", "chinese": "多地", "pos": "副詞" },
+    { "korean": "아프다", "chinese": "痛的", "pos": "形容詞" },
+    { "korean": "걸음", "chinese": "腳步", "pos": "名詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "있다", "chinese": "在", "pos": "動詞" },
+    { "korean": "다가가다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "아무", "chinese": "任何", "pos": "冠詞" },
+    { "korean": "물거품", "chinese": "泡沫", "pos": "名詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "기억하다", "chinese": "記憶", "pos": "動詞" },
+    { "korean": "얘기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "들어주다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "소식", "chinese": "消息", "pos": "名詞" },
+    { "korean": "물어보다", "chinese": "問", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "비밀", "chinese": "秘密", "pos": "名詞" },
+    { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" },
+    { "korean": "슬프다", "chinese": "悲傷的", "pos": "形容詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "닦다", "chinese": "擦拭", "pos": "動詞" },
+    { "korean": "그녀", "chinese": "她", "pos": "代名詞" },
+    { "korean": "녹다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "내리다", "chinese": "下來", "pos": "動詞" },
+    { "korean": "손길", "chinese": "手、手的觸摸", "pos": "名詞" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "한번", "chinese": "一次", "pos": "副詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "다신", "chinese": "再也", "pos": "副詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "두다", "chinese": "放、置", "pos": "動詞" },
+    { "korean": "어젯밤", "chinese": "昨晚", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "사실", "chinese": "事實、其實", "pos": "名詞" },
+    { "korean": "꿈꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" }
+  ]
+}

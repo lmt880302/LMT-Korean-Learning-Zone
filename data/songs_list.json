@@ -139,7 +139,12 @@
   },   
   
 
-
+  {
+    "id": "GFRIEND-Mermaid",
+    "title": "Mermaid",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Mermaid.json"
+  },
 
   {
     "id": "GFRIEND-FINGERTIP",
