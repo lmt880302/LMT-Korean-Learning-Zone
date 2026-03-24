@@ -1,0 +1,398 @@
+{
+  "id": "GFRIEND-Summer Rain",
+  "title": "Summer Rain (여름비)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "누구에게나 한번쯤 쏟아지던 여름비처럼",
+      "translation": "就像對任何人來說都曾傾瀉過一次的夏天的雨",
+      "analysis": [
+        { "point": "누구에게나", "explanation": "누구 (誰) + -에게 (給/對) + -나 (無論)，表示「對任何人」。" },
+        { "point": "한번쯤", "explanation": "한번 (一次) + -쯤 (大約)。" },
+        { "point": "쏟아지던", "explanation": "쏟아지다 (傾瀉) 的過去冠詞形。" },
+        { "point": "여름비처럼", "explanation": "여름비 (夏雨) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "갑작스레 다가왔었던 사랑이 있겠죠",
+      "translation": "會有曾突然到來的愛情吧",
+      "analysis": [
+        { "point": "갑작스레", "explanation": "갑작스럽다 (突然的) 的副詞形。" },
+        { "point": "다가왔었던", "explanation": "다가오다 (靠近、到來) 的過去回想冠詞形。" },
+        { "point": "사랑이", "explanation": "사랑 (愛情) + -이 (主格助詞)。" },
+        { "point": "있겠죠", "explanation": "있다 (有) + -겠- (推測) + -죠 (敬語疑問/感嘆)。" }
+      ]
+    },
+    {
+      "korean": "빗소리에 잠도 못 잘 만큼",
+      "translation": "連覺都睡不著的程度 因為雨聲",
+      "analysis": [
+        { "point": "빗소리에", "explanation": "빗소리 (雨聲) + -에 (原因/場所助詞)。" },
+        { "point": "잠도 못 잘", "explanation": "잠 (睡眠) + -도 (也) + 못 (不能) + 자다 (睡) 的冠詞形。" },
+        { "point": "만큼", "explanation": "依存名詞，表示程度。" }
+      ]
+    },
+    {
+      "korean": "그땐 니가 내겐 그랬죠",
+      "translation": "那時你對我來說就是那樣",
+      "analysis": [
+        { "point": "그땐", "explanation": "그때 (那時) + -는 (強調) 的縮略。" },
+        { "point": "니가", "explanation": "너 (你) + -가 (主格助詞) 的口語。" },
+        { "point": "내겐", "explanation": "나 (我) + -에게 (對) + -는 (強調) 的縮略。" },
+        { "point": "그랬죠", "explanation": "그러다 (那樣做) 的過去式 + -죠 (敬語感嘆/確認)。" }
+      ]
+    },
+    {
+      "korean": "흙내음을 머금은 나의 감정이",
+      "translation": "含著泥土氣息 我的感情",
+      "analysis": [
+        { "point": "흙내음을", "explanation": "흙내음 (泥土氣息) + -을 (受格助詞)。" },
+        { "point": "머금은", "explanation": "머금다 (含著) 的冠詞形。" },
+        { "point": "나의 감정이", "explanation": "나의 (我的) + 감정 (感情) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "쏟아내듯이 떨려오네요",
+      "translation": "像要傾瀉而出般顫抖而來",
+      "analysis": [
+        { "point": "쏟아내듯이", "explanation": "쏟아내다 (傾瀉而出) + -듯이 (就像...一樣)。" },
+        { "point": "떨려오네요", "explanation": "떨리다 (顫抖) + -아/어 오다 (來，表示狀態的持續) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "자그마한 우산을 나누려고",
+      "translation": "為了分享小小的雨傘",
+      "analysis": [
+        { "point": "자그마한", "explanation": "자그마하다 (小小的) 的冠詞形。" },
+        { "point": "우산을", "explanation": "우산 (雨傘) + -을 (受格助詞)。" },
+        { "point": "나누려고", "explanation": "나누다 (分享) + -려고 하다 (想要) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "다가오는가 봐 (두근대요)",
+      "translation": "看來是靠近了 (撲通撲通)",
+      "analysis": [
+        { "point": "다가오는가 봐", "explanation": "다가오다 (靠近) + -는가 보다 (看來是)。" },
+        { "point": "두근대요", "explanation": "두근대다 (怦怦跳) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "여름날의 기적일까요?",
+      "translation": "是夏日的奇蹟嗎？",
+      "analysis": [
+        { "point": "여름날의", "explanation": "여름날 (夏日) + -의 (的)。" },
+        { "point": "기적일까요", "explanation": "기적 (奇蹟) + -일까요 (疑問推測，會是...嗎)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "찬란하게 빛나던 시간이었다고",
+      "translation": "曾是燦爛發光的時光",
+      "analysis": [
+        { "point": "찬란하게", "explanation": "찬란하다 (燦爛的) + -게 (副詞形語尾)。" },
+        { "point": "빛나던", "explanation": "빛나다 (發光) 的過去冠詞形。" },
+        { "point": "시간이었다고", "explanation": "시간 (時間) + -이었다 (是) 的過去式 + -고 (間接引語/陳述)。" }
+      ]
+    },
+    {
+      "korean": "맑은 여름비처럼 고마웠었다고",
+      "translation": "像晴朗的夏雨一樣 曾經感謝過",
+      "analysis": [
+        { "point": "맑은", "explanation": "맑다 (晴朗的) 的冠詞形。" },
+        { "point": "여름비처럼", "explanation": "여름비 (夏雨) + -처럼 (像...一樣)。" },
+        { "point": "고마웠었다고", "explanation": "고맙다 (感謝的) 的過去回想形 + -고 (間接引語/陳述)。" }
+      ]
+    },
+    {
+      "korean": "한줄기 빗물처럼 너무 아름다웠던",
+      "translation": "像一縷雨水一樣 曾經那麼美麗的",
+      "analysis": [
+        { "point": "한줄기", "explanation": "한 (一) + 줄기 (縷、股)。" },
+        { "point": "빗물처럼", "explanation": "빗물 (雨水) + -처럼 (像...一樣)。" },
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "아름다웠던", "explanation": "아름답다 (美麗的) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "투명한 우리들의 이야기",
+      "translation": "透明的我們的故事",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形。" },
+        { "point": "우리들의", "explanation": "우리 (我們) + -들 (複數) + -의 (的)。" },
+        { "point": "이야기", "explanation": "名詞，故事。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "미래는 알 수 없었죠 스쳐가는 여우비처럼",
+      "translation": "未來是無法知道的 像掠過的太陽雨",
+      "analysis": [
+        { "point": "미래는", "explanation": "미래 (未來) + -는 (主題助詞)。" },
+        { "point": "알 수 없었죠", "explanation": "알다 (知道) + -(으)ㄹ 수 없다 (無法) 的過去式 + -죠 (敬語感嘆)。" },
+        { "point": "스쳐가는", "explanation": "스치다 (掠過) + -아/어 가다 (逐漸) 的冠詞形。" },
+        { "point": "여우비처럼", "explanation": "여우비 (太陽雨) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "바람과는 다르게 자꾸만 엇갈렸었죠",
+      "translation": "與風不同 總是不斷錯過",
+      "analysis": [
+        { "point": "바람과는", "explanation": "바람 (風) + -과 (和) + -는 (強調)。" },
+        { "point": "다르게", "explanation": "다르다 (不同的) + -게 (副詞形語尾)。" },
+        { "point": "자꾸만", "explanation": "副詞，總是、不停地。" },
+        { "point": "엇갈렸었죠", "explanation": "엇갈리다 (交錯、錯過) 的過去回想形 + -죠 (敬語感嘆)。" }
+      ]
+    },
+    {
+      "korean": "비가 갠 뒤에 무지개처럼",
+      "translation": "像雨過天晴後的彩虹",
+      "analysis": [
+        { "point": "비가", "explanation": "비 (雨) + -가 (主格助詞)。" },
+        { "point": "갠 뒤에", "explanation": "개다 (放晴) 的冠詞形 + 뒤 (後) + -에 (時間助詞)。" },
+        { "point": "무지개처럼", "explanation": "무지개 (彩虹) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "잠시 머무르진 마요",
+      "translation": "請不要只停留片刻",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時、片刻。" },
+        { "point": "머무르진 마요", "explanation": "머무르다 (停留) + -지 말다 (不要) 的縮略 + -아요 (敬語)。" }
+      ]
+    },
+    {
+      "korean": "풀내음을 머금은 나의 감정이",
+      "translation": "含著草葉氣息 我的感情",
+      "analysis": [
+        { "point": "풀내음을", "explanation": "풀내음 (草葉氣息) + -을 (受格助詞)。" },
+        { "point": "머금은", "explanation": "머금다 (含著) 的冠詞形。" },
+        { "point": "나의 감정이", "explanation": "나의 (我的) + 감정 (感情) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "쏟아내듯이 젖어오네요",
+      "translation": "像要傾瀉而出般濕透而來",
+      "analysis": [
+        { "point": "쏟아내듯이", "explanation": "쏟아내다 (傾瀉而出) + -듯이 (就像...一樣)。" },
+        { "point": "젖어오네요", "explanation": "젖다 (濕) + -아/어 오다 (來，表示狀態的持續) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "밤하늘의 달마저",
+      "translation": "連夜空的月亮",
+      "analysis": [
+        { "point": "밤하늘의", "explanation": "밤하늘 (夜空) + -의 (的)。" },
+        { "point": "달마저", "explanation": "달 (月亮) + -마저 (連...也)。" }
+      ]
+    },
+    {
+      "korean": "가리워지는 교차점에서 (기다려요)",
+      "translation": "在變得被遮擋的交匯點 (等待著)",
+      "analysis": [
+        { "point": "가리워지는", "explanation": "가리워지다 (被遮擋) 的冠詞形。" },
+        { "point": "교차점에서", "explanation": "교차점 (交匯點) + -에서 (在)。" },
+        { "point": "기다려요", "explanation": "기다리다 (等待) 的非格式體敬語。" }
+      ]
+    },
+    {
+      "korean": "기적은 이루어질까요?",
+      "translation": "奇蹟會實現嗎？",
+      "analysis": [
+        { "point": "기적은", "explanation": "기적 (奇蹟) + -은 (主題助詞)。" },
+        { "point": "이루어질까요", "explanation": "이루어지다 (被實現) + -(으)ㄹ까요 (疑問推測)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "찬란하게 빛나던 시간이었다고",
+      "translation": "曾是燦爛發光的時光",
+      "analysis": [
+        { "point": "찬란하게", "explanation": "찬란하다 (燦爛的) + -게 (副詞形語尾)。" },
+        { "point": "빛나던", "explanation": "빛나다 (發光) 的過去冠詞形。" },
+        { "point": "시간이었다고", "explanation": "시간 (時間) + -이었다 (是) 的過去式 + -고 (間接引語/陳述)。" }
+      ]
+    },
+    {
+      "korean": "맑은 여름비처럼 고마웠었다고",
+      "translation": "像晴朗的夏雨一樣 曾經感謝過",
+      "analysis": [
+        { "point": "맑은", "explanation": "맑다 (晴朗的) 的冠詞形。" },
+        { "point": "여름비처럼", "explanation": "여름비 (夏雨) + -처럼 (像...一樣)。" },
+        { "point": "고마웠었다고", "explanation": "고맙다 (感謝的) 的過去回想形 + -고 (間接引語/陳述)。" }
+      ]
+    },
+    {
+      "korean": "한줄기 빗물처럼 너무 아름다웠던",
+      "translation": "像一縷雨水一樣 曾經那麼美麗的",
+      "analysis": [
+        { "point": "한줄기", "explanation": "한 (一) + 줄기 (縷、股)。" },
+        { "point": "빗물처럼", "explanation": "빗물 (雨水) + -처럼 (像...一樣)。" },
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "아름다웠던", "explanation": "아름답다 (美麗的) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "투명한 우리들의 이야기",
+      "translation": "透明的我們的故事",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形。" },
+        { "point": "우리들의", "explanation": "우리 (我們) + -들 (複數) + -의 (的)。" },
+        { "point": "이야기", "explanation": "名詞，故事。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "하늘에서 내린 눈물 같아 (기억할게)",
+      "translation": "像是從天而降的眼淚 (我會記得)",
+      "analysis": [
+        { "point": "하늘에서", "explanation": "하늘 (天空) + -에서 (從)。" },
+        { "point": "내린", "explanation": "내리다 (降下) 的冠詞形。" },
+        { "point": "눈물 같아", "explanation": "눈물 (眼淚) + 같다 (像) 的非格式體。" },
+        { "point": "기억할게", "explanation": "기억하다 (記憶) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "아지랑이 피어나듯이 설레었다고",
+      "translation": "像熱氣氤氳般 曾經心動過",
+      "analysis": [
+        { "point": "아지랑이", "explanation": "名詞，熱氣、陽炎。" },
+        { "point": "피어나듯이", "explanation": "피어나다 (升騰、綻放) + -듯이 (就像...一樣)。" },
+        { "point": "설레었다고", "explanation": "설레다 (心動) 的過去式 + -고 (間接引語/陳述)。" }
+      ]
+    },
+    {
+      "korean": "풀잎에 맺힌 이슬비처럼",
+      "translation": "像凝結在草葉上的細雨",
+      "analysis": [
+        { "point": "풀잎에", "explanation": "풀잎 (草葉) + -에 (場所助詞)。" },
+        { "point": "맺힌", "explanation": "맺히다 (凝結) 的冠詞形。" },
+        { "point": "이슬비처럼", "explanation": "이슬비 (細雨) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "기쁘고 때론 슬펐던 여름날의 추억",
+      "translation": "曾快樂 偶爾悲傷的夏日回憶",
+      "analysis": [
+        { "point": "기쁘고", "explanation": "기쁘다 (快樂的) + -고 (和)。" },
+        { "point": "때론", "explanation": "때로는 (偶爾) 的縮略。" },
+        { "point": "슬펐던", "explanation": "슬프다 (悲傷的) 的過去冠詞形。" },
+        { "point": "여름날의 추억", "explanation": "여름날 (夏日) + -의 (的) + 추억 (回憶)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "아름답게 빛나던 계절이 지나도",
+      "translation": "即使曾經美麗發光的季節過去",
+      "analysis": [
+        { "point": "아름답게", "explanation": "아름답다 (美麗的) + -게 (副詞形語尾)。" },
+        { "point": "빛나던", "explanation": "빛나다 (發光) 的過去冠詞形。" },
+        { "point": "계절이", "explanation": "계절 (季節) + -이 (主格助詞)。" },
+        { "point": "지나도", "explanation": "지나다 (過去) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "지금처럼 영원히 나를 적셔줄래",
+      "translation": "能像現在一樣永遠沾濕我嗎",
+      "analysis": [
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "적셔줄래", "explanation": "적시다 (沾濕) + -아/어 주다 (為我做) + -(으)ㄹ래 (詢問/請求意志)。" }
+      ]
+    },
+    {
+      "korean": "한줄기 빗물처럼 너무 아름다웠던",
+      "translation": "像一縷雨水一樣 曾經那麼美麗的",
+      "analysis": [
+        { "point": "한줄기", "explanation": "한 (一) + 줄기 (縷、股)。" },
+        { "point": "빗물처럼", "explanation": "빗물 (雨水) + -처럼 (像...一樣)。" },
+        { "point": "너무", "explanation": "副詞，太、非常。" },
+        { "point": "아름다웠던", "explanation": "아름답다 (美麗的) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "투명한 우리들의 이야기",
+      "translation": "透明的我們的故事",
+      "analysis": [
+        { "point": "투명한", "explanation": "투명하다 (透明的) 的冠詞形。" },
+        { "point": "우리들의", "explanation": "우리 (我們) + -들 (複數) + -의 (的)。" },
+        { "point": "이야기", "explanation": "名詞，故事。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "누구", "chinese": "誰", "pos": "代名詞" },
+    { "korean": "한번", "chinese": "一次", "pos": "名詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "여름비", "chinese": "夏雨", "pos": "名詞" },
+    { "korean": "갑작스레", "chinese": "突然地", "pos": "副詞" },
+    { "korean": "다가오다", "chinese": "靠近、到來", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "빗소리", "chinese": "雨聲", "pos": "名詞" },
+    { "korean": "잠", "chinese": "睡眠", "pos": "名詞" },
+    { "korean": "자다", "chinese": "睡", "pos": "動詞" },
+    { "korean": "그때", "chinese": "那時", "pos": "名詞" },
+    { "korean": "흙내음", "chinese": "泥土氣息", "pos": "名詞" },
+    { "korean": "머금다", "chinese": "含著", "pos": "動詞" },
+    { "korean": "감정", "chinese": "感情", "pos": "名詞" },
+    { "korean": "쏟아내다", "chinese": "傾瀉而出", "pos": "動詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "자그마하다", "chinese": "小小的", "pos": "形容詞" },
+    { "korean": "우산", "chinese": "雨傘", "pos": "名詞" },
+    { "korean": "나누다", "chinese": "分享", "pos": "動詞" },
+    { "korean": "두근대다", "chinese": "怦怦跳", "pos": "動詞" },
+    { "korean": "여름날", "chinese": "夏日", "pos": "名詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "찬란하다", "chinese": "燦爛的", "pos": "形容詞" },
+    { "korean": "빛나다", "chinese": "發光", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "맑다", "chinese": "晴朗的", "pos": "形容詞" },
+    { "korean": "고맙다", "chinese": "感謝的", "pos": "形容詞" },
+    { "korean": "한줄기", "chinese": "一縷", "pos": "名詞" },
+    { "korean": "빗물", "chinese": "雨水", "pos": "名詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "투명하다", "chinese": "透明的", "pos": "形容詞" },
+    { "korean": "이야기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "여우비", "chinese": "太陽雨", "pos": "名詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "자꾸만", "chinese": "總是", "pos": "副詞" },
+    { "korean": "엇갈리다", "chinese": "交錯、錯過", "pos": "動詞" },
+    { "korean": "비", "chinese": "雨", "pos": "名詞" },
+    { "korean": "개다", "chinese": "放晴", "pos": "動詞" },
+    { "korean": "뒤", "chinese": "後面、之後", "pos": "名詞" },
+    { "korean": "무지개", "chinese": "彩虹", "pos": "名詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "머무르다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "풀내음", "chinese": "草葉氣息", "pos": "名詞" },
+    { "korean": "젖다", "chinese": "濕", "pos": "動詞" },
+    { "korean": "밤하늘", "chinese": "夜空", "pos": "名詞" },
+    { "korean": "달", "chinese": "月亮", "pos": "名詞" },
+    { "korean": "가리워지다", "chinese": "被遮擋", "pos": "動詞" },
+    { "korean": "교차점", "chinese": "交匯點", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "이루어지다", "chinese": "被實現", "pos": "動詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "내리다", "chinese": "降下", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "기억하다", "chinese": "記憶", "pos": "動詞" },
+    { "korean": "아지랑이", "chinese": "熱氣、陽炎", "pos": "名詞" },
+    { "korean": "피어나다", "chinese": "升騰、綻放", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "풀잎", "chinese": "草葉", "pos": "名詞" },
+    { "korean": "맺히다", "chinese": "凝結", "pos": "動詞" },
+    { "korean": "이슬비", "chinese": "細雨", "pos": "名詞" },
+    { "korean": "기쁘다", "chinese": "快樂的", "pos": "形容詞" },
+    { "korean": "때로는", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "슬프다", "chinese": "悲傷的", "pos": "形容詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "적시다", "chinese": "沾濕", "pos": "動詞" }
+  ]
+}

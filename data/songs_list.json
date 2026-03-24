@@ -196,6 +196,24 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Crossroads.json"
   },
   {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "GFRIEND-Summer Rain",
+    "title": "Summer Rain (여름비)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "GFRIEND-Memoria",
+    "title": "Memoria",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Memoria.json"
+  },
+  {
     "id": "GFRIEND-MAGO",
     "title": "MAGO",
     "artist": "GFRIEND (여자친구)",

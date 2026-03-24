@@ -1,0 +1,566 @@
+{
+  "id": "GFRIEND-Memoria",
+  "title": "Memoria",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "혼자 태양 아래 서 있었어",
+      "translation": "獨自站在太陽底下",
+      "analysis": [
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "태양 아래", "explanation": "태양 (太陽) + 아래 (下面)，意為「太陽底下」。" },
+        { "point": "서 있었어", "explanation": "서다 (站) + -아/어 있다 (持續狀態) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "눈을 감고 떠올려 봤어",
+      "translation": "閉上眼睛 試著回想",
+      "analysis": [
+        { "point": "눈을 감고", "explanation": "눈 (眼睛) + -을 (受格助詞) + 감다 (閉) + -고 (連接詞尾)。" },
+        { "point": "떠올려 봤어", "explanation": "떠올리다 (回想) + -아/어 보다 (嘗試) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "난 Always 느껴온 걸",
+      "translation": "我 一直以來感受到的",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "Always", "explanation": "英文，總是、一直。" },
+        { "point": "느껴온 걸", "explanation": "느끼다 (感受) + -아/어 오다 (持續) 的過去定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "따스함을 또 Come back to me",
+      "translation": "溫暖 再次 Come back to me",
+      "analysis": [
+        { "point": "따스함을", "explanation": "따스함 (溫暖) + -을 (受格助詞)。" },
+        { "point": "또", "explanation": "副詞，又、再次。" },
+        { "point": "Come back to me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "아무리 슬퍼해 봐도",
+      "translation": "無論怎麼悲傷",
+      "analysis": [
+        { "point": "아무리", "explanation": "副詞，無論怎麼。" },
+        { "point": "슬퍼해 봐도", "explanation": "슬퍼하다 (悲傷) + -아/어 보다 (嘗試) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "눈물이 멈추질 않아도",
+      "translation": "即使眼淚不停",
+      "analysis": [
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)。" },
+        { "point": "멈추질 않아도", "explanation": "멈추다 (停止) + -지 (強調) + -는 (主題) + 않다 (不) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "잠시 엿 본 너의 세상",
+      "translation": "短暫窺見的你的世界",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，短暫地。" },
+        { "point": "엿 본", "explanation": "엿보다 (窺視) 的過去定語形。" },
+        { "point": "너의 세상", "explanation": "너의 (你的) + 세상 (世界)。" }
+      ]
+    },
+    {
+      "korean": "가슴 깊이 새겨질 텐데",
+      "translation": "會深深刻在心裡",
+      "analysis": [
+        { "point": "가슴 깊이", "explanation": "가슴 (胸口、心) + 깊이 (深深地)。" },
+        { "point": "새겨질 텐데", "explanation": "새겨지다 (被刻) + -(으)ㄹ 텐데 (應該會...可是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "별을 따라 Shine 웃어줄래 Shine",
+      "translation": "跟隨星星 Shine 能對我微笑嗎 Shine",
+      "analysis": [
+        { "point": "별을 따라", "explanation": "별 (星星) + -을 (受格助詞) + 따르다 (跟隨) 的非格式體。" },
+        { "point": "Shine", "explanation": "英文，閃耀。" },
+        { "point": "웃어줄래", "explanation": "웃다 (笑) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" },
+        { "point": "Shine", "explanation": "英文，閃耀。" }
+      ]
+    },
+    {
+      "korean": "돌고 도는 시간을 단숨에 넘어",
+      "translation": "一瞬間越過不斷輪迴的時間",
+      "analysis": [
+        { "point": "돌고 도는", "explanation": "돌다 (轉) + -고 (連接) + 돌다 (轉) 的現在定語形，表示「不斷輪迴」。" },
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "단숨에", "explanation": "副詞，一瞬間、一口氣。" },
+        { "point": "넘어", "explanation": "넘다 (越過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "바람이 불어와",
+      "translation": "風吹來",
+      "analysis": [
+        { "point": "바람이", "explanation": "바람 (風) + -이 (主格助詞)。" },
+        { "point": "불어와", "explanation": "불다 (吹) + -아/어 오다 (來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너의 곁으로 데려다주길",
+      "translation": "希望帶我到你的身邊",
+      "analysis": [
+        { "point": "너의 곁으로", "explanation": "너의 (你的) + 곁 (身邊) + -(으)로 (向)。" },
+        { "point": "데려다주길", "explanation": "데려다주다 (帶去給) + -길 (希望)。" }
+      ]
+    },
+    {
+      "korean": "바랄게",
+      "translation": "我會期盼",
+      "analysis": [
+        { "point": "바랄게", "explanation": "바라다 (盼望) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "희미해질 기억이겠지만",
+      "translation": "雖然是會變得模糊的記憶",
+      "analysis": [
+        { "point": "희미해질", "explanation": "희미해지다 (變得模糊) 的未來定語形。" },
+        { "point": "기억이겠지만", "explanation": "기억 (記憶) + -이겠지만 (雖然是...但是)。" }
+      ]
+    },
+    {
+      "korean": "끌어안은 채 강해질게",
+      "translation": "我會擁抱著變得堅強",
+      "analysis": [
+        { "point": "끌어안은 채", "explanation": "끌어안다 (擁抱) 的過去定語形 + 채 (保持狀態)。" },
+        { "point": "강해질게", "explanation": "강해지다 (變得堅強) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "I love you I love you 전해질 테니",
+      "translation": "因為我愛你 我愛你 會傳達到的",
+      "analysis": [
+        { "point": "I love you I love you", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "전해질 테니", "explanation": "전해지다 (被傳達) + -(으)ㄹ 테니 (因為將會...)。" }
+      ]
+    },
+    {
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다시 한번 니가 보고 싶어",
+      "translation": "再一次 我想你",
+      "analysis": [
+        { "point": "다시 한번", "explanation": "다시 (再次) + 한번 (一次)。" },
+        { "point": "니가", "explanation": "네가 (你) 的口語變體。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想要) 的非格式體，意為「想念」。" }
+      ]
+    },
+    {
+      "korean": "잡히지 않아 달려가네",
+      "translation": "抓不住 奔跑著",
+      "analysis": [
+        { "point": "잡히지 않아", "explanation": "잡히다 (被抓住) + -지 않다 (不) 的非格式體。" },
+        { "point": "달려가네", "explanation": "달려가다 (奔跑) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "아득히 아득히 먼 곳으로",
+      "translation": "向著遙遠 遙遠的遠方",
+      "analysis": [
+        { "point": "아득히", "explanation": "副詞，遙遠地、模糊地。" },
+        { "point": "먼 곳으로", "explanation": "멀다 (遠的) 的定語形 + 곳 (地方) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "[소/예/엄] We're gonna fly",
+      "translation": "我們將會飛翔",
+      "analysis": [
+        { "point": "We're gonna fly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "[소/예/엄] In the blue sky",
+      "translation": "在藍天中",
+      "analysis": [
+        { "point": "In the blue sky", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "[소/예/엄] We're gonna fly",
+      "translation": "我們將會飛翔",
+      "analysis": [
+        { "point": "We're gonna fly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "창가에 불빛조차 저 멀리 흩어져",
+      "translation": "連窗邊的燈光也向遠處消散",
+      "analysis": [
+        { "point": "창가에", "explanation": "창가 (窗邊) + -에 (場所助詞)。" },
+        { "point": "불빛조차", "explanation": "불빛 (燈光) + -조차 (連...也)。" },
+        { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
+        { "point": "흩어져", "explanation": "흩어지다 (消散) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나를 지나쳐 사라지네",
+      "translation": "掠過我 消失了",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "지나쳐", "explanation": "지나치다 (經過、掠過) 的非格式體。" },
+        { "point": "사라지네", "explanation": "사라지다 (消失) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "손을 뻗어 하늘 위로",
+      "translation": "伸出手 向著天空之上",
+      "analysis": [
+        { "point": "손을", "explanation": "손 (手) + -을 (受格助詞)。" },
+        { "point": "뻗어", "explanation": "뻗다 (伸) 的非格式體。" },
+        { "point": "하늘 위로", "explanation": "하늘 (天空) + 위 (上面) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "korean": "날아올라 닿아보려 해",
+      "translation": "飛上去 試圖觸及",
+      "analysis": [
+        { "point": "날아올라", "explanation": "날아오르다 (飛上去) 的非格式體。" },
+        { "point": "닿아보려 해", "explanation": "닿다 (觸及) + -아/어 보다 (嘗試) + -려 하다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "엇갈리는 Sign 꺼져가는 Sign",
+      "translation": "交錯的訊號 熄滅的訊號",
+      "analysis": [
+        { "point": "엇갈리는", "explanation": "엇갈리다 (交錯) 的現在定語形。" },
+        { "point": "Sign", "explanation": "英文，訊號。" },
+        { "point": "꺼져가는", "explanation": "꺼져가다 (熄滅) 的現在定語形。" },
+        { "point": "Sign", "explanation": "英文，訊號。" }
+      ]
+    },
+    {
+      "korean": "두 번 다신 돌아갈 수 없을 텐데",
+      "translation": "再也無法回去",
+      "analysis": [
+        { "point": "두 번 다신", "explanation": "두 번 (兩次) + 다시는 (再也) 的縮略。" },
+        { "point": "돌아갈 수 없을 텐데", "explanation": "돌아가다 (回去) + -(으)ㄹ 수 없다 (無法) + -(으)ㄹ 텐데 (應該會...可是)。" }
+      ]
+    },
+    {
+      "korean": "계속 계속",
+      "translation": "繼續 繼續",
+      "analysis": [
+        { "point": "계속", "explanation": "副詞，繼續。" }
+      ]
+    },
+    {
+      "korean": "밤새 너를 기다리고 있어",
+      "translation": "整晚都在等你",
+      "analysis": [
+        { "point": "밤새", "explanation": "밤새 (整晚)。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "기다리고 있어", "explanation": "기다리다 (等待) + -고 있다 (正在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "왜 일까",
+      "translation": "是為什麼呢",
+      "analysis": [
+        { "point": "왜 일까", "explanation": "왜 (為什麼) + -일까 (會是...呢)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "희미해질 기억이겠지만",
+      "translation": "雖然是會變得模糊的記憶",
+      "analysis": [
+        { "point": "희미해질", "explanation": "희미해지다 (變得模糊) 的未來定語形。" },
+        { "point": "기억이겠지만", "explanation": "기억 (記憶) + -이겠지만 (雖然是...但是)。" }
+      ]
+    },
+    {
+      "korean": "끌어안은 채 강해질게",
+      "translation": "我會擁抱著變得堅強",
+      "analysis": [
+        { "point": "끌어안은 채", "explanation": "끌어안다 (擁抱) 的過去定語形 + 채 (保持狀態)。" },
+        { "point": "강해질게", "explanation": "강해지다 (變得堅強) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "I love you I love you 전해질 테니",
+      "translation": "因為我愛你 我愛你 會傳達到的",
+      "analysis": [
+        { "point": "I love you I love you", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "전해질 테니", "explanation": "전해지다 (被傳達) + -(으)ㄹ 테니 (因為將會...)。" }
+      ]
+    },
+    {
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다시 한번 니가 보고 싶어",
+      "translation": "再一次 我想你",
+      "analysis": [
+        { "point": "다시 한번", "explanation": "다시 (再次) + 한번 (一次)。" },
+        { "point": "니가", "explanation": "네가 (你) 的口語變體。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想要) 的非格式體，意為「想念」。" }
+      ]
+    },
+    {
+      "korean": "잡히지 않아 달려가네",
+      "translation": "抓不住 奔跑著",
+      "analysis": [
+        { "point": "잡히지 않아", "explanation": "잡히다 (被抓住) + -지 않다 (不) 的非格式體。" },
+        { "point": "달려가네", "explanation": "달려가다 (奔跑) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "아득히 아득히 먼 곳으로",
+      "translation": "向著遙遠 遙遠的遠方",
+      "analysis": [
+        { "point": "아득히", "explanation": "副詞，遙遠地、模糊地。" },
+        { "point": "먼 곳으로", "explanation": "멀다 (遠的) 的定語形 + 곳 (地方) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Every day, every time",
+      "translation": "每一天，每一次",
+      "analysis": [
+        { "point": "Every day, every time", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "언제까지나 변치 않을게",
+      "translation": "無論何時都不會改變",
+      "analysis": [
+        { "point": "언제까지나", "explanation": "副詞，無論到何時。" },
+        { "point": "변치 않을게", "explanation": "변하다 (改變) + -지 않다 (不) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "소중히 간직해온 Story",
+      "translation": "一直珍惜珍藏的故事",
+      "analysis": [
+        { "point": "소중히", "explanation": "副詞，珍惜地。" },
+        { "point": "간직해온", "explanation": "간직하다 (珍藏) + -아/어 오다 (持續) 的過去定語形。" },
+        { "point": "Story", "explanation": "英文，故事。" }
+      ]
+    },
+    {
+      "korean": "절대 잊혀지지 않을",
+      "translation": "絕對不會被遺忘的",
+      "analysis": [
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "잊혀지지 않을", "explanation": "잊혀지다 (被忘記) + -지 않다 (不) 的未來定語形。" }
+      ]
+    },
+    {
+      "korean": "너와 나의 Memoria ah",
+      "translation": "你和我的記憶 ah",
+      "analysis": [
+        { "point": "너와 나의", "explanation": "너 (你) + -와 (和) + 나 (我) + -의 (的)。" },
+        { "point": "Memoria", "explanation": "拉丁語/英文，記憶。" },
+        { "point": "ah", "explanation": "感嘆詞，啊。" }
+      ]
+    },
+    {
+      "korean": "기억해",
+      "translation": "記住",
+      "analysis": [
+        { "point": "기억해", "explanation": "기억하다 (記住) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "희미해질 기억이겠지만",
+      "translation": "雖然是會變得模糊的記憶",
+      "analysis": [
+        { "point": "희미해질", "explanation": "희미해지다 (變得模糊) 的未來定語形。" },
+        { "point": "기억이겠지만", "explanation": "기억 (記憶) + -이겠지만 (雖然是...但是)。" }
+      ]
+    },
+    {
+      "korean": "끌어안은 채 강해질게",
+      "translation": "我會擁抱著變得堅強",
+      "analysis": [
+        { "point": "끌어안은 채", "explanation": "끌어안다 (擁抱) 的過去定語形 + 채 (保持狀態)。" },
+        { "point": "강해질게", "explanation": "강해지다 (變得堅強) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "I love you I love you 전해질 테니",
+      "translation": "因為我愛你 我愛你 會傳達到的",
+      "analysis": [
+        { "point": "I love you I love you", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "전해질 테니", "explanation": "전해지다 (被傳達) + -(으)ㄹ 테니 (因為將會...)。" }
+      ]
+    },
+    {
+      "korean": "Memoria memoria",
+      "translation": "Memoria memoria",
+      "analysis": [
+        { "point": "Memoria memoria", "explanation": "拉丁語/英文歌詞，意為「記憶」，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다시 한번 니가 보고 싶어",
+      "translation": "再一次 我想你",
+      "analysis": [
+        { "point": "다시 한번", "explanation": "다시 (再次) + 한번 (一次)。" },
+        { "point": "니가", "explanation": "네가 (你) 的口語變體。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想要) 的非格式體，意為「想念」。" }
+      ]
+    },
+    {
+      "korean": "잡히지 않아 달려가네",
+      "translation": "抓不住 奔跑著",
+      "analysis": [
+        { "point": "잡히지 않아", "explanation": "잡히다 (被抓住) + -지 않다 (不) 的非格式體。" },
+        { "point": "달려가네", "explanation": "달려가다 (奔跑) + -네 (感嘆形語尾)。" }
+      ]
+    },
+    {
+      "korean": "아득히 아득히 먼 곳으로",
+      "translation": "向著遙遠 遙遠的遠方",
+      "analysis": [
+        { "point": "아득히", "explanation": "副詞，遙遠地、模糊地。" },
+        { "point": "먼 곳으로", "explanation": "멀다 (遠的) 的定語形 + 곳 (地方) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "[소/예/엄] We're gonna fly",
+      "translation": "我們將會飛翔",
+      "analysis": [
+        { "point": "We're gonna fly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "[소/예/엄] In the blue sky",
+      "translation": "在藍天中",
+      "analysis": [
+        { "point": "In the blue sky", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "[소/예/엄] We're gonna fly",
+      "translation": "我們將會飛翔",
+      "analysis": [
+        { "point": "We're gonna fly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "태양", "chinese": "太陽", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "서다", "chinese": "站", "pos": "動詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉", "pos": "動詞" },
+    { "korean": "떠올리다", "chinese": "回想", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "따스함", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "아무리", "chinese": "無論怎麼", "pos": "副詞" },
+    { "korean": "슬퍼하다", "chinese": "悲傷", "pos": "動詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "잠시", "chinese": "短暫地", "pos": "副詞" },
+    { "korean": "엿보다", "chinese": "窺視", "pos": "動詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "가슴", "chinese": "胸口、心", "pos": "名詞" },
+    { "korean": "깊이", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "새겨지다", "chinese": "被刻", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "돌다", "chinese": "轉", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "단숨에", "chinese": "一瞬間", "pos": "副詞" },
+    { "korean": "넘다", "chinese": "越過", "pos": "動詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "데려다주다", "chinese": "帶去給", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "盼望", "pos": "動詞" },
+    { "korean": "희미해지다", "chinese": "變得模糊", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "끌어안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "강해지다", "chinese": "變得堅強", "pos": "動詞" },
+    { "korean": "전해지다", "chinese": "被傳達", "pos": "動詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "片語" },
+    { "korean": "잡히다", "chinese": "被抓住", "pos": "動詞" },
+    { "korean": "달려가다", "chinese": "奔跑", "pos": "動詞" },
+    { "korean": "아득히", "chinese": "遙遠地", "pos": "副詞" },
+    { "korean": "멀다", "chinese": "遠的", "pos": "形容詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "창가", "chinese": "窗邊", "pos": "名詞" },
+    { "korean": "불빛", "chinese": "燈光", "pos": "名詞" },
+    { "korean": "흩어지다", "chinese": "消散", "pos": "動詞" },
+    { "korean": "지나치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "뻗다", "chinese": "伸", "pos": "動詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "날아오르다", "chinese": "飛上去", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "엇갈리다", "chinese": "交錯", "pos": "動詞" },
+    { "korean": "꺼져가다", "chinese": "熄滅", "pos": "動詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "계속", "chinese": "繼續", "pos": "副詞" },
+    { "korean": "밤새", "chinese": "整晚", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "언제까지나", "chinese": "無論到何時", "pos": "副詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "소중히", "chinese": "珍惜地", "pos": "副詞" },
+    { "korean": "간직하다", "chinese": "珍藏", "pos": "動詞" },
+    { "korean": "절대", "chinese": "絕對", "pos": "副詞" },
+    { "korean": "잊혀지다", "chinese": "被忘記", "pos": "動詞" }
+  ]
+}
