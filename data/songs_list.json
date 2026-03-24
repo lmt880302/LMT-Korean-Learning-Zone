@@ -137,7 +137,25 @@
     "artist": "YUJU (유주)",
     "lyricsFile": "../data/lyrics/yuju-reply.json"
   },   
-  
+  {
+    "id": "yuju-cherish",
+    "title": "Cherish (보일 듯 말 듯)",
+    "artist": "YUJU (유주) (Feat. Sunyoul)",
+    "lyricsFile": "../data/lyrics/yuju-cherish.json"
+  },
+
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },    
 
   {
     "id": "GFRIEND-Mermaid",
@@ -196,16 +214,16 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Crossroads.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "GFRIEND-Only 1",
+    "title": "Only 1",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Only 1.json"
   },  
   {
     "id": "GFRIEND-Summer Rain",
     "title": "Summer Rain (여름비)",
     "artist": "GFRIEND (여자친구)",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "lyricsFile": "../data/lyrics/GFRIEND-Summer Rain.json"
   },  
   {
     "id": "GFRIEND-Memoria",
@@ -268,13 +286,67 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Apple.json"
   },
   {
+    "id": "GFRIEND-White",
+    "title": "White (하얀마음)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-White.json"
+  },
+  {
+    "id": "GFRIEND-Luv Star",
+    "title": "Luv Star (사랑별)",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Luv Star.json"
+  },
+  {
     "id": "_____",
     "title": "_____",
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
   },
-
-
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+    {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+    {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  
+  
   {
     "id": "jeongeunji-blue-whale",
     "title": "Blue Whale",

@@ -1,0 +1,550 @@
+{
+  "id": "yuju-cherish",
+  "title": "Cherish (보일 듯 말 듯)",
+  "artist": "Yuju (Feat. Sunyoul)",
+  "lines": [
+    {
+      "korean": "보일 듯 말 듯",
+      "translation": "若隱若現",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "보이다 (被看見) + -(으)ㄹ 듯 말 듯 (慣用型，好像要...又好像不要...)，意為「若隱若現」。" }
+      ]
+    },
+    {
+      "korean": "알 듯 말 듯",
+      "translation": "似懂非懂",
+      "analysis": [
+        { "point": "알 듯 말 듯", "explanation": "알다 (知道) + -(으)ㄹ 듯 말 듯 (慣用型，好像要...又好像不要...)，意為「似懂非懂」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "매일 아침에 눈 떴을 때",
+      "translation": "每天早晨睜開眼睛的時候",
+      "analysis": [
+        { "point": "매일 아침에", "explanation": "매일 (每天) + 아침 (早晨) + -에 (時間助詞)。" },
+        { "point": "눈 떴을 때", "explanation": "눈 (眼睛) + 뜨다 (睜開) 的過去時定語形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "네 생각에 미소 지어",
+      "translation": "因為想到你而微笑",
+      "analysis": [
+        { "point": "네 생각에", "explanation": "네 (你的) + 생각 (想法) + -에 (原因助詞)。" },
+        { "point": "미소 지어", "explanation": "미소 (微笑) + 짓다 (做) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "온종일 내가 왜 이런지 몰라",
+      "translation": "整天不知道我為什麼會這樣",
+      "analysis": [
+        { "point": "온종일", "explanation": "副詞，整天。" },
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" },
+        { "point": "이런지", "explanation": "이렇다 (這樣) + -ㄴ지 (疑問)。" },
+        { "point": "몰라", "explanation": "모르다 (不知道) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘을 모르겠어",
+      "translation": "不知道我的心意",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "모르겠어", "explanation": "모르다 (不知道) + -겠- (推測) + -어 (非格式體)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "매일 아침이 밝았을 때",
+      "translation": "每天清晨到來的時候",
+      "analysis": [
+        { "point": "매일 아침이", "explanation": "매일 (每天) + 아침 (早晨) + -이 (主格助詞)。" },
+        { "point": "밝았을 때", "explanation": "밝다 (明亮、到來) 的過去時定語形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "어제 너의 꿈에 맘이 떨려",
+      "translation": "在昨晚你的夢中心動",
+      "analysis": [
+        { "point": "어제", "explanation": "昨天。" },
+        { "point": "너의 꿈에", "explanation": "너의 (你的) + 꿈 (夢) + -에 (場所助詞)。" },
+        { "point": "맘이 떨려", "explanation": "마음 (心) 的縮略 + -이 (主格助詞) + 떨리다 (顫動、心動) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "보일 듯 말 듯 모르겠어",
+      "translation": "若隱若現 不知道",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "보이다 (被看見) + -(으)ㄹ 듯 말 듯 (若隱若現)。" },
+        { "point": "모르겠어", "explanation": "모르다 (不知道) + -겠- (推測) + -어 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 알고 싶어",
+      "translation": "想知道你的心意",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "알고 싶어", "explanation": "알다 (知道) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "사실은 나 번호 준 건 첨이야",
+      "translation": "其實 我給號碼是第一次",
+      "analysis": [
+        { "point": "사실은", "explanation": "사실 (事實) + -은 (主題助詞)，意為「其實」。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "번호 준 건", "explanation": "번호 (號碼) + 주다 (給) 的過去定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "첨이야", "explanation": "처음 (第一次) 的縮略 + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "뭔가 홀린 듯이 난",
+      "translation": "我像被迷住了一樣",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某種東西) 的縮略。" },
+        { "point": "홀린 듯이", "explanation": "홀리다 (被迷住) 的過去定語形 + -듯이 (好像)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "끌린 적은 없단 말이야",
+      "translation": "從未被吸引過",
+      "analysis": [
+        { "point": "끌린 적은", "explanation": "끌리다 (被吸引) 的過去定語形 + 적 (經驗) + -은 (主題助詞)。" },
+        { "point": "없단 말이야", "explanation": "없다 (沒有) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "나 한번 봐도 좋은 걸",
+      "translation": "看我一眼也好",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "한번", "explanation": "一次。" },
+        { "point": "봐도", "explanation": "보다 (看) + -아/어도 (即使)。" },
+        { "point": "좋은 걸", "explanation": "좋다 (好) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그냥 바라봐도 설레는 걸",
+      "translation": "只是看著也會心動",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞，只是。" },
+        { "point": "바라봐도", "explanation": "바라보다 (凝視) + -아/어도 (即使)。" },
+        { "point": "설레는 걸", "explanation": "설레다 (心動) 的現在定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "보일 듯 말 듯",
+      "translation": "若隱若現",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "보이다 (被看見) + -(으)ㄹ 듯 말 듯 (若隱若現)。" }
+      ]
+    },
+    {
+      "korean": "알 듯 말 듯",
+      "translation": "似懂非懂",
+      "analysis": [
+        { "point": "알 듯 말 듯", "explanation": "알다 (知道) + -(으)ㄹ 듯 말 듯 (似懂非懂)。" }
+      ]
+    },
+    {
+      "korean": "내 맘을",
+      "translation": "我的心意",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "사실은 나 네가 마냥 좋단 말이야",
+      "translation": "其實 我總是喜歡你",
+      "analysis": [
+        { "point": "사실은", "explanation": "其實。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "마냥", "explanation": "副詞，總是、一直。" },
+        { "point": "좋단 말이야", "explanation": "좋다 (喜歡) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "이렇게 내 맘",
+      "translation": "這樣我的心",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "끌린 적은 없단 말이야",
+      "translation": "從未被吸引過",
+      "analysis": [
+        { "point": "끌린 적은", "explanation": "끌리다 (被吸引) 的過去定語形 + 적 (經驗) + -은 (主題助詞)。" },
+        { "point": "없단 말이야", "explanation": "없다 (沒有) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "나 한번 봐도 좋은 걸",
+      "translation": "看我一眼也好",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "한번", "explanation": "一次。" },
+        { "point": "봐도", "explanation": "보다 (看) + -아/어도 (即使)。" },
+        { "point": "좋은 걸", "explanation": "좋다 (好) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그냥 바라봐도 설레는 걸",
+      "translation": "只是看著也會心動",
+      "analysis": [
+        { "point": "그냥", "explanation": "只是。" },
+        { "point": "바라봐도", "explanation": "바라보다 (凝視) + -아/어도 (即使)。" },
+        { "point": "설레는 걸", "explanation": "설레다 (心動) 的現在定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "보일 듯 말 듯 알 듯 말 듯",
+      "translation": "若隱若現 似懂非懂",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "若隱若現。" },
+        { "point": "알 듯 말 듯", "explanation": "似懂非懂。" }
+      ]
+    },
+    {
+      "korean": "네 맘 알고 싶어",
+      "translation": "想知道你的心意",
+      "analysis": [
+        { "point": "네 맘", "explanation": "네 (你的) + 마음 (心) 的縮略。" },
+        { "point": "알고 싶어", "explanation": "알다 (知道) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "매일 아침이 밝았을 때",
+      "translation": "每天清晨到來的時候",
+      "analysis": [
+        { "point": "매일 아침이", "explanation": "매일 (每天) + 아침 (早晨) + -이 (主格助詞)。" },
+        { "point": "밝았을 때", "explanation": "밝다 (明亮、到來) 的過去時定語形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "네 생각에 미소 지어",
+      "translation": "因為想到你而微笑",
+      "analysis": [
+        { "point": "네 생각에", "explanation": "네 (你的) + 생각 (想法) + -에 (原因助詞)。" },
+        { "point": "미소 지어", "explanation": "미소 (微笑) + 짓다 (做) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "보일 듯 말 듯 모르겠어",
+      "translation": "若隱若現 不知道",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "若隱若現。" },
+        { "point": "모르겠어", "explanation": "모르다 (不知道) + -겠- (推測) + -어 (非格式體)。" }
+      ]
+    },
+    {
+      "korean": "네 맘을 알고 싶어",
+      "translation": "想知道你的心意",
+      "analysis": [
+        { "point": "네 맘을", "explanation": "네 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "알고 싶어", "explanation": "알다 (知道) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "사실은 나 번호 준 건 첨이야",
+      "translation": "其實 我給號碼是第一次",
+      "analysis": [
+        { "point": "사실은", "explanation": "其實。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "번호 준 건", "explanation": "번호 (號碼) + 주다 (給) 的過去定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "첨이야", "explanation": "처음 (第一次) 的縮略 + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "뭔가 홀린 듯이 난",
+      "translation": "我像被迷住了一樣",
+      "analysis": [
+        { "point": "뭔가", "explanation": "무언가 (某種東西) 的縮略。" },
+        { "point": "홀린 듯이", "explanation": "홀리다 (被迷住) 的過去定語形 + -듯이 (好像)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "끌린 적은 없단 말이야",
+      "translation": "從未被吸引過",
+      "analysis": [
+        { "point": "끌린 적은", "explanation": "끌리다 (被吸引) 的過去定語形 + 적 (經驗) + -은 (主題助詞)。" },
+        { "point": "없단 말이야", "explanation": "없다 (沒有) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "나 한번 봐도 좋은 걸",
+      "translation": "看我一眼也好",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "한번", "explanation": "一次。" },
+        { "point": "봐도", "explanation": "보다 (看) + -아/어도 (即使)。" },
+        { "point": "좋은 걸", "explanation": "좋다 (好) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그냥 바라봐도 설레는 걸",
+      "translation": "只是看著也會心動",
+      "analysis": [
+        { "point": "그냥", "explanation": "只是。" },
+        { "point": "바라봐도", "explanation": "바라보다 (凝視) + -아/어도 (即使)。" },
+        { "point": "설레는 걸", "explanation": "설레다 (心動) 的現在定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "보일 듯 말 듯 알 듯 말 듯",
+      "translation": "若隱若現 似懂非懂",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "若隱若現。" },
+        { "point": "알 듯 말 듯", "explanation": "似懂非懂。" }
+      ]
+    },
+    {
+      "korean": "네게 빠졌나 봐",
+      "translation": "好像被你迷住了",
+      "analysis": [
+        { "point": "네게", "explanation": "너에게 (向你) 的縮略。" },
+        { "point": "빠졌나 봐", "explanation": "빠지다 (陷入) 的過去形 + -나 보다 (看來是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Woo~ 나 몰라 내 맘 (내 맘)",
+      "translation": "Woo~ 我不知道 我的心 (我的心)",
+      "analysis": [
+        { "point": "Woo~", "explanation": "英文歌詞，無韓文文法解析。" },
+        { "point": "나 몰라", "explanation": "나 (我) + 모르다 (不知道) 的非格式體。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네게 고백해 버릴지 몰라",
+      "translation": "也許會向你告白",
+      "analysis": [
+        { "point": "네게", "explanation": "너에게 (向你) 的縮略。" },
+        { "point": "고백해 버릴지 몰라", "explanation": "고백하다 (告白) + -아/어 버리다 (完了) + -(으)ㄹ지 모르다 (也許會)。" }
+      ]
+    },
+    {
+      "korean": "(기다리고 있는지도 몰라)",
+      "translation": "(也許在等待也說不定)",
+      "analysis": [
+        { "point": "기다리고 있는지도 몰라", "explanation": "기다리다 (等待) + -고 있다 (正在) + -는지 (疑問) + -도 (也) + 모르다 (不知道)，意為「也許正在...也說不定」。" }
+      ]
+    },
+    {
+      "korean": "두근대는 마음 심장 뛰는 맘이",
+      "translation": "撲通撲通的心 跳動的心",
+      "analysis": [
+        { "point": "두근대는", "explanation": "두근대다 (撲通跳) 的現在定語形。" },
+        { "point": "마음", "explanation": "名詞，心。" },
+        { "point": "심장 뛰는 맘이", "explanation": "심장 (心臟) + 뛰다 (跳動) 的現在定語形 + 마음 (心) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너도 내 맘 알잖아",
+      "translation": "你不是也知道我的心嗎",
+      "analysis": [
+        { "point": "너도", "explanation": "你 + -도 (也)。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "알잖아", "explanation": "알다 (知道) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "korean": "말 안 해도 알잖아",
+      "translation": "即使不說也知道吧",
+      "analysis": [
+        { "point": "말 안 해도", "explanation": "말 (話) + 안 (不) + 하다 (說) + -아/어도 (即使)。" },
+        { "point": "알잖아", "explanation": "알다 (知道) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "사실은 나 이런 느낌 첨이야 정말",
+      "translation": "其實 這種感覺真的是第一次",
+      "analysis": [
+        { "point": "사실은", "explanation": "其實。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "이런 느낌", "explanation": "이런 (這樣的) + 느낌 (感覺)。" },
+        { "point": "첨이야", "explanation": "처음 (第一次) 的縮略 + -이야 (是)。" },
+        { "point": "정말", "explanation": "副詞，真的。" }
+      ]
+    },
+    {
+      "korean": "첫 눈에 먼저",
+      "translation": "第一眼就先",
+      "analysis": [
+        { "point": "첫 눈에", "explanation": "첫 (第一) + 눈 (眼) + -에 (時間/原因助詞)。" },
+        { "point": "먼저", "explanation": "副詞，先。" }
+      ]
+    },
+    {
+      "korean": "반한 적은 없단 말이야",
+      "translation": "從未一見鍾情過",
+      "analysis": [
+        { "point": "반한 적은", "explanation": "반하다 (迷上、鍾情) 的過去定語形 + 적 (經驗) + -은 (主題助詞)。" },
+        { "point": "없단 말이야", "explanation": "없다 (沒有) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "나 한번 봐도 좋은 걸 (좋은 걸)",
+      "translation": "看我一眼也好",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "한번", "explanation": "一次。" },
+        { "point": "봐도", "explanation": "보다 (看) + -아/어도 (即使)。" },
+        { "point": "좋은 걸", "explanation": "좋다 (好) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그냥 바라봐도 설레는 걸 (설레)",
+      "translation": "只是看著也會心動",
+      "analysis": [
+        { "point": "그냥", "explanation": "只是。" },
+        { "point": "바라봐도", "explanation": "바라보다 (凝視) + -아/어도 (即使)。" },
+        { "point": "설레는 걸", "explanation": "설레다 (心動) 的現在定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "보일 듯 말 듯",
+      "translation": "若隱若現",
+      "analysis": [
+        { "point": "보일 듯 말 듯", "explanation": "若隱若現。" }
+      ]
+    },
+    {
+      "korean": "알 듯 말 듯",
+      "translation": "似懂非懂",
+      "analysis": [
+        { "point": "알 듯 말 듯", "explanation": "似懂非懂。" }
+      ]
+    },
+    {
+      "korean": "내 맘을",
+      "translation": "我的心意",
+      "analysis": [
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "사실은 나 고백하고 싶단 말이야",
+      "translation": "其實 我想要告白",
+      "analysis": [
+        { "point": "사실은", "explanation": "其實。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "고백하고 싶단 말이야", "explanation": "고백하다 (告白) + -고 싶다 (想要) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "떨리는 내 맘",
+      "translation": "顫動的我的心",
+      "analysis": [
+        { "point": "떨리는", "explanation": "떨리다 (顫動) 的現在定語形。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "전해주고 싶단 말이야",
+      "translation": "想要傳達給你",
+      "analysis": [
+        { "point": "전해주고 싶단 말이야", "explanation": "전해주다 (傳達給) + -고 싶다 (想要) + -단 (引用) + 말 (話) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "나 한번 봐도 좋은 걸 (좋은 걸)",
+      "translation": "看我一眼也好",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "한번", "explanation": "一次。" },
+        { "point": "봐도", "explanation": "보다 (看) + -아/어도 (即使)。" },
+        { "point": "좋은 걸", "explanation": "좋다 (好) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그냥 바라봐도 설레는 걸 (설레)",
+      "translation": "只是看著也會心動",
+      "analysis": [
+        { "point": "그냥", "explanation": "只是。" },
+        { "point": "바라봐도", "explanation": "바라보다 (凝視) + -아/어도 (即使)。" },
+        { "point": "설레는 걸", "explanation": "설레다 (心動) 的現在定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "이제 내 맘 고백해 나",
+      "translation": "現在我要告白我的心",
+      "analysis": [
+        { "point": "이제", "explanation": "副詞，現在。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "고백해", "explanation": "고백하다 (告白) 的非格式體。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "널 좋아하나 봐",
+      "translation": "好像喜歡你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "좋아하나 봐", "explanation": "좋아하다 (喜歡) + -나 보다 (看來是)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "아침", "chinese": "早晨", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "뜨다", "chinese": "睜開", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做", "pos": "動詞" },
+    { "korean": "온종일", "chinese": "整天", "pos": "副詞" },
+    { "korean": "왜", "chinese": "為什麼", "pos": "副詞" },
+    { "korean": "이렇다", "chinese": "這樣", "pos": "形容詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "밝다", "chinese": "明亮、到來", "pos": "動詞" },
+    { "korean": "어제", "chinese": "昨天", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "떨리다", "chinese": "顫動、心動", "pos": "動詞" },
+    { "korean": "사실", "chinese": "事實", "pos": "名詞" },
+    { "korean": "번호", "chinese": "號碼", "pos": "名詞" },
+    { "korean": "주다", "chinese": "給", "pos": "動詞" },
+    { "korean": "처음", "chinese": "第一次", "pos": "副詞" },
+    { "korean": "뭔가", "chinese": "某種東西", "pos": "代名詞" },
+    { "korean": "홀리다", "chinese": "被迷住", "pos": "動詞" },
+    { "korean": "끌리다", "chinese": "被吸引", "pos": "動詞" },
+    { "korean": "적", "chinese": "經驗", "pos": "名詞" },
+    { "korean": "한번", "chinese": "一次", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "좋다", "chinese": "好、喜歡", "pos": "形容詞" },
+    { "korean": "그냥", "chinese": "只是", "pos": "副詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "마냥", "chinese": "總是", "pos": "副詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "고백하다", "chinese": "告白", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "두근대다", "chinese": "撲通跳", "pos": "動詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "뛰다", "chinese": "跳動", "pos": "動詞" },
+    { "korean": "알잖아", "chinese": "不是知道嗎", "pos": "片語" },
+    { "korean": "느낌", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "첫 눈", "chinese": "第一眼", "pos": "名詞" },
+    { "korean": "먼저", "chinese": "先", "pos": "副詞" },
+    { "korean": "반하다", "chinese": "迷上、鍾情", "pos": "動詞" },
+    { "korean": "전해주다", "chinese": "傳達給", "pos": "動詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" }
+  ]
+}

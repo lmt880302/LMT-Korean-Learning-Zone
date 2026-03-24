@@ -1,0 +1,435 @@
+{
+  "id": "GFRIEND-Luv Star",
+  "title": "Luv Star (사랑별)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "하나 둘 셋 다시 세어봐도",
+      "translation": "一二三 即使再數一次",
+      "analysis": [
+        { "point": "하나 둘 셋", "explanation": "數字，一、二、三。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "세어봐도", "explanation": "세다 (數) + -아/어 보다 (嘗試) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "널 찾을 수 없어",
+      "translation": "找不到你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾을 수 없어", "explanation": "찾다 (找) + -(으)ㄹ 수 없다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘 속에 잠 들어 있는 너를 꺼내",
+      "translation": "將沉睡在我心中的你喚醒",
+      "analysis": [
+        { "point": "내 맘 속에", "explanation": "내 (我的) + 마음 (心) 的縮略 + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "잠 들어 있는", "explanation": "잠들다 (入睡) + -아/어 있다 (保持狀態) 的冠詞形。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "꺼내", "explanation": "꺼내다 (取出、喚醒) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "못다한 내 얘기들 모두 말 할거야",
+      "translation": "沒能說完的我的話 全都會說出來",
+      "analysis": [
+        { "point": "못다한", "explanation": "못 다 하다 (沒能全部做完) 的冠詞形。" },
+        { "point": "내 얘기들", "explanation": "내 (我的) + 이야기 (話) 的縮略 + -들 (複數)。" },
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "말 할거야", "explanation": "말하다 (說) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "천천히 언제나 이대로",
+      "translation": "慢慢地 無論何時 就這樣",
+      "analysis": [
+        { "point": "천천히", "explanation": "副詞，慢慢地。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "이대로", "explanation": "就這樣。" }
+      ]
+    },
+    {
+      "korean": "나의 사랑 별 그리고 너",
+      "translation": "我的愛星 還有你",
+      "analysis": [
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "사랑 별", "explanation": "사랑 (愛) + 별 (星星)，「愛星」。" },
+        { "point": "그리고 너", "explanation": "그리고 (還有) + 너 (你)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "환하게 비추는 널 보며",
+      "translation": "看著明亮照耀的你",
+      "analysis": [
+        { "point": "환하게", "explanation": "환하다 (明亮的) + -게 (副詞形語尾)。" },
+        { "point": "비추는", "explanation": "비추다 (照耀) 的冠詞形。" },
+        { "point": "널 보며", "explanation": "너를 (你) 的縮略 + 보다 (看) + -며 (連接詞尾，一邊...一邊)。" }
+      ]
+    },
+    {
+      "korean": "반짝이는 별빛들 바라보며",
+      "translation": "望著閃爍的星光",
+      "analysis": [
+        { "point": "반짝이는", "explanation": "반짝이다 (閃爍) 的冠詞形。" },
+        { "point": "별빛들", "explanation": "별빛 (星光) + -들 (複數)。" },
+        { "point": "바라보며", "explanation": "바라보다 (凝視) + -며 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "새록새록 널 떠올리며",
+      "translation": "一次次地 浮現你",
+      "analysis": [
+        { "point": "새록새록", "explanation": "擬態詞，一次次地、清晰地浮現。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "떠올리며", "explanation": "떠올리다 (浮現) + -며 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "설레였던 그 날처럼",
+      "translation": "像曾經心動的那天一樣",
+      "analysis": [
+        { "point": "설레였던", "explanation": "설레다 (心動) 的過去冠詞形。" },
+        { "point": "그 날처럼", "explanation": "그 (那) + 날 (日子) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "콧노래 불러 슈르슈르르",
+      "translation": "哼著歌 簌簌簌簌",
+      "analysis": [
+        { "point": "콧노래", "explanation": "名詞，哼唱。" },
+        { "point": "불러", "explanation": "부르다 (唱) 的非格式體。" },
+        { "point": "슈르슈르르", "explanation": "擬聲/擬態詞，輕快的聲音或動作。" }
+      ]
+    },
+    {
+      "korean": "(휘파람) 슈르슈르르",
+      "translation": "(口哨) 簌簌簌簌",
+      "analysis": [
+        { "point": "휘파람", "explanation": "名詞，口哨。" },
+        { "point": "슈르슈르르", "explanation": "擬聲/擬態詞，輕快的聲音或動作。" }
+      ]
+    },
+    {
+      "korean": "은하수처럼 아름답게 저",
+      "translation": "像銀河一樣美麗地 那",
+      "analysis": [
+        { "point": "은하수처럼", "explanation": "은하수 (銀河) + -처럼 (像...一樣)。" },
+        { "point": "아름답게", "explanation": "아름답다 (美麗的) + -게 (副詞形語尾)。" },
+        { "point": "저", "explanation": "指示詞，那。" }
+      ]
+    },
+    {
+      "korean": "멀리 또르또르르 다신 안 보낼래",
+      "translation": "遠遠地 轉啊轉 再也不放開",
+      "analysis": [
+        { "point": "멀리", "explanation": "副詞，遠處。" },
+        { "point": "또르또르르", "explanation": "擬態詞，輕輕轉動的樣子。" },
+        { "point": "다신", "explanation": "다시 (再次) + -는 (強調) 的縮略，表示「再也」。固定用法。" },
+        { "point": "안 보낼래", "explanation": "안 (不) + 보내다 (送、放開) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "항상 지금처럼 네 곁에 있을게",
+      "translation": "會像現在一樣 總是在你身邊",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "네 곁에", "explanation": "네 (你的) + 곁 (身邊) + -에 (場所助詞)。" },
+        { "point": "있을게", "explanation": "있다 (在) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "하나 둘 셋 다시 세어봐도",
+      "translation": "一二三 即使再數一次",
+      "analysis": [
+        { "point": "하나 둘 셋", "explanation": "數字，一、二、三。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "세어봐도", "explanation": "세다 (數) + -아/어 보다 (嘗試) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "널 찾을 수 없어",
+      "translation": "找不到你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾을 수 없어", "explanation": "찾다 (找) + -(으)ㄹ 수 없다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 맘 속에 잠 들어 있는 너를 꺼내",
+      "translation": "將沉睡在我心中的你喚醒",
+      "analysis": [
+        { "point": "내 맘 속에", "explanation": "내 (我的) + 마음 (心) 的縮略 + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "잠 들어 있는", "explanation": "잠들다 (入睡) + -아/어 있다 (保持狀態) 的冠詞形。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "꺼내", "explanation": "꺼내다 (取出、喚醒) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "못다한 내 얘기들 모두 말 할거야",
+      "translation": "沒能說完的我的話 全都會說出來",
+      "analysis": [
+        { "point": "못다한", "explanation": "못 다 하다 (沒能全部做完) 的冠詞形。" },
+        { "point": "내 얘기들", "explanation": "내 (我的) + 이야기 (話) 的縮略 + -들 (複數)。" },
+        { "point": "모두", "explanation": "副詞，全部。" },
+        { "point": "말 할거야", "explanation": "말하다 (說) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "천천히 언제나 이대로",
+      "translation": "慢慢地 無論何時 就這樣",
+      "analysis": [
+        { "point": "천천히", "explanation": "副詞，慢慢地。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "이대로", "explanation": "就這樣。" }
+      ]
+    },
+    {
+      "korean": "나의 사랑 별 그리고 너",
+      "translation": "我的愛星 還有你",
+      "analysis": [
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "사랑 별", "explanation": "사랑 (愛) + 별 (星星)，「愛星」。" },
+        { "point": "그리고 너", "explanation": "그리고 (還有) + 너 (你)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "멀리서 날 보고 있을까",
+      "translation": "是否在遠處看著我",
+      "analysis": [
+        { "point": "멀리서", "explanation": "멀리 (遠處) + -서 (從)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "보고 있을까", "explanation": "보다 (看) + -고 있다 (正在) + -(으)ㄹ까 (疑問，推測)。" }
+      ]
+    },
+    {
+      "korean": "소리쳐 부르면 달려와 줄까",
+      "translation": "如果大聲呼喚 會跑過來嗎",
+      "analysis": [
+        { "point": "소리쳐", "explanation": "소리치다 (大聲喊) 的非格式體。" },
+        { "point": "부르면", "explanation": "부르다 (叫、呼喚) + -(으)면 (如果)。" },
+        { "point": "달려와 줄까", "explanation": "달려오다 (跑來) + -아/어 주다 (為我做) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "두근 두근 내 맘 졸이며",
+      "translation": "撲通撲通 我的心焦急",
+      "analysis": [
+        { "point": "두근 두근", "explanation": "擬態詞，撲通撲通。" },
+        { "point": "내 맘", "explanation": "내 (我的) + 마음 (心) 的縮略。" },
+        { "point": "졸이며", "explanation": "졸이다 (焦急) + -며 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "애태웠던 하루하루",
+      "translation": "曾經焦躁的每一天",
+      "analysis": [
+        { "point": "애태웠던", "explanation": "애태우다 (焦躁) 的過去冠詞形。" },
+        { "point": "하루하루", "explanation": "하루 (一天) 重複，表示「每一天」。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "실바람 불어 슈르슈르르",
+      "translation": "微風吹拂 簌簌簌簌",
+      "analysis": [
+        { "point": "실바람", "explanation": "名詞，微風。" },
+        { "point": "불어", "explanation": "불다 (吹) 的非格式體。" },
+        { "point": "슈르슈르르", "explanation": "擬聲/擬態詞，輕快的聲音或動作。" }
+      ]
+    },
+    {
+      "korean": "(천천히) 슈르슈르르",
+      "translation": "(慢慢地) 簌簌簌簌",
+      "analysis": [
+        { "point": "천천히", "explanation": "副詞，慢慢地。" },
+        { "point": "슈르슈르르", "explanation": "擬聲/擬態詞，輕快的聲音或動作。" }
+      ]
+    },
+    {
+      "korean": "조심스레 나 용기내 볼래",
+      "translation": "小心翼翼地 我要試著鼓起勇氣",
+      "analysis": [
+        { "point": "조심스레", "explanation": "조심스럽다 (小心翼翼的) 的副詞形。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "용기내 볼래", "explanation": "용기내다 (鼓起勇氣) + -아/어 보다 (嘗試) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "그래 또르또르르 나 이젠 말할래",
+      "translation": "沒錯 轉啊轉 我現在要說了",
+      "analysis": [
+        { "point": "그래", "explanation": "感嘆詞，對、沒錯。" },
+        { "point": "또르또르르", "explanation": "擬態詞，輕輕轉動的樣子。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (強調) 的縮略。" },
+        { "point": "말할래", "explanation": "말하다 (說) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "지금처럼 네 곁에 나 있을게",
+      "translation": "像現在一樣 我會在你身邊",
+      "analysis": [
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "네 곁에", "explanation": "네 (你的) + 곁 (身邊) + -에 (場所助詞)。" },
+        { "point": "나 있을게", "explanation": "나 (我) + 있다 (在) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "하나 둘 셋 다시 세어봐도",
+      "translation": "一二三 即使再數一次",
+      "analysis": [
+        { "point": "하나 둘 셋", "explanation": "數字，一、二、三。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "세어봐도", "explanation": "세다 (數) + -아/어 보다 (嘗試) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "늘 그 자리에서",
+      "translation": "總是在那個位置",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "그 자리에서", "explanation": "그 (那) + 자리 (位置) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "어두워진 내 맘을 비춰준 별 하나",
+      "translation": "照耀我變得黑暗的心的那一顆星星",
+      "analysis": [
+        { "point": "어두워진", "explanation": "어두워지다 (變暗) 的冠詞形。" },
+        { "point": "내 맘을", "explanation": "내 (我的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "비춰준", "explanation": "비추다 (照耀) + -아/어 주다 (為我做) 的冠詞形。" },
+        { "point": "별 하나", "explanation": "별 (星星) + 하나 (一)。" }
+      ]
+    },
+    {
+      "korean": "말을 하지 않아도 이젠 알 수 있어",
+      "translation": "即使不說 現在也能知道",
+      "analysis": [
+        { "point": "말을", "explanation": "말 (話) + -을 (受格助詞)。" },
+        { "point": "하지 않아도", "explanation": "하다 (做) + -지 않다 (否定) + -아/어도 (即使)。" },
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (強調) 的縮略。" },
+        { "point": "알 수 있어", "explanation": "알다 (知道) + -(으)ㄹ 수 있다 (能夠) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "영원히 언제나 이대로",
+      "translation": "永遠地 無論何時 就這樣",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "이대로", "explanation": "就這樣。" }
+      ]
+    },
+    {
+      "korean": "나의 사랑 별 우리사랑 이대로",
+      "translation": "我的愛星 我們的愛 就這樣",
+      "analysis": [
+        { "point": "나의 사랑 별", "explanation": "나의 (我的) + 사랑 (愛) + 별 (星星)。" },
+        { "point": "우리사랑", "explanation": "우리 (我們) + 사랑 (愛)。" },
+        { "point": "이대로", "explanation": "就這樣。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "혼자였던 시간들 이젠 없을 거야",
+      "translation": "曾經獨自一人的時間 現在不會有了",
+      "analysis": [
+        { "point": "혼자였던", "explanation": "혼자 (獨自) + -이었다 (是) 的過去冠詞形。" },
+        { "point": "시간들", "explanation": "시간 (時間) + -들 (複數)。" },
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (強調) 的縮略。" },
+        { "point": "없을 거야", "explanation": "없다 (沒有) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "korean": "영원히 언제나 이대로",
+      "translation": "永遠地 無論何時 就這樣",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "이대로", "explanation": "就這樣。" }
+      ]
+    },
+    {
+      "korean": "나의 사랑 별 바로 너",
+      "translation": "我的愛星 就是你",
+      "analysis": [
+        { "point": "나의 사랑 별", "explanation": "나의 (我的) + 사랑 (愛) + 별 (星星)。" },
+        { "point": "바로 너", "explanation": "바로 (正是) + 너 (你)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "하나", "chinese": "一", "pos": "數詞" },
+    { "korean": "둘", "chinese": "二", "pos": "數詞" },
+    { "korean": "셋", "chinese": "三", "pos": "數詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "세다", "chinese": "數", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "잠들다", "chinese": "入睡", "pos": "動詞" },
+    { "korean": "꺼내다", "chinese": "取出、喚醒", "pos": "動詞" },
+    { "korean": "못다 하다", "chinese": "沒能全部做完", "pos": "動詞" },
+    { "korean": "이야기", "chinese": "話", "pos": "名詞" },
+    { "korean": "모두", "chinese": "全部", "pos": "副詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
+    { "korean": "언제나", "chinese": "無論何時", "pos": "副詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "그리고", "chinese": "還有", "pos": "連接詞" },
+    { "korean": "환하다", "chinese": "明亮的", "pos": "形容詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "별빛", "chinese": "星光", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "새록새록", "chinese": "一次次地", "pos": "擬態詞" },
+    { "korean": "떠올리다", "chinese": "浮現", "pos": "動詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "콧노래", "chinese": "哼唱", "pos": "名詞" },
+    { "korean": "부르다", "chinese": "唱", "pos": "動詞" },
+    { "korean": "슈르슈르르", "chinese": "簌簌簌簌", "pos": "擬聲/擬態詞" },
+    { "korean": "휘파람", "chinese": "口哨", "pos": "名詞" },
+    { "korean": "은하수", "chinese": "銀河", "pos": "名詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "또르또르르", "chinese": "轉啊轉", "pos": "擬態詞" },
+    { "korean": "다신", "chinese": "再也", "pos": "副詞" },
+    { "korean": "보내다", "chinese": "送、放開", "pos": "動詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "있다", "chinese": "在", "pos": "動詞" },
+    { "korean": "멀리서", "chinese": "從遠處", "pos": "副詞" },
+    { "korean": "소리치다", "chinese": "大聲喊", "pos": "動詞" },
+    { "korean": "달려오다", "chinese": "跑來", "pos": "動詞" },
+    { "korean": "두근두근", "chinese": "撲通撲通", "pos": "擬態詞" },
+    { "korean": "졸이다", "chinese": "焦急", "pos": "動詞" },
+    { "korean": "애태우다", "chinese": "焦躁", "pos": "動詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "실바람", "chinese": "微風", "pos": "名詞" },
+    { "korean": "불다", "chinese": "吹", "pos": "動詞" },
+    { "korean": "조심스럽다", "chinese": "小心翼翼的", "pos": "形容詞" },
+    { "korean": "용기내다", "chinese": "鼓起勇氣", "pos": "動詞" },
+    { "korean": "그래", "chinese": "對、沒錯", "pos": "感嘆詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "늘", "chinese": "總是", "pos": "副詞" },
+    { "korean": "자리", "chinese": "位置", "pos": "名詞" },
+    { "korean": "어두워지다", "chinese": "變暗", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "바로", "chinese": "正是", "pos": "副詞" }
+  ]
+}

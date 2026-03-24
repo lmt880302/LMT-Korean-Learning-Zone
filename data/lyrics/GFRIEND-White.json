@@ -1,0 +1,433 @@
+{
+  "id": "GFRIEND-White",
+  "title": "White (하얀마음)",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "맑은 햇살이 하얗게 날 비추면",
+      "translation": "晴朗的陽光 白色的照耀我時",
+      "analysis": [
+        { "point": "맑은", "explanation": "맑다 (晴朗的) 的冠詞形。" },
+        { "point": "햇살이", "explanation": "햇살 (陽光) + -이 (主格助詞)。" },
+        { "point": "하얗게", "explanation": "하얗다 (白色的) + -게 (副詞形語尾)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "비추면", "explanation": "비추다 (照耀) + -(으)면 (如果/每當)。" }
+      ]
+    },
+    {
+      "korean": "나는 너의 따스함을 느껴",
+      "translation": "我感受到你的溫暖",
+      "analysis": [
+        { "point": "나는", "explanation": "나 (我) + -는 (主題助詞)。" },
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "따스함을", "explanation": "따스함 (溫暖) + -을 (受格助詞)。" },
+        { "point": "느껴", "explanation": "느끼다 (感受) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "소중한 약속 때론 힘들겠지만",
+      "translation": "珍貴的約定 雖然有時會辛苦",
+      "analysis": [
+        { "point": "소중한", "explanation": "소중하다 (珍貴的) 的冠詞形。" },
+        { "point": "약속", "explanation": "名詞，約定。" },
+        { "point": "때론", "explanation": "때로는 (有時) 的縮略。" },
+        { "point": "힘들겠지만", "explanation": "힘들다 (辛苦的) + -겠- (推測) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "영원히 간직하고 싶은걸",
+      "translation": "想要永遠珍藏",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "간직하고 싶은걸", "explanation": "간직하다 (珍藏) + -고 싶다 (想) 的冠詞形 + -걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "korean": "서로 느낄 수만 있다면",
+      "translation": "只要能夠彼此感受",
+      "analysis": [
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "느낄 수만 있다면", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "작은 용기가 필요한 걸",
+      "translation": "需要小小的勇氣",
+      "analysis": [
+        { "point": "작은", "explanation": "작다 (小的) 的冠詞形。" },
+        { "point": "용기가", "explanation": "용기 (勇氣) + -가 (主格助詞)。" },
+        { "point": "필요한 걸", "explanation": "필요하다 (需要) 的冠詞形 + -걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "마냥 어린애처럼 때묻지 않게 웃을 수 있게",
+      "translation": "能夠像單純的孩子一樣 不沾染世俗地微笑",
+      "analysis": [
+        { "point": "마냥", "explanation": "副詞，只是、一味地。" },
+        { "point": "어린애처럼", "explanation": "어린애 (小孩子) + -처럼 (像...一樣)。" },
+        { "point": "때묻지 않게", "explanation": "때묻다 (沾染污垢) + -지 않다 (否定) + -게 (使得)。" },
+        { "point": "웃을 수 있게", "explanation": "웃다 (笑) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "오 언제까지나 너만의 하얀 빛이 돼줄게",
+      "translation": "Oh 無論何時 我會成為只屬於你的白色光芒",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" },
+        { "point": "너만의", "explanation": "너 (你) + -만 (只) + -의 (的)。" },
+        { "point": "하얀 빛이", "explanation": "하얀 (白色的) + 빛 (光) + -이 (主格助詞)。" },
+        { "point": "돼줄게", "explanation": "되다 (成為) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "어릴 적 동화 속 얘기처럼",
+      "translation": "像小時候童話故事裡的故事一樣",
+      "analysis": [
+        { "point": "어릴 적", "explanation": "어리다 (年幼的) 的冠詞形 + 적 (時期)。" },
+        { "point": "동화 속", "explanation": "동화 (童話) + 속 (裡面)。" },
+        { "point": "얘기처럼", "explanation": "얘기 (故事) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "순수했던 꿈처럼 감싸 안을게",
+      "translation": "像曾經純真的夢一樣 會擁抱你",
+      "analysis": [
+        { "point": "순수했던", "explanation": "순수하다 (純真的) 的過去冠詞形。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "감싸 안을게", "explanation": "감싸안다 (擁抱) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "수줍은 소녀처럼 오로지 널 바라볼 수 있게",
+      "translation": "能夠像害羞的少女一樣 只凝視著你",
+      "analysis": [
+        { "point": "수줍은", "explanation": "수줍다 (害羞的) 的冠詞形。" },
+        { "point": "소녀처럼", "explanation": "소녀 (少女) + -처럼 (像...一樣)。" },
+        { "point": "오로지", "explanation": "副詞，只、僅。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "바라볼 수 있게", "explanation": "바라보다 (凝視) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "내 하얀 마음에 핑크빛 사랑 가득 채울게",
+      "translation": "在我白色的心中 會裝滿粉紅色的愛",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "하얀 마음에", "explanation": "하얀 (白色的) + 마음 (心) + -에 (場所助詞)。" },
+        { "point": "핑크빛", "explanation": "名詞，粉紅色。" },
+        { "point": "사랑", "explanation": "名詞，愛情。" },
+        { "point": "가득", "explanation": "副詞，滿滿地。" },
+        { "point": "채울게", "explanation": "채우다 (填滿) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "달콤한 입술에 살포시 입 맞추면",
+      "translation": "如果在甜蜜的嘴唇上輕輕地親吻",
+      "analysis": [
+        { "point": "달콤한", "explanation": "달콤하다 (甜蜜的) 的冠詞形。" },
+        { "point": "입술에", "explanation": "입술 (嘴唇) + -에 (場所助詞)。" },
+        { "point": "살포시", "explanation": "副詞，輕輕地。" },
+        { "point": "입 맞추면", "explanation": "입 맞추다 (親吻) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "따스한 사랑이 하얗게 내릴 거야",
+      "translation": "溫暖的愛會白色地降下",
+      "analysis": [
+        { "point": "따스한", "explanation": "따스하다 (溫暖的) 的冠詞形。" },
+        { "point": "사랑이", "explanation": "사랑 (愛情) + -이 (主格助詞)。" },
+        { "point": "하얗게", "explanation": "하얗다 (白色的) + -게 (副詞形語尾)。" },
+        { "point": "내릴 거야", "explanation": "내리다 (降下) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "시렸던 마음 스르륵 녹아내려",
+      "translation": "曾凍僵的心 輕輕地融化",
+      "analysis": [
+        { "point": "시렸던", "explanation": "시리다 (凍僵的、冰冷的) 的過去冠詞形。" },
+        { "point": "마음", "explanation": "名詞，心。" },
+        { "point": "스르륵", "explanation": "擬態詞，輕輕地、悄悄地。" },
+        { "point": "녹아내려", "explanation": "녹아내리다 (融化掉下) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "차가운 시절 이젠 안녕",
+      "translation": "冰冷的時節 現在再見",
+      "analysis": [
+        { "point": "차가운", "explanation": "차갑다 (冰冷的) 的冠詞形。" },
+        { "point": "시절", "explanation": "名詞，時節、時期。" },
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (強調) 的縮略。" },
+        { "point": "안녕", "explanation": "感嘆詞，再見、你好。" }
+      ]
+    },
+    {
+      "korean": "불안한 마음 때론 힘들겠지만",
+      "translation": "不安的心 雖然有時會辛苦",
+      "analysis": [
+        { "point": "불안한", "explanation": "불안하다 (不安的) 的冠詞形。" },
+        { "point": "마음", "explanation": "名詞，心。" },
+        { "point": "때론", "explanation": "때로는 (有時) 的縮略。" },
+        { "point": "힘들겠지만", "explanation": "힘들다 (辛苦的) + -겠- (推測) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "너의 힘이 되어주고 싶은걸",
+      "translation": "想要成為你的力量",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "힘이", "explanation": "힘 (力量) + -이 (主格助詞)。" },
+        { "point": "되어주고 싶은걸", "explanation": "되다 (成為) + -아/어 주다 (為你做) + -고 싶다 (想) 的冠詞形 + -걸 (感嘆/說明語氣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "서로 믿을 수만 있다면",
+      "translation": "只要能夠彼此相信",
+      "analysis": [
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "믿을 수만 있다면", "explanation": "믿다 (相信) + -(으)ㄹ 수 있다 (能夠) + -만 (只) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "그 무엇도 두렵지 않아",
+      "translation": "什麼都不會害怕",
+      "analysis": [
+        { "point": "그 무엇도", "explanation": "그 무엇 (任何東西) + -도 (也)。" },
+        { "point": "두렵지 않아", "explanation": "두렵다 (害怕的) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "(woo yeah)",
+      "translation": "(woo yeah)",
+      "analysis": [
+        { "point": "woo yeah", "explanation": "感嘆詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "마냥 어린애처럼 때묻지 않게 웃을 수 있게",
+      "translation": "能夠像單純的孩子一樣 不沾染世俗地微笑",
+      "analysis": [
+        { "point": "마냥", "explanation": "副詞，只是、一味地。" },
+        { "point": "어린애처럼", "explanation": "어린애 (小孩子) + -처럼 (像...一樣)。" },
+        { "point": "때묻지 않게", "explanation": "때묻다 (沾染污垢) + -지 않다 (否定) + -게 (使得)。" },
+        { "point": "웃을 수 있게", "explanation": "웃다 (笑) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "오 언제까지나 너만의 하얀 빛이 돼줄게",
+      "translation": "Oh 無論何時 我會成為只屬於你的白色光芒",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" },
+        { "point": "너만의", "explanation": "너 (你) + -만 (只) + -의 (的)。" },
+        { "point": "하얀 빛이", "explanation": "하얀 (白色的) + 빛 (光) + -이 (主格助詞)。" },
+        { "point": "돼줄게", "explanation": "되다 (成為) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "어릴 적 동화 속 얘기처럼",
+      "translation": "像小時候童話故事裡的故事一樣",
+      "analysis": [
+        { "point": "어릴 적", "explanation": "어리다 (年幼的) 的冠詞形 + 적 (時期)。" },
+        { "point": "동화 속", "explanation": "동화 (童話) + 속 (裡面)。" },
+        { "point": "얘기처럼", "explanation": "얘기 (故事) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "순수했던 꿈처럼 감싸 안을게",
+      "translation": "像曾經純真的夢一樣 會擁抱你",
+      "analysis": [
+        { "point": "순수했던", "explanation": "순수하다 (純真的) 的過去冠詞形。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "감싸 안을게", "explanation": "감싸안다 (擁抱) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "언제까지나",
+      "translation": "無論何時",
+      "analysis": [
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "아직은 많이 서툴지만",
+      "translation": "雖然還有很多生疏之處",
+      "analysis": [
+        { "point": "아직은", "explanation": "아직 (還) + -은 (強調)。" },
+        { "point": "많이", "explanation": "副詞，很多地。" },
+        { "point": "서툴지만", "explanation": "서투르다 (生疏的) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "너에게 만은 진심인걸",
+      "translation": "但對你 是真心",
+      "analysis": [
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/對)。" },
+        { "point": "만은", "explanation": "-만 (只) + -은 (強調)，但前面省略了前面的詞，語意為「對你至少是...」。固定表達。" },
+        { "point": "진심인걸", "explanation": "진심 (真心) + -인걸 (是...啊)。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑해 널 사랑해",
+      "translation": "我愛你 我愛你",
+      "analysis": [
+        { "point": "너를 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "널 사랑해", "explanation": "너를 (你) 的縮略 + 사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "마냥 어린애처럼 때묻지 않게 웃을 수 있게",
+      "translation": "能夠像單純的孩子一樣 不沾染世俗地微笑",
+      "analysis": [
+        { "point": "마냥", "explanation": "副詞，只是、一味地。" },
+        { "point": "어린애처럼", "explanation": "어린애 (小孩子) + -처럼 (像...一樣)。" },
+        { "point": "때묻지 않게", "explanation": "때묻다 (沾染污垢) + -지 않다 (否定) + -게 (使得)。" },
+        { "point": "웃을 수 있게", "explanation": "웃다 (笑) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "오 언제까지나 너만의 하얀 빛이 돼줄게",
+      "translation": "Oh 無論何時 我會成為只屬於你的白色光芒",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，哦。" },
+        { "point": "언제까지나", "explanation": "언제까지 (直到何時) + -나 (強調，無論何時都)。" },
+        { "point": "너만의", "explanation": "너 (你) + -만 (只) + -의 (的)。" },
+        { "point": "하얀 빛이", "explanation": "하얀 (白色的) + 빛 (光) + -이 (主格助詞)。" },
+        { "point": "돼줄게", "explanation": "되다 (成為) + -아/어 주다 (為你做) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "어릴 적 동화 속 얘기처럼",
+      "translation": "像小時候童話故事裡的故事一樣",
+      "analysis": [
+        { "point": "어릴 적", "explanation": "어리다 (年幼的) 的冠詞形 + 적 (時期)。" },
+        { "point": "동화 속", "explanation": "동화 (童話) + 속 (裡面)。" },
+        { "point": "얘기처럼", "explanation": "얘기 (故事) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "순수했던 꿈처럼 감싸 안을게 (감싸 안을게)",
+      "translation": "像曾經純真的夢一樣 會擁抱你 (會擁抱你)",
+      "analysis": [
+        { "point": "순수했던", "explanation": "순수하다 (純真的) 的過去冠詞形。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" },
+        { "point": "감싸 안을게", "explanation": "감싸안다 (擁抱) + -(으)ㄹ게 (表示承諾)。" },
+        { "point": "감싸 안을게", "explanation": "重複部分，解析同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "수줍은 소녀처럼 오로지 널 바라볼 수 있게",
+      "translation": "能夠像害羞的少女一樣 只凝視著你",
+      "analysis": [
+        { "point": "수줍은", "explanation": "수줍다 (害羞的) 的冠詞形。" },
+        { "point": "소녀처럼", "explanation": "소녀 (少女) + -처럼 (像...一樣)。" },
+        { "point": "오로지", "explanation": "副詞，只、僅。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "바라볼 수 있게", "explanation": "바라보다 (凝視) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "내 하얀 마음에 핑크빛 사랑 가득 채울게",
+      "translation": "在我白色的心中 會裝滿粉紅色的愛",
+      "analysis": [
+        { "point": "내", "explanation": "我的。" },
+        { "point": "하얀 마음에", "explanation": "하얀 (白色的) + 마음 (心) + -에 (場所助詞)。" },
+        { "point": "핑크빛", "explanation": "名詞，粉紅色。" },
+        { "point": "사랑", "explanation": "名詞，愛情。" },
+        { "point": "가득", "explanation": "副詞，滿滿地。" },
+        { "point": "채울게", "explanation": "채우다 (填滿) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "달콤한 입술에 살포시 입 맞추면",
+      "translation": "如果在甜蜜的嘴唇上輕輕地親吻",
+      "analysis": [
+        { "point": "달콤한", "explanation": "달콤하다 (甜蜜的) 的冠詞形。" },
+        { "point": "입술에", "explanation": "입술 (嘴唇) + -에 (場所助詞)。" },
+        { "point": "살포시", "explanation": "副詞，輕輕地。" },
+        { "point": "입 맞추면", "explanation": "입 맞추다 (親吻) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "따스한 사랑이 하얗게 내릴 거야",
+      "translation": "溫暖的愛會白色地降下",
+      "analysis": [
+        { "point": "따스한", "explanation": "따스하다 (溫暖的) 的冠詞形。" },
+        { "point": "사랑이", "explanation": "사랑 (愛情) + -이 (主格助詞)。" },
+        { "point": "하얗게", "explanation": "하얗다 (白色的) + -게 (副詞形語尾)。" },
+        { "point": "내릴 거야", "explanation": "내리다 (降下) + -(으)ㄹ 거야 (推測/意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "맑다", "chinese": "晴朗的", "pos": "形容詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "하얗다", "chinese": "白色的", "pos": "形容詞" },
+    { "korean": "비추다", "chinese": "照耀", "pos": "動詞" },
+    { "korean": "따스함", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "약속", "chinese": "約定", "pos": "名詞" },
+    { "korean": "힘들다", "chinese": "辛苦的", "pos": "形容詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "간직하다", "chinese": "珍藏", "pos": "動詞" },
+    { "korean": "서로", "chinese": "互相", "pos": "副詞" },
+    { "korean": "작다", "chinese": "小的", "pos": "形容詞" },
+    { "korean": "용기", "chinese": "勇氣", "pos": "名詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "마냥", "chinese": "只是、一味地", "pos": "副詞" },
+    { "korean": "어린애", "chinese": "小孩子", "pos": "名詞" },
+    { "korean": "때묻다", "chinese": "沾染污垢", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "언제까지나", "chinese": "無論何時都", "pos": "副詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "어릴 적", "chinese": "小時候", "pos": "名詞" },
+    { "korean": "동화", "chinese": "童話", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "얘기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "순수하다", "chinese": "純真的", "pos": "形容詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "감싸안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "수줍다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "소녀", "chinese": "少女", "pos": "名詞" },
+    { "korean": "오로지", "chinese": "只、僅", "pos": "副詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "핑크빛", "chinese": "粉紅色", "pos": "名詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "가득", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "채우다", "chinese": "填滿", "pos": "動詞" },
+    { "korean": "달콤하다", "chinese": "甜蜜的", "pos": "形容詞" },
+    { "korean": "입술", "chinese": "嘴唇", "pos": "名詞" },
+    { "korean": "살포시", "chinese": "輕輕地", "pos": "副詞" },
+    { "korean": "입 맞추다", "chinese": "親吻", "pos": "動詞" },
+    { "korean": "따스하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "내리다", "chinese": "降下", "pos": "動詞" },
+    { "korean": "시리다", "chinese": "凍僵的、冰冷的", "pos": "形容詞" },
+    { "korean": "스르륵", "chinese": "輕輕地", "pos": "擬態詞" },
+    { "korean": "녹아내리다", "chinese": "融化掉下", "pos": "動詞" },
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "시절", "chinese": "時節、時期", "pos": "名詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "안녕", "chinese": "再見", "pos": "感嘆詞" },
+    { "korean": "불안하다", "chinese": "不安的", "pos": "形容詞" },
+    { "korean": "힘", "chinese": "力量", "pos": "名詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "무엇", "chinese": "什麼", "pos": "代名詞" },
+    { "korean": "두렵다", "chinese": "害怕的", "pos": "形容詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "서투르다", "chinese": "生疏的", "pos": "形容詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" }
+  ]
+}
