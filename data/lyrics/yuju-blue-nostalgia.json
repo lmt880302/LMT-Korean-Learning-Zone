@@ -1,0 +1,319 @@
+{
+  "id": "yuju-blue-nostalgia",
+  "title": "Blue Nostalgia",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "그 꿈에서 난",
+      "translation": "在那個夢中 我",
+      "analysis": [
+        { "point": "그 꿈에서", "explanation": "그 (那) + 꿈 (夢) + -에서 (在...裡面)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "익숙한 공기 낯익은 소리 속 너를 찾아",
+      "translation": "在熟悉的空氣、似曾相識的聲音中尋找著你",
+      "analysis": [
+        { "point": "익숙한", "explanation": "익숙하다 (熟悉的) 的定語形。" },
+        { "point": "공기", "explanation": "名詞，空氣。" },
+        { "point": "낯익은", "explanation": "낯익다 (似曾相識的、面熟的) 的定語形。" },
+        { "point": "소리 속", "explanation": "소리 (聲音) + 속 (裡面)。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "찾아", "explanation": "찾다 (尋找) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "늦은 인사를 서로 나누고",
+      "translation": "互相說著遲來的問候",
+      "analysis": [
+        { "point": "늦은", "explanation": "늦다 (晚的) 的定語形。" },
+        { "point": "인사를", "explanation": "인사 (問候) + -를 (受格助詞)。" },
+        { "point": "서로", "explanation": "副詞，互相。" },
+        { "point": "나누고", "explanation": "나누다 (分享、分擔) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "맞닿은 순간 다시 눈을 떠 oh",
+      "translation": "相觸的瞬間 再次睜開眼睛 oh",
+      "analysis": [
+        { "point": "맞닿은", "explanation": "맞닿다 (相觸) 的過去定語形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "눈을 떠", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的非格式體。" },
+        { "point": "oh", "explanation": "英文，喔。" }
+      ]
+    },
+    {
+      "korean": "Over & over & over & over again again",
+      "translation": "Over & over & over & over again again",
+      "analysis": [
+        { "point": "Over & over & over & over again again", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "시간은 홀로 저 멀리 흘러",
+      "translation": "時間獨自向遠方流逝",
+      "analysis": [
+        { "point": "시간은", "explanation": "시간 (時間) + -은 (主題助詞)。" },
+        { "point": "홀로", "explanation": "副詞，獨自。" },
+        { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
+        { "point": "흘러", "explanation": "흐르다 (流逝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "돌아갈 수가 없어 난",
+      "translation": "我無法回去",
+      "analysis": [
+        { "point": "돌아갈 수가 없어", "explanation": "돌아가다 (回去) + -(으)ㄹ 수 없다 (無法) + -가 (強調)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "알고 있지만 멀리 가진 마",
+      "translation": "雖然知道 但不要走遠",
+      "analysis": [
+        { "point": "알고 있지만", "explanation": "알다 (知道) + -고 있다 (正在) + -지만 (雖然)。" },
+        { "point": "멀리 가진 마", "explanation": "멀리 (遠處) + 가다 (去) + -지 (強調) + -는 (主題) + 말다 (不要) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "Cause you're my blue blue butterfly",
+      "translation": "因為你是我的藍色蝴蝶",
+      "analysis": [
+        { "point": "Cause you're my blue blue butterfly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "텅 빈 하루를 보내",
+      "translation": "度過空虛的一天",
+      "analysis": [
+        { "point": "텅 빈", "explanation": "텅 (空) + 비다 (空) 的過去定語形。" },
+        { "point": "하루를", "explanation": "하루 (一天) + -를 (受格助詞)。" },
+        { "point": "보내", "explanation": "보내다 (度過、送) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "5PM to 6PM",
+      "translation": "下午五點到六點",
+      "analysis": [
+        { "point": "5PM to 6PM", "explanation": "英文，下午五點到六點。" }
+      ]
+    },
+    {
+      "korean": "노을이 지듯",
+      "translation": "如同晚霞落下",
+      "analysis": [
+        { "point": "노을이", "explanation": "노을 (晚霞) + -이 (主格助詞)。" },
+        { "point": "지듯", "explanation": "지다 (落下) + -듯 (好像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "맑은 네 모습 점점 바래져",
+      "translation": "你清澈的模樣漸漸褪色",
+      "analysis": [
+        { "point": "맑은", "explanation": "맑다 (清澈的) 的定語形。" },
+        { "point": "네 모습", "explanation": "네 (你的) + 모습 (模樣)。" },
+        { "point": "점점", "explanation": "副詞，漸漸地。" },
+        { "point": "바래져", "explanation": "바래지다 (褪色) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "기억을 쥐고 있는 두 손에 힘을 풀어서",
+      "translation": "在抓著記憶的雙手上 鬆開力氣",
+      "analysis": [
+        { "point": "기억을", "explanation": "기억 (記憶) + -을 (受格助詞)。" },
+        { "point": "쥐고 있는", "explanation": "쥐다 (抓住) + -고 있다 (正在) 的定語形。" },
+        { "point": "두 손에", "explanation": "두 (二) + 손 (手) + -에 (場所助詞)。" },
+        { "point": "힘을", "explanation": "힘 (力氣) + -을 (受格助詞)。" },
+        { "point": "풀어서", "explanation": "풀다 (鬆開、解開) + -아/어서 (然後)。" }
+      ]
+    },
+    {
+      "korean": "놓아주려 해 oh",
+      "translation": "想要放手 oh",
+      "analysis": [
+        { "point": "놓아주려 해", "explanation": "놓아주다 (放開、放手) + -려 하다 (想要) 的非格式體。" },
+        { "point": "oh", "explanation": "英文，喔。" }
+      ]
+    },
+    {
+      "korean": "Over & over & over & over again again",
+      "translation": "Over & over & over & over again again",
+      "analysis": [
+        { "point": "Over & over & over & over again again", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "시간은 홀로 저 멀리 흘러",
+      "translation": "時間獨自向遠方流逝",
+      "analysis": [
+        { "point": "시간은", "explanation": "시간 (時間) + -은 (主題助詞)。" },
+        { "point": "홀로", "explanation": "副詞，獨自。" },
+        { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
+        { "point": "흘러", "explanation": "흐르다 (流逝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "돌아갈 수가 없어 난",
+      "translation": "我無法回去",
+      "analysis": [
+        { "point": "돌아갈 수가 없어", "explanation": "돌아가다 (回去) + -(으)ㄹ 수 없다 (無法) + -가 (強調)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "알고 있지만 멀리 가진 마",
+      "translation": "雖然知道 但不要走遠",
+      "analysis": [
+        { "point": "알고 있지만", "explanation": "알다 (知道) + -고 있다 (正在) + -지만 (雖然)。" },
+        { "point": "멀리 가진 마", "explanation": "멀리 (遠處) + 가다 (去) + -지 (強調) + -는 (主題) + 말다 (不要) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "Cause you're my blue blue butterfly",
+      "translation": "因為你是我的藍色蝴蝶",
+      "analysis": [
+        { "point": "Cause you're my blue blue butterfly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "텅 빈 하루를 지나",
+      "translation": "經過空虛的一天",
+      "analysis": [
+        { "point": "텅 빈", "explanation": "텅 (空) + 비다 (空) 的過去定語形。" },
+        { "point": "하루를", "explanation": "하루 (一天) + -를 (受格助詞)。" },
+        { "point": "지나", "explanation": "지나다 (經過) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "오늘을 끄고",
+      "translation": "關掉今天",
+      "analysis": [
+        { "point": "오늘을", "explanation": "오늘 (今天) + -을 (受格助詞)。" },
+        { "point": "끄고", "explanation": "끄다 (關掉) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "내일을 켜는 게 내겐 참 쉽지가 않아",
+      "translation": "開啟明天這件事 對我來說真的不容易",
+      "analysis": [
+        { "point": "내일을", "explanation": "내일 (明天) + -을 (受格助詞)。" },
+        { "point": "켜는 게", "explanation": "켜다 (開啟) 的現在定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮略。" },
+        { "point": "참", "explanation": "副詞，真的、非常。" },
+        { "point": "쉽지가 않아", "explanation": "쉽다 (容易) + -지 않다 (不) + -가 (強調) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "꼭 감은 눈이 너로 가득해 it's you",
+      "translation": "緊閉的雙眼裡充滿了你 就是你",
+      "analysis": [
+        { "point": "꼭", "explanation": "副詞，緊緊地。" },
+        { "point": "감은", "explanation": "감다 (閉) 的過去定語形。" },
+        { "point": "눈이", "explanation": "눈 (眼睛) + -이 (主格助詞)。" },
+        { "point": "너로", "explanation": "너 (你) + -(으)로 (用/以)。" },
+        { "point": "가득해", "explanation": "가득하다 (充滿) 的非格式體。" },
+        { "point": "it's you", "explanation": "英文，就是你。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "시간은 홀로 저 멀리 흘러",
+      "translation": "時間獨自向遠方流逝",
+      "analysis": [
+        { "point": "시간은", "explanation": "시간 (時間) + -은 (主題助詞)。" },
+        { "point": "홀로", "explanation": "副詞，獨自。" },
+        { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
+        { "point": "흘러", "explanation": "흐르다 (流逝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이젠 널 볼 수가 없어",
+      "translation": "現在我無法再見到你了",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "볼 수가 없어", "explanation": "보다 (看) + -(으)ㄹ 수 없다 (無法) + -가 (強調) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "알고 있지만 멀리 가진 마",
+      "translation": "雖然知道 但不要走遠",
+      "analysis": [
+        { "point": "알고 있지만", "explanation": "알다 (知道) + -고 있다 (正在) + -지만 (雖然)。" },
+        { "point": "멀리 가진 마", "explanation": "멀리 (遠處) + 가다 (去) + -지 (強調) + -는 (主題) + 말다 (不要) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "Cause you're my blue blue butterfly",
+      "translation": "因為你是我的藍色蝴蝶",
+      "analysis": [
+        { "point": "Cause you're my blue blue butterfly", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I need u before the dawn",
+      "translation": "黎明前我需要你",
+      "analysis": [
+        { "point": "I need u before the dawn", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "낯익다", "chinese": "似曾相識的", "pos": "形容詞" },
+    { "korean": "소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "늦다", "chinese": "晚的", "pos": "形容詞" },
+    { "korean": "인사", "chinese": "問候", "pos": "名詞" },
+    { "korean": "나누다", "chinese": "分享、分擔", "pos": "動詞" },
+    { "korean": "서로", "chinese": "互相", "pos": "副詞" },
+    { "korean": "맞닿다", "chinese": "相觸", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "뜨다", "chinese": "睜開", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "홀로", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "흐르다", "chinese": "流逝", "pos": "動詞" },
+    { "korean": "돌아가다", "chinese": "回去", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "가다", "chinese": "去", "pos": "動詞" },
+    { "korean": "텅 빈", "chinese": "空虛的", "pos": "片語" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "보내다", "chinese": "度過", "pos": "動詞" },
+    { "korean": "노을", "chinese": "晚霞", "pos": "名詞" },
+    { "korean": "지다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "맑다", "chinese": "清澈的", "pos": "形容詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "점점", "chinese": "漸漸地", "pos": "副詞" },
+    { "korean": "바래지다", "chinese": "褪色", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "쥐다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "힘", "chinese": "力氣", "pos": "名詞" },
+    { "korean": "풀다", "chinese": "鬆開", "pos": "動詞" },
+    { "korean": "놓아주다", "chinese": "放手", "pos": "動詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "끄다", "chinese": "關掉", "pos": "動詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "켜다", "chinese": "開啟", "pos": "動詞" },
+    { "korean": "쉽다", "chinese": "容易的", "pos": "形容詞" },
+    { "korean": "참", "chinese": "真的、非常", "pos": "副詞" },
+    { "korean": "꼭", "chinese": "緊緊地", "pos": "副詞" },
+    { "korean": "감다", "chinese": "閉", "pos": "動詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "이젠", "chinese": "現在", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" }
+  ]
+}

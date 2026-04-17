@@ -1,0 +1,329 @@
+{
+  "id": "GFRIEND-TRUST",
+  "title": "TRUST",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "이렇게 만나게 된 게",
+      "translation": "能夠這樣相遇這件事",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣地。" },
+        { "point": "만나게 된 게", "explanation": "만나다 (見面) + -게 되다 (變得) 的冠詞形 + 것 (東西) + -이 (主格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "운명 아닌 혹시 우연이라면",
+      "translation": "如果不是命運 也許是偶然的話",
+      "analysis": [
+        { "point": "운명", "explanation": "名詞，命運。" },
+        { "point": "아닌", "explanation": "아니다 (不是) 的冠詞形。" },
+        { "point": "혹시", "explanation": "副詞，也許、萬一。" },
+        { "point": "우연이라면", "explanation": "우연 (偶然) + -이라면 (如果是)。" }
+      ]
+    },
+    {
+      "korean": "부끄럽지만 기적이라",
+      "translation": "雖然害羞 但想說是奇蹟",
+      "analysis": [
+        { "point": "부끄럽지만", "explanation": "부끄럽다 (害羞的) + -지만 (雖然)。" },
+        { "point": "기적이라", "explanation": "기적 (奇蹟) + -이라 (是) + - (省略後面的말하고 싶은데)。" }
+      ]
+    },
+    {
+      "korean": "말하고 싶은데",
+      "translation": "想說",
+      "analysis": [
+        { "point": "말하고 싶은데", "explanation": "말하다 (說) + -고 싶다 (想) + -는데 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "떨리는 맘 어떡해요",
+      "translation": "顫抖的心 怎麼辦",
+      "analysis": [
+        { "point": "떨리는", "explanation": "떨리다 (顫抖) 的冠詞形。" },
+        { "point": "맘", "explanation": "마음 (心) 的縮略。" },
+        { "point": "어떡해요", "explanation": "어떻게 해요 (怎麼辦) 的縮略敬語。" }
+      ]
+    },
+    {
+      "korean": "서로가 조금씩 더 깊어져",
+      "translation": "彼此一點一點地更深",
+      "analysis": [
+        { "point": "서로가", "explanation": "서로 (彼此) + -가 (主格助詞)。" },
+        { "point": "조금씩", "explanation": "조금 (一點) + -씩 (每、逐漸)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "깊어져", "explanation": "깊어지다 (變深) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그렇게 내일을 물들어가요",
+      "translation": "就這樣將明天染色",
+      "analysis": [
+        { "point": "그렇게", "explanation": "副詞，那樣地。" },
+        { "point": "내일을", "explanation": "내일 (明天) + -을 (受格助詞)。" },
+        { "point": "물들어가요", "explanation": "물들다 (染色) + -아/어 가다 (逐漸) 的敬語。" }
+      ]
+    },
+    {
+      "korean": "함께 있다는 걸 느낀 순간",
+      "translation": "感受到在一起的瞬間",
+      "analysis": [
+        { "point": "함께 있다는 걸", "explanation": "함께 (一起) + 있다 (在) + -는 걸 (名詞化受格)。" },
+        { "point": "느낀 순간", "explanation": "느끼다 (感受) 的冠詞形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "쏟아지는 별들이 다가오는 꿈들이",
+      "translation": "傾瀉的星星們 靠近的夢們",
+      "analysis": [
+        { "point": "쏟아지는", "explanation": "쏟아지다 (傾瀉) 的冠詞形。" },
+        { "point": "별들이", "explanation": "별 (星星) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "다가오는", "explanation": "다가오다 (靠近) 的冠詞形。" },
+        { "point": "꿈들이", "explanation": "꿈 (夢) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "닮아가는 우리 앞을 밝혀주네요",
+      "translation": "照亮逐漸相似的我們的前方",
+      "analysis": [
+        { "point": "닮아가는", "explanation": "닮아가다 (逐漸相似) 的冠詞形。" },
+        { "point": "우리 앞을", "explanation": "우리 (我們) + 앞 (前方) + -을 (受格助詞)。" },
+        { "point": "밝혀주네요", "explanation": "밝히다 (照亮) + -아/어 주다 (為我做) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "언제나 이 마음 한 가운데",
+      "translation": "無論何時 在這心中的正中央",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "이 마음", "explanation": "이 (這) + 마음 (心)。" },
+        { "point": "한 가운데", "explanation": "한 (一) + 가운데 (中央)。" }
+      ]
+    },
+    {
+      "korean": "변하지 않는 나의 사랑인 거죠",
+      "translation": "是不變的我的愛啊",
+      "analysis": [
+        { "point": "변하지 않는", "explanation": "변하다 (變化) + -지 않다 (否定) 的冠詞形。" },
+        { "point": "나의 사랑인 거죠", "explanation": "나의 (我的) + 사랑 (愛) + -인 거죠 (是...啊)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "이대로 그대 가슴에 뛰어든 채",
+      "translation": "就這樣 跳入你心臟的狀態",
+      "analysis": [
+        { "point": "이대로", "explanation": "就這樣。" },
+        { "point": "그대 가슴에", "explanation": "그대 (你) + 가슴 (心臟/胸膛) + -에 (場所助詞)。" },
+        { "point": "뛰어든 채", "explanation": "뛰어들다 (跳入) 的冠詞形 + 채 (保持狀態)。" }
+      ]
+    },
+    {
+      "korean": "머무를 수 있다면",
+      "translation": "如果能夠停留",
+      "analysis": [
+        { "point": "머무를 수 있다면", "explanation": "머무르다 (停留) + -(으)ㄹ 수 있다 (能夠) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "한결같은 눈빛에 내 맘에",
+      "translation": "在如一的眼神中 在我的心中",
+      "analysis": [
+        { "point": "한결같은", "explanation": "한결같다 (一貫的、如一的) 的冠詞形。" },
+        { "point": "눈빛에", "explanation": "눈빛 (眼神) + -에 (場所助詞)。" },
+        { "point": "내 맘에", "explanation": "내 (我的) + 마음 (心) 的縮略 + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "무슨 설명이 더 필요하나요",
+      "translation": "還需要什麼說明呢",
+      "analysis": [
+        { "point": "무슨", "explanation": "冠詞，什麼。" },
+        { "point": "설명이", "explanation": "설명 (說明) + -이 (主格助詞)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "필요하나요", "explanation": "필요하다 (需要) + -나요 (疑問敬語)。" }
+      ]
+    },
+    {
+      "korean": "둘이 하나라고 믿는 순간",
+      "translation": "相信兩人是一體的瞬間",
+      "analysis": [
+        { "point": "둘이", "explanation": "둘 (二) + -이 (主格助詞)。" },
+        { "point": "하나라고 믿는", "explanation": "하나 (一) + -라고 (間接引語) + 믿다 (相信) 的冠詞形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "쏟아지는 별들이 다가오는 꿈들이",
+      "translation": "傾瀉的星星們 靠近的夢們",
+      "analysis": [
+        { "point": "쏟아지는", "explanation": "쏟아지다 (傾瀉) 的冠詞形。" },
+        { "point": "별들이", "explanation": "별 (星星) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "다가오는", "explanation": "다가오다 (靠近) 的冠詞形。" },
+        { "point": "꿈들이", "explanation": "꿈 (夢) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "닮아가는 우리 앞을 밝혀주네요",
+      "translation": "照亮逐漸相似的我們的前方",
+      "analysis": [
+        { "point": "닮아가는", "explanation": "닮아가다 (逐漸相似) 的冠詞形。" },
+        { "point": "우리 앞을", "explanation": "우리 (我們) + 앞 (前方) + -을 (受格助詞)。" },
+        { "point": "밝혀주네요", "explanation": "밝히다 (照亮) + -아/어 주다 (為我做) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "언제나 이 마음 한 가운데",
+      "translation": "無論何時 在這心中的正中央",
+      "analysis": [
+        { "point": "언제나", "explanation": "副詞，無論何時。" },
+        { "point": "이 마음", "explanation": "이 (這) + 마음 (心)。" },
+        { "point": "한 가운데", "explanation": "한 (一) + 가운데 (中央)。" }
+      ]
+    },
+    {
+      "korean": "변하지 않는 나의 사랑인 거죠",
+      "translation": "是不變的我的愛啊",
+      "analysis": [
+        { "point": "변하지 않는", "explanation": "변하다 (變化) + -지 않다 (否定) 的冠詞形。" },
+        { "point": "나의 사랑인 거죠", "explanation": "나의 (我的) + 사랑 (愛) + -인 거죠 (是...啊)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "지금처럼만 같길",
+      "translation": "希望像現在一樣",
+      "analysis": [
+        { "point": "지금처럼만", "explanation": "지금 (現在) + -처럼 (像...一樣) + -만 (只)。" },
+        { "point": "같길", "explanation": "같다 (像) + -길 (名詞化，表示希望)。" }
+      ]
+    },
+    {
+      "korean": "항상 변하지 않길 바랄게",
+      "translation": "我會希望總是不要改變",
+      "analysis": [
+        { "point": "항상", "explanation": "副詞，總是。" },
+        { "point": "변하지 않길", "explanation": "변하다 (變化) + -지 않다 (否定) + -길 (名詞化，表示希望)。" },
+        { "point": "바랄게", "explanation": "바라다 (希望) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "조금 두렵지만",
+      "translation": "雖然有點害怕",
+      "analysis": [
+        { "point": "조금", "explanation": "副詞，一點。" },
+        { "point": "두렵지만", "explanation": "두렵다 (害怕的) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "이 길을 함께 걷고 싶어",
+      "translation": "想和你一起走這條路",
+      "analysis": [
+        { "point": "이 길을", "explanation": "이 (這) + 길 (路) + -을 (受格助詞)。" },
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "걷고 싶어", "explanation": "걷다 (走) + -고 싶다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "셀 수 없는 아픔이 쏟아지는 눈물이",
+      "translation": "數不清的痛苦 傾瀉的眼淚",
+      "analysis": [
+        { "point": "셀 수 없는", "explanation": "세다 (數) + -(으)ㄹ 수 없다 (無法) 的冠詞形。" },
+        { "point": "아픔이", "explanation": "아픔 (痛苦) + -이 (主格助詞)。" },
+        { "point": "쏟아지는", "explanation": "쏟아지다 (傾瀉) 的冠詞形。" },
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "하나가 된 우릴 보고 사라지네요",
+      "translation": "看見成為一體的我們 就消失了呢",
+      "analysis": [
+        { "point": "하나가 된", "explanation": "하나 (一) + -가 되다 (成為) 的冠詞形。" },
+        { "point": "우릴", "explanation": "우리를 (我們) 的縮略。" },
+        { "point": "보고", "explanation": "보다 (看) + -고 (連接詞尾)。" },
+        { "point": "사라지네요", "explanation": "사라지다 (消失) + -네요 (感嘆敬語)。" }
+      ]
+    },
+    {
+      "korean": "그대를 사랑해 어떤 것도",
+      "translation": "我愛你 無論什麼",
+      "analysis": [
+        { "point": "그대를", "explanation": "그대 (你) + -를 (受格助詞)。" },
+        { "point": "사랑해", "explanation": "사랑하다 (愛) 的非格式體。" },
+        { "point": "어떤 것도", "explanation": "어떤 (任何) + 것 (東西) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "막질 못해요 이제 시작인 거죠",
+      "translation": "無法阻擋 現在是開始啊",
+      "analysis": [
+        { "point": "막질 못해요", "explanation": "막다 (阻擋) + -지 못하다 (無法) 的敬語。" },
+        { "point": "이제", "explanation": "現在。" },
+        { "point": "시작인 거죠", "explanation": "시작 (開始) + -인 거죠 (是...啊)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "이렇게", "chinese": "這樣地", "pos": "副詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "운명", "chinese": "命運", "pos": "名詞" },
+    { "korean": "혹시", "chinese": "也許", "pos": "副詞" },
+    { "korean": "우연", "chinese": "偶然", "pos": "名詞" },
+    { "korean": "부끄럽다", "chinese": "害羞的", "pos": "形容詞" },
+    { "korean": "기적", "chinese": "奇蹟", "pos": "名詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "떨리다", "chinese": "顫抖", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "副詞" },
+    { "korean": "조금씩", "chinese": "一點一點地", "pos": "副詞" },
+    { "korean": "깊어지다", "chinese": "變深", "pos": "動詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "물들다", "chinese": "染色", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "있다", "chinese": "在", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "닮아가다", "chinese": "逐漸相似", "pos": "動詞" },
+    { "korean": "앞", "chinese": "前方", "pos": "名詞" },
+    { "korean": "밝히다", "chinese": "照亮", "pos": "動詞" },
+    { "korean": "언제나", "chinese": "無論何時", "pos": "副詞" },
+    { "korean": "가운데", "chinese": "中央", "pos": "名詞" },
+    { "korean": "변하다", "chinese": "變化", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛", "pos": "名詞" },
+    { "korean": "이대로", "chinese": "就這樣", "pos": "副詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "가슴", "chinese": "心臟、胸膛", "pos": "名詞" },
+    { "korean": "뛰어들다", "chinese": "跳入", "pos": "動詞" },
+    { "korean": "머무르다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "한결같다", "chinese": "一貫的、如一的", "pos": "形容詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "무슨", "chinese": "什麼", "pos": "冠詞" },
+    { "korean": "설명", "chinese": "說明", "pos": "名詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "둘", "chinese": "二、倆", "pos": "數詞" },
+    { "korean": "하나", "chinese": "一", "pos": "數詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "名詞" },
+    { "korean": "항상", "chinese": "總是", "pos": "副詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" },
+    { "korean": "조금", "chinese": "一點", "pos": "副詞" },
+    { "korean": "두렵다", "chinese": "害怕的", "pos": "形容詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "세다", "chinese": "數", "pos": "動詞" },
+    { "korean": "아픔", "chinese": "痛苦", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "막다", "chinese": "阻擋", "pos": "動詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "시작", "chinese": "開始", "pos": "名詞" }
+  ]
+}

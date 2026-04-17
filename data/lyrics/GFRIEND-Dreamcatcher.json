@@ -1,0 +1,484 @@
+{
+  "id": "GFRIEND-Dreamcatcher",
+  "title": "Dreamcatcher",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "난 매일 아침 꿈을 돌아보곤 해",
+      "translation": "我每天早晨都會回顧夢境",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "매일 아침", "explanation": "매일 (每天) + 아침 (早晨)，意為「每天早晨」。" },
+        { "point": "꿈을", "explanation": "꿈 (夢) + -을 (受格助詞)。" },
+        { "point": "돌아보곤 해", "explanation": "돌아보다 (回顧) + -곤 하다 (經常做) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어제도 네가 와 줬었는지",
+      "translation": "昨天你是否也來過",
+      "analysis": [
+        { "point": "어제도", "explanation": "어제 (昨天) + -도 (也)。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "와 줬었는지", "explanation": "오다 (來) + -아/어 주다 (為我) 的過去回想疑問形。" }
+      ]
+    },
+    {
+      "korean": "참 이상해 잠은 분명히 깼는데",
+      "translation": "真的很奇怪 明明已經醒了",
+      "analysis": [
+        { "point": "참", "explanation": "副詞，真、非常。" },
+        { "point": "이상해", "explanation": "이상하다 (奇怪) 的非格式體。" },
+        { "point": "잠은", "explanation": "잠 (睡) + -은 (主題助詞)。" },
+        { "point": "분명히", "explanation": "副詞，分明地。" },
+        { "point": "깼는데", "explanation": "깨다 (醒) 的過去形 + -는데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "korean": "너의 손길이 눈빛이 남아 있어 왜",
+      "translation": "為什麼你的手觸、你的眼神還留著",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "손길이", "explanation": "손길 (手觸、手的觸摸) + -이 (主格助詞)。" },
+        { "point": "눈빛이", "explanation": "눈빛 (眼神) + -이 (主格助詞)。" },
+        { "point": "남아 있어", "explanation": "남아 있다 (留著) 的非格式體。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "어둠이 싫었어",
+      "translation": "曾經討厭黑暗",
+      "analysis": [
+        { "point": "어둠이", "explanation": "어둠 (黑暗) + -이 (主格助詞)。" },
+        { "point": "싫었어", "explanation": "싫다 (討厭) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "네가 안아주기 전까지는",
+      "translation": "直到你擁抱我之前",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "안아주기", "explanation": "안아주다 (擁抱) 的名詞形。" },
+        { "point": "전까지는", "explanation": "전 (之前) + -까지 (直到) + -는 (強調)。" }
+      ]
+    },
+    {
+      "korean": "꿈속을 헤맬 수 있는 밤이 찾아오면",
+      "translation": "當可以在夢中徘徊的夜晚來臨時",
+      "analysis": [
+        { "point": "꿈속을", "explanation": "꿈속 (夢中) + -을 (受格助詞)。" },
+        { "point": "헤맬 수 있는", "explanation": "헤매다 (徘徊) + -(으)ㄹ 수 있다 (可以) 的定語形。" },
+        { "point": "밤이", "explanation": "밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "찾아오면", "explanation": "찾아오다 (來臨) + -(으)면 (如果/當)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 보러 와 줘",
+      "translation": "來看我吧",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "보러 와 줘", "explanation": "보다 (看) + -러 오다 (來做) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "어둠이 날 찾지 못하게",
+      "translation": "為了讓黑暗找不到我",
+      "analysis": [
+        { "point": "어둠이", "explanation": "어둠 (黑暗) + -이 (主格助詞)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾지 못하게", "explanation": "찾다 (尋找) + -지 못하다 (無法) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "내게 들어와 줘",
+      "translation": "進入我裡面吧",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "들어와 줘", "explanation": "들어오다 (進來) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "조금 더 널 알 수 있게",
+      "translation": "為了能再多了解你一點",
+      "analysis": [
+        { "point": "조금 더", "explanation": "조금 (一點) + 더 (更)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "알 수 있게", "explanation": "알다 (知道) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "You're my",
+      "translation": "你是我的",
+      "analysis": [
+        { "point": "You're my", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Dreamcatcher Dreamcatcher",
+      "translation": "捕夢網 捕夢網",
+      "analysis": [
+        { "point": "Dreamcatcher Dreamcatcher", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤을 기다리게 해",
+      "translation": "讓我等待夜晚",
+      "analysis": [
+        { "point": "밤을", "explanation": "밤 (夜晚) + -을 (受格助詞)。" },
+        { "point": "기다리게 해", "explanation": "기다리다 (等待) + -게 하다 (使...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Wanna be your love",
+      "translation": "想成為你的愛人",
+      "analysis": [
+        { "point": "Wanna be your love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꿈은 너와 나로 가득해 Yeah",
+      "translation": "夢裡充滿了你和我 Yeah",
+      "analysis": [
+        { "point": "꿈은", "explanation": "꿈 (夢) + -은 (主題助詞)。" },
+        { "point": "너와 나로", "explanation": "너 (你) + -와 (和) + 나 (我) + -(으)로 (用/以)。" },
+        { "point": "가득해", "explanation": "가득하다 (充滿) 的非格式體。" },
+        { "point": "Yeah", "explanation": "英文，耶。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "막연한 어둠들이 나를 삼키면",
+      "translation": "當模糊的黑暗們吞噬我",
+      "analysis": [
+        { "point": "막연한", "explanation": "막연하다 (模糊的) 的定語形。" },
+        { "point": "어둠들이", "explanation": "어둠 (黑暗) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "삼키면", "explanation": "삼키다 (吞噬) + -(으)면 (如果/當)。" }
+      ]
+    },
+    {
+      "korean": "혼자 이불을 뒤집어쓰고",
+      "translation": "獨自把被子拉過頭蓋著",
+      "analysis": [
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "이불을", "explanation": "이불 (被子) + -을 (受格助詞)。" },
+        { "point": "뒤집어쓰고", "explanation": "뒤집어쓰다 (拉過來蓋住) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "아무리 소리쳐봐도 누구도",
+      "translation": "無論怎麼呼喊 誰也",
+      "analysis": [
+        { "point": "아무리", "explanation": "副詞，無論怎麼。" },
+        { "point": "소리쳐봐도", "explanation": "소리치다 (呼喊) + -아/어 보다 (嘗試) + -아/어도 (即使)。" },
+        { "point": "누구도", "explanation": "누구 (誰) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "돌아봐 주지도 와 주지도 않았었어",
+      "translation": "不曾回頭看 也不曾來",
+      "analysis": [
+        { "point": "돌아봐 주지도", "explanation": "돌아보다 (回頭看) + -아/어 주다 (為我) + -지 (強調) + -도 (也)。" },
+        { "point": "와 주지도", "explanation": "오다 (來) + -아/어 주다 (為我) + -지 (強調) + -도 (也)。" },
+        { "point": "않았었어", "explanation": "않다 (不) 的過去回想非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "But 너는 수많은 별을 내 꿈 안에",
+      "translation": "但是你 把無數的星星 在我夢裡",
+      "analysis": [
+        { "point": "But", "explanation": "英文，但是。" },
+        { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
+        { "point": "수많은", "explanation": "수많다 (無數的) 的定語形。" },
+        { "point": "별을", "explanation": "별 (星星) + -을 (受格助詞)。" },
+        { "point": "내 꿈 안에", "explanation": "내 (我的) + 꿈 (夢) + 안 (裡面) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "들여보내 긴 어둠을 끝내",
+      "translation": "放進來 結束漫長的黑暗",
+      "analysis": [
+        { "point": "들여보내", "explanation": "들여보내다 (放進去) 的非格式體。" },
+        { "point": "긴 어둠을", "explanation": "길다 (長的) 的定語形 + 어둠 (黑暗) + -을 (受格助詞)。" },
+        { "point": "끝내", "explanation": "끝내다 (結束) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "길었던 하루보다 오히려 눈부신",
+      "translation": "比起漫長的一天 反而更耀眼的",
+      "analysis": [
+        { "point": "길었던", "explanation": "길다 (長) 的過去回想着定語形。" },
+        { "point": "하루보다", "explanation": "하루 (一天) + -보다 (比起)。" },
+        { "point": "오히려", "explanation": "副詞，反而。" },
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "밤이 다가오면",
+      "translation": "當夜晚來臨時",
+      "analysis": [
+        { "point": "밤이", "explanation": "밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "다가오면", "explanation": "다가오다 (靠近、來臨) + -(으)면 (如果/當)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "나를 보러 와 줘",
+      "translation": "來看我吧",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "보러 와 줘", "explanation": "보다 (看) + -러 오다 (來做) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "어둠이 날 찾지 못하게",
+      "translation": "為了讓黑暗找不到我",
+      "analysis": [
+        { "point": "어둠이", "explanation": "어둠 (黑暗) + -이 (主格助詞)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾지 못하게", "explanation": "찾다 (尋找) + -지 못하다 (無法) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "내게 들어와 줘",
+      "translation": "進入我裡面吧",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "들어와 줘", "explanation": "들어오다 (進來) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "조금 더 널 알 수 있게",
+      "translation": "為了能再多了解你一點",
+      "analysis": [
+        { "point": "조금 더", "explanation": "조금 (一點) + 더 (更)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "알 수 있게", "explanation": "알다 (知道) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "You're my",
+      "translation": "你是我的",
+      "analysis": [
+        { "point": "You're my", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Dreamcatcher Dreamcatcher",
+      "translation": "捕夢網 捕夢網",
+      "analysis": [
+        { "point": "Dreamcatcher Dreamcatcher", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤을 기다리게 해",
+      "translation": "讓我等待夜晚",
+      "analysis": [
+        { "point": "밤을", "explanation": "밤 (夜晚) + -을 (受格助詞)。" },
+        { "point": "기다리게 해", "explanation": "기다리다 (等待) + -게 하다 (使...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Wanna be your love",
+      "translation": "想成為你的愛人",
+      "analysis": [
+        { "point": "Wanna be your love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꿈은 너와 나로 가득해 Yeah",
+      "translation": "夢裡充滿了你和我 Yeah",
+      "analysis": [
+        { "point": "꿈은", "explanation": "꿈 (夢) + -은 (主題助詞)。" },
+        { "point": "너와 나로", "explanation": "너 (你) + -와 (和) + 나 (我) + -(으)로 (用/以)。" },
+        { "point": "가득해", "explanation": "가득하다 (充滿) 的非格式體。" },
+        { "point": "Yeah", "explanation": "英文，耶。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "In your dream",
+      "translation": "在你的夢裡",
+      "analysis": [
+        { "point": "In your dream", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "내가 필요할 땐 나도 네게 갈게",
+      "translation": "當你需要我的時候 我也會去你那邊",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "필요할 땐", "explanation": "필요하다 (需要) 的未來定語形 + 때는 (時候) 的縮略。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "네게", "explanation": "너에게 (向你) 的縮略。" },
+        { "point": "갈게", "explanation": "가다 (去) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "Shine for me",
+      "translation": "為我閃耀",
+      "analysis": [
+        { "point": "Shine for me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "나도 너의 별이 돼줄게",
+      "translation": "我也會成為你的星星",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "너의 별이", "explanation": "너의 (你的) + 별 (星星) + -이 (主格助詞)。" },
+        { "point": "돼줄게", "explanation": "되다 (成為) + -아/어 주다 (為你) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "나를 보러 와 줘",
+      "translation": "來看我吧",
+      "analysis": [
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "보러 와 줘", "explanation": "보다 (看) + -러 오다 (來做) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "어둠이 날 찾지 못하게",
+      "translation": "為了讓黑暗找不到我",
+      "analysis": [
+        { "point": "어둠이", "explanation": "어둠 (黑暗) + -이 (主格助詞)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾지 못하게", "explanation": "찾다 (尋找) + -지 못하다 (無法) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "내게 들어와 줘",
+      "translation": "進入我裡面吧",
+      "analysis": [
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "들어와 줘", "explanation": "들어오다 (進來) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "조금 더 널 알 수 있게",
+      "translation": "為了能再多了解你一點",
+      "analysis": [
+        { "point": "조금 더", "explanation": "조금 (一點) + 더 (更)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "알 수 있게", "explanation": "알다 (知道) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "You're my",
+      "translation": "你是我的",
+      "analysis": [
+        { "point": "You're my", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Dreamcatcher Dreamcatcher",
+      "translation": "捕夢網 捕夢網",
+      "analysis": [
+        { "point": "Dreamcatcher Dreamcatcher", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "밤을 기다리게 해",
+      "translation": "讓我等待夜晚",
+      "analysis": [
+        { "point": "밤을", "explanation": "밤 (夜晚) + -을 (受格助詞)。" },
+        { "point": "기다리게 해", "explanation": "기다리다 (等待) + -게 하다 (使...) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Wanna be your love",
+      "translation": "想成為你的愛人",
+      "analysis": [
+        { "point": "Wanna be your love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꿈은 너와 나로 가득해 Yeah",
+      "translation": "夢裡充滿了你和我 Yeah",
+      "analysis": [
+        { "point": "꿈은", "explanation": "꿈 (夢) + -은 (主題助詞)。" },
+        { "point": "너와 나로", "explanation": "너 (你) + -와 (和) + 나 (我) + -(으)로 (用/以)。" },
+        { "point": "가득해", "explanation": "가득하다 (充滿) 的非格式體。" },
+        { "point": "Yeah", "explanation": "英文，耶。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "You're my You're my",
+      "translation": "你是我的 你是我的",
+      "analysis": [
+        { "point": "You're my You're my", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "You're my",
+      "translation": "你是我的",
+      "analysis": [
+        { "point": "You're my", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Dreamcatcher",
+      "translation": "捕夢網",
+      "analysis": [
+        { "point": "Dreamcatcher", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "아침", "chinese": "早晨", "pos": "名詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "돌아보다", "chinese": "回顧", "pos": "動詞" },
+    { "korean": "어제", "chinese": "昨天", "pos": "名詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "참", "chinese": "真、非常", "pos": "副詞" },
+    { "korean": "이상하다", "chinese": "奇怪", "pos": "形容詞" },
+    { "korean": "잠", "chinese": "睡", "pos": "名詞" },
+    { "korean": "분명히", "chinese": "分明地", "pos": "副詞" },
+    { "korean": "깨다", "chinese": "醒", "pos": "動詞" },
+    { "korean": "손길", "chinese": "手觸、手的觸摸", "pos": "名詞" },
+    { "korean": "눈빛", "chinese": "眼神", "pos": "名詞" },
+    { "korean": "남아 있다", "chinese": "留著", "pos": "片語" },
+    { "korean": "왜", "chinese": "為什麼", "pos": "副詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "싫다", "chinese": "討厭", "pos": "形容詞" },
+    { "korean": "안아주다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "꿈속", "chinese": "夢中", "pos": "名詞" },
+    { "korean": "헤매다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "찾아오다", "chinese": "來臨", "pos": "動詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "들어오다", "chinese": "進來", "pos": "動詞" },
+    { "korean": "조금", "chinese": "一點", "pos": "副詞" },
+    { "korean": "더", "chinese": "更", "pos": "副詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "막연하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "삼키다", "chinese": "吞噬", "pos": "動詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "이불", "chinese": "被子", "pos": "名詞" },
+    { "korean": "뒤집어쓰다", "chinese": "拉過來蓋住", "pos": "動詞" },
+    { "korean": "아무리", "chinese": "無論怎麼", "pos": "副詞" },
+    { "korean": "소리치다", "chinese": "呼喊", "pos": "動詞" },
+    { "korean": "누구", "chinese": "誰", "pos": "代名詞" },
+    { "korean": "돌아보다", "chinese": "回頭看", "pos": "動詞" },
+    { "korean": "수많다", "chinese": "無數的", "pos": "形容詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "들여보내다", "chinese": "放進去", "pos": "動詞" },
+    { "korean": "길다", "chinese": "長的", "pos": "形容詞" },
+    { "korean": "끝내다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "오히려", "chinese": "反而", "pos": "副詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "다가오다", "chinese": "靠近、來臨", "pos": "動詞" },
+    { "korean": "필요하다", "chinese": "需要", "pos": "形容詞" },
+    { "korean": "가다", "chinese": "去", "pos": "動詞" }
+  ]
+}

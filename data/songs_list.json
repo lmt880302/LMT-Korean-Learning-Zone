@@ -22,6 +22,18 @@
     "title": "_____",
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "yuju-happiness-index",
+    "title": "Happiness Index",
+    "artist": "YUJU (유주) (Feat. LEEWOO)",
+    "lyricsFile": "../data/lyrics/yuju-happiness-index.json"
+  },
+  {
+    "id": "yuju-blue-nostalgia",
+    "title": "Blue Nostalgia",
+    "artist": "YUJU (유주)",
+    "lyricsFile": "../data/lyrics/yuju-blue-nostalgia.json"
   },  
   {
     "id": "yuju-what-if",
@@ -32,7 +44,7 @@
   {
     "id": "yuju-love-rain",
     "title": "Love Rain",
-    "artist": "YUJU (유주)",
+    "artist": "YUJU (유주) (Feat. SURAN)",
     "lyricsFile": "../data/lyrics/yuju-love-rain.json"
   },  
   {
@@ -145,16 +157,16 @@
   },
 
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "GFRIEND-TRUST",
+    "title": "TRUST",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-TRUST.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "GFRIEND-Night Drive",
+    "title": "Night Drive",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Night Drive.json"
   },    
 
   {
@@ -194,7 +206,7 @@
     "title": "NAVILLERA (너 그리고 나)",
     "artist": "GFRIEND (여자친구)",
     "lyricsFile": "../data/lyrics/GFRIEND-NAVILLERA.json"
-  },
+  }, 
   {
     "id": "GFRIEND-LOVE WHISPER",
     "title": "LOVE WHISPER (귀를 기울이면)",
@@ -298,10 +310,10 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Luv Star.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "GFRIEND-Dreamcatcher",
+    "title": "Dreamcatcher",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Dreamcatcher.json"
   },
   {
     "id": "_____",

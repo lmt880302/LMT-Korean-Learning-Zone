@@ -1,0 +1,454 @@
+{
+  "id": "yuju-happiness-index",
+  "title": "Happiness Index",
+  "artist": "YUJU (유주) (Feat. LEEWOO)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "널 처음 본 그 순간부터",
+      "translation": "從第一次見到你的那瞬間起",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "처음 본", "explanation": "처음 (第一次) + 보다 (看) 的過去定語形。" },
+        { "point": "그 순간부터", "explanation": "그 (那) + 순간 (瞬間) + -부터 (從...起)。" }
+      ]
+    },
+    {
+      "korean": "내 모든 세상은 변했어",
+      "translation": "我整個世界都變了",
+      "analysis": [
+        { "point": "내 모든 세상은", "explanation": "내 (我的) + 모든 (所有的) + 세상 (世界) + -은 (主題助詞)。" },
+        { "point": "변했어", "explanation": "변하다 (改變) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "평범했었던 모든 일상이 특별해졌어",
+      "translation": "曾經平凡的所有日常都變得特別了",
+      "analysis": [
+        { "point": "평범했었던", "explanation": "평범하다 (平凡的) 的過去回想定語形。" },
+        { "point": "모든 일상이", "explanation": "모든 (所有的) + 일상 (日常) + -이 (主格助詞)。" },
+        { "point": "특별해졌어", "explanation": "특별하다 (特別的) + -아/어 지다 (變得) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "나도 모든 게 다 달라졌어",
+      "translation": "我也一切都變了",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "달라졌어", "explanation": "다르다 (不同) + -아/어 지다 (變得) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "온 세상이 아름다운 걸",
+      "translation": "整個世界是美麗的",
+      "analysis": [
+        { "point": "온 세상이", "explanation": "온 (整個的) + 세상 (世界) + -이 (主格助詞)。" },
+        { "point": "아름다운 걸", "explanation": "아름답다 (美麗的) 的定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "널 만나러 가는 길이",
+      "translation": "去見你的路",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "만나러 가는", "explanation": "만나다 (見面) + -러 가다 (去...) 的現在定語形。" },
+        { "point": "길이", "explanation": "길 (路) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "내겐 멀게 느껴져",
+      "translation": "對我來說感覺很遠",
+      "analysis": [
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮略。" },
+        { "point": "멀게", "explanation": "멀다 (遠的) 的副詞形。" },
+        { "point": "느껴져", "explanation": "느껴지다 (被感受到) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "내겐 없었던 기쁨들이",
+      "translation": "我從未有過的喜悅們",
+      "analysis": [
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮略。" },
+        { "point": "없었던", "explanation": "없다 (沒有) 的過去回想着定語形。" },
+        { "point": "기쁨들이", "explanation": "기쁨 (喜悅) + -들 (複數) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "네가 되어 내게 왔나 봐",
+      "translation": "好像是變成了你來到我身邊",
+      "analysis": [
+        { "point": "네가 되어", "explanation": "네가 (你) + 되다 (成為) 的非格式體。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "왔나 봐", "explanation": "오다 (來) 的過去形 + -나 보다 (看來是)。" }
+      ]
+    },
+    {
+      "korean": "내가 몰랐던 행복들을",
+      "translation": "我不知道的幸福們",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "몰랐던", "explanation": "모르다 (不知道) 的過去回想着定語形。" },
+        { "point": "행복들을", "explanation": "행복 (幸福) + -들 (複數) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "너를 만나 알게 된 거야",
+      "translation": "遇見你之後才知道的",
+      "analysis": [
+        { "point": "너를 만나", "explanation": "너를 (你) + 만나다 (遇見) 的非格式體。" },
+        { "point": "알게 된 거야", "explanation": "알다 (知道) + -게 되다 (變得) 的過去定語形 + 것 (事情) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 사랑해 날 믿어줄래",
+      "translation": "我愛你 你願意相信我嗎",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "믿어줄래", "explanation": "믿다 (相信) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" }
+      ]
+    },
+    {
+      "korean": "이 행복을 너에게 안겨줄게",
+      "translation": "我會把這份幸福帶給你",
+      "analysis": [
+        { "point": "이 행복을", "explanation": "이 (這) + 행복 (幸福) + -을 (受格助詞)。" },
+        { "point": "너에게", "explanation": "你 + -에게 (給)。" },
+        { "point": "안겨줄게", "explanation": "안다 (擁抱、帶給) + -아/어 주다 (為你) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "널 보고 있어도 자꾸 보고 싶어",
+      "translation": "即使看著你 也總是想你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "보고 있어도", "explanation": "보다 (看) + -고 있다 (正在) + -아/어도 (即使)。" },
+        { "point": "자꾸", "explanation": "副詞，總是不停地。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想要) 的非格式體，意為「想念」。" }
+      ]
+    },
+    {
+      "korean": "기분 좋은 꿈처럼",
+      "translation": "像感覺美好的夢一樣",
+      "analysis": [
+        { "point": "기분 좋은", "explanation": "기분 (感覺) + 좋다 (好的) 的定語形。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해 언제까지나",
+      "translation": "我愛你 直到永遠",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "언제까지나", "explanation": "副詞，無論到何時。" }
+      ]
+    },
+    {
+      "korean": "지금처럼 내 곁에만 있어줘",
+      "translation": "像現在一樣 只待在我身邊",
+      "analysis": [
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "내 곁에만", "explanation": "내 (我的) + 곁 (身邊) + -에 (場所) + -만 (只)。" },
+        { "point": "있어줘", "explanation": "있다 (在) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "내 모든 날들에 머물러줘",
+      "translation": "請停留在我所有的日子裡",
+      "analysis": [
+        { "point": "내 모든 날들에", "explanation": "내 (我的) + 모든 (所有的) + 날 (日子) + -들 (複數) + -에 (場所助詞)。" },
+        { "point": "머물러줘", "explanation": "머물다 (停留) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "늘 지금처럼만",
+      "translation": "總是只像現在一樣",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "지금처럼만", "explanation": "지금 (現在) + -처럼 (像) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "있을게",
+      "translation": "我會的",
+      "analysis": [
+        { "point": "있을게", "explanation": "있다 (在) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "많이 힘들었었던 시간들",
+      "translation": "曾經非常辛苦的時光",
+      "analysis": [
+        { "point": "많이", "explanation": "副詞，多地。" },
+        { "point": "힘들었었던", "explanation": "힘들다 (辛苦的) 的過去回想定語形。" },
+        { "point": "시간들", "explanation": "시간 (時間) + -들 (複數)。" }
+      ]
+    },
+    {
+      "korean": "너로 인해 견디게 됐어",
+      "translation": "因為你 我才能夠忍受",
+      "analysis": [
+        { "point": "너로 인해", "explanation": "너 (你) + -(으)로 인해 (因為)。" },
+        { "point": "견디게 됐어", "explanation": "견디다 (忍受) + -게 되다 (變得) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "나도 네가 아니었다면",
+      "translation": "如果不是你的話 我也",
+      "analysis": [
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "네가 아니었다면", "explanation": "네가 (你) + 아니다 (不是) 的過去假設形。" }
+      ]
+    },
+    {
+      "korean": "시작도 안 했을 사랑",
+      "translation": "連開始都不會的愛情",
+      "analysis": [
+        { "point": "시작도", "explanation": "시작 (開始) + -도 (也)。" },
+        { "point": "안 했을", "explanation": "안 하다 (不做) 的過去推測定語形。" },
+        { "point": "사랑", "explanation": "名詞，愛情。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 사랑해 날 믿어줄래",
+      "translation": "我愛你 你願意相信我嗎",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "믿어줄래", "explanation": "믿다 (相信) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" }
+      ]
+    },
+    {
+      "korean": "이 행복을 너에게 안겨줄게",
+      "translation": "我會把這份幸福帶給你",
+      "analysis": [
+        { "point": "이 행복을", "explanation": "이 (這) + 행복 (幸福) + -을 (受格助詞)。" },
+        { "point": "너에게", "explanation": "你 + -에게 (給)。" },
+        { "point": "안겨줄게", "explanation": "안다 (擁抱、帶給) + -아/어 주다 (為你) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "널 보고 있어도 자꾸 보고 싶어",
+      "translation": "即使看著你 也總是想你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "보고 있어도", "explanation": "보다 (看) + -고 있다 (正在) + -아/어도 (即使)。" },
+        { "point": "자꾸", "explanation": "副詞，總是不停地。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想要) 的非格式體，意為「想念」。" }
+      ]
+    },
+    {
+      "korean": "기분 좋은 꿈처럼",
+      "translation": "像感覺美好的夢一樣",
+      "analysis": [
+        { "point": "기분 좋은", "explanation": "기분 (感覺) + 좋다 (好的) 的定語形。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해 언제까지나",
+      "translation": "我愛你 直到永遠",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "언제까지나", "explanation": "副詞，無論到何時。" }
+      ]
+    },
+    {
+      "korean": "지금처럼 내 곁에만 있어줘",
+      "translation": "像現在一樣 只待在我身邊",
+      "analysis": [
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "내 곁에만", "explanation": "내 (我的) + 곁 (身邊) + -에 (場所) + -만 (只)。" },
+        { "point": "있어줘", "explanation": "있다 (在) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "내 모든 날 들에 머물러줘",
+      "translation": "請停留在我所有的日子裡",
+      "analysis": [
+        { "point": "내 모든 날 들에", "explanation": "내 (我的) + 모든 (所有的) + 날 (日子) + -들 (複數) + -에 (場所助詞)。" },
+        { "point": "머물러줘", "explanation": "머물다 (停留) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "늘 지금처럼만",
+      "translation": "總是只像現在一樣",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "지금처럼만", "explanation": "지금 (現在) + -처럼 (像) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "있어줘",
+      "translation": "請待著",
+      "analysis": [
+        { "point": "있어줘", "explanation": "있다 (在) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "시간이 지나 세상 모든 게 변한 대도",
+      "translation": "即使時間流逝 世界上所有一切都變了",
+      "analysis": [
+        { "point": "시간이 지나", "explanation": "시간 (時間) + -이 (主格助詞) + 지나다 (過去) 的非格式體。" },
+        { "point": "세상 모든 게", "explanation": "세상 (世界) + 모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
+        { "point": "변한 대도", "explanation": "변하다 (改變) 的過去定語形 + -대도 (即使說...也)。" }
+      ]
+    },
+    {
+      "korean": "우리 둘 사랑은 이대로",
+      "translation": "我們兩人的愛情 就像這樣",
+      "analysis": [
+        { "point": "우리 둘", "explanation": "我們兩人。" },
+        { "point": "사랑은", "explanation": "사랑 (愛情) + -은 (主題助詞)。" },
+        { "point": "이대로", "explanation": "副詞，就這樣。" }
+      ]
+    },
+    {
+      "korean": "영원히 함께 할 거야",
+      "translation": "會永遠在一起",
+      "analysis": [
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "함께 할 거야", "explanation": "함께 하다 (一起做) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "너를 사랑해",
+      "translation": "我愛你",
+      "analysis": [
+        { "point": "너를 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "널 사랑해 날 믿어줄래 (믿어줄래)",
+      "translation": "我愛你 你願意相信我嗎 (願意相信我嗎)",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "믿어줄래", "explanation": "믿다 (相信) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" }
+      ]
+    },
+    {
+      "korean": "이 행복을 너에게 안겨줄게",
+      "translation": "我會把這份幸福帶給你",
+      "analysis": [
+        { "point": "이 행복을", "explanation": "이 (這) + 행복 (幸福) + -을 (受格助詞)。" },
+        { "point": "너에게", "explanation": "你 + -에게 (給)。" },
+        { "point": "안겨줄게", "explanation": "안다 (擁抱、帶給) + -아/어 주다 (為你) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "널 보고 있어도 자꾸 보고 싶어",
+      "translation": "即使看著你 也總是想你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "보고 있어도", "explanation": "보다 (看) + -고 있다 (正在) + -아/어도 (即使)。" },
+        { "point": "자꾸", "explanation": "副詞，總是不停地。" },
+        { "point": "보고 싶어", "explanation": "보다 (看) + -고 싶다 (想要) 的非格式體，意為「想念」。" }
+      ]
+    },
+    {
+      "korean": "기분 좋은 꿈처럼",
+      "translation": "像感覺美好的夢一樣",
+      "analysis": [
+        { "point": "기분 좋은", "explanation": "기분 (感覺) + 좋다 (好的) 的定語形。" },
+        { "point": "꿈처럼", "explanation": "꿈 (夢) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해 언제까지나",
+      "translation": "我愛你 直到永遠",
+      "analysis": [
+        { "point": "널 사랑해", "explanation": "너를 (你) + 사랑하다 (愛) 的非格式體。" },
+        { "point": "언제까지나", "explanation": "副詞，無論到何時。" }
+      ]
+    },
+    {
+      "korean": "지금처럼 내 곁에만 있어줘",
+      "translation": "像現在一樣 只待在我身邊",
+      "analysis": [
+        { "point": "지금처럼", "explanation": "지금 (現在) + -처럼 (像...一樣)。" },
+        { "point": "내 곁에만", "explanation": "내 (我的) + 곁 (身邊) + -에 (場所) + -만 (只)。" },
+        { "point": "있어줘", "explanation": "있다 (在) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "내 모든 날 들에 머물러줘",
+      "translation": "請停留在我所有的日子裡",
+      "analysis": [
+        { "point": "내 모든 날 들에", "explanation": "내 (我的) + 모든 (所有的) + 날 (日子) + -들 (複數) + -에 (場所助詞)。" },
+        { "point": "머물러줘", "explanation": "머물다 (停留) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "늘 지금처럼만",
+      "translation": "總是只像現在一樣",
+      "analysis": [
+        { "point": "늘", "explanation": "副詞，總是。" },
+        { "point": "지금처럼만", "explanation": "지금 (現在) + -처럼 (像) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "있을게",
+      "translation": "我會的",
+      "analysis": [
+        { "point": "있을게", "explanation": "있다 (在) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "처음", "chinese": "第一次", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "변하다", "chinese": "改變", "pos": "動詞" },
+    { "korean": "평범하다", "chinese": "平凡的", "pos": "形容詞" },
+    { "korean": "일상", "chinese": "日常", "pos": "名詞" },
+    { "korean": "특별하다", "chinese": "特別的", "pos": "形容詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "온", "chinese": "整個的", "pos": "冠詞" },
+    { "korean": "아름답다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "가다", "chinese": "去", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "멀다", "chinese": "遠的", "pos": "形容詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" },
+    { "korean": "기쁨", "chinese": "喜悅", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "행복", "chinese": "幸福", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱、帶給", "pos": "動詞" },
+    { "korean": "자꾸", "chinese": "總是不停地", "pos": "副詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "片語" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "좋다", "chinese": "好的", "pos": "形容詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "언제까지나", "chinese": "無論到何時", "pos": "副詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "곁", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "있다", "chinese": "在", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "늘", "chinese": "總是", "pos": "副詞" },
+    { "korean": "많이", "chinese": "多地", "pos": "副詞" },
+    { "korean": "힘들다", "chinese": "辛苦的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "견디다", "chinese": "忍受", "pos": "動詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "시작", "chinese": "開始", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "함께 하다", "chinese": "一起做", "pos": "動詞" }
+  ]
+}

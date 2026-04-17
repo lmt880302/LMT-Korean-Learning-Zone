@@ -1,0 +1,440 @@
+{
+  "id": "GFRIEND-Night Drive",
+  "title": "Night Drive",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "멀리 온 걸까",
+      "translation": "是來得很遠了嗎",
+      "analysis": [
+        { "point": "멀리", "explanation": "副詞，遠處。" },
+        { "point": "온 걸까", "explanation": "오다 (來) 的冠詞形 + -걸까 (疑問，不確定的事實)。" }
+      ]
+    },
+    {
+      "korean": "아득하게 보였던 길",
+      "translation": "曾顯得遙遠的路",
+      "analysis": [
+        { "point": "아득하게", "explanation": "아득하다 (遙遠的、模糊的) + -게 (副詞形語尾)。" },
+        { "point": "보였던", "explanation": "보이다 (被看見) 的過去冠詞形。" },
+        { "point": "길", "explanation": "名詞，路。" }
+      ]
+    },
+    {
+      "korean": "가끔은 내가 아닌 듯",
+      "translation": "偶爾 像是並非我自己",
+      "analysis": [
+        { "point": "가끔은", "explanation": "가끔 (偶爾) + -은 (強調)。" },
+        { "point": "내가 아닌 듯", "explanation": "내가 (我) + 아니다 (不是) 的冠詞形 + 듯 (好像)。" }
+      ]
+    },
+    {
+      "korean": "숨이 막혀왔던",
+      "translation": "曾經感到窒息",
+      "analysis": [
+        { "point": "숨이", "explanation": "숨 (呼吸) + -이 (主格助詞)。" },
+        { "point": "막혀왔던", "explanation": "막히다 (被堵) + -아/어 오다 (來，表示持續) 的過去冠詞形。" }
+      ]
+    },
+    {
+      "korean": "애써 지난 날과 바람결이",
+      "translation": "努力度過的過去日子和風的氣息",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，努力地。" },
+        { "point": "지난", "explanation": "지나다 (過去) 的冠詞形。" },
+        { "point": "날과", "explanation": "날 (日子) + -과 (和)。" },
+        { "point": "바람결이", "explanation": "바람결 (風的氣息、風聲) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "날 감싸 위로하네",
+      "translation": "擁抱我 安慰我",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "감싸", "explanation": "감싸다 (擁抱) 的非格式體連接形。" },
+        { "point": "위로하네", "explanation": "위로하다 (安慰) + -네 (感嘆)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Don't you worry worry worry",
+      "translation": "不要擔心 擔心 擔心",
+      "analysis": [
+        { "point": "Don't you worry worry worry", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 길 위를 지나갈 땐",
+      "translation": "當經過這條路時",
+      "analysis": [
+        { "point": "이 길 위를", "explanation": "이 (這) + 길 (路) + 위 (上面) + -를 (受格助詞)。" },
+        { "point": "지나갈 땐", "explanation": "지나가다 (經過) + -(으)ㄹ 때 (當...的時候) + -는 (強調) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "맘을 내려놔 이 밤이 잘 보이게",
+      "translation": "放下心 讓這個夜晚能夠看清",
+      "analysis": [
+        { "point": "맘을", "explanation": "마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "내려놔", "explanation": "내려놓다 (放下) 的縮略。" },
+        { "point": "이 밤이", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "잘 보이게", "explanation": "잘 (好好地) + 보이다 (被看見) + -게 (使得)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "You're the only only only",
+      "translation": "你是唯一 唯一 唯一",
+      "analysis": [
+        { "point": "You're the only only only", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 모든 게 떠나가도",
+      "translation": "即使你的一切都離去",
+      "analysis": [
+        { "point": "네", "explanation": "너 (你) 的屬格，你的。" },
+        { "point": "모든 게", "explanation": "모든 것 (所有的東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "떠나가도", "explanation": "떠나가다 (離去) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "이 순간을 놓지는 말아",
+      "translation": "不要放開這個瞬間",
+      "analysis": [
+        { "point": "이 순간을", "explanation": "이 (這) + 순간 (瞬間) + -을 (受格助詞)。" },
+        { "point": "놓지는 말아", "explanation": "놓다 (放開) + -지 말다 (不要) + -아 (非格式體請求)。" }
+      ]
+    },
+    {
+      "korean": "This night will drive me home agian",
+      "translation": "這個夜晚會開車送我回家",
+      "analysis": [
+        { "point": "This night will drive me home agian", "explanation": "英文歌詞，無韓文文法解析。（agian 應為 again）" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Smoke doesn't make me feel good",
+      "translation": "煙霧不會讓我感覺良好",
+      "analysis": [
+        { "point": "Smoke doesn't make me feel good", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너와 달리며 마시던 그 밤이 더 그리워",
+      "translation": "更懷念和你一起奔跑喝著的那個夜晚",
+      "analysis": [
+        { "point": "너와", "explanation": "너 (你) + -와 (和)。" },
+        { "point": "달리며", "explanation": "달리다 (奔跑) + -며 (連接詞尾，一邊...一邊)。" },
+        { "point": "마시던", "explanation": "마시다 (喝) 的過去冠詞形。" },
+        { "point": "그 밤이", "explanation": "그 (那) + 밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "더 그리워", "explanation": "더 (更) + 그립다 (懷念的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Still with you",
+      "translation": "仍然和你在一起",
+      "analysis": [
+        { "point": "Still with you", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "But I cannot find my way",
+      "translation": "但我找不到我的路",
+      "analysis": [
+        { "point": "But I cannot find my way", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "놀아가는 길마저 다 잊어가",
+      "translation": "連走過的路也漸漸全都忘記",
+      "analysis": [
+        { "point": "놀아가는", "explanation": "놀아가다 (遊走、走過) 的冠詞形。" },
+        { "point": "길마저", "explanation": "길 (路) + -마저 (連...也)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "잊어가", "explanation": "잊다 (忘記) + -아/어 가다 (逐漸) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "Don't you worry worry worry",
+      "translation": "不要擔心 擔心 擔心",
+      "analysis": [
+        { "point": "Don't you worry worry worry", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이 길 위를 지나갈 떈",
+      "translation": "當經過這條路時",
+      "analysis": [
+        { "point": "이 길 위를", "explanation": "이 (這) + 길 (路) + 위 (上面) + -를 (受格助詞)。" },
+        { "point": "지나갈 떈", "explanation": "지나가다 (經過) + -(으)ㄹ 때 (當...的時候) + -는 (強調) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "맘을 내려놔 이 밤이 잘 보이게",
+      "translation": "放下心 讓這個夜晚能夠看清",
+      "analysis": [
+        { "point": "맘을", "explanation": "마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "내려놔", "explanation": "내려놓다 (放下) 的縮略。" },
+        { "point": "이 밤이", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "잘 보이게", "explanation": "잘 (好好地) + 보이다 (被看見) + -게 (使得)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "You're the only only only",
+      "translation": "你是唯一 唯一 唯一",
+      "analysis": [
+        { "point": "You're the only only only", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "네 모든 게 떠나가도",
+      "translation": "即使你的一切都離去",
+      "analysis": [
+        { "point": "네", "explanation": "너 (你) 的屬格，你的。" },
+        { "point": "모든 게", "explanation": "모든 것 (所有的東西) + -이 (主格助詞) 的縮略。" },
+        { "point": "떠나가도", "explanation": "떠나가다 (離去) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "이 순간을 놓지는 말아",
+      "translation": "不要放開這個瞬間",
+      "analysis": [
+        { "point": "이 순간을", "explanation": "이 (這) + 순간 (瞬間) + -을 (受格助詞)。" },
+        { "point": "놓지는 말아", "explanation": "놓다 (放開) + -지 말다 (不要) + -아 (非格式體請求)。" }
+      ]
+    },
+    {
+      "korean": "This moment will not over",
+      "translation": "這一刻不會結束",
+      "analysis": [
+        { "point": "This moment will not over", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "가로등 보다 더",
+      "translation": "比路燈 更",
+      "analysis": [
+        { "point": "가로등", "explanation": "名詞，路燈。" },
+        { "point": "보다", "explanation": "比。" },
+        { "point": "더", "explanation": "副詞，更。" }
+      ]
+    },
+    {
+      "korean": "화려한 달빛 아래",
+      "translation": "在華麗的月光下",
+      "analysis": [
+        { "point": "화려한", "explanation": "화려하다 (華麗的) 的冠詞形。" },
+        { "point": "달빛 아래", "explanation": "달빛 (月光) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "korean": "바람을 가르며 날듯이 지나온 하루",
+      "translation": "劃破風 像是飛翔般 度過的一天",
+      "analysis": [
+        { "point": "바람을", "explanation": "바람 (風) + -을 (受格助詞)。" },
+        { "point": "가르며", "explanation": "가르다 (劃破) + -며 (連接詞尾)。" },
+        { "point": "날듯이", "explanation": "날다 (飛) + -듯이 (就像...一樣)。" },
+        { "point": "지나온 하루", "explanation": "지나오다 (度過) 的冠詞形 + 하루 (一天)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 2",
+      "korean": "어제의 나를 지나칠 수 있을까",
+      "translation": "能夠經過昨天的我嗎",
+      "analysis": [
+        { "point": "어제의", "explanation": "어제 (昨天) + -의 (的)。" },
+        { "point": "나를", "explanation": "나 (我) + -를 (受格助詞)。" },
+        { "point": "지나칠 수 있을까", "explanation": "지나치다 (經過、錯過) + -(으)ㄹ 수 있다 (能夠) 的疑問形。" }
+      ]
+    },
+    {
+      "korean": "낮이 오면 희미해져 보이지 않아",
+      "translation": "白天來臨就會變得模糊 看不見",
+      "analysis": [
+        { "point": "낮이", "explanation": "낮 (白天) + -이 (主格助詞)。" },
+        { "point": "오면", "explanation": "오다 (來) + -(으)면 (如果)。" },
+        { "point": "희미해져", "explanation": "희미해지다 (變得模糊) 的非格式體。" },
+        { "point": "보이지 않아", "explanation": "보이다 (被看見) + -지 않다 (否定) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "It take so long 지친듯해",
+      "translation": "花了很長時間 似乎疲憊了",
+      "analysis": [
+        { "point": "It take so long", "explanation": "英文歌詞，花了很長時間，無韓文文法解析。" },
+        { "point": "지친듯해", "explanation": "지치다 (疲憊) + -는 듯하다 (似乎) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "정해둔 곳 없이 가다보니",
+      "translation": "沒有定好的地方 走著走著",
+      "analysis": [
+        { "point": "정해둔", "explanation": "정하다 (定) + -아/어 두다 (預先做好) 的冠詞形。" },
+        { "point": "곳 없이", "explanation": "곳 (地方) + 없다 (沒有) + -이 (副詞形語尾)。" },
+        { "point": "가다보니", "explanation": "가다 (去) + -다 보니 (做著做著發現)。" }
+      ]
+    },
+    {
+      "korean": "들리는 너의 목소리",
+      "translation": "聽見的你的聲音",
+      "analysis": [
+        { "point": "들리는", "explanation": "들리다 (被聽見) 的冠詞形。" },
+        { "point": "너의 목소리", "explanation": "너의 (你的) + 목소리 (聲音)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "So don't worry worry worry",
+      "translation": "所以不要擔心 擔心 擔心",
+      "analysis": [
+        { "point": "So don't worry worry worry", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "끝이 보이지 않을 땐",
+      "translation": "當看不見盡頭時",
+      "analysis": [
+        { "point": "끝이", "explanation": "끝 (盡頭) + -이 (主格助詞)。" },
+        { "point": "보이지 않을 땐", "explanation": "보이다 (被看見) + -지 않다 (否定) 的冠詞形 + 때 (時候) + -는 (強調) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "잠시 내려놔 이 밤이 잘 들리게",
+      "translation": "暫時放下 讓這個夜晚能夠聽清",
+      "analysis": [
+        { "point": "잠시", "explanation": "副詞，暫時。" },
+        { "point": "내려놔", "explanation": "내려놓다 (放下) 的縮略。" },
+        { "point": "이 밤이", "explanation": "이 (這) + 밤 (夜晚) + -이 (主格助詞)。" },
+        { "point": "잘 들리게", "explanation": "잘 (好好地) + 들리다 (被聽見) + -게 (使得)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "You're the only only only",
+      "translation": "你是唯一 唯一 唯一",
+      "analysis": [
+        { "point": "You're the only only only", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "쉽게 놓아주지 않는",
+      "translation": "不會輕易放開的",
+      "analysis": [
+        { "point": "쉽게", "explanation": "쉽다 (容易的) + -게 (副詞形語尾)。" },
+        { "point": "놓아주지 않는", "explanation": "놓아주다 (放開) + -지 않다 (否定) 的冠詞形。" }
+      ]
+    },
+    {
+      "korean": "생각에 길이 막혀와도",
+      "translation": "即使因想法而道路被堵",
+      "analysis": [
+        { "point": "생각에", "explanation": "생각 (想法) + -에 (原因助詞)。" },
+        { "point": "길이", "explanation": "길 (路) + -이 (主格助詞)。" },
+        { "point": "막혀와도", "explanation": "막히다 (被堵) + -아/어 오다 (來，表示狀態的持續) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "This night will drive me home agian",
+      "translation": "這個夜晚會開車送我回家",
+      "analysis": [
+        { "point": "This night will drive me home agian", "explanation": "英文歌詞，無韓文文法解析。（agian 應為 again）" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "I'm fine I'm good",
+      "translation": "我很好 我很好",
+      "analysis": [
+        { "point": "I'm fine I'm good", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I'm fine I'm good enough",
+      "translation": "我很好 我很好 足夠了",
+      "analysis": [
+        { "point": "I'm fine I'm good enough", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "오늘을 보내고 내일이 와도",
+      "translation": "即使送走今天 明天到來",
+      "analysis": [
+        { "point": "오늘을", "explanation": "오늘 (今天) + -을 (受格助詞)。" },
+        { "point": "보내고", "explanation": "보내다 (送、度過) + -고 (連接詞尾)。" },
+        { "point": "내일이", "explanation": "내일 (明天) + -이 (主格助詞)。" },
+        { "point": "와도", "explanation": "오다 (來) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "잊지 않을게",
+      "translation": "我不會忘記",
+      "analysis": [
+        { "point": "잊지 않을게", "explanation": "잊다 (忘記) + -지 않다 (否定) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "아득하다", "chinese": "遙遠的、模糊的", "pos": "形容詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "막히다", "chinese": "被堵", "pos": "動詞" },
+    { "korean": "애써", "chinese": "努力地", "pos": "副詞" },
+    { "korean": "지나다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "바람결", "chinese": "風的氣息、風聲", "pos": "名詞" },
+    { "korean": "감싸다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "위로하다", "chinese": "安慰", "pos": "動詞" },
+    { "korean": "지나가다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "내려놓다", "chinese": "放下", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "모든", "chinese": "所有的", "pos": "冠詞" },
+    { "korean": "떠나가다", "chinese": "離去", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "놓다", "chinese": "放開", "pos": "動詞" },
+    { "korean": "달리다", "chinese": "奔跑", "pos": "動詞" },
+    { "korean": "마시다", "chinese": "喝", "pos": "動詞" },
+    { "korean": "그립다", "chinese": "懷念的", "pos": "形容詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "놀아가다", "chinese": "遊走、走過", "pos": "動詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "가로등", "chinese": "路燈", "pos": "名詞" },
+    { "korean": "화려하다", "chinese": "華麗的", "pos": "形容詞" },
+    { "korean": "달빛", "chinese": "月光", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "바람", "chinese": "風", "pos": "名詞" },
+    { "korean": "가르다", "chinese": "劃破", "pos": "動詞" },
+    { "korean": "날다", "chinese": "飛", "pos": "動詞" },
+    { "korean": "지나오다", "chinese": "度過", "pos": "動詞" },
+    { "korean": "하루", "chinese": "一天", "pos": "名詞" },
+    { "korean": "어제", "chinese": "昨天", "pos": "名詞" },
+    { "korean": "지나치다", "chinese": "經過、錯過", "pos": "動詞" },
+    { "korean": "낮", "chinese": "白天", "pos": "名詞" },
+    { "korean": "희미해지다", "chinese": "變得模糊", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" },
+    { "korean": "정하다", "chinese": "定", "pos": "動詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "들리다", "chinese": "被聽見", "pos": "動詞" },
+    { "korean": "목소리", "chinese": "聲音", "pos": "名詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "잠시", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "쉽다", "chinese": "容易的", "pos": "形容詞" },
+    { "korean": "놓아주다", "chinese": "放開", "pos": "動詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "보내다", "chinese": "送、度過", "pos": "動詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" }
+  ]
+}
