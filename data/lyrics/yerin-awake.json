@@ -1,0 +1,404 @@
+{
+  "id": "yerin-awake",
+  "title": "Awake",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "조용한 밤",
+      "translation": "寂靜的夜晚",
+      "analysis": [
+        { "point": "조용한", "explanation": "조용하다 (寂靜的) 的定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "기다려온 순간",
+      "translation": "等待已久的瞬間",
+      "analysis": [
+        { "point": "기다려온", "explanation": "기다리다 (等待) + -아/어 오다 (持續) 的過去定語形。" },
+        { "point": "순간", "explanation": "名詞，瞬間。" }
+      ]
+    },
+    {
+      "korean": "이렇게 나",
+      "translation": "這樣的我",
+      "analysis": [
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "오랫동안 찾았던 시간",
+      "translation": "長久以來尋找的時間",
+      "analysis": [
+        { "point": "오랫동안", "explanation": "副詞，長久以來。" },
+        { "point": "찾았던", "explanation": "찾다 (尋找) 的過去回想着定語形。" },
+        { "point": "시간", "explanation": "名詞，時間。" }
+      ]
+    },
+    {
+      "korean": "그려왔던 그 순간처럼",
+      "translation": "如同一直描繪的那個瞬間",
+      "analysis": [
+        { "point": "그려왔던", "explanation": "그리다 (描繪) + -아/어 오다 (持續) 的過去回想着定語形。" },
+        { "point": "그 순간처럼", "explanation": "그 (那) + 순간 (瞬間) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "내 마음을 그려",
+      "translation": "描繪我的心",
+      "analysis": [
+        { "point": "내 마음을", "explanation": "내 (我的) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "그려", "explanation": "그리다 (描繪) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "말없이 쌓인 감정들",
+      "translation": "無言堆積的情感們",
+      "analysis": [
+        { "point": "말없이", "explanation": "말 (話) + 없이 (沒有)，意為「無言地」。" },
+        { "point": "쌓인", "explanation": "쌓이다 (被堆積) 的過去定語形。" },
+        { "point": "감정들", "explanation": "감정 (情感) + -들 (複數)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "언제부턴가 나도 낯설어",
+      "translation": "從何時起 連我也覺得陌生",
+      "analysis": [
+        { "point": "언제부턴가", "explanation": "언제 (何時) + -부터 (從) + -인가 (是...呢)。" },
+        { "point": "나도", "explanation": "나 (我) + -도 (也)。" },
+        { "point": "낯설어", "explanation": "낯설다 (陌生的) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "혼자 남겨져 있던 날들",
+      "translation": "獨自被留下的日子們",
+      "analysis": [
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "남겨져 있던", "explanation": "남겨지다 (被留下) + -아/어 있다 (持續狀態) 的過去回想着定語形。" },
+        { "point": "날들", "explanation": "날 (日子) + -들 (複數)。" }
+      ]
+    },
+    {
+      "korean": "여긴 어디쯤일까",
+      "translation": "這裡大概是哪裡呢",
+      "analysis": [
+        { "point": "여긴", "explanation": "여기는 (這裡) 的縮略。" },
+        { "point": "어디쯤일까", "explanation": "어디 (哪裡) + -쯤 (大概) + -일까 (會是...呢)。" }
+      ]
+    },
+    {
+      "korean": "난 어디로 가고 있을까",
+      "translation": "我正往哪裡去呢",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "어디로", "explanation": "어디 (哪裡) + -(으)로 (向)。" },
+        { "point": "가고 있을까", "explanation": "가다 (去) + -고 있다 (正在) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "이제는 날 찾아가",
+      "translation": "現在 去尋找我自己",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (強調)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾아가", "explanation": "찾아가다 (去尋找) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "I walked through pain I felt the strain",
+      "translation": "我走過痛苦 我感受到壓力",
+      "analysis": [
+        { "point": "I walked through pain I felt the strain", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "But every scar remains in me",
+      "translation": "但每一道傷疤都留在我體內",
+      "analysis": [
+        { "point": "But every scar remains in me", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "They built my soul they set it free",
+      "translation": "它們建構了我的靈魂 它們解放了它",
+      "analysis": [
+        { "point": "They built my soul they set it free", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "And now I rise in clarity",
+      "translation": "而現在我在清晰中升起",
+      "analysis": [
+        { "point": "And now I rise in clarity", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제 됐어 떠날 거야",
+      "translation": "夠了 我要離開了",
+      "analysis": [
+        { "point": "이제 됐어", "explanation": "이제 (現在) + 되다 (夠、行) 的過去非格式體。" },
+        { "point": "떠날 거야", "explanation": "떠나다 (離開) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Now it's time I feel the glow",
+      "translation": "現在是時候了 我感受到光輝",
+      "analysis": [
+        { "point": "Now it's time I feel the glow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "새롭게 나는 살 거야",
+      "translation": "我會嶄新地活著",
+      "analysis": [
+        { "point": "새롭게", "explanation": "새롭다 (新的) 的副詞形。" },
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" },
+        { "point": "살 거야", "explanation": "살다 (活) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "I've been waiting just to show",
+      "translation": "我一直等待著 就為了展現",
+      "analysis": [
+        { "point": "I've been waiting just to show", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "갈 수 있어 떠날 거야",
+      "translation": "我可以走了 我會離開",
+      "analysis": [
+        { "point": "갈 수 있어", "explanation": "가다 (去、走) + -(으)ㄹ 수 있다 (可以) 的非格式體。" },
+        { "point": "떠날 거야", "explanation": "떠나다 (離開) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Now I'm walking through the light",
+      "translation": "現在我正穿過光芒",
+      "analysis": [
+        { "point": "Now I'm walking through the light", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "또 다른 날 찾아",
+      "translation": "尋找另一個我",
+      "analysis": [
+        { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾아", "explanation": "찾다 (尋找) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Now I can feel my heart so awake",
+      "translation": "現在我能感覺到我的心如此清醒",
+      "analysis": [
+        { "point": "Now I can feel my heart so awake", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Interlude",
+      "korean": "Hoyee ya ha",
+      "translation": "Hoyee ya ha",
+      "analysis": [
+        { "point": "Hoyee ya ha", "explanation": "無意義的發音詞。" }
+      ]
+    },
+    {
+      "korean": "Hoyee ya",
+      "translation": "Hoyee ya",
+      "analysis": [
+        { "point": "Hoyee ya", "explanation": "無意義的發音詞。" }
+      ]
+    },
+    {
+      "korean": "Hoyee ya hoo-ah",
+      "translation": "Hoyee ya hoo-ah",
+      "analysis": [
+        { "point": "Hoyee ya hoo-ah", "explanation": "無意義的發音詞。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "모든 건 이 순간을 위해",
+      "translation": "一切都是為了這個瞬間",
+      "analysis": [
+        { "point": "모든 건", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
+        { "point": "이 순간을 위해", "explanation": "이 (這) + 순간 (瞬間) + -을 위해 (為了)。" }
+      ]
+    },
+    {
+      "korean": "아파했던 걸지 몰라",
+      "translation": "也許是曾經痛苦過",
+      "analysis": [
+        { "point": "아파했던", "explanation": "아파하다 (感到痛苦) 的過去回想着定語形。" },
+        { "point": "걸지 몰라", "explanation": "것 (事情) + -일지 모르다 (也許是) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "It wasn't weakness it was light",
+      "translation": "那不是軟弱 那是光",
+      "analysis": [
+        { "point": "It wasn't weakness it was light", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Shining from my broken side",
+      "translation": "從我破碎的那一面閃耀",
+      "analysis": [
+        { "point": "Shining from my broken side", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "I cried I fell I stood again",
+      "translation": "我哭泣 我跌倒 我再次站起",
+      "analysis": [
+        { "point": "I cried I fell I stood again", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제 됐어 떠날 거야",
+      "translation": "夠了 我要離開了",
+      "analysis": [
+        { "point": "이제 됐어", "explanation": "이제 (現在) + 되다 (夠、行) 的過去非格式體。" },
+        { "point": "떠날 거야", "explanation": "떠나다 (離開) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Breathe it out now I know",
+      "translation": "呼出來 現在我知道了",
+      "analysis": [
+        { "point": "Breathe it out now I know", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "사라진 줄 알았던 내가",
+      "translation": "以為已經消失的我",
+      "analysis": [
+        { "point": "사라진 줄 알았던", "explanation": "사라지다 (消失) 的過去定語形 + 줄 알다 (以為) 的過去回想着定語形。" },
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "이제야 다시 깨어나",
+      "translation": "現在才再次醒來",
+      "analysis": [
+        { "point": "이제야", "explanation": "副詞，現在才。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "깨어나", "explanation": "깨어나다 (醒來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "지금의 나를 다시 봐",
+      "translation": "再次看看現在的我",
+      "analysis": [
+        { "point": "지금의", "explanation": "지금 (現在) + -의 (的)。" },
+        { "point": "나를", "explanation": "我 + -를 (受格助詞)。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "봐", "explanation": "보다 (看) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Now I'm standing on my own",
+      "translation": "現在我正獨立站著",
+      "analysis": [
+        { "point": "Now I'm standing on my own", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이제 됐어 떠날 거야",
+      "translation": "夠了 我要離開了",
+      "analysis": [
+        { "point": "이제 됐어", "explanation": "이제 (現在) + 되다 (夠、行) 的過去非格式體。" },
+        { "point": "떠날 거야", "explanation": "떠나다 (離開) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Now I know I feel the glow",
+      "translation": "現在我知道 我感受到光輝",
+      "analysis": [
+        { "point": "Now I know I feel the glow", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "또 다른 날 찾아",
+      "translation": "尋找另一個我",
+      "analysis": [
+        { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾아", "explanation": "찾다 (尋找) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Now I can feel my heart so awake",
+      "translation": "現在我能感覺到我的心如此清醒",
+      "analysis": [
+        { "point": "Now I can feel my heart so awake", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Hoyee ya ha",
+      "translation": "Hoyee ya ha",
+      "analysis": [
+        { "point": "Hoyee ya ha", "explanation": "無意義的發音詞。" }
+      ]
+    },
+    {
+      "korean": "Hoyee ya",
+      "translation": "Hoyee ya",
+      "analysis": [
+        { "point": "Hoyee ya", "explanation": "無意義的發音詞。" }
+      ]
+    },
+    {
+      "korean": "Hoyee ya hoo-ah",
+      "translation": "Hoyee ya hoo-ah",
+      "analysis": [
+        { "point": "Hoyee ya hoo-ah", "explanation": "無意義的發音詞。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "조용하다", "chinese": "寂靜的", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "이렇게", "chinese": "這樣", "pos": "副詞" },
+    { "korean": "오랫동안", "chinese": "長久以來", "pos": "副詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "그리다", "chinese": "描繪", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "말없이", "chinese": "無言地", "pos": "副詞" },
+    { "korean": "쌓이다", "chinese": "被堆積", "pos": "動詞" },
+    { "korean": "감정", "chinese": "情感", "pos": "名詞" },
+    { "korean": "언제부턴가", "chinese": "從何時起", "pos": "副詞" },
+    { "korean": "낯설다", "chinese": "陌生的", "pos": "形容詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "남겨지다", "chinese": "被留下", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "어디쯤", "chinese": "大概哪裡", "pos": "副詞" },
+    { "korean": "가다", "chinese": "去", "pos": "動詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "찾아가다", "chinese": "去尋找", "pos": "動詞" },
+    { "korean": "되다", "chinese": "夠、行", "pos": "動詞" },
+    { "korean": "떠나다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "살다", "chinese": "活", "pos": "動詞" },
+    { "korean": "또", "chinese": "又", "pos": "副詞" },
+    { "korean": "다른", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "아파하다", "chinese": "感到痛苦", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "이제야", "chinese": "現在才", "pos": "副詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "깨어나다", "chinese": "醒來", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" }
+  ]
+}

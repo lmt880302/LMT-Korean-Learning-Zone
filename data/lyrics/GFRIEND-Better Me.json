@@ -1,0 +1,581 @@
+{
+  "id": "GFRIEND-Better Me",
+  "title": "Better Me",
+  "artist": "GFRIEND (여자친구)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "또다시 망설이지 마",
+      "translation": "不要再猶豫了",
+      "analysis": [
+        { "point": "또다시", "explanation": "副詞，再次、又一次。" },
+        { "point": "망설이지 마", "explanation": "망설이다 (猶豫) + -지 말다 (不要) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "아무도 너를 막지 못해",
+      "translation": "誰也無法阻擋你",
+      "analysis": [
+        { "point": "아무도", "explanation": "아무 (任何人) + -도 (也)。" },
+        { "point": "너를", "explanation": "너 (你) + -를 (受格助詞)。" },
+        { "point": "막지 못해", "explanation": "막다 (阻擋) + -지 못하다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "애써 돌아서지 마",
+      "translation": "不要費力地轉過身",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，努力地、費力地。" },
+        { "point": "돌아서지 마", "explanation": "돌아서다 (轉身) + -지 말다 (不要) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "아픈 기억은 다 지워내",
+      "translation": "將痛苦的記憶全都抹去",
+      "analysis": [
+        { "point": "아픈", "explanation": "아프다 (痛的) 的冠詞形。" },
+        { "point": "기억은", "explanation": "기억 (記憶) + -은 (主題助詞)。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "지워내", "explanation": "지워내다 (抹去) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "피어 봐 외쳐 봐 절대 I won’t lose",
+      "translation": "試著綻放 試著呼喊 絕對 I won't lose",
+      "analysis": [
+        { "point": "피어 봐", "explanation": "피다 (綻放) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "외쳐 봐", "explanation": "외치다 (呼喊) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "절대", "explanation": "副詞，絕對。" },
+        { "point": "I won’t lose", "explanation": "英文歌詞，我不會輸，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "땅속 깊이 너에게 닿는 그 순간에",
+      "translation": "在地底深處 觸及你的那個瞬間",
+      "analysis": [
+        { "point": "땅속 깊이", "explanation": "땅속 (地底) + 깊이 (深處)。" },
+        { "point": "너에게", "explanation": "너 (你) + -에게 (給/向)。" },
+        { "point": "닿는", "explanation": "닿다 (觸碰) 的冠詞形。" },
+        { "point": "그 순간에", "explanation": "그 (那) + 순간 (瞬間) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "No doubt you’ll shine and bloom Ha",
+      "translation": "毫無疑問 你會閃耀並綻放 Ha",
+      "analysis": [
+        { "point": "No doubt you’ll shine and bloom Ha", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Black dark night",
+      "translation": "漆黑的黑夜",
+      "analysis": [
+        { "point": "Black dark night", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "어두운 이 밤에 눈 감지 않기를 바랄게",
+      "translation": "在這漆黑的夜晚 希望你不要閉上眼睛",
+      "analysis": [
+        { "point": "어두운", "explanation": "어둡다 (黑暗的) 的冠詞形。" },
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (時間助詞)。" },
+        { "point": "눈 감지 않기를", "explanation": "눈 (眼睛) + 감다 (閉) + -지 않다 (否定) + -기를 (名詞化，表示希望)。" },
+        { "point": "바랄게", "explanation": "바라다 (希望) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "Stay strong",
+      "translation": "保持堅強",
+      "analysis": [
+        { "point": "Stay strong", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "거친 이 시간 속에도",
+      "translation": "即使在這個艱難的時間裡",
+      "analysis": [
+        { "point": "거친", "explanation": "거칠다 (粗糙的、艱難的) 的冠詞形。" },
+        { "point": "이 시간 속에도", "explanation": "이 (這) + 시간 (時間) + 속 (裡面) + -에 (場所助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "잃어버린 널 찾아봐 Find it now",
+      "translation": "試著尋找遺失的你 Find it now",
+      "analysis": [
+        { "point": "잃어버린", "explanation": "잃어버리다 (遺失) 的冠詞形。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾아봐", "explanation": "찾다 (找) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "Find it now", "explanation": "英文歌詞，現在就找到它，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너의 Color 너의 향기도",
+      "translation": "你的色彩 你的香氣也",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" },
+        { "point": "너의 향기도", "explanation": "너의 (你的) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "I like me better now",
+      "translation": "我現在更喜歡我自己",
+      "analysis": [
+        { "point": "I like me better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꽃피우는 계절이 다른 것뿐",
+      "translation": "只是花開的季節不同罷了",
+      "analysis": [
+        { "point": "꽃피우는", "explanation": "꽃피우다 (開花) 的冠詞形。" },
+        { "point": "계절이", "explanation": "계절 (季節) + -이 (主格助詞)。" },
+        { "point": "다른 것뿐", "explanation": "다르다 (不同的) 的冠詞形 + 것 (東西) + -뿐 (只是)。" }
+      ]
+    },
+    {
+      "korean": "때가 됐어 널 기대할게",
+      "translation": "時機到了 我會期待你",
+      "analysis": [
+        { "point": "때가 됐어", "explanation": "때 (時機) + -가 되다 (到來) 的過去式。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "기대할게", "explanation": "기대하다 (期待) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "너의 Color 너의 향기도",
+      "translation": "你的色彩 你的香氣也",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" },
+        { "point": "너의 향기도", "explanation": "너의 (你的) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "I like me better now",
+      "translation": "我現在更喜歡我自己",
+      "analysis": [
+        { "point": "I like me better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Better now",
+      "translation": "現在更好",
+      "analysis": [
+        { "point": "Better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "때로는 짙은 어둠 속에 갇혀 흔들려",
+      "translation": "有時被困在濃濃的黑暗中 動搖",
+      "analysis": [
+        { "point": "때로는", "explanation": "때로는 (有時) 的縮略。" },
+        { "point": "짙은", "explanation": "짙다 (濃的) 的冠詞形。" },
+        { "point": "어둠 속에", "explanation": "어둠 (黑暗) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "갇혀", "explanation": "갇히다 (被困) 的非格式體。" },
+        { "point": "흔들려", "explanation": "흔들리다 (動搖) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다시 또 잡아 담담하게 맘을 비워내",
+      "translation": "再次抓住 平靜地清空內心",
+      "analysis": [
+        { "point": "다시 또", "explanation": "다시 (再次) + 또 (又)。" },
+        { "point": "잡아", "explanation": "잡다 (抓住) 的非格式體連接形。" },
+        { "point": "담담하게", "explanation": "담담하다 (平靜的) + -게 (副詞形語尾)。" },
+        { "point": "맘을", "explanation": "마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "비워내", "explanation": "비우다 (清空) + -아/어 내다 (做到) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Keep your eyes wide open Ha",
+      "translation": "睜大你的眼睛 Ha",
+      "analysis": [
+        { "point": "Keep your eyes wide open Ha", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Black dark night",
+      "translation": "漆黑的黑夜",
+      "analysis": [
+        { "point": "Black dark night", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "어두운 이 밤에 돌아서진 않기로 해",
+      "translation": "在這漆黑的夜晚 決定不要轉身",
+      "analysis": [
+        { "point": "어두운", "explanation": "어둡다 (黑暗的) 的冠詞形。" },
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (時間助詞)。" },
+        { "point": "돌아서진 않기로 해", "explanation": "돌아서다 (轉身) + -지 않다 (否定) + -기로 하다 (決定)。" }
+      ]
+    },
+    {
+      "korean": "Stay strong",
+      "translation": "保持堅強",
+      "analysis": [
+        { "point": "Stay strong", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "더 거친 시간 속에도",
+      "translation": "即使在更艱難的時間裡",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "거친", "explanation": "거칠다 (粗糙的、艱難的) 的冠詞形。" },
+        { "point": "시간 속에도", "explanation": "시간 (時間) + 속 (裡面) + -에 (場所助詞) + -도 (也)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Post-Chorus",
+      "korean": "잃어버린 널 찾아봐 Find it now",
+      "translation": "試著尋找遺失的你 Find it now",
+      "analysis": [
+        { "point": "잃어버린", "explanation": "잃어버리다 (遺失) 的冠詞形。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾아봐", "explanation": "찾다 (找) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "Find it now", "explanation": "英文歌詞，現在就找到它，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너의 Color 너의 향기도",
+      "translation": "你的色彩 你的香氣也",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" },
+        { "point": "너의 향기도", "explanation": "너의 (你的) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "I like me better now",
+      "translation": "我現在更喜歡我自己",
+      "analysis": [
+        { "point": "I like me better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꽃피우는 계절이 다른 것뿐",
+      "translation": "只是花開的季節不同罷了",
+      "analysis": [
+        { "point": "꽃피우는", "explanation": "꽃피우다 (開花) 的冠詞形。" },
+        { "point": "계절이", "explanation": "계절 (季節) + -이 (主格助詞)。" },
+        { "point": "다른 것뿐", "explanation": "다르다 (不同的) 的冠詞形 + 것 (東西) + -뿐 (只是)。" }
+      ]
+    },
+    {
+      "korean": "때가 됐어 널 기대할게",
+      "translation": "時機到了 我會期待你",
+      "analysis": [
+        { "point": "때가 됐어", "explanation": "때 (時機) + -가 되다 (到來) 的過去式。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "기대할게", "explanation": "기대하다 (期待) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "너의 Color 너의 향기도",
+      "translation": "你的色彩 你的香氣也",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" },
+        { "point": "너의 향기도", "explanation": "너의 (你的) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "I like me better now",
+      "translation": "我現在更喜歡我自己",
+      "analysis": [
+        { "point": "I like me better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Better now",
+      "translation": "現在更好",
+      "analysis": [
+        { "point": "Better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "감싸오는 낯선 향기",
+      "translation": "包圍而來的陌生香氣",
+      "analysis": [
+        { "point": "감싸오는", "explanation": "감싸다 (擁抱、包圍) + -아/어 오다 (來，表示狀態的持續) 的冠詞形。" },
+        { "point": "낯선", "explanation": "낯설다 (陌生的) 的冠詞形。" },
+        { "point": "향기", "explanation": "名詞，香氣。" }
+      ]
+    },
+    {
+      "korean": "이젠 오랜 기다림의 끝에 새로운 널 마주해",
+      "translation": "現在 在長久等待的盡頭 遇見全新的你",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제 (現在) + -는 (強調) 的縮略。" },
+        { "point": "오랜", "explanation": "오래 (長久) 的冠詞形。" },
+        { "point": "기다림의", "explanation": "기다림 (等待) + -의 (的)。" },
+        { "point": "끝에", "explanation": "끝 (盡頭) + -에 (場所助詞)。" },
+        { "point": "새로운 널", "explanation": "새롭다 (新的) 的冠詞形 + 너를 (你) 的縮略。" },
+        { "point": "마주해", "explanation": "마주하다 (面對、遇見) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "어느새 다가와 겹쳐오는 Color",
+      "translation": "不知不覺靠近 重疊而來的 Color",
+      "analysis": [
+        { "point": "어느새", "explanation": "副詞，不知不覺間。" },
+        { "point": "다가와", "explanation": "다가오다 (靠近) 的非格式體。" },
+        { "point": "겹쳐오는", "explanation": "겹쳐지다 (重疊) + -아/어 오다 (來，表示狀態的持續) 的冠詞形。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꿈들이 펼쳐져 스며들어 세상을 물들여",
+      "translation": "夢們展開 滲入 將世界染色",
+      "analysis": [
+        { "point": "꿈들이", "explanation": "꿈 (夢) + -들 (複數) + -이 (主格助詞)。" },
+        { "point": "펼쳐져", "explanation": "펼쳐지다 (展開) 的非格式體。" },
+        { "point": "스며들어", "explanation": "스며들다 (滲入) 的非格式體。" },
+        { "point": "세상을", "explanation": "세상 (世界) + -을 (受格助詞)。" },
+        { "point": "물들여", "explanation": "물들이다 (染色) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "별빛도 숨죽인 밤 가득 찬 이 온기가",
+      "translation": "連星光都屏息的夜晚 滿溢的這份暖意",
+      "analysis": [
+        { "point": "별빛도", "explanation": "별빛 (星光) + -도 (也)。" },
+        { "point": "숨죽인", "explanation": "숨 (呼吸) + 죽이다 (殺、壓低)，表示「屏息」。固定用法。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" },
+        { "point": "가득 찬", "explanation": "가득 차다 (滿溢) 的冠詞形。" },
+        { "point": "이 온기가", "explanation": "이 (這) + 온기 (暖意) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "A flor de flor",
+      "translation": "A flor de flor",
+      "analysis": [
+        { "point": "A flor de flor", "explanation": "西班牙文歌詞，花的綻放，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Aun mas bella",
+      "translation": "Aun mas bella",
+      "analysis": [
+        { "point": "Aun mas bella", "explanation": "西班牙文歌詞，更加美麗，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "No tengas miedo",
+      "translation": "No tengas miedo",
+      "analysis": [
+        { "point": "No tengas miedo", "explanation": "西班牙文歌詞，不要害怕，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge 2",
+      "korean": "널 피워내 봐 더는 숨기지 마 널 찾아내",
+      "translation": "試著讓你綻放 不要再隱藏 找到你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "피워내 봐", "explanation": "피우다 (綻放) + -아/어 내다 (做到) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "더는", "explanation": "더 (更) + -는 (強調)，表示「再也」。固定用法。" },
+        { "point": "숨기지 마", "explanation": "숨기다 (隱藏) + -지 말다 (不要) 的縮略。" },
+        { "point": "널 찾아내", "explanation": "널 (你) + 찾아내다 (找到) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다른 색깔 다른 향기처럼 안 보여도",
+      "translation": "像不同的顏色 不同的香氣一樣 即使看不見",
+      "analysis": [
+        { "point": "다른", "explanation": "다르다 (不同的) 的冠詞形。" },
+        { "point": "색깔", "explanation": "名詞，顏色。" },
+        { "point": "다른 향기처럼", "explanation": "다른 (不同的) + 향기 (香氣) + -처럼 (像...一樣)。" },
+        { "point": "안 보여도", "explanation": "안 (不) + 보이다 (被看見) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "널 보여줘 봐 꽃피우는 계절이",
+      "translation": "試著讓我看見你 花開的季節",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "보여줘 봐", "explanation": "보여주다 (讓看) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "꽃피우는 계절이", "explanation": "꽃피우다 (開花) 的冠詞形 + 계절 (季節) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "그저 다른 시간",
+      "translation": "只是不同的時間",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是。" },
+        { "point": "다른 시간", "explanation": "다른 (不同的) + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "꺾여 지칠 때 그 안에서",
+      "translation": "受挫疲憊時 在那之中",
+      "analysis": [
+        { "point": "꺾여", "explanation": "꺾이다 (受挫、被折斷) 的非格式體。" },
+        { "point": "지칠 때", "explanation": "지치다 (疲憊) + -(으)ㄹ 때 (當...的時候)。" },
+        { "point": "그 안에서", "explanation": "그 (那) + 안 (裡面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "Waiting for you",
+      "translation": "Waiting for you",
+      "analysis": [
+        { "point": "Waiting for you", "explanation": "英文歌詞，等待你，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "cause you’re on your way",
+      "translation": "因為你在你的路上",
+      "analysis": [
+        { "point": "cause you’re on your way", "explanation": "英文歌詞，因為你正在路上，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Post-Chorus",
+      "korean": "잃어버린 널 찾아봐 Find it now",
+      "translation": "試著尋找遺失的你 Find it now",
+      "analysis": [
+        { "point": "잃어버린", "explanation": "잃어버리다 (遺失) 的冠詞形。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾아봐", "explanation": "찾다 (找) + -아/어 보다 (嘗試) 的縮略。" },
+        { "point": "Find it now", "explanation": "英文歌詞，現在就找到它，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "너의 Color 너의 향기도",
+      "translation": "你的色彩 你的香氣也",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" },
+        { "point": "너의 향기도", "explanation": "너의 (你的) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "I like me better now",
+      "translation": "我現在更喜歡我自己",
+      "analysis": [
+        { "point": "I like me better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "꽃피우는 계절이 다른 것뿐",
+      "translation": "只是花開的季節不同罷了",
+      "analysis": [
+        { "point": "꽃피우는", "explanation": "꽃피우다 (開花) 的冠詞形。" },
+        { "point": "계절이", "explanation": "계절 (季節) + -이 (主格助詞)。" },
+        { "point": "다른 것뿐", "explanation": "다르다 (不同的) 的冠詞形 + 것 (東西) + -뿐 (只是)。" }
+      ]
+    },
+    {
+      "korean": "때가 됐어 널 기대할게",
+      "translation": "時機到了 我會期待你",
+      "analysis": [
+        { "point": "때가 됐어", "explanation": "때 (時機) + -가 되다 (到來) 的過去式。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "기대할게", "explanation": "기대하다 (期待) + -(으)ㄹ게 (表示承諾)。" }
+      ]
+    },
+    {
+      "korean": "너의 Color 너의 향기도",
+      "translation": "你的色彩 你的香氣也",
+      "analysis": [
+        { "point": "너의", "explanation": "你的。" },
+        { "point": "Color", "explanation": "英文，色彩，無韓文文法解析。" },
+        { "point": "너의 향기도", "explanation": "너의 (你的) + 향기 (香氣) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "I like me better now",
+      "translation": "我現在更喜歡我自己",
+      "analysis": [
+        { "point": "I like me better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Better now",
+      "translation": "現在更好",
+      "analysis": [
+        { "point": "Better now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "또다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "아무도", "chinese": "誰也", "pos": "代名詞" },
+    { "korean": "막다", "chinese": "阻擋", "pos": "動詞" },
+    { "korean": "애써", "chinese": "努力地", "pos": "副詞" },
+    { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "아프다", "chinese": "痛的", "pos": "形容詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "지워내다", "chinese": "抹去", "pos": "動詞" },
+    { "korean": "피다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "외치다", "chinese": "呼喊", "pos": "動詞" },
+    { "korean": "절대", "chinese": "絕對", "pos": "副詞" },
+    { "korean": "땅속", "chinese": "地底", "pos": "名詞" },
+    { "korean": "깊이", "chinese": "深處", "pos": "副詞" },
+    { "korean": "닿다", "chinese": "觸碰", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "어둡다", "chinese": "黑暗的", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉", "pos": "動詞" },
+    { "korean": "바라다", "chinese": "希望", "pos": "動詞" },
+    { "korean": "거칠다", "chinese": "粗糙的、艱難的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "잃어버리다", "chinese": "遺失", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "找", "pos": "動詞" },
+    { "korean": "향기", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "꽃피우다", "chinese": "開花", "pos": "動詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "때", "chinese": "時機", "pos": "名詞" },
+    { "korean": "기대하다", "chinese": "期待", "pos": "動詞" },
+    { "korean": "짙다", "chinese": "濃的", "pos": "形容詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "갇히다", "chinese": "被困", "pos": "動詞" },
+    { "korean": "흔들리다", "chinese": "動搖", "pos": "動詞" },
+    { "korean": "잡다", "chinese": "抓住", "pos": "動詞" },
+    { "korean": "담담하다", "chinese": "平靜的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "비우다", "chinese": "清空", "pos": "動詞" },
+    { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "감싸다", "chinese": "包圍", "pos": "動詞" },
+    { "korean": "낯설다", "chinese": "陌生的", "pos": "形容詞" },
+    { "korean": "오랜", "chinese": "長久的", "pos": "形容詞" },
+    { "korean": "기다림", "chinese": "等待", "pos": "名詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "마주하다", "chinese": "面對、遇見", "pos": "動詞" },
+    { "korean": "어느새", "chinese": "不知不覺間", "pos": "副詞" },
+    { "korean": "다가오다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "겹쳐지다", "chinese": "重疊", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "펼쳐지다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "스며들다", "chinese": "滲入", "pos": "動詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "물들이다", "chinese": "染色", "pos": "動詞" },
+    { "korean": "별빛", "chinese": "星光", "pos": "名詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "죽이다", "chinese": "殺、壓低", "pos": "動詞" },
+    { "korean": "가득", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "차다", "chinese": "充滿", "pos": "動詞" },
+    { "korean": "온기", "chinese": "暖意", "pos": "名詞" },
+    { "korean": "피우다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "찾아내다", "chinese": "找到", "pos": "動詞" },
+    { "korean": "색깔", "chinese": "顏色", "pos": "名詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "보여주다", "chinese": "讓看", "pos": "動詞" },
+    { "korean": "그저", "chinese": "只是", "pos": "副詞" },
+    { "korean": "꺾이다", "chinese": "受挫", "pos": "動詞" },
+    { "korean": "지치다", "chinese": "疲憊", "pos": "動詞" }
+  ]
+}

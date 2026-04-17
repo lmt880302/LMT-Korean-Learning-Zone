@@ -18,10 +18,10 @@
     "lyricsFile": "../data/lyrics/_______________.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "yuju-secret",
+    "title": "Secret",
+    "artist": "YUJU (유주) (Feat. ISHXRK)",
+    "lyricsFile": "../data/lyrics/yuju-secret.json"
   },
   {
     "id": "yuju-happiness-index",
@@ -155,6 +155,44 @@
     "artist": "YUJU (유주) (Feat. Sunyoul)",
     "lyricsFile": "../data/lyrics/yuju-cherish.json"
   },
+
+  {
+    "id": "yerin-awake",
+    "title": "Awake",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/erin-awake.json"
+  },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },  
+  {
+    "id": "yerin-4u",
+    "title": "4U",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-4u.json"
+  },  
+  {
+    "id": "yerin-wavy",
+    "title": "Wavy",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-wavy.json"
+  },  
+  {
+    "id": "yerin-time",
+    "title": "시간 (Time)",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-time.json"
+  },  
+  {
+    "id": "yerin-bambambam",
+    "title": "밤밤밤 (Bambambam)",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-bambambam.json"
+  },  
+
 
   {
     "id": "GFRIEND-TRUST",
@@ -316,10 +354,10 @@
     "lyricsFile": "../data/lyrics/GFRIEND-Dreamcatcher.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "GFRIEND-Better Me",
+    "title": "Better Me",
+    "artist": "GFRIEND (여자친구)",
+    "lyricsFile": "../data/lyrics/GFRIEND-Better Me.json"
   },  
   {
     "id": "_____",

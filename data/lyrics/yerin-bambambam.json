@@ -1,0 +1,666 @@
+{
+  "id": "yerin-bambambam",
+  "title": "밤밤밤 (Bambambam)",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "창밖에 빗방울 슬피 내리는 밤",
+      "translation": "窗外雨滴悲傷落下的夜晚",
+      "analysis": [
+        { "point": "창밖에", "explanation": "창 (窗戶) + 밖 (外面) + -에 (場所助詞)。" },
+        { "point": "빗방울", "explanation": "名詞，雨滴。" },
+        { "point": "슬피", "explanation": "副詞，悲傷地。" },
+        { "point": "내리는 밤", "explanation": "내리다 (落下) 的現在定語形 + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "korean": "잠도 오지 않는 그런 밤에",
+      "translation": "連睡都睡不著的那種夜晚",
+      "analysis": [
+        { "point": "잠도", "explanation": "잠 (睡) + -도 (也)。" },
+        { "point": "오지 않는", "explanation": "오다 (來) + -지 않다 (不) 的定語形。" },
+        { "point": "그런 밤에", "explanation": "그런 (那樣的) + 밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "함께 듣던 노래가 흘러나올 때면",
+      "translation": "每當一起聽過的歌流淌出來的時候",
+      "analysis": [
+        { "point": "함께 듣던", "explanation": "함께 (一起) + 듣다 (聽) 的過去回想着定語形。" },
+        { "point": "노래가", "explanation": "노래 (歌曲) + -가 (主格助詞)。" },
+        { "point": "흘러나올 때면", "explanation": "흘러나오다 (流淌出來) + -(으)ㄹ 때면 (每當...的時候)。" }
+      ]
+    },
+    {
+      "korean": "우리의 지난 시간 떠오를 때면",
+      "translation": "每當想起我們的過去時光的時候",
+      "analysis": [
+        { "point": "우리의 지난 시간", "explanation": "우리의 (我們的) + 지난 (過去的) + 시간 (時間)。" },
+        { "point": "떠오를 때면", "explanation": "떠오르다 (浮現、想起) + -(으)ㄹ 때면 (每當...的時候)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "빌어먹을 너를 빌어",
+      "translation": "該死的你 我祈求",
+      "analysis": [
+        { "point": "빌어먹을", "explanation": "빌어먹다 (該死、詛咒) 的未來定語形。" },
+        { "point": "너를 빌어", "explanation": "너를 (你) + 빌다 (祈求) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 앞에 널 위해 빌어",
+      "translation": "在我面前 為你祈求",
+      "analysis": [
+        { "point": "내 앞에", "explanation": "내 (我的) + 앞 (前面) + -에 (場所助詞)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "위해 빌어", "explanation": "위하다 (為了) + 빌다 (祈求) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 번 다신 떠올리지 않겠다고",
+      "translation": "說再也不會想起",
+      "analysis": [
+        { "point": "두 번 다신", "explanation": "두 번 (兩次) + 다시는 (再也) 的縮略。" },
+        { "point": "떠올리지 않겠다고", "explanation": "떠올리다 (想起) + -지 않다 (不) + -겠- (意志) + -다고 (引用)。" }
+      ]
+    },
+    {
+      "korean": "제발 잊게 해달라고",
+      "translation": "拜託讓我忘記",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託。" },
+        { "point": "잊게 해달라고", "explanation": "잊다 (忘記) + -게 하다 (使...) + -아/어 달라고 (請求對方為自己做某事)。" }
+      ]
+    },
+    {
+      "korean": "나를 사랑해 사랑해 사랑해 사랑해 사랑해",
+      "translation": "愛我 愛我 愛我 愛我 愛我",
+      "analysis": [
+        { "point": "나를 사랑해", "explanation": "나를 (我) + 사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "끊임없이 외쳤던 밤",
+      "translation": "不停地吶喊過的夜晚",
+      "analysis": [
+        { "point": "끊임없이", "explanation": "副詞，不停地。" },
+        { "point": "외쳤던", "explanation": "외치다 (吶喊) 的過去回想着定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam",
+      "translation": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam",
+      "analysis": [
+        { "point": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam", "explanation": "擬聲詞，模仿節奏。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그대여",
+      "translation": "你啊",
+      "analysis": [
+        { "point": "그대여", "explanation": "그대 (你) + -여 (呼格)。" }
+      ]
+    },
+    {
+      "korean": "짙은 창밖에 빗물 같은 그대",
+      "translation": "像窗外濃重雨水的你",
+      "analysis": [
+        { "point": "짙은", "explanation": "짙다 (濃的) 的定語形。" },
+        { "point": "창밖에", "explanation": "창 (窗戶) + 밖 (外面) + -에 (場所助詞)。" },
+        { "point": "빗물 같은", "explanation": "빗물 (雨水) + 같다 (像) 的定語形。" },
+        { "point": "그대", "explanation": "你。" }
+      ]
+    },
+    {
+      "korean": "사랑을 잃은 내 마음을 적셔",
+      "translation": "浸濕我失去愛情的內心",
+      "analysis": [
+        { "point": "사랑을", "explanation": "사랑 (愛情) + -을 (受格助詞)。" },
+        { "point": "잃은", "explanation": "잃다 (失去) 的過去定語形。" },
+        { "point": "내 마음을", "explanation": "내 (我的) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "적셔", "explanation": "적시다 (浸濕) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그대여",
+      "translation": "你啊",
+      "analysis": [
+        { "point": "그대여", "explanation": "그대 (你) + -여 (呼格)。" }
+      ]
+    },
+    {
+      "korean": "떠나간 너를 떠올리는 지금",
+      "translation": "想起離開的你的此刻",
+      "analysis": [
+        { "point": "떠나간", "explanation": "떠나가다 (離開) 的過去定語形。" },
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "떠올리는", "explanation": "떠올리다 (想起) 的現在定語形。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "korean": "네가 또 또 또 또",
+      "translation": "你又又又又",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "너를 떠올리는 오늘 또 또",
+      "translation": "想起你的今天 又又",
+      "analysis": [
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "떠올리는", "explanation": "떠올리다 (想起) 的現在定語形。" },
+        { "point": "오늘", "explanation": "名詞，今天。" },
+        { "point": "또 또", "explanation": "又又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "더는 떠올리진 않을래",
+      "translation": "不會再想起了",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再也。" },
+        { "point": "떠올리진 않을래", "explanation": "떠올리다 (想起) + -지 (強調) + -는 (主題) + 않다 (不) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "네가 또 또 또 또",
+      "translation": "你又又又又",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "네가 이젠 미워졌어 또 너무 싫어졌어",
+      "translation": "現在討厭你了 又變得太厭惡了",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "미워졌어", "explanation": "미워지다 (變得討厭) 的過去非格式體。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "너무", "explanation": "副詞，太。" },
+        { "point": "싫어졌어", "explanation": "싫어지다 (變得厭惡) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "더는 찾지 않을래",
+      "translation": "不會再找了",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再也。" },
+        { "point": "찾지 않을래", "explanation": "찾다 (尋找) + -지 않다 (不) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "나는 이젠 달라졌어 예전에 내가 아닌걸",
+      "translation": "我現在變了 不再是以前的我",
+      "analysis": [
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" },
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "달라졌어", "explanation": "달라지다 (變得不同) 的過去非格式體。" },
+        { "point": "예전에", "explanation": "副詞，以前。" },
+        { "point": "내가 아닌걸", "explanation": "내가 (我) + 아니다 (不是) 的現在定語形 + 것 (事情) + -을 (受格助詞) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네가 알던 난 없어 (난 없어)",
+      "translation": "你知道的那個我不在了 (我不在了)",
+      "analysis": [
+        { "point": "네가 알던", "explanation": "네가 (你) + 알다 (知道) 的過去回想着定語形。" },
+        { "point": "난 없어", "explanation": "나는 (我) 的縮略 + 없다 (沒有) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "빌어먹을 너를 빌어",
+      "translation": "該死的你 我祈求",
+      "analysis": [
+        { "point": "빌어먹을", "explanation": "빌어먹다 (該死) 的未來定語形。" },
+        { "point": "너를 빌어", "explanation": "너를 (你) + 빌다 (祈求) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 앞에 널 위해 빌어",
+      "translation": "在我面前 為你祈求",
+      "analysis": [
+        { "point": "내 앞에", "explanation": "내 (我的) + 앞 (前面) + -에 (場所助詞)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "위해 빌어", "explanation": "위하다 (為了) + 빌다 (祈求) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 번 다신 떠올리지 않겠다고",
+      "translation": "說再也不會想起",
+      "analysis": [
+        { "point": "두 번 다신", "explanation": "두 번 (兩次) + 다시는 (再也) 的縮略。" },
+        { "point": "떠올리지 않겠다고", "explanation": "떠올리다 (想起) + -지 않다 (不) + -겠- (意志) + -다고 (引用)。" }
+      ]
+    },
+    {
+      "korean": "제발 잊게 해달라고",
+      "translation": "拜託讓我忘記",
+      "analysis": [
+        { "point": "제발", "explanation": "副詞，拜託。" },
+        { "point": "잊게 해달라고", "explanation": "잊다 (忘記) + -게 하다 (使...) + -아/어 달라고 (請求)。" }
+      ]
+    },
+    {
+      "korean": "나를 사랑해 사랑해 사랑해 사랑해 사랑해",
+      "translation": "愛我 愛我 愛我 愛我 愛我",
+      "analysis": [
+        { "point": "나를 사랑해", "explanation": "나를 (我) + 사랑하다 (愛) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "끊임없이 외쳤던 밤",
+      "translation": "不停地吶喊過的夜晚",
+      "analysis": [
+        { "point": "끊임없이", "explanation": "副詞，不停地。" },
+        { "point": "외쳤던", "explanation": "외치다 (吶喊) 的過去回想着定語形。" },
+        { "point": "밤", "explanation": "名詞，夜晚。" }
+      ]
+    },
+    {
+      "korean": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam",
+      "translation": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam",
+      "analysis": [
+        { "point": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam", "explanation": "擬聲詞，模仿節奏。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "그대여",
+      "translation": "你啊",
+      "analysis": [
+        { "point": "그대여", "explanation": "그대 (你) + -여 (呼格)。" }
+      ]
+    },
+    {
+      "korean": "짙은 창밖에 빗물 같은 그대",
+      "translation": "像窗外濃重雨水的你",
+      "analysis": [
+        { "point": "짙은", "explanation": "짙다 (濃的) 的定語形。" },
+        { "point": "창밖에", "explanation": "창 (窗戶) + 밖 (外面) + -에 (場所助詞)。" },
+        { "point": "빗물 같은", "explanation": "빗물 (雨水) + 같다 (像) 的定語形。" },
+        { "point": "그대", "explanation": "你。" }
+      ]
+    },
+    {
+      "korean": "사랑을 잃은 내 마음을 적셔",
+      "translation": "浸濕我失去愛情的內心",
+      "analysis": [
+        { "point": "사랑을", "explanation": "사랑 (愛情) + -을 (受格助詞)。" },
+        { "point": "잃은", "explanation": "잃다 (失去) 的過去定語形。" },
+        { "point": "내 마음을", "explanation": "내 (我的) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "적셔", "explanation": "적시다 (浸濕) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그대여",
+      "translation": "你啊",
+      "analysis": [
+        { "point": "그대여", "explanation": "그대 (你) + -여 (呼格)。" }
+      ]
+    },
+    {
+      "korean": "떠나간 너를 떠올리는 지금",
+      "translation": "想起離開的你的此刻",
+      "analysis": [
+        { "point": "떠나간", "explanation": "떠나가다 (離開) 的過去定語形。" },
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "떠올리는", "explanation": "떠올리다 (想起) 的現在定語形。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "korean": "네가 또 또 또 또",
+      "translation": "你又又又又",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "너를 떠올리는 오늘 또 또",
+      "translation": "想起你的今天 又又",
+      "analysis": [
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "떠올리는", "explanation": "떠올리다 (想起) 的現在定語形。" },
+        { "point": "오늘", "explanation": "名詞，今天。" },
+        { "point": "또 또", "explanation": "又又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "더는 떠올리진 않을래",
+      "translation": "不會再想起了",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再也。" },
+        { "point": "떠올리진 않을래", "explanation": "떠올리다 (想起) + -지 (強調) + -는 (主題) + 않다 (不) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "네가 또 또 또 또",
+      "translation": "你又又又又",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "눈뜨면 사라질 거예요",
+      "translation": "睜開眼睛就會消失的",
+      "analysis": [
+        { "point": "눈뜨면", "explanation": "눈 (眼睛) + 뜨다 (睜開) + -(으)면 (如果)。" },
+        { "point": "사라질 거예요", "explanation": "사라지다 (消失) + -(으)ㄹ 것이다 (將會) 的敬語形。" }
+      ]
+    },
+    {
+      "korean": "이 밤에 취해 다시는",
+      "translation": "沉醉在這一夜 再也不",
+      "analysis": [
+        { "point": "이 밤에", "explanation": "이 (這) + 밤 (夜晚) + -에 (場所助詞)。" },
+        { "point": "취해", "explanation": "취하다 (醉) 的非格式體。" },
+        { "point": "다시는", "explanation": "副詞，再也不。" }
+      ]
+    },
+    {
+      "korean": "널 찾지 않을 테니까",
+      "translation": "因為我不會再找你了",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "찾지 않을 테니까", "explanation": "찾다 (尋找) + -지 않다 (不) + -(으)ㄹ 테니까 (因為將會...的緣故)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam (이 밤)",
+      "translation": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam (這一夜)",
+      "analysis": [
+        { "point": "Bam-Bam-BaBam-Bam-BaBaBa-BaBam", "explanation": "擬聲詞，模仿節奏。" },
+        { "point": "이 밤", "explanation": "이 (這) + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "korean": "그대여 (Oh)",
+      "translation": "你啊 (Oh)",
+      "analysis": [
+        { "point": "그대여", "explanation": "그대 (你) + -여 (呼格)。" },
+        { "point": "Oh", "explanation": "英文，喔。" }
+      ]
+    },
+    {
+      "korean": "짙은 창밖에 빗물 같은",
+      "translation": "像窗外濃重雨水的",
+      "analysis": [
+        { "point": "짙은", "explanation": "짙다 (濃的) 的定語形。" },
+        { "point": "창밖에", "explanation": "창 (窗戶) + 밖 (外面) + -에 (場所助詞)。" },
+        { "point": "빗물 같은", "explanation": "빗물 (雨水) + 같다 (像) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "그대 사랑을 잃은 내 마음을 적셔",
+      "translation": "你 浸濕我失去愛情的內心",
+      "analysis": [
+        { "point": "그대", "explanation": "你。" },
+        { "point": "사랑을 잃은", "explanation": "사랑 (愛情) + -을 (受格助詞) + 잃다 (失去) 的過去定語形。" },
+        { "point": "내 마음을", "explanation": "내 (我的) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "적셔", "explanation": "적시다 (浸濕) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그대여",
+      "translation": "你啊",
+      "analysis": [
+        { "point": "그대여", "explanation": "그대 (你) + -여 (呼格)。" }
+      ]
+    },
+    {
+      "korean": "떠나간 너를 떠올리는 지금",
+      "translation": "想起離開的你的此刻",
+      "analysis": [
+        { "point": "떠나간", "explanation": "떠나가다 (離開) 的過去定語形。" },
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "떠올리는", "explanation": "떠올리다 (想起) 的現在定語形。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "korean": "네가 또 또 또 또",
+      "translation": "你又又又又",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에 (떠오른 밤에)",
+      "translation": "浮現的夜晚 (浮現的夜晚)",
+      "analysis": [
+        { "point": "떠오른 밤에", "explanation": "떠오르다 (浮現) 的過去定語形 + 밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na (밤에)",
+      "translation": "Na-na-na-na-na-na (在夜晚)",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na (밤에)",
+      "translation": "Na-na-na-na-na-na (在夜晚)",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "너를 떠올리는 오늘 또 또",
+      "translation": "想起你的今天 又又",
+      "analysis": [
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "떠올리는", "explanation": "떠올리다 (想起) 的現在定語形。" },
+        { "point": "오늘", "explanation": "名詞，今天。" },
+        { "point": "또 또", "explanation": "又又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "korean": "Na-na-na-na-na-na",
+      "translation": "Na-na-na-na-na-na",
+      "analysis": [
+        { "point": "Na-na-na-na-na-na", "explanation": "擬聲詞。" }
+      ]
+    },
+    {
+      "korean": "더는 떠올리진 않을래",
+      "translation": "不會再想起了",
+      "analysis": [
+        { "point": "더는", "explanation": "副詞，再也。" },
+        { "point": "떠올리진 않을래", "explanation": "떠올리다 (想起) + -지 (強調) + -는 (主題) + 않다 (不) + -(으)ㄹ래 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "네가 또 또 또 또",
+      "translation": "你又又又又",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "또", "explanation": "副詞，又。" }
+      ]
+    },
+    {
+      "korean": "떠오른 밤에",
+      "translation": "浮現的夜晚",
+      "analysis": [
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "또 또 또 또 떠오른 밤에",
+      "translation": "又又又又浮現的夜晚",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "떠오른", "explanation": "떠오르다 (浮現) 的過去定語形。" },
+        { "point": "밤에", "explanation": "밤 (夜晚) + -에 (時間助詞)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "창밖", "chinese": "窗外", "pos": "名詞" },
+    { "korean": "빗방울", "chinese": "雨滴", "pos": "名詞" },
+    { "korean": "슬피", "chinese": "悲傷地", "pos": "副詞" },
+    { "korean": "내리다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "잠", "chinese": "睡", "pos": "名詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "듣다", "chinese": "聽", "pos": "動詞" },
+    { "korean": "노래", "chinese": "歌曲", "pos": "名詞" },
+    { "korean": "흘러나오다", "chinese": "流淌出來", "pos": "動詞" },
+    { "korean": "지난", "chinese": "過去的", "pos": "冠詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "떠오르다", "chinese": "浮現、想起", "pos": "動詞" },
+    { "korean": "빌어먹다", "chinese": "該死", "pos": "動詞" },
+    { "korean": "빌다", "chinese": "祈求", "pos": "動詞" },
+    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "두 번", "chinese": "兩次", "pos": "片語" },
+    { "korean": "다신", "chinese": "再也", "pos": "副詞" },
+    { "korean": "떠올리다", "chinese": "想起", "pos": "動詞" },
+    { "korean": "제발", "chinese": "拜託", "pos": "副詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "끊임없이", "chinese": "不停地", "pos": "副詞" },
+    { "korean": "외치다", "chinese": "吶喊", "pos": "動詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "짙다", "chinese": "濃的", "pos": "形容詞" },
+    { "korean": "빗물", "chinese": "雨水", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "잃다", "chinese": "失去", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "적시다", "chinese": "浸濕", "pos": "動詞" },
+    { "korean": "떠나가다", "chinese": "離開", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "또", "chinese": "又", "pos": "副詞" },
+    { "korean": "더는", "chinese": "再也", "pos": "副詞" },
+    { "korean": "미워지다", "chinese": "變得討厭", "pos": "動詞" },
+    { "korean": "너무", "chinese": "太", "pos": "副詞" },
+    { "korean": "싫어지다", "chinese": "變得厭惡", "pos": "動詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "달라지다", "chinese": "變得不同", "pos": "動詞" },
+    { "korean": "예전", "chinese": "以前", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "눈뜨다", "chinese": "睜開眼睛", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" },
+    { "korean": "취하다", "chinese": "醉", "pos": "動詞" }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "id": "yerin-wavy",
+  "title": "Wavy",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "You and me 고갤 살짝 들어",
+      "translation": "You and me 輕輕抬起頭",
+      "analysis": [
+        { "point": "You and me", "explanation": "英文，你和我。" },
+        { "point": "고갤 살짝 들어", "explanation": "고개 (頭) + -를 (受格助詞) 的縮略 + 살짝 (輕輕地) + 들다 (抬起) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "좀 특별한 걸 보여줄까 해",
+      "translation": "想給你看些特別的東西",
+      "analysis": [
+        { "point": "좀", "explanation": "副詞，稍微、一些。" },
+        { "point": "특별한 걸", "explanation": "특별하다 (特別的) 的定語形 + 것 (東西) + -을 (受格助詞) 的縮略。" },
+        { "point": "보여줄까 해", "explanation": "보여주다 (給...看) + -(으)ㄹ까 하다 (想...)。" }
+      ]
+    },
+    {
+      "korean": "You know 눈앞에 세상을 난 지금",
+      "translation": "You know 眼前的這個世界 我現在",
+      "analysis": [
+        { "point": "You know", "explanation": "英文，你知道。" },
+        { "point": "눈앞에", "explanation": "눈앞 (眼前) + -에 (場所助詞)。" },
+        { "point": "세상을", "explanation": "세상 (世界) + -을 (受格助詞)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "지금", "explanation": "副詞，現在。" }
+      ]
+    },
+    {
+      "korean": "내 맘대로 칠할 거야",
+      "translation": "要隨心所欲地塗色",
+      "analysis": [
+        { "point": "내 맘대로", "explanation": "내 (我的) + 마음 (心) 的縮略 + -대로 (按照)。" },
+        { "point": "칠할 거야", "explanation": "칠하다 (塗色) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "투명히 반짝인 Eyes 그 속에 설렘이 차올라",
+      "translation": "透明閃爍的眼睛 在那之中心動湧上",
+      "analysis": [
+        { "point": "투명히", "explanation": "副詞，透明地。" },
+        { "point": "반짝인", "explanation": "반짝이다 (閃爍) 的過去定語形。" },
+        { "point": "Eyes", "explanation": "英文，眼睛。" },
+        { "point": "그 속에", "explanation": "그 (那) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "설렘이", "explanation": "설렘 (心動) + -이 (主格助詞)。" },
+        { "point": "차올라", "explanation": "차오르다 (充滿、湧上) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "봐 Count 1,2,5 이 공기의 촉감도 달라",
+      "translation": "你看 Count 1,2,5 這空氣的觸感也不同",
+      "analysis": [
+        { "point": "봐", "explanation": "보다 (看) 的非格式體。" },
+        { "point": "Count 1,2,5", "explanation": "英文，數1,2,5。" },
+        { "point": "이 공기의", "explanation": "이 (這) + 공기 (空氣) + -의 (的)。" },
+        { "point": "촉감도", "explanation": "촉감 (觸感) + -도 (也)。" },
+        { "point": "달라", "explanation": "다르다 (不同) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "You and I, you and I you and I 곧 밀려와 wave",
+      "translation": "You and I, you and I you and I 馬上湧來 wave",
+      "analysis": [
+        { "point": "You and I", "explanation": "英文，你和我。" },
+        { "point": "곧", "explanation": "副詞，馬上。" },
+        { "point": "밀려와", "explanation": "밀려오다 (湧來) 的非格式體。" },
+        { "point": "wave", "explanation": "英文，波浪。" }
+      ]
+    },
+    {
+      "korean": "떨리는 기분 up and down",
+      "translation": "顫動的心情 up and down",
+      "analysis": [
+        { "point": "떨리는", "explanation": "떨리다 (顫動) 的現在定語形。" },
+        { "point": "기분", "explanation": "名詞，感覺、心情。" },
+        { "point": "up and down", "explanation": "英文，上上下下。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Hit your heart just like a wave",
+      "translation": "像波浪一樣敲擊你的心",
+      "analysis": [
+        { "point": "Hit your heart just like a wave", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "물결치는 our mood 춤을 추듯이",
+      "translation": "波動的我們的心情 如同跳舞一般",
+      "analysis": [
+        { "point": "물결치는", "explanation": "물결치다 (波動、起伏) 的現在定語形。" },
+        { "point": "our mood", "explanation": "英文，我們的心情。" },
+        { "point": "춤을 추듯이", "explanation": "춤 (舞蹈) + -을 (受格助詞) + 추다 (跳) + -듯이 (好像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "Free your heart, Ride the tidal wave",
+      "translation": "釋放你的心，乘上浪潮",
+      "analysis": [
+        { "point": "Free your heart, Ride the tidal wave", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다채로운 Color 번질 때까지",
+      "translation": "直到多彩的顏色蔓延開來",
+      "analysis": [
+        { "point": "다채로운", "explanation": "다채롭다 (多彩的) 的定語形。" },
+        { "point": "Color", "explanation": "英文，顏色。" },
+        { "point": "번질 때까지", "explanation": "번지다 (蔓延) + -(으)ㄹ 때까지 (直到...的時候)。" }
+      ]
+    },
+    {
+      "korean": "VV, Wavy!",
+      "translation": "VV, Wavy!",
+      "analysis": [
+        { "point": "VV, Wavy!", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Oooooh",
+      "translation": "Oooooh",
+      "analysis": [
+        { "point": "Oooooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "모든 게 날 설레게 해 Oh My heart",
+      "translation": "一切都讓我心動 Oh My heart",
+      "analysis": [
+        { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "설레게 해", "explanation": "설레다 (心動) + -게 하다 (使...) 的非格式體。" },
+        { "point": "Oh My heart", "explanation": "英文，喔我的心。" }
+      ]
+    },
+    {
+      "korean": "Oooooh",
+      "translation": "Oooooh",
+      "analysis": [
+        { "point": "Oooooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "맘껏 즐길래 Feel the waves",
+      "translation": "想盡情享受 Feel the waves",
+      "analysis": [
+        { "point": "맘껏", "explanation": "副詞，盡情地。" },
+        { "point": "즐길래", "explanation": "즐기다 (享受) + -(으)ㄹ래 (表示意志)。" },
+        { "point": "Feel the waves", "explanation": "英文，感受波浪。" }
+      ]
+    },
+    {
+      "korean": "VV, Wavy!",
+      "translation": "VV, Wavy!",
+      "analysis": [
+        { "point": "VV, Wavy!", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Look at the sky 설렘은 High 가벼운 맘은 Rise",
+      "translation": "Look at the sky 心動是 High 輕盈的心是 Rise",
+      "analysis": [
+        { "point": "Look at the sky", "explanation": "英文，看天空。" },
+        { "point": "설렘은", "explanation": "설렘 (心動) + -은 (主題助詞)。" },
+        { "point": "High", "explanation": "英文，高。" },
+        { "point": "가벼운 맘은", "explanation": "가볍다 (輕的) 的定語形 + 마음 (心) 的縮略 + -은 (主題助詞)。" },
+        { "point": "Rise", "explanation": "英文，上升。" }
+      ]
+    },
+    {
+      "korean": "한낮의 Star 뭐든 볼 수 있어 With you",
+      "translation": "白天的星星 什麼都能看見 With you",
+      "analysis": [
+        { "point": "한낮의", "explanation": "한낮 (白天) + -의 (的)。" },
+        { "point": "Star", "explanation": "英文，星星。" },
+        { "point": "뭐든", "explanation": "무엇이든 (無論什麼) 的縮略。" },
+        { "point": "볼 수 있어", "explanation": "보다 (看) + -(으)ㄹ 수 있다 (可以) 的非格式體。" },
+        { "point": "With you", "explanation": "英文，與你。" }
+      ]
+    },
+    {
+      "korean": "손끝으로 맘을 그려 우리가 만들면 돼 yeah",
+      "translation": "用指尖描繪心 我們自己創造就好 yeah",
+      "analysis": [
+        { "point": "손끝으로", "explanation": "손끝 (指尖) + -(으)로 (用)。" },
+        { "point": "맘을", "explanation": "마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "그려", "explanation": "그리다 (描繪) 的非格式體。" },
+        { "point": "우리가", "explanation": "我們 + -가 (主格助詞)。" },
+        { "point": "만들면 돼", "explanation": "만들다 (製作) + -(으)면 되다 (只要...就可以) 的非格式體。" },
+        { "point": "yeah", "explanation": "英文，耶。" }
+      ]
+    },
+    {
+      "korean": "Hey hey 뭘 기다리는 거야",
+      "translation": "Hey hey 在等什麼呢",
+      "analysis": [
+        { "point": "Hey hey", "explanation": "英文，嘿嘿。" },
+        { "point": "뭘", "explanation": "무엇을 (什麼) 的縮略。" },
+        { "point": "기다리는 거야", "explanation": "기다리다 (等待) 的現在定語形 + 것 (事情) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "Yes I know that we glow, let's kick it",
+      "translation": "Yes I know that we glow, let's kick it",
+      "analysis": [
+        { "point": "Yes I know that we glow, let's kick it", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "정해진 규칙의 Line 그 위를 번지게 흐려 놔",
+      "translation": "既定規則的界線 讓它在上方蔓延模糊",
+      "analysis": [
+        { "point": "정해진", "explanation": "정해지다 (被決定) 的過去定語形。" },
+        { "point": "규칙의", "explanation": "규칙 (規則) + -의 (的)。" },
+        { "point": "Line", "explanation": "英文，線、界線。" },
+        { "point": "그 위를", "explanation": "그 (那) + 위 (上面) + -를 (受格助詞)。" },
+        { "point": "번지게", "explanation": "번지다 (蔓延) + -게 (使得)。" },
+        { "point": "흐려 놔", "explanation": "흐리다 (弄模糊) + -아/어 놓다 (完成並保持) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "자 Count 1,2,5 이 순간이 오늘의 Highlight",
+      "translation": "來 Count 1,2,5 這個瞬間是今天的 Highlight",
+      "analysis": [
+        { "point": "자", "explanation": "感嘆詞，來。" },
+        { "point": "Count 1,2,5", "explanation": "英文，數1,2,5。" },
+        { "point": "이 순간이", "explanation": "이 (這) + 순간 (瞬間) + -이 (主格助詞)。" },
+        { "point": "오늘의", "explanation": "오늘 (今天) + -의 (的)。" },
+        { "point": "Highlight", "explanation": "英文，亮點。" }
+      ]
+    },
+    {
+      "korean": "You and I, you and I you and I 더 밀려와 wave",
+      "translation": "You and I, you and I you and I 更多湧來 wave",
+      "analysis": [
+        { "point": "You and I", "explanation": "英文，你和我。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "밀려와", "explanation": "밀려오다 (湧來) 的非格式體。" },
+        { "point": "wave", "explanation": "英文，波浪。" }
+      ]
+    },
+    {
+      "korean": "넘치는 기분 up and down",
+      "translation": "滿溢的心情 up and down",
+      "analysis": [
+        { "point": "넘치는", "explanation": "넘치다 (滿溢) 的現在定語形。" },
+        { "point": "기분", "explanation": "名詞，感覺、心情。" },
+        { "point": "up and down", "explanation": "英文，上上下下。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Hit your heart just like a wave",
+      "translation": "像波浪一樣敲擊你的心",
+      "analysis": [
+        { "point": "Hit your heart just like a wave", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "물결치는 our mood 춤을 추듯이",
+      "translation": "波動的我們的心情 如同跳舞一般",
+      "analysis": [
+        { "point": "물결치는", "explanation": "물결치다 (波動) 的現在定語形。" },
+        { "point": "our mood", "explanation": "英文，我們的心情。" },
+        { "point": "춤을 추듯이", "explanation": "춤 (舞蹈) + -을 (受格助詞) + 추다 (跳) + -듯이 (好像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "Free your heart, Ride the tidal wave",
+      "translation": "釋放你的心，乘上浪潮",
+      "analysis": [
+        { "point": "Free your heart, Ride the tidal wave", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "다채로운 Color 번질 때까지",
+      "translation": "直到多彩的顏色蔓延開來",
+      "analysis": [
+        { "point": "다채로운", "explanation": "다채롭다 (多彩的) 的定語形。" },
+        { "point": "Color", "explanation": "英文，顏色。" },
+        { "point": "번질 때까지", "explanation": "번지다 (蔓延) + -(으)ㄹ 때까지 (直到...的時候)。" }
+      ]
+    },
+    {
+      "korean": "VV, Wavy!",
+      "translation": "VV, Wavy!",
+      "analysis": [
+        { "point": "VV, Wavy!", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "Eyes are shinin' bright",
+      "translation": "眼睛閃耀明亮",
+      "analysis": [
+        { "point": "Eyes are shinin' bright", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "지금 내 눈앞을 봐 퍼져가는 Colorful hearts",
+      "translation": "看著現在我眼前 蔓延開來的 Colorful hearts",
+      "analysis": [
+        { "point": "지금", "explanation": "副詞，現在。" },
+        { "point": "내 눈앞을", "explanation": "내 (我的) + 눈앞 (眼前) + -을 (受格助詞)。" },
+        { "point": "봐", "explanation": "보다 (看) 的非格式體。" },
+        { "point": "퍼져가는", "explanation": "퍼지다 (蔓延) + -아/어 가다 (漸進) 的現在定語形。" },
+        { "point": "Colorful hearts", "explanation": "英文，多彩的心。" }
+      ]
+    },
+    {
+      "korean": "짙어지는 Blue sky 물결치는 나의 맘",
+      "translation": "漸漸變深的藍天 波動的我的心",
+      "analysis": [
+        { "point": "짙어지는", "explanation": "짙어지다 (變濃、變深) 的現在定語形。" },
+        { "point": "Blue sky", "explanation": "英文，藍天。" },
+        { "point": "물결치는", "explanation": "물결치다 (波動) 的現在定語形。" },
+        { "point": "나의 맘", "explanation": "나의 (我的) + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "어디라도 함께 Ride out",
+      "translation": "無論何地 一起 Ride out",
+      "analysis": [
+        { "point": "어디라도", "explanation": "어디 (哪裡) + -라도 (無論)。" },
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "Ride out", "explanation": "英文，馳騁出去。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "Feel so fine just like a wave",
+      "translation": "感覺很好 就像波浪一樣",
+      "analysis": [
+        { "point": "Feel so fine just like a wave", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "자유롭게 Surfing My heart is breatin'",
+      "translation": "自由地 Surfing 我的心在呼吸",
+      "analysis": [
+        { "point": "자유롭게", "explanation": "자유롭다 (自由的) 的副詞形。" },
+        { "point": "Surfing", "explanation": "英文，衝浪。" },
+        { "point": "My heart is breatin'", "explanation": "英文，我的心在呼吸。" }
+      ]
+    },
+    {
+      "korean": "Free your heart, Ride the tidal wave",
+      "translation": "釋放你的心，乘上浪潮",
+      "analysis": [
+        { "point": "Free your heart, Ride the tidal wave", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "스며드는 Color 감출 수 없어",
+      "translation": "滲入的顏色 無法隱藏",
+      "analysis": [
+        { "point": "스며드는", "explanation": "스며들다 (滲入) 的現在定語形。" },
+        { "point": "Color", "explanation": "英文，顏色。" },
+        { "point": "감출 수 없어", "explanation": "감추다 (隱藏) + -(으)ㄹ 수 없다 (無法) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "VV, Wavy!",
+      "translation": "VV, Wavy!",
+      "analysis": [
+        { "point": "VV, Wavy!", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "Oooooh",
+      "translation": "Oooooh",
+      "analysis": [
+        { "point": "Oooooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "모든 게 날 설레게 해 Oh My heart",
+      "translation": "一切都讓我心動 Oh My heart",
+      "analysis": [
+        { "point": "모든 게", "explanation": "모든 것 (所有事物) + -이 (主格助詞) 的縮略。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "설레게 해", "explanation": "설레다 (心動) + -게 하다 (使...) 的非格式體。" },
+        { "point": "Oh My heart", "explanation": "英文，喔我的心。" }
+      ]
+    },
+    {
+      "korean": "Oooooh",
+      "translation": "Oooooh",
+      "analysis": [
+        { "point": "Oooooh", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "맘껏 즐길래 Feel the waves",
+      "translation": "想盡情享受 Feel the waves",
+      "analysis": [
+        { "point": "맘껏", "explanation": "副詞，盡情地。" },
+        { "point": "즐길래", "explanation": "즐기다 (享受) + -(으)ㄹ래 (表示意志)。" },
+        { "point": "Feel the waves", "explanation": "英文，感受波浪。" }
+      ]
+    },
+    {
+      "korean": "VV, Wavy!",
+      "translation": "VV, Wavy!",
+      "analysis": [
+        { "point": "VV, Wavy!", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "고개", "chinese": "頭", "pos": "名詞" },
+    { "korean": "살짝", "chinese": "輕輕地", "pos": "副詞" },
+    { "korean": "들다", "chinese": "抬起", "pos": "動詞" },
+    { "korean": "특별하다", "chinese": "特別的", "pos": "形容詞" },
+    { "korean": "보여주다", "chinese": "給...看", "pos": "動詞" },
+    { "korean": "눈앞", "chinese": "眼前", "pos": "名詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "맘대로", "chinese": "隨心所欲地", "pos": "副詞" },
+    { "korean": "칠하다", "chinese": "塗色", "pos": "動詞" },
+    { "korean": "투명히", "chinese": "透明地", "pos": "副詞" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "속", "chinese": "裡面", "pos": "名詞" },
+    { "korean": "설렘", "chinese": "心動", "pos": "名詞" },
+    { "korean": "차오르다", "chinese": "充滿、湧上", "pos": "動詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "촉감", "chinese": "觸感", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同", "pos": "形容詞" },
+    { "korean": "곧", "chinese": "馬上", "pos": "副詞" },
+    { "korean": "밀려오다", "chinese": "湧來", "pos": "動詞" },
+    { "korean": "떨리다", "chinese": "顫動", "pos": "動詞" },
+    { "korean": "기분", "chinese": "感覺、心情", "pos": "名詞" },
+    { "korean": "물결치다", "chinese": "波動、起伏", "pos": "動詞" },
+    { "korean": "춤", "chinese": "舞蹈", "pos": "名詞" },
+    { "korean": "추다", "chinese": "跳", "pos": "動詞" },
+    { "korean": "다채롭다", "chinese": "多彩的", "pos": "形容詞" },
+    { "korean": "번지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "모든", "chinese": "所有的", "pos": "冠詞" },
+    { "korean": "설레게 하다", "chinese": "使心動", "pos": "片語" },
+    { "korean": "맘껏", "chinese": "盡情地", "pos": "副詞" },
+    { "korean": "즐기다", "chinese": "享受", "pos": "動詞" },
+    { "korean": "한낮", "chinese": "白天", "pos": "名詞" },
+    { "korean": "뭐든", "chinese": "無論什麼", "pos": "代名詞" },
+    { "korean": "손끝", "chinese": "指尖", "pos": "名詞" },
+    { "korean": "그리다", "chinese": "描繪", "pos": "動詞" },
+    { "korean": "만들다", "chinese": "製作", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "정해지다", "chinese": "被決定", "pos": "動詞" },
+    { "korean": "규칙", "chinese": "規則", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "흐리다", "chinese": "弄模糊", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "더", "chinese": "更", "pos": "副詞" },
+    { "korean": "넘치다", "chinese": "滿溢", "pos": "動詞" },
+    { "korean": "퍼지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "짙어지다", "chinese": "變濃、變深", "pos": "動詞" },
+    { "korean": "어디라도", "chinese": "無論何地", "pos": "副詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "자유롭다", "chinese": "自由的", "pos": "形容詞" },
+    { "korean": "스며들다", "chinese": "滲入", "pos": "動詞" },
+    { "korean": "감추다", "chinese": "隱藏", "pos": "動詞" }
+  ]
+}

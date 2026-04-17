@@ -1,0 +1,500 @@
+{
+  "id": "yerin-4u",
+  "title": "4U",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "korean": "I fallin'",
+      "translation": "我墜落",
+      "analysis": [
+        { "point": "I fallin'", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Dive into this summer",
+      "translation": "潛入這個夏天",
+      "analysis": [
+        { "point": "Dive into this summer", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Give my love",
+      "translation": "給予我的愛",
+      "analysis": [
+        { "point": "Give my love", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 따라 Surfing Baby take my hand",
+      "translation": "跟隨我 Surfing Baby take my hand",
+      "analysis": [
+        { "point": "날 따라", "explanation": "나를 (我) 的縮略 + 따르다 (跟隨) 的非格式體。" },
+        { "point": "Surfing", "explanation": "英文，衝浪。" },
+        { "point": "Baby take my hand", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It is 4U, 4U, 4U",
+      "translation": "這是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "It is 4U, 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "멈출 수 없이 떨리는 Heart",
+      "translation": "無法停止顫動的心",
+      "analysis": [
+        { "point": "멈출 수 없이", "explanation": "멈추다 (停止) + -(으)ㄹ 수 없이 (無法地)。" },
+        { "point": "떨리는", "explanation": "떨리다 (顫動) 的現在定語形。" },
+        { "point": "Heart", "explanation": "英文，心。" }
+      ]
+    },
+    {
+      "korean": "It is 4U, 4U, 4U",
+      "translation": "這是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "It is 4U, 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "함께 Hot Summer Time 선명한 New delight",
+      "translation": "一起 Hot Summer Time 鮮明的 New delight",
+      "analysis": [
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "Hot Summer Time", "explanation": "英文，炎熱的夏日時光。" },
+        { "point": "선명한", "explanation": "선명하다 (鮮明的) 的定語形。" },
+        { "point": "New delight", "explanation": "英文，新的喜悅。" }
+      ]
+    },
+    {
+      "korean": "Feel this vibe 즐겨 가장 눈부신 지금 이 Parade",
+      "translation": "Feel this vibe 享受 最耀眼的此刻這 Parade",
+      "analysis": [
+        { "point": "Feel this vibe", "explanation": "英文，感受這氛圍。" },
+        { "point": "즐겨", "explanation": "즐기다 (享受) 的非格式體。" },
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" },
+        { "point": "지금 이 Parade", "explanation": "지금 (現在) + 이 (這) + Parade (英文，遊行)。" }
+      ]
+    },
+    {
+      "korean": "Summer time 널 위한 선물이야 4U, 4U, 4U",
+      "translation": "Summer time 是為你準備的禮物 4U, 4U, 4U",
+      "analysis": [
+        { "point": "Summer time", "explanation": "英文，夏日時光。" },
+        { "point": "널 위한", "explanation": "너를 (你) 的縮略 + 위하다 (為了) 的定語形。" },
+        { "point": "선물이야", "explanation": "선물 (禮物) + -이야 (是)。" },
+        { "point": "4U, 4U, 4U", "explanation": "英文，為了你。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "햇살에 찡긋 눈 감아 한 여름 속에 빠져 Dive",
+      "translation": "對著陽光眨眼 閉上眼睛 陷入仲夏之中 Dive",
+      "analysis": [
+        { "point": "햇살에", "explanation": "햇살 (陽光) + -에 (對/向)。" },
+        { "point": "찡긋", "explanation": "擬聲/擬態詞，眨眼貌。" },
+        { "point": "눈 감아", "explanation": "눈 (眼睛) + 감다 (閉) 的非格式體。" },
+        { "point": "한 여름 속에", "explanation": "한 여름 (仲夏) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "빠져", "explanation": "빠지다 (陷入) 的非格式體。" },
+        { "point": "Dive", "explanation": "英文，潛入。" }
+      ]
+    },
+    {
+      "korean": "터져 나온 Feelings",
+      "translation": "爆發出來的 Feelings",
+      "analysis": [
+        { "point": "터져 나온", "explanation": "터지다 (爆發) + -아/어 나오다 (出來) 的過去定語形。" },
+        { "point": "Feelings", "explanation": "英文，情感。" }
+      ]
+    },
+    {
+      "korean": "Close your eyes 상상했던 금빛 모래 위의 우리",
+      "translation": "Close your eyes 想像過的金色沙灘上的我們",
+      "analysis": [
+        { "point": "Close your eyes", "explanation": "英文，閉上你的眼睛。" },
+        { "point": "상상했던", "explanation": "상상하다 (想像) 的過去回想着定語形。" },
+        { "point": "금빛", "explanation": "名詞，金色。" },
+        { "point": "모래 위의", "explanation": "모래 (沙子) + 위 (上面) + -의 (的)。" },
+        { "point": "우리", "explanation": "我們。" }
+      ]
+    },
+    {
+      "korean": "지금 펼쳐져 Right now",
+      "translation": "現在正在展開 Right now",
+      "analysis": [
+        { "point": "지금", "explanation": "副詞，現在。" },
+        { "point": "펼쳐져", "explanation": "펼쳐지다 (被展開) 的非格式體。" },
+        { "point": "Right now", "explanation": "英文，立刻、現在。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "파도처럼 넘칠 Story 위로 뛰어들어 Jumpin' yeah",
+      "translation": "像波浪一樣滿溢的故事 跳進去 Jumpin' yeah",
+      "analysis": [
+        { "point": "파도처럼", "explanation": "파도 (波浪) + -처럼 (像...一樣)。" },
+        { "point": "넘칠", "explanation": "넘치다 (滿溢) 的未來定語形。" },
+        { "point": "Story", "explanation": "英文，故事。" },
+        { "point": "위로", "explanation": "名詞/副詞，向上。" },
+        { "point": "뛰어들어", "explanation": "뛰어들다 (跳入) 的非格式體。" },
+        { "point": "Jumpin' yeah", "explanation": "英文，跳躍 耶。" }
+      ]
+    },
+    {
+      "korean": "멀리로, 멀리로 그냥 훌쩍 흘러가볼까",
+      "translation": "向遠處，向遠處 就這麼輕快地流走怎麼樣",
+      "analysis": [
+        { "point": "멀리로", "explanation": "멀리 (遠處) + -(으)로 (向)。" },
+        { "point": "그냥", "explanation": "副詞，就、只是。" },
+        { "point": "훌쩍", "explanation": "副詞，輕快地、一下子。" },
+        { "point": "흘러가볼까", "explanation": "흘러가다 (流走) + -아/어 보다 (嘗試) + -(으)ㄹ까 (提議/疑問)。" }
+      ]
+    },
+    {
+      "korean": "이 계절은 끝나지 않으니까",
+      "translation": "因為這個季節不會結束",
+      "analysis": [
+        { "point": "이 계절은", "explanation": "이 (這) + 계절 (季節) + -은 (主題助詞)。" },
+        { "point": "끝나지 않으니까", "explanation": "끝나다 (結束) + -지 않다 (不) + -(으)니까 (因為)。" }
+      ]
+    },
+    {
+      "korean": "자유롭게 즐겨봐 Right",
+      "translation": "自由地享受吧 Right",
+      "analysis": [
+        { "point": "자유롭게", "explanation": "자유롭다 (自由的) 的副詞形。" },
+        { "point": "즐겨봐", "explanation": "즐기다 (享受) + -아/어 보다 (嘗試) 的請求形。" },
+        { "point": "Right", "explanation": "英文，對吧。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 따라 Surfing Baby take my hand",
+      "translation": "跟隨我 Surfing Baby take my hand",
+      "analysis": [
+        { "point": "날 따라", "explanation": "나를 (我) 的縮略 + 따르다 (跟隨) 的非格式體。" },
+        { "point": "Surfing", "explanation": "英文，衝浪。" },
+        { "point": "Baby take my hand", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It is 4U, 4U, 4U",
+      "translation": "這是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "It is 4U, 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "멈출 수 없이 떨리는 Heart",
+      "translation": "無法停止顫動的心",
+      "analysis": [
+        { "point": "멈출 수 없이", "explanation": "멈추다 (停止) + -(으)ㄹ 수 없이 (無法地)。" },
+        { "point": "떨리는", "explanation": "떨리다 (顫動) 的現在定語形。" },
+        { "point": "Heart", "explanation": "英文，心。" }
+      ]
+    },
+    {
+      "korean": "It is 4U, 4U, 4U",
+      "translation": "這是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "It is 4U, 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "함께 Hot Summer Time 선명한 New delight",
+      "translation": "一起 Hot Summer Time 鮮明的 New delight",
+      "analysis": [
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "Hot Summer Time", "explanation": "英文，炎熱的夏日時光。" },
+        { "point": "선명한", "explanation": "선명하다 (鮮明的) 的定語形。" },
+        { "point": "New delight", "explanation": "英文，新的喜悅。" }
+      ]
+    },
+    {
+      "korean": "Feel this vibe 즐겨 가장 눈부신 지금 이 Parade",
+      "translation": "Feel this vibe 享受 最耀眼的此刻這 Parade",
+      "analysis": [
+        { "point": "Feel this vibe", "explanation": "英文，感受這氛圍。" },
+        { "point": "즐겨", "explanation": "즐기다 (享受) 的非格式體。" },
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" },
+        { "point": "지금 이 Parade", "explanation": "지금 (現在) + 이 (這) + Parade (英文，遊行)。" }
+      ]
+    },
+    {
+      "korean": "Summer time 널 위한 선물이야 4U, 4U, 4U",
+      "translation": "Summer time 是為你準備的禮物 4U, 4U, 4U",
+      "analysis": [
+        { "point": "Summer time", "explanation": "英文，夏日時光。" },
+        { "point": "널 위한", "explanation": "너를 (你) 的縮略 + 위하다 (為了) 的定語形。" },
+        { "point": "선물이야", "explanation": "선물 (禮物) + -이야 (是)。" },
+        { "point": "4U, 4U, 4U", "explanation": "英文，為了你。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Woo, Are you ready? 뜨거워져 Shine",
+      "translation": "Woo, Are you ready? 變火熱 Shine",
+      "analysis": [
+        { "point": "Woo", "explanation": "英文，嗚。" },
+        { "point": "Are you ready?", "explanation": "英文，你準備好了嗎？" },
+        { "point": "뜨거워져", "explanation": "뜨거워지다 (變熱) 的非格式體。" },
+        { "point": "Shine", "explanation": "英文，閃耀。" }
+      ]
+    },
+    {
+      "korean": "I can't just wait",
+      "translation": "我無法只是等待",
+      "analysis": [
+        { "point": "I can't just wait", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Move, Like a dazed 눈이 부신 Sight",
+      "translation": "Move, Like a dazed 耀眼的 Sight",
+      "analysis": [
+        { "point": "Move", "explanation": "英文，移動。" },
+        { "point": "Like a dazed", "explanation": "英文，像恍惚的。" },
+        { "point": "눈이 부신", "explanation": "눈이 부시다 (耀眼) 的定語形。" },
+        { "point": "Sight", "explanation": "英文，景象。" }
+      ]
+    },
+    {
+      "korean": "I can be sweaty",
+      "translation": "我可以流汗",
+      "analysis": [
+        { "point": "I can be sweaty", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "한껏 녹아내린 Ice cream 너에 대한 건 다 Sweetest",
+      "translation": "完全融化的冰淇淋 關於你的一切都是 Sweetest",
+      "analysis": [
+        { "point": "한껏", "explanation": "副詞，充分地、盡情地。" },
+        { "point": "녹아내린", "explanation": "녹아내리다 (融化) 的過去定語形。" },
+        { "point": "Ice cream", "explanation": "英文，冰淇淋。" },
+        { "point": "너에 대한 건", "explanation": "너 (你) + -에 대한 (關於) + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "Sweetest", "explanation": "英文，最甜蜜的。" }
+      ]
+    },
+    {
+      "korean": "갈수록, 갈수록, 갈수록 더 짜릿하니까",
+      "translation": "越往後，越往後，越往後 因為更加刺激",
+      "analysis": [
+        { "point": "갈수록", "explanation": "가다 (去) + -(으)ㄹ수록 (越...越)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "짜릿하니까", "explanation": "짜릿하다 (刺激的) + -(으)니까 (因為)。" }
+      ]
+    },
+    {
+      "korean": "이 시원한 여름을 더 활짝 펼쳐",
+      "translation": "把這個涼爽的夏天更燦爛地展開",
+      "analysis": [
+        { "point": "이 시원한", "explanation": "이 (這) + 시원하다 (涼爽的) 的定語形。" },
+        { "point": "여름을", "explanation": "여름 (夏天) + -을 (受格助詞)。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "활짝", "explanation": "副詞，燦爛地、盛開地。" },
+        { "point": "펼쳐", "explanation": "펼치다 (展開) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "자유롭게 즐겨봐 Right",
+      "translation": "自由地享受吧 Right",
+      "analysis": [
+        { "point": "자유롭게", "explanation": "자유롭다 (自由的) 的副詞形。" },
+        { "point": "즐겨봐", "explanation": "즐기다 (享受) + -아/어 보다 (嘗試) 的請求形。" },
+        { "point": "Right", "explanation": "英文，對吧。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "날 따라 Surfing Baby take my hand",
+      "translation": "跟隨我 Surfing Baby take my hand",
+      "analysis": [
+        { "point": "날 따라", "explanation": "나를 (我) 的縮略 + 따르다 (跟隨) 的非格式體。" },
+        { "point": "Surfing", "explanation": "英文，衝浪。" },
+        { "point": "Baby take my hand", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It is 4U, 4U, 4U",
+      "translation": "這是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "It is 4U, 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "멈출 수 없이 떨리는 Heart",
+      "translation": "無法停止顫動的心",
+      "analysis": [
+        { "point": "멈출 수 없이", "explanation": "멈추다 (停止) + -(으)ㄹ 수 없이 (無法地)。" },
+        { "point": "떨리는", "explanation": "떨리다 (顫動) 的現在定語形。" },
+        { "point": "Heart", "explanation": "英文，心。" }
+      ]
+    },
+    {
+      "korean": "It is 4U, 4U, 4U",
+      "translation": "這是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "It is 4U, 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It's 4U It's 4U, 4U",
+      "translation": "這是為了你 這是為了你 為了你",
+      "analysis": [
+        { "point": "It's 4U It's 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "It's 4U It's 4U, 4U",
+      "translation": "這是為了你 這是為了你 為了你",
+      "analysis": [
+        { "point": "It's 4U It's 4U, 4U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "춤추는 Sea waves Like paradise",
+      "translation": "跳舞的海浪 Like paradise",
+      "analysis": [
+        { "point": "춤추는", "explanation": "춤추다 (跳舞) 的現在定語形。" },
+        { "point": "Sea waves", "explanation": "英文，海浪。" },
+        { "point": "Like paradise", "explanation": "英文，像天堂。" }
+      ]
+    },
+    {
+      "korean": "우리를 위한 This summer",
+      "translation": "為了我們的 This summer",
+      "analysis": [
+        { "point": "우리를 위한", "explanation": "우리 (我們) + -를 위한 (為了)。" },
+        { "point": "This summer", "explanation": "英文，這個夏天。" }
+      ]
+    },
+    {
+      "korean": "널 데리고 가 Feel so high",
+      "translation": "帶你走 Feel so high",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "데리고 가", "explanation": "데리고 가다 (帶走) 的非格式體。" },
+        { "point": "Feel so high", "explanation": "英文，感覺如此高漲。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "아찔한 Riding 수평선 아래",
+      "translation": "令人暈眩的 Riding 水平線之下",
+      "analysis": [
+        { "point": "아찔한", "explanation": "아찔하다 (令人暈眩的) 的定語形。" },
+        { "point": "Riding", "explanation": "英文，騎乘、馳騁。" },
+        { "point": "수평선 아래", "explanation": "수평선 (水平線) + 아래 (下面)。" }
+      ]
+    },
+    {
+      "korean": "I'm all 4 U, 4 U, 4 U",
+      "translation": "我全都是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "I'm all 4 U, 4 U, 4 U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "Like summer party 설레는 Heart",
+      "translation": "Like summer party 心動的心",
+      "analysis": [
+        { "point": "Like summer party", "explanation": "英文，像夏日派對。" },
+        { "point": "설레는", "explanation": "설레다 (心動) 的現在定語形。" },
+        { "point": "Heart", "explanation": "英文，心。" }
+      ]
+    },
+    {
+      "korean": "I'm all 4 U, 4 U, 4 U",
+      "translation": "我全都是為了你 為了你 為了你",
+      "analysis": [
+        { "point": "I'm all 4 U, 4 U, 4 U", "explanation": "英文歌詞，4U 即 For You，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "함께 Hot Summer Time 선명한 New delight",
+      "translation": "一起 Hot Summer Time 鮮明的 New delight",
+      "analysis": [
+        { "point": "함께", "explanation": "副詞，一起。" },
+        { "point": "Hot Summer Time", "explanation": "英文，炎熱的夏日時光。" },
+        { "point": "선명한", "explanation": "선명하다 (鮮明的) 的定語形。" },
+        { "point": "New delight", "explanation": "英文，新的喜悅。" }
+      ]
+    },
+    {
+      "korean": "Feel this vibe 즐겨 가장 눈부신 지금 이 Parade",
+      "translation": "Feel this vibe 享受 最耀眼的此刻這 Parade",
+      "analysis": [
+        { "point": "Feel this vibe", "explanation": "英文，感受這氛圍。" },
+        { "point": "즐겨", "explanation": "즐기다 (享受) 的非格式體。" },
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" },
+        { "point": "지금 이 Parade", "explanation": "지금 (現在) + 이 (這) + Parade (英文，遊行)。" }
+      ]
+    },
+    {
+      "korean": "Summer time 널 위한 선물이야 4U, 4U, 4U",
+      "translation": "Summer time 是為你準備的禮物 4U, 4U, 4U",
+      "analysis": [
+        { "point": "Summer time", "explanation": "英文，夏日時光。" },
+        { "point": "널 위한", "explanation": "너를 (你) 的縮略 + 위하다 (為了) 的定語形。" },
+        { "point": "선물이야", "explanation": "선물 (禮物) + -이야 (是)。" },
+        { "point": "4U, 4U, 4U", "explanation": "英文，為了你。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "떨리다", "chinese": "顫動", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "선명하다", "chinese": "鮮明的", "pos": "形容詞" },
+    { "korean": "즐기다", "chinese": "享受", "pos": "動詞" },
+    { "korean": "가장", "chinese": "最", "pos": "副詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "위하다", "chinese": "為了", "pos": "動詞" },
+    { "korean": "선물", "chinese": "禮物", "pos": "名詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "찡긋", "chinese": "眨眼貌", "pos": "副詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉", "pos": "動詞" },
+    { "korean": "한 여름", "chinese": "仲夏", "pos": "名詞" },
+    { "korean": "빠지다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "터지다", "chinese": "爆發", "pos": "動詞" },
+    { "korean": "상상하다", "chinese": "想像", "pos": "動詞" },
+    { "korean": "금빛", "chinese": "金色", "pos": "名詞" },
+    { "korean": "모래", "chinese": "沙子", "pos": "名詞" },
+    { "korean": "위", "chinese": "上面", "pos": "名詞" },
+    { "korean": "펼쳐지다", "chinese": "被展開", "pos": "動詞" },
+    { "korean": "파도", "chinese": "波浪", "pos": "名詞" },
+    { "korean": "넘치다", "chinese": "滿溢", "pos": "動詞" },
+    { "korean": "뛰어들다", "chinese": "跳入", "pos": "動詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "그냥", "chinese": "就、只是", "pos": "副詞" },
+    { "korean": "훌쩍", "chinese": "輕快地、一下子", "pos": "副詞" },
+    { "korean": "흘러가다", "chinese": "流走", "pos": "動詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "끝나다", "chinese": "結束", "pos": "動詞" },
+    { "korean": "자유롭다", "chinese": "自由的", "pos": "形容詞" },
+    { "korean": "뜨거워지다", "chinese": "變熱", "pos": "動詞" },
+    { "korean": "한껏", "chinese": "充分地、盡情地", "pos": "副詞" },
+    { "korean": "녹아내리다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "짜릿하다", "chinese": "刺激的", "pos": "形容詞" },
+    { "korean": "시원하다", "chinese": "涼爽的", "pos": "形容詞" },
+    { "korean": "여름", "chinese": "夏天", "pos": "名詞" },
+    { "korean": "활짝", "chinese": "燦爛地、盛開地", "pos": "副詞" },
+    { "korean": "펼치다", "chinese": "展開", "pos": "動詞" },
+    { "korean": "춤추다", "chinese": "跳舞", "pos": "動詞" },
+    { "korean": "데리고 가다", "chinese": "帶走", "pos": "動詞" },
+    { "korean": "아찔하다", "chinese": "令人暈眩的", "pos": "形容詞" },
+    { "korean": "수평선", "chinese": "水平線", "pos": "名詞" },
+    { "korean": "아래", "chinese": "下面", "pos": "名詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" }
+  ]
+}

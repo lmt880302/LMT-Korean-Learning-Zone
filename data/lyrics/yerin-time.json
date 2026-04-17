@@ -1,0 +1,416 @@
+{
+  "id": "yerin-time",
+  "title": "시간 (Time)",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "그대 맘은 뭔가요 나와 같은 걸까요",
+      "translation": "你的心是什麼呢 會和我一樣嗎",
+      "analysis": [
+        { "point": "그대 맘은", "explanation": "그대 (你) + 마음 (心) 的縮略 + -은 (主題助詞)。" },
+        { "point": "뭔가요", "explanation": "무엇 (什麼) + -인가요 (疑問敬語) 的縮略。" },
+        { "point": "나와 같은 걸까요", "explanation": "나 (我) + -와 (和) + 같다 (相同) + -ㄴ (定語形) + 것 (事情) + -일까요 (疑問敬語)。" }
+      ]
+    },
+    {
+      "korean": "아직 나만 같은 곳을 바라봐요",
+      "translation": "你還望著和我一樣的地方嗎",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還、仍然。" },
+        { "point": "나만", "explanation": "나 (我) + -만 (只)。" },
+        { "point": "같은 곳을", "explanation": "같다 (相同的) 的定語形 + 곳 (地方) + -을 (受格助詞)。" },
+        { "point": "바라봐요", "explanation": "바라보다 (望著) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "korean": "할 말이 참 많은데 그대 앞에만 서면",
+      "translation": "想說的話真的很多 但只要站在你面前",
+      "analysis": [
+        { "point": "할 말이", "explanation": "하다 (說) 的未來定語形 + 말 (話) + -이 (主格助詞)。" },
+        { "point": "참", "explanation": "副詞，真的、非常。" },
+        { "point": "많은데", "explanation": "많다 (多的) 的定語形 + -ㄴ데 (轉折語尾)。" },
+        { "point": "그대 앞에만", "explanation": "그대 (你) + 앞 (前面) + -에 (場所) + -만 (只)。" },
+        { "point": "서면", "explanation": "서다 (站) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "바보처럼 나는 그냥 멈춰버렸죠",
+      "translation": "我就像傻瓜一樣就這麼停下了",
+      "analysis": [
+        { "point": "바보처럼", "explanation": "바보 (傻瓜) + -처럼 (像...一樣)。" },
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" },
+        { "point": "그냥", "explanation": "副詞，就、只是。" },
+        { "point": "멈춰버렸죠", "explanation": "멈추다 (停止) + -아/어 버리다 (完了) 的過去回想形 + -죠 (語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시간이 흘러",
+      "translation": "時間流逝",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "흘러", "explanation": "흐르다 (流逝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우리가 영원히 만날 수 없을 때",
+      "translation": "當我們永遠無法相見的時候",
+      "analysis": [
+        { "point": "우리가", "explanation": "我們 + -가 (主格助詞)。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "만날 수 없을 때", "explanation": "만나다 (見面) + -(으)ㄹ 수 없다 (無法) 的未來定語形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "그땐 말할 수 있을까",
+      "translation": "那時候能說出來嗎",
+      "analysis": [
+        { "point": "그땐", "explanation": "그때는 (那時候) 的縮略。" },
+        { "point": "말할 수 있을까", "explanation": "말하다 (說) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 오른쪽에 너와의 시간을 담아",
+      "translation": "在我的右側 裝載與你的時光",
+      "analysis": [
+        { "point": "내 오른쪽에", "explanation": "내 (我的) + 오른쪽 (右側) + -에 (場所助詞)。" },
+        { "point": "너와의", "explanation": "너 (你) + -와의 (和...的)。" },
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "담아", "explanation": "담다 (裝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 왼쪽에 너와의 기억이 남아",
+      "translation": "在我的左側 與你的記憶留存",
+      "analysis": [
+        { "point": "내 왼쪽에", "explanation": "내 (我的) + 왼쪽 (左側) + -에 (場所助詞)。" },
+        { "point": "너와의", "explanation": "너 (你) + -와의 (和...的)。" },
+        { "point": "기억이", "explanation": "기억 (記憶) + -이 (主格助詞)。" },
+        { "point": "남아", "explanation": "남다 (留下) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "또 이렇게 또 이렇게 멀리서만 이렇게",
+      "translation": "又這樣 又這樣 只在遠處 這樣",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "멀리서만", "explanation": "멀리 (遠處) + -서 (從) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "그저 널 바라보기만 할게",
+      "translation": "就只是這樣望著你",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "바라보기만 할게", "explanation": "바라보다 (望著) + -기만 하다 (只做) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "숨겨놓고 아껴둔 말",
+      "translation": "藏起來珍惜著的話",
+      "analysis": [
+        { "point": "숨겨놓고", "explanation": "숨기다 (隱藏) + -아/어 놓다 (完成並保持) + -고 (連接詞尾)。" },
+        { "point": "아껴둔", "explanation": "아끼다 (珍惜) + -아/어 두다 (保持狀態) 的過去定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "자신 없어 소리 내지 못한 그 한마디",
+      "translation": "沒有自信 未能發出聲音的那一句話",
+      "analysis": [
+        { "point": "자신 없어", "explanation": "자신 (自信) + 없다 (沒有) 的非格式體。" },
+        { "point": "소리 내지 못한", "explanation": "소리 내다 (發出聲音) + -지 못하다 (未能) 的過去定語形。" },
+        { "point": "그 한마디", "explanation": "그 (那) + 한마디 (一句話)。" }
+      ]
+    },
+    {
+      "korean": "그댈 좋아해요",
+      "translation": "我喜歡你",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "좋아해요", "explanation": "좋아하다 (喜歡) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "그대 맘은 뭘까요 아직도 모를까요",
+      "translation": "你的心是什麼呢 還不知道嗎",
+      "analysis": [
+        { "point": "그대 맘은", "explanation": "그대 (你) + 마음 (心) 的縮略 + -은 (主題助詞)。" },
+        { "point": "뭘까요", "explanation": "무엇 (什麼) + -일까요 (疑問敬語) 的縮略。" },
+        { "point": "아직도", "explanation": "아직 (還) + -도 (也)。" },
+        { "point": "모를까요", "explanation": "모르다 (不知道) + -(으)ㄹ까요 (疑問敬語)。" }
+      ]
+    },
+    {
+      "korean": "그냥 나와 같은 곳에 있어 줘요",
+      "translation": "就待在和我在同一個地方吧",
+      "analysis": [
+        { "point": "그냥", "explanation": "副詞，就、只是。" },
+        { "point": "나와 같은 곳에", "explanation": "나 (我) + -와 (和) + 같다 (相同) 的定語形 + 곳 (地方) + -에 (場所助詞)。" },
+        { "point": "있어 줘요", "explanation": "있다 (在) + -아/어 주다 (為我) 的敬語請求形。" }
+      ]
+    },
+    {
+      "korean": "함께 있단 생각에 너와 있는 모습을",
+      "translation": "因為想著在一起的這件事 把你和我在的模樣",
+      "analysis": [
+        { "point": "함께 있단 생각에", "explanation": "함께 (一起) + 있다 (在) + -단 (引用) + 생각 (想法) + -에 (原因助詞)。" },
+        { "point": "너와 있는 모습을", "explanation": "너 (你) + -와 (和) + 있다 (在) 的現在定語形 + 모습 (模樣) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "korean": "그려 보며 나는 그냥 웃어버렸죠",
+      "translation": "試著描繪 我就這麼笑了",
+      "analysis": [
+        { "point": "그려 보며", "explanation": "그리다 (描繪) + -아/어 보다 (嘗試) + -며 (同時)。" },
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" },
+        { "point": "그냥", "explanation": "副詞，就、只是。" },
+        { "point": "웃어버렸죠", "explanation": "웃다 (笑) + -아/어 버리다 (完了) 的過去回想形 + -죠 (語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "시간이 흘러",
+      "translation": "時間流逝",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格助詞)。" },
+        { "point": "흘러", "explanation": "흐르다 (流逝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우리가 영원히 만날 수 없을 때",
+      "translation": "當我們永遠無法相見的時候",
+      "analysis": [
+        { "point": "우리가", "explanation": "我們 + -가 (主格助詞)。" },
+        { "point": "영원히", "explanation": "副詞，永遠地。" },
+        { "point": "만날 수 없을 때", "explanation": "만나다 (見面) + -(으)ㄹ 수 없다 (無法) 的未來定語形 + 때 (時候)。" }
+      ]
+    },
+    {
+      "korean": "그땐 말할 수 있을까",
+      "translation": "那時候能說出來嗎",
+      "analysis": [
+        { "point": "그땐", "explanation": "그때는 (那時候) 的縮略。" },
+        { "point": "말할 수 있을까", "explanation": "말하다 (說) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "내 오른쪽에 너와의 시간을 담아",
+      "translation": "在我的右側 裝載與你的時光",
+      "analysis": [
+        { "point": "내 오른쪽에", "explanation": "내 (我的) + 오른쪽 (右側) + -에 (場所助詞)。" },
+        { "point": "너와의", "explanation": "너 (你) + -와의 (和...的)。" },
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "담아", "explanation": "담다 (裝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 왼쪽에 너와의 기억이 남아",
+      "translation": "在我的左側 與你的記憶留存",
+      "analysis": [
+        { "point": "내 왼쪽에", "explanation": "내 (我的) + 왼쪽 (左側) + -에 (場所助詞)。" },
+        { "point": "너와의", "explanation": "너 (你) + -와의 (和...的)。" },
+        { "point": "기억이", "explanation": "기억 (記憶) + -이 (主格助詞)。" },
+        { "point": "남아", "explanation": "남다 (留下) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "또 이렇게 또 이렇게 멀리서만 이렇게",
+      "translation": "又這樣 又這樣 只在遠處 這樣",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "멀리서만", "explanation": "멀리 (遠處) + -서 (從) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "그저 널 바라보기만 할게",
+      "translation": "就只是這樣望著你",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "바라보기만 할게", "explanation": "바라보다 (望著) + -기만 하다 (只做) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "숨겨놓고 아껴둔 말",
+      "translation": "藏起來珍惜著的話",
+      "analysis": [
+        { "point": "숨겨놓고", "explanation": "숨기다 (隱藏) + -아/어 놓다 (完成並保持) + -고 (連接詞尾)。" },
+        { "point": "아껴둔", "explanation": "아끼다 (珍惜) + -아/어 두다 (保持狀態) 的過去定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "자신 없어 소리 내지 못한 그 한마디",
+      "translation": "沒有自信 未能發出聲音的那一句話",
+      "analysis": [
+        { "point": "자신 없어", "explanation": "자신 (自信) + 없다 (沒有) 的非格式體。" },
+        { "point": "소리 내지 못한", "explanation": "소리 내다 (發出聲音) + -지 못하다 (未能) 的過去定語形。" },
+        { "point": "그 한마디", "explanation": "그 (那) + 한마디 (一句話)。" }
+      ]
+    },
+    {
+      "korean": "그댈 좋아해요",
+      "translation": "我喜歡你",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "좋아해요", "explanation": "좋아하다 (喜歡) 的敬語非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "지금 널 보며 오랜만이야",
+      "translation": "現在看著你 好久不見",
+      "analysis": [
+        { "point": "지금", "explanation": "副詞，現在。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "보며", "explanation": "보다 (看) + -며 (同時)。" },
+        { "point": "오랜만이야", "explanation": "오랜만 (時隔許久) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "알아줘 나의 진심을 꼭",
+      "translation": "請一定要明白我的真心",
+      "analysis": [
+        { "point": "알아줘", "explanation": "알다 (知道、理解) + -아/어 주다 (為我) 的請求形。" },
+        { "point": "나의 진심을", "explanation": "나의 (我的) + 진심 (真心) + -을 (受格助詞)。" },
+        { "point": "꼭", "explanation": "副詞，一定。" }
+      ]
+    },
+    {
+      "korean": "널 이렇게나 그리워한 내 마음을",
+      "translation": "如此思念你的我的心",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "이렇게나", "explanation": "副詞，如此地。" },
+        { "point": "그리워한", "explanation": "그리워하다 (思念) 的過去定語形。" },
+        { "point": "내 마음을", "explanation": "내 (我的) + 마음 (心) + -을 (受格助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "내 오른쪽에 너와의 시간을 담아",
+      "translation": "在我的右側 裝載與你的時光",
+      "analysis": [
+        { "point": "내 오른쪽에", "explanation": "내 (我的) + 오른쪽 (右側) + -에 (場所助詞)。" },
+        { "point": "너와의", "explanation": "너 (你) + -와의 (和...的)。" },
+        { "point": "시간을", "explanation": "시간 (時間) + -을 (受格助詞)。" },
+        { "point": "담아", "explanation": "담다 (裝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 왼쪽에 너와의 기억이 남아",
+      "translation": "在我的左側 與你的記憶留存",
+      "analysis": [
+        { "point": "내 왼쪽에", "explanation": "내 (我的) + 왼쪽 (左側) + -에 (場所助詞)。" },
+        { "point": "너와의", "explanation": "너 (你) + -와의 (和...的)。" },
+        { "point": "기억이", "explanation": "기억 (記憶) + -이 (主格助詞)。" },
+        { "point": "남아", "explanation": "남다 (留下) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "또 이렇게 또 이렇게 멀리서만 이렇게",
+      "translation": "又這樣 又這樣 只在遠處 這樣",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "이렇게", "explanation": "副詞，這樣。" },
+        { "point": "멀리서만", "explanation": "멀리 (遠處) + -서 (從) + -만 (只)。" }
+      ]
+    },
+    {
+      "korean": "그저 널 바라보기만 할게",
+      "translation": "就只是這樣望著你",
+      "analysis": [
+        { "point": "그저", "explanation": "副詞，只是、僅僅。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "바라보기만 할게", "explanation": "바라보다 (望著) + -기만 하다 (只做) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "숨겨놓고 아껴둔 말",
+      "translation": "藏起來珍惜著的話",
+      "analysis": [
+        { "point": "숨겨놓고", "explanation": "숨기다 (隱藏) + -아/어 놓다 (完成並保持) + -고 (連接詞尾)。" },
+        { "point": "아껴둔", "explanation": "아끼다 (珍惜) + -아/어 두다 (保持狀態) 的過去定語形。" },
+        { "point": "말", "explanation": "名詞，話。" }
+      ]
+    },
+    {
+      "korean": "자신 없어 소리 내지 못한 그 한마디",
+      "translation": "沒有自信 未能發出聲音的那一句話",
+      "analysis": [
+        { "point": "자신 없어", "explanation": "자신 (自信) + 없다 (沒有) 的非格式體。" },
+        { "point": "소리 내지 못한", "explanation": "소리 내다 (發出聲音) + -지 못하다 (未能) 的過去定語形。" },
+        { "point": "그 한마디", "explanation": "그 (那) + 한마디 (一句話)。" }
+      ]
+    },
+    {
+      "korean": "그댈 좋아해요",
+      "translation": "我喜歡你",
+      "analysis": [
+        { "point": "그댈", "explanation": "그대를 (你) 的縮略。" },
+        { "point": "좋아해요", "explanation": "좋아하다 (喜歡) 的敬語非格式體。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "뭔가요", "chinese": "是什麼呢", "pos": "片語" },
+    { "korean": "같다", "chinese": "相同", "pos": "形容詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "바라보다", "chinese": "望著", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "참", "chinese": "真的", "pos": "副詞" },
+    { "korean": "많다", "chinese": "多的", "pos": "形容詞" },
+    { "korean": "앞", "chinese": "前面", "pos": "名詞" },
+    { "korean": "서다", "chinese": "站", "pos": "動詞" },
+    { "korean": "바보", "chinese": "傻瓜", "pos": "名詞" },
+    { "korean": "그냥", "chinese": "就、只是", "pos": "副詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流逝", "pos": "動詞" },
+    { "korean": "영원히", "chinese": "永遠地", "pos": "副詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "오른쪽", "chinese": "右側", "pos": "名詞" },
+    { "korean": "담다", "chinese": "裝", "pos": "動詞" },
+    { "korean": "왼쪽", "chinese": "左側", "pos": "名詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "남다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "또", "chinese": "又", "pos": "副詞" },
+    { "korean": "이렇게", "chinese": "這樣", "pos": "副詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "그저", "chinese": "只是", "pos": "副詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "아끼다", "chinese": "珍惜", "pos": "動詞" },
+    { "korean": "자신", "chinese": "自信", "pos": "名詞" },
+    { "korean": "없다", "chinese": "沒有", "pos": "形容詞" },
+    { "korean": "소리 내다", "chinese": "發出聲音", "pos": "片語" },
+    { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "뭘까요", "chinese": "是什麼呢", "pos": "片語" },
+    { "korean": "아직도", "chinese": "還", "pos": "副詞" },
+    { "korean": "모르다", "chinese": "不知道", "pos": "動詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "생각", "chinese": "想法", "pos": "名詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "그리다", "chinese": "描繪", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "지금", "chinese": "現在", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "오랜만", "chinese": "時隔許久", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道、理解", "pos": "動詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "꼭", "chinese": "一定", "pos": "副詞" },
+    { "korean": "그리워하다", "chinese": "思念", "pos": "動詞" }
+  ]
+}
