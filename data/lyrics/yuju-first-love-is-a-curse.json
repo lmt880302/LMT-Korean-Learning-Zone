@@ -1,0 +1,344 @@
+{
+  "id": "yuju-first-love-is-a-curse",
+  "title": "First Love Is a Curse (첫사랑은 저주다)",
+  "artist": "YUJU (유주)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "천사 같은 얼굴을 하고",
+      "translation": "有著天使般的臉龐",
+      "analysis": [
+        { "point": "천사 같은", "explanation": "천사 (天使) + 같다 (像) 的定語形，意為「天使般的」。" },
+        { "point": "얼굴을", "explanation": "얼굴 (臉) + -을 (受格助詞)。" },
+        { "point": "하고", "explanation": "하다 (有) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "악마 같은 기억들을 남기지",
+      "translation": "留下惡魔般的記憶",
+      "analysis": [
+        { "point": "악마 같은", "explanation": "악마 (惡魔) + 같다 (像) 的定語形。" },
+        { "point": "기억들을", "explanation": "기억 (記憶) + -들을 (受格助詞複數)。" },
+        { "point": "남기지", "explanation": "남기다 (留下) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "사랑이란 이름을 하고",
+      "translation": "以愛情的名義",
+      "analysis": [
+        { "point": "사랑이란", "explanation": "사랑 (愛情) + -이란 (所謂的)。" },
+        { "point": "이름을", "explanation": "이름 (名字) + -을 (受格助詞)。" },
+        { "point": "하고", "explanation": "하다 (以...來) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "너의 머리 한가운데 박혀버리지",
+      "translation": "釘在你的頭腦正中央",
+      "analysis": [
+        { "point": "너의 머리 한가운데", "explanation": "너의 (你的) + 머리 (頭) + 한가운데 (正中央)。" },
+        { "point": "박혀버리지", "explanation": "박히다 (被釘) + -아/어 버리다 (完了) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "잊어갈 때쯤 또 꾸는 꿈",
+      "translation": "快要忘記的時候又做的夢",
+      "analysis": [
+        { "point": "잊어갈 때쯤", "explanation": "잊다 (忘記) + -아/어 가다 (漸進) + -ㄹ 때쯤 (大約...的時候)。" },
+        { "point": "또 꾸는 꿈", "explanation": "또 (又) + 꾸다 (做夢) 的現在定語形 + 꿈 (夢)。" }
+      ]
+    },
+    {
+      "korean": "고갤 돌리면 보이는 몸",
+      "translation": "轉頭就看見的身影",
+      "analysis": [
+        { "point": "고갤 돌리면", "explanation": "고개 (頭) + -를 (受格助詞) 的縮略 + 돌리다 (轉動) + -(으)면 (如果)。" },
+        { "point": "보이는 몸", "explanation": "보이다 (被看見) 的現在定語形 + 몸 (身體、身影)。" }
+      ]
+    },
+    {
+      "korean": "너와 나로 가득한 이 세상은 아마",
+      "translation": "這充滿了你和我的世界 也許",
+      "analysis": [
+        { "point": "너와 나로", "explanation": "너 (你) + -와 (和) + 나 (我) + -(으)로 (用/以)。" },
+        { "point": "가득한", "explanation": "가득하다 (充滿) 的定語形。" },
+        { "point": "이 세상은", "explanation": "이 (這) + 세상 (世界) + -은 (主題助詞)。" },
+        { "point": "아마", "explanation": "副詞，大概、也許。" }
+      ]
+    },
+    {
+      "korean": "영원할거야",
+      "translation": "會是永遠的",
+      "analysis": [
+        { "point": "영원할거야", "explanation": "영원하다 (永遠的) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "뼈아픈 사랑을 하고 시간이 지나도",
+      "translation": "經歷了刻骨銘心的愛情 即使時間流逝",
+      "analysis": [
+        { "point": "뼈아픈", "explanation": "뼈아프다 (刻骨銘心的、痛徹心扉的) 的定語形。" },
+        { "point": "사랑을 하고", "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做) + -고 (連接詞尾)。" },
+        { "point": "시간이 지나도", "explanation": "시간 (時間) + -이 (主格助詞) + 지나다 (過去) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "넌 매일매일 괴로워하게 될 거야",
+      "translation": "你會每天都變得痛苦",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "매일매일", "explanation": "副詞，每天。" },
+        { "point": "괴로워하게 될 거야", "explanation": "괴롭다 (痛苦的) + -아/어 하다 (感到) + -게 되다 (變得) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "찬 공기 속에서 너는 나를 불러 어둠 속에서",
+      "translation": "在冰冷的空氣中 你呼喚我 在黑暗中",
+      "analysis": [
+        { "point": "찬 공기 속에서", "explanation": "차갑다 (冰冷的) 的縮略形 찬 + 공기 (空氣) + 속 (裡面) + -에서 (在)。" },
+        { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
+        { "point": "나를", "explanation": "我 + -를 (受格助詞)。" },
+        { "point": "불러", "explanation": "부르다 (呼喚) 的非格式體。" },
+        { "point": "어둠 속에서", "explanation": "어둠 (黑暗) + 속 (裡面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "잊을 수조차 없는 예쁜 기억에 점점",
+      "translation": "在連忘記都無法做到的漂亮記憶中 漸漸地",
+      "analysis": [
+        { "point": "잊을 수조차 없는", "explanation": "잊다 (忘記) + -(으)ㄹ 수 (方法) + -조차 (連) + 없다 (沒有) 的定語形。" },
+        { "point": "예쁜 기억에", "explanation": "예쁘다 (漂亮的) 的定語形 + 기억 (記憶) + -에 (場所助詞)。" },
+        { "point": "점점", "explanation": "副詞，漸漸地。" }
+      ]
+    },
+    {
+      "korean": "매일매일 머리가 아파올거야",
+      "translation": "每天每天 頭都會痛起來",
+      "analysis": [
+        { "point": "매일매일", "explanation": "副詞，每天。" },
+        { "point": "머리가", "explanation": "머리 (頭) + -가 (主格助詞)。" },
+        { "point": "아파올거야", "explanation": "아프다 (痛) + -아/어 오다 (來) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "다른 누굴 품어도",
+      "translation": "即使擁抱了別人",
+      "analysis": [
+        { "point": "다른", "explanation": "다르다 (不同的) 的定語形。" },
+        { "point": "누굴", "explanation": "누구를 (誰) 的縮略。" },
+        { "point": "품어도", "explanation": "품다 (懷抱) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "품에 안은 걔의 눈에 내 눈이 겹쳐 보인 채로",
+      "translation": "在懷中擁抱的那個人的眼裡 我的眼睛重疊著被看見的狀態下",
+      "analysis": [
+        { "point": "품에 안은", "explanation": "품 (懷抱) + -에 (場所) + 안다 (擁抱) 的過去定語形。" },
+        { "point": "걔의 눈에", "explanation": "걔 (那個人) + -의 (的) + 눈 (眼睛) + -에 (場所助詞)。" },
+        { "point": "내 눈이", "explanation": "내 (我的) + 눈 (眼睛) + -이 (主格助詞)。" },
+        { "point": "겹쳐 보인 채로", "explanation": "겹치다 (重疊) + -아/어 보이다 (被看見) + -ㄴ 채로 (保持狀態)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "너는 왜 음악이 되었어",
+      "translation": "你為什麼成為了音樂",
+      "analysis": [
+        { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
+        { "point": "왜", "explanation": "副詞，為什麼。" },
+        { "point": "음악이 되었어", "explanation": "음악 (音樂) + -이 (主格助詞) + 되다 (成為) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "내 옆에서 사랑이 되었어야지",
+      "translation": "應該在我身邊成為愛情的啊",
+      "analysis": [
+        { "point": "내 옆에서", "explanation": "내 (我的) + 옆 (身邊) + -에서 (在)。" },
+        { "point": "사랑이 되었어야지", "explanation": "사랑 (愛情) + -이 (主格助詞) + 되다 (成為) 的過去應當形 + -지 (語尾)。" }
+      ]
+    },
+    {
+      "korean": "왜 내가 널 미워하게 했어",
+      "translation": "為什麼讓我恨你",
+      "analysis": [
+        { "point": "왜", "explanation": "為什麼。" },
+        { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "미워하게 했어", "explanation": "미워하다 (討厭) + -게 하다 (使...) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 아프게 할 방법을 나는 아는데",
+      "translation": "我知道讓你痛苦的方法",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "아프게 할", "explanation": "아프다 (痛) + -게 하다 (使...) 的未來定語形。" },
+        { "point": "방법을", "explanation": "방법 (方法) + -을 (受格助詞)。" },
+        { "point": "나는 아는데", "explanation": "나는 (我) + 알다 (知道) + -는데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "모든 걸 다 가져놓고도",
+      "translation": "即使擁有了所有一切",
+      "analysis": [
+        { "point": "모든 걸", "explanation": "모든 것 (所有事物) + -을 (受格助詞) 的縮略。" },
+        { "point": "다", "explanation": "副詞，全部。" },
+        { "point": "가져놓고도", "explanation": "가져다놓다 (擁有、拿到) + -고도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "불안함을 못 이기던 너",
+      "translation": "無法克服不安的你",
+      "analysis": [
+        { "point": "불안함을", "explanation": "불안함 (不安) + -을 (受格助詞)。" },
+        { "point": "못 이기던", "explanation": "못 (不) + 이기다 (克服) 的過去回想着定語形。" },
+        { "point": "너", "explanation": "你。" }
+      ]
+    },
+    {
+      "korean": "내 모든 걸 주고, 네가 그 손을 뻗으면",
+      "translation": "我付出我的一切，如果你伸出那雙手",
+      "analysis": [
+        { "point": "내 모든 걸", "explanation": "내 (我的) + 모든 것 (所有事物) + -을 (受格助詞) 的縮略。" },
+        { "point": "주고", "explanation": "주다 (給) + -고 (連接詞尾)。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "그 손을", "explanation": "그 (那) + 손 (手) + -을 (受格助詞)。" },
+        { "point": "뻗으면", "explanation": "뻗다 (伸) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "사라질거야",
+      "translation": "會消失的",
+      "analysis": [
+        { "point": "사라질거야", "explanation": "사라지다 (消失) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "뼈아픈 사랑을 하고 시간이 지나도",
+      "translation": "經歷了刻骨銘心的愛情 即使時間流逝",
+      "analysis": [
+        { "point": "뼈아픈", "explanation": "뼈아프다 (刻骨銘心的) 的定語形。" },
+        { "point": "사랑을 하고", "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做) + -고 (連接詞尾)。" },
+        { "point": "시간이 지나도", "explanation": "시간 (時間) + -이 (主格助詞) + 지나다 (過去) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "넌 매일매일 괴로워하게 될 거야",
+      "translation": "你會每天都變得痛苦",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "매일매일", "explanation": "每天。" },
+        { "point": "괴로워하게 될 거야", "explanation": "괴롭다 (痛苦的) + -아/어 하다 (感到) + -게 되다 (變得) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "찬 공기 속에서 너는 나를 불러 어둠 속에서",
+      "translation": "在冰冷的空氣中 你呼喚我 在黑暗中",
+      "analysis": [
+        { "point": "찬 공기 속에서", "explanation": "차갑다 (冰冷的) 的縮略形 찬 + 공기 (空氣) + 속 (裡面) + -에서 (在)。" },
+        { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
+        { "point": "나를", "explanation": "我 + -를 (受格助詞)。" },
+        { "point": "불러", "explanation": "부르다 (呼喚) 的非格式體。" },
+        { "point": "어둠 속에서", "explanation": "어둠 (黑暗) + 속 (裡面) + -에서 (在)。" }
+      ]
+    },
+    {
+      "korean": "잊을 수조차 없는 예쁜 기억에 점점",
+      "translation": "在連忘記都無法做到的漂亮記憶中 漸漸地",
+      "analysis": [
+        { "point": "잊을 수조차 없는", "explanation": "잊다 (忘記) + -(으)ㄹ 수 (方法) + -조차 (連) + 없다 (沒有) 的定語形。" },
+        { "point": "예쁜 기억에", "explanation": "예쁘다 (漂亮的) 的定語形 + 기억 (記憶) + -에 (場所助詞)。" },
+        { "point": "점점", "explanation": "漸漸地。" }
+      ]
+    },
+    {
+      "korean": "매일매일 머리가 아파올거야",
+      "translation": "每天每天 頭都會痛起來",
+      "analysis": [
+        { "point": "매일매일", "explanation": "每天。" },
+        { "point": "머리가", "explanation": "머리 (頭) + -가 (主格助詞)。" },
+        { "point": "아파올거야", "explanation": "아프다 (痛) + -아/어 오다 (來) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "다른 누굴 품어도",
+      "translation": "即使擁抱了別人",
+      "analysis": [
+        { "point": "다른", "explanation": "다르다 (不同的) 的定語形。" },
+        { "point": "누굴", "explanation": "누구를 (誰) 的縮略。" },
+        { "point": "품어도", "explanation": "품다 (懷抱) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "품에 안은 걔의 눈에 내 눈이 겹쳐 보인 채로",
+      "translation": "在懷中擁抱的那個人的眼裡 我的眼睛重疊著被看見的狀態下",
+      "analysis": [
+        { "point": "품에 안은", "explanation": "품 (懷抱) + -에 (場所) + 안다 (擁抱) 的過去定語形。" },
+        { "point": "걔의 눈에", "explanation": "걔 (那個人) + -의 (的) + 눈 (眼睛) + -에 (場所助詞)。" },
+        { "point": "내 눈이", "explanation": "내 (我的) + 눈 (眼睛) + -이 (主格助詞)。" },
+        { "point": "겹쳐 보인 채로", "explanation": "겹치다 (重疊) + -아/어 보이다 (被看見) + -ㄴ 채로 (保持狀態)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "천사", "chinese": "天使", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "얼굴", "chinese": "臉", "pos": "名詞" },
+    { "korean": "악마", "chinese": "惡魔", "pos": "名詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "남기다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "이름", "chinese": "名字", "pos": "名詞" },
+    { "korean": "머리", "chinese": "頭", "pos": "名詞" },
+    { "korean": "한가운데", "chinese": "正中央", "pos": "名詞" },
+    { "korean": "박히다", "chinese": "被釘", "pos": "動詞" },
+    { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "고개", "chinese": "頭", "pos": "名詞" },
+    { "korean": "돌리다", "chinese": "轉動", "pos": "動詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "몸", "chinese": "身體、身影", "pos": "名詞" },
+    { "korean": "가득하다", "chinese": "充滿", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "아마", "chinese": "大概、也許", "pos": "副詞" },
+    { "korean": "영원하다", "chinese": "永遠的", "pos": "形容詞" },
+    { "korean": "뼈아프다", "chinese": "刻骨銘心的", "pos": "形容詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "매일매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "괴롭다", "chinese": "痛苦的", "pos": "形容詞" },
+    { "korean": "차갑다", "chinese": "冰冷的", "pos": "形容詞" },
+    { "korean": "공기", "chinese": "空氣", "pos": "名詞" },
+    { "korean": "부르다", "chinese": "呼喚", "pos": "動詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "수조차", "chinese": "連...也", "pos": "助詞" },
+    { "korean": "예쁘다", "chinese": "漂亮的", "pos": "形容詞" },
+    { "korean": "점점", "chinese": "漸漸地", "pos": "副詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "누구", "chinese": "誰", "pos": "代名詞" },
+    { "korean": "품다", "chinese": "懷抱", "pos": "動詞" },
+    { "korean": "품", "chinese": "懷抱", "pos": "名詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "걔", "chinese": "那個人", "pos": "代名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "겹치다", "chinese": "重疊", "pos": "動詞" },
+    { "korean": "음악", "chinese": "音樂", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "옆", "chinese": "身邊", "pos": "名詞" },
+    { "korean": "미워하다", "chinese": "討厭、恨", "pos": "動詞" },
+    { "korean": "방법", "chinese": "方法", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "가져다놓다", "chinese": "擁有", "pos": "動詞" },
+    { "korean": "불안함", "chinese": "不安", "pos": "名詞" },
+    { "korean": "이기다", "chinese": "克服", "pos": "動詞" },
+    { "korean": "주다", "chinese": "給", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "뻗다", "chinese": "伸", "pos": "動詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" }
+  ]
+}
