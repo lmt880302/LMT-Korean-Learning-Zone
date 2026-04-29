@@ -6,16 +6,15 @@
     {
       "sectionTitle": "Verse 1",
       "korean": "천사 같은 얼굴을 하고",
-      "translation": "有著天使般的臉龐",
+      "translation": "戴著天使般的臉",
       "analysis": [
         { "point": "천사 같은", "explanation": "천사 (天使) + 같다 (像) 的定語形，意為「天使般的」。" },
-        { "point": "얼굴을", "explanation": "얼굴 (臉) + -을 (受格助詞)。" },
-        { "point": "하고", "explanation": "하다 (有) + -고 (連接詞尾)。" }
+        { "point": "얼굴을 하고", "explanation": "얼굴 (臉) + -을 (受格助詞) + 하다 (有/戴) + -고 (連接詞尾)。" }
       ]
     },
     {
       "korean": "악마 같은 기억들을 남기지",
-      "translation": "留下惡魔般的記憶",
+      "translation": "卻留下惡魔般的記憶",
       "analysis": [
         { "point": "악마 같은", "explanation": "악마 (惡魔) + 같다 (像) 的定語形。" },
         { "point": "기억들을", "explanation": "기억 (記憶) + -들을 (受格助詞複數)。" },
@@ -24,25 +23,24 @@
     },
     {
       "korean": "사랑이란 이름을 하고",
-      "translation": "以愛情的名義",
+      "translation": "以愛情之名",
       "analysis": [
         { "point": "사랑이란", "explanation": "사랑 (愛情) + -이란 (所謂的)。" },
-        { "point": "이름을", "explanation": "이름 (名字) + -을 (受格助詞)。" },
-        { "point": "하고", "explanation": "하다 (以...來) + -고 (連接詞尾)。" }
+        { "point": "이름을 하고", "explanation": "이름 (名字) + -을 (受格助詞) + 하다 (以...來) + -고 (連接詞尾)。" }
       ]
     },
     {
       "korean": "너의 머리 한가운데 박혀버리지",
-      "translation": "釘在你的頭腦正中央",
+      "translation": "深深刻進你的腦海中央",
       "analysis": [
         { "point": "너의 머리 한가운데", "explanation": "너의 (你的) + 머리 (頭) + 한가운데 (正中央)。" },
-        { "point": "박혀버리지", "explanation": "박히다 (被釘) + -아/어 버리다 (完了) 的非格式體。" }
+        { "point": "박혀버리지", "explanation": "박히다 (被釘、被刻) + -아/어 버리다 (完了) 的非格式體。" }
       ]
     },
     {
       "sectionTitle": "Pre-Chorus",
       "korean": "잊어갈 때쯤 또 꾸는 꿈",
-      "translation": "快要忘記的時候又做的夢",
+      "translation": "在快要遺忘的時候又做起夢",
       "analysis": [
         { "point": "잊어갈 때쯤", "explanation": "잊다 (忘記) + -아/어 가다 (漸進) + -ㄹ 때쯤 (大約...的時候)。" },
         { "point": "또 꾸는 꿈", "explanation": "또 (又) + 꾸다 (做夢) 的現在定語形 + 꿈 (夢)。" }
@@ -50,7 +48,7 @@
     },
     {
       "korean": "고갤 돌리면 보이는 몸",
-      "translation": "轉頭就看見的身影",
+      "translation": "轉過頭就能看見的身影",
       "analysis": [
         { "point": "고갤 돌리면", "explanation": "고개 (頭) + -를 (受格助詞) 的縮略 + 돌리다 (轉動) + -(으)면 (如果)。" },
         { "point": "보이는 몸", "explanation": "보이다 (被看見) 的現在定語形 + 몸 (身體、身影)。" }
@@ -58,7 +56,7 @@
     },
     {
       "korean": "너와 나로 가득한 이 세상은 아마",
-      "translation": "這充滿了你和我的世界 也許",
+      "translation": "你和我充滿的這個世界大概",
       "analysis": [
         { "point": "너와 나로", "explanation": "너 (你) + -와 (和) + 나 (我) + -(으)로 (用/以)。" },
         { "point": "가득한", "explanation": "가득하다 (充滿) 的定語形。" },
@@ -68,7 +66,7 @@
     },
     {
       "korean": "영원할거야",
-      "translation": "會是永遠的",
+      "translation": "會永遠存在吧",
       "analysis": [
         { "point": "영원할거야", "explanation": "영원하다 (永遠的) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
       ]
@@ -76,16 +74,16 @@
     {
       "sectionTitle": "Chorus",
       "korean": "뼈아픈 사랑을 하고 시간이 지나도",
-      "translation": "經歷了刻骨銘心的愛情 即使時間流逝",
+      "translation": "承受著刻骨的愛，即使時間流逝",
       "analysis": [
-        { "point": "뼈아픈", "explanation": "뼈아프다 (刻骨銘心的、痛徹心扉的) 的定語形。" },
-        { "point": "사랑을 하고", "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做) + -고 (連接詞尾)。" },
+        { "point": "뼈아픈", "explanation": "뼈아프다 (刻骨銘心的) 的定語形。" },
+        { "point": "사랑을 하고", "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做/承受) + -고 (連接詞尾)。" },
         { "point": "시간이 지나도", "explanation": "시간 (時間) + -이 (主格助詞) + 지나다 (過去) + -아/어도 (即使)。" }
       ]
     },
     {
       "korean": "넌 매일매일 괴로워하게 될 거야",
-      "translation": "你會每天都變得痛苦",
+      "translation": "你也會每天每天都感到痛苦",
       "analysis": [
         { "point": "넌", "explanation": "너는 (你) 的縮略。" },
         { "point": "매일매일", "explanation": "副詞，每天。" },
@@ -94,7 +92,7 @@
     },
     {
       "korean": "찬 공기 속에서 너는 나를 불러 어둠 속에서",
-      "translation": "在冰冷的空氣中 你呼喚我 在黑暗中",
+      "translation": "在冰冷的空氣裡你呼喚著我，在黑暗之中",
       "analysis": [
         { "point": "찬 공기 속에서", "explanation": "차갑다 (冰冷的) 的縮略形 찬 + 공기 (空氣) + 속 (裡面) + -에서 (在)。" },
         { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
@@ -105,16 +103,16 @@
     },
     {
       "korean": "잊을 수조차 없는 예쁜 기억에 점점",
-      "translation": "在連忘記都無法做到的漂亮記憶中 漸漸地",
+      "translation": "那連想忘都忘不掉的美麗記憶逐漸",
       "analysis": [
         { "point": "잊을 수조차 없는", "explanation": "잊다 (忘記) + -(으)ㄹ 수 (方法) + -조차 (連) + 없다 (沒有) 的定語形。" },
-        { "point": "예쁜 기억에", "explanation": "예쁘다 (漂亮的) 的定語形 + 기억 (記憶) + -에 (場所助詞)。" },
+        { "point": "예쁜 기억에", "explanation": "예쁘다 (漂亮的) 的定語形 + 기억 (記憶) + -에 (場所/原因)。" },
         { "point": "점점", "explanation": "副詞，漸漸地。" }
       ]
     },
     {
       "korean": "매일매일 머리가 아파올거야",
-      "translation": "每天每天 頭都會痛起來",
+      "translation": "讓你每天都頭痛欲裂",
       "analysis": [
         { "point": "매일매일", "explanation": "副詞，每天。" },
         { "point": "머리가", "explanation": "머리 (頭) + -가 (主格助詞)。" },
@@ -132,10 +130,10 @@
     },
     {
       "korean": "품에 안은 걔의 눈에 내 눈이 겹쳐 보인 채로",
-      "translation": "在懷中擁抱的那個人的眼裡 我的眼睛重疊著被看見的狀態下",
+      "translation": "你懷裡那個人的眼中，仍會重疊著我的眼神",
       "analysis": [
         { "point": "품에 안은", "explanation": "품 (懷抱) + -에 (場所) + 안다 (擁抱) 的過去定語形。" },
-        { "point": "걔의 눈에", "explanation": "걔 (那個人) + -의 (的) + 눈 (眼睛) + -에 (場所助詞)。" },
+        { "point": "걔의 눈에", "explanation": "걔 (那個人) + -의 (的) + 눈 (眼睛) + -에 (場所)。" },
         { "point": "내 눈이", "explanation": "내 (我的) + 눈 (眼睛) + -이 (主格助詞)。" },
         { "point": "겹쳐 보인 채로", "explanation": "겹치다 (重疊) + -아/어 보이다 (被看見) + -ㄴ 채로 (保持狀態)。" }
       ]
@@ -143,7 +141,7 @@
     {
       "sectionTitle": "Verse 2",
       "korean": "너는 왜 음악이 되었어",
-      "translation": "你為什麼成為了音樂",
+      "translation": "你為什麼變成了音樂",
       "analysis": [
         { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
         { "point": "왜", "explanation": "副詞，為什麼。" },
@@ -152,7 +150,7 @@
     },
     {
       "korean": "내 옆에서 사랑이 되었어야지",
-      "translation": "應該在我身邊成為愛情的啊",
+      "translation": "你本來應該在我身邊成為愛的",
       "analysis": [
         { "point": "내 옆에서", "explanation": "내 (我的) + 옆 (身邊) + -에서 (在)。" },
         { "point": "사랑이 되었어야지", "explanation": "사랑 (愛情) + -이 (主格助詞) + 되다 (成為) 的過去應當形 + -지 (語尾)。" }
@@ -160,17 +158,17 @@
     },
     {
       "korean": "왜 내가 널 미워하게 했어",
-      "translation": "為什麼讓我恨你",
+      "translation": "為什麼讓我開始恨你",
       "analysis": [
         { "point": "왜", "explanation": "為什麼。" },
         { "point": "내가", "explanation": "我 + -가 (主格助詞)。" },
         { "point": "널", "explanation": "너를 (你) 的縮略。" },
-        { "point": "미워하게 했어", "explanation": "미워하다 (討厭) + -게 하다 (使...) 的過去非格式體。" }
+        { "point": "미워하게 했어", "explanation": "미워하다 (討厭、恨) + -게 하다 (使...) 的過去非格式體。" }
       ]
     },
     {
       "korean": "널 아프게 할 방법을 나는 아는데",
-      "translation": "我知道讓你痛苦的方法",
+      "translation": "我明明知道讓你痛苦的方法",
       "analysis": [
         { "point": "널", "explanation": "너를 (你) 的縮略。" },
         { "point": "아프게 할", "explanation": "아프다 (痛) + -게 하다 (使...) 的未來定語形。" },
@@ -181,16 +179,16 @@
     {
       "sectionTitle": "Bridge",
       "korean": "모든 걸 다 가져놓고도",
-      "translation": "即使擁有了所有一切",
+      "translation": "明明擁有了一切",
       "analysis": [
         { "point": "모든 걸", "explanation": "모든 것 (所有事物) + -을 (受格助詞) 的縮略。" },
         { "point": "다", "explanation": "副詞，全部。" },
-        { "point": "가져놓고도", "explanation": "가져다놓다 (擁有、拿到) + -고도 (即使...也)。" }
+        { "point": "가져놓고도", "explanation": "가져다놓다 (擁有) + -고도 (即使...也)。" }
       ]
     },
     {
       "korean": "불안함을 못 이기던 너",
-      "translation": "無法克服不安的你",
+      "translation": "卻還是無法戰勝不安的你",
       "analysis": [
         { "point": "불안함을", "explanation": "불안함 (不安) + -을 (受格助詞)。" },
         { "point": "못 이기던", "explanation": "못 (不) + 이기다 (克服) 的過去回想着定語形。" },
@@ -199,7 +197,7 @@
     },
     {
       "korean": "내 모든 걸 주고, 네가 그 손을 뻗으면",
-      "translation": "我付出我的一切，如果你伸出那雙手",
+      "translation": "如果我把一切都給你，而你伸出那隻手",
       "analysis": [
         { "point": "내 모든 걸", "explanation": "내 (我的) + 모든 것 (所有事物) + -을 (受格助詞) 的縮略。" },
         { "point": "주고", "explanation": "주다 (給) + -고 (連接詞尾)。" },
@@ -210,7 +208,7 @@
     },
     {
       "korean": "사라질거야",
-      "translation": "會消失的",
+      "translation": "一切就會消失",
       "analysis": [
         { "point": "사라질거야", "explanation": "사라지다 (消失) + -(으)ㄹ 것 (將要) + -이야 (是)。" }
       ]
@@ -218,16 +216,16 @@
     {
       "sectionTitle": "Chorus",
       "korean": "뼈아픈 사랑을 하고 시간이 지나도",
-      "translation": "經歷了刻骨銘心的愛情 即使時間流逝",
+      "translation": "承受著刻骨的愛，即使時間流逝",
       "analysis": [
         { "point": "뼈아픈", "explanation": "뼈아프다 (刻骨銘心的) 的定語形。" },
-        { "point": "사랑을 하고", "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做) + -고 (連接詞尾)。" },
+        { "point": "사랑을 하고", "explanation": "사랑 (愛情) + -을 (受格助詞) + 하다 (做/承受) + -고 (連接詞尾)。" },
         { "point": "시간이 지나도", "explanation": "시간 (時間) + -이 (主格助詞) + 지나다 (過去) + -아/어도 (即使)。" }
       ]
     },
     {
       "korean": "넌 매일매일 괴로워하게 될 거야",
-      "translation": "你會每天都變得痛苦",
+      "translation": "你也會每天每天都感到痛苦",
       "analysis": [
         { "point": "넌", "explanation": "너는 (你) 的縮略。" },
         { "point": "매일매일", "explanation": "每天。" },
@@ -236,7 +234,7 @@
     },
     {
       "korean": "찬 공기 속에서 너는 나를 불러 어둠 속에서",
-      "translation": "在冰冷的空氣中 你呼喚我 在黑暗中",
+      "translation": "在冰冷的空氣裡你呼喚著我，在黑暗之中",
       "analysis": [
         { "point": "찬 공기 속에서", "explanation": "차갑다 (冰冷的) 的縮略形 찬 + 공기 (空氣) + 속 (裡面) + -에서 (在)。" },
         { "point": "너는", "explanation": "你 + -는 (主題助詞)。" },
@@ -247,16 +245,16 @@
     },
     {
       "korean": "잊을 수조차 없는 예쁜 기억에 점점",
-      "translation": "在連忘記都無法做到的漂亮記憶中 漸漸地",
+      "translation": "那連想忘都忘不掉的美麗記憶逐漸",
       "analysis": [
         { "point": "잊을 수조차 없는", "explanation": "잊다 (忘記) + -(으)ㄹ 수 (方法) + -조차 (連) + 없다 (沒有) 的定語形。" },
-        { "point": "예쁜 기억에", "explanation": "예쁘다 (漂亮的) 的定語形 + 기억 (記憶) + -에 (場所助詞)。" },
+        { "point": "예쁜 기억에", "explanation": "예쁘다 (漂亮的) 的定語形 + 기억 (記憶) + -에 (場所/原因)。" },
         { "point": "점점", "explanation": "漸漸地。" }
       ]
     },
     {
       "korean": "매일매일 머리가 아파올거야",
-      "translation": "每天每天 頭都會痛起來",
+      "translation": "讓你每天都頭痛欲裂",
       "analysis": [
         { "point": "매일매일", "explanation": "每天。" },
         { "point": "머리가", "explanation": "머리 (頭) + -가 (主格助詞)。" },
@@ -274,10 +272,10 @@
     },
     {
       "korean": "품에 안은 걔의 눈에 내 눈이 겹쳐 보인 채로",
-      "translation": "在懷中擁抱的那個人的眼裡 我的眼睛重疊著被看見的狀態下",
+      "translation": "你懷裡那個人的眼中，仍會重疊著我的眼神",
       "analysis": [
         { "point": "품에 안은", "explanation": "품 (懷抱) + -에 (場所) + 안다 (擁抱) 的過去定語形。" },
-        { "point": "걔의 눈에", "explanation": "걔 (那個人) + -의 (的) + 눈 (眼睛) + -에 (場所助詞)。" },
+        { "point": "걔의 눈에", "explanation": "걔 (那個人) + -의 (的) + 눈 (眼睛) + -에 (場所)。" },
         { "point": "내 눈이", "explanation": "내 (我的) + 눈 (眼睛) + -이 (主格助詞)。" },
         { "point": "겹쳐 보인 채로", "explanation": "겹치다 (重疊) + -아/어 보이다 (被看見) + -ㄴ 채로 (保持狀態)。" }
       ]
@@ -294,7 +292,7 @@
     { "korean": "이름", "chinese": "名字", "pos": "名詞" },
     { "korean": "머리", "chinese": "頭", "pos": "名詞" },
     { "korean": "한가운데", "chinese": "正中央", "pos": "名詞" },
-    { "korean": "박히다", "chinese": "被釘", "pos": "動詞" },
+    { "korean": "박히다", "chinese": "被釘、被刻", "pos": "動詞" },
     { "korean": "잊다", "chinese": "忘記", "pos": "動詞" },
     { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
     { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
