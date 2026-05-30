@@ -1,0 +1,711 @@
+{
+  "id": "imoojin-episode",
+  "title": "Episode (에피소드)",
+  "artist": "이무진 (Lee Mujin)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "나는 말야",
+      "translation": "我這個人啊",
+      "analysis": [
+        { "point": "나는 말야", "explanation": "나 (我) + -는 (主題助詞) + 말이다 (口語強調，相當於「...呢」) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "버릇이 하나",
+      "translation": "有一個習慣",
+      "analysis": [
+        { "point": "버릇이", "explanation": "버릇 (習慣) + -이 (主格助詞)。" },
+        { "point": "하나", "explanation": "一個。" }
+      ]
+    },
+    {
+      "korean": "있어 그건 매일 잠에 들 시간마다",
+      "translation": "那就是每到睡覺時間",
+      "analysis": [
+        { "point": "있어", "explanation": "있다 (有) 的非格式體。" },
+        { "point": "그건", "explanation": "그것은 (那個) 的縮略。" },
+        { "point": "매일", "explanation": "副詞，每天。" },
+        { "point": "잠에 들 시간마다", "explanation": "잠에 들다 (入睡) + -는 (定語形) + 시간 (時間) + -마다 (每)。" }
+      ]
+    },
+    {
+      "korean": "잘 모아둔 기억 조각들 중",
+      "translation": "就會陷入回憶漩渦",
+      "analysis": [
+        { "point": "잘", "explanation": "副詞，好好地。" },
+        { "point": "모아둔", "explanation": "모으다 (收集) + -아/어 두다 (保持狀態) 的過去定語形。" },
+        { "point": "기억 조각들 중", "explanation": "기억 (記憶) + 조각 (碎片) + -들 (複數) + 중 (當中)。" }
+      ]
+    },
+    {
+      "korean": "잡히는 걸 집은 후",
+      "translation": "隨手掂取記憶碎片",
+      "analysis": [
+        { "point": "잡히는 걸", "explanation": "잡히다 (被抓住) 的現在定語形 + 것 (東西) + -을 (受格助詞) 的縮略。" },
+        { "point": "집은 후", "explanation": "집다 (拾取、選取) 的過去定語形 + 후 (之後)。" }
+      ]
+    },
+    {
+      "korean": "혼자 조용히 꼬꼬무",
+      "translation": "一個人靜靜地拼湊反芻",
+      "analysis": [
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "조용히", "explanation": "副詞，安靜地。" },
+        { "point": "꼬꼬무", "explanation": "是「꼬리에 꼬리를 무는 이야기」的縮略，意為「連鎖故事、像偵探推理一樣連接線索」，此處用作動詞化。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "이걸 난",
+      "translation": "左思右想",
+      "analysis": [
+        { "point": "이걸", "explanation": "이것을 (這個) 的縮略。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "궁상이란",
+      "translation": "我決定",
+      "analysis": [
+        { "point": "궁상이란", "explanation": "궁상 (窮酸、寒酸) + -이란 (所謂的)。" }
+      ]
+    },
+    {
+      "korean": "이름으로 지었어 고민 고민하다가",
+      "translation": "把這個困境稱之為泥沼",
+      "analysis": [
+        { "point": "이름으로", "explanation": "이름 (名字) + -(으)로 (作為)。" },
+        { "point": "지었어", "explanation": "짓다 (取名字) 的過去非格式體。" },
+        { "point": "고민 고민하다가", "explanation": "고민하다 (煩惱) 的重複，表示反覆煩惱 + -다가 (連接詞尾，表示動作轉換)。" }
+      ]
+    },
+    {
+      "korean": "아무튼 뭐 오늘은 하필이면",
+      "translation": "誰叫剛好今天",
+      "analysis": [
+        { "point": "아무튼 뭐", "explanation": "아무튼 (總之) + 뭐 (口語，語氣詞)。" },
+        { "point": "오늘은", "explanation": "오늘 (今天) + -은 (主題助詞)。" },
+        { "point": "하필이면", "explanation": "하필 (偏偏) + -이면 (如果是)。" }
+      ]
+    },
+    {
+      "korean": "너가 스쳐버려서",
+      "translation": "你就這麼浮現在我的腦海裡",
+      "analysis": [
+        { "point": "너가", "explanation": "네가 (你) 的口語變體。" },
+        { "point": "스쳐버려서", "explanation": "스치다 (掠過) + -아/어 버리다 (完了) + -아/어서 (因為)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "우리였을 때로",
+      "translation": "回到我們還在一起的時候",
+      "analysis": [
+        { "point": "우리였을 때로", "explanation": "우리 (我們) + -였- (過去) + -(으)ㄹ 때 (的時候) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "korean": "우리 정말 좋았던 그때로",
+      "translation": "我們無比幸福的那個時候",
+      "analysis": [
+        { "point": "우리", "explanation": "我們。" },
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "좋았던", "explanation": "좋다 (好) 的過去回想着定語形。" },
+        { "point": "그때로", "explanation": "그때 (那時) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "우리의 에피소드가",
+      "translation": "我們的故事",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們的。" },
+        { "point": "에피소드가", "explanation": "에피소드 (插曲、故事) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "찬란하게 막을 연다",
+      "translation": "揭開了華麗的序幕",
+      "analysis": [
+        { "point": "찬란하게", "explanation": "찬란하다 (燦爛的) 的副詞形。" },
+        { "point": "막을 연다", "explanation": "막 (幕) + -을 (受格助詞) + 열다 (打開) 的現在式。" }
+      ]
+    },
+    {
+      "korean": "배경은 너의 집 앞",
+      "translation": "背景是你家門前",
+      "analysis": [
+        { "point": "배경은", "explanation": "배경 (背景) + -은 (主題助詞)。" },
+        { "point": "너의 집 앞", "explanation": "너의 (你的) + 집 (家) + 앞 (前面)。" }
+      ]
+    },
+    {
+      "korean": "첫 데이트가 끝난",
+      "translation": "第一次約會的那天",
+      "analysis": [
+        { "point": "첫 데이트가", "explanation": "첫 (第一次) + 데이트 (約會) + -가 (主格助詞)。" },
+        { "point": "끝난", "explanation": "끝나다 (結束) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "둘만의 에피소드가",
+      "translation": "屬於我們兩人的故事",
+      "analysis": [
+        { "point": "둘만의", "explanation": "둘 (兩人) + -만 (只) + -의 (的)。" },
+        { "point": "에피소드가", "explanation": "故事 + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "참 예쁜 얘기로 시작",
+      "translation": "故事的開頭如此美好",
+      "analysis": [
+        { "point": "참", "explanation": "副詞，真、非常。" },
+        { "point": "예쁜", "explanation": "예쁘다 (漂亮的) 的定語形。" },
+        { "point": "얘기로", "explanation": "이야기 (故事) 的縮略 + -(으)로 (以)。" },
+        { "point": "시작", "explanation": "시작하다 (開始) 的名詞形，此處作謂語。" }
+      ]
+    },
+    {
+      "korean": "자작자작 조심스런 대화",
+      "translation": "拘謹的喁喁細語",
+      "analysis": [
+        { "point": "자작자작", "explanation": "擬態詞，小聲說話的樣子。" },
+        { "point": "조심스런", "explanation": "조심스럽다 (小心翼翼的) 的定語形，此處作形容詞。" },
+        { "point": "대화", "explanation": "名詞，對話。" }
+      ]
+    },
+    {
+      "korean": "그새 늦은 시간",
+      "translation": "不知不覺夜漸深了",
+      "analysis": [
+        { "point": "그새", "explanation": "副詞，轉眼間、不知不覺。" },
+        { "point": "늦은 시간", "explanation": "늦다 (晚的) 的定語形 + 시간 (時間)。" }
+      ]
+    },
+    {
+      "korean": "굿바이",
+      "translation": "再見",
+      "analysis": [
+        { "point": "굿바이", "explanation": "英文 goodbye，再見。" }
+      ]
+    },
+    {
+      "korean": "좋은 뜻일 뿐인 굿바이",
+      "translation": "下次還要再見",
+      "analysis": [
+        { "point": "좋은 뜻일 뿐인", "explanation": "좋은 (好的) + 뜻 (意思) + -일 뿐 (只是) + -인 (的)。" },
+        { "point": "굿바이", "explanation": "再見。" }
+      ]
+    },
+    {
+      "korean": "With a happy smile",
+      "translation": "With a happy smile",
+      "analysis": [
+        { "point": "With a happy smile", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "이게 이 스토리의 서막",
+      "translation": "故事的第一幕",
+      "analysis": [
+        { "point": "이게", "explanation": "이것이 (這個) 的縮略。" },
+        { "point": "이 스토리의", "explanation": "이 (這) + 스토리 (故事) + -의 (的)。" },
+        { "point": "서막", "explanation": "名詞，序幕。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "눈 내리던 그 밤",
+      "translation": "白雪飛舞的那晚",
+      "analysis": [
+        { "point": "눈 내리던", "explanation": "눈 (雪) + 내리다 (下) 的過去回想着定語形。" },
+        { "point": "그 밤", "explanation": "그 (那) + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "korean": "겨울 향이 배어서",
+      "translation": "瀰漫冬天的清香氣息",
+      "analysis": [
+        { "point": "겨울 향이", "explanation": "겨울 (冬天) + 향 (氣息) + -이 (主格助詞)。" },
+        { "point": "배어서", "explanation": "배다 (浸染) + -아/어서 (然後/因為)。" }
+      ]
+    },
+    {
+      "korean": "더 눈부신",
+      "translation": "顯得格外繽紛絢爛",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "눈부신", "explanation": "눈부시다 (耀眼的) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "우리의 에피소드다",
+      "translation": "我們的故事",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們的。" },
+        { "point": "에피소드다", "explanation": "에피소드 (故事) + -이다 (是)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 4",
+      "korean": "매일이 마지막인 듯이",
+      "translation": "每天都珍貴地像是最後一天",
+      "analysis": [
+        { "point": "매일이", "explanation": "매일 (每天) + -이 (主格助詞)。" },
+        { "point": "마지막인 듯이", "explanation": "마지막 (最後) + -인 (是) + -듯이 (好像...一樣)。" }
+      ]
+    },
+    {
+      "korean": "함께라면 어디든지",
+      "translation": "只要可以在一起 去哪裡都不重要",
+      "analysis": [
+        { "point": "함께라면", "explanation": "함께 (一起) + -라면 (如果是)。" },
+        { "point": "어디든지", "explanation": "副詞，無論哪裡。" }
+      ]
+    },
+    {
+      "korean": "사랑이란 걸 끝도 없이",
+      "translation": "還記得嗎",
+      "analysis": [
+        { "point": "사랑이란 걸", "explanation": "사랑 (愛情) + -이란 (所謂的) + 것 (事情) + -을 (受格助詞) 的縮略。" },
+        { "point": "끝도 없이", "explanation": "끝 (結束) + -도 (也) + 없이 (沒有)，意為「無止盡地」。" }
+      ]
+    },
+    {
+      "korean": "주고받고 나눴어 그치?",
+      "translation": "我們曾經毫不保留地相愛",
+      "analysis": [
+        { "point": "주고받고", "explanation": "주다 (給) + -고 (連接) + 받다 (收) + -고 (連接)。" },
+        { "point": "나눴어", "explanation": "나누다 (分享) 的過去非格式體。" },
+        { "point": "그치", "explanation": "그렇지 (對吧) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "서로만 있음 마음이",
+      "translation": "只要擁有彼此",
+      "analysis": [
+        { "point": "서로만", "explanation": "서로 (彼此) + -만 (只)。" },
+        { "point": "있음", "explanation": "있다 (有/在) 的名詞形。" },
+        { "point": "마음이", "explanation": "마음 (心) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "시릴 날이 없던 우리",
+      "translation": "彷彿就會永遠幸福下去",
+      "analysis": [
+        { "point": "시릴", "explanation": "시리다 (心酸、刺痛) 的未來定語形。" },
+        { "point": "날이", "explanation": "날 (日子) + -이 (主格助詞)。" },
+        { "point": "없던", "explanation": "없다 (沒有) 的過去回想着定語形。" },
+        { "point": "우리", "explanation": "我們。" }
+      ]
+    },
+    {
+      "korean": "넌 오아시스 내겐 마치",
+      "translation": "你之於我就像綠洲",
+      "analysis": [
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "오아시스", "explanation": "英文 oasis，綠洲。" },
+        { "point": "내겐", "explanation": "나에게는 (對我來說) 的縮略。" },
+        { "point": "마치", "explanation": "副詞，就像是。" }
+      ]
+    },
+    {
+      "korean": "근데 있잖아",
+      "translation": "但奇怪的是",
+      "analysis": [
+        { "point": "근데", "explanation": "그런데 (但是) 的縮略。" },
+        { "point": "있잖아", "explanation": "있지 않아 (有...吧) 的口語形，用於提起話題。" }
+      ]
+    },
+    {
+      "korean": "별 소용없다?",
+      "translation": "我竟然開心不起來",
+      "analysis": [
+        { "point": "별", "explanation": "名詞，星星；此處與 소용없다 連用，表「毫無用處」。" },
+        { "point": "소용없다", "explanation": "소용 (用處) + 없다 (沒有)，意為「沒用」。" }
+      ]
+    },
+    {
+      "korean": "생각만 해도 행복한 순간들은 말야",
+      "translation": "那些美好的時光倏忽即逝",
+      "analysis": [
+        { "point": "생각만 해도", "explanation": "생각 (想法) + -만 (只) + 하다 (做) + -아/어도 (即使)。" },
+        { "point": "행복한", "explanation": "행복하다 (幸福的) 的定語形。" },
+        { "point": "순간들은", "explanation": "순간 (瞬間) + -들은 (主題助詞複數)。" },
+        { "point": "말야", "explanation": "말이다 (就是說啊) 的口語形。" }
+      ]
+    },
+    {
+      "korean": "모른 척해도 결국엔 이건",
+      "translation": "即使努力不去憶起結局",
+      "analysis": [
+        { "point": "모른 척해도", "explanation": "모르다 (不知道) + -ㄴ 척하다 (假裝) + -아/어도 (即使)。" },
+        { "point": "결국엔", "explanation": "결국 (最終) + -엔 (強調)。" },
+        { "point": "이건", "explanation": "이것은 (這個) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "끝을 봤던 에피소드",
+      "translation": "這終究是一篇早已看過的故事",
+      "analysis": [
+        { "point": "끝을 봤던", "explanation": "끝 (結束) + -을 (受格助詞) + 보다 (看到) 的過去回想着定語形。" },
+        { "point": "에피소드", "explanation": "故事。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "점점 점점 점점",
+      "translation": "故事 繼續 上演",
+      "analysis": [
+        { "point": "점점", "explanation": "副詞，漸漸。" }
+      ]
+    },
+    {
+      "korean": "우리의 에피소드가",
+      "translation": "我們的故事",
+      "analysis": [
+        { "point": "우리의 에피소드가", "explanation": "我們的故事 + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "결말에 가까워져가",
+      "translation": "逐漸走向尾聲",
+      "analysis": [
+        { "point": "결말에", "explanation": "결말 (結局) + -에 (場所)。" },
+        { "point": "가까워져가", "explanation": "가까워지다 (變近) + -아/어 가다 (漸進)。" }
+      ]
+    },
+    {
+      "korean": "곧 새드 엔딩이다",
+      "translation": "即將迎來悲傷的結尾",
+      "analysis": [
+        { "point": "곧", "explanation": "副詞，馬上。" },
+        { "point": "새드 엔딩이다", "explanation": "새드 엔딩 (悲劇結局) + -이다 (是)。" }
+      ]
+    },
+    {
+      "korean": "크레딧엔 너와 나",
+      "translation": "感謝名單寫有我和你",
+      "analysis": [
+        { "point": "크레딧엔", "explanation": "크레딧 (製作名單) + -에 (場所) + -는 (強調) 的縮略。" },
+        { "point": "너와 나", "explanation": "你和我。" }
+      ]
+    },
+    {
+      "korean": "둘만의 에피소드가",
+      "translation": "屬於我們兩人的故事",
+      "analysis": [
+        { "point": "둘만의", "explanation": "兩人 + 只 + 的。" },
+        { "point": "에피소드가", "explanation": "故事 + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "참 쓸쓸한 끝을 맞아",
+      "translation": "劃下淒涼的句點",
+      "analysis": [
+        { "point": "참", "explanation": "真、非常。" },
+        { "point": "쓸쓸한", "explanation": "쓸쓸하다 (淒涼的) 的定語形。" },
+        { "point": "끝을 맞아", "explanation": "끝 (結局) + -을 (受格助詞) + 맞다 (迎接) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 주인공의 서글픈 마지막",
+      "translation": "兩位主角傷感的結局",
+      "analysis": [
+        { "point": "두 주인공의", "explanation": "두 (兩) + 주인공 (主角) + -의 (的)。" },
+        { "point": "서글픈 마지막", "explanation": "서글프다 (悲傷的) 的定語形 + 마지막 (最後)。" }
+      ]
+    },
+    {
+      "korean": "결국 건넨 인사",
+      "translation": "最終說出口的道別",
+      "analysis": [
+        { "point": "결국", "explanation": "最終。" },
+        { "point": "건넨", "explanation": "건네다 (傳遞) 的過去定語形。" },
+        { "point": "인사", "explanation": "名詞，問候、告別。" }
+      ]
+    },
+    {
+      "korean": "굿바이",
+      "translation": "再見",
+      "analysis": [
+        { "point": "굿바이", "explanation": "再見。" }
+      ]
+    },
+    {
+      "korean": "너무 아픈 이별의 굿바이",
+      "translation": "極其悲傷的再也不見",
+      "analysis": [
+        { "point": "너무", "explanation": "太。" },
+        { "point": "아픈", "explanation": "아프다 (痛的) 的定語形。" },
+        { "point": "이별의 굿바이", "explanation": "이별 (離別) + -의 (的) + 굿바이 (再見)。" }
+      ]
+    },
+    {
+      "korean": "눈물이 뺨을 스쳐",
+      "translation": "淚水滑落臉龐",
+      "analysis": [
+        { "point": "눈물이", "explanation": "눈물 (眼淚) + -이 (主格助詞)。" },
+        { "point": "뺨을", "explanation": "뺨 (臉頰) + -을 (受格助詞)。" },
+        { "point": "스쳐", "explanation": "스치다 (掠過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "도착한 입가엔 미소",
+      "translation": "努力擠出笑容",
+      "analysis": [
+        { "point": "도착한", "explanation": "도착하다 (到達) 的過去定語形。" },
+        { "point": "입가엔", "explanation": "입가 (嘴角) + -에 (場所) + -는 (強調) 的縮略。" },
+        { "point": "미소", "explanation": "微笑。" }
+      ]
+    },
+    {
+      "korean": "애써 웃고 있어",
+      "translation": "故作堅強",
+      "analysis": [
+        { "point": "애써", "explanation": "副詞，勉強地。" },
+        { "point": "웃고 있어", "explanation": "웃다 (笑) + -고 있다 (正在)。" }
+      ]
+    },
+    {
+      "korean": "우린 서로를 보며",
+      "translation": "我們看著彼此",
+      "analysis": [
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "서로를 보며", "explanation": "서로 (彼此) + -를 (受格助詞) + 보다 (看) + -며 (同時)。" }
+      ]
+    },
+    {
+      "korean": "첨 같던 미소로 안녕",
+      "translation": "面帶初識時的那抹微笑道別",
+      "analysis": [
+        { "point": "첨 같던", "explanation": "처음 (初次) 的縮略 + 같다 (像) 的過去回想着定語形。" },
+        { "point": "미소로", "explanation": "미소 (微笑) + -(으)로 (用)。" },
+        { "point": "안녕", "explanation": "你好/再見，此處為「再見」。" }
+      ]
+    },
+    {
+      "korean": "웃으며 안녕",
+      "translation": "笑著互道再見",
+      "analysis": [
+        { "point": "웃으며", "explanation": "웃다 (笑) + -으며 (同時)。" },
+        { "point": "안녕", "explanation": "再見。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "눈 뜨면 에필로그다",
+      "translation": "一眨眼便是落幕",
+      "analysis": [
+        { "point": "눈 뜨면", "explanation": "눈 (眼睛) + 뜨다 (睜開) + -(으)면 (如果)。" },
+        { "point": "에필로그다", "explanation": "에필로그 (後記) + -다 (是)。" }
+      ]
+    },
+    {
+      "korean": "침대에 기대어 혼자",
+      "translation": "孤獨地依偎著床",
+      "analysis": [
+        { "point": "침대에", "explanation": "침대 (床) + -에 (場所)。" },
+        { "point": "기대어", "explanation": "기대다 (靠) + -아/어 (連接)。" },
+        { "point": "혼자", "explanation": "獨自。" }
+      ]
+    },
+    {
+      "korean": "펑펑 울고 있는 나",
+      "translation": "一個人放聲痛哭",
+      "analysis": [
+        { "point": "펑펑", "explanation": "擬聲/擬態詞，大哭的樣子。" },
+        { "point": "울고 있는", "explanation": "울다 (哭) + -고 있다 (正在) 的定語形。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "이 궁상 밖의 난",
+      "translation": "重新被拉回現實",
+      "analysis": [
+        { "point": "이 궁상 밖의", "explanation": "이 (這) + 궁상 (窮酸相) + 밖 (外面) + -의 (的)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "둘만의 에피소드완",
+      "translation": "故事悲劇收場",
+      "analysis": [
+        { "point": "둘만의", "explanation": "兩人只的。" },
+        { "point": "에피소드완", "explanation": "에피소드 (故事) + -와는 (和...相比) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "전혀 다른 모습 난 그날",
+      "translation": "事到如今後悔莫及",
+      "analysis": [
+        { "point": "전혀", "explanation": "副詞，完全。" },
+        { "point": "다른", "explanation": "다르다 (不同的) 的定語形。" },
+        { "point": "모습", "explanation": "名詞，模樣。" },
+        { "point": "난", "explanation": "我。" },
+        { "point": "그날", "explanation": "那天。" }
+      ]
+    },
+    {
+      "korean": "돌아서지 말았어야 했다",
+      "translation": "那天不該就此轉身離去",
+      "analysis": [
+        { "point": "돌아서지 말았어야 했다", "explanation": "돌아서다 (轉身) + -지 말다 (不要) + -았어야 하다 (本應該) 的過去形。" }
+      ]
+    },
+    {
+      "korean": "널 안았어야 했다",
+      "translation": "應該要緊緊抱住你",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "안았어야 했다", "explanation": "안다 (擁抱) + -았어야 하다 (本應該) 的過去形。" }
+      ]
+    },
+    {
+      "korean": "그 밤",
+      "translation": "那晚",
+      "analysis": [
+        { "point": "그 밤", "explanation": "那晚。" }
+      ]
+    },
+    {
+      "korean": "눈꽃이 널 덮은 그 밤의",
+      "translation": "雪花灑落在你的身上",
+      "analysis": [
+        { "point": "눈꽃이", "explanation": "눈꽃 (雪花) + -이 (主格助詞)。" },
+        { "point": "널 덮은", "explanation": "너를 (你) 的縮略 + 덮다 (覆蓋) 的過去定語形。" },
+        { "point": "그 밤의", "explanation": "그 (那) + 밤 (夜晚) + -의 (的)。" }
+      ]
+    },
+    {
+      "korean": "향을 잊음과",
+      "translation": "忘卻那晚的美好",
+      "analysis": [
+        { "point": "향을", "explanation": "향 (香氣) + -을 (受格助詞)。" },
+        { "point": "잊음과", "explanation": "잊다 (忘記) 的名詞形 + -과 (和)。" }
+      ]
+    },
+    {
+      "korean": "함께 잃었던 따스함",
+      "translation": "隨之消逝的溫暖",
+      "analysis": [
+        { "point": "함께", "explanation": "一起。" },
+        { "point": "잃었던", "explanation": "잃다 (失去) 的過去回想着定語形。" },
+        { "point": "따스함", "explanation": "名詞，溫暖。" }
+      ]
+    },
+    {
+      "korean": "춥게 눈을 뜬다",
+      "translation": "在寂寒中睜開雙眼",
+      "analysis": [
+        { "point": "춥게", "explanation": "춥다 (冷的) 的副詞形。" },
+        { "point": "눈을 뜬다", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的現在式。" }
+      ]
+    },
+    {
+      "korean": "겨울밤이 되어서",
+      "translation": "又是一個寒冷的冬夜",
+      "analysis": [
+        { "point": "겨울밤이 되어서", "explanation": "겨울밤 (冬夜) + -이 되다 (成為) + -아/어서 (然後/因為)。" }
+      ]
+    },
+    {
+      "korean": "맞이한 향이",
+      "translation": "迎面而來的清香氣息",
+      "analysis": [
+        { "point": "맞이한", "explanation": "맞이하다 (迎接) 的過去定語形。" },
+        { "point": "향이", "explanation": "향 (香氣) + -이 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "우리의 에피소드다",
+      "translation": "訴說著我們的故事",
+      "analysis": [
+        { "point": "우리의 에피소드다", "explanation": "我們的故事 + -이다 (是)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "버릇", "chinese": "習慣", "pos": "名詞" },
+    { "korean": "잠에 들다", "chinese": "入睡", "pos": "片語" },
+    { "korean": "모으다", "chinese": "收集", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "조각", "chinese": "碎片", "pos": "名詞" },
+    { "korean": "잡히다", "chinese": "被抓住", "pos": "動詞" },
+    { "korean": "집다", "chinese": "拾取", "pos": "動詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "조용히", "chinese": "安靜地", "pos": "副詞" },
+    { "korean": "꼬꼬무", "chinese": "連鎖故事", "pos": "名詞" },
+    { "korean": "궁상", "chinese": "窮酸相", "pos": "名詞" },
+    { "korean": "고민하다", "chinese": "煩惱", "pos": "動詞" },
+    { "korean": "하필", "chinese": "偏偏", "pos": "副詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "에피소드", "chinese": "故事", "pos": "名詞" },
+    { "korean": "찬란하다", "chinese": "燦爛的", "pos": "形容詞" },
+    { "korean": "막", "chinese": "幕", "pos": "名詞" },
+    { "korean": "열다", "chinese": "打開", "pos": "動詞" },
+    { "korean": "배경", "chinese": "背景", "pos": "名詞" },
+    { "korean": "데이트", "chinese": "約會", "pos": "名詞" },
+    { "korean": "둘", "chinese": "兩人", "pos": "數詞" },
+    { "korean": "예쁘다", "chinese": "漂亮的", "pos": "形容詞" },
+    { "korean": "얘기", "chinese": "故事", "pos": "名詞" },
+    { "korean": "자작자작", "chinese": "小聲說話貌", "pos": "副詞" },
+    { "korean": "조심스럽다", "chinese": "小心翼翼的", "pos": "形容詞" },
+    { "korean": "대화", "chinese": "對話", "pos": "名詞" },
+    { "korean": "그새", "chinese": "轉眼間", "pos": "副詞" },
+    { "korean": "늦다", "chinese": "晚的", "pos": "形容詞" },
+    { "korean": "굿바이", "chinese": "再見", "pos": "感嘆詞" },
+    { "korean": "뜻", "chinese": "意思", "pos": "名詞" },
+    { "korean": "서막", "chinese": "序幕", "pos": "名詞" },
+    { "korean": "눈", "chinese": "雪", "pos": "名詞" },
+    { "korean": "내리다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "겨울", "chinese": "冬天", "pos": "名詞" },
+    { "korean": "향", "chinese": "香氣", "pos": "名詞" },
+    { "korean": "배다", "chinese": "浸染", "pos": "動詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "매일", "chinese": "每天", "pos": "副詞" },
+    { "korean": "마지막", "chinese": "最後", "pos": "名詞" },
+    { "korean": "함께", "chinese": "一起", "pos": "副詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "끝도 없이", "chinese": "無止盡地", "pos": "副詞" },
+    { "korean": "주고받다", "chinese": "給予和接受", "pos": "動詞" },
+    { "korean": "나누다", "chinese": "分享", "pos": "動詞" },
+    { "korean": "그치", "chinese": "對吧", "pos": "感嘆詞" },
+    { "korean": "서로", "chinese": "彼此", "pos": "名詞" },
+    { "korean": "시리다", "chinese": "心酸", "pos": "形容詞" },
+    { "korean": "오아시스", "chinese": "綠洲", "pos": "名詞" },
+    { "korean": "마치", "chinese": "就像是", "pos": "副詞" },
+    { "korean": "소용없다", "chinese": "沒用", "pos": "形容詞" },
+    { "korean": "행복하다", "chinese": "幸福的", "pos": "形容詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "모른 척하다", "chinese": "假裝不知道", "pos": "片語" },
+    { "korean": "결말", "chinese": "結局", "pos": "名詞" },
+    { "korean": "새드 엔딩", "chinese": "悲劇結局", "pos": "名詞" },
+    { "korean": "크레딧", "chinese": "製作名單", "pos": "名詞" },
+    { "korean": "쓸쓸하다", "chinese": "淒涼的", "pos": "形容詞" },
+    { "korean": "서글프다", "chinese": "悲傷的", "pos": "形容詞" },
+    { "korean": "이별", "chinese": "離別", "pos": "名詞" },
+    { "korean": "눈물", "chinese": "眼淚", "pos": "名詞" },
+    { "korean": "뺨", "chinese": "臉頰", "pos": "名詞" },
+    { "korean": "입가", "chinese": "嘴角", "pos": "名詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "애쓰다", "chinese": "勉強", "pos": "動詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "첨", "chinese": "初次", "pos": "副詞" },
+    { "korean": "안녕", "chinese": "再見", "pos": "感嘆詞" },
+    { "korean": "에필로그", "chinese": "後記", "pos": "名詞" },
+    { "korean": "침대", "chinese": "床", "pos": "名詞" },
+    { "korean": "기대다", "chinese": "靠", "pos": "動詞" },
+    { "korean": "펑펑", "chinese": "大哭貌", "pos": "副詞" },
+    { "korean": "울다", "chinese": "哭", "pos": "動詞" },
+    { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "안다", "chinese": "擁抱", "pos": "動詞" },
+    { "korean": "눈꽃", "chinese": "雪花", "pos": "名詞" },
+    { "korean": "덮다", "chinese": "覆蓋", "pos": "動詞" },
+    { "korean": "따스함", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "춥다", "chinese": "冷的", "pos": "形容詞" },
+    { "korean": "겨울밤", "chinese": "冬夜", "pos": "名詞" },
+    { "korean": "맞이하다", "chinese": "迎接", "pos": "動詞" }
+  ]
+}
