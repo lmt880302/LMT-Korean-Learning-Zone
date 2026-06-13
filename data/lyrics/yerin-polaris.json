@@ -1,0 +1,422 @@
+{
+  "id": "yerin-polaris",
+  "title": "Polaris",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "눈을 감은 채",
+      "translation": "閉上眼睛的狀態下",
+      "analysis": [
+        { "point": "눈을 감은 채", "explanation": "눈 (眼睛) + -을 (受格助詞) + 감다 (閉) 的過去定語形 + 채 (保持狀態)。" }
+      ]
+    },
+    {
+      "korean": "느낄 수 있는 걸",
+      "translation": "能夠感受到的",
+      "analysis": [
+        { "point": "느낄 수 있는", "explanation": "느끼다 (感受) + -(으)ㄹ 수 있다 (能夠) 的現在定語形。" },
+        { "point": "걸", "explanation": "것을 (東西) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "계절 사이에",
+      "translation": "在季節之間",
+      "analysis": [
+        { "point": "계절 사이에", "explanation": "계절 (季節) + 사이 (之間) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "아직 남아있어",
+      "translation": "還留著",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還、仍然。" },
+        { "point": "남아있어", "explanation": "남아 있다 (留著) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "흔들리던 여린 맘",
+      "translation": "曾經動搖的柔弱的心",
+      "analysis": [
+        { "point": "흔들리던", "explanation": "흔들리다 (被動搖) 的過去回想着定語形。" },
+        { "point": "여린 맘", "explanation": "여리다 (柔弱的) 的定語形 + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "헤매이던 수많은 밤들도",
+      "translation": "曾經徘徊的無數夜晚也",
+      "analysis": [
+        { "point": "헤매이던", "explanation": "헤매이다 (徘徊) 的過去回想着定語形。" },
+        { "point": "수많은", "explanation": "수많다 (無數的) 的定語形。" },
+        { "point": "밤들도", "explanation": "밤 (夜晚) + -들 (複數) + -도 (也)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "찬란했던 그 봄",
+      "translation": "曾經燦爛的那個春天",
+      "analysis": [
+        { "point": "찬란했던", "explanation": "찬란하다 (燦爛的) 的過去回想着定語形。" },
+        { "point": "그 봄", "explanation": "그 (那) + 봄 (春天)。" }
+      ]
+    },
+    {
+      "korean": "맘속에 새겨둘게",
+      "translation": "我會刻在心底",
+      "analysis": [
+        { "point": "맘속에", "explanation": "마음속 (心底) 的縮略 + -에 (場所助詞)。" },
+        { "point": "새겨둘게", "explanation": "새기다 (刻) + -아/어 두다 (保持狀態) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제는 갈게",
+      "translation": "現在要走了",
+      "analysis": [
+        { "point": "이제는", "explanation": "이제 (現在) + -는 (強調)。" },
+        { "point": "갈게", "explanation": "가다 (去、走) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "기억 너머로 스쳐간",
+      "translation": "越過記憶 掠過的",
+      "analysis": [
+        { "point": "기억 너머로", "explanation": "기억 (記憶) + 너머 (越過) + -(으)로 (向)。" },
+        { "point": "스쳐간", "explanation": "스치다 (掠過) + -아/어 가다 (漸進) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "우리의 모든 순간도",
+      "translation": "我們的所有的瞬間也",
+      "analysis": [
+        { "point": "우리의", "explanation": "我們的。" },
+        { "point": "모든 순간도", "explanation": "모든 (所有的) + 순간 (瞬間) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "쏟아지는 별들 사이",
+      "translation": "在傾瀉的星星之間",
+      "analysis": [
+        { "point": "쏟아지는", "explanation": "쏟아지다 (傾瀉) 的現在定語形。" },
+        { "point": "별들 사이", "explanation": "별 (星星) + -들 (複數) + 사이 (之間)。" }
+      ]
+    },
+    {
+      "korean": "날 찾아 달려가",
+      "translation": "尋找著我 奔跑",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "찾아", "explanation": "찾다 (尋找) 的非格式體。" },
+        { "point": "달려가", "explanation": "달려가다 (奔跑而去) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "숨이 차올라 흔들리는 맘",
+      "translation": "喘不過氣 動搖的心",
+      "analysis": [
+        { "point": "숨이", "explanation": "숨 (呼吸) + -이 (主格助詞)。" },
+        { "point": "차올라", "explanation": "차오르다 (充滿、湧上) 的非格式體。" },
+        { "point": "흔들리는", "explanation": "흔들리다 (動搖) 的現在定語形。" },
+        { "point": "맘", "explanation": "마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "어디쯤에 와있을까 저 멀리",
+      "translation": "大概到了哪裡呢 那遠處",
+      "analysis": [
+        { "point": "어디쯤에", "explanation": "어디 (哪裡) + -쯤 (大概) + -에 (場所助詞)。" },
+        { "point": "와있을까", "explanation": "오다 (來) + -아/어 있다 (持續狀態) + -(으)ㄹ까 (疑問)。" },
+        { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" }
+      ]
+    },
+    {
+      "korean": "가장 밝게 빛나는 곳으로",
+      "translation": "向著最明亮閃耀的地方",
+      "analysis": [
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "밝게", "explanation": "밝다 (明亮的) 的副詞形。" },
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的現在定語形。" },
+        { "point": "곳으로", "explanation": "곳 (地方) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "어둠 속에서도 (oh I)",
+      "translation": "即使在黑暗中 (oh I)",
+      "analysis": [
+        { "point": "어둠 속에서도", "explanation": "어둠 (黑暗) + 속 (裡面) + -에서 (在) + -도 (也)。" },
+        { "point": "oh I", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "겁은 나지 않아",
+      "translation": "不會感到害怕",
+      "analysis": [
+        { "point": "겁은", "explanation": "겁 (懼怕) + -은 (主題助詞)。" },
+        { "point": "나지 않아", "explanation": "나다 (產生) + -지 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "두 손 가득 품은 온기",
+      "translation": "雙手滿滿懷抱的溫暖",
+      "analysis": [
+        { "point": "두 손", "explanation": "두 (二) + 손 (手)。" },
+        { "point": "가득", "explanation": "副詞，滿滿地。" },
+        { "point": "품은", "explanation": "품다 (懷抱) 的過去定語形。" },
+        { "point": "온기", "explanation": "名詞，溫暖。" }
+      ]
+    },
+    {
+      "korean": "흩어지던 그 밤",
+      "translation": "曾經消散的那個夜晚",
+      "analysis": [
+        { "point": "흩어지던", "explanation": "흩어지다 (消散) 的過去回想着定語形。" },
+        { "point": "그 밤", "explanation": "那夜。" }
+      ]
+    },
+    {
+      "korean": "별빛에 맡겨둘게",
+      "translation": "會交託給星光",
+      "analysis": [
+        { "point": "별빛에", "explanation": "별빛 (星光) + -에 (場所/對象)。" },
+        { "point": "맡겨둘게", "explanation": "맡기다 (託付) + -아/어 두다 (保持狀態) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "이제는 갈게",
+      "translation": "現在要走了",
+      "analysis": [
+        { "point": "이제는 갈게", "explanation": "이제는 (現在) + 가다 (去) + -(으)ㄹ게 (意志)。" }
+      ]
+    },
+    {
+      "korean": "기억 너머로 스쳐간",
+      "translation": "越過記憶 掠過的",
+      "analysis": [
+        { "point": "기억 너머로", "explanation": "기억 (記憶) + 너머 (越過) + -(으)로 (向)。" },
+        { "point": "스쳐간", "explanation": "스치다 (掠過) + -아/어 가다 (漸進) 的過去定語形。" }
+      ]
+    },
+    {
+      "korean": "우리의 모든 순간도",
+      "translation": "我們的所有的瞬間也",
+      "analysis": [
+        { "point": "우리의 모든 순간도", "explanation": "我們的 + 所有的 + 瞬間 + 也。" }
+      ]
+    },
+    {
+      "korean": "쏟아지는 별들 사이",
+      "translation": "在傾瀉的星星之間",
+      "analysis": [
+        { "point": "쏟아지는 별들 사이", "explanation": "쏟아지다 (傾瀉) 的現在定語形 + 별 (星星) + -들 (複數) + 사이 (之間)。" }
+      ]
+    },
+    {
+      "korean": "날 찾아 달려가",
+      "translation": "尋找著我 奔跑",
+      "analysis": [
+        { "point": "날 찾아 달려가", "explanation": "나를 (我) 的縮略 + 찾다 (尋找) + 달려가다 (奔跑而去)。" }
+      ]
+    },
+    {
+      "korean": "숨이 차올라 흔들리는 맘",
+      "translation": "喘不過氣 動搖的心",
+      "analysis": [
+        { "point": "숨이 차올라", "explanation": "숨 (呼吸) + -이 (主格) + 차오르다 (湧上)。" },
+        { "point": "흔들리는 맘", "explanation": "흔들리다 (動搖) 的現在定語形 + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "어디쯤에 와있을까 저 멀리",
+      "translation": "大概到了哪裡呢 那遠處",
+      "analysis": [
+        { "point": "어디쯤에 와있을까", "explanation": "어디쯤 (大概哪裡) + -에 (場所) + 오다 (來) + -아/어 있다 (持續) + -(으)ㄹ까 (疑問)。" },
+        { "point": "저 멀리", "explanation": "那遠處。" }
+      ]
+    },
+    {
+      "korean": "가장 밝게 빛나는 곳으로",
+      "translation": "向著最明亮閃耀的地方",
+      "analysis": [
+        { "point": "가장 밝게 빛나는 곳으로", "explanation": "가장 (最) + 밝다 (明亮的) 的副詞形 + 빛나다 (閃耀) 的現在定語形 + 곳 (地方) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "날 부르는 그곳으로",
+      "translation": "向著呼喚我的那個地方",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "부르는", "explanation": "부르다 (呼喚) 的現在定語形。" },
+        { "point": "그곳으로", "explanation": "그곳 (那裡) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "korean": "그곳으로 나",
+      "translation": "向著那裡 我",
+      "analysis": [
+        { "point": "그곳으로", "explanation": "向著那裡。" },
+        { "point": "나", "explanation": "我。" }
+      ]
+    },
+    {
+      "korean": "뒤돌아보진 않아",
+      "translation": "不會回頭看",
+      "analysis": [
+        { "point": "뒤돌아보진 않아", "explanation": "뒤돌아보다 (回頭看) + -지 (強調) + -는 (主題) + 않다 (不) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "써 내려갈 나의 다음 장면에",
+      "translation": "在我將要寫下的下一個場面中",
+      "analysis": [
+        { "point": "써 내려갈", "explanation": "쓰다 (寫) + -아/어 내려가다 (往下寫) 的未來定語形。" },
+        { "point": "나의 다음 장면에", "explanation": "나의 (我的) + 다음 (下一個) + 장면 (場面) + -에 (場所)。" }
+      ]
+    },
+    {
+      "korean": "날 기다려줄래",
+      "translation": "會等我嗎",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "기다려줄래", "explanation": "기다리다 (等待) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "쏟아지는 별들 사이",
+      "translation": "在傾瀉的星星之間",
+      "analysis": [
+        { "point": "쏟아지는 별들 사이", "explanation": "쏟아지다 (傾瀉) 的現在定語形 + 별 (星星) + -들 (複數) + 사이 (之間)。" }
+      ]
+    },
+    {
+      "korean": "날 찾아 달려가",
+      "translation": "尋找著我 奔跑",
+      "analysis": [
+        { "point": "날 찾아 달려가", "explanation": "나를 (我) 的縮略 + 찾다 (尋找) + 달려가다 (奔跑而去)。" }
+      ]
+    },
+    {
+      "korean": "숨이 차올라 흔들리는 맘",
+      "translation": "喘不過氣 動搖的心",
+      "analysis": [
+        { "point": "숨이 차올라 흔들리는 맘", "explanation": "숨 (呼吸) + -이 (主格) + 차오르다 (湧上) + 흔들리다 (動搖) 的現在定語形 + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "(흔들리는 이 맘)",
+      "translation": "(動搖的這顆心)",
+      "analysis": [
+        { "point": "흔들리는", "explanation": "흔들리다 (動搖) 的現在定語形。" },
+        { "point": "이 맘", "explanation": "이 (這) + 마음 (心) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "어디쯤에 와있을까 저 멀리",
+      "translation": "大概到了哪裡呢 那遠處",
+      "analysis": [
+        { "point": "어디쯤에 와있을까 저 멀리", "explanation": "어디쯤 (大概哪裡) + -에 (場所) + 오다 (來) + -아/어 있다 (持續) + -(으)ㄹ까 (疑問) + 저 멀리 (那遠處)。" }
+      ]
+    },
+    {
+      "korean": "가장 밝게 빛나는 곳으로",
+      "translation": "向著最明亮閃耀的地方",
+      "analysis": [
+        { "point": "가장 밝게 빛나는 곳으로", "explanation": "가장 (最) + 밝다 (明亮的) 的副詞形 + 빛나다 (閃耀) 的現在定語形 + 곳 (地方) + -(으)로 (向)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "쏟아지는 별빛",
+      "translation": "傾瀉的星光",
+      "analysis": [
+        { "point": "쏟아지는 별빛", "explanation": "쏟아지다 (傾瀉) 的現在定語形 + 별빛 (星光)。" }
+      ]
+    },
+    {
+      "korean": "흩날리는 꽃잎",
+      "translation": "飄揚的花瓣",
+      "analysis": [
+        { "point": "흩날리는 꽃잎", "explanation": "흩날리다 (飄揚) 的現在定語形 + 꽃잎 (花瓣)。" }
+      ]
+    },
+    {
+      "korean": "눈부시게 흩어져",
+      "translation": "耀眼地飄散",
+      "analysis": [
+        { "point": "눈부시게", "explanation": "눈부시다 (耀眼的) 的副詞形。" },
+        { "point": "흩어져", "explanation": "흩어지다 (飄散) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다시 안녕",
+      "translation": "再次 再見",
+      "analysis": [
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "안녕", "explanation": "你好/再見。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "감다", "chinese": "閉", "pos": "動詞" },
+    { "korean": "느끼다", "chinese": "感受", "pos": "動詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "사이", "chinese": "之間", "pos": "名詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "남아 있다", "chinese": "留著", "pos": "片語" },
+    { "korean": "흔들리다", "chinese": "被動搖", "pos": "動詞" },
+    { "korean": "여리다", "chinese": "柔弱的", "pos": "形容詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "헤매이다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "수많다", "chinese": "無數的", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "찬란하다", "chinese": "燦爛的", "pos": "形容詞" },
+    { "korean": "봄", "chinese": "春天", "pos": "名詞" },
+    { "korean": "새기다", "chinese": "刻", "pos": "動詞" },
+    { "korean": "이제", "chinese": "現在", "pos": "副詞" },
+    { "korean": "가다", "chinese": "去、走", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "너머", "chinese": "越過", "pos": "名詞" },
+    { "korean": "스치다", "chinese": "掠過", "pos": "動詞" },
+    { "korean": "모든", "chinese": "所有的", "pos": "冠詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "달려가다", "chinese": "奔跑而去", "pos": "動詞" },
+    { "korean": "숨", "chinese": "呼吸", "pos": "名詞" },
+    { "korean": "차오르다", "chinese": "充滿、湧上", "pos": "動詞" },
+    { "korean": "어디쯤", "chinese": "大概哪裡", "pos": "副詞" },
+    { "korean": "오다", "chinese": "來", "pos": "動詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "가장", "chinese": "最", "pos": "副詞" },
+    { "korean": "밝다", "chinese": "明亮的", "pos": "形容詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "곳", "chinese": "地方", "pos": "名詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "겁", "chinese": "懼怕", "pos": "名詞" },
+    { "korean": "나다", "chinese": "產生", "pos": "動詞" },
+    { "korean": "손", "chinese": "手", "pos": "名詞" },
+    { "korean": "가득", "chinese": "滿滿地", "pos": "副詞" },
+    { "korean": "품다", "chinese": "懷抱", "pos": "動詞" },
+    { "korean": "온기", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "흩어지다", "chinese": "消散", "pos": "動詞" },
+    { "korean": "별빛", "chinese": "星光", "pos": "名詞" },
+    { "korean": "맡기다", "chinese": "託付", "pos": "動詞" },
+    { "korean": "부르다", "chinese": "呼喚", "pos": "動詞" },
+    { "korean": "그곳", "chinese": "那裡", "pos": "代名詞" },
+    { "korean": "뒤돌아보다", "chinese": "回頭看", "pos": "動詞" },
+    { "korean": "쓰다", "chinese": "寫", "pos": "動詞" },
+    { "korean": "다음", "chinese": "下一個", "pos": "名詞" },
+    { "korean": "장면", "chinese": "場面", "pos": "名詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "흩날리다", "chinese": "飄揚", "pos": "動詞" },
+    { "korean": "꽃잎", "chinese": "花瓣", "pos": "名詞" },
+    { "korean": "눈부시다", "chinese": "耀眼的", "pos": "形容詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "안녕", "chinese": "再見", "pos": "感嘆詞" }
+  ]
+}

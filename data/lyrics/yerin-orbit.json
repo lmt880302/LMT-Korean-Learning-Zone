@@ -1,0 +1,587 @@
+{
+  "id": "yerin-orbit",
+  "title": "Orbit",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "깊어지는 이 Midnight",
+      "translation": "漸深的這個午夜",
+      "analysis": [
+        { "point": "깊어지는", "explanation": "깊어지다 (變深) 的現在定語形。" },
+        { "point": "이 Midnight", "explanation": "이 (這) + Midnight (英文，午夜)。" }
+      ]
+    },
+    {
+      "korean": "또 조용히 퍼진 Glow",
+      "translation": "又寂靜地蔓延開的光芒",
+      "analysis": [
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "조용히", "explanation": "副詞，安靜地。" },
+        { "point": "퍼진", "explanation": "퍼지다 (蔓延) 的過去定語形。" },
+        { "point": "Glow", "explanation": "英文，光芒。" }
+      ]
+    },
+    {
+      "korean": "어둠 속에 눈을 떠",
+      "translation": "在黑暗中睜開眼睛",
+      "analysis": [
+        { "point": "어둠 속에", "explanation": "어둠 (黑暗) + 속 (裡面) + -에 (場所助詞)。" },
+        { "point": "눈을 떠", "explanation": "눈 (眼睛) + -을 (受格助詞) + 뜨다 (睜開) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "날 부르는 저 Sign",
+      "translation": "呼喚我的那個信號",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "부르는", "explanation": "부르다 (呼喚) 的現在定語形。" },
+        { "point": "저 Sign", "explanation": "저 (那) + Sign (英文，信號)。" }
+      ]
+    },
+    {
+      "korean": "낯설지만 익숙한",
+      "translation": "陌生卻又熟悉的",
+      "analysis": [
+        { "point": "낯설지만", "explanation": "낯설다 (陌生的) + -지만 (雖然)。" },
+        { "point": "익숙한", "explanation": "익숙하다 (熟悉的) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "이곳에 흔들리는 Satellite",
+      "translation": "在此處搖曳的衛星",
+      "analysis": [
+        { "point": "이곳에", "explanation": "이곳 (這裡) + -에 (場所助詞)。" },
+        { "point": "흔들리는", "explanation": "흔들리다 (搖晃) 的現在定語形。" },
+        { "point": "Satellite", "explanation": "英文，衛星。" }
+      ]
+    },
+    {
+      "korean": "밤을 지나",
+      "translation": "越過夜晚",
+      "analysis": [
+        { "point": "밤을", "explanation": "밤 (夜晚) + -을 (受格助詞)。" },
+        { "point": "지나", "explanation": "지나다 (經過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "경계 위를 떠도는 Light",
+      "translation": "在邊界上飄盪的光",
+      "analysis": [
+        { "point": "경계 위를", "explanation": "경계 (邊界) + 위 (上面) + -를 (受格)。" },
+        { "point": "떠도는", "explanation": "떠돌다 (飄盪) 的現在定語形。" },
+        { "point": "Light", "explanation": "英文，光。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "저기 어딘가",
+      "translation": "那裡的某處",
+      "analysis": [
+        { "point": "저기", "explanation": "那裡。" },
+        { "point": "어딘가", "explanation": "某處。" }
+      ]
+    },
+    {
+      "korean": "새로운 꿈을 넘어",
+      "translation": "越過新的夢想",
+      "analysis": [
+        { "point": "새로운", "explanation": "새롭다 (新的) 的定語形。" },
+        { "point": "꿈을", "explanation": "꿈 (夢) + -을 (受格)。" },
+        { "point": "넘어", "explanation": "넘다 (越過) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "별빛을 찾아",
+      "translation": "尋找星光",
+      "analysis": [
+        { "point": "별빛을", "explanation": "별빛 (星光) + -을 (受格)。" },
+        { "point": "찾아", "explanation": "찾다 (尋找) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이 순간 나를 믿어",
+      "translation": "這個瞬間 相信我自己",
+      "analysis": [
+        { "point": "이 순간", "explanation": "이 (這) + 순간 (瞬間)。" },
+        { "point": "나를", "explanation": "我 + -를 (受格)。" },
+        { "point": "믿어", "explanation": "믿다 (相信) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Right now",
+      "translation": "就在此刻",
+      "analysis": [
+        { "point": "Right now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "또 다른 새벽이 열려",
+      "translation": "另一個黎明開啟了",
+      "analysis": [
+        { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
+        { "point": "새벽이", "explanation": "새벽 (黎明) + -이 (主格)。" },
+        { "point": "열려", "explanation": "열리다 (被開啟) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저 빛을 따라",
+      "translation": "跟隨那道光",
+      "analysis": [
+        { "point": "저 빛을", "explanation": "저 (那) + 빛 (光) + -을 (受格)。" },
+        { "point": "따라", "explanation": "따르다 (跟隨) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "달려가 난",
+      "translation": "奔跑 我",
+      "analysis": [
+        { "point": "달려가", "explanation": "달려가다 (奔跑而去) 的非格式體。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "Can't stop me now",
+      "translation": "現在無法阻止我",
+      "analysis": [
+        { "point": "Can't stop me now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "운명 같은 이 밤",
+      "translation": "如命運般的這個夜晚",
+      "analysis": [
+        { "point": "운명 같은", "explanation": "운명 (命運) + 같다 (像) 的定語形。" },
+        { "point": "이 밤", "explanation": "이 (這) + 밤 (夜晚)。" }
+      ]
+    },
+    {
+      "korean": "빠져들어",
+      "translation": "陷入",
+      "analysis": [
+        { "point": "빠져들어", "explanation": "빠져들다 (陷入) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Can't slow it down",
+      "translation": "無法放慢",
+      "analysis": [
+        { "point": "Can't slow it down", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "중력 속을 Feeling",
+      "translation": "在重力之中感受",
+      "analysis": [
+        { "point": "중력 속을", "explanation": "중력 (重力) + 속 (裡面) + -을 (受格)。" },
+        { "point": "Feeling", "explanation": "英文，感受。" }
+      ]
+    },
+    {
+      "korean": "날 더 끌어당겨",
+      "translation": "更加吸引我",
+      "analysis": [
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "끌어당겨", "explanation": "끌어당기다 (吸引、拉近) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "저 끝의 너머",
+      "translation": "那盡頭的另一邊",
+      "analysis": [
+        { "point": "저 끝의", "explanation": "저 (那) + 끝 (盡頭) + -의 (的)。" },
+        { "point": "너머", "explanation": "名詞，另一邊。" }
+      ]
+    },
+    {
+      "korean": "빛이 번져",
+      "translation": "光芒蔓延",
+      "analysis": [
+        { "point": "빛이", "explanation": "빛 (光) + -이 (主格)。" },
+        { "point": "번져", "explanation": "번지다 (蔓延) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "Into my Orbit",
+      "translation": "進入我的軌道",
+      "analysis": [
+        { "point": "Into my Orbit", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "Step into the dark",
+      "translation": "踏入黑暗",
+      "analysis": [
+        { "point": "Step into the dark", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "깊이 스며들어",
+      "translation": "深深地滲入",
+      "analysis": [
+        { "point": "깊이", "explanation": "副詞，深深地。" },
+        { "point": "스며들어", "explanation": "스며들다 (滲入) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "계속 Walk into the sky",
+      "translation": "繼續走向天空",
+      "analysis": [
+        { "point": "계속", "explanation": "副詞，繼續。" },
+        { "point": "Walk into the sky", "explanation": "英文，走向天空。" }
+      ]
+    },
+    {
+      "korean": "나의 길을 걸어",
+      "translation": "走我的路",
+      "analysis": [
+        { "point": "나의", "explanation": "我的。" },
+        { "point": "길을", "explanation": "길 (路) + -을 (受格)。" },
+        { "point": "걸어", "explanation": "걷다 (走) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "저기 어딘가",
+      "translation": "那裡的某處",
+      "analysis": [
+        { "point": "저기 어딘가", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "새로운 꿈을 넘어",
+      "translation": "越過新的夢想",
+      "analysis": [
+        { "point": "새로운 꿈을 넘어", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "별빛을 찾아",
+      "translation": "尋找星光",
+      "analysis": [
+        { "point": "별빛을 찾아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "이 순간 나를 믿어",
+      "translation": "這個瞬間 相信我自己",
+      "analysis": [
+        { "point": "이 순간 나를 믿어", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Right now",
+      "translation": "就在此刻",
+      "analysis": [
+        { "point": "Right now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "또 다른 새벽이 열려",
+      "translation": "另一個黎明開啟了",
+      "analysis": [
+        { "point": "또 다른 새벽이 열려", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저 빛을 따라",
+      "translation": "跟隨那道光",
+      "analysis": [
+        { "point": "저 빛을 따라", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "달려가 난",
+      "translation": "奔跑 我",
+      "analysis": [
+        { "point": "달려가 난", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Can't stop me now",
+      "translation": "現在無法阻止我",
+      "analysis": [
+        { "point": "Can't stop me now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "운명 같은 이 밤",
+      "translation": "如命運般的這個夜晚",
+      "analysis": [
+        { "point": "운명 같은 이 밤", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "빠져들어",
+      "translation": "陷入",
+      "analysis": [
+        { "point": "빠져들어", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Can't slow it down",
+      "translation": "無法放慢",
+      "analysis": [
+        { "point": "Can't slow it down", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "중력 속을 Feeling",
+      "translation": "在重力之中感受",
+      "analysis": [
+        { "point": "중력 속을 Feeling", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "날 더 끌어당겨",
+      "translation": "更加吸引我",
+      "analysis": [
+        { "point": "날 더 끌어당겨", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "저 끝의 너머",
+      "translation": "那盡頭的另一邊",
+      "analysis": [
+        { "point": "저 끝의 너머", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "빛이 번져",
+      "translation": "光芒蔓延",
+      "analysis": [
+        { "point": "빛이 번져", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Into my Orbit",
+      "translation": "進入我的軌道",
+      "analysis": [
+        { "point": "Into my Orbit", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "멈춘 듯한",
+      "translation": "彷彿靜止的",
+      "analysis": [
+        { "point": "멈춘 듯한", "explanation": "멈추다 (停止) 的過去定語形 + -듯한 (好像...的)。" }
+      ]
+    },
+    {
+      "korean": "시계가 Oh 움직여",
+      "translation": "時鐘 喔 動了起來",
+      "analysis": [
+        { "point": "시계가", "explanation": "시계 (時鐘) + -가 (主格)。" },
+        { "point": "Oh", "explanation": "英文，喔。" },
+        { "point": "움직여", "explanation": "움직이다 (移動) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "잠들어있던",
+      "translation": "曾經沉睡的",
+      "analysis": [
+        { "point": "잠들어있던", "explanation": "잠들어 있다 (沉睡) 的過去回想着定語形。" }
+      ]
+    },
+    {
+      "korean": "장면들이 터져",
+      "translation": "場景們爆發",
+      "analysis": [
+        { "point": "장면들이", "explanation": "장면 (場面) + -들 (複數) + -이 (主格)。" },
+        { "point": "터져", "explanation": "터지다 (爆發) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "다시 또",
+      "translation": "再次又",
+      "analysis": [
+        { "point": "다시 또", "explanation": "다시 (再次) + 또 (又)。" }
+      ]
+    },
+    {
+      "korean": "흩어지던 성운을",
+      "translation": "曾經飄散的星雲",
+      "analysis": [
+        { "point": "흩어지던", "explanation": "흩어지다 (飄散) 的過去回想着定語形。" },
+        { "point": "성운을", "explanation": "성운 (星雲) + -을 (受格)。" }
+      ]
+    },
+    {
+      "korean": "가로질러",
+      "translation": "橫越",
+      "analysis": [
+        { "point": "가로질러", "explanation": "가로지르다 (橫越) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "마침내 난",
+      "translation": "終於 我",
+      "analysis": [
+        { "point": "마침내", "explanation": "副詞，終於。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "그 끝에 닿을 듯해",
+      "translation": "好像要觸及那盡頭",
+      "analysis": [
+        { "point": "그 끝에", "explanation": "그 (那) + 끝 (盡頭) + -에 (場所)。" },
+        { "point": "닿을 듯해", "explanation": "닿다 (觸及) + -(으)ㄹ 듯하다 (好像要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "선명히 느껴져",
+      "translation": "清晰地感受到",
+      "analysis": [
+        { "point": "선명히", "explanation": "副詞，清晰地。" },
+        { "point": "느껴져", "explanation": "느껴지다 (被感受到) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이 순간",
+      "translation": "這個瞬間",
+      "analysis": [
+        { "point": "이 순간", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "저 빛을 따라",
+      "translation": "跟隨那道光",
+      "analysis": [
+        { "point": "저 빛을 따라", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "달려가 난",
+      "translation": "奔跑 我",
+      "analysis": [
+        { "point": "달려가 난", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Can't stop me now",
+      "translation": "現在無法阻止我",
+      "analysis": [
+        { "point": "Can't stop me now", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "운명 같은 이 밤",
+      "translation": "如命運般的這個夜晚",
+      "analysis": [
+        { "point": "운명 같은 이 밤", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "빠져들어",
+      "translation": "陷入",
+      "analysis": [
+        { "point": "빠져들어", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Can't slow it down",
+      "translation": "無法放慢",
+      "analysis": [
+        { "point": "Can't slow it down", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    },
+    {
+      "korean": "중력 속을 Feeling",
+      "translation": "在重力之中感受",
+      "analysis": [
+        { "point": "중력 속을 Feeling", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "날 더 끌어당겨",
+      "translation": "更加吸引我",
+      "analysis": [
+        { "point": "날 더 끌어당겨", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "저 끝의 너머",
+      "translation": "那盡頭的另一邊",
+      "analysis": [
+        { "point": "저 끝의 너머", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "빛이 번져",
+      "translation": "光芒蔓延",
+      "analysis": [
+        { "point": "빛이 번져", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "Into my Orbit",
+      "translation": "進入我的軌道",
+      "analysis": [
+        { "point": "Into my Orbit", "explanation": "英文歌詞，無韓文文法解析。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "깊어지다", "chinese": "變深", "pos": "動詞" },
+    { "korean": "자정", "chinese": "午夜", "pos": "名詞" },
+    { "korean": "조용히", "chinese": "安靜地", "pos": "副詞" },
+    { "korean": "퍼지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "눈", "chinese": "眼睛", "pos": "名詞" },
+    { "korean": "뜨다", "chinese": "睜開", "pos": "動詞" },
+    { "korean": "부르다", "chinese": "呼喚", "pos": "動詞" },
+    { "korean": "낯설다", "chinese": "陌生的", "pos": "形容詞" },
+    { "korean": "익숙하다", "chinese": "熟悉的", "pos": "形容詞" },
+    { "korean": "이곳", "chinese": "這裡", "pos": "代名詞" },
+    { "korean": "흔들리다", "chinese": "搖晃", "pos": "動詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "지나다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "경계", "chinese": "邊界", "pos": "名詞" },
+    { "korean": "떠돌다", "chinese": "飄盪", "pos": "動詞" },
+    { "korean": "저기", "chinese": "那裡", "pos": "代名詞" },
+    { "korean": "어딘가", "chinese": "某處", "pos": "代名詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "넘다", "chinese": "越過", "pos": "動詞" },
+    { "korean": "별빛", "chinese": "星光", "pos": "名詞" },
+    { "korean": "찾다", "chinese": "尋找", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "믿다", "chinese": "相信", "pos": "動詞" },
+    { "korean": "새벽", "chinese": "黎明", "pos": "名詞" },
+    { "korean": "열리다", "chinese": "被開啟", "pos": "動詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "달려가다", "chinese": "奔跑而去", "pos": "動詞" },
+    { "korean": "운명", "chinese": "命運", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "빠져들다", "chinese": "陷入", "pos": "動詞" },
+    { "korean": "중력", "chinese": "重力", "pos": "名詞" },
+    { "korean": "끌어당기다", "chinese": "吸引", "pos": "動詞" },
+    { "korean": "끝", "chinese": "盡頭", "pos": "名詞" },
+    { "korean": "너머", "chinese": "另一邊", "pos": "名詞" },
+    { "korean": "번지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "깊이", "chinese": "深深地", "pos": "副詞" },
+    { "korean": "스며들다", "chinese": "滲入", "pos": "動詞" },
+    { "korean": "계속", "chinese": "繼續", "pos": "副詞" },
+    { "korean": "길", "chinese": "路", "pos": "名詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "시계", "chinese": "時鐘", "pos": "名詞" },
+    { "korean": "움직이다", "chinese": "移動", "pos": "動詞" },
+    { "korean": "잠들어 있다", "chinese": "沉睡", "pos": "片語" },
+    { "korean": "장면", "chinese": "場面", "pos": "名詞" },
+    { "korean": "터지다", "chinese": "爆發", "pos": "動詞" },
+    { "korean": "흩어지다", "chinese": "飄散", "pos": "動詞" },
+    { "korean": "성운", "chinese": "星雲", "pos": "名詞" },
+    { "korean": "가로지르다", "chinese": "橫越", "pos": "動詞" },
+    { "korean": "마침내", "chinese": "終於", "pos": "副詞" },
+    { "korean": "선명히", "chinese": "清晰地", "pos": "副詞" },
+    { "korean": "느껴지다", "chinese": "被感受到", "pos": "動詞" }
+  ]
+}

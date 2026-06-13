@@ -1,0 +1,428 @@
+{
+  "id": "yerin-spring-glow",
+  "title": "춘곤 (春困)",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "기나긴",
+      "translation": "漫長的",
+      "analysis": [
+        { "point": "기나긴", "explanation": "기나길다 (漫長的) 的定語形。" }
+      ]
+    },
+    {
+      "korean": "잠에서 깨어나면",
+      "translation": "從睡夢中醒來的話",
+      "analysis": [
+        { "point": "잠에서", "explanation": "잠 (睡眠) + -에서 (從)。" },
+        { "point": "깨어나면", "explanation": "깨어나다 (醒來) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "기다린 그곳에",
+      "translation": "在等待的那個地方",
+      "analysis": [
+        { "point": "기다린", "explanation": "기다리다 (等待) 的過去定語形。" },
+        { "point": "그곳에", "explanation": "그곳 (那裡) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "네가 있을까",
+      "translation": "會有你嗎",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "있을까", "explanation": "있다 (有/在) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "따스하게 내리는 햇살 위로 꽃향기 날리고",
+      "translation": "在溫暖灑落的陽光之上 花香飄揚",
+      "analysis": [
+        { "point": "따스하게", "explanation": "따스하다 (溫暖的) 的副詞形。" },
+        { "point": "내리는", "explanation": "내리다 (落下) 的現在定語形。" },
+        { "point": "햇살 위로", "explanation": "햇살 (陽光) + 위 (上面) + -(으)로 (向)。" },
+        { "point": "꽃향기 날리고", "explanation": "꽃향기 (花香) + 날리다 (飄揚) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "온 세상이 사르르 녹아 입가에 번지는 미소",
+      "translation": "整個世界輕輕融化 在嘴角蔓延的微笑",
+      "analysis": [
+        { "point": "온 세상이", "explanation": "온 (整個的) + 세상 (世界) + -이 (主格助詞)。" },
+        { "point": "사르르", "explanation": "副詞，輕輕融化貌。" },
+        { "point": "녹아", "explanation": "녹다 (融化) 的非格式體。" },
+        { "point": "입가에", "explanation": "입가 (嘴角) + -에 (場所)。" },
+        { "point": "번지는", "explanation": "번지다 (蔓延) 的現在定語形。" },
+        { "point": "미소", "explanation": "名詞，微笑。" }
+      ]
+    },
+    {
+      "korean": "포근하게 내린 하늘에",
+      "translation": "在溫柔降落的天空下",
+      "analysis": [
+        { "point": "포근하게", "explanation": "포근하다 (溫柔的、溫暖的) 的副詞形。" },
+        { "point": "내린", "explanation": "내리다 (降落) 的過去定語形。" },
+        { "point": "하늘에", "explanation": "하늘 (天空) + -에 (場所助詞)。" }
+      ]
+    },
+    {
+      "korean": "마음을 덮어봐도",
+      "translation": "即使試著蓋住心",
+      "analysis": [
+        { "point": "마음을", "explanation": "마음 (心) + -을 (受格助詞)。" },
+        { "point": "덮어봐도", "explanation": "덮다 (蓋) + -아/어 보다 (嘗試) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "간지러운 기분이 들어",
+      "translation": "有種癢癢的感覺",
+      "analysis": [
+        { "point": "간지러운", "explanation": "간지럽다 (癢的) 的定語形。" },
+        { "point": "기분이 들어", "explanation": "기분 (感覺) + -이 (主格) + 들다 (產生) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너를 기다리는 계절",
+      "translation": "等待你的季節",
+      "analysis": [
+        { "point": "너를", "explanation": "你 + -를 (受格)。" },
+        { "point": "기다리는", "explanation": "기다리다 (等待) 的現在定語形。" },
+        { "point": "계절", "explanation": "名詞，季節。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아",
+      "translation": "啊",
+      "analysis": [
+        { "point": "아", "explanation": "感嘆詞，啊。" }
+      ]
+    },
+    {
+      "korean": "저 멀리 네가 보여",
+      "translation": "在遠處看見了你",
+      "analysis": [
+        { "point": "저 멀리", "explanation": "저 (那) + 멀리 (遠處)。" },
+        { "point": "네가", "explanation": "你 + -가 (主格)。" },
+        { "point": "보여", "explanation": "보이다 (被看見) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "봄바람",
+      "translation": "春風",
+      "analysis": [
+        { "point": "봄바람", "explanation": "名詞，春風。" }
+      ]
+    },
+    {
+      "korean": "처럼 나를 데려가 줘",
+      "translation": "像春風一樣 帶我走吧",
+      "analysis": [
+        { "point": "처럼", "explanation": "像...一樣。" },
+        { "point": "나를", "explanation": "我 + -를 (受格)。" },
+        { "point": "데려가 줘", "explanation": "데려가다 (帶走) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "korean": "깊은 잠에서 다시 깨어나",
+      "translation": "從深眠中再次醒來",
+      "analysis": [
+        { "point": "깊은", "explanation": "깊다 (深的) 的定語形。" },
+        { "point": "잠에서", "explanation": "잠 (睡眠) + -에서 (從)。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "깨어나", "explanation": "깨어나다 (醒來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "피어날 수 있도록",
+      "translation": "為了能夠綻放",
+      "analysis": [
+        { "point": "피어날", "explanation": "피어나다 (綻放) 的未來定語形。" },
+        { "point": "수 있도록", "explanation": "能夠 + -도록 (為了)。" }
+      ]
+    },
+    {
+      "korean": "오 난",
+      "translation": "喔 我",
+      "analysis": [
+        { "point": "오", "explanation": "感嘆詞，喔。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "흩어진대도 좋으니",
+      "translation": "即使飄散也好",
+      "analysis": [
+        { "point": "흩어진대도", "explanation": "흩어지다 (飄散) + -ㄴ대도 (即使說...也)。" },
+        { "point": "좋으니", "explanation": "좋다 (好) + -(으)니 (因為)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "긴 꿈을 꾼 듯한 지나간 시간을 뒤로",
+      "translation": "把像是做了一場長夢的過去時間拋在身後",
+      "analysis": [
+        { "point": "긴 꿈을 꾼 듯한", "explanation": "길다 (長的) 的定語形 + 꿈 (夢) + -을 (受格) + 꾸다 (做夢) 的過去定語形 + -듯한 (好像...的)。" },
+        { "point": "지나간 시간을", "explanation": "지나가다 (過去) 的過去定語形 + 시간 (時間) + -을 (受格)。" },
+        { "point": "뒤로", "explanation": "副詞，向後。" }
+      ]
+    },
+    {
+      "korean": "아른거리는 기억은 아프기만 할 테니까",
+      "translation": "因為若隱若現的記憶只會讓人痛苦",
+      "analysis": [
+        { "point": "아른거리는", "explanation": "아른거리다 (若隱若現) 的現在定語形。" },
+        { "point": "기억은", "explanation": "기억 (記憶) + -은 (主題)。" },
+        { "point": "아프기만 할 테니까", "explanation": "아프다 (痛) + -기만 하다 (只會) + -(으)ㄹ 테니까 (因為將會)。" }
+      ]
+    },
+    {
+      "korean": "발을 멈추게 한 그곳엔",
+      "translation": "在讓我停下腳步的那個地方",
+      "analysis": [
+        { "point": "발을", "explanation": "발 (腳) + -을 (受格)。" },
+        { "point": "멈추게 한", "explanation": "멈추다 (停止) + -게 하다 (使) 的過去定語形。" },
+        { "point": "그곳엔", "explanation": "그곳 (那裡) + -에 (場所) + -는 (強調) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "널 닮은 꽃이 자라게 될까",
+      "translation": "會長出像你的花嗎",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "닮은", "explanation": "닮다 (像) 的過去定語形。" },
+        { "point": "꽃이", "explanation": "꽃 (花) + -이 (主格)。" },
+        { "point": "자라게 될까", "explanation": "자라다 (生長) + -게 되다 (變得) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "천천히 또 조금씩",
+      "translation": "慢慢地 又一點一點地",
+      "analysis": [
+        { "point": "천천히", "explanation": "副詞，慢慢地。" },
+        { "point": "또", "explanation": "副詞，又。" },
+        { "point": "조금씩", "explanation": "副詞，一點一點地。" }
+      ]
+    },
+    {
+      "korean": "나를 불러내는 계절",
+      "translation": "呼喚我的季節",
+      "analysis": [
+        { "point": "나를", "explanation": "我 + -를 (受格)。" },
+        { "point": "불러내는", "explanation": "불러내다 (呼喚出來) 的現在定語形。" },
+        { "point": "계절", "explanation": "名詞，季節。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아",
+      "translation": "啊",
+      "analysis": [
+        { "point": "아", "explanation": "啊。" }
+      ]
+    },
+    {
+      "korean": "저 멀리 네가 보여",
+      "translation": "在遠處看見了你",
+      "analysis": [
+        { "point": "저 멀리 네가 보여", "explanation": "同上解析。" }
+      ]
+    },
+    {
+      "korean": "봄바람",
+      "translation": "春風",
+      "analysis": [
+        { "point": "봄바람", "explanation": "春風。" }
+      ]
+    },
+    {
+      "korean": "처럼 나를 데려가 줘",
+      "translation": "像春風一樣 帶我走吧",
+      "analysis": [
+        { "point": "처럼 나를 데려가 줘", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "깊은 잠에서 다시 깨어나",
+      "translation": "從深眠中再次醒來",
+      "analysis": [
+        { "point": "깊은 잠에서 다시 깨어나", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "피어날 수 있도록",
+      "translation": "為了能夠綻放",
+      "analysis": [
+        { "point": "피어날 수 있도록", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "오 난",
+      "translation": "喔 我",
+      "analysis": [
+        { "point": "오 난", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "흩어진대도 좋으니",
+      "translation": "即使飄散也好",
+      "analysis": [
+        { "point": "흩어진대도 좋으니", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "난 너로",
+      "translation": "我因你",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "너로", "explanation": "너 (你) + -(으)로 (因/以)。" }
+      ]
+    },
+    {
+      "korean": "새롭게 피어나고",
+      "translation": "嶄新地綻放",
+      "analysis": [
+        { "point": "새롭게", "explanation": "새롭다 (新的) 的副詞形。" },
+        { "point": "피어나고", "explanation": "피어나다 (綻放) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "이대로",
+      "translation": "就這樣",
+      "analysis": [
+        { "point": "이대로", "explanation": "副詞，就這樣。" }
+      ]
+    },
+    {
+      "korean": "영원할 수 있도록",
+      "translation": "為了能夠永遠",
+      "analysis": [
+        { "point": "영원할", "explanation": "영원하다 (永遠的) 的未來定語形。" },
+        { "point": "수 있도록", "explanation": "能夠 + -도록 (為了)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "아",
+      "translation": "啊",
+      "analysis": [
+        { "point": "아", "explanation": "啊。" }
+      ]
+    },
+    {
+      "korean": "저 멀리 네가 보여",
+      "translation": "在遠處看見了你",
+      "analysis": [
+        { "point": "저 멀리 네가 보여", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "봄바람",
+      "translation": "春風",
+      "analysis": [
+        { "point": "봄바람", "explanation": "春風。" }
+      ]
+    },
+    {
+      "korean": "처럼 나를 데려가 줘",
+      "translation": "像春風一樣 帶我走吧",
+      "analysis": [
+        { "point": "처럼 나를 데려가 줘", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "깊은 잠에서 다시 깨어나",
+      "translation": "從深眠中再次醒來",
+      "analysis": [
+        { "point": "깊은 잠에서 다시 깨어나", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "피어날 수 있도록",
+      "translation": "為了能夠綻放",
+      "analysis": [
+        { "point": "피어날 수 있도록", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "오 난",
+      "translation": "喔 我",
+      "analysis": [
+        { "point": "오 난", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "흩어진대도,",
+      "translation": "即使飄散，",
+      "analysis": [
+        { "point": "흩어진대도", "explanation": "흩어지다 (飄散) + -ㄴ대도 (即使說...也)。" }
+      ]
+    },
+    {
+      "korean": "사라져도 좋으니",
+      "translation": "即使消失也好",
+      "analysis": [
+        { "point": "사라져도", "explanation": "사라지다 (消失) + -아/어도 (即使)。" },
+        { "point": "좋으니", "explanation": "좋다 (好) + -(으)니 (因為)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "기나길다", "chinese": "漫長的", "pos": "形容詞" },
+    { "korean": "잠", "chinese": "睡眠", "pos": "名詞" },
+    { "korean": "깨어나다", "chinese": "醒來", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "그곳", "chinese": "那裡", "pos": "代名詞" },
+    { "korean": "따스하다", "chinese": "溫暖的", "pos": "形容詞" },
+    { "korean": "내리다", "chinese": "落下", "pos": "動詞" },
+    { "korean": "햇살", "chinese": "陽光", "pos": "名詞" },
+    { "korean": "꽃향기", "chinese": "花香", "pos": "名詞" },
+    { "korean": "날리다", "chinese": "飄揚", "pos": "動詞" },
+    { "korean": "온", "chinese": "整個的", "pos": "冠詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "사르르", "chinese": "輕輕融化貌", "pos": "副詞" },
+    { "korean": "녹다", "chinese": "融化", "pos": "動詞" },
+    "입가", "嘴角", "名詞",
+    { "korean": "번지다", "chinese": "蔓延", "pos": "動詞" },
+    { "korean": "미소", "chinese": "微笑", "pos": "名詞" },
+    { "korean": "포근하다", "chinese": "溫柔的", "pos": "形容詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "덮다", "chinese": "蓋", "pos": "動詞" },
+    { "korean": "간지럽다", "chinese": "癢的", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "들다", "chinese": "產生", "pos": "動詞" },
+    { "korean": "계절", "chinese": "季節", "pos": "名詞" },
+    { "korean": "멀리", "chinese": "遠處", "pos": "副詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "봄바람", "chinese": "春風", "pos": "名詞" },
+    { "korean": "데려가다", "chinese": "帶走", "pos": "動詞" },
+    { "korean": "깊다", "chinese": "深的", "pos": "形容詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "피어나다", "chinese": "綻放", "pos": "動詞" },
+    { "korean": "흩어지다", "chinese": "飄散", "pos": "動詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "긴", "chinese": "長的", "pos": "形容詞" },
+    { "korean": "꾸다", "chinese": "做夢", "pos": "動詞" },
+    { "korean": "지나가다", "chinese": "過去", "pos": "動詞" },
+    { "korean": "뒤로", "chinese": "向後", "pos": "副詞" },
+    { "korean": "아른거리다", "chinese": "若隱若現", "pos": "動詞" },
+    { "korean": "기억", "chinese": "記憶", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "발", "chinese": "腳", "pos": "名詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "닮다", "chinese": "像", "pos": "動詞" },
+    { "korean": "꽃", "chinese": "花", "pos": "名詞" },
+    { "korean": "자라다", "chinese": "生長", "pos": "動詞" },
+    { "korean": "천천히", "chinese": "慢慢地", "pos": "副詞" },
+    { "korean": "조금씩", "chinese": "一點一點地", "pos": "副詞" },
+    { "korean": "불러내다", "chinese": "呼喚出來", "pos": "動詞" },
+    { "korean": "새롭다", "chinese": "新的", "pos": "形容詞" },
+    { "korean": "이대로", "chinese": "就這樣", "pos": "副詞" },
+    { "korean": "영원하다", "chinese": "永遠的", "pos": "形容詞" },
+    { "korean": "사라지다", "chinese": "消失", "pos": "動詞" }
+  ]
+}

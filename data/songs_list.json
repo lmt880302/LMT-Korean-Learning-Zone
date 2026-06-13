@@ -1,9 +1,15 @@
 [
   {
-    "id": "imoojin-episode",
+    "id": "lee-mujin-episode",
     "title": "Episode (에피소드)",
     "artist": "이무진 (Lee Mujin)",
     "lyricsFile": "../data/lyrics/imoojin-episode.json"
+  },
+  {
+    "id": "lee-mujin-ordinary-confession",
+    "title": "잠깐 시간 될까 (Ordinary Confession)",
+    "artist": "이무진 (Lee Mujin)",
+    "lyricsFile": "../data/lyrics/lee-mujin-ordinary-confession.json"
   },
   {
     "id": "_____",
@@ -168,6 +174,36 @@
     "artist": "______",
     "lyricsFile": "../data/lyrics/_______________.json"
   },  
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },
+  {
+    "id": "yerin-orbit",
+    "title": "Orbit",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-orbit.json"
+  },  
+  {
+    "id": "yerin-spring-glow",
+    "title": "춘곤 (春困)",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-spring-glow.json"
+  },
+  {
+    "id": "yerin-shooting-star",
+    "title": "Shooting star",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-shooting-star.json"
+  },  
+  {
+    "id": "yerin-polaris",
+    "title": "Polaris",
+    "artist": "YERIN (예린)",
+    "lyricsFile": "../data/lyrics/yerin-polaris.json"
+  },   
   {
     "id": "yerin-4u",
     "title": "4U",

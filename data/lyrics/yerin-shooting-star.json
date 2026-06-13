@@ -1,0 +1,364 @@
+{
+  "id": "yerin-shooting-star",
+  "title": "Shooting star",
+  "artist": "YERIN (예린)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "꿈이란 말은 희미한 저편에 머물고",
+      "translation": "名為夢的話語 停留在模糊的那一邊",
+      "analysis": [
+        { "point": "꿈이란 말은", "explanation": "꿈 (夢) + -이란 (所謂的) + 말 (話) + -은 (主題助詞)。" },
+        { "point": "희미한 저편에", "explanation": "희미하다 (模糊的) 的定語形 + 저편 (那一邊) + -에 (場所助詞)。" },
+        { "point": "머물고", "explanation": "머물다 (停留) + -고 (連接詞尾)。" }
+      ]
+    },
+    {
+      "korean": "내 마음보다 빠르게 세상은 돌아가",
+      "translation": "世界比我的心轉動得更快",
+      "analysis": [
+        { "point": "내 마음보다", "explanation": "내 (我的) + 마음 (心) + -보다 (比起)。" },
+        { "point": "빠르게", "explanation": "빠르다 (快的) 的副詞形。" },
+        { "point": "세상은", "explanation": "세상 (世界) + -은 (主題助詞)。" },
+        { "point": "돌아가", "explanation": "돌아가다 (運轉) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "털레털레 무거운 마음 위를 따라 걷다가",
+      "translation": "拖著沉重的步伐 跟在沉重的心上走著走著",
+      "analysis": [
+        { "point": "털레털레", "explanation": "擬態詞，拖著腳步慢吞吞的樣子。" },
+        { "point": "무거운", "explanation": "무겁다 (沉重的) 的定語形。" },
+        { "point": "마음 위를", "explanation": "마음 (心) + 위 (上面) + -를 (受格助詞)。" },
+        { "point": "따라 걷다가", "explanation": "따르다 (跟隨) + 걷다 (走) + -다가 (動作轉換)。" }
+      ]
+    },
+    {
+      "korean": "무심히 올려다본 밤하늘 위는",
+      "translation": "無意間仰望的夜空上方",
+      "analysis": [
+        { "point": "무심히", "explanation": "副詞，無心地、不經意地。" },
+        { "point": "올려다본", "explanation": "올려다보다 (仰望) 的過去定語形。" },
+        { "point": "밤하늘 위는", "explanation": "밤하늘 (夜空) + 위 (上面) + -는 (主題助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "쏟아질 듯 반짝였어",
+      "translation": "像要傾瀉而下般閃耀著",
+      "analysis": [
+        { "point": "쏟아질 듯", "explanation": "쏟아지다 (傾瀉) + -(으)ㄹ 듯 (好像要...似的)。" },
+        { "point": "반짝였어", "explanation": "반짝이다 (閃爍) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "벅차오를 정도로",
+      "translation": "滿溢而出的程度",
+      "analysis": [
+        { "point": "벅차오를", "explanation": "벅차오르다 (滿溢、激動) 的未來定語形。" },
+        { "point": "정도로", "explanation": "정도 (程度) + -(으)로 (以)。" }
+      ]
+    },
+    {
+      "korean": "어쩌면 닿을 수 있을 거라고",
+      "translation": "也許能夠觸及吧",
+      "analysis": [
+        { "point": "어쩌면", "explanation": "副詞，也許、說不定。" },
+        { "point": "닿을 수 있을 거라고", "explanation": "닿다 (觸及) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ 것 (將要) + -이라고 (引用)。" }
+      ]
+    },
+    {
+      "korean": "내 안에 그런 생각이 든 순간",
+      "translation": "在我心中產生那樣想法的瞬間",
+      "analysis": [
+        { "point": "내 안에", "explanation": "내 (我的) + 안 (裡面) + -에 (場所助詞)。" },
+        { "point": "그런 생각이", "explanation": "그런 (那樣的) + 생각 (想法) + -이 (主格助詞)。" },
+        { "point": "든 순간", "explanation": "들다 (產生) 的過去定語形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "어둠 속에 가장 빛나는 작은 별 하나가",
+      "translation": "在黑暗中 最閃耀的一顆小星星",
+      "analysis": [
+        { "point": "어둠 속에", "explanation": "어둠 (黑暗) + 속 (裡面) + -에 (場所)。" },
+        { "point": "가장", "explanation": "副詞，最。" },
+        { "point": "빛나는", "explanation": "빛나다 (閃耀) 的現在定語形。" },
+        { "point": "작은 별 하나가", "explanation": "작다 (小的) 的定語形 + 별 (星星) + 하나 (一個) + -가 (主格助詞)。" }
+      ]
+    },
+    {
+      "korean": "내 하늘을 가로질러 문득 소원을 빌었어",
+      "translation": "劃過我的天空 忽然許下了願望",
+      "analysis": [
+        { "point": "내 하늘을", "explanation": "내 (我的) + 하늘 (天空) + -을 (受格助詞)。" },
+        { "point": "가로질러", "explanation": "가로지르다 (橫越) 的非格式體。" },
+        { "point": "문득", "explanation": "副詞，忽然。" },
+        { "point": "소원을 빌었어", "explanation": "소원 (願望) + -을 (受格助詞) + 빌다 (祈求) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "아득한 밤을 거쳐 언젠가 네게 닿는 순간",
+      "translation": "經過遙遠的夜晚 總有一天觸及到你的瞬間",
+      "analysis": [
+        { "point": "아득한", "explanation": "아득하다 (遙遠的) 的定語形。" },
+        { "point": "밤을 거쳐", "explanation": "밤 (夜晚) + -을 (受格助詞) + 거치다 (經過) 的非格式體。" },
+        { "point": "언젠가", "explanation": "副詞，總有一天。" },
+        { "point": "네게 닿는 순간", "explanation": "네게 (向你) + 닿다 (觸及) 的現在定語形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "korean": "다시는 돌아오지 않을 내 꿈이 되어줘",
+      "translation": "成為我再也回不來的夢吧",
+      "analysis": [
+        { "point": "다시는", "explanation": "副詞，再也不。" },
+        { "point": "돌아오지 않을", "explanation": "돌아오다 (回來) + -지 않다 (不) 的未來定語形。" },
+        { "point": "내 꿈이 되어줘", "explanation": "내 (我的) + 꿈 (夢) + -이 (主格) + 되다 (成為) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "상처가 아물은 자리에 빛이 스며들고",
+      "translation": "傷口癒合的位置 光芒滲入",
+      "analysis": [
+        { "point": "상처가", "explanation": "상처 (傷口) + -가 (主格助詞)。" },
+        { "point": "아물은", "explanation": "아물다 (癒合) 的過去定語形。" },
+        { "point": "자리에", "explanation": "자리 (位置) + -에 (場所)。" },
+        { "point": "빛이 스며들고", "explanation": "빛 (光) + -이 (主格) + 스며들다 (滲入) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "꺼진 마음에 다른 이유가 자라나",
+      "translation": "熄滅的心裡 另一個理由生長出來",
+      "analysis": [
+        { "point": "꺼진", "explanation": "꺼지다 (熄滅) 的過去定語形。" },
+        { "point": "마음에", "explanation": "마음 (心) + -에 (場所)。" },
+        { "point": "다른 이유가", "explanation": "다르다 (不同的) 的定語形 + 이유 (理由) + -가 (主格)。" },
+        { "point": "자라나", "explanation": "자라나다 (生長) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "백색왜성의 마음처럼 잔잔한 온기도",
+      "translation": "像白矮星的心一樣 平靜的溫暖也",
+      "analysis": [
+        { "point": "백색왜성의", "explanation": "백색왜성 (白矮星) + -의 (的)。" },
+        { "point": "마음처럼", "explanation": "마음 (心) + -처럼 (像...一樣)。" },
+        { "point": "잔잔한 온기도", "explanation": "잔잔하다 (平靜的) 的定語形 + 온기 (溫暖) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "누군가에게 닿아 의미가 될까",
+      "translation": "能否觸及某人 成為意義",
+      "analysis": [
+        { "point": "누군가에게", "explanation": "누군가 (某人) + -에게 (向)。" },
+        { "point": "닿아", "explanation": "닿다 (觸及) 的非格式體。" },
+        { "point": "의미가 될까", "explanation": "의미 (意義) + -가 (主格) + 되다 (成為) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "밤하늘은",
+      "translation": "夜空",
+      "analysis": [
+        { "point": "밤하늘은", "explanation": "밤하늘 (夜空) + -은 (主題助詞)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "쏟아질 듯 반짝였어",
+      "translation": "像要傾瀉而下般閃耀著",
+      "analysis": [
+        { "point": "쏟아질 듯 반짝였어", "explanation": "쏟아지다 (傾瀉) + -(으)ㄹ 듯 (好像) + 반짝이다 (閃爍) 的過去形。" }
+      ]
+    },
+    {
+      "korean": "벅차오를 정도로",
+      "translation": "滿溢而出的程度",
+      "analysis": [
+        { "point": "벅차오를 정도로", "explanation": "벅차오르다 (滿溢) 的未來定語形 + 정도 (程度) + -(으)로 (以)。" }
+      ]
+    },
+    {
+      "korean": "내일을 기대하고 싶다고",
+      "translation": "說想要期待明天",
+      "analysis": [
+        { "point": "내일을", "explanation": "내일 (明天) + -을 (受格)。" },
+        { "point": "기대하고 싶다고", "explanation": "기대하다 (期待) + -고 싶다 (想要) + -다고 (引用)。" }
+      ]
+    },
+    {
+      "korean": "내 안에 그런 생각이 든 순간",
+      "translation": "在我心中產生那樣想法的瞬間",
+      "analysis": [
+        { "point": "내 안에 그런 생각이 든 순간", "explanation": "내 안에 (我心中) + 그런 생각 (那樣想法) + -이 (主格) + 들다 (產生) 的過去定語形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "어둠 속에 가장 빛나는 작은 별 하나가",
+      "translation": "在黑暗中 最閃耀的一顆小星星",
+      "analysis": [
+        { "point": "어둠 속에 가장 빛나는 작은 별 하나가", "explanation": "어둠 속에 (在黑暗中) + 가장 (最) + 빛나는 (閃耀的) + 작은 (小的) + 별 (星星) + 하나 (一個) + -가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "내 하늘을 가로질러 문득 소원을 빌었어",
+      "translation": "劃過我的天空 忽然許下了願望",
+      "analysis": [
+        { "point": "내 하늘을 가로질러 문득 소원을 빌었어", "explanation": "내 하늘 (我的天空) + -을 (受格) + 가로지르다 (橫越) + 문득 (忽然) + 소원 (願望) + -을 (受格) + 빌다 (祈求) 的過去形。" }
+      ]
+    },
+    {
+      "korean": "아득한 밤을 거쳐 언젠가 네게 닿는 순간",
+      "translation": "經過遙遠的夜晚 總有一天觸及到你的瞬間",
+      "analysis": [
+        { "point": "아득한 밤을 거쳐 언젠가 네게 닿는 순간", "explanation": "아득한 (遙遠的) + 밤 (夜晚) + -을 (受格) + 거치다 (經過) + 언젠가 (總有一天) + 네게 (向你) + 닿다 (觸及) 的現在定語形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "korean": "다시는 돌아오지 않을 내 꿈이 되어줘",
+      "translation": "成為我再也回不來的夢吧",
+      "analysis": [
+        { "point": "다시는 돌아오지 않을 내 꿈이 되어줘", "explanation": "다시는 (再也不) + 돌아오다 (回來) + -지 않다 (不) 的未來定語形 + 내 (我的) + 꿈 (夢) + -이 (主格) + 되다 (成為) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "머나먼 미래에도",
+      "translation": "即使在遙遠的未來",
+      "analysis": [
+        { "point": "머나먼", "explanation": "머나멀다 (遙遠的) 的定語形。" },
+        { "point": "미래에도", "explanation": "미래 (未來) + -에 (時間) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "또 다른 별에서도",
+      "translation": "即使在另一顆星星上",
+      "analysis": [
+        { "point": "또 다른", "explanation": "또 (又) + 다른 (不同的)。" },
+        { "point": "별에서도", "explanation": "별 (星星) + -에서 (在) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "기억할 수 있게",
+      "translation": "為了能夠記住",
+      "analysis": [
+        { "point": "기억할 수 있게", "explanation": "기억하다 (記憶) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "웃음 지을 수 있게",
+      "translation": "為了能夠展露笑容",
+      "analysis": [
+        { "point": "웃음 지을 수 있게", "explanation": "웃음 (笑容) + 짓다 (做) + -(으)ㄹ 수 있다 (能夠) + -게 (使得)。" }
+      ]
+    },
+    {
+      "korean": "널 절대",
+      "translation": "你 絕對",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "절대", "explanation": "副詞，絕對。" }
+      ]
+    },
+    {
+      "korean": "놓지 않을 테니",
+      "translation": "因為不會放開",
+      "analysis": [
+        { "point": "놓지 않을 테니", "explanation": "놓다 (放開) + -지 않다 (不) + -(으)ㄹ 테니 (因為將會...)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "어둠 속에 가장 빛나는 작은 별 하나가",
+      "translation": "在黑暗中 最閃耀的一顆小星星",
+      "analysis": [
+        { "point": "어둠 속에 가장 빛나는 작은 별 하나가", "explanation": "어둠 속에 (在黑暗中) + 가장 (最) + 빛나는 (閃耀的) + 작은 (小的) + 별 (星星) + 하나 (一個) + -가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "내 하늘을 가로질러 문득 소원을 빌었어",
+      "translation": "劃過我的天空 忽然許下了願望",
+      "analysis": [
+        { "point": "내 하늘을 가로질러 문득 소원을 빌었어", "explanation": "내 하늘 (我的天空) + -을 (受格) + 가로지르다 (橫越) + 문득 (忽然) + 소원 (願望) + -을 (受格) + 빌다 (祈求) 的過去形。" }
+      ]
+    },
+    {
+      "korean": "아득한 밤을 거쳐 언젠가 네게 닿는 순간",
+      "translation": "經過遙遠的夜晚 總有一天觸及到你的瞬間",
+      "analysis": [
+        { "point": "아득한 밤을 거쳐 언젠가 네게 닿는 순간", "explanation": "아득한 (遙遠的) + 밤 (夜晚) + -을 (受格) + 거치다 (經過) + 언젠가 (總有一天) + 네게 (向你) + 닿다 (觸及) 的現在定語形 + 순간 (瞬間)。" }
+      ]
+    },
+    {
+      "korean": "다시는 돌아오지 않을 내 꿈이 되어줘",
+      "translation": "成為我再也回不來的夢吧",
+      "analysis": [
+        { "point": "다시는 돌아오지 않을 내 꿈이 되어줘", "explanation": "다시는 (再也不) + 돌아오다 (回來) + -지 않다 (不) 的未來定語形 + 내 (我的) + 꿈 (夢) + -이 (主格) + 되다 (成為) + -아/어 주다 (為我) 的請求形。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "꿈", "chinese": "夢", "pos": "名詞" },
+    { "korean": "희미하다", "chinese": "模糊的", "pos": "形容詞" },
+    { "korean": "저편", "chinese": "那一邊", "pos": "名詞" },
+    { "korean": "머물다", "chinese": "停留", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "빠르다", "chinese": "快的", "pos": "形容詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "돌아가다", "chinese": "運轉", "pos": "動詞" },
+    { "korean": "털레털레", "chinese": "慢吞吞貌", "pos": "副詞" },
+    { "korean": "무겁다", "chinese": "沉重的", "pos": "形容詞" },
+    { "korean": "따르다", "chinese": "跟隨", "pos": "動詞" },
+    { "korean": "걷다", "chinese": "走", "pos": "動詞" },
+    { "korean": "무심히", "chinese": "無心地", "pos": "副詞" },
+    { "korean": "올려다보다", "chinese": "仰望", "pos": "動詞" },
+    { "korean": "밤하늘", "chinese": "夜空", "pos": "名詞" },
+    { "korean": "쏟아지다", "chinese": "傾瀉", "pos": "動詞" },
+    { "korean": "반짝이다", "chinese": "閃爍", "pos": "動詞" },
+    { "korean": "벅차오르다", "chinese": "滿溢", "pos": "動詞" },
+    { "korean": "정도", "chinese": "程度", "pos": "名詞" },
+    { "korean": "어쩌면", "chinese": "也許", "pos": "副詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "어둠", "chinese": "黑暗", "pos": "名詞" },
+    { "korean": "가장", "chinese": "最", "pos": "副詞" },
+    { "korean": "빛나다", "chinese": "閃耀", "pos": "動詞" },
+    { "korean": "작다", "chinese": "小的", "pos": "形容詞" },
+    { "korean": "별", "chinese": "星星", "pos": "名詞" },
+    { "korean": "하나", "chinese": "一個", "pos": "數詞" },
+    { "korean": "하늘", "chinese": "天空", "pos": "名詞" },
+    { "korean": "가로지르다", "chinese": "橫越", "pos": "動詞" },
+    { "korean": "문득", "chinese": "忽然", "pos": "副詞" },
+    { "korean": "소원", "chinese": "願望", "pos": "名詞" },
+    { "korean": "빌다", "chinese": "祈求", "pos": "動詞" },
+    { "korean": "아득하다", "chinese": "遙遠的", "pos": "形容詞" },
+    { "korean": "거치다", "chinese": "經過", "pos": "動詞" },
+    { "korean": "언젠가", "chinese": "總有一天", "pos": "副詞" },
+    { "korean": "다시는", "chinese": "再也不", "pos": "副詞" },
+    { "korean": "돌아오다", "chinese": "回來", "pos": "動詞" },
+    { "korean": "되다", "chinese": "成為", "pos": "動詞" },
+    { "korean": "상처", "chinese": "傷口", "pos": "名詞" },
+    { "korean": "아물다", "chinese": "癒合", "pos": "動詞" },
+    { "korean": "자리", "chinese": "位置", "pos": "名詞" },
+    { "korean": "빛", "chinese": "光", "pos": "名詞" },
+    { "korean": "스며들다", "chinese": "滲入", "pos": "動詞" },
+    { "korean": "꺼지다", "chinese": "熄滅", "pos": "動詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "이유", "chinese": "理由", "pos": "名詞" },
+    { "korean": "자라나다", "chinese": "生長", "pos": "動詞" },
+    { "korean": "백색왜성", "chinese": "白矮星", "pos": "名詞" },
+    { "korean": "잔잔하다", "chinese": "平靜的", "pos": "形容詞" },
+    { "korean": "온기", "chinese": "溫暖", "pos": "名詞" },
+    { "korean": "누군가", "chinese": "某人", "pos": "代名詞" },
+    { "korean": "의미", "chinese": "意義", "pos": "名詞" },
+    { "korean": "내일", "chinese": "明天", "pos": "名詞" },
+    { "korean": "기대하다", "chinese": "期待", "pos": "動詞" },
+    { "korean": "머나멀다", "chinese": "遙遠的", "pos": "形容詞" },
+    { "korean": "미래", "chinese": "未來", "pos": "名詞" },
+    { "korean": "기억하다", "chinese": "記憶", "pos": "動詞" },
+    { "korean": "웃음", "chinese": "笑容", "pos": "名詞" },
+    { "korean": "짓다", "chinese": "做", "pos": "動詞" },
+    { "korean": "절대", "chinese": "絕對", "pos": "副詞" },
+    { "korean": "놓다", "chinese": "放開", "pos": "動詞" }
+  ]
+}

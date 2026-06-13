@@ -1,0 +1,585 @@
+{
+  "id": "lee-mujin-ordinary-confession",
+  "title": "잠깐 시간 될까 (Ordinary Confession)",
+  "artist": "이무진 (Lee Mujin)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠깐 시간 될까",
+      "translation": "方便聊一下嗎",
+      "analysis": [
+        { "point": "잠깐", "explanation": "副詞，暫時、一下子。" },
+        { "point": "시간 될까", "explanation": "시간 (時間) + -이 되다 (有時間) + -(으)ㄹ까 (疑問)，意為「可以挪出時間嗎」。" }
+      ]
+    },
+    {
+      "korean": "만날 수 있을까",
+      "translation": "能見面嗎",
+      "analysis": [
+        { "point": "만날 수 있을까", "explanation": "만나다 (見面) + -(으)ㄹ 수 있다 (能夠) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "별일은 아니고 그냥 보고 싶어 그래",
+      "translation": "不是什麼特別的事，就是想你了",
+      "analysis": [
+        { "point": "별일은 아니고", "explanation": "별일 (特別的事) + -은 (主題助詞) + 아니다 (不是) + -고 (連接詞尾)。" },
+        { "point": "그냥", "explanation": "副詞，就、只是。" },
+        { "point": "보고 싶어 그래", "explanation": "보고 싶다 (想念) + 그래 (感嘆/語氣詞)。" }
+      ]
+    },
+    {
+      "korean": "웃지 말고 대답해줄래",
+      "translation": "不要笑 回答我好嗎",
+      "analysis": [
+        { "point": "웃지 말고", "explanation": "웃다 (笑) + -지 말다 (不要) + -고 (連接)。" },
+        { "point": "대답해줄래", "explanation": "대답하다 (回答) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" }
+      ]
+    },
+    {
+      "korean": "그럼 나 괜히 설레",
+      "translation": "那樣我就會莫名心動",
+      "analysis": [
+        { "point": "그럼", "explanation": "連接詞，那麼。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "괜히", "explanation": "副詞，無端地、莫名地。" },
+        { "point": "설레", "explanation": "설레다 (心動) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "장난치지 말고 내게 답 해줄래",
+      "translation": "別開玩笑了 回答我吧",
+      "analysis": [
+        { "point": "장난치지 말고", "explanation": "장난치다 (開玩笑) + -지 말다 (不要) + -고 (連接)。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "답 해줄래", "explanation": "답 (回答) + 하다 (做) + -아/어 주다 (為我) + -(으)ㄹ래 (請求)。" }
+      ]
+    },
+    {
+      "korean": "어떻게 생각해",
+      "translation": "你覺得怎麼樣",
+      "analysis": [
+        { "point": "어떻게", "explanation": "副詞，怎麼。" },
+        { "point": "생각해", "explanation": "생각하다 (想、覺得) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "만나서 반가워",
+      "translation": "見到你很高興",
+      "analysis": [
+        { "point": "만나서", "explanation": "만나다 (見面) + -아/어서 (因為/然後)。" },
+        { "point": "반가워", "explanation": "반갑다 (高興) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아마 첫 인사부터",
+      "translation": "也許從初次問候開始",
+      "analysis": [
+        { "point": "아마", "explanation": "副詞，大概、也許。" },
+        { "point": "첫 인사부터", "explanation": "첫 (第一次) + 인사 (問候) + -부터 (從...起)。" }
+      ]
+    },
+    {
+      "korean": "이런 맘이었었는지도 몰라",
+      "translation": "說不定就是這樣的心情",
+      "analysis": [
+        { "point": "이런", "explanation": "這樣的。" },
+        { "point": "맘이었었는지도 몰라", "explanation": "마음 (心) 的縮略 + -이었었- (過去回想) + -는지도 모르다 (也許是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나 이제 네게 다가서려 해",
+      "translation": "我現在想靠近你",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "이제", "explanation": "副詞，現在。" },
+        { "point": "네게", "explanation": "너에게 (向你) 的縮略。" },
+        { "point": "다가서려 해", "explanation": "다가서다 (靠近) + -려 하다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "거릴 좁혀보려 해",
+      "translation": "想試著縮短距離",
+      "analysis": [
+        { "point": "거릴", "explanation": "거리 (距離) + -를 (受格助詞) 的縮略。" },
+        { "point": "좁혀보려 해", "explanation": "좁히다 (縮窄) + -아/어 보다 (嘗試) + -려 하다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "나 망설이지 않기를",
+      "translation": "希望我不要猶豫",
+      "analysis": [
+        { "point": "나", "explanation": "我。" },
+        { "point": "망설이지 않기를", "explanation": "망설이다 (猶豫) + -지 않다 (不) + -기를 (希望)。" }
+      ]
+    },
+    {
+      "korean": "우리가 만약 시작한다면",
+      "translation": "如果我們開始交往",
+      "analysis": [
+        { "point": "우리가", "explanation": "我們 + -가 (主格)。" },
+        { "point": "만약", "explanation": "副詞，如果。" },
+        { "point": "시작한다면", "explanation": "시작하다 (開始) + -(느)ㄴ다면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "그 누구보다",
+      "translation": "比任何人",
+      "analysis": [
+        { "point": "그 누구보다", "explanation": "그 (那個) + 누구 (誰) + -보다 (比起)。" }
+      ]
+    },
+    {
+      "korean": "예쁘디 예쁠 거라 생각해",
+      "translation": "我覺得會非常非常美好",
+      "analysis": [
+        { "point": "예쁘디 예쁠", "explanation": "예쁘다 (美麗的) 的重複強調，意為「非常非常美麗」。" },
+        { "point": "거라 생각해", "explanation": "것 (事情) + -이라 (是) + 생각하다 (想) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "혹시 넌 어때",
+      "translation": "或許你覺得呢",
+      "analysis": [
+        { "point": "혹시", "explanation": "副詞，或許。" },
+        { "point": "넌", "explanation": "너는 (你) 的縮略。" },
+        { "point": "어때", "explanation": "어떠하다 (怎麼樣) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "할 얘기가 많은데",
+      "translation": "想說的話很多",
+      "analysis": [
+        { "point": "할 얘기가", "explanation": "하다 (說) 的未來定語形 + 이야기 (話) 的縮略 + -가 (主格)。" },
+        { "point": "많은데", "explanation": "많다 (多) + -ㄴ데 (轉折語尾)。" }
+      ]
+    },
+    {
+      "korean": "마침 너희 집 근처야",
+      "translation": "剛好在你家附近",
+      "analysis": [
+        { "point": "마침", "explanation": "副詞，剛好。" },
+        { "point": "너희 집 근처야", "explanation": "너희 (你們) + 집 (家) + 근처 (附近) + -야 (是)。" }
+      ]
+    },
+    {
+      "korean": "혹시나 괜찮다면",
+      "translation": "如果你不介意的話",
+      "analysis": [
+        { "point": "혹시나", "explanation": "副詞，或許。" },
+        { "point": "괜찮다면", "explanation": "괜찮다 (沒關係) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠깐 시간 될까",
+      "translation": "方便聊一下嗎",
+      "analysis": [
+        { "point": "잠깐 시간 될까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "만날 수 있을까",
+      "translation": "能見面嗎",
+      "analysis": [
+        { "point": "만날 수 있을까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "별일은 아니고 그냥 보고 싶어 그래",
+      "translation": "不是什麼特別的事，就是想你了",
+      "analysis": [
+        { "point": "별일은 아니고 그냥 보고 싶어 그래", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "웃지 말고 대답해줄래",
+      "translation": "不要笑 回答我好嗎",
+      "analysis": [
+        { "point": "웃지 말고 대답해줄래", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "그럼 나 괜히 설레",
+      "translation": "那樣我就會莫名心動",
+      "analysis": [
+        { "point": "그럼 나 괜히 설레", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "장난치지 말고 내게 답 해줄래",
+      "translation": "別開玩笑了 回答我吧",
+      "analysis": [
+        { "point": "장난치지 말고 내게 답 해줄래", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "혹시 근데 말이야",
+      "translation": "不過 話說回來",
+      "analysis": [
+        { "point": "혹시 근데 말이야", "explanation": "혹시 (或許) + 근데 (但是) + 말이다 (就是說) 的口語形。" }
+      ]
+    },
+    {
+      "korean": "내 고백 말이야",
+      "translation": "我的告白啊",
+      "analysis": [
+        { "point": "내 고백 말이야", "explanation": "내 (我的) + 고백 (告白) + 말이다 (就是說)。" }
+      ]
+    },
+    {
+      "korean": "답 안 해줬잖아 너는 나 어떤 것 같애",
+      "translation": "你不是沒有回答我嗎 你覺得我怎麼樣",
+      "analysis": [
+        { "point": "답 안 해줬잖아", "explanation": "답 (回答) + 안 (不) + 해주다 (為我做) 的過去形 + -잖아 (不是嗎)。" },
+        { "point": "너는", "explanation": "你 + -는 (主題)。" },
+        { "point": "나 어떤 것 같애", "explanation": "나 (我) + 어떤 (怎樣的) + 것 같다 (好像) 的口語形。" }
+      ]
+    },
+    {
+      "korean": "부담 안 가져도 돼",
+      "translation": "不用有負擔",
+      "analysis": [
+        { "point": "부담 안 가져도 돼", "explanation": "부담 (負擔) + 안 (不) + 가지다 (有) + -아/어도 되다 (也可以) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "진짜야 나는 괜찮아",
+      "translation": "是真的 我沒關係",
+      "analysis": [
+        { "point": "진짜야", "explanation": "진짜 (真的) + -야 (是)。" },
+        { "point": "나는 괜찮아", "explanation": "나는 (我) + 괜찮다 (沒關係) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "마음이 정리될 때까지 기다릴게",
+      "translation": "我會等你整理好心緒",
+      "analysis": [
+        { "point": "마음이", "explanation": "마음 (心) + -이 (主格)。" },
+        { "point": "정리될 때까지", "explanation": "정리되다 (被整理) + -(으)ㄹ 때까지 (直到...的時候)。" },
+        { "point": "기다릴게", "explanation": "기다리다 (等待) + -(으)ㄹ게 (表示意志)。" }
+      ]
+    },
+    {
+      "korean": "내가 그리 갈게",
+      "translation": "我會那樣的",
+      "analysis": [
+        { "point": "내가", "explanation": "我 + -가 (主格)。" },
+        { "point": "그리 갈게", "explanation": "그리 (那樣) + 가다 (去) + -(으)ㄹ게 (意志)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "흠 아마도 내가",
+      "translation": "嗯 也許我",
+      "analysis": [
+        { "point": "흠", "explanation": "感嘆詞，嗯。" },
+        { "point": "아마도", "explanation": "副詞，大概、也許。" },
+        { "point": "내가", "explanation": "我 + -가 (主格)。" }
+      ]
+    },
+    {
+      "korean": "이런 맘을 보내다 보면",
+      "translation": "如果持續這樣表達心意",
+      "analysis": [
+        { "point": "이런 맘을", "explanation": "이런 (這樣的) + 마음 (心) 的縮略 + -을 (受格)。" },
+        { "point": "보내다 보면", "explanation": "보내다 (送出、表達) + -다 보면 (如果持續做...就會)。" }
+      ]
+    },
+    {
+      "korean": "너에게 닿겠지만",
+      "translation": "應該會傳達給你",
+      "analysis": [
+        { "point": "너에게", "explanation": "你 + -에게 (向)。" },
+        { "point": "닿겠지만", "explanation": "닿다 (觸及) + -겠- (推測) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "혹시 그렇게 되진 못하더라도",
+      "translation": "即使沒能那樣",
+      "analysis": [
+        { "point": "혹시", "explanation": "或許。" },
+        { "point": "그렇게 되진 못하더라도", "explanation": "그렇게 (那樣) + 되다 (成為) + -지 (強調) + -는 (主題) + 못하다 (不能) + -더라도 (即使...也)。" }
+      ]
+    },
+    {
+      "korean": "이 순간만큼은",
+      "translation": "至少這個瞬間",
+      "analysis": [
+        { "point": "이 순간만큼은", "explanation": "이 (這) + 순간 (瞬間) + -만큼 (程度) + -은 (強調)。" }
+      ]
+    },
+    {
+      "korean": "설렜던 기억으로 남기를",
+      "translation": "希望作為心動的記憶留存",
+      "analysis": [
+        { "point": "설렜던", "explanation": "설레다 (心動) 的過去回想着定語形。" },
+        { "point": "기억으로 남기를", "explanation": "기억 (記憶) + -(으)로 (作為) + 남다 (留下) + -기를 (希望)。" }
+      ]
+    },
+    {
+      "korean": "이대로 너와 내 시간이",
+      "translation": "就這樣 你和我 我們的時間",
+      "analysis": [
+        { "point": "이대로", "explanation": "副詞，就這樣。" },
+        { "point": "너와 내 시간이", "explanation": "너 (你) + -와 (和) + 내 (我的) + 시간 (時間) + -이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "멈춰버렸음 해",
+      "translation": "希望就這樣停住",
+      "analysis": [
+        { "point": "멈춰버렸음 해", "explanation": "멈추다 (停止) + -아/어 버리다 (完了) 的過去名詞形 + 하다 (希望) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "아직 우린 아무 사이도 아닌데",
+      "translation": "我們還什麼關係都不是",
+      "analysis": [
+        { "point": "아직", "explanation": "副詞，還。" },
+        { "point": "우린", "explanation": "우리는 (我們) 的縮略。" },
+        { "point": "아무 사이도 아닌데", "explanation": "아무 (任何) + 사이 (關係) + -도 (也) + 아니다 (不是) + -ㄴ데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "난 괜히 그래",
+      "translation": "我卻莫名這樣",
+      "analysis": [
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "괜히", "explanation": "副詞，莫名地。" },
+        { "point": "그래", "explanation": "그렇다 (那樣) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 3",
+      "korean": "할 얘기가 많은데",
+      "translation": "想說的話很多",
+      "analysis": [
+        { "point": "할 얘기가 많은데", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "마침 너희 집 근처야",
+      "translation": "剛好在你家附近",
+      "analysis": [
+        { "point": "마침 너희 집 근처야", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "혹시나 괜찮다면",
+      "translation": "如果你不介意的話",
+      "analysis": [
+        { "point": "혹시나 괜찮다면", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "잠깐 시간 될까",
+      "translation": "方便聊一下嗎",
+      "analysis": [
+        { "point": "잠깐 시간 될까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "만날 수 있을까",
+      "translation": "能見面嗎",
+      "analysis": [
+        { "point": "만날 수 있을까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "별일은 아니고 그냥 보고 싶어 그래",
+      "translation": "不是什麼特別的事，就是想你了",
+      "analysis": [
+        { "point": "별일은 아니고 그냥 보고 싶어 그래", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "웃지 말고 대답해줄래",
+      "translation": "不要笑 回答我好嗎",
+      "analysis": [
+        { "point": "웃지 말고 대답해줄래", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "그럼 나 괜히 설레",
+      "translation": "那樣我就會莫名心動",
+      "analysis": [
+        { "point": "그럼 나 괜히 설레", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "장난치지 말고 내게 답 해줄래",
+      "translation": "別開玩笑了 回答我吧",
+      "analysis": [
+        { "point": "장난치지 말고 내게 답 해줄래", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "내가 그리 갈게",
+      "translation": "我會那樣的",
+      "analysis": [
+        { "point": "내가 그리 갈게", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "잠깐 시간 될까",
+      "translation": "方便聊一下嗎",
+      "analysis": [
+        { "point": "잠깐 시간 될까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "그 한마디보다",
+      "translation": "比起那句話",
+      "analysis": [
+        { "point": "그 한마디보다", "explanation": "그 (那) + 한마디 (一句話) + -보다 (比起)。" }
+      ]
+    },
+    {
+      "korean": "사실 지금 당장 널 보러 가고 싶은데",
+      "translation": "其實我現在就想立刻去見你",
+      "analysis": [
+        { "point": "사실", "explanation": "名詞/副詞，事實/其實。" },
+        { "point": "지금 당장", "explanation": "지금 (現在) + 당장 (立刻)。" },
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "보러 가고 싶은데", "explanation": "보다 (看) + -러 가다 (去) + -고 싶다 (想要) + -ㄴ데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "이게 맘처럼 안 돼",
+      "translation": "卻不能如願",
+      "analysis": [
+        { "point": "이게", "explanation": "이것이 (這個) 的縮略。" },
+        { "point": "맘처럼", "explanation": "마음 (心) 的縮略 + -처럼 (像...一樣)。" },
+        { "point": "안 돼", "explanation": "안 (不) + 되다 (行) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그냥 보고 싶어 나 너 좋아해",
+      "translation": "就是想你 我喜歡你",
+      "analysis": [
+        { "point": "그냥 보고 싶어", "explanation": "그냥 (就) + 보고 싶다 (想念) 的非格式體。" },
+        { "point": "나 너 좋아해", "explanation": "나 (我) + 너 (你) + 좋아하다 (喜歡) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "말로 다 못할 정도야 널 좋아해",
+      "translation": "喜歡你到無法用言語表達的程度",
+      "analysis": [
+        { "point": "말로", "explanation": "말 (話) + -(으)로 (用)。" },
+        { "point": "다 못할 정도야", "explanation": "다 (全部) + 못하다 (不能) + -(으)ㄹ 정도 (程度) + -야 (是)。" },
+        { "point": "널 좋아해", "explanation": "너를 (你) 的縮略 + 좋아하다 (喜歡) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 보고 싶단 말",
+      "translation": "想你的這句話",
+      "analysis": [
+        { "point": "널 보고 싶단 말", "explanation": "널 (你) + 보고 싶다 (想念) + -단 (引用) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "날 안아달란 말",
+      "translation": "請擁抱我的這句話",
+      "analysis": [
+        { "point": "날 안아달란 말", "explanation": "날 (我) + 안다 (擁抱) + -아/어 달라 (請求對方為自己做) + -ㄴ (定語形) + 말 (話)。" }
+      ]
+    },
+    {
+      "korean": "너에게 했던 모든 말 전부 다 진심이야",
+      "translation": "對你說過的所有話 全部都是真心的",
+      "analysis": [
+        { "point": "너에게 했던", "explanation": "너에게 (對你) + 하다 (說) 的過去回想着定語形。" },
+        { "point": "모든 말 전부 다", "explanation": "모든 (所有的) + 말 (話) + 전부 (全部) + 다 (都)。" },
+        { "point": "진심이야", "explanation": "진심 (真心) + -이야 (是)。" }
+      ]
+    },
+    {
+      "korean": "단 한 순간도 가볍거나 쉽게 생각했던 적 없어",
+      "translation": "從未有一瞬間輕率或輕易地想過",
+      "analysis": [
+        { "point": "단 한 순간도", "explanation": "단 (僅僅) + 한 (一) + 순간 (瞬間) + -도 (也)。" },
+        { "point": "가볍거나 쉽게 생각했던 적 없어", "explanation": "가볍다 (輕率的) + -거나 (或者) + 쉽다 (容易的) + -게 (副詞) + 생각하다 (想) 的過去回想着定語形 + 적 (經驗) + 없다 (沒有)。" }
+      ]
+    },
+    {
+      "korean": "이젠 너도 답 해줄래",
+      "translation": "現在你也回答我吧",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "너도", "explanation": "你 + -도 (也)。" },
+        { "point": "답 해줄래", "explanation": "답 (回答) + 하다 (做) + -아/어 주다 (為我) + -(으)ㄹ래 (請求)。" }
+      ]
+    },
+    {
+      "korean": "내가 그리 갈게",
+      "translation": "我會那樣的",
+      "analysis": [
+        { "point": "내가 그리 갈게", "explanation": "同上。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "잠깐", "chinese": "暫時", "pos": "副詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "되다", "chinese": "成為、有", "pos": "動詞" },
+    { "korean": "만나다", "chinese": "見面", "pos": "動詞" },
+    { "korean": "별일", "chinese": "特別的事", "pos": "名詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "그냥", "chinese": "就、只是", "pos": "副詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "片語" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "대답하다", "chinese": "回答", "pos": "動詞" },
+    { "korean": "괜히", "chinese": "無端地", "pos": "副詞" },
+    { "korean": "설레다", "chinese": "心動", "pos": "動詞" },
+    { "korean": "장난치다", "chinese": "開玩笑", "pos": "動詞" },
+    { "korean": "생각하다", "chinese": "想", "pos": "動詞" },
+    { "korean": "반갑다", "chinese": "高興", "pos": "形容詞" },
+    { "korean": "아마", "chinese": "大概", "pos": "副詞" },
+    { "korean": "인사", "chinese": "問候", "pos": "名詞" },
+    { "korean": "다가서다", "chinese": "靠近", "pos": "動詞" },
+    { "korean": "거리", "chinese": "距離", "pos": "名詞" },
+    { "korean": "좁히다", "chinese": "縮窄", "pos": "動詞" },
+    { "korean": "망설이다", "chinese": "猶豫", "pos": "動詞" },
+    { "korean": "시작하다", "chinese": "開始", "pos": "動詞" },
+    { "korean": "누구", "chinese": "誰", "pos": "代名詞" },
+    { "korean": "예쁘다", "chinese": "美麗的", "pos": "形容詞" },
+    { "korean": "혹시", "chinese": "或許", "pos": "副詞" },
+    { "korean": "얘기", "chinese": "話", "pos": "名詞" },
+    { "korean": "많다", "chinese": "多", "pos": "形容詞" },
+    { "korean": "마침", "chinese": "剛好", "pos": "副詞" },
+    { "korean": "너희", "chinese": "你們", "pos": "代名詞" },
+    { "korean": "집", "chinese": "家", "pos": "名詞" },
+    { "korean": "근처", "chinese": "附近", "pos": "名詞" },
+    { "korean": "괜찮다", "chinese": "沒關係", "pos": "形容詞" },
+    { "korean": "고백", "chinese": "告白", "pos": "名詞" },
+    { "korean": "부담", "chinese": "負擔", "pos": "名詞" },
+    { "korean": "가지다", "chinese": "有", "pos": "動詞" },
+    { "korean": "진짜", "chinese": "真的", "pos": "副詞" },
+    { "korean": "정리되다", "chinese": "被整理", "pos": "動詞" },
+    { "korean": "기다리다", "chinese": "等待", "pos": "動詞" },
+    { "korean": "흠", "chinese": "嗯", "pos": "感嘆詞" },
+    { "korean": "보내다", "chinese": "送出、表達", "pos": "動詞" },
+    { "korean": "닿다", "chinese": "觸及", "pos": "動詞" },
+    { "korean": "못하다", "chinese": "不能", "pos": "動詞" },
+    { "korean": "남다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "멈추다", "chinese": "停止", "pos": "動詞" },
+    { "korean": "아직", "chinese": "還", "pos": "副詞" },
+    { "korean": "사이", "chinese": "關係", "pos": "名詞" },
+    { "korean": "한마디", "chinese": "一句話", "pos": "名詞" },
+    { "korean": "사실", "chinese": "其實", "pos": "副詞" },
+    { "korean": "당장", "chinese": "立刻", "pos": "副詞" },
+    { "korean": "좋아하다", "chinese": "喜歡", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "진심", "chinese": "真心", "pos": "名詞" },
+    { "korean": "단", "chinese": "僅僅", "pos": "副詞" },
+    { "korean": "순간", "chinese": "瞬間", "pos": "名詞" },
+    { "korean": "가볍다", "chinese": "輕率的", "pos": "形容詞" },
+    { "korean": "쉽다", "chinese": "容易的", "pos": "形容詞" },
+    { "korean": "이젠", "chinese": "現在", "pos": "副詞" }
+  ]
+}
