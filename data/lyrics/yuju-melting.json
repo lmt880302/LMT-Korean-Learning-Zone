@@ -1,0 +1,392 @@
+{
+  "id": "yuju-melting",
+  "title": "Melting (사랑인 걸까)",
+  "artist": "YUJU (유주) (Feat. DINDIN)",
+  "lines": [
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 보면 내 맘이 녹아 내려와",
+      "translation": "看見你 我的心就融化流淌",
+      "analysis": [
+        { "point": "널 보면", "explanation": "너를 (你) 的縮略 + 보다 (看) + -(으)면 (如果/每當)。" },
+        { "point": "내 맘이", "explanation": "내 (我的) + 마음 (心) 的縮略 + -이 (主格助詞)。" },
+        { "point": "녹아 내려와", "explanation": "녹다 (融化) + -아/어 내리다 (往下) + -아/어 오다 (來)，意為「融化流淌下來」。" }
+      ]
+    },
+    {
+      "korean": "자꾸만 맴돌고 내게 아른거려",
+      "translation": "總是在徘徊 在我眼前若隱若現",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "副詞，不停地、總是。" },
+        { "point": "맴돌고", "explanation": "맴돌다 (徘徊、盤旋) + -고 (連接詞尾)。" },
+        { "point": "내게", "explanation": "나에게 (向我) 的縮略。" },
+        { "point": "아른거려", "explanation": "아른거리다 (若隱若現、晃動) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑인 걸까 말을 해볼까",
+      "translation": "這是愛情嗎 要說出來嗎",
+      "analysis": [
+        { "point": "이게", "explanation": "이것이 (這個) 的縮略。" },
+        { "point": "사랑인 걸까", "explanation": "사랑 (愛情) + -인 (是) + 것 (事情) + -일까 (會是...呢) 的縮略。" },
+        { "point": "말을 해볼까", "explanation": "말 (話) + -을 (受格助詞) + 하다 (說) + -아/어 보다 (嘗試) + -(으)ㄹ까 (疑問)。" }
+      ]
+    },
+    {
+      "korean": "심장이 터질 것 같아",
+      "translation": "心臟像要爆炸一樣",
+      "analysis": [
+        { "point": "심장이", "explanation": "심장 (心臟) + -이 (主格助詞)。" },
+        { "point": "터질 것 같아", "explanation": "터지다 (爆炸) + -(으)ㄹ 것 같다 (好像要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "숨길 수 없잖아",
+      "translation": "無法隱藏不是嗎",
+      "analysis": [
+        { "point": "숨길 수 없잖아", "explanation": "숨기다 (隱藏) + -(으)ㄹ 수 없다 (無法) + -잖아 (不是嗎)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "널 처음 봤을 때부터 뭔가 조금 이상했어",
+      "translation": "從第一次見到你的時候開始 就覺得有點奇怪",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "처음 봤을 때부터", "explanation": "처음 (第一次) + 보다 (看) 的過去時定語形 + 때 (時候) + -부터 (從...起)。" },
+        { "point": "뭔가", "explanation": "무언가 (某種東西) 的縮略。" },
+        { "point": "조금", "explanation": "副詞，稍微。" },
+        { "point": "이상했어", "explanation": "이상하다 (奇怪的) 的過去非格式體。" }
+      ]
+    },
+    {
+      "korean": "널 만난 건 우연이 아니야",
+      "translation": "遇見你不是偶然",
+      "analysis": [
+        { "point": "널 만난 건", "explanation": "너를 (你) 的縮略 + 만나다 (遇見) 的過去定語形 + 것 (事情) + -이 (主格助詞) 的縮略。" },
+        { "point": "우연이 아니야", "explanation": "우연 (偶然) + -이 (主格助詞) + 아니다 (不是) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "유난히 너를 바라보면",
+      "translation": "特別地 每當凝視你的時候",
+      "analysis": [
+        { "point": "유난히", "explanation": "副詞，特別地。" },
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "바라보면", "explanation": "바라보다 (凝視) + -(으)면 (如果/每當)。" }
+      ]
+    },
+    {
+      "korean": "세상이 다르게 보여 나 사랑인 걸까",
+      "translation": "世界看起來不一樣了 這是愛情嗎",
+      "analysis": [
+        { "point": "세상이", "explanation": "세상 (世界) + -이 (主格助詞)。" },
+        { "point": "다르게", "explanation": "다르다 (不同的) 的副詞形。" },
+        { "point": "보여", "explanation": "보이다 (被看見) 的非格式體。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "사랑인 걸까", "explanation": "사랑 (愛情) + -인 (是) + 것 (事情) + -일까 (會是...呢) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "매번 티격대도 다시 네가 생각나",
+      "translation": "每次吵吵鬧鬧 又會想起你",
+      "analysis": [
+        { "point": "매번", "explanation": "副詞，每次。" },
+        { "point": "티격대도", "explanation": "티격대다 (吵吵鬧鬧、拌嘴) + -아/어도 (即使)。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "생각나", "explanation": "생각나다 (想起來) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "All day and All night 왜일까",
+      "translation": "All day and All night 為什麼呢",
+      "analysis": [
+        { "point": "All day and All night", "explanation": "英文，整天整夜。" },
+        { "point": "왜일까", "explanation": "왜 (為什麼) + -일까 (會是...呢)。" }
+      ]
+    },
+    {
+      "korean": "평소 같지 않은 낯선 이 기분",
+      "translation": "不像平常的 陌生的這感覺",
+      "analysis": [
+        { "point": "평소 같지 않은", "explanation": "평소 (平常) + 같다 (像) + -지 않다 (不) 的定語形。" },
+        { "point": "낯선", "explanation": "낯설다 (陌生的) 的定語形。" },
+        { "point": "이 기분", "explanation": "이 (這) + 기분 (感覺)。" }
+      ]
+    },
+    {
+      "korean": "네가 좀 달라 보여",
+      "translation": "你看起來有點不一樣",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格助詞)。" },
+        { "point": "좀", "explanation": "副詞，稍微、有點。" },
+        { "point": "달라 보여", "explanation": "다르다 (不同) + -아/어 보이다 (看起來) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 보면 내 맘이 녹아 내려와",
+      "translation": "看見你 我的心就融化流淌",
+      "analysis": [
+        { "point": "널 보면 내 맘이 녹아 내려와", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "자꾸만 맴돌고 내게 아른거려",
+      "translation": "總是在徘徊 在我眼前若隱若現",
+      "analysis": [
+        { "point": "자꾸만 맴돌고 내게 아른거려", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑인 걸까 말을 해볼까",
+      "translation": "這是愛情嗎 要說出來嗎",
+      "analysis": [
+        { "point": "이게 사랑인 걸까 말을 해볼까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "심장이 터질 것 같아",
+      "translation": "心臟像要爆炸一樣",
+      "analysis": [
+        { "point": "심장이 터질 것 같아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "숨길 수 없잖아",
+      "translation": "無法隱藏不是嗎",
+      "analysis": [
+        { "point": "숨길 수 없잖아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "혼자 착각하는 걸까 나 혼자 이러는 걸까",
+      "translation": "是我一個人在誤會嗎 是我一個人在這樣嗎",
+      "analysis": [
+        { "point": "혼자", "explanation": "副詞，獨自。" },
+        { "point": "착각하는 걸까", "explanation": "착각하다 (誤會、錯覺) + -는 것일까 (會是...嗎) 的縮略。" },
+        { "point": "나", "explanation": "我。" },
+        { "point": "혼자 이러는 걸까", "explanation": "혼자 (獨自) + 이러다 (這樣) + -는 것일까 (會是...嗎) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "네 마음을 나는 알고 싶어",
+      "translation": "我想知道你的心",
+      "analysis": [
+        { "point": "네 마음을", "explanation": "네 (你的) + 마음 (心) + -을 (受格助詞)。" },
+        { "point": "나는", "explanation": "我 + -는 (主題助詞)。" },
+        { "point": "알고 싶어", "explanation": "알다 (知道) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "이상해 너를 바라보면",
+      "translation": "好奇怪 每當凝視你的時候",
+      "analysis": [
+        { "point": "이상해", "explanation": "이상하다 (奇怪的) 的非格式體。" },
+        { "point": "너를", "explanation": "你 + -를 (受格助詞)。" },
+        { "point": "바라보면", "explanation": "바라보다 (凝視) + -(으)면 (如果/每當)。" }
+      ]
+    },
+    {
+      "korean": "나도 모르게 웃음이 나 사랑인 걸까",
+      "translation": "不知不覺就笑了出來 這是愛情嗎",
+      "analysis": [
+        { "point": "나도 모르게", "explanation": "나 (我) + -도 (也) + 모르다 (不知道) + -게 (使得)，意為「不知不覺地」。" },
+        { "point": "웃음이 나", "explanation": "웃음 (笑) + -이 (主格助詞) + 나다 (出來)，意為「笑出來」。" },
+        { "point": "사랑인 걸까", "explanation": "사랑 (愛情) + -인 (是) + 것 (事情) + -일까 (會是...呢) 的縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Pre-Chorus",
+      "korean": "매번 티격대도 다시 네가 생각나",
+      "translation": "每次吵吵鬧鬧 又會想起你",
+      "analysis": [
+        { "point": "매번 티격대도 다시 네가 생각나", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "All day and All night 왜일까",
+      "translation": "All day and All night 為什麼呢",
+      "analysis": [
+        { "point": "All day and All night 왜일까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "평소 같지 않은 낯선 이 기분",
+      "translation": "不像平常的 陌生的這感覺",
+      "analysis": [
+        { "point": "평소 같지 않은 낯선 이 기분", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "네가 좀 달라 보여",
+      "translation": "你看起來有點不一樣",
+      "analysis": [
+        { "point": "네가 좀 달라 보여", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "널 보면 내 맘이 녹아 내려와",
+      "translation": "看見你 我的心就融化流淌",
+      "analysis": [
+        { "point": "널 보면 내 맘이 녹아 내려와", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "자꾸만 맴돌고 내게 아른거려",
+      "translation": "總是在徘徊 在我眼前若隱若現",
+      "analysis": [
+        { "point": "자꾸만 맴돌고 내게 아른거려", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑인 걸까 말을 해볼까",
+      "translation": "這是愛情嗎 要說出來嗎",
+      "analysis": [
+        { "point": "이게 사랑인 걸까 말을 해볼까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "심장이 터질 것 같아",
+      "translation": "心臟像要爆炸一樣",
+      "analysis": [
+        { "point": "심장이 터질 것 같아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "숨길 수 없잖아",
+      "translation": "無法隱藏不是嗎",
+      "analysis": [
+        { "point": "숨길 수 없잖아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "오늘도 널 보며 난 웃고 있어",
+      "translation": "今天也看著你 我在笑著",
+      "analysis": [
+        { "point": "오늘도", "explanation": "오늘 (今天) + -도 (也)。" },
+        { "point": "널 보며", "explanation": "너를 (你) 的縮略 + 보다 (看) + -며 (同時)。" },
+        { "point": "난", "explanation": "나는 (我) 的縮略。" },
+        { "point": "웃고 있어", "explanation": "웃다 (笑) + -고 있다 (正在) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "너의 맘을 알고 싶어",
+      "translation": "想知道你的心意",
+      "analysis": [
+        { "point": "너의 맘을", "explanation": "너의 (你的) + 마음 (心) 的縮略 + -을 (受格助詞)。" },
+        { "point": "알고 싶어", "explanation": "알다 (知道) + -고 싶다 (想要) 的非格式體。" }
+      ]
+    },
+    {
+      "sectionTitle": "Final Chorus",
+      "korean": "말해줘 너와 나 사랑이라고",
+      "translation": "告訴我 說你和我 是愛情",
+      "analysis": [
+        { "point": "말해줘", "explanation": "말하다 (說) + -아/어 주다 (為我) 的請求形。" },
+        { "point": "너와 나", "explanation": "你和我。" },
+        { "point": "사랑이라고", "explanation": "사랑 (愛情) + -이라고 (引用，意為「說是...」)。" }
+      ]
+    },
+    {
+      "korean": "자꾸만 맴돌고 아른거린다고",
+      "translation": "說總是在徘徊 若隱若現",
+      "analysis": [
+        { "point": "자꾸만", "explanation": "總是。" },
+        { "point": "맴돌고", "explanation": "맴돌다 (徘徊) + -고 (連接)。" },
+        { "point": "아른거린다고", "explanation": "아른거리다 (若隱若現) + -ㄴ다고 (引用，意為「說...」)。" }
+      ]
+    },
+    {
+      "korean": "이게 사랑인 걸까 말을 해볼까",
+      "translation": "這是愛情嗎 要說出來嗎",
+      "analysis": [
+        { "point": "이게 사랑인 걸까 말을 해볼까", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "심장이 터질 것 같아",
+      "translation": "心臟像要爆炸一樣",
+      "analysis": [
+        { "point": "심장이 터질 것 같아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "숨길 수 없잖아",
+      "translation": "無法隱藏不是嗎",
+      "analysis": [
+        { "point": "숨길 수 없잖아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "숨길 수 없잖아",
+      "translation": "無法隱藏不是嗎",
+      "analysis": [
+        { "point": "숨길 수 없잖아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Outro",
+      "korean": "심장이 터질 것 같아",
+      "translation": "心臟像要爆炸一樣",
+      "analysis": [
+        { "point": "심장이 터질 것 같아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "숨길 수 없잖아",
+      "translation": "無法隱藏不是嗎",
+      "analysis": [
+        { "point": "숨길 수 없잖아", "explanation": "同上。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "녹다", "chinese": "融化", "pos": "動詞" },
+    { "korean": "내려오다", "chinese": "下來", "pos": "動詞" },
+    { "korean": "맴돌다", "chinese": "徘徊", "pos": "動詞" },
+    { "korean": "아른거리다", "chinese": "若隱若現", "pos": "動詞" },
+    { "korean": "사랑", "chinese": "愛情", "pos": "名詞" },
+    { "korean": "심장", "chinese": "心臟", "pos": "名詞" },
+    { "korean": "터지다", "chinese": "爆炸", "pos": "動詞" },
+    { "korean": "숨기다", "chinese": "隱藏", "pos": "動詞" },
+    { "korean": "처음", "chinese": "第一次", "pos": "副詞" },
+    { "korean": "보다", "chinese": "看", "pos": "動詞" },
+    { "korean": "이상하다", "chinese": "奇怪的", "pos": "形容詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "우연", "chinese": "偶然", "pos": "名詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "유난히", "chinese": "特別地", "pos": "副詞" },
+    { "korean": "바라보다", "chinese": "凝視", "pos": "動詞" },
+    { "korean": "세상", "chinese": "世界", "pos": "名詞" },
+    { "korean": "다르다", "chinese": "不同的", "pos": "形容詞" },
+    { "korean": "보이다", "chinese": "被看見", "pos": "動詞" },
+    { "korean": "매번", "chinese": "每次", "pos": "副詞" },
+    { "korean": "티격대다", "chinese": "吵吵鬧鬧", "pos": "動詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "생각나다", "chinese": "想起來", "pos": "動詞" },
+    { "korean": "왜", "chinese": "為什麼", "pos": "副詞" },
+    { "korean": "평소", "chinese": "平常", "pos": "名詞" },
+    { "korean": "같다", "chinese": "像", "pos": "形容詞" },
+    { "korean": "낯설다", "chinese": "陌生的", "pos": "形容詞" },
+    { "korean": "기분", "chinese": "感覺", "pos": "名詞" },
+    { "korean": "좀", "chinese": "稍微", "pos": "副詞" },
+    { "korean": "혼자", "chinese": "獨自", "pos": "副詞" },
+    { "korean": "착각하다", "chinese": "誤會", "pos": "動詞" },
+    { "korean": "이러다", "chinese": "這樣", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "모르게", "chinese": "不知不覺地", "pos": "副詞" },
+    { "korean": "웃음", "chinese": "笑", "pos": "名詞" },
+    { "korean": "나다", "chinese": "出來", "pos": "動詞" },
+    { "korean": "오늘", "chinese": "今天", "pos": "名詞" },
+    { "korean": "웃다", "chinese": "笑", "pos": "動詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" },
+    { "korean": "아른거리다", "chinese": "若隱若現", "pos": "動詞" }
+  ]
+}

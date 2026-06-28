@@ -1,0 +1,388 @@
+{
+  "id": "kid-wine-its-not-that-i-dont-love-you",
+  "title": "It's Not That I Don't Love You (너를 사랑하지 않는 맘이 아냐)",
+  "artist": "kid wine (Feat. YUJU)",
+  "lines": [
+    {
+      "sectionTitle": "Verse 1",
+      "korean": "참 웃긴 것 같아",
+      "translation": "真的很可笑",
+      "analysis": [
+        { "point": "참", "explanation": "副詞，真、非常。" },
+        { "point": "웃긴 것 같아", "explanation": "웃기다 (可笑的) + -ㄴ 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우리가 만난 그 시간보다",
+      "translation": "比起我們相遇的那段時間",
+      "analysis": [
+        { "point": "우리가 만난", "explanation": "우리 (我們) + -가 (主格) + 만나다 (見面) 的過去定語形。" },
+        { "point": "그 시간보다", "explanation": "그 (那) + 시간 (時間) + -보다 (比起)。" }
+      ]
+    },
+    {
+      "korean": "헤어진 날이 더 많을 거란걸",
+      "translation": "分開的日子會更多",
+      "analysis": [
+        { "point": "헤어진", "explanation": "헤어지다 (分開) 的過去定語形。" },
+        { "point": "날이", "explanation": "날 (日子) + -이 (主格助詞)。" },
+        { "point": "더 많을 거란걸", "explanation": "더 (更) + 많다 (多) + -(으)ㄹ 것 (將要) + -이라는 걸 (是...的事) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "이제서야 알게 된 것 같아",
+      "translation": "現在才好像知道了",
+      "analysis": [
+        { "point": "이제서야", "explanation": "副詞，現在才。" },
+        { "point": "알게 된 것 같아", "explanation": "알다 (知道) + -게 되다 (變得) + -ㄴ 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "참 좋을 것 같아",
+      "translation": "會很好",
+      "analysis": [
+        { "point": "참", "explanation": "真。" },
+        { "point": "좋을 것 같아", "explanation": "좋다 (好) + -(으)ㄹ 것 같다 (好像會) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "우리가 다시 만난다면",
+      "translation": "如果我們再次相遇",
+      "analysis": [
+        { "point": "우리가", "explanation": "我們 + -가 (主格)。" },
+        { "point": "다시", "explanation": "副詞，再次。" },
+        { "point": "만난다면", "explanation": "만나다 (遇見) + -ㄴ다면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "그대만 생각하면",
+      "translation": "只要想到你",
+      "analysis": [
+        { "point": "그대만", "explanation": "그대 (你) + -만 (只)。" },
+        { "point": "생각하면", "explanation": "생각하다 (想) + -(으)면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "내 맘은 다시 아파",
+      "translation": "我的心就再次疼痛",
+      "analysis": [
+        { "point": "내 맘은", "explanation": "내 (我的) + 마음 (心) 的縮略 + -은 (主題)。" },
+        { "point": "다시", "explanation": "再次。" },
+        { "point": "아파", "explanation": "아프다 (痛) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "그 밤의 여름처럼",
+      "translation": "就像那個夏夜",
+      "analysis": [
+        { "point": "그 밤의", "explanation": "그 (那) + 밤 (夜晚) + -의 (的)。" },
+        { "point": "여름처럼", "explanation": "여름 (夏天) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 사랑하지 않는 맘이 아냐",
+      "translation": "不是不愛你的心",
+      "analysis": [
+        { "point": "너를", "explanation": "너 (你) + -를 (受格)。" },
+        { "point": "사랑하지 않는", "explanation": "사랑하다 (愛) + -지 않다 (不) 的定語形。" },
+        { "point": "맘이 아냐", "explanation": "마음 (心) 的縮略 + -이 (主格) + 아니다 (不是) 的口語形。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해서 보내주는 거야",
+      "translation": "是因為愛你才放手的",
+      "analysis": [
+        { "point": "널", "explanation": "너를 (你) 的縮略。" },
+        { "point": "사랑해서", "explanation": "사랑하다 (愛) + -아/어서 (因為)。" },
+        { "point": "보내주는 거야", "explanation": "보내다 (送、放開) + -아/어 주다 (為你) + -는 것이야 (是) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "돌아보지 말고",
+      "translation": "不要回頭看",
+      "analysis": [
+        { "point": "돌아보지 말고", "explanation": "돌아보다 (回頭看) + -지 말다 (不要) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "붙잡지도 말고",
+      "translation": "也不要挽留",
+      "analysis": [
+        { "point": "붙잡지도 말고", "explanation": "붙잡다 (挽留、抓住) + -지도 (也) + 말다 (不要) + -고 (連接)。" }
+      ]
+    },
+    {
+      "korean": "반대로 살아 보는 거야",
+      "translation": "試著反向地生活",
+      "analysis": [
+        { "point": "반대로", "explanation": "副詞，反向地。" },
+        { "point": "살아 보는 거야", "explanation": "살다 (活) + -아/어 보다 (嘗試) + -는 것이야 (是) 的口語縮略。" }
+      ]
+    },
+    {
+      "korean": "이건 우리가 원한 모습이 아냐",
+      "translation": "這不是我們想要的樣子",
+      "analysis": [
+        { "point": "이건", "explanation": "이것은 (這個) 的縮略。" },
+        { "point": "우리가 원한", "explanation": "우리 (我們) + -가 (主格) + 원하다 (想要) 的過去定語形。" },
+        { "point": "모습이 아냐", "explanation": "모습 (模樣) + -이 (主格) + 아니다 (不是) 的口語形。" }
+      ]
+    },
+    {
+      "korean": "돌아서면 다시 넌 보고 싶겠지만",
+      "translation": "轉身之後 雖然又會想你",
+      "analysis": [
+        { "point": "돌아서면", "explanation": "돌아서다 (轉身) + -(으)면 (如果)。" },
+        { "point": "다시", "explanation": "再次。" },
+        { "point": "넌 보고 싶겠지만", "explanation": "너는 (你) 的縮略 + 보고 싶다 (想念) + -겠- (推測) + -지만 (雖然)。" }
+      ]
+    },
+    {
+      "korean": "사랑했단 말도",
+      "translation": "愛過的話",
+      "analysis": [
+        { "point": "사랑했단 말도", "explanation": "사랑하다 (愛) 的過去形 + -단 (引用) + 말 (話) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "소중했단 말도",
+      "translation": "珍貴過的話",
+      "analysis": [
+        { "point": "소중했단 말도", "explanation": "소중하다 (珍貴的) 的過去形 + -단 (引用) + 말 (話) + -도 (也)。" }
+      ]
+    },
+    {
+      "korean": "이젠 추억에 남는 거야",
+      "translation": "現在只留在回憶中",
+      "analysis": [
+        { "point": "이젠", "explanation": "이제는 (現在) 的縮略。" },
+        { "point": "추억에 남는 거야", "explanation": "추억 (回憶) + -에 (場所) + 남다 (留下) + -는 것이야 (是) 的口語縮略。" }
+      ]
+    },
+    {
+      "sectionTitle": "Verse 2",
+      "korean": "참 웃긴 것 같아",
+      "translation": "真的很可笑",
+      "analysis": [
+        { "point": "참 웃긴 것 같아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "우리가 보낸 그 시간보다",
+      "translation": "比起我們一起度過的時間",
+      "analysis": [
+        { "point": "우리가 보낸", "explanation": "우리 (我們) + -가 (主格) + 보내다 (度過) 的過去定語形。" },
+        { "point": "그 시간보다", "explanation": "그 (那) + 시간 (時間) + -보다 (比起)。" }
+      ]
+    },
+    {
+      "korean": "그리워할 날이 많을 거란 게",
+      "translation": "會思念的日子會更多這件事",
+      "analysis": [
+        { "point": "그리워할", "explanation": "그리워하다 (思念) 的未來定語形。" },
+        { "point": "날이", "explanation": "날 (日子) + -이 (主格)。" },
+        { "point": "많을 거란 게", "explanation": "많다 (多) + -(으)ㄹ 것 (將要) + -이라는 것이 (是...的事) 的縮略。" }
+      ]
+    },
+    {
+      "korean": "이제서야 와닿는 것 같아",
+      "translation": "現在才好像體會到了",
+      "analysis": [
+        { "point": "이제서야", "explanation": "現在才。" },
+        { "point": "와닿는 것 같아", "explanation": "와닿다 (體會、感動) + -는 것 같다 (好像) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "참 좋을 것 같아",
+      "translation": "會很好",
+      "analysis": [
+        { "point": "참 좋을 것 같아", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "가끔은 날 떠올린다면",
+      "translation": "如果偶爾想起我",
+      "analysis": [
+        { "point": "가끔은", "explanation": "가끔 (偶爾) + -은 (強調)。" },
+        { "point": "날", "explanation": "나를 (我) 的縮略。" },
+        { "point": "떠올린다면", "explanation": "떠올리다 (想起) + -ㄴ다면 (如果)。" }
+      ]
+    },
+    {
+      "korean": "네가 건네주던 말들이",
+      "translation": "你曾經傳遞給我的那些話",
+      "analysis": [
+        { "point": "네가", "explanation": "你 + -가 (主格)。" },
+        { "point": "건네주던", "explanation": "건네주다 (傳遞) 的過去回想着定語形。" },
+        { "point": "말들이", "explanation": "말 (話) + -들 (複數) + -이 (主格)。" }
+      ]
+    },
+    {
+      "korean": "내 맘에 그대론데",
+      "translation": "在我心中依舊",
+      "analysis": [
+        { "point": "내 맘에", "explanation": "내 (我的) + 마음 (心) 的縮略 + -에 (場所)。" },
+        { "point": "그대론데", "explanation": "그대로 (照樣、依舊) + -ㄴ데 (轉折)。" }
+      ]
+    },
+    {
+      "korean": "그날의 겨울처럼",
+      "translation": "就像那個冬日",
+      "analysis": [
+        { "point": "그날의", "explanation": "그날 (那天) + -의 (的)。" },
+        { "point": "겨울처럼", "explanation": "겨울 (冬天) + -처럼 (像...一樣)。" }
+      ]
+    },
+    {
+      "sectionTitle": "Chorus",
+      "korean": "너를 사랑하지 않는 맘이 아냐",
+      "translation": "不是不愛你的心",
+      "analysis": [
+        { "point": "너를 사랑하지 않는 맘이 아냐", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "널 사랑해서 보내주는 거야",
+      "translation": "是因為愛你才放手的",
+      "analysis": [
+        { "point": "널 사랑해서 보내주는 거야", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "돌아보지 말고",
+      "translation": "不要回頭看",
+      "analysis": [
+        { "point": "돌아보지 말고", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "붙잡지도 말고",
+      "translation": "也不要挽留",
+      "analysis": [
+        { "point": "붙잡지도 말고", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "반대로 살아 보는 거야",
+      "translation": "試著反向地生活",
+      "analysis": [
+        { "point": "반대로 살아 보는 거야", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "이건 우리가 원한 모습이 아냐",
+      "translation": "這不是我們想要的樣子",
+      "analysis": [
+        { "point": "이건 우리가 원한 모습이 아냐", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "돌아서면 다시 넌 보고 싶겠지만",
+      "translation": "轉身之後 雖然又會想你",
+      "analysis": [
+        { "point": "돌아서면 다시 넌 보고 싶겠지만", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "사랑했단 말도",
+      "translation": "愛過的話",
+      "analysis": [
+        { "point": "사랑했단 말도", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "소중했단 말도",
+      "translation": "珍貴過的話",
+      "analysis": [
+        { "point": "소중했단 말도", "explanation": "同上。" }
+      ]
+    },
+    {
+      "korean": "이젠 추억에 남는 거야",
+      "translation": "現在只留在回憶中",
+      "analysis": [
+        { "point": "이젠 추억에 남는 거야", "explanation": "同上。" }
+      ]
+    },
+    {
+      "sectionTitle": "Bridge",
+      "korean": "시간이 많이 흘러",
+      "translation": "時間流逝了許多",
+      "analysis": [
+        { "point": "시간이", "explanation": "시간 (時間) + -이 (主格)。" },
+        { "point": "많이", "explanation": "副詞，多地。" },
+        { "point": "흘러", "explanation": "흐르다 (流逝) 的非格式體。" }
+      ]
+    },
+    {
+      "korean": "더 흘러도",
+      "translation": "即使再流逝更多",
+      "analysis": [
+        { "point": "더", "explanation": "副詞，更。" },
+        { "point": "흘러도", "explanation": "흐르다 (流逝) + -아/어도 (即使)。" }
+      ]
+    },
+    {
+      "korean": "너를 정말 사랑했다고",
+      "translation": "說真的愛過你",
+      "analysis": [
+        { "point": "너를", "explanation": "你 + -를 (受格)。" },
+        { "point": "정말", "explanation": "副詞，真的。" },
+        { "point": "사랑했다고", "explanation": "사랑하다 (愛) 的過去形 + -고 (引用)。" }
+      ]
+    },
+    {
+      "korean": "말해줄래",
+      "translation": "你能說給我聽嗎",
+      "analysis": [
+        { "point": "말해줄래", "explanation": "말하다 (說) + -아/어 주다 (為我) + -(으)ㄹ래 (疑問/請求)。" }
+      ]
+    }
+  ],
+  "keyVocabulary": [
+    { "korean": "웃기다", "chinese": "可笑的", "pos": "形容詞" },
+    { "korean": "만나다", "chinese": "遇見", "pos": "動詞" },
+    { "korean": "헤어지다", "chinese": "分開", "pos": "動詞" },
+    { "korean": "날", "chinese": "日子", "pos": "名詞" },
+    { "korean": "많다", "chinese": "多", "pos": "形容詞" },
+    { "korean": "이제서야", "chinese": "現在才", "pos": "副詞" },
+    { "korean": "알다", "chinese": "知道", "pos": "動詞" },
+    { "korean": "좋다", "chinese": "好", "pos": "形容詞" },
+    { "korean": "다시", "chinese": "再次", "pos": "副詞" },
+    { "korean": "그대", "chinese": "你", "pos": "代名詞" },
+    { "korean": "생각하다", "chinese": "想", "pos": "動詞" },
+    { "korean": "마음", "chinese": "心", "pos": "名詞" },
+    { "korean": "아프다", "chinese": "痛", "pos": "形容詞" },
+    { "korean": "밤", "chinese": "夜晚", "pos": "名詞" },
+    { "korean": "여름", "chinese": "夏天", "pos": "名詞" },
+    { "korean": "사랑하다", "chinese": "愛", "pos": "動詞" },
+    { "korean": "아니다", "chinese": "不是", "pos": "形容詞" },
+    { "korean": "보내다", "chinese": "送、放開", "pos": "動詞" },
+    { "korean": "돌아보다", "chinese": "回頭看", "pos": "動詞" },
+    { "korean": "붙잡다", "chinese": "挽留", "pos": "動詞" },
+    { "korean": "반대로", "chinese": "反向地", "pos": "副詞" },
+    { "korean": "살다", "chinese": "活", "pos": "動詞" },
+    { "korean": "원하다", "chinese": "想要", "pos": "動詞" },
+    { "korean": "모습", "chinese": "模樣", "pos": "名詞" },
+    { "korean": "돌아서다", "chinese": "轉身", "pos": "動詞" },
+    { "korean": "보고 싶다", "chinese": "想念", "pos": "片語" },
+    { "korean": "소중하다", "chinese": "珍貴的", "pos": "形容詞" },
+    { "korean": "이젠", "chinese": "現在", "pos": "副詞" },
+    { "korean": "추억", "chinese": "回憶", "pos": "名詞" },
+    { "korean": "남다", "chinese": "留下", "pos": "動詞" },
+    { "korean": "보내다", "chinese": "度過", "pos": "動詞" },
+    { "korean": "그리워하다", "chinese": "思念", "pos": "動詞" },
+    { "korean": "와닿다", "chinese": "體會", "pos": "動詞" },
+    { "korean": "가끔", "chinese": "偶爾", "pos": "副詞" },
+    { "korean": "떠올리다", "chinese": "想起", "pos": "動詞" },
+    { "korean": "건네주다", "chinese": "傳遞", "pos": "動詞" },
+    { "korean": "말", "chinese": "話", "pos": "名詞" },
+    { "korean": "그대로", "chinese": "照樣", "pos": "副詞" },
+    { "korean": "겨울", "chinese": "冬天", "pos": "名詞" },
+    { "korean": "시간", "chinese": "時間", "pos": "名詞" },
+    { "korean": "흐르다", "chinese": "流逝", "pos": "動詞" },
+    { "korean": "정말", "chinese": "真的", "pos": "副詞" },
+    { "korean": "말하다", "chinese": "說", "pos": "動詞" }
+  ]
+}

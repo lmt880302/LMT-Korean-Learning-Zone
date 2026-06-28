@@ -12,10 +12,10 @@
     "lyricsFile": "../data/lyrics/lee-mujin-ordinary-confession.json"
   },
   {
-    "id": "_____",
-    "title": "_____",
-    "artist": "______",
-    "lyricsFile": "../data/lyrics/_______________.json"
+    "id": "kid-wine-its-not-that-i-dont-love-you",
+    "title": "It's Not That I Don't Love You (너를 사랑하지 않는 맘이 아냐)",
+    "artist": "Kid Wine (Feat. YUJU)",
+    "lyricsFile": "../data/lyrics/kid-wine-its-not-that-i-dont-love-you.json"
   },  
   {
     "id": "yuju-first-love-is-a-curse",
@@ -161,7 +161,18 @@
     "artist": "YUJU (유주) (Feat. Sunyoul)",
     "lyricsFile": "../data/lyrics/yuju-cherish.json"
   },
-
+  {
+    "id": "_____",
+    "title": "_____",
+    "artist": "______",
+    "lyricsFile": "../data/lyrics/_______________.json"
+  },    
+  {
+    "id": "yuju-melting",
+    "title": "Melting (사랑인 걸까)",
+    "artist": "YUJU (유주) (Feat. DINDIN)",
+    "lyricsFile": "../data/lyrics/yuju-melting.json"
+  },    
   {
     "id": "yerin-awake",
     "title": "Awake",
